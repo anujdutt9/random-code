@@ -54,36 +54,17 @@ def parse_extra_flags(extra_flags):
 
 
 def create_deepspeed_config(num_gpus=2, fp16=False, zero_stage=1):
-    """Create a temporary DeepSpeed configuration file."""
+    """Create a temporary DeepSpeed configuration file optimized for inference."""
     config = {
         "train_batch_size": 1,
         "gradient_accumulation_steps": 1,
-        "optimizer": {
-            "type": "AdamW",
-            "params": {
-                "lr": 1e-4,
-                "betas": [0.9, 0.999],
-                "eps": 1e-8,
-                "weight_decay": 0.01
-            }
-        },
-        "scheduler": {
-            "type": "WarmupLR",
-            "params": {
-                "warmup_min_lr": 0,
-                "warmup_max_lr": 1e-4,
-                "warmup_num_steps": 100
-            }
-        },
         "zero_optimization": {
             "stage": zero_stage,
             "offload_optimizer": {
-                "device": "cpu",
-                "pin_memory": True
+                "device": "none"
             },
             "offload_param": {
-                "device": "cpu",
-                "pin_memory": True
+                "device": "none"
             },
             "allgather_partitions": True,
             "allgather_bucket_size": 2e8,
@@ -318,7 +299,7 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
     
     if enable_wandb:
         try:
-            # Build command first to include in config
+            # Build command first to include in config (without DeepSpeed config initially)
             cmd = build_experiment_command(model, task, eval_type, experiment_name, num_fewshot, 
                                          with_prefix, extra_flags, use_deepspeed, use_fp16, num_gpus)
 
@@ -346,11 +327,11 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
                 "output_dir": extra_flags_dict.get("output_dir", "unknown"),
             }
             wandb_run = init_wandb(wandb_project, experiment_name, experiment_config)
-            print(f"WandB run initialized: {wandb_run.name}")
+            print(f"WandB run initialized: {experiment_name}")
         except Exception as e:
             print(f"Warning: Failed to initialize WandB for {experiment_name}: {e}")
     else:
-        # Build command
+        # Build command (without DeepSpeed config initially)
         cmd = build_experiment_command(model, task, eval_type, experiment_name, num_fewshot, 
                                      with_prefix, extra_flags, use_deepspeed, use_fp16, num_gpus)
 
@@ -359,6 +340,11 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
         if use_deepspeed:
             deepspeed_config_path = create_deepspeed_config(num_gpus, use_fp16)
             print(f"Created DeepSpeed config: {deepspeed_config_path}")
+            
+            # Rebuild command with DeepSpeed config path
+            cmd = build_experiment_command(model, task, eval_type, experiment_name, num_fewshot, 
+                                         with_prefix, extra_flags, use_deepspeed, use_fp16, num_gpus, 
+                                         deepspeed_config_path)
 
         # Run experiment and capture output
         output_lines = capture_subprocess_output(cmd, wandb_run)
@@ -383,12 +369,12 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
 
 
 def build_experiment_command(model, task, eval_type, experiment_name, num_fewshot, with_prefix, extra_flags, 
-                           use_deepspeed, use_fp16, num_gpus):
+                           use_deepspeed, use_fp16, num_gpus, deepspeed_config_path=None):
     """Build the command for running the experiment."""
     if use_deepspeed:
         # Use DeepSpeed for multi-GPU inference
         cmd = [
-            "deepspeed", "--num_gpus", str(num_gpus), "eval_baseline.py",
+            "deepspeed", "--num_gpus", str(num_gpus), deepspeed_config_path, "eval_baseline.py",
             "--model", model,
             "--task", task,
             "--num_fewshot_prompt", str(num_fewshot),

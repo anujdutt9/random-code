@@ -44,6 +44,10 @@ if __name__ == "__main__":
     parser.add_argument("--max_new_tokens", type=int, default=768)
     parser.add_argument("--eval_type", type=str, default="greedy")
     parser.add_argument("--force_choice", default=True, action=BooleanOptionalAction)
+    
+    # DeepSpeed compatibility arguments
+    parser.add_argument("--local_rank", type=int, default=-1, help="Local rank for distributed training")
+    parser.add_argument("--fp16", action="store_true", help="Use FP16 precision")
 
     parser = prompt_construction_args(parser)
 
