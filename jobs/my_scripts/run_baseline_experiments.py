@@ -270,9 +270,9 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
         if extra_flags:
             cmd.extend(extra_flags.split())
 
-    # Add Accelerate support for model parallelism
+    # For Accelerate, just run the script normally - Accelerate handles the distribution
     if use_accelerate:
-        # Build the script arguments (without accelerate flags)
+        # Build the script arguments
         script_args = [
             "--model", model,
             "--task", task,
@@ -288,40 +288,12 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
         if extra_flags:
             script_args.extend(extra_flags.split())
 
-        # Build accelerate command with separate accelerate flags
-        cmd = ["accelerate", "launch"]
+        # Just run the script - Accelerate will handle the distribution
+        cmd = ["eval_baseline.py"] + script_args
         
-        # Add Accelerate configuration flags
-        if num_gpus > 1:
-            cmd.extend([
-                "--multi_gpu",
-                "--num_processes", str(num_gpus),
-                "--main_process_port", "0",  # Use dynamic port assignment
-            ])
-            
-            # Use FP32 if specified, otherwise use mixed precision
-            if use_fp32:
-                cmd.extend(["--mixed_precision", "no"])  # No mixed precision = FP32
-                print(f"Using FP32 precision with {num_gpus} GPUs for model parallelism")
-            else:
-                cmd.extend(["--mixed_precision", "bf16"])
-                print(f"Using BF16 precision with {num_gpus} GPUs for model parallelism")
-        else:
-            # Single GPU with Accelerate
-            if use_fp32:
-                cmd.extend(["--mixed_precision", "no"])
-            else:
-                cmd.extend(["--mixed_precision", "bf16"])
-        
-        # Add the script and its arguments
-        cmd.extend(["eval_baseline.py"] + script_args)
-        
-        # Set environment variables for Accelerate
-        env = os.environ.copy()
-        
-        print(f"Letting Accelerate handle GPU assignment automatically")
-        print(f"Using dynamic port assignment to avoid conflicts")
+        print(f"Using Accelerate for multi-GPU distribution")
         print(f"Working directory: {os.getcwd()}")
+        env = os.environ.copy()
     else:
         env = os.environ.copy()
 
