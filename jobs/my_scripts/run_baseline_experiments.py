@@ -272,6 +272,10 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
 
     # For Accelerate, just run the script normally - Accelerate handles the distribution
     if use_accelerate:
+        # Get the absolute path to eval_baseline.py
+        current_dir = os.getcwd()
+        eval_script_path = os.path.join(current_dir, "eval_baseline.py")
+        
         # Build the script arguments
         script_args = [
             "--model", model,
@@ -288,11 +292,12 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
         if extra_flags:
             script_args.extend(extra_flags.split())
 
-        # Just run the script - Accelerate will handle the distribution
-        cmd = ["eval_baseline.py"] + script_args
+        # Use absolute path to the script
+        cmd = [eval_script_path] + script_args
         
         print(f"Using Accelerate for multi-GPU distribution")
-        print(f"Working directory: {os.getcwd()}")
+        print(f"Script path: {eval_script_path}")
+        print(f"Working directory: {current_dir}")
         env = os.environ.copy()
     else:
         env = os.environ.copy()
