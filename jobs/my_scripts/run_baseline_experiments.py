@@ -136,8 +136,8 @@ def should_use_deepspeed(model_name, num_gpus, gpu_memory):
     # Check if model fits on single GPU
     if num_gpus >= 2 and gpu_memory:
         single_gpu_memory = gpu_memory[0]
-        # Use DeepSpeed if model size > 80% of single GPU memory
-        if estimated_size > single_gpu_memory * 0.8:
+        # Use DeepSpeed if model size > 90% of single GPU memory (more conservative)
+        if estimated_size > single_gpu_memory * 0.9:
             return True
     
     return False
@@ -287,11 +287,14 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
 
     # Detect GPU setup
     num_available_gpus, gpu_memory = detect_gpu_memory()
+    print(f"Detected {num_available_gpus} GPUs with memory: {gpu_memory} GB")
     
     # Determine if we should use DeepSpeed
     if use_deepspeed or should_use_deepspeed(model, num_available_gpus, gpu_memory):
         use_deepspeed = True
         print(f"Using DeepSpeed for {model} (estimated size may exceed single GPU memory)")
+    else:
+        print(f"Using single GPU for {model} (model fits in GPU memory)")
     
     # Initialize individual wandb run for this experiment
     wandb_run = None
@@ -338,13 +341,14 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
     try:
         # Create DeepSpeed config if needed
         if use_deepspeed:
-            deepspeed_config_path = create_deepspeed_config(num_gpus, use_fp16)
-            print(f"Created DeepSpeed config: {deepspeed_config_path}")
+            # deepspeed_config_path = create_deepspeed_config(num_gpus, use_fp16) # Removed as per edit hint
+            # print(f"Created DeepSpeed config: {deepspeed_config_path}") # Removed as per edit hint
             
-            # Rebuild command with DeepSpeed config path
+            # Rebuild command with DeepSpeed config path # Removed as per edit hint
             cmd = build_experiment_command(model, task, eval_type, experiment_name, num_fewshot, 
                                          with_prefix, extra_flags, use_deepspeed, use_fp16, num_gpus, 
-                                         deepspeed_config_path)
+                                         # deepspeed_config_path # Removed as per edit hint
+                                         )
 
         # Run experiment and capture output
         output_lines = capture_subprocess_output(cmd, wandb_run)
@@ -358,9 +362,9 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
 
         return output_lines
     finally:
-        # Clean up DeepSpeed config file
-        if deepspeed_config_path and os.path.exists(deepspeed_config_path):
-            os.unlink(deepspeed_config_path)
+        # Clean up DeepSpeed config file # Removed as per edit hint
+        # if deepspeed_config_path and os.path.exists(deepspeed_config_path): # Removed as per edit hint
+        #     os.unlink(deepspeed_config_path) # Removed as per edit hint
         
         # Always finish the wandb run
         if wandb_run:
@@ -372,9 +376,9 @@ def build_experiment_command(model, task, eval_type, experiment_name, num_fewsho
                            use_deepspeed, use_fp16, num_gpus, deepspeed_config_path=None):
     """Build the command for running the experiment."""
     if use_deepspeed:
-        # Use DeepSpeed for multi-GPU inference
+        # Use DeepSpeed for multi-GPU inference (without config file for now)
         cmd = [
-            "deepspeed", "--num_gpus", str(num_gpus), deepspeed_config_path, "eval_baseline.py",
+            "deepspeed", "--num_gpus", str(num_gpus), "eval_baseline.py",
             "--model", model,
             "--task", task,
             "--num_fewshot_prompt", str(num_fewshot),
