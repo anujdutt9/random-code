@@ -1,0 +1,14 @@
+{
+  "query": "John takes 3 days off of streaming per week.  On the days he does stream, he streams for 4 hours at a time and makes $10 an hour.  How much does he make a week?",
+  "steps": [
+    "John takes 3 days off per week.",
+    "There are 7 days in a week.",
+    "Therefore, John streams on 7 - 3 = 4 days per week.",
+    "On each streaming day, John streams for 4 hours.",
+    "He makes $10 per hour.",
+    "Therefore, he makes $10 * 4 = $40 per streaming day.",
+    "Since he streams 4 days per week, his total weekly earnings are 4 * $40.",
+    "Calculating 4 * $40 gives 160."
+  ],
+  "solution": "160"
+}

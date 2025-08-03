@@ -1,0 +1,16 @@
+{
+  "query": "Nicole has three older sisters. After each one outgrows their clothes, they give them to Nicole. They have all outgrown their clothes and have given them all to Nicole. Nicole started with 10 pieces of clothing. Her first older sister had half as many clothes as Nicole. The next oldest sister had 2 more pieces of clothing than Nicole. The oldest had the average of what her three younger sisters had. How many pieces of clothing does Nicole end up with?",
+  "steps": [
+    "Nicole initially has 10 pieces of clothing.",
+    "Nicole's first older sister had half as many clothes as Nicole. Half of 10 is 5. So, she had 5 pieces of clothing.",
+    "The next oldest sister had 2 more pieces of clothing than Nicole. Therefore, she had 10 + 2 = 12 pieces of clothing.",
+    "We now need to find out how many pieces of clothing the oldest sister had. She had the average number of pieces of clothing of Nicole and her two other sisters.",
+    "Currently, we know the pieces of clothing for Nicole (10), the first older sister (5), and the next oldest sister (12).",
+    "To find the average, we sum up these pieces of clothing: 10 + 5 + 12 = 27.",
+    "There are 3 younger sisters in total, including Nicole. Therefore, the average is 27 / 3 = 9.",
+    "Thus, the oldest sister had 9 pieces of clothing.",
+    "Nicole ends up with all the clothing from her sisters. We need to add up Nicole\u2019s original clothing with what her sisters gave her: 10 (Nicole's original) + 5 (first older sister) + 12 (next oldest sister) + 9 (oldest sister).",
+    "Calculating the total: 10 + 5 + 12 + 9 = 36."
+  ],
+  "solution": "36"
+}

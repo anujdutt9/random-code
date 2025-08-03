@@ -1,0 +1,13 @@
+{
+  "query": "Andy walks 50 meters from his house to school. After school, he comes back to the house and goes to the market. If he walks 140 meters in total, how many meters is the distance between the house and the market?",
+  "steps": [
+    "First, I need to determine the distance Andy covers walking from his house to school and back again.",
+    "The walk from the house to school is 50 meters.",
+    "Since Andy walks back from school to the house, he covers another 50 meters.",
+    "The total distance for the round trip to school is 50 meters (to school) + 50 meters (back home), which equals 100 meters.",
+    "Andy walks a total of 140 meters in the entire journey, which includes the round trip to school and the walk to the market.",
+    "To find the distance from the house to the market, I subtract the round trip distance from the total distance walked.",
+    "140 meters (total distance) - 100 meters (round trip) = 40 meters."
+  ],
+  "solution": "40"
+}

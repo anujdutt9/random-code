@@ -1,0 +1,21 @@
+{
+  "query": "Bobby buys two packets of candy. He eats two candies every day from Monday through Friday and takes one each during the remaining days of the week. If it takes him 3 such weeks to finish the 2 packets, how many candies are in a packet?",
+  "steps": [
+    "Bobby eats candies every day, but the amount varies depending on the day of the week.",
+    "From Monday to Friday, Bobby eats 2 candies per day.",
+    "There are 5 days from Monday to Friday.",
+    "Bobby eats 2 candies per day \u00d7 5 days = 10 candies from Monday to Friday.",
+    "On Saturday and Sunday, Bobby eats 1 candy per day.",
+    "There are 2 days on the weekend.",
+    "Bobby eats 1 candy per day \u00d7 2 days = 2 candies on the weekend.",
+    "In total, each week Bobby eats 10 candies from Monday to Friday + 2 candies on the weekend.",
+    "So, Bobby eats 10 + 2 = 12 candies in one week.",
+    "Bobby continues this pattern for 3 weeks.",
+    "In 3 weeks, Bobby eats 12 candies per week \u00d7 3 weeks.",
+    "That's 12 \u00d7 3 = 36 candies over 3 weeks.",
+    "Bobby finishes 2 packets in 3 weeks, so the 36 candies come from 2 packets.",
+    "To find the number of candies in one packet, divide the total number of candies by the number of packets.",
+    "36 candies \u00f7 2 packets = 18 candies per packet."
+  ],
+  "solution": "18"
+}

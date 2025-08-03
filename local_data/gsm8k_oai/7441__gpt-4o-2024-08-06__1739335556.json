@@ -1,0 +1,14 @@
+{
+  "query": "Randy drew 5 pictures. Peter drew 3 more pictures than Randy. Quincy drew 20 more pictures than Peter. How many pictures did they draw altogether?",
+  "steps": [
+    "Randy drew 5 pictures.",
+    "Peter drew 3 more pictures than Randy.",
+    "Since Randy drew 5 pictures, Peter drew 5 + 3 = 8 pictures.",
+    "Quincy drew 20 more pictures than Peter.",
+    "Since Peter drew 8 pictures, Quincy drew 8 + 20 = 28 pictures.",
+    "Now, I need to find the total number of pictures drawn by Randy, Peter, and Quincy.",
+    "Add Randy's pictures (5) to Peter's pictures (8): 5 + 8 = 13.",
+    "Now add Quincy's pictures (28) to the previous total (13): 13 + 28 = 41."
+  ],
+  "solution": "41"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Question: Where is the closest dining table not in your home?\n\nChoices:\nA: conference\nB: livingroom\nC: neighbor's house\nD: white house\nE: card room",
+  "steps": [
+    "Identify what is meant by \"closest dining table not in your home.\" This means considering locations outside of the personal residence.",
+    "Examine the options provided in the context of a dining table and proximity to my home.",
+    "Option A (conference) typically refers to a room used for meetings, which may have tables but are not specifically dining tables.",
+    "Option B (livingroom) is a room usually found in a home; thus, it does not meet the requirement of being outside one\u2019s home.",
+    "Option C (neighbor's house) suggests a nearby home, which is likely to have a dining table if they have a dining area.",
+    "Option D (white house) could imply the official residence of the President of the United States, which may be located far away, depending on the person\u2019s home.",
+    "Option E (card room) generally refers to a recreational room meant for playing cards and is not typically associated with dining.",
+    "Evaluate the proximity of these locations in relation to a typical home. A neighbor's house is likely to be the closest among them.",
+    "Since all other options either relate to spaces in homes or different functions, the only option that likely has a dining table and is close is the neighbor's house.",
+    "Confirm that the neighbor's house fits both conditions: it is not within my home, and it is assumed to be physically close enough to consider it \"closest.\""
+  ],
+  "solution": "C"
+}

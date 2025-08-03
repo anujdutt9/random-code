@@ -1,0 +1,14 @@
+{
+  "query": "Tom can type 90 words a minute.  A page is 450 words.  How long would it take him to type out 10 pages?",
+  "steps": [
+    "First, I need to determine how many words are in 10 pages. A single page is 450 words.",
+    "To find the total number of words in 10 pages, I multiply 450 words by 10.",
+    "450 words/page * 10 pages = 4500 words.",
+    "Now I know there are 4500 words in 10 pages.",
+    "Next, I need to determine how long it takes Tom to type 4500 words, knowing he types 90 words per minute.",
+    "To find the time it takes, I divide the total number of words (4500) by his typing speed (90 words per minute).",
+    "4500 words \u00f7 90 words/minute = 50 minutes.",
+    "So, it will take Tom 50 minutes to type out 10 pages."
+  ],
+  "solution": "50"
+}

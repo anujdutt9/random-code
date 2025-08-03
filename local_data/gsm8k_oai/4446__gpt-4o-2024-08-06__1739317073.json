@@ -1,0 +1,17 @@
+{
+  "query": "Hans reserved a table at a fine dining restaurant for twelve people. He has to pay a deposit for the reservation, and the deposit is a flat $20 plus an extra $3 per adult but only $1 per child. Two of the people in Hans\u2019s party are his kid cousins, and the rest are adults. How many dollars does Hans have to pay as a deposit for the restaurant reservation?",
+  "steps": [
+    "Hans has reserved a table for twelve people in total.",
+    "Out of these twelve people, two are children (his kid cousins).",
+    "Therefore, the number of adults in the party is 12 total people minus 2 children, which equals 10 adults.",
+    "The deposit consists of a flat $20 base payment.",
+    "There is an additional charge of $3 per adult.",
+    "Since there are 10 adults, the total additional charge for the adults is 10 adults multiplied by $3 per adult, which equals $30.",
+    "There is also an additional charge of $1 per child.",
+    "Since there are 2 children, the total additional charge for the children is 2 children multiplied by $1 per child, which equals $2.",
+    "Now, to find the total deposit, we add the flat base payment, the additional charge for adults, and the additional charge for children.",
+    "The total deposit is: $20 (base) + $30 (adults) + $2 (children).",
+    "Adding these amounts gives: $20 + $30 + $2 = $52."
+  ],
+  "solution": "52"
+}

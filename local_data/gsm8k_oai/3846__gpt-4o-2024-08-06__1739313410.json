@@ -1,0 +1,16 @@
+{
+  "query": "Jenny lives 5000 feet from her school, and every day she walks home.  One day as she was walking home from school, she dropped 1 kernel of popcorn per 25 feet she walked.  Later that evening, a squirrel came and ate one-quarter of the popcorn Jenny had dropped on her way home.  If Jenny walks to school the following morning and counts the popcorn on the ground, what is the total number of popcorn kernels she will find remaining on the ground?",
+  "steps": [
+    "Jenny walks a total distance of 5000 feet from her school to her home.",
+    "She drops 1 kernel of popcorn every 25 feet she walks.",
+    "To find out how many popcorn kernels Jenny dropped, I need to divide the total distance by the distance between each dropped kernel.",
+    "5000 feet divided by 25 feet per kernel equals 200 kernels.",
+    "The squirrel eats one-quarter of the popcorn kernels Jenny dropped.",
+    "To find out how many kernels the squirrel eats, I need to calculate one-quarter of 200 kernels.",
+    "One-quarter of 200 kernels is 200 divided by 4, which equals 50 kernels.",
+    "To find out how many kernels are remaining, I need to subtract the number of kernels the squirrel eats from the total number of kernels Jenny dropped.",
+    "200 kernels minus 50 kernels equals 150 kernels.",
+    "Thus, Jenny will find 150 popcorn kernels remaining on the ground when she walks to school the following morning."
+  ],
+  "solution": "150"
+}

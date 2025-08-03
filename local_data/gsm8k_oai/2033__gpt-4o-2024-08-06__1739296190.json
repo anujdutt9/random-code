@@ -1,0 +1,13 @@
+{
+  "query": "In a town, there is a multi-story parking lot, which has room for 425 cars. The parking lot has 5 levels, each of the same size. How many more cars can one level fit if there are already 23 parked cars on that level?",
+  "steps": [
+    "The parking lot can hold a total of 425 cars.",
+    "There are 5 levels, and each level is the same size.",
+    "To find out how many cars can fit on one level, I need to divide the total number of cars by the number of levels.",
+    "425 cars divided by 5 levels equals 85 cars per level.",
+    "I want to know how many more cars one level can fit, given there are already 23 cars parked on that level.",
+    "I need to subtract the number of parked cars (23) from the capacity of one level (85).",
+    "85 cars per level minus 23 cars already parked equals 62 additional cars that can be parked on that level."
+  ],
+  "solution": "62"
+}

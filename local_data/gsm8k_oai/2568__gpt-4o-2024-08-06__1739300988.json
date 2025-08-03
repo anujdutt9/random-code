@@ -1,0 +1,12 @@
+{
+  "query": "A local farm is famous for having lots of double yolks in their eggs. One carton of 12 eggs had five eggs with double yolks. How many yolks were in the whole carton?",
+  "steps": [
+    "First, I need to determine how many double-yolk eggs are in the carton. There are 5 eggs with double yolks.",
+    "Each double-yolk egg has 2 yolks. Therefore, I will multiply the number of double-yolk eggs by 2.",
+    "5 eggs with double yolks multiplied by 2 yolks per egg equals 10 yolks. So, these 5 eggs contribute 10 yolks.",
+    "Next, I need to determine how many single-yolk eggs are in the carton. Since there are 12 eggs total and 5 of them are double-yolk eggs, I subtract: 12 - 5 = 7 single-yolk eggs.",
+    "Each single-yolk egg has 1 yolk. So, the 7 single-yolk eggs contribute 7 yolks.",
+    "Now, I need to find the total number of yolks in the carton. I add the yolks from the double-yolk eggs and the single-yolk eggs: 10 yolks + 7 yolks = 17 yolks."
+  ],
+  "solution": "17"
+}

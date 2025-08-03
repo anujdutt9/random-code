@@ -1,0 +1,26 @@
+{
+  "query": "Village Foods sells good food at a fair price.  Their specialty is fresh vegetables.  If they get 500 customers per month, and each customer purchases 2 heads of lettuce for $1 each and 4 tomatoes for $0.5 apiece, then how much money, in dollars, will the store receive in sales of lettuce and tomatoes per month?",
+  "steps": [
+    "First, I need to find out the total number of heads of lettuce sold per month.",
+    "Each customer buys 2 heads of lettuce.",
+    "There are 500 customers per month.",
+    "So, the total heads of lettuce sold is 500 customers * 2 heads of lettuce per customer.",
+    "This equals 1000 heads of lettuce sold per month.",
+    "Next, I need to calculate the revenue from the lettuce sales.",
+    "Each head of lettuce is sold for $1.",
+    "So, the total revenue from lettuce is 1000 heads * $1 per head.",
+    "This equals $1000 from lettuce sales.",
+    "Now, I need to find out the total number of tomatoes sold per month.",
+    "Each customer buys 4 tomatoes.",
+    "So, the total tomatoes sold is 500 customers * 4 tomatoes per customer.",
+    "This equals 2000 tomatoes sold per month.",
+    "Next, I need to calculate the revenue from the tomato sales.",
+    "Each tomato is sold for $0.5.",
+    "So, the total revenue from tomatoes is 2000 tomatoes * $0.5 per tomato.",
+    "This equals $1000 from tomato sales.",
+    "Now, I need to find the total revenue from both lettuce and tomatoes.",
+    "The total revenue is $1000 from lettuce + $1000 from tomatoes.",
+    "This equals $2000."
+  ],
+  "solution": "2000"
+}

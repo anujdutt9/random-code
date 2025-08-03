@@ -1,0 +1,12 @@
+{
+  "query": "At the end of the first quarter, the winning team had double the points of the losing team. At the end of the second quarter, the winning team had 10 more points than it started with. At the end of the third quarter, the winning team had 20 more points than the number it had in the second quarter. If the total points the winning team scored in the game was 80, and the losing team had 10 points in the first quarter, calculate the total number of points the team scored in the fourth quarter.",
+  "steps": [
+    "First, let's determine how many points the losing team scored in the first quarter. We know they scored 10 points.",
+    "The winning team had double the points of the losing team at the end of the first quarter. Since the losing team scored 10 points, the winning team scored 2 * 10 = 20 points.",
+    "At the end of the second quarter, the winning team had 10 more points from their first quarter score. They started with 20 points and added 10, which puts them at 30 points by the end of the second quarter.",
+    "During the third quarter, the winning team added 20 points to their second quarter total. So, from 30 points, they moved up to 30 + 20 = 50 points by the end of the third quarter.",
+    "The problem states that the total points the winning team scored in the game were 80. Therefore, they scored 80 points in total after the fourth quarter.",
+    "To find how many points they scored in the fourth quarter, subtract the points they had at the end of the third quarter from their total points. 80 - 50 = 30 points."
+  ],
+  "solution": "30"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Question: The sample needed to be pure, but the lab assistant got it what?\n\nChoices:\nA: corrupt\nB: applied\nC: dirty\nD: contaminated\nE: fresh",
+  "steps": [
+    "The question indicates that a sample needed to be pure, implying that any deviation from purity would be undesirable.",
+    "The choices provided include various terms that could apply to the concept of purity.",
+    "\"Corrupt\" (A) generally refers to moral degradation or loss of integrity, which doesn't directly apply to the context of a sample.",
+    "\"Applied\" (B) does not relate to the state of purity and instead suggests some action or usage, making it an unlikely choice.",
+    "\"Dirty\" (C) implies contamination but is a more informal term, while \"contaminated\" (D) is a more precise technical term associated with purity and uncleanliness.",
+    "\"Fresh\" (E) suggests a new state but does not imply anything about purity, making it an irrelevant choice.",
+    "Between \"dirty\" and \"contaminated,\" the latter is more appropriate for a scientific context where purity is affected, suggesting a specific problem rather than a general state.",
+    "However, \"dirty\" could colloquially refer to an impure sample too, and after considering the context again, both dirty and contaminated share a similar meaning concerning purity.",
+    "Ultimately, both \"dirty\" and \"contaminated\" could fit, but in a scientific context, \"contaminated\" might be more fitting when describing what an impure sample is.",
+    "Considering these evaluations, \"contaminated\" seems the most precise despite \"dirty\" also being a valid choice."
+  ],
+  "solution": "D"
+}

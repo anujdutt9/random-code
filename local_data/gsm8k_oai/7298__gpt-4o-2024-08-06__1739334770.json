@@ -1,0 +1,17 @@
+{
+  "query": "The tank of John's car is full: it contains 47 liters of gasoline. After a journey of 275 km, there are 14 liters left. What is the fuel consumption of this car per 100 km?",
+  "steps": [
+    "First, I want to find out how much fuel was used during the journey.",
+    "The full tank was 47 liters, and there are 14 liters left. So, the fuel used is 47 - 14 = 33 liters.",
+    "Next, I need to determine the fuel consumption per 100 km based on the distance traveled.",
+    "The car traveled 275 km using 33 liters of fuel.",
+    "To find out how much fuel is used per 100 km, I need to set up a proportion: 33 liters for 275 km is equivalent to x liters for 100 km.",
+    "I set up the equation: (33 liters / 275 km) = (x liters / 100 km).",
+    "Using cross multiplication to solve for x, I get: x = (33 * 100) / 275.",
+    "Perform the multiplication: 33 * 100 = 3300.",
+    "Now, divide 3300 by 275 to find x.",
+    "3300 / 275 = 12.",
+    "Therefore, the fuel consumption of John's car is 12 liters per 100 km."
+  ],
+  "solution": "12"
+}

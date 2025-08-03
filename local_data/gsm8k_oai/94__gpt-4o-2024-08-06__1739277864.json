@@ -1,0 +1,14 @@
+{
+  "query": "John writes 20 pages a day.  How long will it take him to write 3 books that are 400 pages each?",
+  "steps": [
+    "John writes 20 pages a day.",
+    "Every book is 400 pages long.",
+    "John needs to write 3 books.",
+    "The total number of pages John needs to write for 3 books is 3 times 400.",
+    "Calculating that gives us 3 * 400 = 1200 pages.",
+    "John writes 20 pages a day, so we need to determine how many days it will take him to write 1200 pages.",
+    "To calculate the number of days, divide 1200 pages by 20 pages per day.",
+    "1200 divided by 20 equals 60."
+  ],
+  "solution": "60"
+}

@@ -1,0 +1,21 @@
+{
+  "query": "A local school is holding a food drive.  Mark brings in 4 times as many cans as Jaydon.  Jaydon brings in 5 more than twice the amount of cans that Rachel brought in.  If there are 135 cans total, how many cans did Mark bring in?",
+  "steps": [
+    "Let's define variables to represent the number of cans each person brought in. Let R be the number of cans Rachel brought in.",
+    "Jaydon brings in 5 more than twice the amount of cans that Rachel brought in. So, Jaydon's cans can be represented as J = 2R + 5.",
+    "Mark brings in 4 times as many cans as Jaydon. Therefore, Mark's cans can be represented as M = 4J.",
+    "The total number of cans is 135. This means the sum of cans brought by Rachel, Jaydon, and Mark is 135: R + J + M = 135.",
+    "Substitute J = 2R + 5 into the total equation: R + (2R + 5) + M = 135.",
+    "Rearrange the equation: 3R + 5 + M = 135.",
+    "Substitute M = 4J = 4(2R + 5) into the equation: 3R + 5 + 4(2R + 5) = 135.",
+    "Simplify the equation: 3R + 5 + 8R + 20 = 135.",
+    "Combine like terms: 11R + 25 = 135.",
+    "Subtract 25 from both sides: 11R = 110.",
+    "Divide both sides by 11: R = 10.",
+    "Now, we need to find Jaydon's cans: J = 2R + 5 = 2(10) + 5.",
+    "Calculate Jaydon's cans: J = 20 + 5 = 25.",
+    "Now we find Mark's cans: M = 4J = 4(25).",
+    "Calculate Mark's cans: M = 100."
+  ],
+  "solution": "100"
+}

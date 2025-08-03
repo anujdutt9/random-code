@@ -1,0 +1,14 @@
+{
+  "query": "Maia is a freelance blogger working for different clients for whom she writes different articles every day. She gets 6 client requests every day and works on four of them each day. How many client requests will she have remaining to work on after 5 days.",
+  "steps": [
+    "Maia receives 6 client requests every day.",
+    "She works on 4 requests each day.",
+    "This means she does not work on 2 requests each day (since 6 - 4 = 2).",
+    "We need to find out how many requests she has left after 5 days.",
+    "In 5 days, she receives 6 requests each day. So, 5 days * 6 requests/day = 30 requests.",
+    "In 5 days, she works on 4 requests each day. So, 5 days * 4 requests/day = 20 requests.",
+    "The number of requests left after 5 days would be the total received minus the total worked on.",
+    "Therefore, the remaining requests are: 30 requests - 20 requests = 10 requests."
+  ],
+  "solution": "10"
+}

@@ -1,0 +1,24 @@
+{
+  "query": "Adam bought 15 apples on Monday. On Tuesday he bought 3 times that quantity. On Wednesday he bought 4 times the quantity he bought on Tuesday. What is the total quantity Adam bought on these three days?",
+  "steps": [
+    "First, I determine how many apples Adam bought on Tuesday.",
+    "He bought 3 times the quantity he bought on Monday.",
+    "On Monday, Adam bought 15 apples.",
+    "Thus, on Tuesday he bought 3 times 15 apples.",
+    "3 times 15 equals 45.",
+    "So, Adam bought 45 apples on Tuesday.",
+    "Next, I determine how many apples Adam bought on Wednesday.",
+    "He bought 4 times the quantity he bought on Tuesday.",
+    "On Tuesday, Adam bought 45 apples.",
+    "Thus, on Wednesday he bought 4 times 45 apples.",
+    "4 times 45 equals 180.",
+    "So, Adam bought 180 apples on Wednesday.",
+    "Now I add up the total quantity of apples bought over the three days.",
+    "On Monday, he bought 15 apples, on Tuesday 45 apples, and on Wednesday 180 apples.",
+    "I add 15, 45, and 180 together.",
+    "15 plus 45 equals 60.",
+    "60 plus 180 equals 240.",
+    "So, Adam bought a total of 240 apples over the three days."
+  ],
+  "solution": "240"
+}

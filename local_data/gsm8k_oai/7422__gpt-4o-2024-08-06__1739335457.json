@@ -1,0 +1,17 @@
+{
+  "query": "Mark is filling a punch bowl that can hold 16 gallons of punch. He fills it part way, then his cousin comes along and drinks half the punch in the bowl. Mark starts to refill the bowl and adds 4 more gallons, but then his friend Sally comes in and drinks 2 more gallons of punch. After that, Mark has to add 12 gallons of punch to completely fill the bowl. How much punch did Mark initially add to the bowl?",
+  "steps": [
+    "The punch bowl can hold a total of 16 gallons when full.",
+    "Let x be the amount of punch Mark initially adds to the bowl.",
+    "After Mark fills the bowl with x gallons, his cousin drinks half of it. So the amount of punch left is x/2 gallons.",
+    "Mark then adds 4 more gallons to the bowl. Therefore, the total amount of punch is now x/2 + 4 gallons.",
+    "Sally then drinks 2 gallons of punch, reducing the quantity to x/2 + 4 - 2.",
+    "So the amount of punch left after Sally drinks is x/2 + 2 gallons.",
+    "Mark adds 12 more gallons to fill the bowl completely, meaning the punch must now total 16 gallons.",
+    "Therefore, the equation becomes x/2 + 2 + 12 = 16.",
+    "Simplifying, x/2 + 14 = 16.",
+    "Subtract 14 from both sides, we get x/2 = 2.",
+    "Multiply both sides by 2 to find x. Therefore, x = 4."
+  ],
+  "solution": "4"
+}

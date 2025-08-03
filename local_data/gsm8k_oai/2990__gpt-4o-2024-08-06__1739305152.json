@@ -1,0 +1,17 @@
+{
+  "query": "A dragon hoards jewels and gold in its cave. A jealous king snuck in and stole three prize jewels. The dragon burned him to a crisp and stole back its jewels, along with twice as many of the king\u2019s crown jewels from his crown that melted in the dragon\u2019s fire. The new jewels were a third of the number of jewels the dragon had owned before. How many jewels did the dragon own in the end?",
+  "steps": [
+    "Let's denote the original number of jewels the dragon had as \\( x \\).",
+    "The king stole 3 jewels from the dragon.",
+    "Therefore, the dragon was left with \\( x - 3 \\) jewels.",
+    "The dragon got back its 3 jewels, so it had \\( x - 3 + 3 = x \\) jewels again.",
+    "The dragon took twice as many crown jewels as the 3 jewels it lost, which means it took \\( 2 \\times 3 = 6 \\) crown jewels.",
+    "Now, the dragon has its \\( x \\) original jewels plus 6 crown jewels, totaling to \\( x + 6 \\) jewels.",
+    "It is said that the 6 new jewels (the crown jewels) are a third of the number of jewels the dragon had owned before.",
+    "This means \\( \\frac{x}{3} = 6 \\).",
+    "Now, solving for \\( x \\), we multiply both sides by 3 to find \\( x \\).",
+    "Thus, \\( x = 18 \\).",
+    "The total jewels the dragon has now are \\( x + 6 = 18 + 6 = 24 \\)."
+  ],
+  "solution": "24"
+}

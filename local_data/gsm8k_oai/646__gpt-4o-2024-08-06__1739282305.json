@@ -1,0 +1,20 @@
+{
+  "query": "A bus has a capacity of 200 people. If it carried 3/4 of its capacity on its first trip from city A to city B and 4/5 of its capacity on its return trip, calculate the total number of people the bus carried on the two trips?",
+  "steps": [
+    "First, I need to calculate how many people the bus carried on its first trip.",
+    "The bus has a capacity of 200 people.",
+    "On the first trip, it carried 3/4 of its capacity.",
+    "To find out how many people 3/4 of the bus capacity is, I multiply 200 by 3/4.",
+    "200 * (3/4) = 150",
+    "So, the bus carried 150 people on its first trip.",
+    "Next, I need to calculate how many people the bus carried on its return trip.",
+    "On the return trip, it carried 4/5 of its capacity.",
+    "To find out how many people 4/5 of the bus capacity is, I multiply 200 by 4/5.",
+    "200 * (4/5) = 160",
+    "So, the bus carried 160 people on its return trip.",
+    "Now, I need to calculate the total number of people the bus carried on both trips.",
+    "I add the number of people carried on the first trip to the number carried on the return trip.",
+    "150 (first trip) + 160 (return trip) = 310"
+  ],
+  "solution": "310"
+}

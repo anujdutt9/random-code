@@ -1,0 +1,17 @@
+{
+  "query": "Mike is shopping at the mall. He needs to buy a shirt, a new wallet, and some food for the evening. The shirt costs a third of the value of the wallet. The wallet is $60 more than the cost of the food, on which Mike spent $30. How much did Mike spend that day on the shopping?",
+  "steps": [
+    "First, I know that Mike spends $30 on food.",
+    "The wallet is $60 more than the cost of the food.",
+    "Since the food costs $30, the wallet costs $30 + $60.",
+    "That means the wallet costs $90.",
+    "The shirt costs a third of the value of the wallet.",
+    "The value of the wallet is $90, so the shirt costs $90 / 3.",
+    "This means the shirt costs $30.",
+    "Now I need to find the total cost for all items Mike bought.",
+    "I add the cost of the shirt ($30), the wallet ($90), and the food ($30).",
+    "Calculating this gives me $30 + $90 + $30.",
+    "The total amount Mike spent that day is $150."
+  ],
+  "solution": "150"
+}

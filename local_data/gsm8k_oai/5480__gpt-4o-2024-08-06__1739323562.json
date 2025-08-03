@@ -1,0 +1,17 @@
+{
+  "query": "Helga works for a newspaper company. She can write 5 articles every 30 minutes, and she usually works 4 hours a day 5 days a week. If Helga worked an extra 2 hours last Thursday, and an extra 3 hours last Friday, how many articles was she able to write this week?",
+  "steps": [
+    "First, I need to determine how many minutes Helga works in a regular 4-hour day.",
+    "There are 60 minutes in an hour, so Helga works 4 hours * 60 minutes/hour = 240 minutes per regular day.",
+    "I know that Helga can write 5 articles every 30 minutes.",
+    "To find out how many articles Helga writes in one minute, I can divide the number of articles by the number of minutes: 5 articles / 30 minutes = 1 article / 6 minutes.",
+    "Now, I can find out how many articles she writes in a regular 4-hour workday by multiplying the number of articles she writes per minute by the number of minutes she works in a day: (1/6 articles/minute) * 240 minutes = 40 articles.",
+    "Helga works 5 regular days a week, so she normally writes 40 articles/day * 5 days = 200 articles per week.",
+    "Last Thursday, Helga worked an extra 2 hours. Since there are 60 minutes in an hour, she worked an additional 2 hours * 60 minutes/hour = 120 extra minutes on Thursday.",
+    "Using the rate previously calculated, she writes 1 article / 6 minutes, so in 120 extra minutes she writes (1/6) * 120 = 20 extra articles on Thursday.",
+    "Last Friday, Helga worked an extra 3 hours, which is 3 hours * 60 minutes/hour = 180 extra minutes.",
+    "Using the same rate, she writes (1/6) * 180 = 30 extra articles on Friday.",
+    "To find the total number of articles she writes in this week, I'll add the extra articles from Thursday and Friday to her usual weekly total: 200 (regular week) + 20 (extra Thursday) + 30 (extra Friday) = 250 articles."
+  ],
+  "solution": "250"
+}

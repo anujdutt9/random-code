@@ -1,0 +1,16 @@
+{
+  "query": "John needs to take 2 pills a day.  One pill costs $1.5.  The insurance covers 40% of the cost.  How much does he pay in a 30-day month?",
+  "steps": [
+    "John needs to take 2 pills a day.",
+    "Each pill costs $1.5.",
+    "Therefore, the cost of 2 pills per day is: 2 pills * $1.5/pill = $3.00 per day.",
+    "The insurance covers 40% of the cost.",
+    "If the insurance covers 40%, then John pays 60% of the cost himself.",
+    "The portion John pays per day is 60% of $3.00. Let's calculate 60% of $3.00.",
+    "60% of $3.00 is calculated as (60/100) * $3.00 = $1.80.",
+    "Next, we need to calculate how much John pays in a 30-day month.",
+    "If John pays $1.80 each day and there are 30 days, then the total amount he pays in a month is $1.80 * 30.",
+    "Calculating the total amount: $1.80 * 30 = $54.00."
+  ],
+  "solution": "54"
+}

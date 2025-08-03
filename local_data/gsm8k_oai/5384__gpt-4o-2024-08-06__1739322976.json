@@ -1,0 +1,13 @@
+{
+  "query": "An apple tree produced 200 apples in a particular season. The tree made 20% fewer fruits the following season, but the tree fruits production in the second season doubled during the third season. Calculate the total number of fruits the apple tree grew in the three seasons.",
+  "steps": [
+    "The first season's production is given as 200 apples.",
+    "The tree produced 20% fewer apples in the second season. To find out the number of apples produced in the second season, I need to find out what 20% of 200 is.",
+    "20% of 200 is calculated as 0.20 * 200 = 40 apples.",
+    "To find the number of apples in the second season, I subtract the decrease from the first season's production: 200 - 40 = 160 apples.",
+    "In the third season, the production doubled compared to the second season. Therefore, the third season's production is 2 * 160 = 320 apples.",
+    "Now I need to calculate the total number of apples produced over the three seasons by adding the apples produced in each season: 200 (first season) + 160 (second season) + 320 (third season).",
+    "The total production over the three seasons is 200 + 160 + 320 = 680 apples."
+  ],
+  "solution": "680"
+}

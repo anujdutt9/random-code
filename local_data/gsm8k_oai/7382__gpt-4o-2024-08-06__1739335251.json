@@ -1,0 +1,15 @@
+{
+  "query": "Tommy is making steaks for his family. There are 5 of them in total. If each member wants one pound and the steaks are 20 ounces each, how many does he need to buy?",
+  "steps": [
+    "First, I need to determine the total amount of steak required. There are 5 family members.",
+    "Each member wants one pound of steak. Therefore, I multiply 5 by 1 pound to find the total pounds needed: 5 pounds.",
+    "Next, I need to convert the steak weight into the same unit. The steaks are measured in ounces.",
+    "Since 1 pound is equal to 16 ounces, 5 pounds of steak is equal to 5 multiplied by 16 ounces per pound.",
+    "Calculate 5 pounds in ounces: 5 * 16 = 80 ounces total.",
+    "Each steak is 20 ounces. Now I need to determine how many 20-ounce steaks make up at least 80 ounces.",
+    "I divide the total required ounces by the weight of one steak: 80 ounces / 20 ounces per steak.",
+    "Calculate 80 / 20 = 4. This means 4 steaks are needed.",
+    "Since 4 steaks provide exactly 80 ounces, which is exactly what is needed, Tommy does not need to buy any additional steaks."
+  ],
+  "solution": "4"
+}

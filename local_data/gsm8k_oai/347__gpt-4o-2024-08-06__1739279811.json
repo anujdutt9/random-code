@@ -1,0 +1,19 @@
+{
+  "query": "Jeremy listened to five fewer songs yesterday than today. Yesterday, he listened to nine songs. How many songs did Jeremy listen to in two days?",
+  "steps": [
+    "I need to find out how many songs Jeremy listened to today.",
+    "Jeremy listened to five fewer songs yesterday than today.",
+    "Yesterday, he listened to nine songs.",
+    "Let's let \"x\" be the number of songs Jeremy listened to today.",
+    "Jeremy listened to nine songs yesterday, which is five fewer than today. So, 9 = x - 5.",
+    "To find \"x\", I need to solve the equation 9 = x - 5.",
+    "Adding 5 to both sides of the equation gives me 9 + 5 = x.",
+    "Doing the arithmetic, 9 + 5 equals 14.",
+    "Thus, x = 14, which means Jeremy listened to 14 songs today.",
+    "Now, I need to find out the total number of songs Jeremy listened to in two days.",
+    "Yesterday, he listened to 9 songs, and today he listened to 14 songs.",
+    "Adding these together gives me 9 + 14.",
+    "Calculating that, 9 + 14 equals 23."
+  ],
+  "solution": "23"
+}

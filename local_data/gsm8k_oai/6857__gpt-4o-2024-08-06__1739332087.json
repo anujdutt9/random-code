@@ -1,0 +1,16 @@
+{
+  "query": "Archer caught eight fish from the lake to sell in the market. When he reached the market, he sold the fish faster than he had anticipated and decided to go back to the lake and catch more fish. He caught 12 more fish in the second round than he had caught earlier. The demand was even greater, and he had to close the day by catching 60% more fish than the number he had caught in the second round and sold all of them in the market. How many fish did he catch that day?",
+  "steps": [
+    "Archer initially caught 8 fish from the lake.",
+    "He decided to catch more fish, and he caught 12 more fish in the second round than he had caught earlier. So, the number of fish he caught in the second round is 8 + 12.",
+    "8 + 12 = 20 fish caught in the second round.",
+    "He had to close the day by catching 60% more fish than the number he caught in the second round.",
+    "To find 60% of fish caught in the second round, we calculate 60% of 20.",
+    "60% of 20 = 0.6 * 20 = 12.",
+    "The number of fish caught in the final round is 20 + 12.",
+    "20 + 12 = 32 fish caught in the final round.",
+    "Now, add the number of fish caught in all rounds: 8 (first round) + 20 (second round) + 32 (final round).",
+    "8 + 20 + 32 = 60 fish caught in total that day."
+  ],
+  "solution": "60"
+}

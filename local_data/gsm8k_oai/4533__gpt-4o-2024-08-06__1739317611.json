@@ -1,0 +1,14 @@
+{
+  "query": "Mike decides to develop a plot of land.  He bought 200 acres for $70 per acre.  After development, he sold half of the acreage for $200 per acre.  How much profit did he make?",
+  "steps": [
+    "First, I need to calculate the total cost Mike spent to buy the land. He bought 200 acres at $70 per acre.",
+    "The total cost is 200 acres * $70/acre = $14,000.",
+    "Next, I should calculate how many acres he sold after development. He sold half of the 200 acres.",
+    "Half of 200 acres is 200 / 2 = 100 acres.",
+    "I need to calculate the revenue from selling these 100 acres. He sold them at $200 per acre.",
+    "The revenue from selling 100 acres is 100 acres * $200/acre = $20,000.",
+    "To find the profit, I subtract the total cost from the total revenue. The profit is the revenue from selling minus the purchase cost.",
+    "Profit = $20,000 (revenue) - $14,000 (cost) = $6,000."
+  ],
+  "solution": "6000"
+}

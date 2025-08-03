@@ -1,0 +1,17 @@
+{
+  "query": "Lance wants to finish reading a 100 page book in 3 days. Yesterday, he started to read 35 pages. Today, he read 5 fewer pages than yesterday. How many pages should he read tomorrow to finish the book?",
+  "steps": [
+    "Lance wants to finish a 100-page book in 3 days.",
+    "He read 35 pages yesterday.",
+    "Today, he read 5 fewer pages than yesterday.",
+    "Yesterday, he read 35 pages.",
+    "Today, he read 35 - 5 = 30 pages.",
+    "Sum up the pages he has read so far: 35 pages yesterday + 30 pages today.",
+    "35 + 30 = 65 pages read in total so far.",
+    "The book is 100 pages long.",
+    "Subtract the pages he has read so far from the total: 100 - 65.",
+    "100 - 65 = 35 pages.",
+    "Lance should read 35 pages tomorrow to finish the book."
+  ],
+  "solution": "35"
+}

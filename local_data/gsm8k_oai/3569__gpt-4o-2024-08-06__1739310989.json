@@ -1,0 +1,17 @@
+{
+  "query": "A tank contains 6000 liters of water, 2000 liters evaporated, and then 3500 liters were drained by Bob. How many liters are in the tank if it now rains for 30 minutes and every 10 minutes 350 liters of rain are added to the tank?",
+  "steps": [
+    "The initial amount of water in the tank is 6000 liters.",
+    "2000 liters evaporated, so I need to subtract 2000 liters from 6000 liters.",
+    "6000 liters - 2000 liters = 4000 liters. The tank now contains 4000 liters.",
+    "3500 liters are drained by Bob. I need to subtract 3500 liters from 4000 liters.",
+    "4000 liters - 3500 liters = 500 liters. The tank now has 500 liters.",
+    "It rains for 30 minutes, and every 10 minutes, 350 liters are added.",
+    "30 minutes means three 10-minute intervals.",
+    "In each 10-minute interval, 350 liters are added, so I need to multiply 350 liters by 3.",
+    "350 liters x 3 = 1050 liters.",
+    "Add the 1050 liters of rainwater to the current amount in the tank, which is 500 liters.",
+    "500 liters + 1050 liters = 1550 liters. This is the total amount of water in the tank after the rain."
+  ],
+  "solution": "1550"
+}

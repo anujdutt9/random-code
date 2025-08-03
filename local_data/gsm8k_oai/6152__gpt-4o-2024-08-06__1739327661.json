@@ -1,0 +1,16 @@
+{
+  "query": "Kayla and Kylie picked 200 apples total. Kayla picked 1/4 of the apples that Kylie picked. How many apples did Kayla pick?",
+  "steps": [
+    "Kayla picked 1/4 of the apples that Kylie picked. This means if Kylie picked \"K\" apples, then Kayla picked K/4 apples.",
+    "We know that together they picked a total of 200 apples.",
+    "This can be expressed as: K + (K/4) = 200, where K is the number of apples Kylie picked.",
+    "To solve the equation, first multiply every term by 4 to eliminate the fraction: 4K + K = 800.",
+    "This simplifies to 5K = 800.",
+    "Divide both sides by 5: K = 160.",
+    "Now we know Kylie picked 160 apples.",
+    "Kayla picked 1/4 of the number of apples Kylie picked.",
+    "Calculate the number of apples Kayla picked: 160 / 4 = 40.",
+    "Thus, Kayla picked 40 apples."
+  ],
+  "solution": "40"
+}

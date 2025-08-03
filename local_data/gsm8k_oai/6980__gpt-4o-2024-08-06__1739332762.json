@@ -1,0 +1,14 @@
+{
+  "query": "Bill decides to bring donuts to work for a meeting that day.  He buys a box of donuts that has 50 in total in them.  He eats 2 on the ride in because he's hungry.  When he gets to the office, the secretary takes another 4 out of the box when he's not looking.  Lastly, right before the meeting Bill sets the box down on his desk and leaves the office to take a phone call.  While Bill's away, his coworkers steal half the remaining donuts.  Bill comes back and brings the box into his meeting.  How many donuts are left in the box?",
+  "steps": [
+    "Bill starts with 50 donuts.",
+    "Bill eats 2 donuts on the ride in.",
+    "Now there are 50 - 2 = 48 donuts left.",
+    "The secretary takes 4 donuts.",
+    "48 - 4 = 44 donuts remain.",
+    "Bill's coworkers steal half of the remaining donuts.",
+    "Half of 44 is 44 / 2 = 22.",
+    "After the coworkers take their share, there are 44 - 22 = 22 donuts left."
+  ],
+  "solution": "22"
+}

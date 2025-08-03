@@ -1,0 +1,12 @@
+{
+  "query": "Four cats live in the old grey house at the end of the road.  Their names are Puffy, Scruffy, Buffy, and Juniper.  Puffy has three times more whiskers than Juniper, but half as many as Scruffy.  Buffy has the same number of whiskers as the average number of whiskers on the three other cats.  If Juniper has 12 whiskers. how many whiskers does Buffy have?",
+  "steps": [
+    "Firstly, I will determine how many whiskers Juniper has. It's stated that Juniper has 12 whiskers. So, Juniper has 12 whiskers.",
+    "Next, I will calculate the number of whiskers Puffy has. Puffy has three times more whiskers than Juniper. So, I multiply Juniper's whiskers by 3. That's 12 (Juniper's whiskers) * 3 = 36. Thus, Puffy has 36 whiskers.",
+    "Now, let's find out how many whiskers Scruffy has. Puffy has half as many whiskers as Scruffy. Since Puffy has 36 whiskers, Scruffy must have twice that number. So, 36 * 2 = 72. Therefore, Scruffy has 72 whiskers.",
+    "Now I need to find the average number of whiskers on Puffy, Scruffy, and Juniper to determine Buffy's whiskers. To find the average, I'll first add up the whiskers of Puffy, Scruffy, and Juniper: 36 (Puffy) + 72 (Scruffy) + 12 (Juniper) = 120.",
+    "I divide that total by 3 to get the average number of whiskers. That's 120 divided by 3, which equals 40.",
+    "According to the problem, Buffy has the same number of whiskers as this average. So, Buffy has 40 whiskers."
+  ],
+  "solution": "40"
+}

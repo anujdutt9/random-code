@@ -1,0 +1,21 @@
+{
+  "query": "One of Robi's new year's resolutions is to start saving. He started to save $2 in January. This is followed by $4 in February and $8 in March. If he continues this saving pattern, how much will be his total savings after 6 months?",
+  "steps": [
+    "To determine Robi's savings pattern, let's identify the sequence. He saved $2 in January, $4 in February, and $8 in March.",
+    "These amounts form a sequence: $2, $4, $8.",
+    "Notice that each month's savings is double the previous month's savings.",
+    "This is a geometric sequence with a starting value (first term) of $2 and a common ratio of 2.",
+    "To find out his savings for the next 3 months and calculate the total savings, let's determine his savings for April, May, and June.",
+    "In April, Robi will save $8 * 2 = $16.",
+    "In May, he will save $16 * 2 = $32.",
+    "In June, he will save $32 * 2 = $64.",
+    "Now we have the savings for 6 months: $2 in January, $4 in February, $8 in March, $16 in April, $32 in May, and $64 in June.",
+    "To find the total savings after 6 months, sum up all the amounts: $2 + $4 + $8 + $16 + $32 + $64.",
+    "Performing the addition, $2 + $4 = $6.",
+    "$6 + $8 = $14.",
+    "$14 + $16 = $30.",
+    "$30 + $32 = $62.",
+    "$62 + $64 = $126."
+  ],
+  "solution": "126"
+}

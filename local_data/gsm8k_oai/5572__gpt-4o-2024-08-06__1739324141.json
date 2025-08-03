@@ -1,0 +1,18 @@
+{
+  "query": "Alicia had a wonderful birthday party where she got lots of presents. 10 of the presents were in small boxes. 12 of the presents were in medium boxes. A third of all the presents she is given are in large boxes. How many presents did Alicia get for her birthday?",
+  "steps": [
+    "First, I need to determine the total number of presents in the small and medium boxes.",
+    "Alicia got 10 presents in small boxes and 12 presents in medium boxes.",
+    "Adding the small and medium box presents gives 10 + 12 = 22 presents.",
+    "A third of all Alicia's presents are in large boxes.",
+    "Let's call the total number of presents \"x\". According to the problem, (1/3) * x is in large boxes.",
+    "The presents in small and medium boxes total 22, so the large boxes contain the rest of the presents.",
+    "This means that 22 presents are (2/3) of the total number of presents, because the other (1/3) are in large boxes.",
+    "Since 22 presents make up (2/3) of the total, I set up the equation: (2/3) * x = 22.",
+    "Solving for x gives us x = 22 / (2/3).",
+    "To divide by a fraction, I multiply by its reciprocal: x = 22 * (3/2).",
+    "Calculating gives x = 22 * 1.5 = 33.",
+    "So, Alicia received 33 presents in total for her birthday."
+  ],
+  "solution": "33"
+}

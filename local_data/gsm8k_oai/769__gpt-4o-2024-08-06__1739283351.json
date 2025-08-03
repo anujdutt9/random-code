@@ -1,0 +1,11 @@
+{
+  "query": "Bill put his french fries in the oven after it finished heating.  The recommended time was 5 minutes for them to be fully cooked.  He put them in for 45 seconds.  How many seconds remained?",
+  "steps": [
+    "The recommended cooking time is 5 minutes.",
+    "5 minutes is equivalent to 5 \u00d7 60 = 300 seconds.",
+    "Bill put the french fries in the oven for 45 seconds.",
+    "To find the remaining cooking time, I need to subtract the time he already cooked them for from the total recommended cooking time.",
+    "So, 300 seconds - 45 seconds = 255 seconds."
+  ],
+  "solution": "255"
+}

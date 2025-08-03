@@ -1,0 +1,14 @@
+{
+  "query": "James binges on Cheezits and eats 3 bags that are 2 ounces each.  There are 150 calories in an ounce of Cheezits.  He then goes for a 40-minute run and burns 12 calories per minute.  How many excess calories did he eat?",
+  "steps": [
+    "First, I need to determine the total number of ounces of Cheezits that James ate. He ate 3 bags, and each bag is 2 ounces.",
+    "3 bags * 2 ounces/bag = 6 ounces",
+    "Next, I need to calculate the total calories from the Cheezits. There are 150 calories in an ounce.",
+    "6 ounces * 150 calories/ounce = 900 calories",
+    "Now, I need to calculate how many calories James burned during his 40-minute run. He burns 12 calories per minute.",
+    "40 minutes * 12 calories/minute = 480 calories",
+    "To find the excess calories, I subtract the calories burned from the total calories eaten.",
+    "900 calories eaten - 480 calories burned = 420 excess calories"
+  ],
+  "solution": "420"
+}

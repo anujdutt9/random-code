@@ -1,0 +1,15 @@
+{
+  "query": "John has started at a job he works every day 10 days ago.  So far, he's made $250.  How many more days must John work before he makes twice this amount, assuming he makes the same amount every day?",
+  "steps": [
+    "John has worked for 10 days and has made $250 in total.",
+    "First, I need to calculate how much John makes in one day.",
+    "To find the daily earnings, I will divide the total amount earned by the number of days he's worked.",
+    "$250 divided by 10 days equals $25 per day.",
+    "Next, I need to determine how much money John needs to make to have twice the amount he has currently.",
+    "Twice $250 is $500.",
+    "John has already made $250, so he needs an additional $250 to reach $500.",
+    "To find out how many more days he needs to work to make another $250, I will divide the additional amount needed by his daily rate.",
+    "$250 divided by $25 per day equals 10 days."
+  ],
+  "solution": "10"
+}

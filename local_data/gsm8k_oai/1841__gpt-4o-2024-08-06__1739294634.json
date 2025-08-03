@@ -1,0 +1,19 @@
+{
+  "query": "Mac loves the shape of quarters and is willing to trade money for them, even if he loses value. He tells his brother that he will trade him 3 dimes for a quarter or 7 nickels. He trades for 20 quarters with dimes and 20 quarters with nickels. How many dollars did Mac lose?",
+  "steps": [
+    "First, I need to determine the value of 1 quarter. A quarter is worth 25 cents.",
+    "Next, I'll calculate the value Mac is trading for each quarter using dimes. Since he trades 3 dimes for a quarter, I need to calculate the value of 3 dimes.",
+    "One dime is worth 10 cents. Therefore, 3 dimes are worth 3 x 10 = 30 cents.",
+    "So, when trading with 3 dimes, Mac is giving up 30 cents for each quarter.",
+    "Now, I'll calculate the value Mac is trading for each quarter using nickels. Since he trades 7 nickels for a quarter, I need to calculate the value of 7 nickels.",
+    "One nickel is worth 5 cents. Therefore, 7 nickels are worth 7 x 5 = 35 cents.",
+    "So, when trading with 7 nickels, Mac is giving up 35 cents for each quarter.",
+    "Next, I'll determine the total value of what Mac is giving away to get 20 quarters with dimes. Since he's giving away 30 cents for each quarter, for 20 quarters, the total value in dimes is 20 x 30 = 600 cents.",
+    "Next, I'll determine the total value of what Mac is giving away to get 20 quarters with nickels. Since he's giving away 35 cents for each quarter, for 20 quarters, the total value in nickels is 20 x 35 = 700 cents.",
+    "Now, I'll total the value Mac gave away for all 40 quarters. This is the sum of 600 cents from the dimes and 700 cents from the nickels. So the total is 600 + 700 = 1300 cents.",
+    "Since Mac got 40 quarters, I'll now calculate the value he received. Each quarter is worth 25 cents, so for 40 quarters, he received 40 x 25 = 1000 cents.",
+    "Next, I'll calculate how much value (cents) Mac lost. He paid 1300 cents total and received quarters worth 1000 cents, so he lost 1300 - 1000 = 300 cents.",
+    "To convert the lost cents into dollars, I divide the lost cents by 100. Therefore, Mac lost 300 / 100 = 3 dollars."
+  ],
+  "solution": "3"
+}

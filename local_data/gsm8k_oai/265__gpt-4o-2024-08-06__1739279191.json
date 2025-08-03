@@ -1,0 +1,15 @@
+{
+  "query": "Larry and Barry want to pick apples out of the tree, but neither is tall enough to reach the apples.  Barry can reach apples that are 5 feet high.  Larry is 5 feet tall, but his shoulder height is 20% less than his full height.  If Barry stands on Larry's shoulders, how high can they reach?",
+  "steps": [
+    "Barry can reach apples that are 5 feet high on his own.",
+    "Larry is 5 feet tall, so his full height is 5 feet.",
+    "Larry's shoulder height is 20% less than his full height.",
+    "To find Larry's shoulder height, I need to calculate 20% of 5 feet.",
+    "20% of 5 feet is \\(0.20 \\times 5 = 1\\) foot.",
+    "So, Larry's shoulder height is \\(5 - 1 = 4\\) feet.",
+    "When Barry stands on Larry's shoulders, they can reach Larry's shoulder height plus Barry's reach.",
+    "Larry's shoulder height is 4 feet and Barry's reach is 5 feet.",
+    "So, they can reach a total of \\(4 + 5 = 9\\) feet high."
+  ],
+  "solution": "9"
+}

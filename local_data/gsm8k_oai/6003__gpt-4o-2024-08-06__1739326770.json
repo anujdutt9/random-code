@@ -1,0 +1,18 @@
+{
+  "query": "Mr. Isaac rides his bicycle at the rate of 10 miles per hour for 30 minutes. If he rides for another 15 miles, rests for 30 minutes, and then covers the remaining distance of 20 miles, what's the total time in minutes took to travel the whole journey?",
+  "steps": [
+    "First, I need to calculate the distance Mr. Isaac covered in the first 30 minutes.",
+    "Since he rides at 10 miles per hour, in 30 minutes (which is 0.5 hours), he covers 10 mph * 0.5 hours = 5 miles.",
+    "Next, I will consider the additional 15 miles he rides after the first 5 miles.",
+    "To find the time to cover these 15 miles at 10 miles per hour, I divide the distance by the speed: 15 miles / 10 miles per hour = 1.5 hours.",
+    "Now, I will convert the time of 1.5 hours into minutes. Since 1 hour is equal to 60 minutes, 1.5 hours = 1.5 * 60 = 90 minutes.",
+    "I will add this to the initial 30 minutes he spent riding to find the time before resting: 30 minutes + 90 minutes = 120 minutes.",
+    "He rests for 30 minutes after the first two segments of biking.",
+    "Then he covers the remaining 20 miles at the same rate of 10 miles per hour.",
+    "For these 20 miles, the time taken is 20 miles / 10 miles per hour = 2 hours.",
+    "I will convert this time into minutes: 2 hours = 2 * 60 = 120 minutes.",
+    "To find the total time spent on the whole journey, I add together all the time components: 120 minutes (initial biking) + 30 minutes (rest) + 120 minutes (final biking).",
+    "The total time is 120 + 30 + 120 = 270 minutes."
+  ],
+  "solution": "270"
+}

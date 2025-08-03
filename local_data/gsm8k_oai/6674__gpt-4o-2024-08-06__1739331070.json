@@ -1,0 +1,13 @@
+{
+  "query": "William left Missouri by 7:00 AM and arrived at his hometown by 8:00 PM. He had 3 stops of 25, 10 and 25 minutes respectively during the journey. How many hours did he spend on the road?",
+  "steps": [
+    "First, determine the total travel time from when William left Missouri to when he arrived in his hometown: from 7:00 AM to 8:00 PM.",
+    "Calculate the time difference between 7:00 AM and 8:00 PM. From 7:00 AM to 8:00 AM is 1 hour, and from 8:00 AM to 8:00 PM is 12 hours.",
+    "Add these time intervals together: 1 hour + 12 hours = 13 hours.",
+    "Now, account for the time spent during his stops. He had three stops lasting 25 minutes, 10 minutes, and 25 minutes.",
+    "Add the duration of all stops: 25 minutes + 10 minutes + 25 minutes = 60 minutes.",
+    "Convert 60 minutes into hours. 60 minutes equals 1 hour.",
+    "Subtract the stop time in hours from the total travel time to calculate the time spent on the road: 13 hours - 1 hour = 12 hours."
+  ],
+  "solution": "12"
+}

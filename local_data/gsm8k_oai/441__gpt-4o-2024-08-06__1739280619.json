@@ -1,0 +1,14 @@
+{
+  "query": "Martin is organizing a party, and he invited many of his colleagues. He invited 5 people from his hometown and twice as many people from his school. Martin invited also as many people from his sports club as the sum of people invited from his hometown and his school. The remaining invitations represent 20% of the total previously mentioned. How many people can potentially come to the party Martin is organizing?",
+  "steps": [
+    "Martin invited 5 people from his hometown.",
+    "He invited twice as many people from his school, so he invited 5 * 2 = 10 people from his school.",
+    "The sum of people invited from his hometown and school is 5 + 10 = 15.",
+    "Martin invited as many people from his sports club as the sum of people invited from his hometown and school, which means he invited 15 people from his sports club.",
+    "Now, we have the invitations from the hometown, school, and sports club: 5 + 10 + 15 = 30.",
+    "The remaining invitations represent 20% of the total previously mentioned.",
+    "To find 20% of the total previously mentioned (30 people), calculate 0.20 * 30 = 6.",
+    "The total number of invited people is the sum of previously calculated invitations and the remaining ones. So, 30 + 6 = 36."
+  ],
+  "solution": "36"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "John's shirt cost 60% more than his pants.  His pants cost $50.  How much was John's outfit?",
+  "steps": [
+    "I need to find out how much John's shirt cost relative to his pants.",
+    "The pants cost $50.",
+    "The shirt cost 60% more than the pants.",
+    "I need to calculate 60% of the pants' cost.",
+    "60% of $50 is calculated as 0.60 * 50.",
+    "0.60 * 50 = 30.",
+    "The shirt costs $30 more than the pants.",
+    "I add the additional $30 to the pants' cost to find the shirt's cost.",
+    "50 + 30 = 80.",
+    "The shirt costs $80.",
+    "Now, I need to find the total cost of John's outfit by adding the cost of the pants and the shirt.",
+    "The pants cost $50 and the shirt costs $80.",
+    "I add the cost of the pants and the shirt: 50 + 80.",
+    "50 + 80 = 130."
+  ],
+  "solution": "130"
+}

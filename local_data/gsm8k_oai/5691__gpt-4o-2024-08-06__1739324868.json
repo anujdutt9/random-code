@@ -1,0 +1,21 @@
+{
+  "query": "To celebrate a recent promotion, Arthur decided to treat himself to dinner at a nice restaurant. He ordered a nice appetizer for $8, a delicious ribeye steak for his entr\u00e9e at $20, had two glasses of nice red wine with dinner for $3 each, and a slice of caramel cheesecake for dessert for $6. He used a voucher for half off the price of his entr\u00e9e, but he very thoughtfully tipped his waitress a full 20% of what the full cost of his meal would have been without the discount. How much, including the tip, did Arthur spend on dinner?",
+  "steps": [
+    "First, I need to calculate the full cost of the meal without the discount.",
+    "The cost of the appetizer is $8.",
+    "The cost of the ribeye steak is $20.",
+    "The cost of the two glasses of wine is 2 glasses x $3 each = $6.",
+    "The cost of the cheesecake is $6.",
+    "To find the full cost of the meal before the discount, I'll add these amounts together: $8 (appetizer) + $20 (entr\u00e9e) + $6 (wine) + $6 (dessert).",
+    "$8 + $20 + $6 + $6 = $40",
+    "Arthur has a voucher for half off the price of his entr\u00e9e. The original price of the entr\u00e9e is $20. Half off means he pays $20 - $10 = $10 for the entr\u00e9e.",
+    "Now, I need to calculate the actual amount Arthur spent on the meal with the discount.",
+    "The discounted cost of the meal is $8 (appetizer) + $10 (discounted entr\u00e9e) + $6 (wine) + $6 (dessert).",
+    "$8 + $10 + $6 + $6 = $30",
+    "Arthur tipped 20% based on the full price of the meal without the discount, which was $40.",
+    "20% of $40 is 0.20 x $40 = $8.",
+    "To find the total amount Arthur spent including the tip, I need to add the discounted meal cost to the tip.",
+    "$30 (discounted meal cost) + $8 (tip) = $38"
+  ],
+  "solution": "38"
+}

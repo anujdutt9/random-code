@@ -1,0 +1,13 @@
+{
+  "query": "John decides to go back to school to get his PhD.  He first takes 1 year of courses to get acclimated back to school life before starting his PhD.  After that, he spends 2 years learning the basics of his field.  He then starts research, and he spends 75% more time on research than he did learning the basics.  He then spends half as long on writing his dissertation as his acclimation period.  How long did it take him to do everything?",
+  "steps": [
+    "John first takes 1 year of courses to get acclimated back to school life. This is the first step.",
+    "He spends 2 years learning the basics of his field. So far, he has spent 1 + 2 = 3 years.",
+    "Next, he spends 75% more time on research than he did learning the basics. He spent 2 years learning the basics, so he spends 2 * 0.75 = 1.5 more years on research.",
+    "Therefore, he spends 2 + 1.5 = 3.5 years on research.",
+    "So far, the total time spent is 1 year on acclimation, 2 years on basics, and 3.5 years on research. This adds up to 1 + 2 + 3.5 = 6.5 years.",
+    "He then spends half as long on writing his dissertation as his acclimation period. The acclimation period was 1 year, so he spends 1 * 0.5 = 0.5 years on writing his dissertation.",
+    "Add the dissertation writing time to the current total: 6.5 years + 0.5 years = 7 years."
+  ],
+  "solution": "7"
+}

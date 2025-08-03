@@ -1,0 +1,17 @@
+{
+  "query": "A department store offers a 10% discount for the amount exceeding $100 of the customer's total charge. Jaco bought a pair of shoes for $74; 2 pairs of socks that cost $2 per pair; a bag that costs $42. How much will Jaco pay for those items?",
+  "steps": [
+    "First, I need to calculate the total cost without any discounts.",
+    "Jaco bought a pair of shoes for $74.",
+    "He also bought 2 pairs of socks at $2 per pair, so the socks cost 2 times $2, which is $4.",
+    "Jaco also bought a bag that costs $42.",
+    "Now, I will calculate the total cost by adding up all the items: $74 (shoes) + $4 (socks) + $42 (bag).",
+    "Adding these amounts gives me $74 + $4 + $42 = $120.",
+    "Next, I will determine if any part of this amount exceeds $100, as that surplus amount is eligible for a 10% discount.",
+    "The amount that exceeds $100 is $120 - $100 = $20.",
+    "Now, I calculate the discount on this $20. The discount is 10% of $20.",
+    "10% of $20 is $2 (since 0.10 * 20 = 2).",
+    "To find the final amount Jaco needs to pay, I subtract the discount from the total amount: $120 - $2 = $118."
+  ],
+  "solution": "118"
+}

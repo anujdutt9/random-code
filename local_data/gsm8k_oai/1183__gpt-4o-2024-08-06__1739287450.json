@@ -1,0 +1,21 @@
+{
+  "query": "A small zoo houses a variety of 68 wild animals. After they send a gorilla family of six to a different zoo, they adopt a hippopotamus from another zoo. A while later, an animal rescue contacted them, and the zoo took in three endangered rhinos. Then one of their lionesses gave birth to cubs, and they opened a meerkat exhibit with twice as many meerkats as they had gained lion cubs. The zoo then had 90 animals in all. How many lion cubs were born at the zoo?",
+  "steps": [
+    "Initially, the zoo houses a total of 68 wild animals.",
+    "The zoo sends a gorilla family of six to a different zoo. This decreases the animal count from 68 to 68 - 6 = 62 animals.",
+    "They adopt one hippopotamus from another zoo. This increases the count to 62 + 1 = 63 animals.",
+    "The zoo takes in three endangered rhinos from an animal rescue. This increases the count to 63 + 3 = 66 animals.",
+    "We know the total number of animals finally is 90. The number of new animals added after the rhinos must account for this difference.",
+    "The difference between the final count and the count after the rhinos is 90 - 66 = 24 animals.",
+    "The lionesses gave birth to some cubs, but we don't yet know how many.",
+    "A meerkat exhibit opened with twice as many meerkats as there were lion cubs added. So, let's assume the number of lion cubs born is \"x\".",
+    "Then there would be 2x meerkats. Adding the lion cubs and meerkats to the total after the rhinos, we have 66 + x + 2x = 66 + 3x.",
+    "We know 66 + 3x equals the final total, which is 90.",
+    "Set up the equation: 66 + 3x = 90.",
+    "To find x, subtract 66 from both sides: 3x = 90 - 66.",
+    "3x = 24",
+    "Divide both sides by 3 to solve for x: x = 24 / 3.",
+    "x = 8"
+  ],
+  "solution": "8"
+}

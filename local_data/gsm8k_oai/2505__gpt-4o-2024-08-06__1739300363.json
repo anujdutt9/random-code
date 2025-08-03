@@ -1,0 +1,13 @@
+{
+  "query": "One necklace is worth $34. Bob decided to buy one for his wife. But, he also bought a book, which is $5 more expensive than the necklace. Before he went shopping, Bob set a limit and decided not to spend more than $70. How many dollars over the \"limit\" did Bob spend?",
+  "steps": [
+    "Bob intended not to spend more than $70, which means his spending limit is $70.",
+    "The necklace costs $34.",
+    "The book is $5 more expensive than the necklace.",
+    "Calculate the price of the book by adding $5 to the cost of the necklace: $34 + $5 = $39.",
+    "Determine the total cost for both the necklace and the book: $34 (necklace) + $39 (book) = $73.",
+    "Bob's total spending is $73.",
+    "To find out how much over the limit Bob spent, subtract the spending limit from the total spending: $73 - $70 = $3."
+  ],
+  "solution": "3"
+}

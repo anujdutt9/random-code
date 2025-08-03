@@ -1,0 +1,14 @@
+{
+  "query": "The company's data entry team had 5 employees working on a large project.  Rudy types 64 words per minute, Joyce types 76 words per minute, Gladys types 91 words per minute, Lisa types 80 words per minute and Mike types 89 words per minute.  What is the team's average typed words per minute?",
+  "steps": [
+    "First, I need to determine the typing speed of each employee. I already have the speeds: Rudy at 64 words per minute, Joyce at 76 words per minute, Gladys at 91 words per minute, Lisa at 80 words per minute, and Mike at 89 words per minute.",
+    "Next, I need to calculate the sum of these typing speeds. I will add them together: 64 + 76 + 91 + 80 + 89.",
+    "Performing the addition: \n64 + 76 = 140",
+    "Proceed with adding: \n140 + 91 = 231",
+    "Continue adding: \n231 + 80 = 311",
+    "Finally, add the last typing speed: \n311 + 89 = 400",
+    "Now that I have the total words per minute typed by the team (400), I need to find the average. Since there are 5 employees, I\u2019ll divide the total by the number of employees: 400 / 5.",
+    "Perform this division: \n400 \u00f7 5 = 80"
+  ],
+  "solution": "80"
+}

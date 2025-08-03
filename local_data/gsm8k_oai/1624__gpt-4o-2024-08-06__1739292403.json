@@ -1,0 +1,17 @@
+{
+  "query": "A kilogram of pork costs $6 while a kilogram of chicken costs $2 less. How much will a 3-kilogram of chicken and a kilogram of pork cost?",
+  "steps": [
+    "First, I need to determine the cost of a kilogram of chicken.",
+    "A kilogram of chicken costs $2 less than a kilogram of pork.",
+    "A kilogram of pork costs $6, so a kilogram of chicken costs $6 - $2.",
+    "Calculate the cost of a kilogram of chicken: $6 - $2 = $4.",
+    "Next, I need to calculate the cost of 3 kilograms of chicken.",
+    "Multiply the cost of a kilogram of chicken by 3: $4 * 3.",
+    "Calculate 3 kilograms of chicken: $4 * 3 = $12.",
+    "Now, I add the cost of a kilogram of pork.",
+    "A kilogram of pork costs $6.",
+    "Add the cost of 3 kilograms of chicken to the cost of 1 kilogram of pork: $12 + $6.",
+    "Calculate the total cost: $12 + $6 = $18."
+  ],
+  "solution": "18"
+}

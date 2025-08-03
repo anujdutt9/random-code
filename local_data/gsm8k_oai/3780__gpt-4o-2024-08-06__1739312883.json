@@ -1,0 +1,16 @@
+{
+  "query": "Janet counts 30 crows on the powerlines and 60% more hawks than crows. How many birds does she count total?",
+  "steps": [
+    "Janet counts 30 crows on the powerlines.",
+    "She counts 60% more hawks than crows.",
+    "First, calculate 60% of the number of crows.",
+    "60% of 30 crows is calculated as 0.60 * 30.",
+    "0.60 * 30 = 18 hawks.",
+    "Now, calculate the total number of hawks by adding the 60% more to the number of crows.",
+    "The number of hawks is 30 crows + 18 (additional hawks).",
+    "So, Janet counts 48 hawks.",
+    "Next, find the total number of birds by adding the number of crows and the number of hawks together.",
+    "The total number of birds is 30 crows + 48 hawks."
+  ],
+  "solution": "78"
+}

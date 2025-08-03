@@ -1,0 +1,12 @@
+{
+  "query": "Every ten minutes during sunset, the sky changes to a new color. How many colors did the sky turn over the two hours of a long summer sunset if each hour is sixty minutes long?",
+  "steps": [
+    "First, I recognize that the duration of the summer sunset in question is two hours.",
+    "Each hour consists of 60 minutes. Therefore, two hours are equivalent to 2 * 60 = 120 minutes.",
+    "The sky changes color every 10 minutes.",
+    "I need to determine how many 10-minute intervals fit into the 120-minute duration of the sunset.",
+    "I perform the division: 120 minutes \u00f7 10 minutes per color change = 12 color changes.",
+    "Since the color changes with each interval, there were 12 different colors during the sunset."
+  ],
+  "solution": "12"
+}

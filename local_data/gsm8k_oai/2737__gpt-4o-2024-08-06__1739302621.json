@@ -1,0 +1,20 @@
+{
+  "query": "On Monday a group of 7 children and 5 adults went to the zoo. On Tuesday a group of 4 children and 2 adults went as well. Child tickets cost $3, and adult tickets cost $4. How much money did the zoo make in total for both days?",
+  "steps": [
+    "First, I need to calculate the total ticket revenue for Monday.",
+    "On Monday, there were 7 children and 5 adults.",
+    "Child tickets cost $3 each.",
+    "Adult tickets cost $4 each.",
+    "Calculate the total cost for children on Monday: 7 children * $3 = $21.",
+    "Calculate the total cost for adults on Monday: 5 adults * $4 = $20.",
+    "Add these two amounts to get the total for Monday: $21 + $20 = $41.",
+    "Next, I calculate the total ticket revenue for Tuesday.",
+    "On Tuesday, there were 4 children and 2 adults.",
+    "Calculate the total cost for children on Tuesday: 4 children * $3 = $12.",
+    "Calculate the total cost for adults on Tuesday: 2 adults * $4 = $8.",
+    "Add these two amounts to get the total for Tuesday: $12 + $8 = $20.",
+    "Finally, add the total revenues from both days to find the overall total.",
+    "Total for both days is $41 (Monday) + $20 (Tuesday) = $61."
+  ],
+  "solution": "61"
+}

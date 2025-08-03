@@ -1,0 +1,19 @@
+{
+  "query": "Annie is building a diorama for her history class. The amount of time she spent building it is equal to three times the amount of time she spent planning it minus 5 minutes. If she spent 67 minutes on the diorama total, how many minutes did she spend building it?",
+  "steps": [
+    "First, I understand that Annie spent a total of 67 minutes on the diorama, which includes both planning and building it.",
+    "Let me define variables to make this easier. Let B be the number of minutes she spent building the diorama, and let P be the number of minutes she spent planning it.",
+    "According to the problem, Annie spent three times the amount of time planning the diorama minus 5 minutes on building it. This gives us the equation: B = 3P - 5.",
+    "We also know that the total time she spent, combining both planning and building, is 67 minutes. This gives us another equation: B + P = 67.",
+    "Now, I can solve the system of equations:\n1. B = 3P - 5\n2. B + P = 67\nLet's substitute equation 1 into equation 2.",
+    "Substitute B = 3P - 5 into B + P = 67:\n(3P - 5) + P = 67.",
+    "Combine like terms:\n3P - 5 + P = 67\nThis simplifies to:\n4P - 5 = 67.",
+    "To isolate 4P, add 5 to both sides of the equation: \n4P = 72.",
+    "Now, divide both sides by 4 to solve for P:\nP = 18.",
+    "Now that I know P is 18, I substitute it back into the equation for B:\nB = 3P - 5 so B = 3(18) - 5.",
+    "Calculate 3 times 18:\n3 * 18 = 54.",
+    "Subtract 5 from 54:\n54 - 5 = 49.",
+    "Therefore, Annie spent 49 minutes building the diorama."
+  ],
+  "solution": "49"
+}

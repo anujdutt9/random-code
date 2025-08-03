@@ -1,0 +1,14 @@
+{
+  "query": "Mark is running for an election and wins 70% of the votes in an area with 100,000 voters.  He got twice as many total votes in the remaining area.  How many votes did he get in total?",
+  "steps": [
+    "There are 100,000 voters in the first area.",
+    "Mark wins 70% of the votes in this area.",
+    "To calculate the number of votes Mark received in the first area, I take 70% of 100,000.",
+    "70% of 100,000 is calculated as 0.70 * 100,000 = 70,000 votes.",
+    "Mark got twice as many votes in the remaining area compared to the first area.",
+    "Since he got 70,000 votes in the first area, he got 2 * 70,000 = 140,000 votes in the remaining area.",
+    "To find the total number of votes Mark received, I add the votes from both areas.",
+    "70,000 votes from the first area + 140,000 votes from the remaining area = 210,000 votes in total."
+  ],
+  "solution": "210,000"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "You can buy 4 apples or 1 watermelon for the same price. You bought 36 fruits evenly split between oranges, apples and watermelons, and the price of 1 orange is $0.50. How much does 1 apple cost if your total bill was $66?",
+  "steps": [
+    "You purchased 36 fruits in total, evenly split between oranges, apples, and watermelons.",
+    "First, let's find out how many of each type of fruit you bought. Since they are evenly split, you divide the total number of fruits, which is 36, by the number of fruit types, which is 3.",
+    "36 divided by 3 equals 12. So, you bought 12 oranges, 12 apples, and 12 watermelons.",
+    "Next, we need to calculate the total cost of the oranges. Each orange costs $0.50, and you bought 12 oranges.",
+    "12 oranges at $0.50 each cost 12 \u00d7 0.50 = $6.",
+    "The total bill was $66, and the cost for the oranges is $6. So, the total cost for the apples and watermelons together is $66 - $6 = $60.",
+    "Given that 4 apples cost the same as 1 watermelon, let's calculate the cost of apples and watermelons in terms of apple costs.",
+    "If \"A\" is the cost of one apple, then 4A represents the cost of one watermelon.",
+    "You bought 12 apples and 12 watermelons. The total apple-equivalent cost is 12A (for apples) + 12 \u00d7 4A (for watermelons).",
+    "The cost for 12 watermelons in terms of apples is 12 \u00d7 4A = 48A.",
+    "The total cost in terms of apples is 12A + 48A = 60A.",
+    "We know the cost of the apples and watermelons adds up to $60. Therefore, 60A = $60.",
+    "Divide both sides of the equation by 60 to find the cost of one apple: A = $60 / 60 = $1."
+  ],
+  "solution": "1"
+}

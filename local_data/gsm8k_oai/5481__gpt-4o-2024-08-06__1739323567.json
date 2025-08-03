@@ -1,0 +1,16 @@
+{
+  "query": "Calvin and Phoebe each have 8 more pastries than Frank but only five less than Grace. If Grace has 30 pastries, calculate the total number of pastries that the four have?",
+  "steps": [
+    "Start with the number of pastries Grace has. According to the problem, Grace has 30 pastries.",
+    "Calvin and Phoebe each have five less than Grace. So, Calvin and Phoebe each have 30 - 5 pastries.",
+    "Calculate 30 - 5 to find how many pastries Calvin and Phoebe have. This equals 25 pastries each.",
+    "Calvin and Phoebe each have 8 more pastries than Frank. So, Frank has 25 - 8 pastries.",
+    "Calculate 25 - 8 to find how many pastries Frank has. This equals 17 pastries.",
+    "Now, add up all the pastries that each person has to find the total number of pastries: Grace has 30, Calvin has 25, Phoebe has 25, and Frank has 17.",
+    "Calculate 30 + 25 + 25 + 17 to get the total number of pastries.",
+    "30 + 25 = 55.",
+    "55 + 25 = 80.",
+    "80 + 17 = 97."
+  ],
+  "solution": "97"
+}

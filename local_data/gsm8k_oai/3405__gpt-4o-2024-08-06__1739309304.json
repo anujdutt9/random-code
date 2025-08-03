@@ -1,0 +1,22 @@
+{
+  "query": "James hires a seamstress to fix all his shirts and pants.  He has 10 shirts and 12 pairs of pants.  It takes 1.5 hours to fix a shirt and twice as long for pants.  The tailor charges $30 per hour.  How much does it cost?",
+  "steps": [
+    "First, I know James has 10 shirts.",
+    "The time it takes to fix one shirt is 1.5 hours.",
+    "So, the total time to fix all 10 shirts is 10 shirts * 1.5 hours/shirt.",
+    "Calculating this gives 15 hours for all shirts.",
+    "Now, I know James also has 12 pairs of pants.",
+    "It takes twice as long to fix a pair of pants as it does to fix a shirt.",
+    "So it takes 1.5 hours * 2 = 3 hours to fix one pair of pants.",
+    "The total time to fix all 12 pairs of pants is 12 pants * 3 hours/pair.",
+    "Calculating this gives 36 hours for all pants.",
+    "Next, I add the time for shirts and pants to find the total time.",
+    "Total time is 15 hours (shirts) + 36 hours (pants).",
+    "This equals 51 hours total.",
+    "The seamstress charges $30 per hour.",
+    "To find the total cost, I multiply the total hours by the hourly rate.",
+    "Total cost = 51 hours * $30/hour.",
+    "Calculating this gives a total cost of $1530."
+  ],
+  "solution": "1530"
+}

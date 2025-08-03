@@ -1,0 +1,16 @@
+{
+  "query": "An auctioneer raises the price of an item he is auctioning by $5 every time someone new bids on it. Two people enter a bidding war on a desk and the price goes from $15 to $65 before the desk is sold. How many times did each person bid on the desk?",
+  "steps": [
+    "The starting price of the desk is $15.",
+    "The final price of the desk is $65.",
+    "To find the total increase in price, subtract the starting price from the final price: $65 - $15.",
+    "Calculating the difference: $65 - $15 = $50.",
+    "The price increases by $5 each time someone bids.",
+    "To find how many total bids occurred, divide the total price increase by the increase per bid: $50 / $5.",
+    "Calculating the division: $50 \u00f7 $5 = 10.",
+    "There were a total of 10 bids made.",
+    "Since there are two people in a bidding war, they bid alternately.",
+    "Half of 10 is 5, so each person must have bid 5 times."
+  ],
+  "solution": "5"
+}

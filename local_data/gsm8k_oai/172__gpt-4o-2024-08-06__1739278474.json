@@ -1,0 +1,17 @@
+{
+  "query": "Kyle bought 2 glass bottles that can hold 15 origami stars each. He then bought another 3 identical glass bottles. How many stars must Kyle make to fill all the glass bottles he bought?",
+  "steps": [
+    "First, I know that Kyle initially bought 2 glass bottles.",
+    "Each of these bottles can hold 15 origami stars.",
+    "So, for the first 2 glass bottles, he needs to make 2 * 15 origami stars.",
+    "Let's calculate the number of stars for these first two bottles: 2 * 15 = 30 stars.",
+    "Next, Kyle bought 3 more identical glass bottles.",
+    "These additional 3 bottles can also hold 15 origami stars each.",
+    "So, for these 3 glass bottles, he needs to make 3 * 15 origami stars.",
+    "Let's calculate the number of stars for these three bottles: 3 * 15 = 45 stars.",
+    "To find out the total number of stars Kyle must make, I need to add the stars needed for the first 2 bottles and the 3 additional bottles.",
+    "The total is 30 stars (for the first 2 bottles) + 45 stars (for the next 3 bottles).",
+    "Let's calculate: 30 + 45 = 75 stars."
+  ],
+  "solution": "75"
+}

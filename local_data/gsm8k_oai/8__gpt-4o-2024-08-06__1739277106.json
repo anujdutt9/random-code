@@ -1,0 +1,24 @@
+{
+  "query": "Alexis is applying for a new job and bought a new set of business clothes to wear to the interview. She went to a department store with a budget of $200 and spent $30 on a button-up shirt, $46 on suit pants, $38 on a suit coat, $11 on socks, and $18 on a belt. She also purchased a pair of shoes, but lost the receipt for them. She has $16 left from her budget. How much did Alexis pay for the shoes?",
+  "steps": [
+    "Alexis started with a budget of $200.",
+    "She spent $30 on a button-up shirt.",
+    "She spent $46 on suit pants.",
+    "She spent $38 on a suit coat.",
+    "She spent $11 on socks.",
+    "She spent $18 on a belt.",
+    "She has $16 left from her budget after all purchases.",
+    "First, let's calculate the total spent on clothes excluding the shoes.",
+    "Total excluding shoes = $30 + $46 + $38 + $11 + $18.",
+    "Total excluding shoes = $143.",
+    "Now, calculate the amount spent, including the shoes.",
+    "Total amount spent = Initial budget - Amount left.",
+    "Total amount spent = $200 - $16.",
+    "Total amount spent = $184.",
+    "Now calculate the price of the shoes.",
+    "Price of shoes = Total amount spent - Total excluding shoes.",
+    "Price of shoes = $184 - $143.",
+    "Price of shoes = $41."
+  ],
+  "solution": "41"
+}

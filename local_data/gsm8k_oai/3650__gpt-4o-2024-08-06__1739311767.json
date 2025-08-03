@@ -1,0 +1,16 @@
+{
+  "query": "Martin went to a store to buy a new television set. He decided to spend no more than $1,000 and the sales clerk offered him the TV for $100 less and an additional 20% off. How much lower was the price of the television than the amount Martin decided to spend?",
+  "steps": [
+    "Martin initially decided to spend no more than $1,000.",
+    "The sales clerk offered him the TV for $100 less than his initial spending limit.",
+    "$1,000 - $100 = $900. The initial reduced price of the TV is $900.",
+    "The sales clerk then offered an additional 20% off on the reduced price.",
+    "20% of $900 is calculated as $900 * 0.20 = $180.",
+    "Subtracting the 20% discount from the $900 price gives the final price: $900 - $180 = $720.",
+    "Now I need to find out how much lower this final price is than Martin's decided budget.",
+    "Martin's budget was $1,000, and the final price of the TV is $720.",
+    "$1,000 - $720 = $280.",
+    "Therefore, the final price of the television was $280 lower than the amount Martin decided to spend."
+  ],
+  "solution": "280"
+}

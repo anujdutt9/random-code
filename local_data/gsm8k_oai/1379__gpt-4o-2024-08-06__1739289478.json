@@ -1,0 +1,17 @@
+{
+  "query": "Lola\u2019s rabbits keep having kittens each spring. During the first spring, her 10 breeding rabbits had 10 times as many kittens as the number of breeding rabbits Lola has, and half of the kittens got adopted. 5 of them had to be returned to Lola due to re-homing problems. During the next spring, her 10 breeding rabbits only had a total of 60 kittens, with 4 of the kittens being adopted. Including the breeding rabbits, how many rabbits does Lola have in her house?",
+  "steps": [
+    "Lola starts with 10 breeding rabbits.",
+    "During the first spring, each breeding rabbit had 10 kittens. This means she had 10 x 10 = 100 kittens.",
+    "Half of these 100 kittens got adopted, which means 100 / 2 = 50 kittens were adopted.",
+    "Therefore, 100 - 50 = 50 kittens remained with Lola after the adoptions.",
+    "5 kittens were returned due to re-homing problems, so she now has 50 + 5 = 55 kittens from the first spring.",
+    "During the next spring, her 10 breeding rabbits had a total of 60 kittens.",
+    "4 of these 60 kittens were adopted, so 60 - 4 = 56 kittens remain from the second spring.",
+    "Now, let\u2019s calculate the total number of rabbits in Lola\u2019s house.",
+    "Lola has her original 10 breeding rabbits, 55 kittens from the first spring, and 56 kittens from the second spring.",
+    "Total rabbits in the house = 10 (breeding rabbits) + 55 (first spring kittens) + 56 (second spring kittens).",
+    "10 + 55 + 56 = 121."
+  ],
+  "solution": "121"
+}

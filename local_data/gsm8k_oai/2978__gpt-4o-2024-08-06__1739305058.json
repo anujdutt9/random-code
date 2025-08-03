@@ -1,0 +1,15 @@
+{
+  "query": "James buys 3 shirts for $60.  There is a 40% off sale.  How much did he pay per shirt after the discount?",
+  "steps": [
+    "First, I need to understand the total initial cost of the shirts before considering the discount. James buys 3 shirts for a total cost of $60.",
+    "Next, I calculate the original price per shirt. I do this by dividing the total cost by the number of shirts: $60 divided by 3.",
+    "$60 divided by 3 is $20, so the original price per shirt is $20.",
+    "Now, I need to calculate the discount amount on each shirt. The discount is 40% of the original price.",
+    "40% of $20 is calculated by multiplying $20 by 0.40.",
+    "$20 multiplied by 0.40 is $8. So, the discount amount is $8 per shirt.",
+    "To find the discounted price per shirt, I subtract the discount amount from the original price per shirt.",
+    "$20 minus $8 equals $12.",
+    "Thus, the cost per shirt after the discount is $12."
+  ],
+  "solution": "12"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "Trish likes to go for walks every day.  One day, she goes on a 1-mile walk.  Every subsequent day, she doubles the distance she walked the previous day.  On what day does she walk more than 10 times further than she did on the first day?",
+  "steps": [
+    "On the first day, Trish walks 1 mile.",
+    "On the second day, she doubles the first day's distance, so she walks 2 miles.",
+    "On the third day, she doubles the second day's distance, so she walks 4 miles.",
+    "On the fourth day, she doubles the third day's distance, so she walks 8 miles.",
+    "On the fifth day, she doubles the fourth day's distance, so she walks 16 miles.",
+    "I need to determine when Trish walks more than 10 times the first day's distance. 10 times 1 mile is 10 miles.",
+    "By the fourth day, she walks 8 miles, which is less than 10 miles.",
+    "On the fifth day, she walks 16 miles, which is more than 10 miles."
+  ],
+  "solution": "5"
+}

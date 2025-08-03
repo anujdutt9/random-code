@@ -1,0 +1,23 @@
+{
+  "query": "Alyssa took 100 photos on vacation. She wants to put them in a photo album with 30 pages. She can place 3 photos each on the first 10 pages. Then she can place 4 photos each on the next 10 pages. If she wants to put an equal number of photos on each of the remaining pages of the album, how many photos can she place on each page?",
+  "steps": [
+    "First, I need to calculate how many photos Alyssa places on the first set of pages.",
+    "She puts 3 photos on each of the first 10 pages.",
+    "So, she places 3 photos/page * 10 pages = 30 photos.",
+    "Next, I calculate how many photos she places on the second set of pages.",
+    "She puts 4 photos on each of the next 10 pages.",
+    "So, she places 4 photos/page * 10 pages = 40 photos.",
+    "Now, I need to determine how many photos have already been placed in the album.",
+    "There are 30 photos from the first 10 pages and 40 photos from the next 10 pages.",
+    "Combining these, she has placed 30 + 40 = 70 photos.",
+    "I need to calculate how many photos remain to be placed in the album.",
+    "Alyssa originally has 100 photos, and she has placed 70 photos so far.",
+    "So, 100 photos - 70 photos = 30 photos remain.",
+    "Finally, I determine how many pages are left to fill with these remaining photos.",
+    "The album has 30 pages in total. Alyssa has already used 20 pages.",
+    "This means there are 30 pages - 20 pages = 10 pages remaining.",
+    "Now, I distribute the remaining 30 photos equally across the 10 remaining pages.",
+    "Dividing, 30 photos \u00f7 10 pages = 3 photos per page."
+  ],
+  "solution": "3"
+}

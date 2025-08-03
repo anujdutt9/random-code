@@ -1,0 +1,20 @@
+{
+  "query": "Sarah is checking out books from the library to read on vacation. She can read 40 words per minute. The books she is checking out have 100 words per page and are 80 pages long. She will be reading for 20 hours. How many books should she check out?",
+  "steps": [
+    "First, I need to calculate how many words Sarah can read in one hour.",
+    "She reads 40 words per minute.",
+    "There are 60 minutes in one hour.",
+    "I multiply 40 words/minute by 60 minutes/hour to get the number of words per hour.",
+    "40 words/minute * 60 minutes/hour = 2400 words/hour.",
+    "Next, I need to calculate how many words Sarah can read in 20 hours.",
+    "I multiply the number of words she can read in one hour, 2400, by the 20 hours she plans to read.",
+    "2400 words/hour * 20 hours = 48,000 words.",
+    "Now, I determine how many words are in one book.",
+    "Each book has 100 words per page, and there are 80 pages in each book.",
+    "I multiply the number of words per page by the number of pages to find the total number of words in one book.",
+    "100 words/page * 80 pages = 8,000 words per book.",
+    "Now, I divide the total number of words Sarah can read, 48,000 words, by the number of words in one book, 8,000 words, to find out how many books she should check out.",
+    "48,000 words / 8,000 words/book = 6 books."
+  ],
+  "solution": "6"
+}

@@ -1,0 +1,11 @@
+{
+  "query": "Question: A small ice cube at a temperature of 0\u00b0C is dropped into a glass of water at 28\u00b0C and melts. What is the temperature of the water in the glass just after the ice cube melts?\n\nChoices:\nA: 0\u00b0C\nB: between 0\u00b0C and 28\u00b0C\nC: 28\u00b0C\nD: greater than 28\u00b0C",
+  "steps": [
+    "When the ice cube at 0\u00b0C is dropped into the water at 28\u00b0C, heat will transfer from the warmer water to the colder ice cube.",
+    "As the ice cube absorbs heat from the water, it will melt, and the temperature of the melted ice (now water) will remain at 0\u00b0C until all of the ice has melted.",
+    "After the ice has completely melted, the temperature of the mixture (the melted ice water and the remaining water) will depend on the heat exchange that occurred during the melting process.",
+    "Since there was an initial temperature difference, and some of the heat from the warmer water goes into melting the ice, the temperature of the water in the glass will drop from 28\u00b0C and rise from 0\u00b0C.",
+    "However, it will not reach 28\u00b0C immediately. Instead, the final temperature after the ice has melted will be somewhere between 0\u00b0C and 28\u00b0C as the heat from the water has now mixed with the melted ice."
+  ],
+  "solution": "B"
+}

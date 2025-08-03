@@ -1,0 +1,11 @@
+{
+  "query": "Daniel owns a textile company. Every Monday he delivers 20 yards of fabric, and every Tuesday he delivers twice the amount of fabric he delivers on Monday. Every Wednesday, he delivers 1/4 of the amount of fabric he delivers on Tuesday. If each yard of fabric costs $2 and each yard of yarn costs $3, how much does he earn from Monday to Wednesday?",
+  "steps": [
+    "First, determine the amount of fabric delivered on Monday. Daniel delivers 20 yards of fabric on Monday.",
+    "Next, calculate the amount of fabric delivered on Tuesday. He delivers twice the amount of Monday, which is 2 * 20 = 40 yards.",
+    "Now, find out the amount of fabric delivered on Wednesday. He delivers 1/4 of what he delivers on Tuesday. So, it's 1/4 * 40 = 10 yards.",
+    "Add up the total fabric delivered from Monday to Wednesday. Monday is 20 yards, Tuesday is 40 yards, and Wednesday is 10 yards. Total = 20 + 40 + 10 = 70 yards.",
+    "Each yard of fabric costs $2. So, calculate the earnings by multiplying the total yards by the cost per yard: 70 * 2 = $140."
+  ],
+  "solution": "140"
+}

@@ -1,0 +1,22 @@
+{
+  "query": "For homework, Juan's teacher asked everyone in the class, to write down the different types of transportation (cars, trucks, bicycles, skateboards etc) they saw on their way home that afternoon.  After school, Juan walked home and saw the following: 15 cars, 3 bicycles, 8 pickup trucks and 1 tricycle.  How many tires in total were there on the vehicles Juan saw?",
+  "steps": [
+    "First, I need to determine the number of tires on each type of vehicle.",
+    "Cars typically have 4 tires.",
+    "Bicycles usually have 2 tires.",
+    "Pickup trucks generally have 4 tires.",
+    "A tricycle, as the name suggests, has 3 tires.",
+    "Next, I will calculate the total number of tires for each type of transportation.",
+    "For cars, since there are 15 cars and each car has 4 tires, I multiply 15 by 4.",
+    "15 cars * 4 tires/car = 60 tires for all cars.",
+    "For bicycles, since there are 3 bicycles and each bicycle has 2 tires, I multiply 3 by 2.",
+    "3 bicycles * 2 tires/bicycle = 6 tires for all bicycles.",
+    "For pickup trucks, since there are 8 pickup trucks and each one has 4 tires, I multiply 8 by 4.",
+    "8 pickup trucks * 4 tires/pickup truck = 32 tires for all pickup trucks.",
+    "For the tricycle, I know it has 3 tires because it\u2019s a tricycle.",
+    "1 tricycle * 3 tires/tricycle = 3 tires for the tricycle.",
+    "Now, I will add up all the tires to get the total number.",
+    "60 (tires from cars) + 6 (tires from bicycles) + 32 (tires from pickup trucks) + 3 (tires from the tricycle) = 101 tires in total."
+  ],
+  "solution": "101"
+}

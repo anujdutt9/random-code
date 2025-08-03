@@ -1,0 +1,19 @@
+{
+  "query": "Ivanka wrote a book that took her 3 more months than it took Woody to write a book. Woody spent 1.5 years writing his book. How many months in total did Ivanka and Woody need to write their books?",
+  "steps": [
+    "First, I need to figure out how long it took Woody to write his book in months.",
+    "Woody spent 1.5 years writing his book.",
+    "A year has 12 months. So, 1.5 years is 1.5 * 12 months.",
+    "1.5 * 12 = 18 months.",
+    "Woody took 18 months to write his book.",
+    "Now, I need to find out how long it took Ivanka to write her book.",
+    "Ivanka took 3 more months than Woody to write her book.",
+    "So she spent 18 + 3 months writing her book.",
+    "18 + 3 = 21 months.",
+    "Ivanka took 21 months to write her book.",
+    "Now, I need to add the months Woody and Ivanka spent writing their books.",
+    "Woody spent 18 months and Ivanka spent 21 months.",
+    "18 + 21 = 39 months."
+  ],
+  "solution": "39"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "48 children are trying to share a pack of sweets. After taking 4 sweets each, there is still a third of the original amount left. What is the original number of sweets in the pack?",
+  "steps": [
+    "Let's call the original number of sweets \\( x \\).",
+    "There are 48 children, and each child takes 4 sweets.",
+    "So, the total number of sweets taken by all the children is \\( 48 \\times 4 = 192 \\).",
+    "After the children take the sweets, there is still a third of the original amount left, meaning \\(\\frac{1}{3}x\\) sweets remain.",
+    "The sweets taken plus the sweets remaining should equal the original amount.",
+    "This sets up the equation: \\( 192 + \\frac{1}{3}x = x \\).",
+    "Subtract \\(\\frac{1}{3}x\\) from both sides of the equation to isolate \\(x\\): \\( 192 = x - \\frac{1}{3}x \\).",
+    "Combine the terms on the right side: \\( 192 = \\frac{2}{3}x \\).",
+    "To solve for \\(x\\), multiply both sides by \\(\\frac{3}{2}\\).",
+    "\\( x = 192 \\times \\frac{3}{2} \\).",
+    "Calculate \\(x\\): \\( x = 288 \\)."
+  ],
+  "solution": "288"
+}

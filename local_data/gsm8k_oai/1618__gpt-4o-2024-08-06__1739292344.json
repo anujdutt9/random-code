@@ -1,0 +1,16 @@
+{
+  "query": "James was doing some shopping in his favorite shop and he saw an offer on shoes that give him a second pair of shoes for half off the original price. He took the offer and took the first pair of shoes for $40 and the second one for $60. At the cashier, the lady told him that the offer applies strictly to the cheaper pair of shoes, and also that he was selected for an extra discount of a fourth off the total amount. How much money did James end up paying for both pairs of shoes?",
+  "steps": [
+    "The full price of the first pair of shoes is $40.",
+    "The full price of the second pair of shoes is $60.",
+    "Since the offer applies to the cheaper pair, the discount of half off should be applied to the first pair of shoes.",
+    "Half of $40 is $20.",
+    "The discounted price of the first pair is $40 - $20 = $20.",
+    "The price for the second pair remains unchanged at $60.",
+    "Now, we need to calculate the total price after applying the offer. This is $20 (for the first pair) + $60 (for the second pair) = $80.",
+    "James was selected for an additional discount of one fourth off this total amount.",
+    "One fourth of $80 is calculated as $80 / 4 = $20.",
+    "I subtract the additional discount from the total price: $80 - $20 = $60."
+  ],
+  "solution": "60"
+}

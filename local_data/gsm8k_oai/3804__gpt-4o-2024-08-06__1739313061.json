@@ -1,0 +1,15 @@
+{
+  "query": "Corveus sleeps 4 hours a day and his doctor recommended for him to sleep 6 hours a day. How many hours of sleep does Corveus lack in a week?",
+  "steps": [
+    "First, I need to determine how many hours Corveus is currently sleeping in a week.",
+    "Corveus sleeps 4 hours a day.",
+    "There are 7 days in a week.",
+    "So, Corveus sleeps 4 hours/day * 7 days/week = 28 hours per week.",
+    "Next, I need to determine how many hours Corveus's doctor recommends he should sleep in a week.",
+    "The doctor recommended 6 hours of sleep per day.",
+    "So, the recommended sleep is 6 hours/day * 7 days/week = 42 hours per week.",
+    "Now, I need to calculate the difference between the recommended hours and Corveus's current hours of sleep per week.",
+    "Subtracting Corveus's current sleep hours from the recommended hours gives us 42 hours - 28 hours = 14 hours."
+  ],
+  "solution": "14"
+}

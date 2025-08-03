@@ -1,0 +1,19 @@
+{
+  "query": "In Mary's class, there are 25 students. Their teacher told them they could pay $50 each to finance a big science project that they and their society would benefit greatly from. They all paid the full amount except for 4 students, who paid half. How much was the class able to gather together?",
+  "steps": [
+    "There are 25 students in total.",
+    "Each student is asked to pay $50.",
+    "This would mean if everyone paid the full amount, they would contribute 25 students * $50 per student.",
+    "25 * 50 = 1250. So, if everyone paid the full amount, the total would be $1250.",
+    "However, 4 students paid only half the amount.",
+    "Half of $50 is $25.",
+    "Those 4 students paid $25 each, which is a total of 4 * $25.",
+    "4 * 25 = 100. So, those 4 students contributed $100 in total.",
+    "The students who paid the full amount are 25 - 4 = 21 students.",
+    "These 21 students paid 21 * $50.",
+    "21 * 50 = 1050. So, these 21 students contributed $1050 in total.",
+    "Now, add the amount from the 21 students who paid $50 each ($1050) and the amount from the 4 students who paid $25 each ($100).",
+    "1050 + 100 = 1150. Therefore, the class was able to gather a total of $1150."
+  ],
+  "solution": "1150"
+}

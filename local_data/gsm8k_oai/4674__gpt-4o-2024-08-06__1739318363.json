@@ -1,0 +1,14 @@
+{
+  "query": "Steve is 5'6\".  He grows 6 inches.  How tall is he in inches?",
+  "steps": [
+    "Steve's original height is given as 5 feet and 6 inches.",
+    "First, I'll convert Steve's height in feet to inches.",
+    "There are 12 inches in 1 foot.",
+    "So, Steve's height in inches = (5 feet * 12 inches/foot) + 6 inches.",
+    "This equals (5*12) + 6 = 60 + 6 = 66 inches.",
+    "Steve grows 6 inches.",
+    "Therefore, I'll add the 6 inches to his current height of 66 inches.",
+    "66 inches + 6 inches = 72 inches."
+  ],
+  "solution": "72"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Jim starts with $80 in his investment portfolio. After 1 year it grows by 15%. He then adds another $28 to his portfolio. After 1 more year the combined portfolio grows by 10%. What is his final portfolio worth after 2 years from when he started?",
+  "steps": [
+    "Jim starts with $80 in his investment portfolio.",
+    "In the first year, the portfolio grows by 15%.",
+    "I need to calculate the growth for the first year: $80 * 0.15 = $12.",
+    "After the first year, Jim's portfolio is $80 + $12 = $92.",
+    "Jim adds another $28 to his portfolio.",
+    "After adding $28, his portfolio becomes $92 + $28 = $120.",
+    "In the second year, the portfolio grows by 10%.",
+    "I need to calculate the growth for the second year: $120 * 0.10 = $12.",
+    "After the second year, Jim's portfolio is $120 + $12 = $132."
+  ],
+  "solution": "132"
+}

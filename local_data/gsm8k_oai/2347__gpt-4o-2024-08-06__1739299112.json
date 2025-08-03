@@ -1,0 +1,18 @@
+{
+  "query": "Rubert has 4 times the number of candies James has. James has 3 times the number of candies Adam has. If Adam has 6 candies, how many candies do the three of them have in total?",
+  "steps": [
+    "First, I need to determine how many candies Adam has. The problem states Adam has 6 candies.",
+    "Next, I need to find out how many candies James has. James has 3 times the number of candies Adam has, who has 6.",
+    "I calculate James's candies by multiplying 6 by 3.",
+    "6 times 3 equals 18. So, James has 18 candies.",
+    "Now, I need to find out how many candies Rubert has. Rubert has 4 times the number of candies James has, who has 18.",
+    "I calculate Rubert's candies by multiplying 18 by 4.",
+    "18 times 4 equals 72. So, Rubert has 72 candies.",
+    "Now, I know the number of candies each person has: Adam has 6, James has 18, and Rubert has 72.",
+    "I need to find the total number of candies all three of them have.",
+    "I add Adam's, James's, and Rubert's candies together: 6 + 18 + 72.",
+    "6 plus 18 equals 24.",
+    "24 plus 72 equals 96."
+  ],
+  "solution": "96"
+}

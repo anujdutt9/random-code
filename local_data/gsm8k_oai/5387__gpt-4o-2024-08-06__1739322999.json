@@ -1,0 +1,19 @@
+{
+  "query": "Jimmy's father receives 20 emails a day. Halfway through April, he subscribed to a news channel that sent 5 more emails per day to his email. What's the total number of emails Jimmy's father had at the end of the month?",
+  "steps": [
+    "I first note that April has 30 days.",
+    "Jimmy's father already receives 20 emails per day before subscribing.",
+    "For the first half of April, Jimmy's father receives 20 emails per day.",
+    "Halfway through April means 15 days. So, for the first 15 days, he receives 20 emails per day.",
+    "To calculate the number of emails for the first 15 days, I multiply 20 emails by 15 days.",
+    "20 emails/day * 15 days = 300 emails.",
+    "After halfway through April, Jimmy's father subscribes to the news channel that adds 5 more emails per day.",
+    "Now Jimmy's father receives a total of 20 + 5 = 25 emails per day.",
+    "For the remaining 15 days of April, he receives 25 emails per day.",
+    "To calculate the number of emails for the next 15 days, I multiply 25 emails by 15 days.",
+    "25 emails/day * 15 days = 375 emails.",
+    "To find the total number of emails Jimmy's father received in April, I add the number of emails from the first half to the second half.",
+    "300 emails + 375 emails = 675 emails."
+  ],
+  "solution": "675"
+}

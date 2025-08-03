@@ -1,0 +1,16 @@
+{
+  "query": "Scott runs 3 miles every Monday through Wednesday. Then he runs twice as far he ran on Monday every Thursday and Friday. How many miles will he run in a month with 4 weeks?",
+  "steps": [
+    "First, I will find out how many miles Scott runs from Monday to Wednesday.",
+    "Scott runs 3 miles each day from Monday to Wednesday, which is 3 days.",
+    "To find the total miles run from Monday to Wednesday, multiply 3 miles by 3 days: 3 miles/day * 3 days = 9 miles.",
+    "Next, I will find out how many miles Scott runs on Thursday and Friday.",
+    "On Thursday and Friday, Scott runs twice as much as he runs on Monday. Since he runs 3 miles on Monday, he will run 2 * 3 = 6 miles each day on Thursday and Friday.",
+    "To find the total miles run from Thursday to Friday, multiply 6 miles by 2 days: 6 miles/day * 2 days = 12 miles.",
+    "Now, add the miles run from Monday through Wednesday and Thursday through Friday to find the total miles run in one week.",
+    "Total miles in one week = 9 miles (Monday to Wednesday) + 12 miles (Thursday to Friday) = 21 miles.",
+    "The question specifies that we are considering a month with 4 weeks, so we need to calculate the total miles run over these 4 weeks.",
+    "Multiply the total miles run in one week by the number of weeks: 21 miles/week * 4 weeks = 84 miles."
+  ],
+  "solution": "84"
+}

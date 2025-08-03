@@ -1,0 +1,20 @@
+{
+  "query": "Kimberly loves gumballs and will trade almost anything she owns for them. A friend knows that Kim has a bunch of shiny new earrings that she loves. She agrees to give Kim 9 gumballs for each pair of earrings. On the first day, Kim brings her 3 pairs of earrings. On the second she brings her twice as many. On the third day, she brings 1 less than she brought on the second day. If Kim eats 3 gumballs a day, how many days will the gumballs last?",
+  "steps": [
+    "On the first day, Kim brings 3 pairs of earrings.",
+    "For each pair of earrings, she receives 9 gumballs.",
+    "On the first day, she receives 3 pairs * 9 gumballs/pair = 27 gumballs.",
+    "On the second day, she brings twice as many pairs of earrings as on the first day.",
+    "Twice 3 pairs is 3 * 2 = 6 pairs.",
+    "On the second day, she receives 6 pairs * 9 gumballs/pair = 54 gumballs.",
+    "On the third day, she brings 1 less pair than she brought on the second day.",
+    "She brought 6 pairs on the second day, so 1 less is 6 - 1 = 5 pairs.",
+    "On the third day, she receives 5 pairs * 9 gumballs/pair = 45 gumballs.",
+    "Now, I will add up all the gumballs Kim received over the three days.",
+    "27 gumballs (first day) + 54 gumballs (second day) + 45 gumballs (third day) = 126 gumballs.",
+    "Kim eats 3 gumballs a day.",
+    "To find out how long the gumballs will last, I divide the total number of gumballs by the amount she eats per day.",
+    "126 gumballs / 3 gumballs/day = 42 days."
+  ],
+  "solution": "42"
+}

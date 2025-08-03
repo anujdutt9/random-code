@@ -1,0 +1,19 @@
+{
+  "query": "Ayla has a customer care job whose primary role is to hear complaints from customers and advise them on the best way to solve their problems. She talks with each customer for a limited amount of time, and each phone call is charged five cents per minute. If each call lasts 1 hour, what's the phone bill at the end of the month if she manages to talk to 50 customers a week?",
+  "steps": [
+    "First, I need to calculate the total number of customers Ayla speaks with in a month.",
+    "On average, there are about 4 weeks in a month.",
+    "Ayla talks to 50 customers per week.",
+    "Therefore, in one month, Ayla talks to 50 customers/week * 4 weeks = 200 customers.",
+    "I know that each phone call lasts 1 hour.",
+    "There are 60 minutes in 1 hour.",
+    "So, each call lasts 60 minutes.",
+    "Each minute is charged at 5 cents.",
+    "Therefore, the cost of each call is 60 minutes * 5 cents/minute = 300 cents.",
+    "Since there are 100 cents in a dollar, 300 cents is equal to 300/100 = 3 dollars.",
+    "So, each call costs Ayla 3 dollars.",
+    "Now, I need to find the total cost for 200 calls in a month.",
+    "The total cost is 200 calls * 3 dollars/call = 600 dollars."
+  ],
+  "solution": "600"
+}

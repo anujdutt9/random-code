@@ -1,0 +1,14 @@
+{
+  "query": "Bill needs to soak his clothes for 4 minutes to get rid of each grass stain and 7 additional minutes to get rid of each marinara stain. If his clothes have 3 grass stains and 1 marinara stain, how long does he need to soak them?",
+  "steps": [
+    "First, I need to calculate the total time Bill spends soaking the clothes for grass stains.",
+    "Bill has 3 grass stains, and each one requires 4 minutes of soaking.",
+    "The soak time for grass stains is 3 stains * 4 minutes per stain = 12 minutes.",
+    "Now, I need to calculate the soak time for the marinara stain.",
+    "Bill has 1 marinara stain, and it requires 7 minutes of soaking.",
+    "The soak time for the marinara stain is 1 stain * 7 minutes per stain = 7 minutes.",
+    "To find the total soak time, I need to add the soak time for grass stains and the soak time for the marinara stain together.",
+    "Total soak time = 12 minutes (for grass stains) + 7 minutes (for marinara stain) = 19 minutes."
+  ],
+  "solution": "19"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "Emily bought 9 packs of candy necklaces to give her classmates at school for Valentine\u2019s Day. Each pack had 8 candy necklaces in it. Emily opened one pack at a time. After her classmates took as many as they wanted, there were 40 candy necklaces left. How many packs did Emily open for her classmates?",
+  "steps": [
+    "Emily bought 9 packs of candy necklaces.",
+    "Each pack contains 8 candy necklaces.",
+    "The total number of candy necklaces Emily had initially is 9 packs * 8 necklaces/pack = 72 necklaces.",
+    "After the classmates took what they wanted, there were 40 candy necklaces left.",
+    "To find out how many were taken, I need to calculate 72 - 40 = 32 candy necklaces taken.",
+    "Each pack has 8 candy necklaces, so I calculate how many packs would make up 32 candy necklaces by dividing 32 necklaces by 8 necklaces/pack.",
+    "32 \u00f7 8 = 4.",
+    "Emily opened 4 packs for her classmates."
+  ],
+  "solution": "4"
+}

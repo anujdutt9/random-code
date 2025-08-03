@@ -1,0 +1,16 @@
+{
+  "query": "Mrs. Amaro has 80 roses in her garden. Three-fourths of her roses are red, one-fourth of the remaining are yellow, and the rest are white. How many of Mrs. Amaro's roses are either red or white?",
+  "steps": [
+    "First, I need to determine how many of Mrs. Amaro's roses are red. I know that three-fourths of her roses are red.",
+    "Calculating three-fourths of 80: (3/4) * 80 = 60. So, 60 of Mrs. Amaro's roses are red.",
+    "Next, I need to find out how many roses are left after accounting for the red roses. She has a total of 80 roses, and 60 are red.",
+    "80 - 60 = 20 roses remain after accounting for the red roses.",
+    "Now, let's find out how many of the remaining roses are yellow. One-fourth of the remaining 20 roses are yellow.",
+    "(1/4) * 20 = 5 roses are yellow.",
+    "To find the number of white roses, I subtract the number of yellow roses from the remaining roses after accounting for the red roses.",
+    "20 remaining roses - 5 yellow roses = 15 white roses.",
+    "Now, I need to find out how many of Mrs. Amaro's roses are either red or white. I add the number of red roses and white roses together.",
+    "60 red roses + 15 white roses = 75 roses."
+  ],
+  "solution": "75"
+}

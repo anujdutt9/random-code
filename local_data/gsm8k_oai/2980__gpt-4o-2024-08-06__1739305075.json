@@ -1,0 +1,14 @@
+{
+  "query": "At his craftwork store, Howard has a collection of 70 wooden bowls where he rewards two to his customers for every 10 they buy. If he had 20 customers that day, half of whom bought 20 bowls each, calculate the number of bowls remaining in the rewards collection.",
+  "steps": [
+    "Howard has a total of 70 wooden bowls in his rewards collection initially.",
+    "He has 20 customers in total that day.",
+    "Half of these customers, which is 10 customers, bought 20 bowls each.",
+    "For each purchase of 20 bowls, customers would be rewarded with 4 bowls, based on the rule: 2 bowls for every 10 bowls purchased.",
+    "Thus, for a purchase of 20 bowls, Howard gives out 2 rewards of 2 bowls each, making it 4 bowls in total per customer.",
+    "Since there are 10 customers who bought 20 bowls each, the total number of rewarded bowls is 10 customers * 4 bowls per customer = 40 bowls.",
+    "Howard initially had 70 bowls in his rewards collection.",
+    "After rewarding 40 bowls, the remaining number of bowls in the collection is 70 - 40 = 30 bowls."
+  ],
+  "solution": "30"
+}

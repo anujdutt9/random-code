@@ -1,0 +1,15 @@
+{
+  "query": "Vanessa's new business is thriving and she frequently has orders to post. She has run out of packing peanuts for the packages and is now wondering how many orders she has sent. Each large order needs 200g of packing peanuts while small orders need just 50g of packing peanuts. If Lisa has used a total of 800g of packing peanuts and she knows she has sent 3 large orders, how many small orders has Lisa sent?",
+  "steps": [
+    "First, I need to determine how much packing peanuts were used for the large orders.",
+    "Vanessa sent 3 large orders, and each large order needs 200g of packing peanuts.",
+    "So, for the large orders, the packing peanuts used is 3 large orders * 200g/large order = 600g.",
+    "Vanessa used a total of 800g of packing peanuts.",
+    "To find how many packing peanuts were used for the small orders, I will subtract the packing peanuts used for the large orders from the total packing peanuts used.",
+    "800g total - 600g used for large orders = 200g used for small orders.",
+    "Each small order needs 50g of packing peanuts.",
+    "To find the number of small orders, I will divide the grams used for small orders by the grams used per small order.",
+    "200g used for small orders / 50g/small order = 4 small orders."
+  ],
+  "solution": "4"
+}

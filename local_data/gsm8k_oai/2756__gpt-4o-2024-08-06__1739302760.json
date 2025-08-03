@@ -1,0 +1,15 @@
+{
+  "query": "The Super Soup franchise had 23 stores in 2018. In 2019, the business opened 5 new stores, but closed the 2 that performed the worst. And in 2020, they opened 10 new stores, closing the 6 worst-performing. How many stores did Super Soup have at the end of 2020?",
+  "steps": [
+    "Start by identifying the initial number of stores in 2018, which is 23.",
+    "Determine the changes that occurred in 2019: 5 stores opened and 2 closed.",
+    "Calculate the number of stores at the end of 2019 by taking the initial stores (23), adding 5 new ones, and subtracting the 2 closed stores.",
+    "23 + 5 = 28 stores after opening new ones in 2019.",
+    "28 - 2 = 26 stores remaining at the end of 2019.",
+    "Next, identify the changes that occurred in 2020: 10 stores opened and 6 closed.",
+    "Calculate the number of stores at the end of 2020 by taking the 2019 count (26), adding 10 new ones, and subtracting the 6 closed stores.",
+    "26 + 10 = 36 stores after opening new ones in 2020.",
+    "36 - 6 = 30 stores remaining at the end of 2020."
+  ],
+  "solution": "30"
+}

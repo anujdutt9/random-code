@@ -1,0 +1,16 @@
+{
+  "query": "Cynthia has three children whose ages add up to 35. Matthew is two years older than Rebecca and four years younger than Freddy. How many years old is Freddy?",
+  "steps": [
+    "Let me denote Rebecca's age as R.",
+    "Matthew is two years older than Rebecca, so his age is R + 2.",
+    "Freddy is four years older than Matthew, so Freddy's age is (R + 2) + 4.",
+    "Simplifying the expression for Freddy's age, we get R + 6.",
+    "The sum of the children's ages is 35, so R + (R + 2) + (R + 6) = 35.",
+    "In the equation, combine like terms to get 3R + 8 = 35.",
+    "Next, solve for R by subtracting 8 from both sides, giving us 3R = 27.",
+    "Divide both sides by 3 to isolate R, yielding R = 9.",
+    "Now, I substitute R = 9 back into the expression for Freddy's age, which was R + 6.",
+    "Calculate Freddy\u2019s age as 9 + 6, which equals 15."
+  ],
+  "solution": "15"
+}

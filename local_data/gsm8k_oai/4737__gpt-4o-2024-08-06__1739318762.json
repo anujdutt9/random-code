@@ -1,0 +1,17 @@
+{
+  "query": "Cristian has 50 more black cookies in his cookie jar than white cookies. He eats half of the black cookies and 3/4 of the white cookies. If he initially had 80 white cookies, how many cookies are remaining within the cookie jar altogether?",
+  "steps": [
+    "I know that Cristian initially had 80 white cookies.",
+    "Cristian has 50 more black cookies than white cookies.",
+    "So, he initially had 80 + 50 = 130 black cookies.",
+    "He ate half of the black cookies.",
+    "Half of 130 black cookies is 130 / 2 = 65 black cookies.",
+    "After eating, he has 130 - 65 = 65 black cookies left.",
+    "He ate 3/4 of the white cookies.",
+    "3/4 of 80 white cookies is (3/4) * 80 = 60 white cookies.",
+    "After eating, he has 80 - 60 = 20 white cookies left.",
+    "Now, the total number of cookies remaining is 65 black cookies + 20 white cookies.",
+    "65 + 20 = 85 cookies remaining in the jar."
+  ],
+  "solution": "85"
+}

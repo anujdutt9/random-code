@@ -1,0 +1,18 @@
+{
+  "query": "Samantha bought a crate of 30 eggs for $5. If she decides to sell each egg for 20 cents, how many eggs will she have left by the time she recovers her capital from the sales?",
+  "steps": [
+    "Samantha bought 30 eggs for $5.",
+    "She is selling each egg for 20 cents. To find out how much each egg was bought for, we divide the total cost by the number of eggs.",
+    "$5 divided by 30 eggs = $0.1667 per egg. This is the cost price of each egg.",
+    "To recover her capital of $5, Samantha needs to make $5 from selling eggs.",
+    "Each egg is sold for 20 cents, which is $0.20.",
+    "We need to find out how many eggs must be sold at $0.20 each to make the $5 she spent.",
+    "To find out how many eggs $5 corresponds to when sold at $0.20 each, divide $5 by $0.20.",
+    "$5 divided by $0.20 is 25.",
+    "Therefore, Samantha needs to sell 25 eggs to recover her capital.",
+    "Samantha has 30 eggs originally.",
+    "If she sells 25 eggs to recover $5, the number of eggs she has left is 30 - 25.",
+    "30 eggs - 25 eggs = 5 eggs."
+  ],
+  "solution": "5"
+}

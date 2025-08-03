@@ -1,0 +1,27 @@
+{
+  "query": "The movie theater sells matinee tickets for $5, evening tickets for $12, and 3D tickets for $20. If they sell 200 matinee tickets, 300 evening tickets and 100 3D tickets, how much money do they make in total?",
+  "steps": [
+    "First, I need to calculate the total revenue from matinee tickets.",
+    "The price of a matinee ticket is $5.",
+    "The theater sells 200 matinee tickets.",
+    "The revenue from matinee tickets is calculated as 200 tickets multiplied by $5 per ticket.",
+    "200 multiplied by 5 equals 1000.",
+    "So, the revenue from matinee tickets is $1000.",
+    "Next, I need to calculate the revenue from evening tickets.",
+    "The price of an evening ticket is $12.",
+    "The theater sells 300 evening tickets.",
+    "The revenue from evening tickets is calculated as 300 tickets multiplied by $12 per ticket.",
+    "300 multiplied by 12 equals 3600.",
+    "So, the revenue from evening tickets is $3600.",
+    "Now, I need to calculate the revenue from 3D tickets.",
+    "The price of a 3D ticket is $20.",
+    "The theater sells 100 3D tickets.",
+    "The revenue from 3D tickets is calculated as 100 tickets multiplied by $20 per ticket.",
+    "100 multiplied by 20 equals 2000.",
+    "So, the revenue from 3D tickets is $2000.",
+    "Now, I need to add up all the revenues to find the total income.",
+    "I add $1000 (matinee) to $3600 (evening) and $2000 (3D).",
+    "$1000 plus $3600 equals $4600, plus $2000 equals $6600."
+  ],
+  "solution": "6600"
+}

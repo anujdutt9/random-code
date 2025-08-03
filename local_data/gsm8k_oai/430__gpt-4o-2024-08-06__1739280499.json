@@ -1,0 +1,17 @@
+{
+  "query": "Tanya went to the grocery store to buy some fruit.  She bought 6 pears, 4 Granny Smith apples, 2 pineapples, and a small basket of plums, which were all placed in a single paper bag.  Unfortunately, the bag that the fruit had been placed in had developed a hole.  Therefore, as Tanya walked home, half of the fruit fell out of the bag.  When she later counted the fruit left in the bag, there were only 9 pieces remaining.  How many plums did she buy?",
+  "steps": [
+    "First, I will find the total number of fruits Tanya initially bought. She bought 6 pears, 4 Granny Smith apples, 2 pineapples, and a basket of plums.",
+    "The total number of pears, apples, and pineapples is 6 (pears) + 4 (apples) + 2 (pineapples) = 12 fruits.",
+    "Let's denote the unknown number of plums in the basket as \"p\".",
+    "Therefore, the total initial number of fruits can be expressed as 12 + p.",
+    "We know that half of these fruits fell out of the bag.",
+    "That means the number of fruits that remained in the bag is half of the original amount, which we know to be 9 fruits.",
+    "According to the problem, half of the fruits fell out, meaning the number of remaining fruits is half of the total initial number.",
+    "So the equation would be (12 + p) / 2 = 9.",
+    "To find \"p\", I will multiply both sides of the equation by 2 to eliminate the fraction: 12 + p = 18.",
+    "Now, I will solve for \"p\" by subtracting 12 from both sides: p = 18 - 12.",
+    "Therefore, p = 6."
+  ],
+  "solution": "6"
+}

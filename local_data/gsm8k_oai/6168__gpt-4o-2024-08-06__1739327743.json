@@ -1,0 +1,15 @@
+{
+  "query": "There are 50 apples and 40 oranges in the cafeteria. If an apple costs $0.80 and an orange costs $0.50, how much does the cafeteria earn for apples and oranges if there are only 10 apples and 6 oranges left?",
+  "steps": [
+    "First, determine how many apples and oranges were sold.",
+    "Initially, there were 50 apples, and now there are 10 apples left. So, 50 - 10 = 40 apples were sold.",
+    "Initially, there were 40 oranges, and now there are 6 oranges left. So, 40 - 6 = 34 oranges were sold.",
+    "Next, calculate the total earnings from the apples sold.",
+    "Each apple costs $0.80. Therefore, the revenue from apples is 40 apples * $0.80/apple = $32.",
+    "Now, calculate the total earnings from the oranges sold.",
+    "Each orange costs $0.50. Therefore, the revenue from oranges is 34 oranges * $0.50/orange = $17.",
+    "Finally, add the earnings from apples and oranges to find the total earnings.",
+    "The total earnings are $32 from apples + $17 from oranges = $49."
+  ],
+  "solution": "49"
+}

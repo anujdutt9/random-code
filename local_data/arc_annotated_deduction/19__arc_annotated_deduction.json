@@ -1,0 +1,9 @@
+{
+    "id": 19,
+    "query": "Question: A student poured water into a plastic tray. The student then put the tray into the freezer. What property of the water changed as the water froze?\n\nChoices:\nA: The water became a gas.\nB: The mass of water increased.\nC: The water took a definite shape.\nD: The flavor of the water changed.",
+    "solution": "C",
+    "style_name": "form_5_annotated_deduction",
+    "steps": [
+        "[Water freezes] \u2192 [Becomes solid]\n[Solid has definite shape] \u2192 [Shape changed]\nAnswer: The water took a definite shape"
+    ]
+}

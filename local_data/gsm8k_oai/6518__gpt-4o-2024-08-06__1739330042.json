@@ -1,0 +1,14 @@
+{
+  "query": "Each year Dani gets 4 pairs of two pants each as pay winning the best Amazon buyer of the season. If he initially had 50 pants, calculate the number of pants he'll have in 5 years.",
+  "steps": [
+    "Dani initially has 50 pants.",
+    "Each year, Dani gets 4 pairs of pants.",
+    "Each pair consists of 2 pants, thus 4 pairs mean 4 * 2 = 8 pants.",
+    "For each year, Dani receives 8 additional pants.",
+    "In 5 years, Dani will get 8 pants per year * 5 years = 40 pants.",
+    "Initially, he had 50 pants.",
+    "After 5 years, in addition to the 50 pants he started with, he would have received 40 more pants.",
+    "So, 50 initial pants + 40 new pants = 90 pants."
+  ],
+  "solution": "90"
+}

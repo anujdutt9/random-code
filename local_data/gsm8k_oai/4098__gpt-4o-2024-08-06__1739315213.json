@@ -1,0 +1,16 @@
+{
+  "query": "Colston knows that his teacher loves drinking coffee and one day wants to see how much she drinks each week. He sees that she has a 20-ounce thermos and when she makes her coffee she pours a 1/2 cup of milk in, and then fills the coffee to the top. She does this twice a day. After the five-day school week, he decides to tell her, and when she hears how much coffee she drinks, she decides to drink 1/4 of what she normally drinks. How many ounces of coffee does she now drink a week?",
+  "steps": [
+    "First, I need to determine how many ounces of milk are in one full thermos of coffee.",
+    "Colston sees that she pours a 1/2 cup of milk each time. There are 8 ounces in a cup.",
+    "So, 1/2 cup of milk is 4 ounces (8 ounces in a cup * 1/2).",
+    "The thermos is 20 ounces, and she fills the rest with coffee after the milk is added.",
+    "This means there are 20 ounces - 4 ounces = 16 ounces of coffee each time she fills the thermos.",
+    "She fills this thermos twice a day, so she drinks 16 ounces * 2 = 32 ounces of coffee each day.",
+    "The school week is 5 days long.",
+    "So, in a 5-day school week, she drinks 32 ounces/day * 5 days = 160 ounces of coffee.",
+    "She decides to drink 1/4 of what she normally drinks.",
+    "1/4 of 160 ounces is 160 ounces * 1/4 = 40 ounces."
+  ],
+  "solution": "40"
+}

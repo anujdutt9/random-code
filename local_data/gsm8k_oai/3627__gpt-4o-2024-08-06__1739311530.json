@@ -1,0 +1,14 @@
+{
+  "query": "When Jeffrey walks, for every three steps forward, he takes two steps backwards.  Therefore, if the distance between the house and the mailbox is 66 steps, what is the total number of steps Jeffrey takes when he goes from the house to the mailbox?",
+  "steps": [
+    "First, I need to determine Jeffrey's effective progress towards the mailbox in one complete cycle of his steps.",
+    "In one cycle, Jeffrey takes 3 steps forward and 2 steps backward.",
+    "So his net progress in one cycle is 3 steps forward - 2 steps backward = 1 step forward.",
+    "Jeffrey needs to cover a total distance of 66 steps to reach the mailbox.",
+    "Given that the net progress per cycle is 1 step forward, Jeffrey needs to complete 66 cycles to reach the mailbox.",
+    "In each cycle, Jeffrey takes a total of 3 (forward) + 2 (backward) = 5 steps.",
+    "Therefore, to complete 66 cycles, the total number of steps Jeffrey takes is 66 cycles \u00d7 5 steps per cycle.",
+    "66 cycles \u00d7 5 steps per cycle = 330 steps."
+  ],
+  "solution": "330"
+}

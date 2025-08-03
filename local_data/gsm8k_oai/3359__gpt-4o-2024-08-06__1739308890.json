@@ -1,0 +1,15 @@
+{
+  "query": "Ben has two brothers. They can each eat 12 slices of pizza. They are ordering pizza for the night and want to make sure they get enough. The large pizzas have 14 slices and the small pizzas have 8. If they order 1 small pizza, how many large pizzas do they need to order?",
+  "steps": [
+    "Ben and his two brothers each need to consume 12 slices of pizza for the night.",
+    "There are three people in total: Ben and his two brothers.",
+    "The total number of slices needed is 3 people * 12 slices/person = 36 slices.",
+    "They are ordering 1 small pizza, which has 8 slices.",
+    "If they order 1 small pizza, they will have 8 slices.",
+    "The number of slices still needed after ordering the small pizza is 36 slices - 8 slices = 28 slices.",
+    "Each large pizza has 14 slices.",
+    "To find out how many large pizzas they need to cover the remaining 28 slices, divide 28 slices by 14 slices/large pizza.",
+    "28 slices \u00f7 14 slices/large pizza = 2 large pizzas."
+  ],
+  "solution": "2"
+}

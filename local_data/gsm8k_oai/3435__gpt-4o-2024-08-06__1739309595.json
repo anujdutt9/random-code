@@ -1,0 +1,21 @@
+{
+  "query": "John is trying to save money by buying cheap calorie-dense food.  He can buy 10 burritos for $6 that have 120 calories each.  He could also buy 5 burgers that are 400 calories each for $8.  How many more calories per dollar does he get from the burgers?",
+  "steps": [
+    "First, I need to calculate the total calories for the burritos.",
+    "Each burrito is 120 calories, and John buys 10 of them.",
+    "10 burritos * 120 calories each = 1200 calories.",
+    "Next, I calculate how many calories per dollar the burritos provide.",
+    "The burritos cost $6.",
+    "Calories per dollar for burritos = 1200 calories / $6 = 200 calories per dollar.",
+    "Now, let's calculate the total calories for the burgers.",
+    "Each burger is 400 calories, and John buys 5 of them.",
+    "5 burgers * 400 calories each = 2000 calories.",
+    "Next, I calculate how many calories per dollar the burgers provide.",
+    "The burgers cost $8.",
+    "Calories per dollar for burgers = 2000 calories / $8 = 250 calories per dollar.",
+    "I need to find the difference in calories per dollar between burgers and burritos.",
+    "Calories per dollar difference = 250 calories per dollar (burgers) - 200 calories per dollar (burritos).",
+    "This results in a difference of 50 calories per dollar."
+  ],
+  "solution": "50"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "John works a job that offers performance bonuses.  He makes $80 a day and works for 8 hours.  He has the option of working hard to earn the performance bonus of an extra $20 a day, but the extra effort results in a 2-hour longer workday.  How much does John make per hour if he decides to earn the bonus?",
+  "steps": [
+    "John makes $80 a day without any bonus.",
+    "He works for 8 hours to earn this $80.",
+    "To calculate his hourly rate without the bonus, divide $80 by 8 hours.",
+    "$80 / 8 hours = $10 per hour without the bonus.",
+    "Now, let's consider when he decides to earn the bonus.",
+    "The bonus offers an additional $20 per day.",
+    "So, his total earnings with the bonus would be $80 + $20 = $100 per day.",
+    "The extra effort for the bonus requires him to work 2 additional hours.",
+    "His new total work hours would be 8 + 2 = 10 hours per day.",
+    "To find out how much he makes per hour with the bonus, divide his total earnings by the total hours.",
+    "$100 / 10 hours = $10 per hour with the bonus.",
+    "I notice that $100/10 hours is again $10 per hour, which matches his hourly rate without the bonus."
+  ],
+  "solution": "10"
+}

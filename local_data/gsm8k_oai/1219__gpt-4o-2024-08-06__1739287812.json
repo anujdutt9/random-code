@@ -1,0 +1,21 @@
+{
+  "query": "Victor works at Clucks Delux, a restaurant specializing in chicken. An order of Chicken Pasta uses 2 pieces of chicken, an order of Barbecue Chicken uses 3 pieces of chicken, and a family-size Fried Chicken Dinner uses 8 pieces of chicken. Tonight, Victor has 2 Fried Chicken Dinner orders, 6 Chicken Pasta orders, and 3 Barbecue Chicken orders. How many pieces of chicken does he need for all the orders?",
+  "steps": [
+    "First, I need to determine how many pieces of chicken each type of order uses.",
+    "For Chicken Pasta, each order uses 2 pieces of chicken.",
+    "Victor has 6 Chicken Pasta orders.",
+    "Multiply 6 orders by 2 pieces per order to find the total pieces for Chicken Pasta: 6 * 2 = 12 pieces.",
+    "Next, let's calculate the pieces needed for Barbecue Chicken.",
+    "Each order of Barbecue Chicken uses 3 pieces of chicken.",
+    "Victor has 3 Barbecue Chicken orders.",
+    "Multiply 3 orders by 3 pieces per order to find the total pieces for Barbecue Chicken: 3 * 3 = 9 pieces.",
+    "Now, let's calculate the pieces needed for the Fried Chicken Dinner.",
+    "Each order of Fried Chicken Dinner uses 8 pieces of chicken.",
+    "Victor has 2 Fried Chicken Dinner orders.",
+    "Multiply 2 orders by 8 pieces per order to find the total pieces for Fried Chicken Dinner: 2 * 8 = 16 pieces.",
+    "Add up all the pieces of chicken needed for all the orders.",
+    "For Chicken Pasta, 12 pieces; Barbecue Chicken, 9 pieces; and Fried Chicken Dinner, 16 pieces.",
+    "Add 12 + 9 + 16 to find the total number of pieces needed: 12 + 9 + 16 = 37 pieces."
+  ],
+  "solution": "37"
+}

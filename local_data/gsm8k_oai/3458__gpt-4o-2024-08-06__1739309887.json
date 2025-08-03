@@ -1,0 +1,18 @@
+{
+  "query": "Jake delivers 234 newspapers a week. Miranda delivers twice as many newspapers a week. How many more newspapers does Miranda deliver than Jake in a month?",
+  "steps": [
+    "Jake delivers 234 newspapers a week.",
+    "Miranda delivers twice as many as Jake.",
+    "To find out how many Miranda delivers in a week, I will multiply 234 by 2.",
+    "234 * 2 = 468",
+    "Miranda delivers 468 newspapers a week.",
+    "Now I need to find out how many they each deliver in a month. Typically, a month has about 4 weeks.",
+    "First, calculate how many newspapers Jake delivers in 4 weeks.",
+    "234 newspapers/week * 4 weeks = 936 newspapers/month",
+    "Now, calculate how many newspapers Miranda delivers in 4 weeks.",
+    "468 newspapers/week * 4 weeks = 1872 newspapers/month",
+    "To find out how many more newspapers Miranda delivers than Jake in a month, subtract the number Jake delivers from the number Miranda delivers.",
+    "1872 - 936 = 936"
+  ],
+  "solution": "936"
+}

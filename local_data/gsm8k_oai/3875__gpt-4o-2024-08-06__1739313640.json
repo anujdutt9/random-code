@@ -1,0 +1,14 @@
+{
+  "query": "Three snails raced across a rain-soaked sidewalk.  The first snail raced at a speed of 2 feet per minute.  The second snail raced at twice the speed of the first snail.  And the third snail traveled at five times the rate of speed as the second snail.  If it took the first snail 20 minutes to race all the way up the sidewalk, how long, in minutes, did it take for the third snail to race all the way up the sidewalk?",
+  "steps": [
+    "The speed of the first snail is given as 2 feet per minute.",
+    "The second snail raced at twice the speed of the first snail, so it traveled at 2 * 2 = 4 feet per minute.",
+    "The third snail traveled at five times the speed of the second snail, so it traveled at 5 * 4 = 20 feet per minute.",
+    "The first snail took 20 minutes to race all the way up the sidewalk.",
+    "The distance the first snail traveled can be calculated as speed * time = 2 feet per minute * 20 minutes = 40 feet.",
+    "The third snail, traveling at 20 feet per minute, needs to cover the same distance of 40 feet.",
+    "Calculate the time it takes for the third snail by dividing the distance by its speed: 40 feet / 20 feet per minute.",
+    "40 divided by 20 equals 2."
+  ],
+  "solution": "2"
+}

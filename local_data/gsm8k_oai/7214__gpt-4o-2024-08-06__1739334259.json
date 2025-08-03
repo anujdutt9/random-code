@@ -1,0 +1,23 @@
+{
+  "query": "Phil started his day with $40. He bought a slice of pizza for $2.75, a soda for $1.50 and a pair of jeans for $11.50.  If he has nothing but quarters left of his original money, how many quarters does he now have?",
+  "steps": [
+    "Phil started with $40.",
+    "He bought a slice of pizza for $2.75.",
+    "He bought a soda for $1.50.",
+    "He bought a pair of jeans for $11.50.",
+    "First, I need to calculate the total spent on these items.",
+    "Add the cost of the pizza, soda, and jeans: $2.75 + $1.50 + $11.50.",
+    "$2.75 + $1.50 equals $4.25.",
+    "$4.25 + $11.50 equals $15.75.",
+    "Phil spent a total of $15.75.",
+    "Next, I need to determine how much money Phil has left.",
+    "Subtract the total spent from the initial amount: $40 - $15.75.",
+    "$40.00 - $15.75 equals $24.25.",
+    "Phil has $24.25 left.",
+    "He has only quarters left, so I need to find out how many quarters make up $24.25.",
+    "Convert $24.25 to quarters by dividing by 0.25.",
+    "$24.25 divided by $0.25 equals 97.",
+    "Therefore, Phil has 97 quarters remaining."
+  ],
+  "solution": "97"
+}

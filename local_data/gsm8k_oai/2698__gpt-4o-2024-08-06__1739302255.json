@@ -1,0 +1,16 @@
+{
+  "query": "Amanda and her family are going to re-paint all the walls inside their house. Before they get started they want to divide up the work. Since all the rooms in the house have different numbers and sizes of walls in them, they figure the fairest way to divide up the work is to count all the walls in the house and assign an equal number to each person. There are 5 people in Amanda's family, including herself. There are 9 rooms in the house. 5 of the rooms have 4 walls each. The other 4 rooms each have 5 walls each. To be fair, how many walls should each person in Amanda's family paint?",
+  "steps": [
+    "First, I need to calculate the total number of walls in the house.",
+    "There are 5 rooms with 4 walls each.",
+    "5 rooms * 4 walls per room = 20 walls.",
+    "There are also 4 rooms with 5 walls each.",
+    "4 rooms * 5 walls per room = 20 walls.",
+    "Now I need to add the walls from both sets of rooms to find the total number of walls.",
+    "20 walls + 20 walls = 40 walls.",
+    "There are 5 people in Amanda's family.",
+    "To find out how many walls each person should paint, I divide the total number of walls by the number of people.",
+    "40 walls \u00f7 5 people = 8 walls per person."
+  ],
+  "solution": "8"
+}

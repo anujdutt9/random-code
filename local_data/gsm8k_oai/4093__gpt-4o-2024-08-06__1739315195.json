@@ -1,0 +1,18 @@
+{
+  "query": "A judge oversaw seventeen court cases. Two were immediately dismissed from court. Two-thirds of the remaining cases were ruled innocent, one ruling was delayed until a later date, and the rest were judged guilty. On how many cases did the judge rule guilty?",
+  "steps": [
+    "The judge initially oversaw seventeen court cases.",
+    "Two of these cases were immediately dismissed.",
+    "To find the remaining cases, subtract the dismissed cases from the total: 17 - 2.",
+    "This leaves 15 cases that are not dismissed.",
+    "Two-thirds of these remaining cases were ruled innocent.",
+    "Calculate two-thirds of 15 by dividing 15 by 3 and then multiplying by 2.",
+    "15 divided by 3 is 5.",
+    "5 multiplied by 2 is 10.",
+    "So, 10 cases were ruled innocent.",
+    "One ruling was delayed until a later date.",
+    "Subtract the innocent cases and the delayed case from the remaining cases: 15 - 10 - 1.",
+    "This leaves 4 cases that were judged guilty."
+  ],
+  "solution": "4"
+}

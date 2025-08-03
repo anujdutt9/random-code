@@ -1,0 +1,20 @@
+{
+  "query": "From his apartment, Kona drives 9 miles to the bakery.  From there, he drives 24 miles to his grandmother\u2019s house.  From her house, he drives 27 miles straight to his apartment.  How many additional miles did Kona drive round trip to the bakery stop, compared to a round trip without the bakery stop?",
+  "steps": [
+    "First, I'll calculate the total miles Kona drove with the bakery stop.",
+    "Kona drives from his apartment to the bakery, which is 9 miles.",
+    "Then, he drives from the bakery to his grandmother's house, which is 24 miles.",
+    "Finally, he drives back to his apartment from his grandmother's house, which is 27 miles.",
+    "Therefore, the total miles he drove with the bakery stop is 9 + 24 + 27.",
+    "Calculating that, 9 + 24 = 33.",
+    "Then, 33 + 27 = 60.",
+    "Now, I'll calculate the miles Kona would have driven without the bakery stop, which is a direct round trip to his grandmother's house.",
+    "The direct one-way distance from his apartment to his grandmother's house is 27 miles.",
+    "For the round trip without the bakery stop, it's 27 (apartment to grandmother's house) + 27 (grandmother's house to apartment).",
+    "So, the direct round trip is 27 + 27 = 54 miles.",
+    "Now, I'll find the additional miles driven with the bakery stop by subtracting the direct round trip miles from the total miles driven with the bakery stop.",
+    "The additional miles driven is 60 - 54.",
+    "Calculating that, 60 - 54 = 6."
+  ],
+  "solution": "6"
+}

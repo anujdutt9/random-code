@@ -1,0 +1,20 @@
+{
+  "query": "In a Zoo, there are different animals. There are 5 giraffes and twice as many penguins. Penguins make up 20% of all the animals in the Zoo. How many elephants are there in the Zoo if they make up 4% of all the animals?",
+  "steps": [
+    "First, I know that there are 5 giraffes in the Zoo.",
+    "The number of penguins is twice the number of giraffes.",
+    "Thus, there are 5 * 2 = 10 penguins.",
+    "Penguins make up 20% of all the animals in the Zoo.",
+    "Let the total number of animals in the Zoo be represented by X.",
+    "Since penguins make up 20% of all animals, this means 10 = 0.20 * X.",
+    "To find X, I need to solve the equation 10 = 0.20 * X.",
+    "Dividing both sides by 0.20, I get X = 10 / 0.20.",
+    "Calculating gives X = 50.",
+    "This means there are 50 animals in total in the Zoo.",
+    "The elephants make up 4% of all the animals.",
+    "The number of elephants is then 0.04 * 50.",
+    "0.04 * 50 = 2.",
+    "Therefore, there are 2 elephants in the Zoo."
+  ],
+  "solution": "2"
+}

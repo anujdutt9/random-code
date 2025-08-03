@@ -1,0 +1,17 @@
+{
+  "query": "John plays a game for 4 hours a day every day for 2 weeks.  After all that time, he is only 40% done.  He increased his playtime to 7 hours a day.  How long until he finishes the game?",
+  "steps": [
+    "First, I need to figure out how many hours John played during the first two weeks.",
+    "John plays for 4 hours a day every day for those 14 days (2 weeks).",
+    "I will calculate the total hours played in two weeks: 4 hours/day * 14 days = 56 hours.",
+    "After these 56 hours, John has completed 40% of the game.",
+    "To find out the total hours needed to finish the game, I'll set up a proportion since 56 hours represents 40% completion.",
+    "If 56 hours = 40%, then X hours = 100%. Setting up the equation, X = 56 hours * (100 / 40).",
+    "X = 140 hours. So, it takes 140 hours to complete the game.",
+    "Now, John has already played 56 out of the 140 hours.",
+    "So, he still needs 140 - 56 = 84 more hours to finish the game.",
+    "Now, John has increased his playtime to 7 hours a day.",
+    "I will divide the remaining hours by the new hours per day: 84 hours remaining / 7 hours/day = 12 days."
+  ],
+  "solution": "12"
+}

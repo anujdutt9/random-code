@@ -1,0 +1,17 @@
+{
+  "query": "Johns goes to the gym 3 times a week.  He spends 1 hour each day lifting weight. Additionally, he also spends a third of his weightlifting time warming up and doing cardio each day.  How many hours does he spend at the gym a week?",
+  "steps": [
+    "John goes to the gym 3 times a week.",
+    "Each day, he spends 1 hour lifting weights.",
+    "In addition to weightlifting, he spends a third of his lifting time warming up and doing cardio.",
+    "A third of his lifting time (1 hour) is 1/3 hour.",
+    "Therefore, each day he spends 1 hour lifting weights and 1/3 hour warming up and doing cardio.",
+    "Adding these times: 1 hour + 1/3 hour = 1 1/3 hours per gym session.",
+    "Now, to find the total time spent at the gym per week, I need to multiply the time per session by the number of sessions per week.",
+    "He goes to the gym 3 times a week, so I multiply 1 1/3 hours by 3 sessions.",
+    "First, I convert 1 1/3 hours into an improper fraction, which is 4/3 hours.",
+    "Now, I perform the multiplication: 3 * (4/3) = 12/3.",
+    "Simplifying 12/3 gives 4."
+  ],
+  "solution": "4"
+}

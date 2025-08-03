@@ -1,0 +1,16 @@
+{
+  "query": "Annie plants 3 pots of basil, 9 pots of rosemary, and 6 pots of thyme. Each basil plant has 4 leaves, each rosemary plant has 18 leaves, and each thyme plant has 30 leaves. How many leaves are there total?",
+  "steps": [
+    "First, I need to calculate the total number of leaves for each type of plant.",
+    "Starting with basil, there are 3 pots and each basil plant has 4 leaves.",
+    "To find the total number of leaves for basil: 3 pots * 4 leaves per pot = 12 leaves.",
+    "Next is the rosemary, which has 9 pots, and each pot has 18 leaves.",
+    "To find the total number of leaves for rosemary: 9 pots * 18 leaves per pot = 162 leaves.",
+    "Now for thyme, there are 6 pots, and each pot has 30 leaves.",
+    "To find the total number of leaves for thyme: 6 pots * 30 leaves per pot = 180 leaves.",
+    "Now I need to add up the total number of leaves for all plants: 12 (basil) + 162 (rosemary) + 180 (thyme).",
+    "Calculating the sum: 12 + 162 = 174",
+    "Then adding thyme leaves: 174 + 180 = 354"
+  ],
+  "solution": "354"
+}

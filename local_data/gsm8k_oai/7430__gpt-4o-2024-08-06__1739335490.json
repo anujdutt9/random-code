@@ -1,0 +1,15 @@
+{
+  "query": "A park has 50 benches with a capacity of 4 people each. On a Sunday afternoon, 80 people were sitting on the benches. What's the number of available spaces on the benches that other people can sit on before the carrying capacity of the benches is full?",
+  "steps": [
+    "First, I need to calculate the total carrying capacity of all the benches in the park.",
+    "There are 50 benches, and each bench can hold 4 people.",
+    "Multiply 50 benches by 4 people per bench: 50 * 4 = 200.",
+    "The total carrying capacity of the benches is 200 people.",
+    "Next, I need to determine how many people are currently sitting on the benches.",
+    "According to the question, 80 people are currently sitting on the benches.",
+    "Now, I should find out how many spaces are still available on the benches.",
+    "Subtract the number of people currently sitting (80) from the total capacity (200): 200 - 80 = 120.",
+    "So, there are 120 available spaces left on the benches."
+  ],
+  "solution": "120"
+}

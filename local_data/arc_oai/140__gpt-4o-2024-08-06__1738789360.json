@@ -1,0 +1,13 @@
+{
+  "query": "Question: The visible colors listed from shortest to longest wavelength are violet, blue, green, yellow, orange, and red. Which of the following accurately compares the frequency of these colors using this information?\n\nChoices:\nA: Blue has a higher frequency than violet.\nB: Blue has a higher frequency than green.\nC: Orange has a lower frequency than red.\nD: Violet has a lower frequency than yellow.",
+  "steps": [
+    "The frequency of light is inversely related to its wavelength: the shorter the wavelength, the higher the frequency. Therefore, colors with shorter wavelengths have higher frequencies.",
+    "According to the list, the order from shortest to longest wavelength is: violet, blue, green, yellow, orange, and red.",
+    "Violet, therefore, has the highest frequency, followed by blue, green, yellow, orange, and red, which has the lowest frequency.",
+    "Evaluate choice A: Blue has a higher frequency than violet. This is incorrect because violet has a higher frequency than blue.",
+    "Evaluate choice B: Blue has a higher frequency than green. This is correct because blue comes before green in the wavelength order, meaning it has a higher frequency.",
+    "Evaluate choice C: Orange has a lower frequency than red. This is incorrect because orange has a higher frequency than red, as it comes before red in the wavelength order.",
+    "Evaluate choice D: Violet has a lower frequency than yellow. This is incorrect because violet has a significantly higher frequency than yellow, as it comes well before yellow in the wavelength order."
+  ],
+  "solution": "B"
+}

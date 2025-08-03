@@ -1,0 +1,17 @@
+{
+  "query": "The difference between the ages of two friends is 2 years. The sum of their ages is 74 years. Find the age of the older friend.",
+  "steps": [
+    "I need to find the ages of two friends given the difference and sum of their ages.",
+    "Let's denote the age of the younger friend as \\( x \\).",
+    "Then, the age of the older friend would be \\( x + 2 \\) since the difference in their ages is 2 years.",
+    "The sum of their ages is given to be 74 years.",
+    "So I can write the equation: \\( x + (x + 2) = 74 \\).",
+    "This simplifies to \\( 2x + 2 = 74 \\).",
+    "Subtract 2 from both sides to get \\( 2x = 72 \\).",
+    "Divide both sides by 2 to solve for \\( x \\), resulting in \\( x = 36 \\).",
+    "The younger friend is 36 years old.",
+    "Now, I find the age of the older friend by calculating \\( x + 2 \\).",
+    "Substituting \\( x = 36 \\), the older friend's age is \\( 36 + 2 = 38 \\)."
+  ],
+  "solution": "38"
+}

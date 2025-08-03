@@ -1,0 +1,11 @@
+{
+  "query": "Question: Laura adds 50 mL of boiling water to 100 mL of ice water. If the 150 mL of water is then put into a freezer, at what temperature will the water freeze?\n\nChoices:\nA: 0\u00b0C\nB: 15\u00b0C\nC: 37\u00b0C\nD: 50\u00b0C",
+  "steps": [
+    "First, we need to find the equilibrium temperature when 50 mL of boiling water (100\u00b0C) is mixed with 100 mL of ice water (0\u00b0C).",
+    "Using the principle of conservation of energy, we can set up the equation for heat transfer: \nmass_boiling * specific_heat * (T_final - T_boiling) + mass_ice * specific_heat * (T_final - T_ice) = 0. \nLet the specific heat of water be 1 cal/g\u00b0C, the mass of boiling water will be 50 g (since 50 mL of water is approximately 50 g), and the mass of ice water will be 100 g.",
+    "Let T_final be the final temperature of the mixture. The equation becomes: \n50 * (T_final - 100) + 100 * (T_final - 0) = 0. \nThis simplifies to: \n50T_final - 5000 + 100T_final = 0. \nCombining like terms gives: \n150T_final = 5000.",
+    "Dividing both sides by 150, we find T_final = 5000 / 150, which simplifies to T_final = 33.33\u00b0C.",
+    "Since the resulting temperature of the mixture (33.33\u00b0C) is above 0\u00b0C, and it will still be in liquid form before it starts to freeze, we conclude that when the mixed water is put into the freezer, it will eventually freeze at 0\u00b0C, as that is the freezing point of water."
+  ],
+  "solution": "A"
+}

@@ -1,0 +1,21 @@
+{
+  "query": "Jenny signs up for dinner theater with 5 of her friends. Each person pays $50 for the ticket and $10 for their entr\u00e9e, and half the people also buy unlimited drink tickets for $30/person. Then the dinner theater is canceled due to COVID, and each person gets a 90% refund. How much money did the group of six friends lose?",
+  "steps": [
+    "Jenny and her 5 friends make up a total of 6 people.",
+    "Each person pays $50 for the ticket.",
+    "Each person also pays $10 for their entr\u00e9e.",
+    "So the total payment per person for ticket and entr\u00e9e is $50 + $10 = $60.",
+    "Half of the 6 people buy unlimited drink tickets. Half of 6 is 3.",
+    "Each drink ticket costs $30.",
+    "The 3 people who buy drink tickets pay 3 * $30 = $90 in total for the drink tickets.",
+    "The total payment for tickets and entr\u00e9es for all 6 people is 6 * $60 = $360.",
+    "Adding the cost of the drink tickets, the total cost for everything is $360 + $90 = $450.",
+    "The event was canceled, and each person receives a 90% refund.",
+    "A 90% refund on $450 means the group receives 90% of $450 back.",
+    "First, calculate 10% of $450: 10% of $450 is $450 * 0.10 = $45.",
+    "So the group gets $450 - $45 = $405 back.",
+    "The amount of money lost by the group is the total paid initially minus the refund received, so $450 - $405.",
+    "Therefore, the group loses $45."
+  ],
+  "solution": "45"
+}

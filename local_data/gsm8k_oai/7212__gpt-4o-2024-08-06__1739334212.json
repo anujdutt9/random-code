@@ -1,0 +1,17 @@
+{
+  "query": "Ravi can jump higher than anyone in the class. In fact, he can jump 1.5 times higher than the average jump of the three next highest jumpers. If the three next highest jumpers can jump 23 inches, 27 inches, and 28 inches, how high can Ravi jump?",
+  "steps": [
+    "First, I need to calculate the average jump height of the three next highest jumpers.",
+    "The three jump heights are 23 inches, 27 inches, and 28 inches.",
+    "To find the average, I will add these three numbers together.",
+    "23 + 27 = 50",
+    "50 + 28 = 78",
+    "Now, I will divide the total by the number of jumpers, which is 3, to get the average.",
+    "78 divided by 3 is 26.",
+    "The average jump height of the three next highest jumpers is 26 inches.",
+    "Ravi can jump 1.5 times higher than the average of the next highest jumpers.",
+    "To find how high Ravi can jump, I need to multiply the average jump height by 1.5.",
+    "26 multiplied by 1.5 is 39."
+  ],
+  "solution": "39"
+}

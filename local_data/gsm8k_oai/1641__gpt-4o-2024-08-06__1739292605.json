@@ -1,0 +1,15 @@
+{
+  "query": "John uses the bathroom every 50 minutes.  How many times does he use the bathroom during a 2.5-hour movie?",
+  "steps": [
+    "First, I need to understand the duration of the movie in minutes.",
+    "A 2.5-hour movie is 2.5 x 60 = 150 minutes long.",
+    "Next, I need to determine how often John uses the bathroom.",
+    "John uses the bathroom every 50 minutes.",
+    "To find how many times he uses the bathroom during the movie, I need to divide the total movie time by the interval at which he uses the bathroom.",
+    "150 minutes / 50 minutes per use = 3.",
+    "I should double-check the calculations to ensure accuracy.",
+    "2.5 hours equals 150 minutes, which checks out.",
+    "150 minutes divided by 50 minutes per use is indeed 3."
+  ],
+  "solution": "3"
+}

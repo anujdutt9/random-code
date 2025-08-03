@@ -1,0 +1,12 @@
+{
+  "query": "Perry, Dana, Charlie, and Phil played golf together every week.  At the end of the season, Perry had won five more games than Dana, but Charlie had won 2 games fewer than Dana.  Phil had won 3 games more than Charlie did.  If Phil won a total of 12 games, how many more games did Perry win than did Phil?",
+  "steps": [
+    "Let's start with the information about Phil. Phil won a total of 12 games.",
+    "We know that Phil won 3 more games than Charlie. Therefore, if Phil won 12 games, Charlie must have won 12 - 3 = 9 games.",
+    "Next, let's consider Dana. Charlie won 2 games fewer than Dana. Since Charlie won 9 games, Dana must have won 9 + 2 = 11 games.",
+    "Now, let's relate Perry's wins. Perry won 5 more games than Dana. Since Dana won 11 games, Perry must have won 11 + 5 = 16 games.",
+    "We are asked to find out how many more games Perry won than Phil. Perry won 16 games and Phil won 12 games.",
+    "So, the difference is 16 - 12 = 4 games."
+  ],
+  "solution": "4"
+}

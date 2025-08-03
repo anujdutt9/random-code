@@ -1,0 +1,16 @@
+{
+  "query": "Pauline has 125 matchbox cars. They are all either convertibles, trucks, regular cars. 64% of them are regular cars. 8% are trucks. How many convertibles does she own?",
+  "steps": [
+    "First, determine the total number of regular cars Pauline has. 64% of 125 matchbox cars are regular cars.",
+    "Calculate 64% of 125: 0.64 * 125 = 80.",
+    "So, Pauline has 80 regular cars.",
+    "Next, determine the total number of trucks. 8% of 125 matchbox cars are trucks.",
+    "Calculate 8% of 125: 0.08 * 125 = 10.",
+    "So, Pauline has 10 trucks.",
+    "Add the number of regular cars and trucks to find out how many cars are not convertibles.",
+    "80 (regular cars) + 10 (trucks) = 90.",
+    "Subtract the number of non-convertible cars from the total number of matchbox cars to find the number of convertibles.",
+    "125 (total cars) - 90 (non-convertible cars) = 35."
+  ],
+  "solution": "35"
+}

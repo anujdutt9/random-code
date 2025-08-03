@@ -1,0 +1,15 @@
+{
+  "query": "John's camera broke so he decided to rent one for 4 weeks.  It was a $5000 camera and the rental fee was 10% of the value per week.  His friend who was there when it broke agreed to pay 40% of the rental fee.  How much did John pay?",
+  "steps": [
+    "First, I need to determine the rental fee of the camera per week.",
+    "The value of the camera is $5000, and the rental fee is 10% of the value per week.",
+    "10% of $5000 is calculated as 0.10 * 5000 = $500.",
+    "Now I need to find the total rental fee for 4 weeks.",
+    "Multiply the weekly rental fee by the number of weeks: $500 * 4 = $2000.",
+    "John's friend agreed to pay 40% of the rental fee.",
+    "40% of the total rental fee is 0.40 * 2000 = $800.",
+    "To find out how much John paid, subtract the amount his friend paid from the total rental fee.",
+    "John paid $2000 - $800 = $1200."
+  ],
+  "solution": "1200"
+}

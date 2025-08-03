@@ -1,0 +1,15 @@
+{
+  "query": "Christian and Sue wanted to get a $50.00 bottle of perfume for their mom for her birthday.  Christian had $5.00 saved up and Sue had $7.00.  Christian then mowed 4 of his neighbors' yards, charging $5.00 each, while Sue walked 6 dogs for her neighbors, charging $2.00 per dog.  How much more money will Christian and Sue need to make in order to buy the bottle of perfume for their mom?",
+  "steps": [
+    "Christian initially had $5.00 saved up.",
+    "Sue initially had $7.00 saved up.",
+    "Christian mowed 4 neighbors' yards, charging $5.00 each, so he earned 4 * $5.00 = $20.00.",
+    "Sue walked 6 dogs, charging $2.00 per dog, so she earned 6 * $2.00 = $12.00.",
+    "Now, calculate Christian's total money: $5.00 (initial) + $20.00 (earned) = $25.00.",
+    "Calculate Sue's total money: $7.00 (initial) + $12.00 (earned) = $19.00.",
+    "Calculate the total money Christian and Sue have together: $25.00 (Christian) + $19.00 (Sue) = $44.00.",
+    "The cost of the perfume is $50.00.",
+    "Determine how much more money they need: $50.00 (cost) - $44.00 (current total) = $6.00."
+  ],
+  "solution": "6"
+}

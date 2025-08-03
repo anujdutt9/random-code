@@ -1,0 +1,9 @@
+{
+    "id": 8,
+    "query": "Question: The mountain chorus frog is an endangered species in Maryland. In addition to the loss of habitat, what most likely caused this frog population to decline?\n\nChoices:\nA: an increase in a food source\nB: more frog breeding grounds\nC: native wetlands preservation\nD: poisons dissolved in the water",
+    "solution": "D",
+    "style_name": "form_3_causal_chain",
+    "steps": [
+        "If frogs live in water, then water quality affects their survival. If poisons are dissolved in water, then frogs can be harmed or die. Therefore, poisons in the water most likely caused the population to decline."
+    ]
+}

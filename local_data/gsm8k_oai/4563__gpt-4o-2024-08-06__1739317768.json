@@ -1,0 +1,18 @@
+{
+  "query": "At the Mystic Aquarium, sharks are fed four buckets of fish each day. The dolphins are fed half as many buckets as the sharks while the other sea animals are fed five times as many buckets as the sharks. How many weeks will 546 buckets of fish last?",
+  "steps": [
+    "First, I need to determine the daily bucket consumption for each type of animal.",
+    "The sharks are fed four buckets of fish each day.",
+    "The dolphins are fed half as many buckets as the sharks, so they get 4 / 2 = 2 buckets of fish each day.",
+    "The other sea animals are fed five times as many buckets as the sharks, so they get 4 * 5 = 20 buckets of fish each day.",
+    "Now, I add up all the buckets consumed in a day. This is 4 buckets for sharks + 2 buckets for dolphins + 20 buckets for other sea animals.",
+    "4 + 2 + 20 = 26 buckets of fish are consumed each day.",
+    "Now, I need to determine how many days 546 buckets will last.",
+    "To find the number of days, divide the total buckets by the daily consumption: 546 / 26.",
+    "Performing the division: 546 / 26 = 21 days.",
+    "Finally, I need to convert the number of days into weeks.",
+    "There are 7 days in a week, so 21 days is 21 / 7.",
+    "Calculating 21 / 7 gives 3 weeks."
+  ],
+  "solution": "3"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "At the pet store, there are 7 puppies and 6 kittens for sale. Two puppies and three kittens are sold. How many pets remain at the store?",
+  "steps": [
+    "First, I need to determine the total number of puppies initially at the store.",
+    "There are 7 puppies at the store.",
+    "Next, I determine the total number of kittens initially at the store.",
+    "There are 6 kittens at the store.",
+    "I add up the total number of puppies and kittens to find the initial total number of pets.",
+    "7 puppies + 6 kittens = 13 pets initially at the store.",
+    "Now, I need to account for the pets that were sold.",
+    "Two puppies are sold, so I subtract 2 from the total number of puppies.",
+    "7 puppies - 2 sold puppies = 5 puppies remaining.",
+    "Three kittens are sold, so I subtract 3 from the total number of kittens.",
+    "6 kittens - 3 sold kittens = 3 kittens remaining.",
+    "Now, I add up the remaining number of puppies and kittens to find the current total number of pets.",
+    "5 puppies + 3 kittens = 8 pets remaining at the store."
+  ],
+  "solution": "8"
+}

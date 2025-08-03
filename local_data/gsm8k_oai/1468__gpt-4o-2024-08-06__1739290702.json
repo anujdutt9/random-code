@@ -1,0 +1,16 @@
+{
+  "query": "Troy's home is 75 meters away from school while Emily's home is 98 meters away from school. Troy and Emily walk to school and back home every day. How much farther does Emily walk to school and back in five days?",
+  "steps": [
+    "First, I'll find out how much distance Troy walks to school and back in one day.",
+    "Troy walks 75 meters to school and 75 meters back home, so he walks 75 + 75 = 150 meters in one day.",
+    "Now, I'll find out how much distance Emily walks to school and back in one day.",
+    "Emily walks 98 meters to school and 98 meters back home, so she walks 98 + 98 = 196 meters in one day.",
+    "Next, I need to determine how much distance Troy walks for five days.",
+    "Troy walks 150 meters each day, so in five days, he walks 150 x 5 = 750 meters.",
+    "Now, I'll determine how much distance Emily walks for five days.",
+    "Emily walks 196 meters each day, so in five days, she walks 196 x 5 = 980 meters.",
+    "Now, I need to find out how much farther Emily walks compared to Troy in five days.",
+    "I subtract the total distance Troy walks in five days from the total distance Emily walks in five days: 980 - 750 = 230 meters."
+  ],
+  "solution": "230"
+}

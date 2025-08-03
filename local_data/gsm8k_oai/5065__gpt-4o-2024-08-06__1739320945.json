@@ -1,0 +1,16 @@
+{
+  "query": "Angela wants to check her math homework answers with her friends, but some of them aren't done yet. Out of 20 problems, Martha has finished 2, Jenna has finished four times the number Martha did minus 2, and Mark has finished half the number Jenna did. If none of the friends worked on any of the same problems, how many problems have no one but Angela finished?",
+  "steps": [
+    "First, I gather the information given. Martha has finished 2 problems.",
+    "Next, I calculate how many problems Jenna has finished. Jenna has finished four times the number Martha did minus 2.",
+    "Four times the number Martha did is 4 * 2 = 8.",
+    "Subtracting 2 from that gives 8 - 2 = 6. So Jenna has finished 6 problems.",
+    "Now, I determine how many problems Mark has finished. Mark has finished half the number Jenna did.",
+    "Half of what Jenna did is 6 / 2 = 3. So Mark has finished 3 problems.",
+    "Next, I add up all the problems that Martha, Jenna, and Mark have finished.",
+    "The total is 2 + 6 + 3 = 11.",
+    "Finally, I subtract this from the total number of problems to find the number Angela finished alone.",
+    "There are 20 problems in total, so 20 - 11 = 9."
+  ],
+  "solution": "9"
+}

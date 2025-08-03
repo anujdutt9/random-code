@@ -1,0 +1,15 @@
+{
+  "query": "The battery charge in Mary\u2019s cordless vacuum cleaner lasts ten minutes. It takes her four minutes to vacuum each room in her house. Mary has three bedrooms, a kitchen, and a living room. How many times does Mary need to charge her vacuum cleaner to vacuum her whole house?",
+  "steps": [
+    "First, I need to determine how many rooms Mary has in her house.",
+    "Mary has three bedrooms, one kitchen, and one living room.",
+    "To find the total number of rooms, I add these together: 3 (bedrooms) + 1 (kitchen) + 1 (living room) = 5 rooms.",
+    "Next, I need to calculate the total time required to vacuum all the rooms.",
+    "It takes Mary four minutes to vacuum one room. For 5 rooms, I multiply: 5 rooms * 4 minutes per room = 20 minutes total.",
+    "Now, I need to determine how many minutes the vacuum cleaner's charge lasts.",
+    "Mary's vacuum cleaner lasts ten minutes on a full charge.",
+    "I need to figure out how many full ten-minute charges are necessary to vacuum for 20 minutes.",
+    "Since the vacuum cleaner lasts 10 minutes, I divide the total time of 20 minutes by the charge duration of 10 minutes: 20 minutes / 10 minutes per charge = 2 charges."
+  ],
+  "solution": "2"
+}

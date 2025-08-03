@@ -1,0 +1,25 @@
+{
+  "query": "Debbie works at a post office packing boxes to mail. Each large box takes 4 feet of packing tape to seal, each medium box takes 2 feet of packing tape to seal, and each small box takes 1 foot of packing tape to seal. Each box also takes 1 foot of packing tape to stick the address label on. Debbie packed two large boxes, eight medium boxes, and five small boxes this afternoon. How much tape did she use?",
+  "steps": [
+    "First, I calculate the total tape needed for sealing each type of box.",
+    "For the large boxes, each one requires 4 feet of tape for sealing.",
+    "Debbie packed 2 large boxes.",
+    "So, the sealing tape needed for large boxes is 2 boxes * 4 feet/box = 8 feet.",
+    "Next, I calculate the sealing tape needed for the medium boxes.",
+    "Each medium box requires 2 feet of tape for sealing.",
+    "Debbie packed 8 medium boxes.",
+    "So, the sealing tape needed for medium boxes is 8 boxes * 2 feet/box = 16 feet.",
+    "Now, I calculate the sealing tape needed for the small boxes.",
+    "Each small box requires 1 foot of tape for sealing.",
+    "Debbie packed 5 small boxes.",
+    "So, the sealing tape needed for small boxes is 5 boxes * 1 foot/box = 5 feet.",
+    "Next, I calculate the tape needed for sticking the address labels, which is 1 foot for each box.",
+    "The total number of boxes packed is 2 large + 8 medium + 5 small = 15 boxes.",
+    "So, the tape used for sticking labels is 15 boxes * 1 foot/box = 15 feet.",
+    "Now, I sum up all the tape used for sealing and labeling.",
+    "Sealing tape: Large boxes = 8 feet, Medium boxes = 16 feet, Small boxes = 5 feet.",
+    "Total sealing tape = 8 + 16 + 5 = 29 feet.",
+    "Adding the tape for labels gives: 29 feet (sealing) + 15 feet (labeling) = 44 feet."
+  ],
+  "solution": "44"
+}

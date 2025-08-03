@@ -1,0 +1,16 @@
+{
+  "query": "Jess made 3 different stacks of wooden blocks. The first stack was 7 blocks high, the second stack was 5 block(s) higher than the first, and the final stack was 7 block(s) higher than the second. Jess\u2019 little sister knocked over the entire first tower, in the second tower she left 2 blocks standing, and in the final tower she left 3 blocks standing.  How many blocks in total fell down?",
+  "steps": [
+    "First, I need to determine the height of each stack.",
+    "The first stack is 7 blocks high.",
+    "The second stack is 5 blocks higher than the first stack, so its height is 7 + 5 = 12 blocks.",
+    "The third stack is 7 blocks higher than the second stack, so its height is 12 + 7 = 19 blocks.",
+    "Next, I need to find out how many blocks remained and fell from each stack.",
+    "All blocks from the first stack fell, so 7 blocks fell.",
+    "From the second stack, 2 blocks were left standing, which means 12 - 2 = 10 blocks fell.",
+    "From the third stack, 3 blocks were left standing, which means 19 - 3 = 16 blocks fell.",
+    "Now, I need to add the number of blocks that fell from each stack to find the total.",
+    "The total number of blocks that fell is 7 + 10 + 16 = 33 blocks."
+  ],
+  "solution": "33"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Marcel goes to the store with Dale to buy groceries for cooking dinner. Marcel buys 10 ears of corn, and Dale buys half that amount. Dale buys 8 potatoes and Marcel buys some, too. If they check out together and end up buying 27 vegetables, how many potatoes did Marcel buy?",
+  "steps": [
+    "Marcel buys 10 ears of corn.",
+    "Dale buys half the amount of corn Marcel buys.",
+    "Half of 10 ears of corn is 5 ears.",
+    "Dale buys 5 ears of corn.",
+    "Total corn purchased by Marcel and Dale is 10 + 5 = 15 ears of corn.",
+    "Together, Marcel and Dale buy a total of 27 vegetables.",
+    "The remaining vegetables are potatoes, since they only buy corn and potatoes.",
+    "Total vegetables are 27, and they bought 15 ears of corn.",
+    "Remaining vegetables, which are potatoes, are 27 - 15 = 12 potatoes.",
+    "Dale buys 8 potatoes.",
+    "So, the number of potatoes Marcel buys is the total potatoes minus the potatoes Dale buys.",
+    "Marcel buys 12 - 8 = 4 potatoes."
+  ],
+  "solution": "4"
+}

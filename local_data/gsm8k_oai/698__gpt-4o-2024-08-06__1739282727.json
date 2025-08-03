@@ -1,0 +1,15 @@
+{
+  "query": "On a 16 GB (gigabyte) capacity USB drive, 50% is already busy. Calculate the number of gigabytes still available.",
+  "steps": [
+    "The total capacity of the USB drive is 16 GB.",
+    "50% of the 16 GB is already in use.",
+    "To find out how much of the USB is in use, calculate 50% of 16 GB.",
+    "50% of 16 GB is 0.50 * 16 GB.",
+    "0.50 * 16 GB equals 8 GB.",
+    "So, 8 GB is currently in use.",
+    "To find out how much space is still available, subtract the used space from the total capacity.",
+    "16 GB - 8 GB equals 8 GB.",
+    "So, 8 GB of space is still available on the USB drive."
+  ],
+  "solution": "8"
+}

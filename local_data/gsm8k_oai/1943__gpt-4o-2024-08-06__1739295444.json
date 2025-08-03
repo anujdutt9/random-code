@@ -1,0 +1,18 @@
+{
+  "query": "In the city park, there are various attractions for kids and their parents. The entrance ticket to the park is $5, but for each attraction, you have to pay separately - such ticket costs $2 for kids and $4 for parents. How much would a family with 4 children, their parents, and her grandmother pay for visiting the park, and one attraction inside?",
+  "steps": [
+    "First, I need to calculate the cost of entrance tickets for the entire family.",
+    "There are 4 children, 2 parents, and 1 grandmother in the family.",
+    "The total number of people in the family is 4 (children) + 2 (parents) + 1 (grandmother) = 7 people.",
+    "Each entrance ticket costs $5.",
+    "The total cost for entrance tickets is 7 people * $5 = $35.",
+    "Next, I need to calculate the cost of tickets for one attraction inside the park.",
+    "Tickets for attractions cost $2 for each child and $4 for each adult.",
+    "There are 4 children, so the cost for children's attraction tickets is 4 * $2 = $8.",
+    "There are 3 adults (2 parents + 1 grandmother), so the cost for adults' attraction tickets is 3 * $4 = $12.",
+    "The total cost for attraction tickets for the entire family is $8 (children) + $12 (adults) = $20.",
+    "Now, I need to add the cost of entrance tickets and attraction tickets.",
+    "The total cost for visiting the park and one attraction is $35 (entrance) + $20 (attraction) = $55."
+  ],
+  "solution": "55"
+}

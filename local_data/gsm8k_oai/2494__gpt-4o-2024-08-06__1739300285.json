@@ -1,0 +1,20 @@
+{
+  "query": "Sydney and Conner are having a three day rock collecting contest to see who can have the largest collection after adding to their existing collections. Before they start, Sydney has 837 rocks and Conner has 723. On day one, Sydney collects 4 rocks and Conner collects 8 times as many. On day two Sydney rests and Conner collects 123. On the third day, Sydney collects twice as many as Conner did on the first day. How many does Conner have to collect on day three to make sure he at least ties Sydney?",
+  "steps": [
+    "Before the contest starts, Sydney has 837 rocks and Conner has 723 rocks.",
+    "On day one, Sydney collects 4 rocks.",
+    "Conner collects 8 times as many rocks as Sydney on day one: 8 * 4 = 32 rocks.",
+    "After day one, Sydney has 837 + 4 = 841 rocks.",
+    "After day one, Conner has 723 + 32 = 755 rocks.",
+    "On day two, Sydney rests and collects 0 rocks.",
+    "Conner collects 123 rocks on day two.",
+    "After day two, Sydney still has 841 rocks.",
+    "After day two, Conner has 755 + 123 = 878 rocks.",
+    "On the third day, Sydney collects twice as many as Conner did on the first day: 2 * 32 = 64 rocks.",
+    "After the third day, Sydney has 841 + 64 = 905 rocks.",
+    "Conner needs to have at least 905 rocks to tie Sydney.",
+    "Before day three, Conner has 878 rocks.",
+    "To find out how many more rocks Conner needs to collect to tie, we calculate: 905 - 878 = 27 rocks."
+  ],
+  "solution": "27"
+}

@@ -1,0 +1,11 @@
+{
+  "query": "A cat has nine lives.  A dog has 3 less lives than a cat.  A mouse has 7 more lives than a dog.  How many lives does a mouse have?",
+  "steps": [
+    "A cat has nine lives.",
+    "A dog has 3 less lives than a cat. So I need to subtract 3 from the number of lives a cat has.",
+    "9 (cat's lives) - 3 = 6. So a dog has 6 lives.",
+    "A mouse has 7 more lives than a dog. So I need to add 7 to the number of lives a dog has.",
+    "6 (dog's lives) + 7 = 13. So a mouse has 13 lives."
+  ],
+  "solution": "13"
+}

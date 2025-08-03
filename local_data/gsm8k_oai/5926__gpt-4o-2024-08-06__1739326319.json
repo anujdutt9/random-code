@@ -1,0 +1,15 @@
+{
+  "query": "Jack has 42 pounds, 11 euros, and 3000 yen. If there are 2 pounds per euro and 100 yen per pound, how much does Jack have in yen?",
+  "steps": [
+    "First, I need to convert the 42 pounds Jack has into yen. Since there are 100 yen per pound, I multiply 42 pounds by 100.",
+    "42 pounds * 100 yen/pound = 4200 yen",
+    "Next, I need to convert the 11 euros Jack has into pounds first, since I know the conversion rate from pounds to yen.",
+    "There are 2 pounds per euro, so I multiply 11 euros by 2 pounds/euro.",
+    "11 euros * 2 pounds/euro = 22 pounds",
+    "Then, I convert the 22 pounds obtained from euros into yen. Again, using the conversion rate of 100 yen per pound, I multiply 22 pounds by 100 yen/pound.",
+    "22 pounds * 100 yen/pound = 2200 yen",
+    "Now, I add up all the amounts in yen to get the total. Jack has 4200 yen from the original 42 pounds, 2200 yen from the 11 euros, and an additional 3000 yen.",
+    "4200 yen + 2200 yen + 3000 yen = 9400 yen"
+  ],
+  "solution": "9400"
+}

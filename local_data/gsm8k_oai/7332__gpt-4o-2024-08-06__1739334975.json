@@ -1,0 +1,20 @@
+{
+  "query": "John decides to start collecting art.  He pays the same price for his first 3 pieces of art and the total price came to $45,000.  The next piece of art was 50% more expensive than those.  How much did all the art cost?",
+  "steps": [
+    "First, I need to find out the price of each of the first 3 pieces of art.",
+    "John paid $45,000 for 3 pieces of art.",
+    "To find the price of each piece, I divide the total cost by the number of pieces: $45,000 / 3.",
+    "Each piece costs $15,000.",
+    "The next piece of art was 50% more expensive than the previous pieces.",
+    "To find the additional amount, I calculate 50% of $15,000.",
+    "50% of $15,000 is $7,500.",
+    "The cost of the more expensive piece is $15,000 + $7,500.",
+    "That piece costs $22,500.",
+    "Now, I need to calculate the total cost of all 4 pieces.",
+    "The cost of the first 3 pieces is $45,000.",
+    "The cost of the next piece is $22,500.",
+    "The total cost is $45,000 + $22,500.",
+    "The total cost of all the art is $67,500."
+  ],
+  "solution": "67,500"
+}

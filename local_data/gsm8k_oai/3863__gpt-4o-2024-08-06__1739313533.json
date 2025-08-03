@@ -1,0 +1,20 @@
+{
+  "query": "It takes 2.5 hours to groom a dog and 0.5 hours to groom a cat. What is the number of minutes it takes to groom 5 dogs and 3 cats?",
+  "steps": [
+    "First, I need to calculate the total time it takes to groom 5 dogs.",
+    "It takes 2.5 hours to groom one dog.",
+    "For 5 dogs, the time is 5 times 2.5 hours.",
+    "5 multiplied by 2.5 equals 12.5 hours.",
+    "Next, I need to calculate the total time it takes to groom 3 cats.",
+    "It takes 0.5 hours to groom one cat.",
+    "For 3 cats, the time is 3 times 0.5 hours.",
+    "3 multiplied by 0.5 equals 1.5 hours.",
+    "I now add the time for grooming dogs and cats together.",
+    "12.5 hours (for dogs) plus 1.5 hours (for cats) equals 14 hours in total.",
+    "Finally, I need to convert 14 hours into minutes.",
+    "1 hour is equal to 60 minutes.",
+    "14 hours is 14 times 60 minutes.",
+    "14 multiplied by 60 equals 840 minutes."
+  ],
+  "solution": "840"
+}

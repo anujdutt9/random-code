@@ -1,0 +1,17 @@
+{
+  "query": "A parking garage of a mall is four stories tall. On the first level, there are 90 parking spaces. The second level has 8 more parking spaces than on the first level, and there are 12 more available parking spaces on the third level than on the second level. The fourth level has 9 fewer parking spaces than the third level. If 100 cars are already parked, how many cars can be accommodated by the parking garage?",
+  "steps": [
+    "First, I need to calculate the number of parking spaces on each level, starting with the first level.",
+    "The first level has 90 parking spaces.",
+    "The second level has 8 more parking spaces than the first level. So, the second level has 90 + 8 = 98 parking spaces.",
+    "The third level has 12 more parking spaces than the second level. So, the third level has 98 + 12 = 110 parking spaces.",
+    "The fourth level has 9 fewer parking spaces than the third level. So, the fourth level has 110 - 9 = 101 parking spaces.",
+    "Now, I need to add up all the parking spaces across all four levels to find the total capacity of the parking garage.",
+    "Total parking spaces = 90 (first level) + 98 (second level) + 110 (third level) + 101 (fourth level).",
+    "Total parking spaces = 90 + 98 + 110 + 101 = 399 parking spaces.",
+    "Currently, 100 cars are already parked. So, to find out how many more cars can be accommodated, I need to subtract the number of parked cars from the total parking spaces.",
+    "Number of additional cars that can be accommodated = 399 (total parking spaces) - 100 (currently parked cars).",
+    "Number of additional cars that can be accommodated = 299."
+  ],
+  "solution": "299"
+}

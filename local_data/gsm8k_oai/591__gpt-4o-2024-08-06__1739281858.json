@@ -1,0 +1,16 @@
+{
+  "query": "To make a cherry pie, Veronica needs 3 pounds of pitted cherries.  There are 80 single cherries in one pound of cherries.   It takes 10 minutes to pit 20 cherries.  How many hours will it take Veronica to pit all the cherries?",
+  "steps": [
+    "To find out how many cherries Veronica needs, I multiply the number of pounds of cherries (3) by the number of cherries per pound (80).",
+    "3 pounds * 80 cherries/pound = 240 cherries.",
+    "Next, I need to determine how much time it will take to pit these 240 cherries.",
+    "I know that it takes 10 minutes to pit 20 cherries. So, I will divide the total number of cherries by 20 to find out how many sets of 20 cherries there are.",
+    "240 cherries / 20 cherries = 12 sets of 20 cherries.",
+    "It takes 10 minutes to pit each set of 20 cherries, so I multiply the number of sets (12) by the time it takes to pit each set (10 minutes).",
+    "12 sets * 10 minutes/set = 120 minutes.",
+    "Next, I need to convert the total minutes into hours.",
+    "There are 60 minutes in an hour, so I divide the total minutes by 60.",
+    "120 minutes / 60 minutes/hour = 2 hours."
+  ],
+  "solution": "2"
+}

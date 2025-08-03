@@ -1,0 +1,15 @@
+{
+  "query": "While preparing balloons for Eva's birthday party, her mom bought 50 balloons and 1800cm\u00b3 of helium. One balloon needs 50cm\u00b3 to float high enough to touch the ceiling, and she can fill any remaining balloon with ordinary air. If she used up all of the helium and inflated every balloon, how many more balloons are touching the ceiling than not?",
+  "steps": [
+    "First, I need to find out how many balloons can be filled with helium to the extent that they touch the ceiling. Each balloon needs 50 cm\u00b3 of helium.",
+    "To calculate the number of balloons that can be fully inflated with helium, I divide the total amount of helium by the helium required per balloon: 1800 cm\u00b3 / 50 cm\u00b3/balloon.",
+    "1800 divided by 50 is equal to 36, meaning we can fill 36 balloons with enough helium to reach the ceiling.",
+    "Now, I need to determine how many balloons were filled with air instead of helium. There are 50 balloons in total and 36 have been filled with helium.",
+    "To find the number of balloons filled with air, I subtract the number of balloons filled with helium from the total number of balloons: 50 - 36.",
+    "50 minus 36 equals 14. So, 14 balloons are filled with air.",
+    "The problem asks for the difference between the number of helium-filled balloons and the air-filled balloons.",
+    "The difference is the number of balloons filled with helium minus the number filled with air: 36 - 14.",
+    "36 minus 14 equals 22."
+  ],
+  "solution": "22"
+}

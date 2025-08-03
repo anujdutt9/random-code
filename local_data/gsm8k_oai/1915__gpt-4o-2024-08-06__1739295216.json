@@ -1,0 +1,16 @@
+{
+  "query": "Building one birdhouse requires 7 planks and 20 nails.  If 1 nail costs $0.05, and one plank costs $3, what is the cost, in dollars, to build 4 birdhouses?",
+  "steps": [
+    "First, I need to calculate the total number of planks needed to build 4 birdhouses.",
+    "Each birdhouse requires 7 planks, so for 4 birdhouses, I need 4 * 7 = 28 planks.",
+    "Next, I need to calculate the total cost of the planks.",
+    "Each plank costs $3, so the total cost for 28 planks is 28 * 3 = $84.",
+    "Now, I need to calculate the total number of nails needed to build 4 birdhouses.",
+    "Each birdhouse requires 20 nails, so for 4 birdhouses, I need 4 * 20 = 80 nails.",
+    "Next, I need to calculate the total cost of the nails.",
+    "Each nail costs $0.05, so the total cost for 80 nails is 80 * 0.05 = $4.",
+    "Now, I add the cost of the planks and the cost of the nails to get the total cost to build 4 birdhouses.",
+    "The total cost is $84 (planks) + $4 (nails) = $88."
+  ],
+  "solution": "88"
+}

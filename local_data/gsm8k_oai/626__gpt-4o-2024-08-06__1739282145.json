@@ -1,0 +1,18 @@
+{
+  "query": "Jessica has one hour to take an exam. She has answered 16 out of 80 questions. She has used 12 minutes of her time. If she keeps up this same pace, how many minutes will be left when she finishes the exam?",
+  "steps": [
+    "Jessica has answered 16 questions in 12 minutes.",
+    "We need to find out how many questions she answers per minute.",
+    "Calculate her rate: 16 questions / 12 minutes = 1.333 questions per minute.",
+    "Jessica needs to answer 80 questions in total.",
+    "She has already answered 16 questions, so she has 80 - 16 = 64 questions left.",
+    "Calculate how much time it will take her to complete these 64 questions at the same rate.",
+    "Using her rate: Time required = 64 questions / 1.333 questions per minute.",
+    "Time required \u2248 64 / 1.333 \u2248 48 minutes.",
+    "Jessica has already used 12 minutes on the exam.",
+    "Total time spent on the exam will be 12 minutes + 48 minutes = 60 minutes.",
+    "She was given 60 minutes for the exam.",
+    "If she uses exactly 60 minutes, there will be 60 - 60 = 0 minutes left."
+  ],
+  "solution": "0"
+}

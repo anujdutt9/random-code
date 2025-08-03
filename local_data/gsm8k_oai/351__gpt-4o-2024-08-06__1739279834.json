@@ -1,0 +1,17 @@
+{
+  "query": "Jackson\u2019s mom packs him a peanut butter and jelly sandwich for his school lunch on Wednesdays and Fridays. There are 36 weeks of school and Jackson has only missed 1 Wednesday and 2 Fridays. How many peanut butter and jelly sandwiches did he eat for lunch this school year?",
+  "steps": [
+    "First, I need to calculate the number of Wednesdays in the school year.",
+    "There are 36 weeks of school, so there should be 36 Wednesdays.",
+    "Next, I calculate the number of Fridays in the school year.",
+    "Similarly, there are also 36 Fridays in the 36-week school year.",
+    "Jackson's mom packs him a peanut butter and jelly sandwich every Wednesday, except for the Wednesday he missed.",
+    "So, the number of Wednesdays he got a sandwich is 36 - 1 = 35.",
+    "Jackson's mom also packs him a sandwich every Friday, except for the 2 Fridays he missed.",
+    "So, the number of Fridays he got a sandwich is 36 - 2 = 34.",
+    "Now, I need to add the number of sandwiches he ate on Wednesdays and Fridays together.",
+    "Adding the two: 35 (Wednesdays) + 34 (Fridays) gives the total number of sandwiches.",
+    "This calculation gives 69 sandwiches in total."
+  ],
+  "solution": "69"
+}

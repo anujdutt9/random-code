@@ -1,0 +1,18 @@
+{
+  "query": "On Blacks, Martha goes to the mall to buy clothes on sale. For every 2 jackets she buys, she gets 1 free jacket. For every 3 t-shirts she buys, she gets 1 free t-shirt. Martha decides to buy 4 jackets and 9 t-shirts. How many clothes will she take home?",
+  "steps": [
+    "Martha buys 4 jackets, and for every 2 jackets she buys, she gets 1 free jacket.",
+    "First, let's determine how many free jackets she will get. If she buys 2 jackets, she gets 1 free.",
+    "She's buying 4 jackets, which is two sets of 2 jackets. For each set, she gets 1 free jacket.",
+    "Thus, she will get 2 free jackets.",
+    "Adding the bought and free jackets: 4 bought + 2 free = 6 jackets.",
+    "Now, consider the t-shirts: she buys 9 t-shirts, and for every 3 t-shirts she buys, she gets 1 free.",
+    "Let's determine how many free t-shirts she will get. If she buys 3 t-shirts, she gets 1 free.",
+    "She is buying 9 t-shirts, which is three sets of 3 t-shirts. For each set, she gets 1 free t-shirt.",
+    "Thus, she will get 3 free t-shirts.",
+    "Adding the bought and free t-shirts: 9 bought + 3 free = 12 t-shirts.",
+    "Now add the total jackets and total t-shirts to determine the total clothes.",
+    "6 jackets + 12 t-shirts = 18 items of clothing."
+  ],
+  "solution": "18"
+}

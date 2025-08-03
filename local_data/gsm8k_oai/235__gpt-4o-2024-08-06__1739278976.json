@@ -1,0 +1,12 @@
+{
+  "query": "Max likes to collect model trains.  He asks for one for every birthday of his, and asks for two each Christmas.  Max always gets the gifts he asks for, and asks for these same gifts every year for 5 years.  At the end of the 5 years, his parents give him double the number of trains he already has.  How many trains does Max have now?",
+  "steps": [
+    "First, determine how many trains Max gets each year from his birthday. Since he gets one train for every birthday, he gets 1 train per year from his birthday.",
+    "Next, determine how many trains Max gets each year from Christmas. Since he receives two trains each Christmas, he gets 2 trains per year from Christmas.",
+    "Add the number of trains Max receives each year from both his birthday and Christmas. He gets 1 train from his birthday and 2 from Christmas, so he receives a total of 1 + 2 = 3 trains per year.",
+    "Calculate the total number of trains Max receives over 5 years. Since he receives 3 trains each year, over 5 years, he would receive 3 * 5 = 15 trains.",
+    "At the end of the 5 years, his parents give him double the number of trains he already has. So they give him 2 * 15 = 30 trains.",
+    "Combine the number of trains he received over the 5 years with the number of trains his parents gave him at the end. He already had 15 trains, and he gets 30 more, so he has 15 + 30 = 45 trains."
+  ],
+  "solution": "45"
+}

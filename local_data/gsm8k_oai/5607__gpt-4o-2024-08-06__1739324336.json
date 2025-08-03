@@ -1,0 +1,18 @@
+{
+  "query": "Johnny spent 3 hours working on a job that paid $7 per hour, 2 hours working on a job that paid $10 an hour, and 4 hours working on a job that paid $12 an hour.  Assuming he repeats this process 5 days in a row, how much does Johnny make?",
+  "steps": [
+    "First, I need to calculate how much Johnny makes in a single day.",
+    "Johnny worked 3 hours at a job paying $7 per hour. \nTo find out how much he makes from this job, I multiply 3 hours by $7 per hour.",
+    "3 hours * $7/hour = $21.\nSo, Johnny makes $21 from the first job.",
+    "Next, Johnny worked 2 hours at a job paying $10 per hour.\nTo find out how much he makes from this job, I multiply 2 hours by $10 per hour.",
+    "2 hours * $10/hour = $20.\nSo, Johnny makes $20 from the second job.",
+    "Then, Johnny worked 4 hours at a job paying $12 per hour.\nTo find out how much he makes from this job, I multiply 4 hours by $12 per hour.",
+    "4 hours * $12/hour = $48.\nSo, Johnny makes $48 from the third job.",
+    "To find the total earnings for one day, I need to add up all the earnings from each job.",
+    "$21 (first job) + $20 (second job) + $48 (third job) = $89.\nJohnny makes $89 in a single day.",
+    "Johnny repeats this process 5 days in a row, so I need to find the total earnings for 5 days.",
+    "To find the total earnings for 5 days, I multiply the daily earnings by 5.",
+    "$89/day * 5 days = $445.\nSo, Johnny makes $445 in 5 days."
+  ],
+  "solution": "445"
+}

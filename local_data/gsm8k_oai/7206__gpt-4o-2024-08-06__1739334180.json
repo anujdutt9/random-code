@@ -1,0 +1,22 @@
+{
+  "query": "Yvonne brings a box of chocolates to school. Half have nuts and half do not. The students eat 80% of the ones with nuts and eat half of the ones without nuts. If there are 28 chocolates left, how many chocolates were in the box?",
+  "steps": [
+    "Let's start by defining variables. Let \\( x \\) be the total number of chocolates in the box.",
+    "Since half of the chocolates have nuts and the other half do not, we have two equal halves.",
+    "The number of chocolates with nuts is \\( \\frac{x}{2} \\).",
+    "The number of chocolates without nuts is also \\( \\frac{x}{2} \\).",
+    "80% of the chocolates with nuts are eaten. This means \\( 0.8 \\times \\frac{x}{2} \\) chocolates with nuts are eaten.",
+    "Let\u2019s calculate the number of chocolates with nuts remaining. It is \\( \\frac{x}{2} - 0.8 \\times \\frac{x}{2} \\).",
+    "This simplifies to \\( \\frac{x}{2} - \\frac{0.8x}{2} = \\frac{0.2x}{2} = 0.1x \\).",
+    "Next, half of the chocolates without nuts are eaten, which is \\( 0.5 \\times \\frac{x}{2} = \\frac{0.5x}{2} = 0.25x \\).",
+    "The number of chocolates without nuts remaining is \\( \\frac{x}{2} - 0.25x \\).",
+    "This simplifies to \\( \\frac{x}{2} - 0.25x = \\frac{x}{2} - \\frac{0.5x}{2} = \\frac{0.5x}{2} = 0.25x \\).",
+    "The total number of chocolates remaining after eating is the sum of the remaining chocolates with nuts and without nuts, which equals \\( 0.1x + 0.25x = 0.35x \\).",
+    "We know that there are 28 chocolates remaining in total.",
+    "Set up the equation \\( 0.35x = 28 \\) to solve for \\( x \\).",
+    "Solve for \\( x \\) by dividing both sides by 0.35, giving \\( x = \\frac{28}{0.35} \\).",
+    "Calculate \\( \\frac{28}{0.35} \\). First, multiply both numerator and denominator by 100 to get \\( \\frac{2800}{35} \\).",
+    "Now perform the division: \\( 2800 \\div 35 = 80 \\)."
+  ],
+  "solution": "80"
+}

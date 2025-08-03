@@ -1,0 +1,14 @@
+{
+  "query": "There are 84 people waiting in line to ride a roller coaster at an amusement park.\u00a0 The roller coaster has 7 cars, and each car seats 2 people.\u00a0 How many times will the ride operator have to run the roller coaster to give everyone in line a turn?",
+  "steps": [
+    "First, I want to determine the total capacity of the roller coaster for each ride. The roller coaster has 7 cars.",
+    "Each car seats 2 people. So, I need to calculate the total number of people that can ride at one time.",
+    "To find the total capacity, I multiply the number of cars by the number of people each car can hold: 7 cars * 2 people per car.",
+    "7 * 2 equals 14, so the roller coaster can hold 14 people at a time.",
+    "Next, I need to determine how many times the roller coaster needs to run to accommodate all 84 people in line.",
+    "I will divide the total number of people waiting, 84, by the capacity of the roller coaster, 14, to find out how many full rides are needed.",
+    "84 divided by 14 equals 6 rides, but I should check if there is any remainder.",
+    "I calculated that 14 * 6 equals 84, with no remainder, meaning all people can be accommodated in exactly 6 rides."
+  ],
+  "solution": "6"
+}

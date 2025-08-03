@@ -1,0 +1,15 @@
+{
+  "query": "John buys 1.5 ounces of silver and twice as much gold.  The silver costs $20 per ounce.  The gold is 50 times more expensive per ounce.  How much does he spend on everything?",
+  "steps": [
+    "John buys 1.5 ounces of silver.",
+    "He also buys twice as much gold, which is 1.5 ounces * 2 = 3 ounces of gold.",
+    "The cost of silver is $20 per ounce.",
+    "Therefore, the cost of 1.5 ounces of silver is 1.5 * $20 = $30.",
+    "The gold is 50 times more expensive than silver per ounce.",
+    "So, the cost of gold per ounce is 50 * $20 = $1000.",
+    "The total cost for 3 ounces of gold is 3 * $1000 = $3000.",
+    "Now, I need to add the cost of the silver and the gold to find the total cost.",
+    "The total cost is $30 (for silver) + $3000 (for gold) = $3030."
+  ],
+  "solution": "3030"
+}

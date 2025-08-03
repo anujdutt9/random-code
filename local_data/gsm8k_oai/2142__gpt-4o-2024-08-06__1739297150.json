@@ -1,0 +1,17 @@
+{
+  "query": "Carson is sorting seaweed for various uses. 50% of the seaweed is only good for starting fires. 25% of what's left can be eaten by humans, and the rest is fed to livestock. If Carson harvests 400 pounds of seaweed, how many pounds are fed to livestock?",
+  "steps": [
+    "Carson harvests a total of 400 pounds of seaweed.",
+    "50% of the seaweed is only good for starting fires.",
+    "Calculate 50% of 400 pounds: 0.5 * 400 = 200 pounds.",
+    "This means 200 pounds are used for starting fires.",
+    "Subtract the 200 pounds used for starting fires from the total: 400 - 200 = 200 pounds.",
+    "Now, there are 200 pounds of seaweed left.",
+    "25% of the remaining seaweed can be eaten by humans.",
+    "Calculate 25% of the remaining 200 pounds: 0.25 * 200 = 50 pounds.",
+    "This means 50 pounds are suitable for human consumption.",
+    "Subtract the 50 pounds used for human consumption from the remaining seaweed: 200 - 50 = 150 pounds.",
+    "The rest of the seaweed, which is 150 pounds, is fed to livestock."
+  ],
+  "solution": "150"
+}

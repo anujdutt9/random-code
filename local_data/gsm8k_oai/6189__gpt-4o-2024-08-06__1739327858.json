@@ -1,0 +1,14 @@
+{
+  "query": "Four days' temperatures were recorded for Wayupnorth, Canada. The temperatures were: -36 degrees Fahrenheit, +13 degrees Fahrenheit, -15 degrees Fahrenheit, and -10 degrees Fahrenheit. What was the average number of degrees (Fahrenheit) in Wayupnorth, Canada on the 4 days recorded?",
+  "steps": [
+    "First, I need to find the sum of all the recorded temperatures. The temperatures given are -36, +13, -15, and -10.",
+    "I start by adding the first two temperatures: -36 + 13 = -23.",
+    "Next, I add the next temperature: -23 + (-15) = -38.",
+    "Then, I add the last temperature: -38 + (-10) = -48.",
+    "Now, I have the total sum of the temperatures, which is -48.",
+    "To find the average temperature, I need to divide the sum of the temperatures by the number of days (which is 4).",
+    "I divide -48 by 4.",
+    "The calculation is -48 \u00f7 4 = -12."
+  ],
+  "solution": "-12"
+}

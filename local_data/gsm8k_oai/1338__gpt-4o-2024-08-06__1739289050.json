@@ -1,0 +1,19 @@
+{
+  "query": "My new house has 12 medium ceiling lights but I have seen small and large ceiling lights in other rooms. The small ones require 1 bulb, the medium ones require 2, and the large ones need 3 bulbs. How many bulbs should I buy if my wife says she saw twice as many large ceiling lights as medium ceiling lights and ten more small lights than medium ones?",
+  "steps": [
+    "I know that there are 12 medium ceiling lights in my house.",
+    "Each medium ceiling light requires 2 bulbs.",
+    "So, for medium ceiling lights, I need 12 * 2 = 24 bulbs.",
+    "My wife mentioned that there are twice as many large ceiling lights as medium ones.",
+    "Twice as many large ceiling lights means 2 * 12 = 24 large ceiling lights.",
+    "Each large ceiling light requires 3 bulbs.",
+    "So, for large ceiling lights, I need 24 * 3 = 72 bulbs.",
+    "My wife also said there are ten more small lights than medium ones.",
+    "This means there are 12 + 10 = 22 small ceiling lights.",
+    "Each small ceiling light requires 1 bulb.",
+    "So, for small ceiling lights, I need 22 * 1 = 22 bulbs.",
+    "To find the total number of bulbs needed, I add the number of bulbs for all ceiling lights together.",
+    "I get 24 (medium) + 72 (large) + 22 (small) = 118 bulbs."
+  ],
+  "solution": "118"
+}

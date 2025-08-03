@@ -1,0 +1,15 @@
+{
+  "query": "A bakery sells boxes of doughnuts and if there are any doughnuts left at the end of the day, the bakery gives them away. Each box of doughnuts holds 10 doughnuts and all of the doughnuts that the bakery makes are put into these boxes. The bakery makes 300 doughnuts for the day and sells 27 boxes of doughnuts throughout the day. How many doughnuts are given away at the end of the day?",
+  "steps": [
+    "The bakery makes 300 doughnuts in total.",
+    "Each box holds 10 doughnuts, so 1 box = 10 doughnuts.",
+    "The bakery sells 27 boxes of doughnuts.",
+    "To find out how many doughnuts are sold, I need to multiply the number of boxes sold by the number of doughnuts in each box: 27 boxes * 10 doughnuts/box.",
+    "27 * 10 = 270 doughnuts sold.",
+    "The bakery made 300 doughnuts originally.",
+    "To find out how many doughnuts are left, I subtract the number sold from the total made: 300 total doughnuts - 270 sold doughnuts.",
+    "300 - 270 = 30 doughnuts left at the end of the day.",
+    "These remaining doughnuts are given away."
+  ],
+  "solution": "30"
+}

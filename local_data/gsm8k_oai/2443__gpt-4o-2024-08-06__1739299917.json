@@ -1,0 +1,14 @@
+{
+  "query": "Mary goes with her 3 children to the circus. Tickets cost $2 for adults and $1 for children. Mary pays with a $20 bill. How much change will she receive?",
+  "steps": [
+    "Identify how many tickets are needed for the group.",
+    "There is 1 adult ticket for Mary and 3 child tickets for her children.",
+    "Calculate the total number of tickets: 1 adult + 3 children = 4 tickets.",
+    "Determine the cost of the adult ticket: 1 adult ticket \u00d7 $2 = $2.",
+    "Determine the cost of the children's tickets: 3 child tickets \u00d7 $1 = $3.",
+    "Add the costs together for the total ticket cost: $2 (adult) + $3 (children) = $5.",
+    "Mary pays with a $20 bill, so we need to calculate her change.",
+    "Subtract the total ticket cost from the amount Mary pays with: $20 - $5 = $15."
+  ],
+  "solution": "15"
+}

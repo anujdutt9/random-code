@@ -1,0 +1,16 @@
+{
+  "query": "This year the Oscar swag bags include two diamond earrings that cost $6,000 each, a new iPhone that costs $2,000, and some designer scarves that each cost $1,500. If the total value of the swag bag is $20,000, how many scarves are there?",
+  "steps": [
+    "First, I need to calculate the total cost of the diamond earrings. There are two earrings, and each costs $6,000.",
+    "Multiplying the cost by the number of earrings: $6,000 x 2 = $12,000.",
+    "Next, I need to add the cost of the new iPhone, which is $2,000, to the total cost of the earrings.",
+    "Adding: $12,000 (earrings) + $2,000 (iPhone) = $14,000.",
+    "Now, I have the total value of the items known so far: $14,000. The total value of the swag bag is $20,000.",
+    "To find the total cost of the scarves, I need to subtract the known total value of the earrings and iPhone from the total value of the swag bag.",
+    "Subtracting: $20,000 (total swag bag) - $14,000 (earrings and iPhone) = $6,000.",
+    "The cost of the scarves is $6,000. Each scarf costs $1,500.",
+    "To find the number of scarves, I divide the total scarf cost by the cost of one scarf.",
+    "Dividing: $6,000 / $1,500 = 4."
+  ],
+  "solution": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "query": "Wendy is a fruit vendor, and she sells an apple at $1.50 each and one orange at $1.  In the morning, she was able to sell an average of 40 apples and 30 oranges. In the afternoon, she was able to sell 50 apples and 40 oranges. How much are her total sales for the day?",
+  "steps": [
+    "First, I need to calculate the earnings from the apples sold in the morning. Wendy sells 40 apples in the morning, and each apple is priced at $1.50.",
+    "The total earnings from the apples sold in the morning are 40 apples * $1.50/apple.",
+    "40 * 1.50 = $60. So, she earns $60 from apples in the morning.",
+    "Next, I will calculate the earnings from the oranges sold in the morning. She sells 30 oranges at $1 each.",
+    "The total earnings from the oranges sold in the morning are 30 oranges * $1/orange.",
+    "30 * 1 = $30. That means she earns $30 from oranges in the morning.",
+    "Now, I need to calculate the earnings from the apples sold in the afternoon. She sells 50 apples in the afternoon at $1.50 each.",
+    "The total earnings from the apples sold in the afternoon are 50 apples * $1.50/apple.",
+    "50 * 1.50 = $75. So, she earns $75 from apples in the afternoon.",
+    "Next, I will calculate the earnings from the oranges sold in the afternoon. She sells 40 oranges at $1 each.",
+    "The total earnings from the oranges sold in the afternoon are 40 oranges * $1/orange.",
+    "40 * 1 = $40. So, she earns $40 from oranges in the afternoon.",
+    "Now, I will calculate the total earnings for the day by adding the earnings from the morning and the afternoon.",
+    "Earnings from the morning: $60 (apples) + $30 (oranges) = $90.",
+    "Earnings from the afternoon: $75 (apples) + $40 (oranges) = $115.",
+    "Adding the total morning and afternoon earnings: $90 + $115.",
+    "$90 + $115 = $205. Therefore, Wendy's total sales for the day is $205."
+  ],
+  "solution": "205"
+}

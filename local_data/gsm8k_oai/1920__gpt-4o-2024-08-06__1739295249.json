@@ -1,0 +1,15 @@
+{
+  "query": "Blanch has 15 slices of pizza in the fridge. During breakfast, she eats 4 slices. At lunch, Blanch eats 2 slices, then takes two slices as a snack. Finally, she consumes 5 slices for dinner. How many slices of pizza are left?",
+  "steps": [
+    "Blanch starts with 15 slices of pizza.",
+    "During breakfast, Blanch eats 4 slices.",
+    "I subtract 4 slices from the original 15 slices: 15 - 4 = 11 slices are left.",
+    "At lunch, Blanch eats 2 more slices.",
+    "Subtract 2 slices from the 11 slices left: 11 - 2 = 9 slices are left after lunch.",
+    "Blanch takes 2 slices as a snack.",
+    "Subtract 2 more slices from the 9 slices left: 9 - 2 = 7 slices are left after the snack.",
+    "Finally, for dinner, Blanch consumes 5 slices.",
+    "Subtract 5 slices from the 7 slices left: 7 - 5 = 2 slices are left."
+  ],
+  "solution": "2"
+}

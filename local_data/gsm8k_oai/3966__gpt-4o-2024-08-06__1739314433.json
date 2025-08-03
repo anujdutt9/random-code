@@ -1,0 +1,14 @@
+{
+  "query": "Luther designs clothes for a high fashion company. His latest line of clothing uses both silk and cashmere fabrics. There are ten pieces made with silk and half that number made with cashmere. If his latest line has thirteen pieces, how many pieces use a blend of cashmere and silk?",
+  "steps": [
+    "First, I determine the number of pieces made with silk. According to the problem, Luther designs ten pieces made with silk.",
+    "Next, I find out how many pieces are made with cashmere. The problem states that the number of cashmere pieces is half the number of silk pieces.",
+    "Since there are ten silk pieces, the number of cashmere pieces is half of ten, which is five.",
+    "Now, I add together the pieces made only from silk and only from cashmere to see how many are accounted for. This means adding the ten silk pieces and the five cashmere pieces, resulting in a total of fifteen pieces.",
+    "At this point, I notice an inconsistency. The total number of pieces in the line is supposed to be thirteen, according to the problem. However, adding the silk-only and cashmere-only pieces together gives me fifteen.",
+    "This excess suggests that some pieces must use a blend, being counted in both the silk and cashmere categories.",
+    "To find the number of blended pieces, I consider the excess amount: fifteen (from silk plus cashmere) minus thirteen (total pieces), which equals two.",
+    "Thus, two pieces must have been double-counted because they use both silk and cashmere, indicating that they are blend pieces."
+  ],
+  "solution": "2"
+}

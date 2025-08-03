@@ -1,0 +1,25 @@
+{
+  "query": "Pastor Paul prays 20 times per day, except on Sunday, when he prays twice as much.  Pastor Bruce prays half as much as Pastor Paul, except on Sundays, when he prays twice as much as Pastor Paul.  How many more times does Pastor Paul pray than Pastor Bruce prays in a week?",
+  "steps": [
+    "First, I will calculate how many times Pastor Paul prays during a regular weekday.",
+    "Pastor Paul prays 20 times per day on weekdays.",
+    "There are 6 weekdays in a week.",
+    "Therefore, Pastor Paul prays 20 times per weekday for 6 weekdays: \\(20 \\times 6 = 120\\).",
+    "On Sunday, Pastor Paul prays twice as much.",
+    "So, on Sunday, Pastor Paul prays \\(20 \\times 2 = 40\\) times.",
+    "Now, I will calculate the total number of times Pastor Paul prays in a week.",
+    "Pastor Paul prays 120 times on weekdays plus 40 times on Sunday: \\(120 + 40 = 160\\).",
+    "Next, I will calculate how many times Pastor Bruce prays during a regular weekday.",
+    "Pastor Bruce prays half as much as Pastor Paul during regular weekdays.",
+    "So, Pastor Bruce prays \\(\\frac{20}{2} = 10\\) times per weekday.",
+    "Therefore, for 6 weekdays, Pastor Bruce prays \\(10 \\times 6 = 60\\) times.",
+    "On Sunday, Pastor Bruce prays twice as much as Pastor Paul.",
+    "So, on Sunday, Pastor Bruce prays \\(40 \\times 2 = 80\\) times.",
+    "Next, I will calculate the total number of times Pastor Bruce prays in a week.",
+    "Pastor Bruce prays 60 times on weekdays plus 80 times on Sunday: \\(60 + 80 = 140\\).",
+    "Now, I will calculate the difference in the number of times Pastor Paul and Pastor Bruce pray in a week.",
+    "Pastor Paul prays 160 times per week, and Pastor Bruce prays 140 times per week.",
+    "Thus, Pastor Paul prays \\(160 - 140 = 20\\) more times than Pastor Bruce in a week."
+  ],
+  "solution": "20"
+}

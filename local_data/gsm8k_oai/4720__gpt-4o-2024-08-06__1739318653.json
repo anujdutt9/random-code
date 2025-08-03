@@ -1,0 +1,20 @@
+{
+  "query": "Cara has 60 marbles in a bag. 20 of them are yellow, half as many are green, and the remaining marbles are equally divided between red and blue. If Cara picks a marble at random, what are the odds it's blue (expressed as a percentage)?",
+  "steps": [
+    "Cara has a total of 60 marbles.",
+    "20 of the marbles are yellow.",
+    "Half as many marbles are green as there are yellow marbles.",
+    "Half of 20 is 10, so there are 10 green marbles.",
+    "The yellow and green marbles together total 20 + 10 = 30 marbles.",
+    "This means the remaining marbles are 60 - 30 = 30 marbles.",
+    "These remaining 30 marbles are equally divided between red and blue.",
+    "So, there are 30 / 2 = 15 red marbles.",
+    "Similarly, there are 15 blue marbles.",
+    "The probability of picking a blue marble is the number of blue marbles divided by the total number of marbles.",
+    "This probability is 15 blue marbles / 60 total marbles.",
+    "15/60 simplifies to 1/4.",
+    "The odds, expressed as a percentage, are (1/4) * 100.",
+    "(1/4) * 100 equals 25."
+  ],
+  "solution": "25"
+}

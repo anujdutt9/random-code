@@ -1,0 +1,14 @@
+{
+  "query": "Sarah buys 20 pencils on Monday. Then she buys 18 more pencils on Tuesday. On Wednesday she buys triple the number of pencils she did on Tuesday. How many pencils does she have?",
+  "steps": [
+    "Sarah buys 20 pencils on Monday.",
+    "On Tuesday, she buys 18 more pencils.",
+    "Now, I add the pencils from Monday and Tuesday: 20 + 18 = 38 pencils by the end of Tuesday.",
+    "On Wednesday, she buys triple the number of pencils she did on Tuesday.",
+    "Tuesday's pencils were 18, so triple that amount is 18 * 3.",
+    "Calculating 18 * 3 = 54 pencils bought on Wednesday.",
+    "Now, I add the pencils bought on Wednesday to the total from Tuesday.",
+    "38 pencils from Monday and Tuesday + 54 pencils from Wednesday = 92 pencils total."
+  ],
+  "solution": "92"
+}

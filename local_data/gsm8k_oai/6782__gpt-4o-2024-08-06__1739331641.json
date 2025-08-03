@@ -1,0 +1,14 @@
+{
+  "query": "Hendricks buys a guitar for $200, which is 20% less than what Gerald bought the same guitar for. How much did Gerald pay for his guitar?",
+  "steps": [
+    "I know that Hendricks bought the guitar for $200.",
+    "I also know that this $200 is 20% less than what Gerald paid.",
+    "To find the original price before the discount, I need to understand that $200 represents 80% of the price Gerald paid.",
+    "I set up the equation where 80% of Gerald's price equals $200: 0.8 * Gerald's price = $200.",
+    "To find Gerald's original price, I need to divide $200 by 0.8.",
+    "I calculate $200 \u00f7 0.8.",
+    "$200 \u00f7 0.8 = $250.",
+    "This means Gerald paid $250 for his guitar."
+  ],
+  "solution": "250"
+}

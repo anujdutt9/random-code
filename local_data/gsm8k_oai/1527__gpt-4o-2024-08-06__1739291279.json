@@ -1,0 +1,19 @@
+{
+  "query": "At the circus, the clown has 3 dozen balloons on a string in his hand.  3 boys and 12 girls buy a balloon each.  How many balloons is the clown still holding?",
+  "steps": [
+    "To solve the problem, first, I need to determine the initial number of balloons the clown has.",
+    "The clown has 3 dozen balloons.",
+    "I need to calculate what 3 dozen means.",
+    "There are 12 items in a dozen, so 3 dozen balloons is 3 x 12.",
+    "3 x 12 equals 36. So, the clown has 36 balloons initially.",
+    "Next, I need to determine how many balloons are bought by the boys and girls.",
+    "There are 3 boys and 12 girls. Each buys 1 balloon.",
+    "The total number of balloons bought is 3 (boys) + 12 (girls).",
+    "3 + 12 equals 15. So 15 balloons are bought.",
+    "To find out how many balloons the clown is still holding, I need to subtract the number of balloons bought from the initial number of balloons.",
+    "I calculate 36 (initial balloons) - 15 (bought balloons).",
+    "36 - 15 equals 21.",
+    "Therefore, the clown is still holding 21 balloons."
+  ],
+  "solution": "21"
+}

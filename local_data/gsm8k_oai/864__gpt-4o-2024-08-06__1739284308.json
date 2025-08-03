@@ -1,0 +1,15 @@
+{
+  "query": "A coffee shop brews 10 coffee cups per hour on a weekday and 120 coffee cups in total over the weekend. If the coffee shop is open 5 hours a day every single day, how many coffee cups are brewed in 1 week?",
+  "steps": [
+    "To find the total number of coffee cups brewed in a week, I need to consider both the weekdays and the weekend.",
+    "First, let's calculate the number of coffee cups brewed on a weekday. The coffee shop brews 10 coffee cups per hour and is open 5 hours a day.",
+    "So, in one weekday, the coffee shop brews 10 cups/hour * 5 hours = 50 coffee cups.",
+    "There are 5 weekdays in a week.",
+    "Thus, the total number of coffee cups brewed over the 5 weekdays is 50 cups/day * 5 days = 250 coffee cups.",
+    "Next, I have the information that the coffee shop brews 120 coffee cups in total over the weekend.",
+    "So the total number of coffee cups brewed in the weekend is 120.",
+    "Now, I will add the coffee cups brewed during weekdays and the weekend together to get the total for the whole week.",
+    "Total coffee cups in a week = 250 coffee cups (weekdays) + 120 coffee cups (weekend) = 370 coffee cups."
+  ],
+  "solution": "370"
+}

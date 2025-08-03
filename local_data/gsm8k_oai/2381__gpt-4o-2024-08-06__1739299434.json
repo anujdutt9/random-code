@@ -1,0 +1,12 @@
+{
+  "query": "Clive opens a box full of different colored balls.  \u2028The box contains 6 blue balls, 4 red balls, 3 times as many green balls as blue ones and twice as many yellow ones as red ones.  \u2028How many balls are in the box Clive opens?",
+  "steps": [
+    "First, count the number of blue balls in the box. There are 6 blue balls.",
+    "Next, count the number of red balls. The box contains 4 red balls.",
+    "Now, calculate the number of green balls. There are 3 times as many green balls as blue ones. Since there are 6 blue balls, there are 3 times 6 green balls, which is 18 green balls.",
+    "Then, determine the number of yellow balls. There are twice as many yellow balls as red ones. Since there are 4 red balls, there are 2 times 4 yellow balls, which is 8 yellow balls.",
+    "Now, add up all the balls to find the total number in the box. Sum the blue, red, green, and yellow balls: 6 (blue) + 4 (red) + 18 (green) + 8 (yellow).",
+    "Perform the addition: 6 + 4 = 10, 10 + 18 = 28, 28 + 8 = 36."
+  ],
+  "solution": "36"
+}

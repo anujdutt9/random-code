@@ -1,0 +1,24 @@
+{
+  "query": "Two-fifths of the seats in an auditorium that holds 500 people are currently taken. It was found that 1/10 of the seats are broken. How many seats are still available?",
+  "steps": [
+    "First, I need to determine the number of seats currently taken.",
+    "The auditorium holds 500 people.",
+    "Two-fifths of the seats are taken.",
+    "I calculate two-fifths of 500 seats: (2/5) * 500 = 200.",
+    "So, 200 seats are currently taken.",
+    "Next, determine the number of broken seats.",
+    "One-tenth of the seats are broken.",
+    "I calculate one-tenth of 500 seats: (1/10) * 500 = 50.",
+    "So, 50 seats are broken.",
+    "I need to calculate how many seats are available.",
+    "I subtract the number of taken seats and broken seats from the total.",
+    "Total seats: 500.",
+    "Taken seats: 200.",
+    "Broken seats: 50.",
+    "Seats not taken and not broken (available seats): 500 - 200 - 50.",
+    "Calculation: 500 - 200 = 300.",
+    "Then, 300 - 50 = 250.",
+    "So, 250 seats are still available."
+  ],
+  "solution": "250"
+}

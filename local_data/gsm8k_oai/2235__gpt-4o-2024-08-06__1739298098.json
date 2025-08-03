@@ -1,0 +1,15 @@
+{
+  "query": "Robbie is tracking his nutrition intake per week. He eats 3 cups of rice in the morning, 2 cups of rice in the afternoon, and 5 cups of rice in the evening. If a cup of rice has 10 grams of fat, how many grams of fat does Robbie get in a week?",
+  "steps": [
+    "First, I need to calculate Robbie's daily rice intake in cups.",
+    "He eats 3 cups in the morning, 2 cups in the afternoon, and 5 cups in the evening.",
+    "Adding these together: 3 + 2 + 5 = 10 cups of rice per day.",
+    "Now, I need to calculate the fat intake from these 10 cups.",
+    "Each cup of rice has 10 grams of fat.",
+    "So, 10 cups of rice would have 10 cups * 10 grams/cup = 100 grams of fat per day.",
+    "Next, I calculate the total fat intake for a week.",
+    "A week has 7 days.",
+    "So, the weekly fat intake is 100 grams/day * 7 days = 700 grams."
+  ],
+  "solution": "700"
+}

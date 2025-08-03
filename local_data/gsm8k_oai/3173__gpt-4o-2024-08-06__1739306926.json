@@ -1,0 +1,16 @@
+{
+  "query": "Phil likes to collect baseball cards.  He buys a pack of twenty each week for a year, but then loses half of them one day in a fire.  How many baseball cards does Phil have left?",
+  "steps": [
+    "First, I need to determine how many weeks are in a year.",
+    "There are 52 weeks in a year.",
+    "Next, I need to calculate how many packs of baseball cards Phil buys in a year.",
+    "Phil buys 1 pack each week, so he buys 52 packs in a year.",
+    "Each pack contains 20 baseball cards, so I need to multiply the number of packs by the number of cards in each pack.",
+    "52 packs * 20 cards per pack = 1040 cards.",
+    "Now I know that Phil originally had 1040 baseball cards.",
+    "Phil then loses half of his cards in a fire, so I need to divide the total number of cards by 2.",
+    "1040 cards / 2 = 520 cards.",
+    "After the fire, Phil has 520 baseball cards left."
+  ],
+  "solution": "520"
+}

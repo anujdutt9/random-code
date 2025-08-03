@@ -1,0 +1,17 @@
+{
+  "query": "On Monday, Matt worked for 450 minutes in his office.  On Tuesday, he worked half the number of minutes he worked on Monday.  On Wednesday, he worked for 300 minutes.  How many more minutes did he work on Wednesday than on Tuesday.",
+  "steps": [
+    "On Monday, Matt worked for 450 minutes.",
+    "On Tuesday, he worked half the number of minutes he worked on Monday.",
+    "To find out how many minutes he worked on Tuesday, I need to calculate half of 450 minutes.",
+    "Half of 450 is \\( \\frac{450}{2} = 225 \\) minutes.",
+    "So, on Tuesday, Matt worked 225 minutes.",
+    "On Wednesday, he worked for 300 minutes.",
+    "Now, I need to find out how many more minutes he worked on Wednesday than on Tuesday.",
+    "I will subtract the number of minutes he worked on Tuesday from the number of minutes he worked on Wednesday.",
+    "That is, 300 minutes on Wednesday minus 225 minutes on Tuesday.",
+    "\\( 300 - 225 = 75 \\)",
+    "So, Matt worked 75 more minutes on Wednesday than on Tuesday."
+  ],
+  "solution": "75"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "If Buzz bought a pizza with 78 slices at a restaurant and then decided to share it with the waiter in the ratio of 5:8, with Buzz's ratio being 5, what's twenty less the number of slices of pizza that the waiter ate?",
+  "steps": [
+    "First, I need to understand the ratio of how the pizza slices are shared between Buzz and the waiter. The ratio is given as 5:8, with Buzz's share being the 5 parts.",
+    "The total number of parts in the ratio is 5 (Buzz) + 8 (waiter) = 13 parts.",
+    "The entire pizza is 78 slices, and these slices are divided into 13 parts according to the ratio.",
+    "I need to determine how many slices each part represents. To do this, I divide the total slices by the total number of parts: 78 slices \u00f7 13 parts = 6 slices per part.",
+    "Next, I calculate how many slices the waiter gets. The waiter has 8 parts according to the ratio.",
+    "The number of slices the waiter ate is 8 parts \u00d7 6 slices per part = 48 slices.",
+    "The question asks for twenty less the number of slices that the waiter ate. So, I subtract 20 from the waiter's slices: 48 slices - 20 = 28 slices."
+  ],
+  "solution": "28"
+}

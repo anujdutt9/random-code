@@ -1,0 +1,13 @@
+{
+  "query": "A lorry is 500 pounds when empty. What will its weight be if it's loaded with 20 bags of apples, each weighing 60 pounds?",
+  "steps": [
+    "The weight of the empty lorry is 500 pounds.",
+    "Each bag of apples weighs 60 pounds.",
+    "There are 20 bags of apples.",
+    "First, calculate the total weight of the apples by multiplying the weight of each bag by the number of bags.",
+    "60 pounds per bag multiplied by 20 bags equals 1200 pounds.",
+    "Next, add the weight of the apples to the weight of the empty lorry to find the total weight.",
+    "500 pounds (lorry) plus 1200 pounds (apples) equals 1700 pounds."
+  ],
+  "solution": "1700"
+}

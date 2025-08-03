@@ -1,0 +1,19 @@
+{
+  "query": "Emily is on a flight from New York to Hawaii that is 10 hours long. To kill time, she watches 3 TV episodes that are each 25 minutes long. Then she sleeps for 4 and a half hours. Then she watches 2 movies that are each an hour and 45 minutes long. After doing all these things, assuming there is no break time between activities, how many more minutes are left in the flight before Emily reaches Hawaii.",
+  "steps": [
+    "The total flight time is 10 hours.",
+    "First, I'll convert the flight duration from hours to minutes for easier calculations. There are 60 minutes in an hour, so 10 hours is 10 * 60 = 600 minutes.",
+    "Emily watches 3 TV episodes. Each episode is 25 minutes long.",
+    "The total time spent on TV episodes is 3 * 25 = 75 minutes.",
+    "Emily then sleeps for 4 and a half hours.",
+    "Converting 4 and a half hours to minutes, 4.5 hours is 4.5 * 60 = 270 minutes.",
+    "Emily watches 2 movies after sleeping. Each movie is 1 hour and 45 minutes long.",
+    "First, I'll convert the movie time to minutes. 1 hour and 45 minutes is 1 * 60 + 45 = 105 minutes per movie.",
+    "The total time spent on movies is 2 * 105 = 210 minutes.",
+    "Now I\u2019ll add up all the time Emily spent on activities: 75 minutes (TV) + 270 minutes (sleeping) + 210 minutes (movies).",
+    "The total time spent on activities is 75 + 270 + 210 = 555 minutes.",
+    "The total flight time is 600 minutes. I'll subtract the time spent on activities from the total flight time to find out how many minutes are left.",
+    "600 minutes - 555 minutes = 45 minutes."
+  ],
+  "solution": "45"
+}

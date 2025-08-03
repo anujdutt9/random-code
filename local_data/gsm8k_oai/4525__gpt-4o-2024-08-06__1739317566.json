@@ -1,0 +1,25 @@
+{
+  "query": "Cassie is trimming her pet's nails. She has four dogs and eight parrots. Each dog has four nails on each foot, and each parrot has three claws on each leg, except for one parrot who has an extra toe. How many nails does Cassie need to cut?",
+  "steps": [
+    "First, I need to calculate the total number of nails for the dogs.",
+    "Each dog has four feet.",
+    "Each foot of a dog has four nails.",
+    "Thus, each dog has 4 feet \u00d7 4 nails per foot = 16 nails.",
+    "Cassie has four dogs.",
+    "So, the total number of dog nails is 4 dogs \u00d7 16 nails per dog = 64 nails.",
+    "Next, I'll calculate the total number of claws for the parrots.",
+    "Each parrot normally has 2 legs.",
+    "Except one parrot who has an extra toe, all other parrots have 3 claws per leg.",
+    "A normal parrot has a total of 2 legs \u00d7 3 claws per leg = 6 claws.",
+    "There are eight parrots in total.",
+    "Subtracting the parrot with the extra toe, there are 7 normal parrots.",
+    "The 7 normal parrots together have 7 \u00d7 6 claws = 42 claws.",
+    "Now, considering the parrot with an extra toe.",
+    "This specific parrot would have 6 claws (as a normal parrot) + 1 extra toe = 7 claws.",
+    "Adding this to the claws of the other parrots gives us the total number of claws for the parrots.",
+    "The total number of claws for all the parrots is 42 claws (normal) + 7 claws (extra toe parrot) = 49 claws.",
+    "Now, I will add the total number of nails from dogs and claws from parrots to find the total nails Cassie needs to cut.",
+    "Total nails to cut = 64 (dogs) + 49 (parrots) = 113."
+  ],
+  "solution": "113"
+}

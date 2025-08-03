@@ -1,0 +1,19 @@
+{
+  "query": "William washes cars as a side job. He typically spends 4 minutes washing a car\u2019s windows, 7 minutes washing the car body, 4 minutes cleaning the tires, and 9 minutes waxing the car. This morning he washed 2 normal cars and one big SUV, which took twice as long as a normal car. How many minutes did William spend washing all the vehicles?",
+  "steps": [
+    "First, I need to calculate the total time William spends on washing one normal car.",
+    "He spends 4 minutes on windows, 7 minutes on the car body, 4 minutes on tires, and 9 minutes on waxing.",
+    "I add these times together: 4 + 7 + 4 + 9.",
+    "Calculating the sum: 4 + 7 = 11, 11 + 4 = 15, 15 + 9 = 24.",
+    "So, William spends 24 minutes washing one normal car.",
+    "Now, I have to consider the time taken for two normal cars.",
+    "Since each normal car takes 24 minutes, two normal cars will take 2 x 24 = 48 minutes.",
+    "Next, I need to calculate the time for washing the big SUV.",
+    "The problem states the SUV takes twice as long as a normal car.",
+    "So, I calculate 2 x 24 = 48 minutes for the SUV.",
+    "Now, I add the total time for all vehicles: two normal cars and one SUV.",
+    "Adding the times: 48 minutes (for two normal cars) + 48 minutes (for the SUV).",
+    "Calculating the sum gives: 48 + 48 = 96."
+  ],
+  "solution": "96"
+}

@@ -1,0 +1,12 @@
+{
+  "query": "Sasha can complete 15 questions an hour. If she has 60 questions to complete and she works for 2 hours, how many questions does she still need to complete?",
+  "steps": [
+    "Sasha can complete 15 questions in one hour.",
+    "She works for 2 hours.",
+    "In 2 hours, she can complete 15 questions/hour * 2 hours = 30 questions.",
+    "Sasha has 60 questions to complete in total.",
+    "After working for 2 hours, she completes 30 questions.",
+    "To find out how many questions she still needs to complete, subtract the number of questions she has already completed from the total number of questions: 60 questions - 30 questions = 30 questions."
+  ],
+  "solution": "30"
+}

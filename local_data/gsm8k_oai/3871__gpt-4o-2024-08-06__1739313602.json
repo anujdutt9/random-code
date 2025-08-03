@@ -1,0 +1,19 @@
+{
+  "query": "A class is completing an art project. Each of the 30 students is assigned to a separate group and will need to take markers from the 22 boxes of markers. The first group has 10 students who will have 2 markers each and the second group has 15 students who will have 4 markers each. The last group takes the remaining markers and divides them equally. If each box of markers contains 5 markers, how many markers does each of the students in the last group receive?",
+  "steps": [
+    "First, I need to determine how many markers are in total by multiplying the number of boxes by the number of markers per box.",
+    "There are 22 boxes of markers, and each box contains 5 markers. So, 22 boxes * 5 markers per box = 110 markers.",
+    "Next, I need to calculate how many markers the first group of students will need.",
+    "The first group has 10 students, and each requires 2 markers. So, 10 students * 2 markers each = 20 markers needed for the first group.",
+    "Now, I calculate how many markers the second group of students will need.",
+    "The second group has 15 students, and each requires 4 markers. So, 15 students * 4 markers each = 60 markers needed for the second group.",
+    "I need to subtract the markers used by the first and second groups from the total number of markers to find out how many markers remain for the last group.",
+    "20 markers (first group) + 60 markers (second group) = 80 markers used by the first two groups.",
+    "Subtract the 80 markers from the total 110 markers to determine the remaining markers: 110 markers - 80 markers = 30 markers remaining.",
+    "The last group will divide the remaining 30 markers equally among its students.",
+    "The total number of students is 30; with the first group having 10 and the second group 15, the third group must have 30 - 10 - 15 = 5 students.",
+    "Each student in the last group will receive an equal share of the remaining 30 markers.",
+    "Divide the 30 remaining markers by the 5 students in the last group: 30 markers / 5 students = 6 markers per student."
+  ],
+  "solution": "6"
+}

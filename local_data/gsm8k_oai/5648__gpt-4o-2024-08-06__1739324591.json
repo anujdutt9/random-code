@@ -1,0 +1,18 @@
+{
+  "query": "In a batch of 30 apples, 1/6 are too small and 1/3 are not ripe.  The others are perfect. Calculate the number of perfect apples.",
+  "steps": [
+    "First, I calculate the number of apples that are too small.",
+    "There are 30 apples in total and 1/6 of them are too small.",
+    "To find the number of too small apples, calculate (1/6) * 30.",
+    "(1/6) * 30 = 5 apples.",
+    "Next, I calculate the number of apples that are not ripe.",
+    "1/3 of the 30 apples are not ripe.",
+    "To find the number of not ripe apples, calculate (1/3) * 30.",
+    "(1/3) * 30 = 10 apples.",
+    "Now I need to determine the number of perfect apples.",
+    "Subtract the number of too small and not ripe apples from the total number of apples.",
+    "The total non-perfect apples = 5 (too small) + 10 (not ripe) = 15 apples.",
+    "Subtracting the non-perfect apples from the total gives 30 - 15 = 15 perfect apples."
+  ],
+  "solution": "15"
+}

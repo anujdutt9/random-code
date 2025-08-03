@@ -1,0 +1,13 @@
+{
+  "query": "John has 3 children. He and his wife are supposed to buy notebooks for their sons but they couldn't agree on how many to buy. So John bought 2 notebooks for each of his children and John's wife bought 5 notebooks for each of them. How many notebooks did they buy in total for their children?",
+  "steps": [
+    "First, I need to determine how many sons John and his wife have. John has 3 children, so I will assume these are all sons, as no other information indicates otherwise.",
+    "Next, I calculate the total number of notebooks John bought. He bought 2 notebooks for each of his 3 children.",
+    "I multiply the number of sons (3) by the number of notebooks John bought for each (2). This results in \\(3 \\times 2 = 6\\) notebooks.",
+    "Now, I calculate the total number of notebooks John's wife bought. She bought 5 notebooks for each of the 3 children.",
+    "I multiply the number of sons (3) by the number of notebooks John's wife bought for each (5). This results in \\(3 \\times 5 = 15\\) notebooks.",
+    "To find the total number of notebooks purchased by both John and his wife, I add the number of notebooks John bought (6) to the number of notebooks his wife bought (15).",
+    "Adding these gives \\(6 + 15 = 21\\) total notebooks."
+  ],
+  "solution": "21"
+}

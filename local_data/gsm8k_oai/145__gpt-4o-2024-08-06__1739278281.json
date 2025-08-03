@@ -1,0 +1,19 @@
+{
+  "query": "James watched 2 episodes of Jeopardy and 2 episodes of Wheel of Fortune.  Jeopardy is 20 minutes and Wheel of Fortune is twice as long.  How many hours did he watch TV?",
+  "steps": [
+    "James watched 2 episodes of Jeopardy.",
+    "Each episode of Jeopardy is 20 minutes long.",
+    "To find the total time spent watching Jeopardy, multiply the number of episodes by the duration of each episode: 2 episodes \u00d7 20 minutes/episode.",
+    "2 \u00d7 20 = 40 minutes spent watching Jeopardy.",
+    "James watched 2 episodes of Wheel of Fortune.",
+    "Each episode of Wheel of Fortune is twice as long as a Jeopardy episode, which is 2 \u00d7 20 minutes.",
+    "2 \u00d7 20 = 40 minutes for each episode of Wheel of Fortune.",
+    "To find the total time spent watching Wheel of Fortune, multiply the number of episodes by the duration of each episode: 2 episodes \u00d7 40 minutes/episode.",
+    "2 \u00d7 40 = 80 minutes spent watching Wheel of Fortune.",
+    "Now, add the total minutes spent watching Jeopardy and Wheel of Fortune: 40 minutes + 80 minutes.",
+    "40 + 80 = 120 minutes in total spent watching TV.",
+    "Convert the total minutes into hours: 120 minutes \u00f7 60 minutes/hour.",
+    "120 \u00f7 60 = 2 hours."
+  ],
+  "solution": "2"
+}

@@ -1,0 +1,12 @@
+{
+  "query": "Benjamin went to McDonald's to buy something for dinner. He bought a salad, a burger, and two packs of fries. He paid in total $15. How much did the burger cost, if one pack of fries was for $2 and the salad was three times that price?",
+  "steps": [
+    "First, I need to determine the cost of one pack of fries. It is given as $2.",
+    "Now, I need to find the cost of the salad. It is three times the price of one pack of fries.",
+    "To calculate the cost of the salad: 3 times $2 equals $6.",
+    "Benjamin bought two packs of fries. So, I calculate the cost of two packs of fries as 2 times $2, which equals $4.",
+    "Next, I calculate the total cost of the salad and two packs of fries. $6 (salad) + $4 (fries) equals $10.",
+    "Benjamin paid a total of $15. To find the cost of the burger, I subtract the combined cost of the salad and fries from the total amount he paid: $15 - $10 equals $5."
+  ],
+  "solution": "5"
+}

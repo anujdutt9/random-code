@@ -1,0 +1,13 @@
+{
+  "query": "Jan is making candy necklaces for herself and a few friends. Everyone receives a candy necklace each and each candy necklace is made up of 10 pieces of candies. The pieces of candies come from blocks of candy, which each produce 30 pieces of candy. If Jan breaks down 3 blocks of candy and every single piece of candy from this is used in the candy necklaces, how many friends receive a candy necklace?",
+  "steps": [
+    "Jan has 3 blocks of candy.",
+    "Each block of candy can be broken down into 30 pieces of candy.",
+    "Therefore, with 3 blocks of candy, Jan has 3 * 30 = 90 pieces of candy.",
+    "Each candy necklace is composed of 10 pieces of candy.",
+    "The total number of candy necklaces that can be made with 90 pieces of candy is 90 / 10 = 9 necklaces.",
+    "Jan makes 9 candy necklaces.",
+    "Since Jan and her friends each receive one necklace, and there are 9 necklaces in total, this means Jan gives out necklaces to herself and 8 friends."
+  ],
+  "solution": "8"
+}

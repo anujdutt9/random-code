@@ -1,0 +1,17 @@
+{
+  "query": "Daisy's Flower Shop sold 45 daisies on its first day. On their second day, they sold 20 more flowers than they did on their first day. On the third day, they sold 10 less than twice the flowers that were sold than on the second day. If the flower shop sold a total of 350 daisies for 4 days, how many daisies were sold on the 4th day?",
+  "steps": [
+    "First, find the number of daisies sold on the second day. They sold 20 more than the first day.",
+    "On the first day, they sold 45 daisies.",
+    "So, on the second day, they sold 45 + 20 = 65 daisies.",
+    "Now, find the number of daisies sold on the third day. They sold 10 less than twice the flowers sold on the second day.",
+    "Twice the number of daisies sold on the second day is 2 * 65 = 130.",
+    "Subtract 10 from 130 to find the number of daisies sold on the third day: 130 - 10 = 120 daisies.",
+    "Now, calculate the total daisies sold in the first three days.",
+    "Total daisies for the first three days is 45 (first day) + 65 (second day) + 120 (third day) = 230 daisies.",
+    "The total number of daisies sold across all four days is 350.",
+    "To find the number sold on the fourth day, subtract the total for the first three days from the total for all four days.",
+    "350 (total for four days) - 230 (total for first three days) = 120 daisies."
+  ],
+  "solution": "120"
+}

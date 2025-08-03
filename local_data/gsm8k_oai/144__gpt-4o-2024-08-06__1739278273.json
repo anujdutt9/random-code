@@ -1,0 +1,13 @@
+{
+  "query": "The owner of a Turkish restaurant wanted to prepare traditional dishes for an upcoming celebration. She ordered ground beef, in four-pound packages, from three different butchers. The following morning, the first butcher delivered 10 packages. A couple of hours later, 7 packages arrived from the second butcher. Finally, the third butcher\u2019s delivery arrived at dusk. If all the ground beef delivered by the three butchers weighed 100 pounds, how many packages did the third butcher deliver?",
+  "steps": [
+    "I need to find the total weight of the ground beef delivered by the first and second butchers.",
+    "The first butcher delivered 10 packages. Each package is 4 pounds, so the total weight from the first butcher is 10 packages * 4 pounds/package = 40 pounds.",
+    "The second butcher delivered 7 packages. Each package is 4 pounds, so the total weight from the second butcher is 7 packages * 4 pounds/package = 28 pounds.",
+    "Now I can calculate the combined weight of the deliveries from the first and second butchers: 40 pounds + 28 pounds = 68 pounds.",
+    "I know that the total weight delivered by all three butchers is 100 pounds.",
+    "To find the weight delivered by the third butcher, I subtract the combined weight of the first two deliveries from the total weight: 100 pounds - 68 pounds = 32 pounds.",
+    "Each package is 4 pounds, so I need to find the number of packages in 32 pounds: 32 pounds / 4 pounds/package = 8 packages."
+  ],
+  "solution": "8"
+}

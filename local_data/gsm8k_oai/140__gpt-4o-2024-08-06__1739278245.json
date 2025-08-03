@@ -1,0 +1,20 @@
+{
+  "query": "Fern is checking IDs to get into an R-rated movie. She denied 20% of the 120 kids from Riverside High, 70% of the 90 kids from West Side High, and half the 50 kids from Mountaintop High. How many kids got into the movie?",
+  "steps": [
+    "First, calculate the number of Riverside High kids who were denied entry.",
+    "20% of 120 is calculated as (20/100) * 120 = 24.",
+    "Subtract the number of denied kids from Riverside High from the total from Riverside High to find out how many got in.",
+    "120 - 24 = 96 kids from Riverside High got into the movie.",
+    "Next, calculate the number of West Side High kids who were denied entry.",
+    "70% of 90 is calculated as (70/100) * 90 = 63.",
+    "Subtract the number of denied kids from West Side High from the total from West Side High to find out how many got in.",
+    "90 - 63 = 27 kids from West Side High got into the movie.",
+    "Then, calculate the number of Mountaintop High kids who were denied entry.",
+    "Half of 50 is calculated as 50/2 = 25.",
+    "Subtract the number of denied kids from Mountaintop High from the total from Mountaintop High to find out how many got in.",
+    "50 - 25 = 25 kids from Mountaintop High got into the movie.",
+    "Find the total number of kids who got into the movie by adding those from each school who were allowed entry.",
+    "96 (Riverside High) + 27 (West Side High) + 25 (Mountaintop High) = 148."
+  ],
+  "solution": "148"
+}

@@ -1,0 +1,12 @@
+{
+  "query": "Allie has 9 toys, which are in total worth $52. If we know that one toy is worth $12, and all the other toys have the same value, how much does one of the other toys cost?",
+  "steps": [
+    "First, I need to determine the total worth of the other toys combined by subtracting the value of the one toy that is worth $12 from the total value of all the toys.",
+    "The total value of all toys is $52, and one toy is worth $12. So, I calculate the value of the remaining toys: $52 - $12.",
+    "Subtracting these gives $52 - $12 = $40.",
+    "There are 9 toys in total, and 1 of them is already accounted for, leaving us with 8 other toys.",
+    "To find out how much each of the other toys cost, I divide the total value of the remaining toys by the number of those toys: $40 \u00f7 8.",
+    "Performing the division gives $40 \u00f7 8 = $5."
+  ],
+  "solution": "5"
+}

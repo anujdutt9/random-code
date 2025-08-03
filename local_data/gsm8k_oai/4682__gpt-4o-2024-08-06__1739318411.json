@@ -1,0 +1,15 @@
+{
+  "query": "The Indigo Restaurant receives 18 online customer reviews. They receive six 5-star reviews, seven 4-star reviews, four 3-star reviews, and one 2-star review. What is the average star rating for Indigo Restaurant based on these reviews?",
+  "steps": [
+    "First, I need to calculate the total number of stars given in all the reviews.",
+    "There are six 5-star reviews. The total stars for these reviews are 6 * 5 = 30 stars.",
+    "There are seven 4-star reviews. The total stars for these reviews are 7 * 4 = 28 stars.",
+    "There are four 3-star reviews. The total stars for these reviews are 4 * 3 = 12 stars.",
+    "There is one 2-star review. The total stars for these reviews are 1 * 2 = 2 stars.",
+    "Now, I will add up all the stars to get the total number of stars from all reviews: 30 + 28 + 12 + 2 = 72 stars.",
+    "Next, I need to calculate the average star rating by dividing the total number of stars by the total number of reviews.",
+    "There are a total of 18 reviews.",
+    "The average star rating is 72 stars / 18 reviews = 4 stars."
+  ],
+  "solution": "4"
+}

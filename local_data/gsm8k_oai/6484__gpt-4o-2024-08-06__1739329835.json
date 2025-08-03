@@ -1,0 +1,14 @@
+{
+  "query": "Gabriel is 3 years younger than Frank. The current total of their ages right now is 17. What is Frank's age?",
+  "steps": [
+    "Let's call Frank's age F.",
+    "Gabriel is 3 years younger than Frank, so Gabriel's age would be F - 3.",
+    "The total of their ages is given as 17.",
+    "So we can write the equation: F + (F - 3) = 17.",
+    "Simplify the equation: F + F - 3 = 17.",
+    "Combine like terms: 2F - 3 = 17.",
+    "Add 3 to both sides to isolate terms involving F: 2F = 20.",
+    "Divide both sides by 2 to solve for F: F = 10."
+  ],
+  "solution": "10"
+}

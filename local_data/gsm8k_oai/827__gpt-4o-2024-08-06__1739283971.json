@@ -1,0 +1,14 @@
+{
+  "query": "There are six chairs in each row in a church. If there are 20 rows of chairs in the church, and each chair holds five people, calculate the number of people who have to sit in the chairs for the church to be full.",
+  "steps": [
+    "First, I need to determine the total number of chairs in the church.",
+    "There are 6 chairs in each row and 20 rows of chairs.",
+    "To find the total number of chairs, I multiply the number of chairs per row by the number of rows.",
+    "6 chairs/row * 20 rows = 120 chairs.",
+    "Now, I need to find out how many people can sit in these chairs.",
+    "Each chair holds 5 people.",
+    "I will multiply the total number of chairs by the number of people each chair can hold.",
+    "120 chairs * 5 people/chair = 600 people."
+  ],
+  "solution": "600"
+}

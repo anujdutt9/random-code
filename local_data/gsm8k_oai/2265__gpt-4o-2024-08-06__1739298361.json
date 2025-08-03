@@ -1,0 +1,15 @@
+{
+  "query": "There were 50 racers in a bicycle charity race at the beginning of the race. After 20 minutes, 30 more racers joined the race. The total number of racers doubled after another 30 minutes. If at the end of the race only 130 people finished the race, what's the total number of people who dropped before finishing the race?",
+  "steps": [
+    "Initially, there are 50 racers at the beginning of the race.",
+    "After 20 minutes, 30 more racers joined the race.",
+    "So, the total number of racers after 20 minutes is 50 + 30 = 80 racers.",
+    "The problem states that the total number of racers doubled after another 30 minutes.",
+    "Thus, doubling the 80 racers gives us 2 * 80 = 160 racers.",
+    "This means there are 160 racers in the race at some point.",
+    "The problem states that only 130 people finished the race.",
+    "To find the number of people who dropped out before finishing, we subtract the number of finishers from the total number of racers.",
+    "160 total racers - 130 finishers = 30 racers dropped out."
+  ],
+  "solution": "30"
+}

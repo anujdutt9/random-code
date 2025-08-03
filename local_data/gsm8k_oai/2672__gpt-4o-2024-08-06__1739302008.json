@@ -1,0 +1,21 @@
+{
+  "query": "In a house of 15, 3/5 of the people eat pizza. If Aviana brought pizza with 50 pieces, and each person eating pizza took 4 pieces, calculate the number of pizza pieces that remained.",
+  "steps": [
+    "First, I need to determine how many people are in the house.",
+    "The problem states there are 15 people in the house.",
+    "Next, I need to find out how many of these people are eating pizza.",
+    "The problem states that 3/5 of the people eat pizza.",
+    "To find out how many people eat pizza, I should calculate 3/5 of 15.",
+    "\\(\\frac{3}{5} \\times 15 = 9\\)",
+    "Therefore, 9 people eat pizza.",
+    "Next, I need to find out how many pieces of pizza they took in total.",
+    "The problem states each person eating pizza took 4 pieces.",
+    "Therefore, the total number of pizza pieces consumed is 9 people \\(\\times\\) 4 pieces each.",
+    "9 \\(\\times\\) 4 = 36",
+    "So, they consumed 36 pieces of pizza.",
+    "Aviana brought pizza with 50 pieces initially.",
+    "The remaining pieces of pizza can be found by subtracting the pieces eaten from the pieces brought: 50 - 36.",
+    "50 - 36 = 14"
+  ],
+  "solution": "14"
+}

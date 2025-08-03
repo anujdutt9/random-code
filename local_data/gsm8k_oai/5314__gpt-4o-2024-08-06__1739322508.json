@@ -1,0 +1,13 @@
+{
+  "query": "A coach placed 15 tennis balls and 5 soccer balls each into 5 baskets. He gave 5 of his students a short period of time to remove as many balls each from a basket as they could. 3 of them removed 8 balls each and the other 2 removed a certain number of balls each. If a total of 56 balls are still in the baskets, how many balls did the other 2 students each remove?",
+  "steps": [
+    "First, calculate the total number of balls initially: 15 tennis balls + 5 soccer balls = 20 balls per basket.",
+    "Since there are 5 baskets, the total number of balls initially is 20 balls/basket * 5 baskets = 100 balls.",
+    "Next, we know that a total of 56 balls are still in the baskets after the students removed some balls.",
+    "So, the total number of balls removed is 100 initial balls - 56 balls remaining = 44 balls removed.",
+    "Three students removed 8 balls each: 3 students * 8 balls/student = 24 balls.",
+    "Since 24 balls were removed by the first three students, the remaining balls removed by the other 2 students is 44 total removed - 24 removed by the first three students = 20 balls.",
+    "These 20 balls were removed by 2 students equally, so each of the remaining 2 students removed 20 balls / 2 students = 10 balls each."
+  ],
+  "solution": "10"
+}

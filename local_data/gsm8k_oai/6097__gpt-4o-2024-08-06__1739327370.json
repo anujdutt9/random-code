@@ -1,0 +1,16 @@
+{
+  "query": "John has 25 horses.  He feeds each horse twice a day and feeds them 20 pounds of food at each feeding.  He buys half ton bags of food.  How many of those will he have to buy in 60 days?",
+  "steps": [
+    "First, I need to determine how much food is consumed by each horse in one day.",
+    "Each horse is fed twice a day, and each feeding requires 20 pounds of food.",
+    "Therefore, one horse eats 20 pounds per feeding \u00d7 2 feedings per day = 40 pounds of food per day.",
+    "Next, I need to find out how much total food is consumed by all 25 horses in one day.",
+    "If each horse eats 40 pounds per day, then 25 horses eat 25 horses \u00d7 40 pounds per horse per day = 1,000 pounds of food per day.",
+    "Now, I need to determine how much food is consumed in 60 days.",
+    "The total amount of food consumed in 60 days would be 1,000 pounds per day \u00d7 60 days = 60,000 pounds of food.",
+    "Each bag of food is half a ton. Since 1 ton is 2,000 pounds, half a ton is 1,000 pounds.",
+    "I need to determine how many half-ton bags are needed to meet the 60,000 pounds of food requirement.",
+    "To do this, I need to divide the total pounds of food by the pounds per bag: 60,000 pounds \u00f7 1,000 pounds per bag = 60 bags."
+  ],
+  "solution": "60"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Mary is chopping up some old furniture to make firewood. Chairs make 6 sticks of wood, tables make 9 sticks of wood, and stools make 2 sticks of wood. Mary needs to burn 5 sticks of wood per hour to stay warm. If Mary chops up 18 chairs, 6 tables and 4 stools, how many hours can she keep warm?",
+  "steps": [
+    "First, I need to calculate the total number of sticks of wood Mary can make from the chairs.",
+    "Each chair gives 6 sticks of wood. Mary has 18 chairs.",
+    "So, I calculate: 18 chairs * 6 sticks/chair = 108 sticks of wood from chairs.",
+    "Next, I need to calculate the total number of sticks of wood from the tables.",
+    "Each table gives 9 sticks of wood. Mary has 6 tables.",
+    "So, I calculate: 6 tables * 9 sticks/table = 54 sticks of wood from tables.",
+    "Now, I need to calculate the total number of sticks of wood from the stools.",
+    "Each stool gives 2 sticks of wood. Mary has 4 stools.",
+    "So, I calculate: 4 stools * 2 sticks/stool = 8 sticks of wood from stools.",
+    "I now add up the total number of sticks from all the furniture.",
+    "Total sticks = 108 sticks (from chairs) + 54 sticks (from tables) + 8 sticks (from stools) = 170 sticks of wood.",
+    "Mary needs 5 sticks of wood per hour to stay warm.",
+    "I need to calculate how many hours she can stay warm with 170 sticks of wood.",
+    "I calculate: 170 sticks / 5 sticks/hour = 34 hours."
+  ],
+  "solution": "34"
+}

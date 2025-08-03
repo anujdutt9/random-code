@@ -1,0 +1,16 @@
+{
+  "query": "George is about to celebrate his 25th birthday. Since his 15th birthday, he's been given a special $1 bill from his parents. They told him that on his 25th birthday, for every bill he still has, they will give him $1.5 in exchange. He spent 20% of his special bills. How much will he receive from his parents when he exchanges them?",
+  "steps": [
+    "George is about to celebrate his 25th birthday, and he started getting special $1 bills from his parents on his 15th birthday.",
+    "This means he could have received the bills every year for 10 years (from 15 to 24, inclusive).",
+    "He received one special $1 bill each year, so he received a total of 10 bills.",
+    "George spent 20% of his special bills.",
+    "To find out how many bills he spent, I need to calculate 20% of 10 bills.",
+    "20% of 10 is \\( 0.20 \\times 10 = 2 \\) bills.",
+    "If he spent 2 bills, that means he has 10 - 2 = 8 bills left.",
+    "His parents will give him $1.5 for each bill he has left.",
+    "To find out how much he will receive, I need to multiply the number of bills he has left by $1.5.",
+    "So, 8 bills times $1.5 per bill equals \\( 8 \\times 1.5 = 12 \\) dollars."
+  ],
+  "solution": "12"
+}

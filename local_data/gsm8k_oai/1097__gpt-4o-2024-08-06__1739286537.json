@@ -1,0 +1,17 @@
+{
+  "query": "Out of the 200 cookies that Javier baked from the recipe he learned online, his wife took 30%, and his daughter took 40 from the remaining cookies. If he ate half of the remaining cookies, how many cookies did they not eat?",
+  "steps": [
+    "Javier baked a total of 200 cookies.",
+    "His wife took 30% of the cookies. To find out how many cookies she took, I will calculate 30% of 200.",
+    "30% of 200 is (30/100) * 200 = 60 cookies.",
+    "After his wife took 60 cookies, I need to find out how many cookies are left. So, I subtract 60 from 200.",
+    "200 - 60 = 140 cookies are remaining.",
+    "His daughter took 40 cookies from these remaining cookies. I need to subtract 40 from 140.",
+    "140 - 40 = 100 cookies are left after his daughter took some.",
+    "Javier ate half of the remaining cookies. I need to find half of 100.",
+    "Half of 100 is 100 / 2 = 50 cookies.",
+    "Now, I need to find out how many cookies were not eaten. I subtract the 50 cookies Javier ate from the 100 that were left before he ate.",
+    "100 - 50 = 50 cookies were not eaten."
+  ],
+  "solution": "50"
+}

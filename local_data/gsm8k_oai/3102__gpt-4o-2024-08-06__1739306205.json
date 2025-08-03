@@ -1,0 +1,16 @@
+{
+  "query": "Mrs. Gable\u2019s third grade class is on a field trip to the beach. For lunch, Mrs. Gable brought 20 lunches for the 20 students in her class. She included a pack of animal crackers in each lunch bag for dessert. Each pack of animal crackers contained 10 animal crackers. If 2 students did not eat their animal crackers, how many animal crackers were eaten in total among Mrs. Gable\u2019s students?",
+  "steps": [
+    "Mrs. Gable brought 20 lunches, each with a pack of animal crackers.",
+    "Each pack of animal crackers contains 10 crackers.",
+    "In total, there are 20 packs of animal crackers for the 20 students.",
+    "Since each pack has 10 crackers, the total number of crackers is 20 packs multiplied by 10 crackers per pack.",
+    "20 packs * 10 crackers/pack = 200 crackers.",
+    "However, 2 students did not eat their animal crackers.",
+    "The 2 students who didn\u2019t eat their crackers mean 2 packs were not consumed.",
+    "2 packs * 10 crackers/pack = 20 crackers were not eaten.",
+    "To find out how many crackers were eaten, subtract the number of uneaten crackers from the total number of crackers.",
+    "200 crackers (total) - 20 crackers (not eaten) = 180 crackers eaten."
+  ],
+  "solution": "180"
+}

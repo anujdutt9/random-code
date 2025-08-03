@@ -1,0 +1,18 @@
+{
+  "query": "There are 16 people at a dinner party. There are 40 dinner rolls available for them. Half the people eat 1 1/2 rolls each. The other half eat 1/2 a roll each. How many dinner rolls are leftover?",
+  "steps": [
+    "There are 16 people at the dinner party.",
+    "There are 40 dinner rolls available.",
+    "Half of the people eat 1 1/2 rolls each. Half of 16 people is 8 people.",
+    "The other half, which is also 8 people, eat 1/2 roll each.",
+    "First, calculate the total number of rolls eaten by the first group of 8 people.",
+    "Each person in the first group eats 1 1/2 rolls. Therefore, the total for this group is 8 people * 1.5 rolls/person = 12 rolls.",
+    "Now, calculate the total number of rolls eaten by the second group of 8 people.",
+    "Each person in the second group eats 1/2 roll. Therefore, the total for this group is 8 people * 0.5 rolls/person = 4 rolls.",
+    "Combine the totals from both groups to find the total number of rolls consumed.",
+    "12 rolls (first group) + 4 rolls (second group) = 16 rolls eaten in total.",
+    "Subtract the total rolls eaten from the total rolls available to find the number of leftover rolls.",
+    "40 rolls available - 16 rolls eaten = 24 rolls leftover."
+  ],
+  "solution": "24"
+}

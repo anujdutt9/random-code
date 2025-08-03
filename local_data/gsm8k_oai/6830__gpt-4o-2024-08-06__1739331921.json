@@ -1,0 +1,17 @@
+{
+  "query": "Anna is making gingerbread cookies. She gives 6 of them red hats, 9 of them blue boots, and 3 of them both red hats and blue boots. What percentage of the gingerbread men have red hats?",
+  "steps": [
+    "Anna gives 6 cookies red hats.",
+    "Out of these 6 cookies, 3 also have blue boots.",
+    "This means there are 3 cookies with only red hats, and 3 cookies with both red hats and blue boots.",
+    "To find the total number of cookies, I need to consider each unique combination.",
+    "The unique cookies consist of those with only red hats (3), only blue boots (9 - 3 = 6), and both.",
+    "The total number of cookies is the sum of cookies with only red hats (3), only blue boots (6), and those with both (3).",
+    "Total = 3 (only red hats) + 6 (only blue boots) + 3 (both) = 12 cookies.",
+    "Now, to find the percentage of cookies with red hats, I take those with red hats including both (6) over the total cookies (12).",
+    "Percentage with red hats = (6/12) * 100%.",
+    "Simplify the fraction: 6/12 = 1/2.",
+    "Convert the fraction to percentage: 1/2 * 100% = 50%."
+  ],
+  "solution": "50"
+}

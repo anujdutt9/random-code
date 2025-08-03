@@ -1,0 +1,24 @@
+{
+  "query": "Julie wants to give her favorite cousin a $2345 mountain bike for his birthday. So far, she has saved $1500. Since the birthday is still a few weeks away, Julie has time to save even more. She plans on mowing 20 lawns, delivering 600 newspapers, and walking 24 of her neighbors\u2019 dogs. She is paid $20 for each lawn, 40 cents per newspaper, and $15 per dog. After purchasing the bike, how much money will Julie have left?",
+  "steps": [
+    "Julie has saved $1500 so far.",
+    "She plans to mow 20 lawns. She earns $20 for each lawn.",
+    "For mowing lawns, she will earn 20 lawns * $20/lawn = $400.",
+    "She plans to deliver 600 newspapers. She earns 40 cents per newspaper.",
+    "To convert 40 cents to dollars, we use 0.40 dollars per newspaper.",
+    "For delivering newspapers, she will earn 600 newspapers * $0.40/newspaper = $240.",
+    "She plans to walk 24 dogs. She earns $15 per dog.",
+    "For walking dogs, she will earn 24 dogs * $15/dog = $360.",
+    "Now, I'll calculate her total earnings from all three jobs.",
+    "Total earned from mowing lawns = $400.",
+    "Total earned from delivering newspapers = $240.",
+    "Total earned from walking dogs = $360.",
+    "Add the earnings: $400 + $240 + $360 = $1000.",
+    "Add the $1000 to Julie's existing savings of $1500.",
+    "Total savings = $1500 + $1000 = $2500.",
+    "The mountain bike costs $2345.",
+    "To find out how much money Julie will have after buying the bike, subtract the cost of the bike from her total savings.",
+    "$2500 total savings - $2345 cost of bike = $155."
+  ],
+  "solution": "155"
+}

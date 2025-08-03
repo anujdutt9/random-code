@@ -1,0 +1,11 @@
+{
+  "query": "A frog pond has five frogs living in it. Some frogs laid eggs, and now there are three times as many tadpoles growing into more frogs as there are frogs. Two-thirds of the tadpoles will survive to maturity as frogs. The pond can only sustain eight frogs. How many frogs will have to find a new pond when the tadpoles grow up?",
+  "steps": [
+    "Initially, there are five frogs in the pond.",
+    "Three times as many tadpoles as frogs means there are 3 times 5 frogs, so there are 3 * 5 = 15 tadpoles.",
+    "Two-thirds of these tadpoles will survive to maturity as frogs. Calculate two-thirds of 15: (2/3) * 15 = 10 tadpoles will survive.",
+    "When these tadpoles mature, there will be 10 more frogs added to the original 5 frogs, totaling 5 + 10 = 15 frogs in the pond.",
+    "The pond can only sustain eight frogs, so the number of frogs that need to find a new pond is the total number of frogs minus the capacity: 15 - 8 = 7 frogs."
+  ],
+  "solution": "7"
+}

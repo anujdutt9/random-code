@@ -1,0 +1,16 @@
+{
+  "query": "There are three times as many girls as boys in the Biology class. The Physics class has 200 students. If the Biology class has half as many students as the Physics class, how many boys are in the Biology class?",
+  "steps": [
+    "Let's start by determining the total number of students in the Biology class.",
+    "The Biology class has half as many students as the Physics class.",
+    "Since the Physics class has 200 students, the Biology class must have 200 / 2 = 100 students.",
+    "Next, let's express the relationship between the number of girls and boys in the Biology class.",
+    "There are three times as many girls as boys in the Biology class.",
+    "Let the number of boys be B. Then, the number of girls will be 3B.",
+    "The total number of students in the Biology class is the sum of boys and girls, thus B + 3B = 100.",
+    "This simplifies to 4B = 100.",
+    "To find the number of boys, solve for B by dividing both sides by 4.",
+    "B = 100 / 4 = 25."
+  ],
+  "solution": "25"
+}

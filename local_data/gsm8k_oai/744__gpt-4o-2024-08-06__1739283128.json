@@ -1,0 +1,17 @@
+{
+  "query": "Yolanda leaves home for work at 7:00 AM, riding her bike at 20 miles per hour. 15 minutes after she leaves, her husband realizes that she forgot her lunch, and jumps in the car to bring it to her. If he drives at 40 miles per hour and follows the exact same route as Yolanda, how many minutes will it take him to catch her?",
+  "steps": [
+    "Yolanda leaves for work at 7:00 AM and rides her bike at 20 miles per hour.",
+    "15 minutes after Yolanda leaves, her husband starts his drive. This means he starts his trip at 7:15 AM.",
+    "In those 15 minutes, Yolanda would have traveled a certain distance on her bike.",
+    "Yolanda's speed is 20 miles per hour. In 15 minutes (which is 0.25 hours), she would have traveled 20 miles/hour * 0.25 hours = 5 miles.",
+    "When Yolanda's husband starts his drive, Yolanda is 5 miles ahead of him.",
+    "Yolanda's husband drives at 40 miles per hour, which is twice the speed Yolanda is traveling.",
+    "He is closing the distance at a speed of 40 miles/hour - 20 miles/hour = 20 miles/hour.",
+    "He needs to close a distance of 5 miles to catch up to Yolanda.",
+    "Time taken to close the 5-mile gap is distance/speed = 5 miles / 20 miles/hour.",
+    "5 miles divided by 20 miles/hour equals 0.25 hours.",
+    "0.25 hours is equivalent to 0.25 * 60 minutes = 15 minutes."
+  ],
+  "solution": "15"
+}

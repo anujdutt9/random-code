@@ -1,0 +1,15 @@
+{
+  "query": "Felix is chopping down trees in his backyard. For every 13 trees he chops down he needs to get his axe resharpened. It cost him $5 to sharpen his axe. If he spends $35 on axe sharpening, at least how many trees has he chopped down?",
+  "steps": [
+    "First, I need to determine how many times Felix has sharpened his axe.",
+    "Each time Felix sharpens his axe, it costs him $5.",
+    "If he spends a total of $35 on sharpening, then the number of sharpenings is $35 divided by $5 per sharpening.",
+    "Performing the division: $35 / $5 = 7.",
+    "Felix sharpened his axe 7 times.",
+    "Felix chops down 13 trees before needing to sharpen his axe each time.",
+    "To find out how many trees he has chopped down, multiply the number of sharpenings by the number of trees chopped before sharpening.",
+    "Performing the multiplication: 7 sharpenings * 13 trees per sharpening = 91 trees.",
+    "Thus, Felix has chopped down at least 91 trees."
+  ],
+  "solution": "91"
+}

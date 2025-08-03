@@ -1,0 +1,14 @@
+{
+  "query": "Anna wears a size 2. Her friend Becky wears a size three times larger than Anna's. Ginger wears a size twice Becky's size minus 4. What size does Ginger wear?",
+  "steps": [
+    "Anna wears a size 2.",
+    "Becky's size is three times Anna's size.",
+    "Three times Anna's size (2) is \\(3 \\times 2 = 6\\).",
+    "Becky wears a size 6.",
+    "Ginger's size is twice Becky's size minus 4.",
+    "Twice Becky's size (6) is \\(2 \\times 6 = 12\\).",
+    "Subtract 4 from 12 to find Ginger's size.",
+    "\\(12 - 4 = 8\\)."
+  ],
+  "solution": "8"
+}

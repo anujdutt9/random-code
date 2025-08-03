@@ -1,0 +1,13 @@
+{
+  "query": "Jim reads at a rate of 40 pages an hour.  He reads a total of 600 pages per week.  He increases his reading speed to 150% of its former speed but reads 4 hours less per week.  How many pages does he read a week now?",
+  "steps": [
+    "Jim's initial reading speed is 40 pages per hour.",
+    "Jim reads 600 pages per week initially.",
+    "To find out how many hours Jim reads per week initially, we divide the total pages by his reading speed: 600 pages \u00f7 40 pages/hour = 15 hours per week.",
+    "Jim increases his reading speed to 150% of 40 pages per hour.",
+    "150% of 40 is calculated as 40 \u00d7 1.5 = 60 pages per hour.",
+    "Jim reads 4 hours less per week at this new speed, so he now reads for 15 - 4 = 11 hours per week.",
+    "At his new speed of 60 pages per hour, Jim reads 60 pages/hour \u00d7 11 hours/week = 660 pages per week."
+  ],
+  "solution": "660"
+}

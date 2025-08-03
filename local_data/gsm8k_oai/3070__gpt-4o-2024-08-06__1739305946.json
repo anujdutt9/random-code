@@ -1,0 +1,15 @@
+{
+  "query": "Brianna started out with a bag of 24 marbles.  She lost four marbles through a hole in the bag.  Then, she gave away twice as many marbles as she had lost through the hole in the bag.  Finally, her dog ate half as many marbles as Brianna had lost through the hole in the bag.  How many marbles did Brianna have remaining?",
+  "steps": [
+    "Brianna started with 24 marbles.",
+    "She lost 4 marbles through the hole.",
+    "After losing 4 marbles, she has 24 - 4 = 20 marbles remaining.",
+    "She gave away twice as many marbles as she had lost through the hole.",
+    "Twice as many marbles lost through the hole means 2 * 4 = 8 marbles.",
+    "After giving away 8 marbles, she has 20 - 8 = 12 marbles remaining.",
+    "Her dog ate half as many marbles as Brianna had lost through the hole.",
+    "Half as many marbles means 4 / 2 = 2 marbles.",
+    "After the dog ate 2 marbles, she has 12 - 2 = 10 marbles remaining."
+  ],
+  "solution": "10"
+}

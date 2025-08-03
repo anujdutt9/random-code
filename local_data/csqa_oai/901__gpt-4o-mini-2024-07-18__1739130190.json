@@ -1,0 +1,14 @@
+{
+  "query": "Question: You can buy a pen here.\n\nChoices:\nA: briefcase\nB: pocket\nC: friend's house\nD: office supply store\nE: classroom",
+  "steps": [
+    "Identify the context of the question, which is about where one can buy a pen.",
+    "Consider the choices provided and evaluate each location to see if it's a reasonable place to purchase a pen.",
+    "Choice A: briefcase - a briefcase is a container for carrying items and does not sell anything.",
+    "Choice B: pocket - a pocket is part of clothing and does not involve buying or selling.",
+    "Choice C: friend's house - while your friend may have pens, it's not a place where you typically go to buy them.",
+    "Choice D: office supply store - this is a store specifically designed for buying office supplies, including pens.",
+    "Choice E: classroom - while there may be pens in a classroom, it is not a commercial place for purchasing them.",
+    "The only option that clearly indicates a place where pens can be bought is the office supply store."
+  ],
+  "solution": "D"
+}

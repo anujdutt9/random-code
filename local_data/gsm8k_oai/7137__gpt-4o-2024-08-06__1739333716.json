@@ -1,0 +1,29 @@
+{
+  "query": "John bakes 12 coconut macaroons, each weighing 5 ounces. He then packs an equal number of the macaroons in 4 different brown bags, ready for delivery. When he briefly leaves the kitchen to pick the phone, his little brother Steve eats the entire contents of one of the brown bags.  What is the total weight, in ounces, of the remaining coconut macaroons?",
+  "steps": [
+    "John bakes 12 coconut macaroons.",
+    "Each macaroon weighs 5 ounces.",
+    "First, I need to calculate the total initial weight of all the macaroons.",
+    "Total weight = number of macaroons \u00d7 weight per macaroon.",
+    "Total weight = 12 macaroons \u00d7 5 ounces/macaron.",
+    "Total weight = 60 ounces.",
+    "John packs the 12 macaroons in 4 different brown bags.",
+    "Each bag contains an equal number of macaroons.",
+    "I need to calculate the number of macaroons per bag.",
+    "Number of macaroons per bag = total macaroons \u00f7 number of bags.",
+    "Number of macaroons per bag = 12 \u00f7 4.",
+    "Number of macaroons per bag = 3.",
+    "Steve eats the entire contents of one brown bag.",
+    "One brown bag contains 3 macaroons.",
+    "Steve eats 3 macaroons.",
+    "I now calculate the total weight of the macaroons Steve eats.",
+    "Weight of macaroons eaten = number of macaroons eaten \u00d7 weight per macaroon.",
+    "Weight of macaroons eaten = 3 macaroons \u00d7 5 ounces/macaron.",
+    "Weight of macaroons eaten = 15 ounces.",
+    "I calculate the total weight of the remaining macaroons.",
+    "Total weight of remaining macaroons = initial total weight - weight of macaroons eaten.",
+    "Total weight of remaining macaroons = 60 ounces - 15 ounces.",
+    "Total weight of remaining macaroons = 45 ounces."
+  ],
+  "solution": "45"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "Samantha sleeps an average of 8 hours a night. Her baby sister sleeps 2.5 times as much as Samantha does. Because her father is so tired from watching the baby, for every hour the baby sleeps, he sleeps 30 minutes. How many hours does her father sleep in a week?",
+  "steps": [
+    "Samantha sleeps an average of 8 hours a night.",
+    "Samantha's baby sister sleeps 2.5 times as much as Samantha.",
+    "To find out how many hours the baby sleeps, multiply Samantha's sleep hours by 2.5: 8 hours * 2.5 = 20 hours.",
+    "The baby sleeps 20 hours a day.",
+    "Because her father sleeps 30 minutes for every hour the baby sleeps, calculate how many hours her father sleeps in a day: 30 minutes is 0.5 hours, so 20 hours * 0.5 = 10 hours.",
+    "Her father sleeps 10 hours each day.",
+    "To find out how many hours he sleeps in a week, multiply the daily sleep hours by 7 days: 10 hours/day * 7 days = 70 hours."
+  ],
+  "solution": "70"
+}

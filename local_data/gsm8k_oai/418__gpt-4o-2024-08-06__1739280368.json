@@ -1,0 +1,15 @@
+{
+  "query": "Ken had fifty pencils, and he wanted to share some of them with his two friends, Manny and Nilo. Ken gave ten pencils to Manny and ten more pencils to Nilo than he gave to Manny. He kept the rest of the pencils. How many pencils did Ken keep?",
+  "steps": [
+    "Ken had a total of fifty pencils initially.",
+    "Ken gave ten pencils to Manny.",
+    "Ken gave ten more pencils to Nilo than he gave to Manny.",
+    "Since he gave ten pencils to Manny, Ken gave 10 + 10 = 20 pencils to Nilo.",
+    "To find out how many pencils Ken gave away in total, I add the pencils he gave to Manny and Nilo.",
+    "Ken gave 10 pencils to Manny and 20 pencils to Nilo, so he gave away a total of 10 + 20 = 30 pencils.",
+    "Ken originally had 50 pencils, and he gave away 30.",
+    "To find out how many pencils Ken kept, I subtract the number of pencils he gave away from his original number of pencils.",
+    "Ken kept 50 - 30 = 20 pencils."
+  ],
+  "solution": "20"
+}

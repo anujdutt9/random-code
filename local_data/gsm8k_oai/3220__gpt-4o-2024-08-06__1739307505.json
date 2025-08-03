@@ -1,0 +1,18 @@
+{
+  "query": "Tom takes medication to help him sleep.  He takes 2 pills every day before bed.  He needs to go to the doctor every 6 months to get a new prescription and a visit to the doctor costs $400.  The medication costs $5 per pill, but insurance covers 80% of that cost.  How much does he pay a year for everything?",
+  "steps": [
+    "To determine how much Tom pays in a year for everything, I need to calculate both his medication cost and doctor visits.",
+    "First, I will calculate how many pills Tom takes in a year. Since he takes 2 pills every day, I multiply 2 pills by the number of days in a year.",
+    "There are 365 days in a year, so Tom takes 2 * 365 pills = 730 pills per year.",
+    "The cost of each pill is $5, but since insurance covers 80%, Tom only pays 20% of the cost himself. I need to calculate 20% of $5.",
+    "20% of $5 is equal to 0.20 * 5 = $1.",
+    "So, Tom pays $1 per pill. To find his total medication cost for a year, I multiply the number of pills by the cost per pill.",
+    "The total annual cost for medication is 730 pills * $1 = $730.",
+    "Next, I'll calculate the cost of his doctor visits. Tom goes to the doctor every 6 months, which means he visits the doctor twice a year.",
+    "The cost of each doctor visit is $400. For two visits a year, I multiply 2 * $400.",
+    "The total annual cost for doctor visits is 2 * $400 = $800.",
+    "Now, I'll add the total annual cost for medication and doctor visits together to find the total amount Tom pays in a year.",
+    "The total cost Tom pays per year is $730 (medication) + $800 (doctor visits) = $1530."
+  ],
+  "solution": "1530"
+}

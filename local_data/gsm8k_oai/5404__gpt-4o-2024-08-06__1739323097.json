@@ -1,0 +1,17 @@
+{
+  "query": "Lauren sent 65 pieces of mail on Monday, 10 more pieces of mail on Tuesday than on Monday, 5 fewer on Wednesday than on Tuesday, and 15 more pieces of mail on Thursday than on Wednesday. How many pieces of mail did Lauren send?",
+  "steps": [
+    "Lauren sent 65 pieces of mail on Monday.",
+    "On Tuesday, she sent 10 more pieces than on Monday.",
+    "65 pieces on Monday plus 10 equals 75 pieces on Tuesday.",
+    "On Wednesday, Lauren sent 5 fewer pieces than on Tuesday.",
+    "75 pieces on Tuesday minus 5 equals 70 pieces on Wednesday.",
+    "On Thursday, she sent 15 more pieces than on Wednesday.",
+    "70 pieces on Wednesday plus 15 equals 85 pieces on Thursday.",
+    "Now, add up all the pieces of mail sent: 65 (Monday) + 75 (Tuesday) + 70 (Wednesday) + 85 (Thursday).",
+    "Add 65 and 75 to get 140.",
+    "Add 140 and 70 to get 210.",
+    "Add 210 and 85 to get 295."
+  ],
+  "solution": "295"
+}

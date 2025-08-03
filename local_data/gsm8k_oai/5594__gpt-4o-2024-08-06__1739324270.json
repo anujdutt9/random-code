@@ -1,0 +1,15 @@
+{
+  "query": "If Pam is currently twice as young as Rena is, and in 10 years Rena will be 5 years older than her, how old is Pam now?",
+  "steps": [
+    "Let's define Pam's current age as \\( P \\) and Rena's current age as \\( R \\).",
+    "According to the problem, Pam is currently twice as young as Rena, which means \\( P = R - R/2 \\), simplifying it to \\( P = R/2 \\).",
+    "In 10 years, Rena will be 5 years older than Pam. So, \\( R + 10 = (P + 10) + 5 \\).",
+    "Simplifying the equation, \\( R + 10 = P + 15 \\).",
+    "Since we know \\( P = R/2 \\), substitute \\( P \\) in the equation: \\( R + 10 = (R/2) + 15 \\).",
+    "Subtract \\( R/2 \\) from both sides to get: \\( R - R/2 = 15 - 10 \\).",
+    "This simplifies to \\( R/2 = 5 \\).",
+    "Multiplying both sides by 2, we find \\( R = 10 \\).",
+    "Now, substituting back to find Pam's age: \\( P = R/2 = 10/2 = 5 \\)."
+  ],
+  "solution": "5"
+}

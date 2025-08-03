@@ -1,0 +1,18 @@
+{
+  "query": "Ralph is going to practice playing tennis with a tennis ball machine that shoots out tennis balls for Ralph to hit. He loads up the machine with 175 tennis balls to start with. Out of the first 100 balls, he manages to hit 2/5 of them. Of the next 75 tennis balls, he manages to hit 1/3 of them. Out of all the tennis balls, how many did Ralph not hit?",
+  "steps": [
+    "Ralph starts with 175 tennis balls loaded in the machine.",
+    "Out of the first 100 tennis balls, Ralph hits 2/5 of them.",
+    "To find out how many balls Ralph hits out of the first 100, calculate \\( \\frac{2}{5} \\times 100 = 40 \\).",
+    "Thus, Ralph hits 40 balls out of the first 100.",
+    "He doesn't hit \\( 100 - 40 = 60 \\) balls out of the first 100.",
+    "For the next 75 tennis balls, Ralph hits 1/3 of them.",
+    "To find out how many balls Ralph hits out of the 75, calculate \\( \\frac{1}{3} \\times 75 = 25 \\).",
+    "Thus, Ralph hits 25 balls out of the next 75.",
+    "He doesn't hit \\( 75 - 25 = 50 \\) balls out of the next 75.",
+    "Now, add the number of balls Ralph didn't hit from both sets.",
+    "Ralph didn't hit 60 balls from the first set and 50 balls from the second set.",
+    "In total, Ralph didn't hit \\( 60 + 50 = 110 \\) balls."
+  ],
+  "solution": "110"
+}

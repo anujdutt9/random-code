@@ -1,0 +1,16 @@
+{
+  "query": "Adlai has 2 dogs and 1 chicken. How many animal legs are there in all?",
+  "steps": [
+    "First, I need to determine how many legs one dog has.",
+    "Dogs have four legs each.",
+    "Adlai has 2 dogs.",
+    "To find the total number of legs of the dogs, I multiply the number of dogs by the number of legs per dog: 2 dogs \u00d7 4 legs/dog = 8 legs.",
+    "Next, I need to determine how many legs a chicken has.",
+    "Chickens have two legs each.",
+    "Adlai has 1 chicken.",
+    "To find the total number of legs of the chicken, I multiply the number of chickens by the number of legs per chicken: 1 chicken \u00d7 2 legs/chicken = 2 legs.",
+    "Now, I have the total number of legs for the dogs and the chicken: 8 dog legs + 2 chicken legs.",
+    "I add the number of dog legs and chicken legs together: 8 + 2 = 10 legs."
+  ],
+  "solution": "10"
+}

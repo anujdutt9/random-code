@@ -1,0 +1,13 @@
+{
+  "query": "Mary only has 8 screws on hand and needs to buy 2 times more to fix her sink. When she is beginning repairs, she has to split the screws into four sections. How many are in each pile?",
+  "steps": [
+    "Mary currently has 8 screws.",
+    "She needs to buy 2 times more screws than she currently has.",
+    "2 times more than 8 screws means she needs 2 * 8 = 16 more screws.",
+    "Adding the 16 screws she needs to buy to the 8 screws she has, Mary will have 8 + 16 = 24 screws in total.",
+    "She needs to split these into four sections.",
+    "To find out how many screws are in each section, I divide the total number of screws by 4.",
+    "24 screws divided into 4 sections is 24 / 4 = 6 screws per section."
+  ],
+  "solution": "6"
+}

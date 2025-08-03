@@ -1,0 +1,13 @@
+{
+  "query": "Ken, Dave, and Jerry played shuffleboard against one another while together vacationing in Florida.  Ken won 5 more games than Dave, and Dave won 3 more games than Jerry.  If Jerry won 7 games, what was the total number of games they played?",
+  "steps": [
+    "First, I need to determine how many games Dave won. It's given that Dave won 3 more games than Jerry.",
+    "Jerry won 7 games, so Dave won 7 + 3 = 10 games.",
+    "Next, I need to calculate how many games Ken won. It is stated that Ken won 5 more games than Dave.",
+    "Dave won 10 games, so Ken won 10 + 5 = 15 games.",
+    "Now, I know how many games each person won: Ken won 15 games, Dave won 10 games, and Jerry won 7 games.",
+    "To find the total number of games they played, I need to add the number of games each player won together.",
+    "15 (Ken) + 10 (Dave) + 7 (Jerry) = 32 games in total."
+  ],
+  "solution": "32"
+}

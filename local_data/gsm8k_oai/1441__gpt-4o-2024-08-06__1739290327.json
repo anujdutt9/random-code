@@ -1,0 +1,16 @@
+{
+  "query": "James takes a spinning class 3 times a week.  He works out for 1.5 hours each class and burns 7 calories per minute.  How many calories does he burn per week?",
+  "steps": [
+    "First, I need to find out how many minutes James works out in each class.",
+    "James works out for 1.5 hours in each class.",
+    "To convert hours to minutes, I multiply by 60.",
+    "1.5 hours x 60 minutes/hour = 90 minutes.",
+    "Now I know James works out for 90 minutes in each class.",
+    "Next, I need to calculate how many calories James burns in a single class.",
+    "He burns 7 calories per minute.",
+    "So for one class, he burns 7 calories/minute x 90 minutes = 630 calories.",
+    "James takes the spinning class 3 times a week, so I need to multiply the calories burned in one class by the number of classes per week.",
+    "630 calories/class x 3 classes/week = 1890 calories/week."
+  ],
+  "solution": "1890"
+}

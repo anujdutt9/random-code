@@ -1,0 +1,15 @@
+{
+  "query": "Leo's assignment was divided into three parts. He finished the first part of his assignment in 25 minutes. It took him twice as long to finish the second part. If he was able to finish his assignment in 2 hours, how many minutes did Leo finish the third part of the assignment?",
+  "steps": [
+    "First, I need to determine how long Leo spent on each part of his assignment.",
+    "I know he finished the first part in 25 minutes.",
+    "For the second part, it took him twice as long as the first part. So, it took him 25 * 2 = 50 minutes to finish the second part.",
+    "Now, I need to calculate the total time he spent on the first two parts.",
+    "Leo spent 25 minutes on the first part and 50 minutes on the second part. So, he spent 25 + 50 = 75 minutes on the first two parts.",
+    "The total time to finish all three parts of the assignment was 2 hours. I need to convert 2 hours into minutes because the units must be consistent.",
+    "2 hours is equal to 2 * 60 = 120 minutes.",
+    "Next, I calculate how much time he took for the third part by subtracting the time spent on the first two parts from the total time.",
+    "He took 120 minutes for the entire assignment, and 75 minutes for the first two parts, so for the third part he took 120 - 75 = 45 minutes."
+  ],
+  "solution": "45"
+}

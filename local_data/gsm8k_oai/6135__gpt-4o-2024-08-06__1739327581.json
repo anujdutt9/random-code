@@ -1,0 +1,17 @@
+{
+  "query": "A trader has 55 bags of rice in stock. She sells off some bags of rice and restocks 132 bags of rice. How many bags of rice did she sell if she now has 164 bags of rice?",
+  "steps": [
+    "The trader starts with 55 bags of rice.",
+    "She sells off some of these bags. We don't know how many yet, so we'll call this number x.",
+    "After selling x bags, she will have 55 - x bags of rice left.",
+    "She then restocks 132 bags of rice.",
+    "After restocking, the total number of bags she has is 55 - x + 132.",
+    "According to the problem, after restocking, she has 164 bags of rice.",
+    "We can set up the equation: 55 - x + 132 = 164.",
+    "Combine like terms: 187 - x = 164.",
+    "To solve for x, subtract 164 from both sides: 187 - 164 = x.",
+    "Calculate the left side: 23 = x.",
+    "The number of bags of rice she sold is 23."
+  ],
+  "solution": "23"
+}

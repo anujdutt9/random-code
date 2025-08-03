@@ -1,0 +1,10 @@
+{
+  "query": "Question: Mr. Jenkins's class is studying sex chromosomes. He tells his students that the nuclei of human cells have 22 pairs of autosomes. How many sex chromosomes does the human body have?\n\nChoices:\nA: 1\nB: 2\nC: 23\nD: 46",
+  "steps": [
+    "The human genome is made up of a total of 46 chromosomes, which includes both autosomes and sex chromosomes.",
+    "Out of these 46 chromosomes, there are 22 pairs of autosomes, which accounts for 44 chromosomes.",
+    "The remaining chromosomes must be sex chromosomes. Thus, we calculate the number of sex chromosomes by subtracting the number of autosomes from the total number of chromosomes: 46 - 44 = 2.",
+    "In humans, the two sex chromosomes are typically one from each parent, resulting in a total of 2 sex chromosomes."
+  ],
+  "solution": "B"
+}

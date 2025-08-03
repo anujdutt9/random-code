@@ -1,0 +1,18 @@
+{
+  "query": "Musa is the class teacher of a class of 45 students. He wants to split them into three groups by age. If a third of the class is under 11 years, and two-fifths are above 11 but under 13, how many students will be in the third group (13 years and above)?",
+  "steps": [
+    "First, I need to calculate how many students are under 11 years old.",
+    "A third of the class is under 11 years, and there are 45 students in total.",
+    "To find a third of the class: 45 students \u00f7 3 = 15 students.",
+    "So, 15 students are under 11 years old.",
+    "Next, I need to calculate how many students are above 11 but under 13 years old.",
+    "Two-fifths of the class are in this age range.",
+    "To find two-fifths of the class: 45 students \u00d7 (2/5) = 18 students.",
+    "So, 18 students are above 11 but under 13 years old.",
+    "Finally, I need to calculate how many students are in the third group (13 years and above).",
+    "I know that the total number of students is 45.",
+    "The number of students in the first two groups is 15 (under 11) + 18 (above 11 but under 13) = 33 students.",
+    "To find the number of students in the third group, subtract the sum of the first two groups from the total number of students: 45 - 33 = 12 students."
+  ],
+  "solution": "12"
+}

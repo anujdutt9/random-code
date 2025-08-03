@@ -1,0 +1,15 @@
+{
+  "query": "In a house, there are 16 cats. Two of them are white, and 25% of them are black. The rest of the cats are grey. How many grey cats are in this house?",
+  "steps": [
+    "First, I know there are a total of 16 cats in the house.",
+    "Next, I note that 2 of the cats are white.",
+    "I'll need to find out how many cats are black. 25% of the 16 cats are black.",
+    "To find this, I calculate 25% of 16 by multiplying 16 by 0.25.",
+    "16 * 0.25 = 4. So, there are 4 black cats.",
+    "Now, I know there are 2 white cats and 4 black cats.",
+    "To find the number of grey cats, I'll subtract the number of white and black cats from the total number of cats.",
+    "2 white cats + 4 black cats = 6 cats.",
+    "Subtracting these 6 from 16 gives me 16 - 6 = 10."
+  ],
+  "solution": "10"
+}

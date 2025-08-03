@@ -1,0 +1,16 @@
+{
+  "query": "In a restaurant, one cup of coffee is $6 and a piece of cheesecake $10. When buying them together, the client gets a 25% discount. What is the final price of such a set?",
+  "steps": [
+    "First, I need to calculate the combined cost of one cup of coffee and one piece of cheesecake without discount.",
+    "The cost of one cup of coffee is $6.",
+    "The cost of one piece of cheesecake is $10.",
+    "The sum of the coffee and cheesecake is $6 + $10.",
+    "The total cost without discount is $16.",
+    "Next, I have to apply the 25% discount to this total.",
+    "A 25% discount is equivalent to multiplying the total by 0.25.",
+    "Calculating the discount: $16 * 0.25 = $4.",
+    "Subtract the discount from the original total: $16 - $4.",
+    "The final price for the set after the discount is $12."
+  ],
+  "solution": "12"
+}

@@ -1,0 +1,21 @@
+{
+  "query": "Billy ate 20 apples this week. On Monday, he ate 2 apples. On Tuesday, he ate twice as many as he ate the day before. He\u2019s not sure what he ate on Wednesday. On Thursday, he ate four times as many as he ate on Friday. On Friday, he ate half of the amount he ate on Monday.  How many apples did he eat on Wednesday?",
+  "steps": [
+    "Billy ate 20 apples in total this week according to the problem.",
+    "On Monday, he ate 2 apples.",
+    "On Tuesday, he ate twice as many as on Monday, which is 2 * 2 = 4 apples.",
+    "We're not sure what he ate on Wednesday, so we'll represent this unknown quantity as W.",
+    "On Thursday, he ate four times as many as he ate on Friday. Let\u2019s denote the number of apples eaten on Friday as F.",
+    "On Thursday, Billy ate 4 * F apples.",
+    "It is given that on Friday he ate half of the amount he ate on Monday. Since he ate 2 apples on Monday, he ate 2 / 2 = 1 apple on Friday.",
+    "Substitute F with 1 (the number of apples Billy ate on Friday).",
+    "Then on Thursday, he ate 4 * 1 = 4 apples.",
+    "Adding up the apples eaten on each day we have: Monday = 2, Tuesday = 4, Wednesday = W, Thursday = 4, Friday = 1.",
+    "Hence, the total number of apples Billy ate can be expressed as 2 + 4 + W + 4 + 1.",
+    "Which simplifies to W + 11.",
+    "Since he ate a total of 20 apples this week, we can write the equation: W + 11 = 20.",
+    "Solving for W, we subtract 11 from both sides: W = 20 - 11.",
+    "This results in W = 9."
+  ],
+  "solution": "9"
+}

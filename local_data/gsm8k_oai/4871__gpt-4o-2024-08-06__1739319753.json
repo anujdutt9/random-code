@@ -1,0 +1,22 @@
+{
+  "query": "Mrs.  Fredrickson has 80 chickens where 1/4 are roosters and the rest are hens. Only three-fourths of those hens lay eggs. How many chickens does Mr. Fredrickson have that do not lay eggs?",
+  "steps": [
+    "Mrs. Fredrickson has a total of 80 chickens.",
+    "1/4 of these 80 chickens are roosters.",
+    "To find the number of roosters, I calculate 1/4 of 80.",
+    "1/4 of 80 is 80 / 4 = 20.",
+    "So, there are 20 roosters.",
+    "The rest of the chickens are hens.",
+    "To find the number of hens, I subtract the number of roosters from the total number of chickens.",
+    "80 - 20 = 60 hens.",
+    "Three-fourths of these hens lay eggs.",
+    "To calculate, I find 3/4 of 60.",
+    "3/4 of 60 is (3/4) * 60 = 45.",
+    "45 hens lay eggs.",
+    "To find out how many hens do not lay eggs, I subtract the number of egg-laying hens from the total number of hens.",
+    "60 - 45 = 15 hens do not lay eggs.",
+    "Now, I combine the number of roosters and hens that do not lay eggs since both do not lay eggs.",
+    "20 roosters + 15 non-laying hens = 35 chickens do not lay eggs."
+  ],
+  "solution": "35"
+}

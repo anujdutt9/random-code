@@ -1,0 +1,13 @@
+{
+  "query": "Markus is twice the age of his son, and Markus's son is twice the age of Markus's grandson.  If the sum of the ages of Markus, his son, and his grandson is 140 years, then how many years old is Markus's grandson?",
+  "steps": [
+    "Let the age of Markus's grandson be G years.",
+    "Markus's son is twice the age of his grandson, so his son's age is 2G years.",
+    "Markus is twice the age of his son, so his age is 2 times 2G, which is 4G years.",
+    "Add these ages together to form the equation: G + 2G + 4G = 140.",
+    "Combine like terms: 7G = 140.",
+    "Solve for G by dividing both sides by 7: G = 140 / 7.",
+    "Perform the division: G = 20."
+  ],
+  "solution": "20"
+}

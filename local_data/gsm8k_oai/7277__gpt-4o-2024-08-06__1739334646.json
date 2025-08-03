@@ -1,0 +1,17 @@
+{
+  "query": "Jeff bought 6 pairs of shoes and 4 jerseys for $560. Jerseys cost 1/4 price of one pair of shoes. Find the shoe's price total price.",
+  "steps": [
+    "Let's denote the price of one pair of shoes as \"S\" and the price of one jersey as \"J\".",
+    "We need to find the total price of the shoes. Jeff bought 6 pairs of shoes and 4 jerseys for $560.",
+    "According to the given information, the price of one jersey is 1/4 the price of one pair of shoes. Therefore, J = S/4.",
+    "Now we have two unknowns, S and J, but we already can express J in terms of S. We replace J in the total cost equation: 6S + 4J = 560.",
+    "Substitute J = S/4 into the equation: 6S + 4(S/4) = 560.",
+    "Simplify the equation: 6S + S = 560.",
+    "Combine the terms: 7S = 560.",
+    "Divide both sides by 7 to solve for S: S = 560 / 7.",
+    "Calculate the division: S = 80.",
+    "Thus, the price of one pair of shoes is $80. Now we need the total price for 6 pairs.",
+    "Calculate the total price for 6 pairs of shoes: 6 * 80 = 480."
+  ],
+  "solution": "480"
+}

@@ -1,0 +1,11 @@
+{
+  "query": "Frank is practicing a new dance move.  It starts with him take 5 steps back, and then 10 steps forward, and then 2 steps back, and then double that amount forward.  How many steps forward is Frank from his original starting point?",
+  "steps": [
+    "Frank starts at his original position.",
+    "He takes 5 steps back from his starting point: -5 steps.",
+    "He then takes 10 steps forward: -5 + 10 = 5 steps forward.",
+    "Next, he takes 2 steps back: 5 - 2 = 3 steps forward.",
+    "After that, he takes double the 2 steps forward, which is 4 steps: 3 + 4 = 7 steps forward."
+  ],
+  "solution": "7"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Flynn watches 30 minutes of tv every night during the weekdays.  On the weekends, she watches an additional 2 hours of TV in total.  How many hours of tv does she watch in 52 weeks?",
+  "steps": [
+    "First, I need to determine how much TV Flynn watches during the weekdays in one week.",
+    "Flynn watches 30 minutes every night from Monday to Friday.",
+    "There are 5 weekdays, so she watches 30 minutes * 5 = 150 minutes in total on weekdays.",
+    "150 minutes is equal to 150 / 60 = 2.5 hours.",
+    "Next, I need to find out how much TV Flynn watches during the weekends in one week.",
+    "On the weekends, Flynn watches an additional 2 hours in total.",
+    "In total, per week, Flynn watches 2.5 hours (weekdays) + 2 hours (weekends) = 4.5 hours.",
+    "Now, I need to find out how much TV she watches in 52 weeks.",
+    "Flynn watches 4.5 hours per week for 52 weeks.",
+    "So, in 52 weeks, she watches 4.5 hours * 52 = 234 hours."
+  ],
+  "solution": "234"
+}

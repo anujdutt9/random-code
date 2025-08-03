@@ -1,0 +1,17 @@
+{
+  "query": "Movie tickets cost $5 each on a Monday, twice as much on a Wednesday, and five times as much as Monday on a Saturday. If Glenn goes to the movie theater on Wednesday and Saturday, how much does he spend?",
+  "steps": [
+    "First, I need to determine the cost of a movie ticket on Wednesday.",
+    "Movie tickets cost $5 each on a Monday.",
+    "On Wednesday, the cost is twice as much as Monday.",
+    "So, the ticket price on Wednesday is 2 times $5, which is $10.",
+    "Next, I need to figure out the cost of a movie ticket on Saturday.",
+    "The ticket price on Saturday is five times as much as Monday.",
+    "So, the ticket price on Saturday is 5 times $5, which is $25.",
+    "Glenn goes to the movie theater on Wednesday and Saturday.",
+    "The total amount Glenn spends is the cost of one ticket on Wednesday plus the cost of one ticket on Saturday.",
+    "The total cost is $10 (Wednesday) + $25 (Saturday).",
+    "Therefore, Glenn spends $35 in total."
+  ],
+  "solution": "35"
+}

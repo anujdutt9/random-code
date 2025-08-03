@@ -1,0 +1,16 @@
+{
+  "query": "Brad's car broke down on an isolated road.  At the time, Brad was traveling with Jim and Marcus.  So, the three decided to push the car back into town, which was 10 miles away.  For the first three miles, Brad steered as Jim and Marcus pushed at a speed of 6 miles per hour.  Then, for the next 3 miles, Jim steered, as Brad and Marcus pushed at a speed of 3 miles per hour.  For the last four miles, Marcus steered as Brad and Jim pushed at a speed of 8 miles per hour.  How long did it take, in hours, to push the car back to town?",
+  "steps": [
+    "First, I need to calculate how long it took to cover each segment of the journey.",
+    "For the first segment, the distance was 3 miles and the speed was 6 miles per hour.",
+    "Time taken for the first segment is distance/speed = 3 miles / 6 mph = 0.5 hours.",
+    "For the second segment, the distance was 3 miles and the speed was 3 miles per hour.",
+    "Time taken for the second segment is distance/speed = 3 miles / 3 mph = 1 hour.",
+    "For the third segment, the distance was 4 miles and the speed was 8 miles per hour.",
+    "Time taken for the third segment is distance/speed = 4 miles / 8 mph = 0.5 hours.",
+    "Now, I add the time taken for each segment to find the total time taken.",
+    "Total time = 0.5 hours (first segment) + 1 hour (second segment) + 0.5 hours (third segment).",
+    "Total time = 2 hours."
+  ],
+  "solution": "2"
+}

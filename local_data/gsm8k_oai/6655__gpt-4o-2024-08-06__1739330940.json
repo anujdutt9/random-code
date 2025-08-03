@@ -1,0 +1,15 @@
+{
+  "query": "The three angles of a triangle add up to 180 degrees.  The largest angle is 5 times bigger than the smallest. The middle angle is 3 times bigger than the smallest. How many degrees is the smallest angle?",
+  "steps": [
+    "Let's denote the smallest angle as \\( x \\).",
+    "According to the problem, the largest angle is 5 times the smallest angle, so it can be represented as \\( 5x \\).",
+    "The middle angle is 3 times the smallest angle, so it can be represented as \\( 3x \\).",
+    "The sum of the angles in a triangle is \\( 180 \\) degrees.",
+    "Therefore, the equation representing the sum of the angles is: \\( x + 3x + 5x = 180 \\).",
+    "Simplifying the left-hand side of the equation gives: \\( 9x = 180 \\).",
+    "To find \\( x \\), divide both sides of the equation by 9: \\( x = \\frac{180}{9} \\).",
+    "Calculate \\( \\frac{180}{9} \\), which equals 20.",
+    "Therefore, the smallest angle is \\( 20 \\) degrees."
+  ],
+  "solution": "20"
+}

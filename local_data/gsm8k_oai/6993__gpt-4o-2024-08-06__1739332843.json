@@ -1,0 +1,22 @@
+{
+  "query": "Tom paints a room that has 5 walls.  Each wall is 2 meters by 3 meters.  John can paint 1 square meter every 10 minutes.  He has 10 hours to paint everything.  How many hours does he have to spare?",
+  "steps": [
+    "First, I need to determine the area of one wall.",
+    "The dimensions of each wall are 2 meters by 3 meters.",
+    "Area of one wall = 2 meters * 3 meters = 6 square meters.",
+    "Next, calculate the total area of all the walls.",
+    "There are 5 walls, each with 6 square meters of area.",
+    "Total area to paint = 5 walls * 6 square meters per wall = 30 square meters.",
+    "Now, find out how long it takes John to paint 1 square meter.",
+    "John can paint 1 square meter every 10 minutes.",
+    "I need to convert the total area John has to paint into the time needed in minutes.",
+    "Time needed to paint 30 square meters = 30 square meters * 10 minutes per square meter = 300 minutes.",
+    "Convert the painting time from minutes to hours to compare with the time he has available.",
+    "300 minutes = 300 / 60 = 5 hours.",
+    "Now, calculate how much spare time John has.",
+    "John has 10 hours available to paint.",
+    "Spare time = Total time available - Time needed to paint.",
+    "Spare time = 10 hours - 5 hours = 5 hours."
+  ],
+  "solution": "5"
+}

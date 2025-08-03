@@ -1,0 +1,13 @@
+{
+  "query": "Ludwig works 7 days a week and he usually works half of the day during Friday, Saturday, and Sunday. If his daily salary is $10, how much does he earn every week?",
+  "steps": [
+    "Ludwig works full days from Monday to Thursday.",
+    "Ludwig earns $10 per full day.",
+    "Calculating his earnings from Monday to Thursday: 4 days \u00d7 $10/day = $40.",
+    "From Friday to Sunday, Ludwig works half days.",
+    "For half days, he earns half of his daily salary: $10/2 = $5 per half day.",
+    "Calculating earnings from Friday to Sunday: 3 half days \u00d7 $5/half day = $15.",
+    "Adding the full day earnings and half day earnings: $40 + $15 = $55."
+  ],
+  "solution": "55"
+}

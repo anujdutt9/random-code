@@ -1,0 +1,20 @@
+{
+  "query": "In the honey shop, the bulk price of honey is $5 per pound and the minimum spend is $40 before tax. The honey is taxed at $1 per pound. If Penny has paid $240 for honey, by how many pounds has Penny\u2019s purchase exceed the minimum spend?",
+  "steps": [
+    "The total amount Penny paid for honey is $240.",
+    "First, I need to determine the effective cost per pound including tax.",
+    "The base price of honey is $5 per pound.",
+    "The tax on honey is $1 per pound.",
+    "So, the total cost including tax is $5 + $1 = $6 per pound.",
+    "Since Penny paid $240, I need to find out how many pounds of honey she bought.",
+    "To find out the number of pounds, divide the total amount paid by the effective cost per pound.",
+    "Number of pounds = $240 \u00f7 $6 = 40 pounds.",
+    "Next, I determine the number of pounds needed to meet the minimum spend of $40 before tax.",
+    "Since the value must be $40 at $5 per pound, calculate the pounds needed before tax only.",
+    "Number of pounds needed to meet the minimum spend = $40 \u00f7 $5 = 8 pounds.",
+    "Penny bought a total of 40 pounds.",
+    "The purchase exceeds the minimum spend pounds, so find the difference.",
+    "Pounds purchased exceeding the minimum spend = 40 pounds - 8 pounds = 32 pounds."
+  ],
+  "solution": "32"
+}

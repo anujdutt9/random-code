@@ -1,0 +1,18 @@
+{
+  "query": "John has a donkey and an elephant.  The elephant weighs 3 tons (a ton is 2000 pounds).  The donkey weighs 90% less.  What is their combined weight in pounds?",
+  "steps": [
+    "First, I need to find out how much the elephant weighs in pounds since I'm given its weight in tons.",
+    "The elephant weighs 3 tons. Since 1 ton equals 2000 pounds, I multiply 3 tons by 2000 pounds per ton.",
+    "3 tons * 2000 pounds/ton = 6000 pounds.",
+    "The elephant weighs 6000 pounds.",
+    "Now, I need to calculate the weight of the donkey.",
+    "I know that the donkey weighs 90% less than the elephant.",
+    "90% of the elephant's weight is the amount by which the donkey's weight is reduced.",
+    "So, I calculate 90% of 6000 pounds.",
+    "90% of 6000 pounds = 0.9 * 6000 pounds = 5400 pounds.",
+    "Therefore, the donkey weighs 6000 pounds - 5400 pounds = 600 pounds.",
+    "Now, I add the donkey's weight to the elephant's weight to get the combined weight.",
+    "6000 pounds (elephant) + 600 pounds (donkey) = 6600 pounds."
+  ],
+  "solution": "6600"
+}

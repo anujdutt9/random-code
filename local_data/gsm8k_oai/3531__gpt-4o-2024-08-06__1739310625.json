@@ -1,0 +1,17 @@
+{
+  "query": "Nigel won $45 but gave some away. His mother gave him $80 more. If now Nigel has $10 more than twice the amount he originally had, how much money did he give away?",
+  "steps": [
+    "Let's define what Nigel originally had, which is $45.",
+    "Nigel gave away some money; let's call that amount \\( x \\).",
+    "After giving away \\( x \\), Nigel has: \\( 45 - x \\).",
+    "His mother gave him $80 more, so now Nigel has: \\( 45 - x + 80 \\).",
+    "Simplifying this gives: \\( 125 - x \\).",
+    "According to the problem, this amount is $10 more than twice the original amount he had.",
+    "Twice the original amount is \\( 2 \\times 45 = 90 \\).",
+    "$10 more than twice the original amount is: \\( 90 + 10 = 100 \\).",
+    "We know from the problem that: \\( 125 - x = 100 \\).",
+    "To solve for \\( x \\), rearrange the equation: \\( 125 - 100 = x \\).",
+    "Simplifying gives: \\( x = 25 \\)."
+  ],
+  "solution": "25"
+}

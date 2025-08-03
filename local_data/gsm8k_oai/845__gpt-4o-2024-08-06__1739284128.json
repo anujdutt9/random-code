@@ -1,0 +1,13 @@
+{
+  "query": "In a show, there can be 5 actors at a time. Every actor is in the show for about 15 minutes, and then another 5 actors come in. How many actors can there be on the show in 1 hour?",
+  "steps": [
+    "First, consider how many 15-minute segments there are in one hour.",
+    "There are 60 minutes in one hour.",
+    "Divide 60 minutes by 15 minutes to find the number of segments.",
+    "60 \u00f7 15 = 4 segments.",
+    "In each 15-minute segment, 5 actors are on stage.",
+    "To find the total number of actors who can be in the show in one hour, multiply the number of segments by the number of actors per segment.",
+    "4 segments \u00d7 5 actors = 20 actors."
+  ],
+  "solution": "20"
+}

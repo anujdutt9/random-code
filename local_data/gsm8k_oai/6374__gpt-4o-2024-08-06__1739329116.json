@@ -1,0 +1,16 @@
+{
+  "query": "Jen and Tyler are gymnasts practicing flips. Jen is practicing the triple-flip while Tyler is practicing the double-flip. Jen did sixteen triple-flips during practice. Tyler flipped in the air half the number of times Jen did. How many double-flips did Tyler do?",
+  "steps": [
+    "First, I need to determine how many times Jen flipped in the air during her practice.",
+    "Jen is practicing triple-flips, which means she flips 3 times per triple-flip.",
+    "Since Jen did 16 triple-flips, I multiply the number of flips per triple-flip by the number of triple-flips Jen did.",
+    "16 triple-flips multiplied by 3 flips per triple-flip equals 48 flips in the air.",
+    "Next, I need to find out how many times Tyler flipped in the air. According to the problem, Tyler flipped half the number of times Jen did.",
+    "I divide the number of flips Jen did, 48, by 2 to find the number of flips Tyler did.",
+    "48 divided by 2 equals 24 flips in the air for Tyler.",
+    "Now I need to determine how many double-flips Tyler did. Each double-flip consists of 2 flips in the air.",
+    "I divide the number of flips Tyler did, 24, by the number of flips per double-flip, which is 2.",
+    "24 divided by 2 equals 12 double-flips."
+  ],
+  "solution": "12"
+}

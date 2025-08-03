@@ -1,0 +1,14 @@
+{
+  "query": "James writes a comic every other day for 4 years. If there was no leap year, how many comics has he written?",
+  "steps": [
+    "First, determine the number of days in a year without a leap year.",
+    "A typical year without a leap year has 365 days.",
+    "Next, calculate the total number of days in 4 years without leap years.",
+    "Multiply the number of days in one year by 4: 365 days/year * 4 years = 1460 days.",
+    "Now, since James writes a comic every other day, determine how many days he actually writes.",
+    "If he writes every other day, he writes on half of the days.",
+    "Calculate half of the total days: 1460 days / 2 = 730 days.",
+    "Therefore, James writes a comic on 730 days."
+  ],
+  "solution": "730"
+}

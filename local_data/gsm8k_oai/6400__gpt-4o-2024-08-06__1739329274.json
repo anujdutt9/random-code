@@ -1,0 +1,17 @@
+{
+  "query": "Dan spent $32 buying a new backpack, 1 pack of pens, 1 pack of pencils and 5 multi-subject notebooks for school.  If the backpack costs $15 and both the pens and pencils cost $1.00 each, how much did each notebook cost?",
+  "steps": [
+    "The total amount Dan spent is $32.",
+    "The cost of the backpack is $15.",
+    "The cost of the pack of pens is $1.",
+    "The cost of the pack of pencils is also $1.",
+    "I will first calculate the total spent on the backpack, pens, and pencils.",
+    "Total for backpack, pens, and pencils = $15 + $1 + $1 = $17.",
+    "I will now subtract this amount from the total spent to find out how much Dan spent on the notebooks.",
+    "Total spent on notebooks = $32 - $17 = $15.",
+    "Dan bought 5 notebooks.",
+    "To find the cost per notebook, I'll divide the total spent on notebooks by the number of notebooks.",
+    "Cost per notebook = $15 / 5 = $3."
+  ],
+  "solution": "3"
+}

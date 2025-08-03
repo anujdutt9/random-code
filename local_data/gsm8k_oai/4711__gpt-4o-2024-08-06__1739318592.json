@@ -1,0 +1,16 @@
+{
+  "query": "Anna is reading a 31-chapter textbook, but she skips all the chapters that are divisible by 3. If it takes her 20 minutes to read each chapter, how many hours does she spend reading total?",
+  "steps": [
+    "First, I need to determine how many chapters Anna actually reads.",
+    "There are 31 chapters in total.",
+    "Anna skips chapters that are divisible by 3. I need to find these chapters.",
+    "The chapters divisible by 3 from 1 to 31 are 3, 6, 9, 12, 15, 18, 21, 24, 27, and 30.",
+    "I count the number of these chapters: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30. That's 10 chapters.",
+    "Now, I subtract the skipped chapters from the total number of chapters: 31 - 10 = 21 chapters.",
+    "Anna reads 21 chapters. It takes her 20 minutes to read each chapter.",
+    "I calculate the total reading time in minutes: 21 chapters \u00d7 20 minutes per chapter = 420 minutes.",
+    "To convert the reading time to hours, I divide the total minutes by 60.",
+    "420 minutes \u00f7 60 = 7 hours."
+  ],
+  "solution": "7"
+}

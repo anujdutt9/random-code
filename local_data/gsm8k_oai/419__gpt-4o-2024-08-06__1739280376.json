@@ -1,0 +1,13 @@
+{
+  "query": "Kenny played 10 hours of basketball last week. He ran for twice as long as he played basketball, and he practiced on the trumpet for twice as long as he ran. How many hours did Kenny practice on the trumpet last week?",
+  "steps": [
+    "Kenny played basketball for 10 hours.",
+    "Kenny ran for twice as long as he played basketball.",
+    "Since he played basketball for 10 hours, he ran for 10 * 2 hours.",
+    "10 * 2 = 20, so Kenny ran for 20 hours.",
+    "Kenny practiced on the trumpet for twice as long as he ran.",
+    "Since he ran for 20 hours, he practiced on the trumpet for 20 * 2 hours.",
+    "20 * 2 = 40, so Kenny practiced on the trumpet for 40 hours."
+  ],
+  "solution": "40"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "There were 80 cars in a parking lot. At lunchtime, 13 cars left the parking lot but 5 more cars went in than left. How many cars are in the parking lot now?",
+  "steps": [
+    "There were originally 80 cars in the parking lot.",
+    "13 cars left the parking lot at lunchtime.",
+    "When 13 cars leave, we subtract 13 from 80.",
+    "80 - 13 equals 67.",
+    "However, 5 more cars went in than left. This means there were 5 more cars that entered than the 13 cars that left.",
+    "The number of cars that went in is 13 + 5 because 5 more cars went in than left. This equals 18 cars going in.",
+    "To find the new total, we add the 18 cars that went in to the 67 cars remaining after 13 left.",
+    "67 + 18 equals 85."
+  ],
+  "solution": "85"
+}

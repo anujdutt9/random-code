@@ -1,0 +1,18 @@
+{
+  "query": "Aaron has four times as many cows as does Matthews. Together, they have 30 more cows than Marovich. If Matthews has 60 cows, how many cows do the three have altogether?",
+  "steps": [
+    "First, I define the number of cows each person has. Let's say Matthews has 60 cows.",
+    "Aaron has four times as many cows as Matthews. Since Matthews has 60 cows, we multiply 60 by 4.",
+    "Calculating 60 * 4 gives us 240 cows for Aaron.",
+    "I now know that Matthews has 60 cows and Aaron has 240 cows.",
+    "Next, I calculate the total number of cows Aaron and Matthews have together. This is 60 + 240.",
+    "Adding 60 and 240 gives us 300 cows altogether for Aaron and Matthews.",
+    "According to the problem, together they have 30 more cows than Marovich. I can use this information to find how many cows Marovich has.",
+    "Let Marovich's number of cows be represented by M. Since 300 is 30 more than M, we set the equation: 300 = M + 30.",
+    "To solve for M, subtract 30 from 300, which gives us M = 270.",
+    "Now I know how many cows each person has: Matthews has 60 cows, Aaron has 240 cows, and Marovich has 270 cows.",
+    "To find the total number of cows the three have together, I sum 60, 240, and 270.",
+    "Adding these numbers gives us: 60 + 240 + 270 = 570."
+  ],
+  "solution": "570"
+}

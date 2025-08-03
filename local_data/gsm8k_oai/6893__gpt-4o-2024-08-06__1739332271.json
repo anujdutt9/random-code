@@ -1,0 +1,13 @@
+{
+  "query": "Samuel took 30 minutes to finish his homework while Sarah took 1.3 hours to finish it. How many minutes faster did Samuel finish his homework than Sarah?",
+  "steps": [
+    "First, I need to convert Sarah's time from hours to minutes because Samuel's time is already in minutes.",
+    "There are 60 minutes in an hour.",
+    "Sarah took 1.3 hours, so I need to multiply 1.3 by 60 to convert her time to minutes.",
+    "1.3 multiplied by 60 equals 78 minutes.",
+    "Now, I have Samuel's time as 30 minutes and Sarah's converted time as 78 minutes.",
+    "To find out how many minutes faster Samuel finished his homework, I need to subtract Samuel's time from Sarah's time.",
+    "78 minutes minus 30 minutes equals 48 minutes."
+  ],
+  "solution": "48"
+}

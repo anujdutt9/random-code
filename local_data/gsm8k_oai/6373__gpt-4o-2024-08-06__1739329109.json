@@ -1,0 +1,18 @@
+{
+  "query": "Tim's website got 100 visitors a day for the first 6 days and then on the last day of the week it got twice as many visitors as every other day combined.  If he gets $.01 per visit how much did he make that week?",
+  "steps": [
+    "I know that Tim's website got 100 visitors each day for the first 6 days.",
+    "I need to calculate the total number of visitors for the first 6 days.",
+    "100 visitors/day * 6 days = 600 visitors.",
+    "On the last day, the website got twice as many visitors as every other day combined.",
+    "The total number of visitors for the first 6 days was 600.",
+    "So, the number of visitors on the last day is twice 600.",
+    "2 * 600 = 1200 visitors on the last day.",
+    "Now I need to calculate the total number of website visitors for the entire week.",
+    "600 visitors (first 6 days) + 1200 visitors (last day) = 1800 visitors total.",
+    "Tim gets $0.01 per visit.",
+    "To find out how much money Tim made, multiply the number of visitors by the amount of money he gets per visit.",
+    "1800 visitors * $0.01 per visit = $18.00."
+  ],
+  "solution": "18"
+}

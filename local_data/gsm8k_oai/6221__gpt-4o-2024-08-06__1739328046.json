@@ -1,0 +1,22 @@
+{
+  "query": "Three schools organized a science fair competition and invited students from all the schools to develop ideas and present them before a panel of judges selected by all the schools competing in the science fair. There were 50 students from Know It All High School at the competition, 3/5 times as many students from Karen High as Know It All High School, and twice the combined number of students from the first two schools that came were from Novel Corona High School. Calculate the total number of students at the competition?",
+  "steps": [
+    "First, I need to determine how many students attended from Karen High.",
+    "The problem states that there were 3/5 as many students from Karen High as from Know It All High School.",
+    "There were 50 students from Know It All High School.",
+    "So, the number of students from Karen High School = (3/5) * 50.",
+    "Calculating (3/5) * 50:  \n3/5 * 50 = 30",
+    "Thus, there were 30 students from Karen High School.",
+    "Next, I need to find out how many students came from Novel Corona High School.",
+    "The problem mentions that twice the combined number of students from Know It All High and Karen High came from Novel Corona High School.",
+    "The combined number from Know It All High and Karen High is 50 + 30.",
+    "50 + 30 equals 80. So, there were 80 students combined from the first two schools.",
+    "The number of students from Novel Corona High School is twice this amount, which is 2 * 80.",
+    "Calculating 2 * 80 gives us 160.",
+    "Thus, there were 160 students from Novel Corona High School.",
+    "Finally, I sum the students from all three schools to find the total number of students at the competition.",
+    "The total is 50 (Know It All High) + 30 (Karen High) + 160 (Novel Corona High).",
+    "Calculating 50 + 30 + 160 gives 240."
+  ],
+  "solution": "240"
+}

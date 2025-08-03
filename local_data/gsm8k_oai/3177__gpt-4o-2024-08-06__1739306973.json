@@ -1,0 +1,17 @@
+{
+  "query": "Vincent\u2019s washer broke so he had to go to the laundromat. On Wednesday he washed six loads of clothes. The next day he had time to wash double the number of loads he did the day before. On Friday he had a test and could only manage half of the loads he did on Thursday. On Saturday the laundromat closed at noon and he could only wash a third of the loads of laundry he did on Wednesday. How many loads of laundry had he washed that week?",
+  "steps": [
+    "Vincent washed 6 loads of clothes on Wednesday.",
+    "On Thursday, Vincent washed double the number of loads he did on Wednesday.",
+    "Double of 6 loads is 6 * 2 = 12 loads.",
+    "On Friday, Vincent washed half of the loads he did on Thursday.",
+    "Half of 12 loads is 12 / 2 = 6 loads.",
+    "On Saturday, the laundromat closed early, so he washed a third of the loads of Wednesday.",
+    "A third of 6 loads is 6 / 3 = 2 loads.",
+    "Add up all the loads of laundry washed from Wednesday to Saturday.",
+    "Wednesday: 6 loads, Thursday: 12 loads, Friday: 6 loads, Saturday: 2 loads.",
+    "The total loads washed is 6 + 12 + 6 + 2.",
+    "6 + 12 = 18, then 18 + 6 = 24, and 24 + 2 = 26."
+  ],
+  "solution": "26"
+}

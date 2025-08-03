@@ -1,0 +1,15 @@
+{
+  "query": "The pizza delivery person has 12 pizzas to deliver.  If two of the stops are for orders of two pizzas and the rest are for single pizzas, how many minutes per stop does the delivery person need to average to deliver all of the pizzas in 40 minutes?",
+  "steps": [
+    "First, determine the total number of stops the delivery person will make.",
+    "There are two stops where two pizzas are delivered, so that accounts for 2 stops.",
+    "The rest of the pizzas are delivered as single pizzas. There are 12 pizzas in total.",
+    "Two stops deliver 2 pizzas each, contributing a total of 4 pizzas.",
+    "The remaining pizzas are delivered one at a time: 12 - 4 = 8 pizzas.",
+    "That means there are 8 stops remaining for the single pizzas.",
+    "Add the stops for double pizza deliveries and single pizza deliveries: 2 + 8 = 10 stops.",
+    "The delivery person needs to complete all stops in 40 minutes.",
+    "Determine the average time in minutes per stop by dividing the total time by the number of stops: 40 minutes / 10 stops."
+  ],
+  "solution": "4"
+}

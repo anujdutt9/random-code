@@ -1,0 +1,17 @@
+{
+  "query": "Mark's basketball team scores 25 2 pointers, 8 3 pointers and 10 free throws.  Their opponents score double the 2 pointers but half the 3 pointers and free throws.  What's the total number of points scored by both teams added together?",
+  "steps": [
+    "First, I need to calculate the total points scored by Mark's team.",
+    "2 pointers by Mark's team: 25 shots worth 2 points each is 25 * 2 = 50 points.",
+    "3 pointers by Mark's team: 8 shots worth 3 points each is 8 * 3 = 24 points.",
+    "Free throws by Mark's team: 10 shots worth 1 point each is 10 * 1 = 10 points.",
+    "Total points scored by Mark's team is the sum of points from 2 pointers, 3 pointers, and free throws: 50 + 24 + 10 = 84 points.",
+    "Next, I need to calculate the total points scored by the opponents.",
+    "Opponents' 2 pointers: They score double the 2 pointers, so they score 50 * 2 = 100 points from 2 pointers.",
+    "Opponents' 3 pointers: They score half the 3 pointers, so they score half of 24, which is 8 * 1.5 = 12 points (since 8 * 3/2 = 12).",
+    "Opponents' free throws: They score half the free throws, which is 10/2 = 5 points.",
+    "Total points by opponents is the sum of points from their 2 pointers, 3 pointers, and free throws: 100 + 12 + 5 = 117 points.",
+    "Now, I add up the points scored by both teams to get the total points: 84 (Mark's team) + 117 (opponents) = 201 points."
+  ],
+  "solution": "201"
+}

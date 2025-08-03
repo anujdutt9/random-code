@@ -1,0 +1,11 @@
+{
+  "query": "Alice is making a big stack of dishes to see how tall she can make it before it topples over and falls. She starts off by placing 27 plates on top of each other. The tower holds fine so she adds 37 more plates. She is in the process of placing more and more plates when it finally topples over and crashes down, all 83 plates. How many more was Alice able to add before the tower fell and crashed?",
+  "steps": [
+    "Alice initially places 27 plates on top of each other.",
+    "She adds another 37 plates to the initial 27 plates.",
+    "First, calculate the total number of plates before the next additions: 27 plates + 37 plates = 64 plates.",
+    "The total number of plates when the tower falls over is 83.",
+    "Subtract the number of plates before the final addition to determine how many more she was able to add: 83 plates - 64 plates = 19 plates."
+  ],
+  "solution": "19"
+}

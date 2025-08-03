@@ -1,0 +1,13 @@
+{
+  "query": "James spends 10 minutes downloading a game, half as long installing it, and triple that combined amount of time going through the tutorial. How long does it take before he can play the main game?",
+  "steps": [
+    "James spends 10 minutes downloading the game.",
+    "He spends half as long installing it, which is 10 minutes / 2 = 5 minutes.",
+    "The combined time for downloading and installing is 10 minutes + 5 minutes = 15 minutes.",
+    "He spends triple that combined time going through the tutorial, which is 15 minutes * 3 = 45 minutes.",
+    "I need to add all these times together to find the total time taken before he can play the main game.",
+    "The total time is 10 minutes (downloading) + 5 minutes (installing) + 45 minutes (tutorial).",
+    "Calculating this gives 10 + 5 + 45 = 60 minutes."
+  ],
+  "solution": "60"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "Leo has to write a 400-word story for his literature class. 10 words fit on each line of his notebook and 20 lines fit on each page. Lucas has filled one and a half pages. How many words does he have left to write?",
+  "steps": [
+    "First, I need to determine how many words fit on each full page of Leo's notebook.",
+    "Each line can hold 10 words.",
+    "There are 20 lines on each page.",
+    "Therefore, each page can hold 10 words per line x 20 lines = 200 words.",
+    "Now, I need to find out how many words Lucas has already written.",
+    "Lucas has filled one and a half pages.",
+    "One full page equals 200 words.",
+    "Half a page would be half of 200 words, which is 100 words.",
+    "So, Lucas has written 200 words + 100 words = 300 words.",
+    "Now, I need to calculate how many words Lucas still needs to write.",
+    "The total word count required for the story is 400 words.",
+    "Lucas has written 300 words so far.",
+    "Therefore, the number of words Lucas has left to write is 400 words - 300 words."
+  ],
+  "solution": "100"
+}

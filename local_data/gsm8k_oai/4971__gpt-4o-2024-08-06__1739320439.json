@@ -1,0 +1,16 @@
+{
+  "query": "Krishna and Callum are playing a game where they earn 10 points if they win any round. If they played eight matches and Krishna won 3/4 of the matches, what is the total number of points that Callum earned?",
+  "steps": [
+    "First, I need to determine how many matches Krishna won.",
+    "Krishna won 3/4 of the total eight matches.",
+    "To find the number of matches Krishna won, I can calculate 3/4 of 8.",
+    "(3/4) * 8 = 6. Krishna won 6 matches.",
+    "If Krishna won 6 matches, then Callum must have won the remaining matches.",
+    "The total number of matches is 8, so the number of matches Callum won is 8 - 6.",
+    "8 - 6 = 2. Callum won 2 matches.",
+    "Each match won gives 10 points.",
+    "Since Callum won 2 matches, his total points are 2 * 10.",
+    "2 * 10 = 20."
+  ],
+  "solution": "20"
+}

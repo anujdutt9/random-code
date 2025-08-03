@@ -1,0 +1,12 @@
+{
+  "query": "Happy Cattle Ranch is home to 200 cows. Every year, the mother cows have enough calves that the number of cows the rancher owns rises by half the number of cows living on the ranch. If the rancher does not buy or sell any cows, how many cows will the rancher own on Happy Cattle Ranch in two years?",
+  "steps": [
+    "The ranch starts with 200 cows.",
+    "Every year, the number of cows increases by half the number of cows currently on the ranch.",
+    "In the first year, the number of new cows is 200 * 0.5 = 100.",
+    "After the first year, the total number of cows will be 200 + 100 = 300.",
+    "In the second year, the number of new cows is 300 * 0.5 = 150.",
+    "After the second year, the total number of cows will be 300 + 150 = 450."
+  ],
+  "solution": "450"
+}

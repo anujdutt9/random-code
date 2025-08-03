@@ -1,0 +1,19 @@
+{
+  "query": "Antoinette weighs 7 less kilograms than twice Rupert's weight. Together they weigh 98 kilograms. How many kilograms does Antoinette weigh?",
+  "steps": [
+    "Let's assign variables to the unknown quantities. Let R be Rupert's weight in kilograms.",
+    "Antoinette's weight can be expressed in terms of R. According to the problem, Antoinette weighs 7 less kilograms than twice Rupert's weight. So, we can express Antoinette's weight as 2R - 7.",
+    "Together they weigh 98 kilograms. We can express this as an equation: R + (2R - 7) = 98.",
+    "Simplify the equation: Combine the terms with R. R + 2R = 3R.",
+    "Now the equation is 3R - 7 = 98.",
+    "To solve for R, add 7 to both sides of the equation to isolate the term with R: 3R = 98 + 7.",
+    "Calculate the right side of the equation: 98 + 7 = 105. So, 3R = 105.",
+    "Divide both sides by 3 to solve for R: R = 105 / 3.",
+    "Calculate the division: 105 / 3 = 35. So, R = 35.",
+    "Now that we know Rupert's weight (R) is 35 kilograms, let's find Antoinette's weight.",
+    "Antoinette's weight is 2R - 7. Plug in the value of R: 2(35) - 7.",
+    "Calculate: 2 * 35 = 70.",
+    "Subtract 7: 70 - 7 = 63."
+  ],
+  "solution": "63"
+}

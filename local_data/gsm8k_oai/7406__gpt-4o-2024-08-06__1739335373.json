@@ -1,0 +1,30 @@
+{
+  "query": "In today's field day challenge, the 4th graders were competing against the 5th graders.  Each grade had 2 different classes.  The first 4th grade class had 12 girls and 13 boys.  The second 4th grade class had 15 girls and 11 boys.  The first 5th grade class had 9 girls and 13 boys while the second 5th grade class had 10 girls and 11 boys.  In total, how many more boys were competing than girls?",
+  "steps": [
+    "First, I will calculate the total number of girls in the 4th grade classes.",
+    "The first 4th grade class has 12 girls.",
+    "The second 4th grade class has 15 girls.",
+    "Adding these together gives 12 + 15 = 27 girls in 4th grade.",
+    "Next, I will calculate the total number of boys in the 4th grade classes.",
+    "The first 4th grade class has 13 boys.",
+    "The second 4th grade class has 11 boys.",
+    "Adding these together gives 13 + 11 = 24 boys in 4th grade.",
+    "Now, I will calculate the total number of girls in the 5th grade classes.",
+    "The first 5th grade class has 9 girls.",
+    "The second 5th grade class has 10 girls.",
+    "Adding these together gives 9 + 10 = 19 girls in 5th grade.",
+    "Next, I will calculate the total number of boys in the 5th grade classes.",
+    "The first 5th grade class has 13 boys.",
+    "The second 5th grade class has 11 boys.",
+    "Adding these together gives 13 + 11 = 24 boys in 5th grade.",
+    "Now, I will sum the totals for all the girls competing.",
+    "There are 27 girls in 4th grade and 19 girls in 5th grade.",
+    "Adding these gives 27 + 19 = 46 total girls.",
+    "Now, I will sum the totals for all the boys competing.",
+    "There are 24 boys in 4th grade and 24 boys in 5th grade.",
+    "Adding these gives 24 + 24 = 48 total boys.",
+    "To find out how many more boys were competing than girls, I will subtract the total number of girls from the total number of boys.",
+    "48 boys - 46 girls = 2 more boys than girls."
+  ],
+  "solution": "2"
+}

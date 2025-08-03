@@ -1,0 +1,17 @@
+{
+  "query": "Eliza can iron a blouse in 15 minutes and a dress in 20 minutes.  If she spends 2 hours ironing blouses and 3 hours ironing dresses, how many pieces of clothes did she iron?",
+  "steps": [
+    "First, I need to convert the time Eliza spends ironing into minutes because the time to iron blouses and dresses is given in minutes.",
+    "Eliza spends 2 hours ironing blouses. Since there are 60 minutes in an hour, I multiply 2 hours by 60 minutes to get the total minutes for ironing blouses.",
+    "2 hours * 60 minutes/hour = 120 minutes spent ironing blouses.",
+    "Eliza spends 3 hours ironing dresses. Again, I convert this into minutes by multiplying 3 hours by 60 minutes.",
+    "3 hours * 60 minutes/hour = 180 minutes spent ironing dresses.",
+    "Next, I need to determine how many blouses Eliza can iron in 120 minutes. Since it takes 15 minutes to iron one blouse, I divide 120 minutes by 15 minutes.",
+    "120 minutes / 15 minutes/blouse = 8 blouses ironed.",
+    "Now, I find out how many dresses Eliza can iron in 180 minutes. Since it takes 20 minutes to iron one dress, I divide 180 minutes by 20 minutes.",
+    "180 minutes / 20 minutes/dress = 9 dresses ironed.",
+    "The total number of pieces of clothing she ironed is the sum of the blouses and dresses she ironed.",
+    "8 blouses + 9 dresses = 17 pieces of clothing ironed."
+  ],
+  "solution": "17"
+}

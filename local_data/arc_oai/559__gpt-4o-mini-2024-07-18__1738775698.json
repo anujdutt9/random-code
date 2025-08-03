@@ -1,0 +1,10 @@
+{
+  "query": "Question: In pea plants, the allele for smooth peas is dominant (S). If a heterozygous smooth pea plant (Ss) is crossed with a homozygous smooth pea plant (SS), which are the possible genotypes the offspring could have?\n\nChoices:\nA: only SS\nB: only Ss\nC: Ss or SS\nD: ss or SS",
+  "steps": [
+    "Identify the genotypes of the parent plants. One parent is heterozygous (Ss) and the other is homozygous (SS).",
+    "Determine the possible alleles contributed by each parent. The heterozygous parent (Ss) can contribute either an S or an s allele, while the homozygous parent (SS) can only contribute S alleles.",
+    "List the potential combinations of alleles for the offspring. \n- If the offspring receives S from the heterozygous parent, the genotype will be SS. \n- If the offspring receives s from the heterozygous parent (which is possible), the genotype will be Ss.",
+    "Conclude the possible genotypes of the offspring. The offspring can either be SS or Ss, but not ss since there is no 's' allele from the homozygous parent."
+  ],
+  "solution": "C"
+}

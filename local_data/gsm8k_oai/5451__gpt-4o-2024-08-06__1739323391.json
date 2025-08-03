@@ -1,0 +1,21 @@
+{
+  "query": "Carolyn is trimming a dress with lace around the cuffs, waist, hem, and neckline. Each cuff is 50 cm long, the hem is 300 cm long, the waist is a third of the length of the hem, and the neck will have 5 ruffles that each use 20 cm of lace. If lace costs $6/m, how much does Carolyn spend on lace?",
+  "steps": [
+    "First, I need to calculate the total length of lace required for the cuffs.",
+    "Each cuff is 50 cm long, and there are 2 cuffs.",
+    "Total length for cuffs is 50 cm * 2 = 100 cm.",
+    "Next, calculate the length needed for the hem.",
+    "The hem is 300 cm long.",
+    "Now, calculate the length required for the waist.",
+    "The waist is a third of the length of the hem, so 300 cm / 3 = 100 cm.",
+    "Next, calculate the lace needed for the neckline.",
+    "There are 5 ruffles on the neck, each using 20 cm of lace.",
+    "Total length for the neckline is 5 * 20 cm = 100 cm.",
+    "Now, I sum the lengths from all parts: cuffs, hem, waist, and neckline.",
+    "Total lace length = 100 cm (cuffs) + 300 cm (hem) + 100 cm (waist) + 100 cm (neckline) = 600 cm.",
+    "Convert the total length from centimeters to meters: 600 cm = 6 m.",
+    "Calculate the cost of the lace.",
+    "Lace costs $6/m, so the total cost is 6 m * $6/m = $36."
+  ],
+  "solution": "36"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Matt can make a batch of a dozen cookies using 2 pounds of flour.  He uses 4 bags of flour each weighing 5 pounds.  If Jim eats 15 cookies how many cookies are left?",
+  "steps": [
+    "Matt has 4 bags of flour, and each bag weighs 5 pounds.",
+    "To find the total amount of flour Matt has, I multiply the number of bags by the weight of each bag.",
+    "4 bags \u00d7 5 pounds per bag = 20 pounds of flour.",
+    "It takes 2 pounds of flour to make a batch of a dozen cookies.",
+    "To find out how many batches Matt can make, I divide the total pounds of flour by the pounds needed per batch.",
+    "20 pounds \u00f7 2 pounds per batch = 10 batches.",
+    "Each batch yields a dozen (12) cookies.",
+    "To find the total number of cookies Matt can make, I multiply the number of batches by the number of cookies per batch.",
+    "10 batches \u00d7 12 cookies per batch = 120 cookies.",
+    "Jim eats 15 cookies.",
+    "To find out how many cookies are left, I subtract the number of cookies Jim eats from the total number of cookies.",
+    "120 cookies - 15 cookies = 105 cookies."
+  ],
+  "solution": "105"
+}

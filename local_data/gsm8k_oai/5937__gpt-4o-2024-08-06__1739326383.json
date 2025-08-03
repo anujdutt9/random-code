@@ -1,0 +1,15 @@
+{
+  "query": "Beth has 72 marbles of three colors. Each color has the same amount of marbles. If Beth loses 5 red, twice as many blue, and three times as many yellow ones than red ones, how many marbles does she have left?",
+  "steps": [
+    "Beth has 72 marbles of three colors, and each color has the same number of marbles.",
+    "Since there are three colors and the same number of marbles for each, I divide 72 marbles by 3 colors.",
+    "So, for each color, Beth has 72 / 3 = 24 marbles.",
+    "Beth loses 5 red marbles.",
+    "Beth loses twice as many blue marbles as red marbles. Twice 5 is 10 blue marbles.",
+    "Beth loses three times as many yellow marbles as red marbles. Three times 5 is 15 yellow marbles.",
+    "Now I need to calculate the total number of marbles lost: 5 red + 10 blue + 15 yellow = 30 marbles lost.",
+    "Beth initially had 72 marbles.",
+    "After losing 30 marbles, she has 72 - 30 = 42 marbles left."
+  ],
+  "solution": "42"
+}

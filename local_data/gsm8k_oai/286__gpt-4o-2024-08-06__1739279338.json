@@ -1,0 +1,13 @@
+{
+  "query": "There were 18 students assigned in a minibus for a field trip. Eight of these students were boys. On the day of the field trip, the number of girls and boys was the same since some of the girls were not able to join the trip. How many girls were not able to join the field trip?",
+  "steps": [
+    "There are initially 18 students assigned for the field trip.",
+    "Among these 18 students, 8 are boys.",
+    "To find the number of girls initially assigned, I subtract the number of boys from the total number of students: 18 - 8 = 10 girls.",
+    "On the day of the field trip, the number of girls and boys was the same.",
+    "Since there were originally 8 boys and the number of girls equals the number of boys on the day of the trip, the number of girls who actually went on the trip must also be 8.",
+    "I originally counted 10 girls assigned to the trip, but only 8 girls were present.",
+    "To determine how many girls were not able to join the field trip, I subtract the number of girls present from the number of girls initially assigned: 10 - 8 = 2 girls."
+  ],
+  "solution": "2"
+}

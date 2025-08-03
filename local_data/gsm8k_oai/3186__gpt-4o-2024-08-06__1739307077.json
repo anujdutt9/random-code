@@ -1,0 +1,17 @@
+{
+  "query": "Chandra is going on a monster hunt. After a big storm, there have been lost monsters all around the castle grounds for the last 5 days. Chandra wants to rope them all up and return them to the swamps where they will be the most comfortable. On the first day she saw 2 monsters near the castle walls. Every day after that she saw double the amount as the day before. After 5 days how many monsters does she need to lead back to the swamps?",
+  "steps": [
+    "On the first day, Chandra saw 2 monsters.",
+    "On the second day, she saw double the amount from the first day: 2 * 2 = 4 monsters.",
+    "On the third day, she saw double the amount from the second day: 4 * 2 = 8 monsters.",
+    "On the fourth day, she saw double the amount from the third day: 8 * 2 = 16 monsters.",
+    "On the fifth day, she saw double the amount from the fourth day: 16 * 2 = 32 monsters.",
+    "Now, I need to find the total number of monsters she saw over the 5 days.",
+    "Adding up the number of monsters from each day: 2 + 4 + 8 + 16 + 32.",
+    "Adding step by step: 2 + 4 = 6.",
+    "Next, 6 + 8 = 14.",
+    "Then, 14 + 16 = 30.",
+    "Finally, 30 + 32 = 62."
+  ],
+  "solution": "62"
+}

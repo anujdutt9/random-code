@@ -1,0 +1,18 @@
+{
+  "query": "Bruce buys 5 packs of crayons at $5 each, 10 books at $5 each, and 3 calculators at $5 each. If he has $200, how many bags can he buy with the change if one costs $10 each?",
+  "steps": [
+    "First, I need to find the total cost of the crayons.",
+    "Each pack of crayons costs $5, and Bruce buys 5 packs, so the total cost for crayons is 5 x $5 = $25.",
+    "Now, I need to calculate the total cost of the books.",
+    "Each book costs $5, and Bruce buys 10 books, so the total cost for books is 10 x $5 = $50.",
+    "Next, I'll calculate the total cost of the calculators.",
+    "Each calculator costs $5, and Bruce buys 3 calculators, so the total cost for calculators is 3 x $5 = $15.",
+    "Now, I need to find the total amount Bruce spends on all the items.",
+    "The total spent is $25 (crayons) + $50 (books) + $15 (calculators) = $90.",
+    "Bruce has $200 initially, so I need to calculate how much money he has left after these purchases.",
+    "The remaining money is $200 - $90 = $110.",
+    "Now, I need to determine how many bags Bruce can buy with his remaining money, knowing each bag costs $10.",
+    "To find out how many bags he can buy, I divide the remaining money by the price of one bag: $110 \u00f7 $10 per bag = 11 bags."
+  ],
+  "solution": "11"
+}

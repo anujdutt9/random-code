@@ -1,0 +1,14 @@
+{
+  "query": "Apollo pulls the sun across the sky every night. Once a month, his fiery chariot\u2019s wheels need to be replaced. He trades golden apples to Hephaestus the blacksmith to get Hephaestus to make him new wheels. Hephaestus raised his rates halfway through the year and now demands twice as many golden apples as before. He charged three golden apples for the first six months. How many golden apples does Apollo have to pay for the entire year of chariot wheels?",
+  "steps": [
+    "Apollo needs to replace the chariot wheels once a month.",
+    "This means he needs new wheels 12 times a year, one for each month.",
+    "For the first six months, Hephaestus charges 3 golden apples per set of wheels.",
+    "Calculate the total cost for the first six months: 6 months * 3 golden apples per month = 18 golden apples.",
+    "Halfway through the year, Hephaestus doubles the rate.",
+    "The new rate for the last six months is 3 golden apples * 2 = 6 golden apples per month.",
+    "Calculate the total cost for the last six months: 6 months * 6 golden apples per month = 36 golden apples.",
+    "Add the total golden apples for the first six months and the last six months: 18 golden apples + 36 golden apples = 54 golden apples."
+  ],
+  "solution": "54"
+}

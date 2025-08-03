@@ -1,0 +1,15 @@
+{
+  "query": "Question: If there is no windows in the area where are you likely to find a fire extinguisher?\n\nChoices:\nA: house\nB: stairwell\nC: school bus\nD: window\nE: garage",
+  "steps": [
+    "First, identify the context of the question: it specifies an area without windows.",
+    "Next, consider the purpose of a fire extinguisher, which is to provide immediate access to put out fires in case of an emergency.",
+    "Evaluate the choices in terms of where one would typically find fire extinguishers and their placement in areas without windows.",
+    "Choice A (house) may have fire extinguishers in various places, but a house usually has windows; therefore, it's less likely it will be in a windowless area.",
+    "Choice B (stairwell) is plausible because it could be a windowless area and fire extinguishers are often found in stairwells for safety purposes in case of a fire in higher floors.",
+    "Choice C (school bus) generally does have windows and may not necessarily have an accessible fire extinguisher, thus it's less likely to be the answer.",
+    "Choice D (window) is not relevant as it contradicts the idea of no windows.",
+    "Choice E (garage) can also have fire extinguishers, but garages typically do have ventilation options such as windows, increasing the likelihood of windows being present.",
+    "After evaluating all options, the stairwell, being a location dedicated to safety without the requirement of natural light (windows), is the strongest candidate."
+  ],
+  "solution": "B"
+}

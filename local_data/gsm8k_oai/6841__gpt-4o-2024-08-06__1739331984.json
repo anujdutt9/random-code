@@ -1,0 +1,18 @@
+{
+  "query": "Janet takes two multivitamins and 3 calcium supplements every day for the first 2 weeks of the month. For the last two weeks of the month, she runs low on calcium supplements and only takes one per day. How many pills does Janet take in that month?",
+  "steps": [
+    "First, I need to understand that the month is assumed to have 4 weeks in total.",
+    "The first set of pills consists of 2 multivitamins and 3 calcium supplements daily for the first 2 weeks.",
+    "Calculate the number of days in the first two weeks: 2 weeks \u00d7 7 days/week = 14 days.",
+    "Calculate the total number of pills for the first two weeks: \nEach day Janet takes (2 multivitamins + 3 calcium) = 5 pills.",
+    "Total pills for 14 days = 14 days \u00d7 5 pills/day = 70 pills.",
+    "The second set of pills is for the last two weeks where she takes 2 multivitamins and 1 calcium supplement daily.",
+    "Calculate the number of days in the last two weeks: 2 weeks \u00d7 7 days/week = 14 days.",
+    "Calculate the total number of pills for the last two weeks:\nEach day Janet takes (2 multivitamins + 1 calcium) = 3 pills.",
+    "Total pills for the last 14 days = 14 days \u00d7 3 pills/day = 42 pills.",
+    "Now, add the total pills from the first two weeks and the last two weeks.",
+    "Total pills for the month = 70 pills (first two weeks) + 42 pills (last two weeks).",
+    "Perform the addition: 70 + 42 = 112."
+  ],
+  "solution": "112"
+}

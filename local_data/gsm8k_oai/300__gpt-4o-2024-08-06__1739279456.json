@@ -1,0 +1,14 @@
+{
+  "query": "It costs $.10 to print one page. Jenny wants to print 7 copies of her 25-page essay. She also wants to buy 7 pens that each cost $1.50. If she pays the store with 2 twenty dollar bills, how much money should she get in change?",
+  "steps": [
+    "First, I need to calculate the total cost of printing the essay. One copy of the essay is 25 pages long, and it costs $0.10 to print one page.",
+    "Multiplying the number of pages per essay by the cost per page gives: 25 pages \u00d7 $0.10 = $2.50 per essay.",
+    "Jenny wants to print 7 copies of her essay. So, the cost for 7 copies is: 7 copies \u00d7 $2.50 = $17.50.",
+    "Now, I have to calculate the cost of the pens. Jenny wants to buy 7 pens, and each pen costs $1.50.",
+    "The total cost for the pens will be: 7 pens \u00d7 $1.50 = $10.50.",
+    "Next, I will find the total cost of both printing and pens: $17.50 (printing) + $10.50 (pens) = $28.00.",
+    "Jenny pays with 2 twenty-dollar bills, which is a total of $40.00.",
+    "To find the change Jenny should receive, I subtract the total cost from the amount she paid: $40.00 - $28.00 = $12.00."
+  ],
+  "solution": "12"
+}

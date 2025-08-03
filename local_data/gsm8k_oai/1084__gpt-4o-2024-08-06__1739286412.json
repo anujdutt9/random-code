@@ -1,0 +1,16 @@
+{
+  "query": "If Billy and Jenny each order a $20 steak along with a $5 drink, how much will Billy have to pay in tips if he wants to cover 80% of a 20% tip for the two of them?",
+  "steps": [
+    "First, I need to determine the total cost of the meal for both Billy and Jenny.",
+    "Billy orders a $20 steak and a $5 drink.",
+    "Jenny also orders a $20 steak and a $5 drink.",
+    "Each of their meals costs: $20 + $5 = $25.",
+    "The total cost for both of them is: $25 + $25 = $50.",
+    "Next, I need to calculate the total tip based on this cost.",
+    "The suggested tip percentage is 20% of the total bill.",
+    "20% of $50 is 0.2 * $50 = $10.",
+    "Billy wants to cover 80% of this tip.",
+    "80% of $10 is 0.8 * $10 = $8."
+  ],
+  "solution": "8"
+}

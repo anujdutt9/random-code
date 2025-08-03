@@ -1,0 +1,14 @@
+{
+  "query": "A cup of dog food weighs 1/4 of a pound.  If Mike has 2 dogs that each eat 6 cups of dog food twice a day how many 20 pound bags of dog food does he need to buy a month?",
+  "steps": [
+    "First, I need to determine how many cups of dog food each dog eats per day.",
+    "Each dog eats 6 cups twice a day, so each dog eats 6 * 2 = 12 cups per day.",
+    "I have two dogs, so together they eat 12 cups * 2 = 24 cups per day.",
+    "Next, I need to calculate the total weight in pounds of the dog food they eat per day.",
+    "Each cup of dog food weighs 1/4 of a pound, so 24 cups would weigh 24 * (1/4) = 6 pounds per day.",
+    "Now I determine how much dog food is needed for a month. Assuming a month is about 30 days, the dogs need 6 pounds * 30 days = 180 pounds of dog food in a month.",
+    "The next step is to calculate how many 20-pound bags are needed to meet the monthly requirement.",
+    "I divide the total monthly food requirement by the weight of one bag: 180 pounds \u00f7 20 pounds/bag = 9 bags."
+  ],
+  "solution": "9"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Adam owns a wood carving shop, if a block of basswood can create 3 figurines and a block of butternut wood can create 4 figurines, and a block of Aspen wood can make twice the amount of figurines compared to basswood, how many figurines can he make if he owns 15 blocks of basswood, 20 blocks of butternut wood, and 20 blocks of Aspen wood?",
+  "steps": [
+    "I know that a block of basswood can create 3 figurines.",
+    "Adam has 15 blocks of basswood.",
+    "To find out how many figurines the basswood can create, I multiply the number of blocks by the number of figurines per block: 15 blocks * 3 figurines/block = 45 figurines.",
+    "Next, I know that a block of butternut wood can create 4 figurines.",
+    "Adam has 20 blocks of butternut wood.",
+    "To find out how many figurines the butternut wood can create, I multiply the number of blocks by the number of figurines per block: 20 blocks * 4 figurines/block = 80 figurines.",
+    "I also know a block of Aspen wood can make twice the amount of figurines compared to basswood.",
+    "A block of basswood creates 3 figurines, so a block of Aspen wood creates 3 * 2 = 6 figurines.",
+    "Adam has 20 blocks of Aspen wood.",
+    "To find out how many figurines the Aspen wood can create, I multiply the number of blocks by the number of figurines per block: 20 blocks * 6 figurines/block = 120 figurines.",
+    "Now, I add up all the figurines made from each type of wood: 45 (basswood) + 80 (butternut) + 120 (Aspen) = 245 figurines."
+  ],
+  "solution": "245"
+}

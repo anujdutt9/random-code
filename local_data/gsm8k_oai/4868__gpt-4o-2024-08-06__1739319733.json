@@ -1,0 +1,18 @@
+{
+  "query": "Ishmael was monitoring whales out at sea for conservation purposes. Each time he takes a trip to sea, he sees a different group of whales. On his first trip, he counts 28 male whales and twice as many female whales. On his second trip, he sees 8 baby whales, each travelling with their parents. On his third trip, he counts half as many male whales as the first trip and the same number of female whales as on the first trip. In total, how many whales were out at sea during Ishmael\u2019s monitoring?",
+  "steps": [
+    "Ishmael goes on his first trip and counts 28 male whales.",
+    "On the first trip, there are twice as many female whales as male whales, so there are 28 * 2 = 56 female whales.",
+    "The total number of whales on the first trip is 28 (male) + 56 (female) = 84 whales.",
+    "On his second trip, Ishmael sees 8 baby whales. These whales are each traveling with both parents.",
+    "Each baby whale is traveling with two parents, so the baby whales have 8 * 2 = 16 parents with them.",
+    "The total number of whales on the second trip is 8 (baby) + 16 (parents) = 24 whales.",
+    "On the third trip, Ishmael counts half as many male whales as the first trip.",
+    "Half of 28 male whales is 28 / 2 = 14 male whales.",
+    "He also sees the same number of female whales as on the first trip, which was 56 female whales.",
+    "The total number of whales on the third trip is 14 (male) + 56 (female) = 70 whales.",
+    "To find the total number of individual whales across all trips, add the whales from each trip: 84 (first trip) + 24 (second trip) + 70 (third trip).",
+    "The total is 84 + 24 + 70 = 178 whales across all trips."
+  ],
+  "solution": "178"
+}

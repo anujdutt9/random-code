@@ -1,0 +1,14 @@
+{
+  "query": "Carla went to the zoo and counted 12 zebras in their enclosure. She then visited the camels and learned that there were only half as many camels as there were zebras. Next, she visited the monkeys and counted 4 times the number of monkeys as camels. Finally, she saw some giraffes and counted only 2 giraffes. How many more monkeys than giraffes did Carla see?",
+  "steps": [
+    "Carla counted 12 zebras in the enclosure.",
+    "She learned that there were half as many camels as there were zebras.",
+    "To determine the number of camels, I divide the number of zebras by 2: 12 zebras / 2 = 6 camels.",
+    "Next, I know that Carla saw 4 times the number of monkeys as camels.",
+    "To find the number of monkeys, I multiply the number of camels by 4: 6 camels * 4 = 24 monkeys.",
+    "Carla counted only 2 giraffes.",
+    "Now, I need to determine how many more monkeys than giraffes Carla saw.",
+    "I subtract the number of giraffes from the number of monkeys: 24 monkeys - 2 giraffes = 22."
+  ],
+  "solution": "22"
+}

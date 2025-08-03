@@ -1,0 +1,17 @@
+{
+  "query": "Last week, Arman worked 35 hours for 5 days at $10 per hour. This week, he will receive an increase of $0.5 per hour if he can work for 40 hours. Suppose he can work for 40 hours this week, how much will Arman receive for working two weeks?",
+  "steps": [
+    "First, I calculate how much Arman earned last week.",
+    "Last week, Arman worked 35 hours, earning $10 per hour.",
+    "To find how much he earned last week, I multiply his hours worked by his hourly rate: 35 hours * $10/hour = $350.",
+    "Now, I need to calculate how much Arman will earn this week.",
+    "This week, Arman will receive a $0.5 increase in his hourly rate, making it $10 + $0.5 = $10.5 per hour.",
+    "He is going to work for 40 hours this week at the new rate.",
+    "To find his earnings for this week, I multiply 40 hours by $10.5/hour.",
+    "40 hours * $10.5/hour = $420.",
+    "I need to find the total amount Arman will receive for working both weeks.",
+    "I add his earnings from last week and this week: $350 + $420.",
+    "$350 + $420 = $770."
+  ],
+  "solution": "770"
+}

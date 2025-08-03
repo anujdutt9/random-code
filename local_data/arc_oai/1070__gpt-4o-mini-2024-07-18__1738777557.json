@@ -1,0 +1,11 @@
+{
+  "query": "Question: As Archie walks to the park, he wonders which route would be faster. He decides to walk to the park using different routes and times how long it takes. Which should he do to make his comparison fair?\n\nChoices:\nA: walk to different parts of the park each day\nB: walk with a different friend each day\nC: walk at the same speed each day\nD: walk at the same time of the day",
+  "steps": [
+    "To compare the routes fairly, Archie needs to ensure that external variables do not affect the time it takes to walk to the park.",
+    "Walking to different parts of the park (Choice A) introduces inconsistencies in the distance, which can skew the time comparison.",
+    "Walking with a different friend (Choice B) may affect his speed or motivation, leading to inconsistent results.",
+    "Walking at the same time of day (Choice D) controls for variations in external factors like traffic, foot traffic, or weather conditions, but does not control for his walking speed.",
+    "The best option to ensure a fair comparison is to maintain the same walking speed (Choice C), as speed directly affects the time taken."
+  ],
+  "solution": "C"
+}

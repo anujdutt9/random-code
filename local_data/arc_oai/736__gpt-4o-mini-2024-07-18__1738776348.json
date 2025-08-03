@@ -1,0 +1,10 @@
+{
+  "query": "Question: The equation for the synthesis of water is given below. 2H_{2} + O_{2} -> 2H_{2}O How many grams of oxygen gas are needed to produce 36.0 grams of water?\n\nChoices:\nA: 9.00 grams\nB: 16.0 grams\nC: 32.0 grams\nD: 40.0 grams",
+  "steps": [
+    "First, we need to determine the molar mass of water (H2O). The molar mass of hydrogen (H) is approximately 1.01 g/mol, and for oxygen (O), it is approximately 16.00 g/mol. Therefore, the molar mass of H2O is (2 * 1.01) + (1 * 16.00) = 2.02 + 16.00 = 18.02 g/mol.",
+    "Next, we will calculate how many moles of water are produced from 36.0 grams of water. Using the formula: moles = mass / molar mass, we have: moles of H2O = 36.0 g / 18.02 g/mol \u2248 2.0 moles of H2O.",
+    "According to the balanced equation, 2 moles of H2O are produced from 1 mole of O2. Therefore, from 2.0 moles of H2O, the moles of O2 needed are: (1 mole O2 / 2 moles H2O) * 2.0 moles H2O = 1.0 mole O2.",
+    "Now, we will convert the moles of oxygen gas (O2) to grams. The molar mass of O2 is 2 * 16.00 g/mol = 32.00 g/mol. Thus, the mass of O2 needed is: 1.0 mole O2 * 32.00 g/mol = 32.0 grams."
+  ],
+  "solution": "C"
+}

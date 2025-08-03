@@ -1,0 +1,14 @@
+{
+  "query": "Ahmed has 8 orange trees and four times as many apple trees in his orchard as Hassan. If Hassan has one apple tree and two orange trees, and they both have only apple and orange trees in their orchards, how many more trees are in Ahmed's orchard than in Hassan's?",
+  "steps": [
+    "I know Hassan has one apple tree.",
+    "I know Hassan has two orange trees.",
+    "To find the total number of trees Hassan has, I add the number of apple trees and orange trees: 1 (apple tree) + 2 (orange trees) = 3 trees in total.",
+    "I know Ahmed has 8 orange trees.",
+    "Ahmed has four times as many apple trees as Hassan. Hassan has 1 apple tree, so Ahmed has 4 times 1 apple tree, which equals 4 apple trees.",
+    "To find the total number of trees Ahmed has, I add the number of orange trees and apple trees: 8 (orange trees) + 4 (apple trees) = 12 trees in total.",
+    "Now, I need to calculate how many more trees are in Ahmed's orchard than in Hassan's.",
+    "Subtract the total number of trees Hassan has from the total number Ahmed has: 12 trees (Ahmed) - 3 trees (Hassan) = 9 more trees."
+  ],
+  "solution": "9"
+}

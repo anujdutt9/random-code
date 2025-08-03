@@ -1,0 +1,20 @@
+{
+  "query": "Nancy takes 3 antacids per day when she eats Indian food, 2 antacids per day when she eats Mexican food, and 1 antacid per day otherwise. If Nancy eats Indian three times a week and Mexican twice a week, how many antacids does she take per month?",
+  "steps": [
+    "First, I need to calculate the number of antacids Nancy takes in one week.",
+    "Nancy eats Indian food three times a week.",
+    "Each time she eats Indian food, she takes 3 antacids.",
+    "So, for Indian food, she takes 3 times 3, which is 9 antacids per week.",
+    "Nancy eats Mexican food twice a week.",
+    "Each time she eats Mexican food, she takes 2 antacids.",
+    "So, for Mexican food, she takes 2 times 2, which is 4 antacids per week.",
+    "There are 7 days in a week, and so in the remaining 7 - (3 + 2) = 2 days, she eats other food.",
+    "For other food, she takes 1 antacid per day.",
+    "So for other food, she takes 1 times 2, which is 2 antacids per week.",
+    "Adding them all together, Nancy takes 9 (Indian) + 4 (Mexican) + 2 (Other) = 15 antacids per week.",
+    "Now, I need to calculate the number of antacids Nancy takes per month.",
+    "Assuming there are 4 weeks in a month, I multiply the weekly total by 4.",
+    "15 antacids per week times 4 weeks equals 60 antacids per month."
+  ],
+  "solution": "60"
+}

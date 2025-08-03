@@ -1,0 +1,13 @@
+{
+  "query": "If one Burmese python can eat one 50-cm alligator per week, how many Burmese pythons would it take to eat fifteen 50-centimeter alligators in three weeks?",
+  "steps": [
+    "I know that one Burmese python can eat one 50-cm alligator per week.",
+    "I'm asked to find how many Burmese pythons are needed to eat fifteen 50-cm alligators in three weeks.",
+    "First, I will calculate how many alligators one python can eat in three weeks.",
+    "Since one python eats one alligator per week, in three weeks, one python can eat three alligators.",
+    "Now, let's figure out the total alligators that need to be eaten, which is fifteen alligators.",
+    "I need to calculate how many pythons are required to eat fifteen alligators if one python can eat three alligators in three weeks.",
+    "To find the number of pythons needed, I will divide the total number of alligators by the number one python can eat in three weeks: 15 alligators / 3 alligators per python = 5 pythons."
+  ],
+  "solution": "5"
+}

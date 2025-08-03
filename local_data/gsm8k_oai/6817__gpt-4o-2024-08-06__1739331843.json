@@ -1,0 +1,15 @@
+{
+  "query": "James wants to build a 16-foot by 20-foot quilt.  He uses patches that are each 4 square feet.  The first 10 patches cost $10 each and then each patch after that cost half as much.  How much do the patches for the quilt cost?",
+  "steps": [
+    "First, I need to determine the area of the quilt. The quilt is 16 feet by 20 feet.",
+    "To find the area, I multiply the length by the width: 16 feet * 20 feet = 320 square feet.",
+    "Next, I need to determine how many patches of 4 square feet each are needed to cover 320 square feet.",
+    "I divide the total area of the quilt by the area of each patch: 320 square feet / 4 square feet per patch = 80 patches.",
+    "The first 10 patches cost $10 each, so I calculate the cost for these patches: 10 patches * $10 = $100.",
+    "The remaining patches are 80 total patches - 10 patches = 70 patches.",
+    "Each of these 70 patches costs half of $10, which is $5 per patch.",
+    "Now, I calculate the cost for the remaining 70 patches: 70 patches * $5 = $350.",
+    "Finally, I add the cost of the first 10 patches to the cost of the remaining 70 patches to get the total cost: $100 + $350 = $450."
+  ],
+  "solution": "450"
+}

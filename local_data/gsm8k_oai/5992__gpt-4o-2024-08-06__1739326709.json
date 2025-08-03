@@ -1,0 +1,13 @@
+{
+  "query": "Bill's roof can bear 500 pounds of weight. If 100 leaves fall on his roof every day, and 1000 leaves weighs 1 pound, how many days will it take for his roof to collapse?",
+  "steps": [
+    "First, I start by determining how much weight is added each day by the leaves.",
+    "If 1000 leaves weigh 1 pound, then 100 leaves would weigh 1/10 of a pound.",
+    "Next, I calculate how many pounds the roof can bear, which is given as 500 pounds.",
+    "Now, I need to find out how long it will take until the total weight of the leaves reaches 500 pounds.",
+    "With 100 leaves equaling 1/10 pound per day, in one day the weight added is 1/10 pound.",
+    "To find the number of days until the roof accumulates 500 pounds of leaves, I need to divide the total weight capacity by the daily weight addition.",
+    "I calculate 500 pounds divided by 1/10 pound per day, which equals 5000 days."
+  ],
+  "solution": "5000"
+}

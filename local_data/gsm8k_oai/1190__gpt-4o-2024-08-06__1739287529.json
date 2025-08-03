@@ -1,0 +1,15 @@
+{
+  "query": "Kiarra is twice as old as Bea. Job is 3 times older than Bea. Figaro is 7 years older than Job. Harry is half as old as Figaro. If Kiarra is 30, how old is Harry?",
+  "steps": [
+    "I'm told that Kiarra is twice as old as Bea, and Kiarra is 30 years old.",
+    "To find Bea's age, I'll divide Kiarra's age by 2.",
+    "30 / 2 = 15. So, Bea is 15 years old.",
+    "Job is 3 times older than Bea. I need to multiply Bea's age by 3 to find Job's age.",
+    "15 * 3 = 45. So, Job is 45 years old.",
+    "Figaro is 7 years older than Job. I need to add 7 to Job's age to find Figaro's age.",
+    "45 + 7 = 52. So, Figaro is 52 years old.",
+    "Harry is half as old as Figaro. I need to divide Figaro's age by 2 to find Harry's age.",
+    "52 / 2 = 26. So, Harry is 26 years old."
+  ],
+  "solution": "26"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Jared wants to watch a series with four episodes. The first three episodes are 58 minutes, 62 minutes, and 65 minutes long respectively. If the four episodes last 4 hours, how long is the fourth episode?",
+  "steps": [
+    "First, I will convert the total duration of all four episodes from hours to minutes. There are 60 minutes in an hour, so 4 hours is equivalent to 4 * 60 minutes.",
+    "Calculating 4 * 60 gives me 240 minutes in total for all four episodes.",
+    "Next, I will add up the duration of the first three episodes to find their combined length. The episodes are 58 minutes, 62 minutes, and 65 minutes long.",
+    "Adding these durations: 58 + 62 + 65.",
+    "58 + 62 is 120. Then, I add 65 to 120.",
+    "120 + 65 equals 185 minutes for the first three episodes.",
+    "To find the duration of the fourth episode, I need to subtract the duration of the first three episodes from the total duration of all episodes.",
+    "So, I subtract 185 from 240.",
+    "240 - 185 equals 55."
+  ],
+  "solution": "55"
+}

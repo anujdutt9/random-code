@@ -1,0 +1,18 @@
+{
+  "query": "Janeth bought 5 bags of round balloons with 20 balloons in each bag. She also bought 4 bags of long balloons with 30 balloons in each bag. While blowing up the balloons, 5 round balloons burst. How many balloons are left?",
+  "steps": [
+    "First, I need to determine how many round balloons Janeth bought in total.",
+    "She bought 5 bags of round balloons, with each bag containing 20 balloons.",
+    "So, the total number of round balloons is 5 bags * 20 balloons/bag = 100 balloons.",
+    "Next, I find out how many long balloons she bought in total.",
+    "She bought 4 bags of long balloons, with each bag containing 30 balloons.",
+    "So, the total number of long balloons is 4 bags * 30 balloons/bag = 120 balloons.",
+    "Now, I add the total number of round balloons and long balloons to find out how many balloons Janeth had initially.",
+    "The total number of balloons she initially had is 100 round balloons + 120 long balloons = 220 balloons.",
+    "I need to account for the round balloons that burst.",
+    "5 round balloons burst, so the remaining number of round balloons is 100 - 5 = 95.",
+    "The total number of balloons left is the sum of the remaining round balloons and all the long balloons, as none of them burst.",
+    "Therefore, the total number of balloons left is 95 round balloons + 120 long balloons = 215 balloons."
+  ],
+  "solution": "215"
+}

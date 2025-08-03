@@ -1,0 +1,19 @@
+{
+  "query": "Ann, Bill, Cate, and Dale each buy personal pan pizzas cut into 4 pieces. If Bill and Dale eat 50% of their pizzas and Ann and Cate eat 75% of the pizzas, how many pizza pieces are left uneaten?",
+  "steps": [
+    "First, I'll calculate how many pieces each person eats.",
+    "Each personal pan pizza is cut into 4 pieces.",
+    "Bill eats 50% of his pizza. 50% of 4 pieces is 2 pieces.",
+    "Dale also eats 50% of his pizza, which is 2 pieces.",
+    "Ann eats 75% of her pizza. 75% of 4 pieces is 3 pieces.",
+    "Cate also eats 75% of her pizza, which is 3 pieces.",
+    "Next, I'll calculate how many pieces each person leaves uneaten.",
+    "Bill leaves 4 - 2 = 2 pieces uneaten.",
+    "Dale also leaves 4 - 2 = 2 pieces uneaten.",
+    "Ann leaves 4 - 3 = 1 piece uneaten.",
+    "Cate also leaves 4 - 3 = 1 piece uneaten.",
+    "Now, I'll add up all the uneaten pieces.",
+    "2 (Bill) + 2 (Dale) + 1 (Ann) + 1 (Cate) = 6 pieces uneaten in total."
+  ],
+  "solution": "6"
+}

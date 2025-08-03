@@ -1,0 +1,18 @@
+{
+  "query": "There are 120 crayons in a box.  One third of the crayons are new, 20% are broken, and the rest are slightly used.  How many are slightly used?",
+  "steps": [
+    "I start with the total number of crayons, which is 120.",
+    "I need to find out how many crayons are new. One third of the crayons are new.",
+    "To find one third, I divide 120 by 3.",
+    "120 \u00f7 3 = 40, so there are 40 new crayons.",
+    "Next, I find out how many crayons are broken. 20% of the crayons are broken.",
+    "To find 20% of 120, I multiply 120 by 0.20.",
+    "120 \u00d7 0.20 = 24, so there are 24 broken crayons.",
+    "Now, I need to find how many crayons are slightly used.",
+    "To find the number of slightly used crayons, I subtract the number of new crayons and the number of broken crayons from the total.",
+    "Total slightly used crayons = Total crayons - New crayons - Broken crayons.",
+    "Total slightly used crayons = 120 - 40 - 24.",
+    "120 - 40 = 80, and 80 - 24 = 56."
+  ],
+  "solution": "56"
+}

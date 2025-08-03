@@ -1,0 +1,16 @@
+{
+  "query": "Jesse and Mia are competing in a week long race. They have one week to run 30 miles. On the first three days Jesse averages (2/3) of a mile. On day four she runs 10 miles. Mia averages 3 miles a day over the first 4 days. What is the average of their average that they have to run over the final three days?",
+  "steps": [
+    "To solve for the average number of miles Jesse needs to run over the last three days, I need to calculate how many miles she has run so far and how many she still needs.",
+    "Jesse averages (2/3) of a mile each day for the first three days, so I multiply: 3 days * (2/3) miles/day = 2 miles.",
+    "On day four, Jesse runs 10 miles. I add the miles from the first 3 days: 2 miles + 10 miles = 12 miles.",
+    "Jesse needs to run 30 miles in total, and has already run 12 miles. I subtract to find the remaining miles: 30 miles - 12 miles = 18 miles.",
+    "Jesse has 3 days left to run these 18 miles, so I divide: 18 miles / 3 days = 6 miles/day.",
+    "Next, I calculate for Mia. Mia averages 3 miles a day for the first 4 days, so I multiply: 4 days * 3 miles/day = 12 miles.",
+    "Mia also needs to run 30 miles in total. She has already run 12 miles, so I find how many are left: 30 miles - 12 miles = 18 miles remaining.",
+    "Mia too has 3 days left to run these 18 miles, and I divide: 18 miles / 3 days = 6 miles/day.",
+    "Now, I need to find the average of their averages for the last three days. Jesse averages 6 miles/day, and Mia averages 6 miles/day.",
+    "To find the average of their averages, I add their averages and divide by 2: (6 miles/day + 6 miles/day) / 2 = 6 miles/day."
+  ],
+  "solution": "6"
+}

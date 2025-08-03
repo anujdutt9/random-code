@@ -1,0 +1,15 @@
+{
+  "query": "There are 480 zombies in the shopping mall. If the number of zombies doubled every day, how many days ago were there less than 50 zombies in the mall?",
+  "steps": [
+    "Currently, there are 480 zombies in the mall.",
+    "I need to find out how many days ago the number of zombies was less than 50.",
+    "The number of zombies doubles every day. So, working backwards, I need to halve the current number of zombies each day.",
+    "Let's halve 480 to find the number of zombies from one day ago: 480 / 2 = 240.",
+    "If I halve again to find the number two days ago: 240 / 2 = 120.",
+    "Halving once more to find three days ago: 120 / 2 = 60.",
+    "Halving again to find the number of zombies four days ago: 60 / 2 = 30.",
+    "Now, there are 30 zombies four days ago, which is less than 50.",
+    "Thus, four days ago, the number of zombies was less than 50 for the first time."
+  ],
+  "solution": "4"
+}

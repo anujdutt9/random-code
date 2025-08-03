@@ -1,0 +1,20 @@
+{
+  "query": "Cecil has $600. Catherine has $250 less than twice as much as Cecil while Carmela has $50 more than twice Cecil's money. How much money do they have altogether?",
+  "steps": [
+    "First, understand how much money Cecil has. Cecil has $600.",
+    "Next, calculate how much money Catherine has.",
+    "Catherine has $250 less than twice the amount Cecil has.",
+    "Twice the amount Cecil has is 2 * $600 = $1200.",
+    "Subtract $250 from $1200 to find Catherine's amount: $1200 - $250 = $950.",
+    "Now, calculate how much money Carmela has.",
+    "Carmela has $50 more than twice the amount Cecil has.",
+    "Twice the amount Cecil has is again 2 * $600 = $1200.",
+    "Add $50 to $1200 to find Carmela's amount: $1200 + $50 = $1250.",
+    "Now, add the amounts of money all three have to find the total.",
+    "Cecil has $600, Catherine has $950, and Carmela has $1250.",
+    "Add these amounts together: $600 + $950 + $1250.",
+    "First, add $600 and $950: $600 + $950 = $1550.",
+    "Next, add $1550 and $1250: $1550 + $1250 = $2800."
+  ],
+  "solution": "2800"
+}

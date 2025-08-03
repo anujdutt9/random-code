@@ -1,0 +1,14 @@
+{
+  "query": "A firefighter is paid $30 per hour for a 48-hour workweek. He pays 1/3 of the money on rent and $500 on food and $1000 on taxes per month. Calculate the total amount of money the firefighter has after paying his monthly expenses.",
+  "steps": [
+    "First, I need to calculate the firefighter's weekly earnings. He is paid $30 per hour and works 48 hours per week.",
+    "To find the weekly earnings, I multiply the hourly rate by the number of hours worked in a week: $30/hour * 48 hours/week = $1440/week.",
+    "Next, I need to find the firefighter's monthly earnings. Since there are about 4 weeks in a month, I\u2019ll multiply the weekly earnings by 4: $1440/week * 4 weeks = $5760/month.",
+    "Now, I calculate how much he spends on rent. He pays 1/3 of his monthly earnings on rent: 1/3 * $5760 = $1920 for rent.",
+    "He also pays $500 on food per month.",
+    "And he pays $1000 on taxes per month.",
+    "Now I calculate the total monthly expenses by adding rent, food, and taxes: $1920 (rent) + $500 (food) + $1000 (taxes) = $3420.",
+    "To find out how much money he has left after expenses, I subtract the total expenses from the monthly earnings: $5760 (earnings) - $3420 (expenses) = $2340."
+  ],
+  "solution": "2340"
+}

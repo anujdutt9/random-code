@@ -1,0 +1,12 @@
+{
+  "query": "John receives $100 from his uncle and gives his sister Jenna 1/4 of that money. He goes and buys groceries worth $40. How much money does John have remaining?",
+  "steps": [
+    "John receives $100 from his uncle.",
+    "John gives his sister Jenna 1/4 of the $100.",
+    "1/4 of $100 is calculated as $100 / 4 = $25.",
+    "After giving $25 to Jenna, John has $100 - $25 = $75 remaining.",
+    "John then buys groceries worth $40.",
+    "After spending $40 on groceries, the remaining money John has is $75 - $40 = $35."
+  ],
+  "solution": "35"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "John buys 1000 balloons.  Each balloon holds 10 liters of air.  If he buys 500-liter tanks of gas, how many tanks does he need to buy to fill all the balloons?",
+  "steps": [
+    "First, I need to determine the total volume of air required to fill all the balloons.",
+    "Each balloon holds 10 liters of air.",
+    "John has 1000 balloons.",
+    "To find the total volume, multiply the number of balloons by the volume one balloon holds: 1000 balloons * 10 liters/balloon.",
+    "This results in a total of 10,000 liters of air needed.",
+    "Next, I need to see how many tanks are required based on the total air volume needed.",
+    "Each tank has a capacity of 500 liters.",
+    "To find the number of tanks required, divide the total volume of air needed by the volume of one tank: 10,000 liters / 500 liters/tank.",
+    "The division results in 20.",
+    "Therefore, John needs to buy 20 tanks to fill all the balloons."
+  ],
+  "solution": "20"
+}

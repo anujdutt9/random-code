@@ -1,0 +1,13 @@
+{
+  "query": "The ratio of cows to bulls in a barn is 10:27. If there are 555 cattle on the farm, how many bulls are on the farm?",
+  "steps": [
+    "First, identify what the ratio 10:27 represents. It represents cows:bulls.",
+    "The total ratio parts can be calculated by adding the ratio parts for cows and bulls together: 10 (cows) + 27 (bulls) = 37 parts.",
+    "If there are 555 cattle on the farm, these 555 cattle correspond to the 37 parts of the ratio.",
+    "Next, we need to determine how many cattle one part of the ratio represents. This is calculated using the total number of cattle divided by the total number of parts: \\( \\frac{555}{37} \\).",
+    "Dividing, \\( 555 \\div 37 = 15 \\). Thus, each part of the ratio represents 15 cattle.",
+    "Now, to determine the number of bulls, we need to multiply the number of parts associated with bulls (27) by the number of cattle per part (15).",
+    "Calculate the number of bulls: \\( 27 \\times 15 = 405 \\)."
+  ],
+  "solution": "405"
+}

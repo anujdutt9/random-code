@@ -1,0 +1,14 @@
+{
+  "query": "Kwame studied for the history test for 2.5 hours. Connor studied for 1.5 hours and Lexia studied for 97 minutes. How many minutes more did Kwame and Connor study than Lexia?",
+  "steps": [
+    "I need to convert all times to the same unit. In this case, it is easier to convert hours to minutes.",
+    "Kwame studied for 2.5 hours. To convert hours to minutes, I multiply by 60, so 2.5 hours * 60 minutes/hour = 150 minutes.",
+    "Connor studied for 1.5 hours. Similarly, I convert this to minutes: 1.5 hours * 60 minutes/hour = 90 minutes.",
+    "Kwame and Connor together studied 150 minutes + 90 minutes.",
+    "150 minutes + 90 minutes = 240 minutes.",
+    "Lexia studied for 97 minutes.",
+    "To find how many minutes more Kwame and Connor studied than Lexia, I subtract Lexia's study time from the total time Kwame and Connor studied.",
+    "240 minutes - 97 minutes = 143 minutes."
+  ],
+  "solution": "143"
+}

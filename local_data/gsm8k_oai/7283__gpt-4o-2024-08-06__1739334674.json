@@ -1,0 +1,15 @@
+{
+  "query": "A farmer plants his vegetables in neat rows. He has 64 bean seedlings and plants 8 seedlings in a row. He also has 84 pumpkin seeds and plants 7 seeds in a row. Recently, he planted 48 radishes with 6 radishes in a row. If the farmer plants two rows per plant bed, how many plant beds did he have for all his plants?",
+  "steps": [
+    "First, I need to determine how many rows of bean seedlings the farmer has.",
+    "I divide the total number of bean seedlings by the number of seedlings per row: 64 \u00f7 8 = 8 rows.",
+    "Next, I need to find out how many rows of pumpkin seeds the farmer has.",
+    "I divide the total number of pumpkin seeds by the number of seeds per row: 84 \u00f7 7 = 12 rows.",
+    "Then, I calculate how many rows of radishes the farmer has.",
+    "I divide the total number of radishes by the number of radishes per row: 48 \u00f7 6 = 8 rows.",
+    "Now I have the total number of rows for all plants: 8 (beans) + 12 (pumpkins) + 8 (radishes) = 28 rows.",
+    "Since the farmer plants two rows per plant bed, I need to divide the total number of rows by 2.",
+    "28 rows \u00f7 2 rows per plant bed = 14 plant beds."
+  ],
+  "solution": "14"
+}

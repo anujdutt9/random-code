@@ -1,0 +1,25 @@
+{
+  "query": "Mobius is the fastest mule in Italy.  She can run at a top speed of 13 miles per hour when she is without any load to carry, and she can travel at 11 miles per hour as her top speed when she carries a typical load.  If she travels the 143 miles from Florence, Italy to Rome, Italy at top speed while carrying a typical load, then returns to Florence at her usual top speed without carrying a load, how long, in hours, will the trip take if she takes two 30-minute rest stops during each half of the trip?",
+  "steps": [
+    "First, I need to calculate the time it takes for Mobius to travel from Florence to Rome with a load.",
+    "She travels 143 miles at a speed of 11 miles per hour while carrying a load.",
+    "Time is calculated using the formula: time = distance / speed.",
+    "For the trip from Florence to Rome: time = 143 miles / 11 mph.",
+    "143 divided by 11 equals 13 (with a remainder), so the calculated time is approximately 13 hours.",
+    "Now, I need to consider the two 30-minute rest stops during this half of the trip.",
+    "Two 30-minute rest stops add up to 1 hour of rest.",
+    "So the total travel time from Florence to Rome is 13 hours + 1 hour of rest = 14 hours.",
+    "Next, I need to calculate the time it takes for Mobius to return from Rome to Florence without carrying a load.",
+    "She travels 143 miles at a speed of 13 miles per hour without a load.",
+    "Again, using the formula: time = distance / speed.",
+    "For the trip from Rome to Florence: time = 143 miles / 13 mph.",
+    "143 divided by 13 is approximately 11 hours.",
+    "Now, consider the two 30-minute rest stops during this half of the trip as well.",
+    "Two 30-minute rest stops add up to 1 hour of rest.",
+    "So the total travel time from Rome to Florence is 11 hours + 1 hour of rest = 12 hours.",
+    "Now, I need to add the travel times for both halves of the trip.",
+    "The trip from Florence to Rome takes 14 hours, and the return trip takes 12 hours.",
+    "Adding these times together, the total round trip takes 14 hours + 12 hours = 26 hours."
+  ],
+  "solution": "26"
+}

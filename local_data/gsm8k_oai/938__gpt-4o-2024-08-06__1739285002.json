@@ -1,0 +1,13 @@
+{
+  "query": "Joe plays a soccer tournament with his team. Matches won score 3 points for the winning team and tied matches score 1 point for both teams. Joe and his team won 1 game and drew 3. The first-place team has won 2 games and tied 2. By how many points did the first-place team beat Joe's team?",
+  "steps": [
+    "First, I will calculate the total points Joe's team earned. Joe's team won 1 game, which gives them 3 points.",
+    "Joe's team also drew 3 matches. Each draw gives 1 point, so 3 draws give 3 points.",
+    "Adding these points together, Joe's team has 3 + 3 = 6 points.",
+    "Now, I will calculate the total points the first-place team earned. They won 2 games, which gives them 2 * 3 = 6 points.",
+    "The first-place team also drew 2 matches. Each draw gives 1 point, so 2 draws give 2 points.",
+    "Adding these points together, the first-place team has 6 + 2 = 8 points.",
+    "The difference in points between the first-place team and Joe's team is 8 - 6 = 2 points."
+  ],
+  "solution": "2"
+}

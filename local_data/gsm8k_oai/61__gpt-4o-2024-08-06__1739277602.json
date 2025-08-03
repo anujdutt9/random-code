@@ -1,0 +1,16 @@
+{
+  "query": "A bear is preparing to hibernate for the winter and needs to gain 1000 pounds. At the end of summer, the bear feasts on berries and small woodland animals. During autumn, it devours acorns and salmon. It gained a fifth of the weight it needed from berries during summer, and during autumn, it gained twice that amount from acorns. Salmon made up half of the remaining weight it had needed to gain. How many pounds did it gain eating small animals?",
+  "steps": [
+    "The bear needs to gain a total of 1000 pounds.",
+    "The bear gained one fifth of its needed weight from berries. One fifth of 1000 pounds is 1000 / 5 = 200 pounds.",
+    "Thus, the bear gained 200 pounds from berries.",
+    "From the problem, we know the bear gained twice the amount it gained from berries from acorns. Therefore, it gained 2 * 200 = 400 pounds from acorns.",
+    "The weight gained so far from berries and acorns is 200 + 400 = 600 pounds.",
+    "In total, the bear needed to gain 1000 pounds, and it has already gained 600 pounds. So, the remaining weight to gain is 1000 - 600 = 400 pounds.",
+    "The problem states that salmon made up half of the remaining weight it needed to gain. Half of the remaining 400 pounds is 400 / 2 = 200 pounds.",
+    "Thus, the bear gained 200 pounds from salmon.",
+    "Now we know the contributions from berries (200 pounds), acorns (400 pounds), and salmon (200 pounds). The sum of these is 200 + 400 + 200 = 800 pounds.",
+    "To find out how many pounds the bear gained from small animals, we subtract the pounds gained from berries, acorns, and salmon from the total 1000 pounds: 1000 - 800 = 200 pounds."
+  ],
+  "solution": "200"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Bryan works as a social media account manager. He does marketing posts, advertisement posts, and customer outreach posts. His client has him spend four hours on customer outreach posts and half that time on advertisement posts each day. Bryan works eight hours a day. How much time in hours each day does he spend on marketing posts?",
+  "steps": [
+    "I know that Bryan works eight hours a day in total.",
+    "I know that Bryan spends four hours each day on customer outreach posts.",
+    "I need to find out how much time he spends on advertisement posts.",
+    "Bryan spends half the time on advertisement posts as he does on customer outreach posts.",
+    "He spends four hours on customer outreach, so he spends 4 hours / 2 = 2 hours on advertisement posts.",
+    "Now, I need to find out how much time Bryan spends on marketing posts.",
+    "He works eight hours a day in total. Out of this time, he spends four hours on customer outreach and two hours on advertisement posts.",
+    "So, the time he spends on marketing posts is 8 hours - 4 hours - 2 hours.",
+    "Calculating that, it is 8 - 4 - 2 = 2 hours."
+  ],
+  "solution": "2"
+}

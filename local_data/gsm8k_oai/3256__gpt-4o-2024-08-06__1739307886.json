@@ -1,0 +1,14 @@
+{
+  "query": "Bert made 12 sandwiches for his trip. On the first day, he ate half of the sandwiches he made. The next day he ate 2 sandwiches less. How many sandwiches does Bert have left after these two days?",
+  "steps": [
+    "Bert made 12 sandwiches initially.",
+    "On the first day, Bert ate half of 12 sandwiches.",
+    "Half of 12 is calculated as 12 / 2 = 6 sandwiches.",
+    "So, Bert ate 6 sandwiches on the first day.",
+    "The number of sandwiches left after the first day is 12 - 6 = 6 sandwiches.",
+    "On the second day, Bert ate 2 sandwiches less than the 6 he ate on the first day.",
+    "So, Bert ate 6 - 2 = 4 sandwiches on the second day.",
+    "The number of sandwiches left after the second day is 6 - 4 = 2 sandwiches."
+  ],
+  "solution": "2"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Eric, Ben, and Jack have some money. Eric has $10 less than Ben, and Ben has $9 less than Jack. If Jack has $26, how much money, in dollars, do all 3 of them have in total?",
+  "steps": [
+    "First, I need to establish how much money each person has based on the information provided.",
+    "I know Jack has $26.",
+    "Ben has $9 less than Jack, so I need to subtract $9 from Jack's $26.",
+    "$26 - $9 equals $17. So Ben has $17.",
+    "Eric has $10 less than Ben. Therefore, I need to subtract $10 from Ben's $17.",
+    "$17 - $10 equals $7. So Eric has $7.",
+    "Now, I need to calculate the total amount of money all three of them have.",
+    "To find the total, I add Eric's, Ben's, and Jack's amounts together.",
+    "Eric has $7, Ben has $17, and Jack has $26.",
+    "Adding them together gives: $7 + $17 + $26.",
+    "$7 + $17 equals $24.",
+    "Then, $24 + $26 equals $50."
+  ],
+  "solution": "50"
+}

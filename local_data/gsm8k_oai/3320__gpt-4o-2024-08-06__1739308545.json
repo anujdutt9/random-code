@@ -1,0 +1,15 @@
+{
+  "query": "Pauline has a garden with vegetables. In it, Pauline has planted 3 kinds of tomatoes - 5 of each kind, 5 kinds of cucumbers - 4 of each kind, and 30 potatoes. In the whole garden, there are 10 rows with 15 spaces in each to plant any vegetable. How many more vegetables could Pauline plant in her garden?",
+  "steps": [
+    "First, I need to determine how many total spaces are available in the garden. There are 10 rows with 15 spaces each.",
+    "I multiply the number of rows by the number of spaces per row: 10 rows * 15 spaces = 150 spaces in total.",
+    "Next, I'll calculate how many vegetables Pauline currently has in the garden.",
+    "Pauline has 3 kinds of tomatoes, with 5 of each kind. I multiply these: 3 * 5 = 15 tomatoes.",
+    "Pauline also has 5 kinds of cucumbers, with 4 of each kind. I multiply these: 5 * 4 = 20 cucumbers.",
+    "Additionally, Pauline has 30 potatoes.",
+    "Now, I sum up all the vegetables she currently has: 15 tomatoes + 20 cucumbers + 30 potatoes = 65 vegetables.",
+    "To find out how many more vegetables could be planted, I'll subtract the number of vegetables currently planted from the total number of spaces.",
+    "Subtracting the current vegetables from the total spaces gives: 150 total spaces - 65 current vegetables = 85 more vegetables that could be planted."
+  ],
+  "solution": "85"
+}

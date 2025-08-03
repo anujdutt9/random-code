@@ -1,0 +1,17 @@
+{
+  "query": "A smartphone seller is offering a discount of 5% off for customers who buy at least 2 smartphones at once. Melinda, Zoe and Joel want to buy an iPhone X each. If an iPhone X costs $600, how much can they save by pooling their money together and buying three iPhones at once from this seller rather than buying individually?",
+  "steps": [
+    "First, I need to determine the cost of one iPhone X without any discount. It is given as $600.",
+    "Each person buying an iPhone X individually would pay $600. So, if Melinda, Zoe, and Joel each buy one separately, the total cost would be 3 times $600.",
+    "Calculating the total cost without a discount: \\(3 \\times 600 = 1800\\).",
+    "Now, let's consider the scenario where they pool their money together to purchase the iPhones. The seller offers a 5% discount for buying at least two smartphones at once.",
+    "With a 5% discount, the cost of buying three iPhones together would be 95% of the original total cost.",
+    "To calculate 95% of the original total cost: \\(1800 \\times 0.95\\).",
+    "Calculating: \\(1800 \\times 0.95 = 1710\\).",
+    "The total cost with the 5% discount is $1710.",
+    "Now, I find out how much they save by comparing the total costs with and without the discount.",
+    "The original total cost without the discount is $1800. The discounted total cost is $1710.",
+    "The savings would be the difference: \\(1800 - 1710 = 90\\)."
+  ],
+  "solution": "90"
+}

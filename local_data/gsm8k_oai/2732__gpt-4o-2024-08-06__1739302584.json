@@ -1,0 +1,21 @@
+{
+  "query": "A baker bakes 5 loaves of bread an hour in one oven. He has 4 ovens. From Monday to Friday, he bakes for 5 hours, but on Saturday and Sunday, he only bakes for 2 hours. How many loaves of bread does the baker bake in 3 weeks?",
+  "steps": [
+    "First, I need to calculate how many loaves of bread the baker bakes in one oven in one hour. It is given as 5 loaves per hour.",
+    "Next, I need to find out how many loaves he can bake in all his ovens in one hour. Since he has 4 ovens, that would be 5 loaves per hour per oven multiplied by 4 ovens.",
+    "5 loaves per hour per oven times 4 ovens equals 20 loaves per hour in total.",
+    "Now, I'll calculate how many loaves he bakes on weekdays (Monday to Friday), where he bakes for 5 hours each day.",
+    "He bakes 20 loaves per hour, so in 5 hours on a weekday, he bakes 20 times 5 loaves.",
+    "20 times 5 equals 100 loaves per weekday.",
+    "Since there are 5 weekdays, he bakes 100 loaves per day times 5 days, which equals 500 loaves in one week from Monday to Friday.",
+    "Next, I'll calculate how many loaves he bakes on the weekends (Saturday and Sunday), where he bakes for 2 hours each day.",
+    "He bakes 20 loaves per hour, so in 2 hours on a weekend day, he bakes 20 times 2 loaves.",
+    "20 times 2 equals 40 loaves per day on each weekend day.",
+    "Since there are 2 weekend days, he bakes 40 loaves per day times 2 days, which equals 80 loaves in one week from Saturday to Sunday.",
+    "Now I need to add the loaves baked on weekdays and weekends to get the total loaves baked in one week.",
+    "500 loaves from weekdays plus 80 loaves from the weekend equals 580 loaves in one week.",
+    "Finally, I multiply the weekly total by 3 to find out how many loaves he bakes in 3 weeks.",
+    "580 loaves per week multiplied by 3 weeks equals 1740 loaves."
+  ],
+  "solution": "1740"
+}

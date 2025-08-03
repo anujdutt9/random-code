@@ -1,0 +1,21 @@
+{
+  "query": "Rodney is a door-to-door salesman trying to sell home security systems. He gets a commission of $25 for each system he sells. He is canvassing a neighborhood of four streets with eight houses each. The first street gave him half the sales that the second street did, while every house on the third street turned him away and the fourth street resulted in only one sale. His total commission was $175. How many security systems did he sell on the second street?",
+  "steps": [
+    "First, I need to determine how many security systems Rodney sold in total given his commission.",
+    "Rodney's total commission is $175, and he earns $25 per system sold.",
+    "To find the total number of systems sold, I divide the total commission by the commission per system: $175 / $25.",
+    "$175 divided by $25 equals 7 systems sold in total.",
+    "Now, I'll identify how many systems he sold on each street.",
+    "The third street gave him zero sales since every house turned him away.",
+    "On the fourth street, he sold one system.",
+    "Therefore, 7 systems minus 1 system from the fourth street equals 6 systems left to account for.",
+    "The first street gave him half the sales of the second street. Let's denote the number sold on the second street as x. Therefore, on the first street, he sold x/2 systems.",
+    "The systems sold on the first and second streets add up to the remaining sales: x/2 + x = 6.",
+    "Combine the terms: (0.5)x + x = 6.",
+    "This simplifies to 1.5x = 6.",
+    "To solve for x, I need to divide both sides by 1.5.",
+    "6 divided by 1.5 equals 4.",
+    "Thus, Rodney sold 4 systems on the second street."
+  ],
+  "solution": "4"
+}

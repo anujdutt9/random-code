@@ -1,0 +1,15 @@
+{
+  "query": "There are 8 loads of laundry that need to be washed. Each load of laundry takes around 45 minutes to complete in the wash cycle and 1 hour in the dry cycle. How long, in hours, will it take to complete the entire set of laundry?",
+  "steps": [
+    "I have 8 loads of laundry to wash and dry.",
+    "Each load takes 45 minutes to complete the wash cycle.",
+    "Each load also takes 1 hour to complete the dry cycle.",
+    "I first consider how long it takes to wash and dry one single load.",
+    "45 minutes for the wash cycle is 0.75 hours.",
+    "Adding the dry cycle of 1 hour to 0.75 hours for washing, I get 1.75 hours for one load.",
+    "I need to do this for each of the 8 loads separately.",
+    "Multiply 1.75 hours by 8 loads to get the total time for all loads.",
+    "1.75 hours times 8 equals 14 hours."
+  ],
+  "solution": "14"
+}

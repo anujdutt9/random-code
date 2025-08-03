@@ -1,0 +1,19 @@
+{
+  "query": "Pete and Raymond each receive $2.50 from their grandmother. Pete saves his money and only spends 4 nickels. Raymond spends his money at the arcade games but still has 7 dimes left. How much did Pete and Raymond spent altogether, in cents?",
+  "steps": [
+    "Pete receives $2.50 and spends 4 nickels.",
+    "Each nickel is worth 5 cents.",
+    "Pete spends 4 nickels \u00d7 5 cents/nickel = 20 cents.",
+    "Raymond receives $2.50.",
+    "1 dollar is equal to 100 cents, so $2.50 is 250 cents.",
+    "Raymond has 7 dimes left.",
+    "Each dime is worth 10 cents.",
+    "Raymond's remaining dimes are worth 7 dimes \u00d7 10 cents/dime = 70 cents.",
+    "Raymond initially had 250 cents and now has 70 cents left.",
+    "Raymond spent 250 cents - 70 cents = 180 cents.",
+    "To find how much Pete and Raymond spent altogether, we add the amount each spent.",
+    "Pete spent 20 cents and Raymond spent 180 cents.",
+    "The total spent is 20 cents + 180 cents = 200 cents."
+  ],
+  "solution": "200"
+}

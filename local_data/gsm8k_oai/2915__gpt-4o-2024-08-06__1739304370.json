@@ -1,0 +1,18 @@
+{
+  "query": "Adam and Tom are brothers. Adam is 8 years old and Tom is 12 years old. In how many years will their combined age be 44 years old?",
+  "steps": [
+    "Adam is currently 8 years old.",
+    "Tom is currently 12 years old.",
+    "Their current combined age is 8 + 12 = 20 years.",
+    "I need to figure out how many more years it will take for their combined age to be 44 years.",
+    "Let the number of years needed be x.",
+    "In x years, Adam will be 8 + x years old, and Tom will be 12 + x years old.",
+    "Their combined age in x years will be (8 + x) + (12 + x) = 20 + 2x years.",
+    "I need to set up the equation 20 + 2x = 44 to find x.",
+    "20 + 2x = 44",
+    "Subtract 20 from both sides of the equation: 2x = 24.",
+    "Divide both sides by 2: x = 12.",
+    "It will take 12 years for their combined age to be 44 years."
+  ],
+  "solution": "12"
+}

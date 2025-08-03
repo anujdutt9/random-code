@@ -1,0 +1,17 @@
+{
+  "query": "Barry has $10.00 worth of dimes.  His little brother, Dan has half that amount but finds 2 more dimes on his way home from school.  How many dimes does Dan have?",
+  "steps": [
+    "Barry has $10.00 worth of dimes.",
+    "The value of one dime is $0.10.",
+    "To find out how many dimes Barry has, divide $10.00 by $0.10.",
+    "$10.00 \u00f7 $0.10 = 100 dimes.",
+    "Therefore, Barry has 100 dimes.",
+    "Dan has half the amount of dimes that Barry has, originally.",
+    "Half of 100 dimes is 100 \u00f7 2 = 50 dimes.",
+    "Dan starts with 50 dimes.",
+    "Dan finds 2 more dimes on his way home.",
+    "Add the 2 additional dimes to Dan's original 50 dimes.",
+    "50 dimes + 2 dimes = 52 dimes."
+  ],
+  "solution": "52"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "There are one-third as many Ford trucks as Dodge trucks in the parking lot of the Taco Castle.  But there are twice as many Ford trucks as Toyota trucks in this parking lot, and there are half as many Volkswagen Bugs as there are Toyota trucks in this same parking lot.  If there are 5 Volkswagon Bugs in the parking lot, how many Dodge trucks are in the parking lot of the Taco Castle?",
+  "steps": [
+    "The problem states that there are 5 Volkswagen Bugs in the parking lot.",
+    "According to the problem, there are half as many Volkswagen Bugs as there are Toyota trucks.",
+    "Therefore, if there are 5 Volkswagen Bugs, there must be 5 * 2 = 10 Toyota trucks.",
+    "It is given that there are twice as many Ford trucks as Toyota trucks.",
+    "So, the number of Ford trucks is 2 * 10 = 20.",
+    "The problem also states that there are one-third as many Ford trucks as Dodge trucks.",
+    "Therefore, the number of Dodge trucks is 3 times the number of Ford trucks.",
+    "Dodge trucks = 3 * 20 = 60."
+  ],
+  "solution": "60"
+}

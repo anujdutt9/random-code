@@ -1,0 +1,18 @@
+{
+  "query": "In a factory, there are 3 machines working 23 hours a day. The owner decided to buy a fourth machine, which works only 12 hours a day. One machine can produce 2 kg of material every hour. The factory sells the produced material for $50 per 1 kg. How much can this factory earn in one day?",
+  "steps": [
+    "First, I need to determine how much material each machine produces in one hour.",
+    "Each machine produces 2 kg of material per hour.",
+    "Now, calculate the production of the 3 machines that work 23 hours a day.",
+    "Each of these 3 machines produces 23 hours * 2 kg/hour = 46 kg/day.",
+    "So, the total production for the 3 machines is 3 machines * 46 kg/machine = 138 kg/day.",
+    "Now, consider the fourth machine that works only 12 hours a day.",
+    "The fourth machine produces 12 hours * 2 kg/hour = 24 kg/day.",
+    "Add the production of the fourth machine to the total production of the first three machines.",
+    "Total production in one day is 138 kg + 24 kg = 162 kg.",
+    "Now, calculate the total earnings by selling the produced material.",
+    "The factory sells the material for $50 per kg.",
+    "The earnings for one day are 162 kg * $50/kg = $8,100."
+  ],
+  "solution": "8100"
+}

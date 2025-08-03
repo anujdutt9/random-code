@@ -1,0 +1,19 @@
+{
+  "query": "Bryan starts exercising at home during quarantine. To start, he decides to do 3 sets of 15 push-ups each. Near the end of the third set, he gets tired and does 5 fewer push-ups. How many push-ups did he do in total?",
+  "steps": [
+    "Bryan plans to do 3 sets of push-ups.",
+    "Each set is supposed to have 15 push-ups.",
+    "I will calculate the total number of push-ups he would do if he completed all the sets as planned.",
+    "3 sets \u00d7 15 push-ups per set = 45 push-ups.",
+    "However, Bryan did 5 fewer push-ups in the third set.",
+    "5 fewer push-ups in the third set means he did 15 - 5 = 10 push-ups in the third set.",
+    "To find the total, I add up all the push-ups he did across the sets.",
+    "He completed 15 push-ups in the first set.",
+    "He completed 15 push-ups in the second set.",
+    "He completed 10 push-ups in the third set.",
+    "Adding up, the total is: 15 + 15 + 10.",
+    "15 + 15 = 30.",
+    "30 + 10 = 40."
+  ],
+  "solution": "40"
+}

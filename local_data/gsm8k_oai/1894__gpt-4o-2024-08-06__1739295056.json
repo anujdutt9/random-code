@@ -1,0 +1,21 @@
+{
+  "query": "Charlotte is a dog walker and is creating a schedule for all of her clients this week. Each dog is walked separately. On Monday, she needs to walk 4 poodles and 2 Chihuahuas. On Tuesday, she walks the same amount of Chihuahuas but isn't sure how many poodles she should walk. On Wednesday, she walks 4 Labradors. It takes 2 hours to walk a poodle, 1 hour to walk a Chihuahua, and 3 hours to walk a Labrador. If she has time for a total of 32 hours spent in dog-walking this week, how many poodles can Charlotte walk on Tuesday?",
+  "steps": [
+    "First, I need to calculate the total hours Charlotte spends walking the dogs on Monday.",
+    "On Monday, she walks 4 poodles. Each poodle walk takes 2 hours, so poodle walks total 4 * 2 = 8 hours.",
+    "She also walks 2 Chihuahuas on Monday. Each Chihuahua walk takes 1 hour, so Chihuahua walks total 2 * 1 = 2 hours.",
+    "Thus, on Monday, Charlotte spends 8 hours (poodles) + 2 hours (Chihuahuas) = 10 hours walking dogs.",
+    "Next, I calculate the total hours she spends walking dogs on Wednesday.",
+    "On Wednesday, she walks 4 Labradors. Each Labrador walk takes 3 hours, so Labrador walks total 4 * 3 = 12 hours.",
+    "Now, I add up the total hours spent walking on both Monday and Wednesday.",
+    "On Monday, she spends 10 hours walking dogs, and on Wednesday, she spends 12 hours, totaling 10 + 12 = 22 hours.",
+    "I have determined that Charlotte has a total of 32 hours available for dog-walking throughout the week.",
+    "Since she already spends 22 hours on Monday and Wednesday, I subtract this from her total available hours to find out how many hours are left for Tuesday.",
+    "32 total hours - 22 hours (already spent) = 10 hours available for Tuesday.",
+    "On Tuesday, Charlotte walks 2 Chihuahuas. Each walk takes 1 hour, so this takes 2 * 1 = 2 hours.",
+    "Subtracting the Chihuahua walking time from the available time on Tuesday gives us the hours that can be spent walking poodles.",
+    "10 available hours - 2 hours for Chihuahuas = 8 hours available for poodles on Tuesday.",
+    "Each poodle walk takes 2 hours, so with 8 available hours, the number of poodles she can walk is 8 / 2 = 4 poodles."
+  ],
+  "solution": "4"
+}

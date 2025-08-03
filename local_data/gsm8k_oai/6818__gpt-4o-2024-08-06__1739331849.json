@@ -1,0 +1,14 @@
+{
+  "query": "1 chocolate bar costs $1.50 and can be broken into 3 sections to make 3 s'mores.  Ron is hosting a boy scout camp out in his backyard for 15 scouts.  He wants to make sure that there are enough chocolate bars for everyone to have 2 s'mores each.  How much will he spend on chocolate bars?",
+  "steps": [
+    "First, we need to determine the total number of s'mores needed.",
+    "There are 15 scouts, and each will have 2 s'mores, so we need to calculate 15 \u00d7 2.",
+    "15 \u00d7 2 = 30, so Ron needs to make 30 s'mores.",
+    "Each chocolate bar can be broken into 3 sections, which can make 3 s'mores. Therefore, we need to determine how many chocolate bars are required to make 30 s'mores.",
+    "To find this, we divide the total number of s'mores by the number of s'mores that can be made per chocolate bar: 30 \u00f7 3.",
+    "30 \u00f7 3 = 10, so Ron needs 10 chocolate bars.",
+    "Each chocolate bar costs $1.50. To find out the total amount Ron will spend, we need to multiply the number of chocolate bars by the cost per bar: 10 \u00d7 1.50.",
+    "10 \u00d7 1.50 = 15. Therefore, Ron will spend $15 on chocolate bars."
+  ],
+  "solution": "15"
+}

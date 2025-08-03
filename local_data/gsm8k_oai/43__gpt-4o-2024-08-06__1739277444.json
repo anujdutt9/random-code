@@ -1,0 +1,16 @@
+{
+  "query": "An earthquake caused four buildings to collapse. Experts predicted that each following earthquake would have double the number of collapsing buildings as the previous one, since each one would make the foundations less stable. After three more earthquakes, how many buildings had collapsed including those from the first earthquake?",
+  "steps": [
+    "The first earthquake caused 4 buildings to collapse.",
+    "The experts predict that each subsequent earthquake will cause double the number of buildings to collapse compared to the previous one.",
+    "The second earthquake will cause 4 * 2 = 8 buildings to collapse.",
+    "The third earthquake will cause 8 * 2 = 16 buildings to collapse.",
+    "The fourth earthquake will cause 16 * 2 = 32 buildings to collapse.",
+    "Now, I need to add together the number of buildings that collapsed in each earthquake to find the total.",
+    "The total number of collapsed buildings is 4 (first earthquake) + 8 (second earthquake) + 16 (third earthquake) + 32 (fourth earthquake).",
+    "4 + 8 = 12",
+    "12 + 16 = 28",
+    "28 + 32 = 60"
+  ],
+  "solution": "60"
+}

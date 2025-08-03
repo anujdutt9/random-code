@@ -1,0 +1,12 @@
+{
+  "query": "James prints out 2 books.  They are each 600 pages long.  He prints out double-sided and 4 pages per side.  How many sheets of paper does he use?",
+  "steps": [
+    "First, I need to determine the total number of pages James has printed. He printed 2 books, each with 600 pages.",
+    "I calculate the total pages by multiplying the number of pages in one book by the number of books: 600 pages/book * 2 books = 1200 pages.",
+    "James prints double-sided. Each sheet of paper can have contents printed on both sides, so I need to know how many pages fit on one side.",
+    "He prints 4 pages per side of each sheet, which means there are 8 pages per sheet when printed double-sided.",
+    "To find out how many sheets are required, I divide the total number of pages by the number of pages per sheet: 1200 pages / 8 pages/sheet.",
+    "Now I divide: 1200 / 8 = 150 sheets."
+  ],
+  "solution": "150"
+}

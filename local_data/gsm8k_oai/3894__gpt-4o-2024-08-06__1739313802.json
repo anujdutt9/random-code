@@ -1,0 +1,17 @@
+{
+  "query": "Tony drives a car that gets 25 miles to the gallon.  He drives 50 miles round trip to work 5 days a week.  His tank holds 10 gallons.  He begins the week with a full tank and when he runs out he fills up at the local gas station for $2 a gallon.  How much money does Tony spend on gas in 4 weeks?",
+  "steps": [
+    "First, I need to calculate how many miles Tony drives in one week.",
+    "Tony drives 50 miles for a round trip to work and makes this trip 5 days a week.",
+    "Therefore, in one week, Tony drives 50 miles x 5 days = 250 miles.",
+    "Next, I need to figure out how many gallons of gas Tony uses in one week.",
+    "Tony's car gets 25 miles per gallon. Therefore, he uses 250 miles / 25 miles per gallon = 10 gallons of gas per week.",
+    "Tony's tank holds 10 gallons, and he starts the week with a full tank.",
+    "Since he uses 10 gallons in a week, he will need to refill once a week.",
+    "Now, I need to calculate how much Tony spends on gas each week.",
+    "Gas costs $2 per gallon, and Tony needs 10 gallons per week, so he spends 10 gallons x $2 per gallon = $20 per week.",
+    "To find out how much he spends in 4 weeks, I multiply his weekly cost by 4.",
+    "Therefore, in 4 weeks, Tony spends $20 x 4 weeks = $80 on gas."
+  ],
+  "solution": "80"
+}

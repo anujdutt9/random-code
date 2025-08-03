@@ -1,0 +1,15 @@
+{
+  "query": "Carlton wears an assortment of sweater vests and button-up shirts. He has twice as many sweater vests as button-up shirts and considers each unique combination of vest and shirt to be an outfit. He owns three button-up shirts. How many outfits does Carlton have?",
+  "steps": [
+    "Carlton owns three button-up shirts.",
+    "He has twice as many sweater vests as button-up shirts.",
+    "Since twice as many means two times three, Carlton has 2 * 3 sweater vests.",
+    "Carlton has 6 sweater vests.",
+    "For each shirt, he can wear any of the 6 sweater vests to form an outfit.",
+    "Each shirt can be combined with 6 different sweater vests.",
+    "So, the total number of combinations (outfits) is 3 shirts * 6 sweater vests.",
+    "Calculate 3 * 6 to find the total number of outfits.",
+    "3 * 6 equals 18."
+  ],
+  "solution": "18"
+}

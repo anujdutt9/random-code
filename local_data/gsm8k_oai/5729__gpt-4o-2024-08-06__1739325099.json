@@ -1,0 +1,19 @@
+{
+  "query": "Milly is making feather boas for her dance team. Each flamingo has 20 tail feathers, and it's only safe to pluck 25% of their tail feathers at one time. If Milly needs to make 12 boas, and each boa has 200 feathers, how many flamingoes does she need to harvest?",
+  "steps": [
+    "First, I will determine how many feathers Milly needs in total for the 12 boas.",
+    "Each boa requires 200 feathers. Milly needs to make 12 boas.",
+    "Total feathers needed = 200 feathers/boa * 12 boas",
+    "Total feathers needed = 2400 feathers",
+    "Now, I'll figure out how many feathers can be safely plucked from one flamingo.",
+    "Each flamingo has 20 tail feathers.",
+    "It's safe to pluck 25% of their tail feathers.",
+    "Feathers that can be safely plucked per flamingo = 20 feathers * 0.25",
+    "Feathers that can be safely plucked per flamingo = 5 feathers",
+    "Next, I'll determine how many flamingoes are needed to provide the 2400 feathers.",
+    "Number of flamingoes needed = Total feathers needed / Feathers per flamingo",
+    "Number of flamingoes needed = 2400 feathers / 5 feathers/flamingo",
+    "Number of flamingoes needed = 480 flamingoes"
+  ],
+  "solution": "480"
+}

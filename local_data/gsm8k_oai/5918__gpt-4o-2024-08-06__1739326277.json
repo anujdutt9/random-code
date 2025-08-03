@@ -1,0 +1,18 @@
+{
+  "query": "Jo-Bob hopped into the hot air balloon, released the anchor rope, and pulled on the lift chain, which ignited the flame and provided the warm air that caused the balloon to rise.  When the lift chain was pulled, the balloon would rise at a rate of 50 feet per minute.  But when the chain was not being pulled, the balloon would slowly descend at a rate of 10 feet per minute.  During his balloon ride, he pulled the chain for 15 minutes, then released the rope for 10 minutes, then pulled the chain for another 15 minutes, and finally released the chain and allowed the balloon to slowly descend back to the earth.  During his balloon ride, what was the highest elevation reached by the balloon?",
+  "steps": [
+    "To find out the highest elevation reached, I need to determine how far the balloon ascended when Jo-Bob pulled the chain.",
+    "First, consider the period when Jo-Bob pulled the chain for 15 minutes the first time.",
+    "At a rate of 50 feet per minute, for 15 minutes of pulling the chain, the balloon rises 50 feet/minute * 15 minutes = 750 feet.",
+    "Next, consider the 10 minutes when the chain was not pulled and the balloon began to descend.",
+    "The balloon descends at a rate of 10 feet per minute during this period.",
+    "In 10 minutes, the balloon descends 10 feet/minute * 10 minutes = 100 feet.",
+    "Subtract the descent from the previous ascent to find the new elevation: 750 feet - 100 feet = 650 feet.",
+    "Jo-Bob then pulled the chain again for another 15 minutes.",
+    "During this time, the balloon again rose at a rate of 50 feet per minute for 15 minutes.",
+    "This results in an additional ascent of 50 feet/minute * 15 minutes = 750 feet.",
+    "To find the total elevation at the peak, add this additional rise to the current elevation: 650 feet + 750 feet = 1400 feet.",
+    "After this, the balloon descends slowly to the ground when the chain was released. The descent duration does not affect the highest elevation reached."
+  ],
+  "solution": "1400"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "Bruce can make 15 batches of pizza dough using a sack of flour. If he uses 5 sacks of flour per day, how many pizza doughs can he make in a week?",
+  "steps": [
+    "First, identify how many batches of pizza dough Bruce can make with one sack of flour. According to the problem, Bruce can make 15 batches with one sack.",
+    "Next, determine how many sacks of flour Bruce uses in a single day. The problem states that Bruce uses 5 sacks of flour per day.",
+    "Calculate the total number of batches Bruce can make in one day by multiplying the number of sacks used per day by the number of batches per sack. This means multiplying 5 sacks by 15 batches per sack.",
+    "5 sacks/day * 15 batches/sack = 75 batches/day",
+    "Now, determine how many days are in a week. There are 7 days in a week.",
+    "Calculate the total number of batches Bruce can make in one week by multiplying the number of batches he can make per day by the number of days in a week. This means multiplying 75 batches/day by 7 days.",
+    "75 batches/day * 7 days = 525 batches"
+  ],
+  "solution": "525"
+}

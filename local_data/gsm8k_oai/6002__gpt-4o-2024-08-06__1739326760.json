@@ -1,0 +1,14 @@
+{
+  "query": "Kathryn moved to a new city for the new job she had landed two weeks ago. Her rent was $1200, 1/2 of what she spent on food and travel expenses in a month. Luckily, she found a new friend Shelby, who moved in with her to share the rent. If her salary was $5000 per month, how much money remained after her expenses?",
+  "steps": [
+    "First, I need to figure out Kathryn's total expenses. I know her rent is $1200.",
+    "Her rent is $1,200, which is half of what she spent on food and travel expenses.",
+    "Therefore, we can calculate her spending on food and travel as twice the rent: 2 * $1,200 = $2,400.",
+    "Now, I add the rent and the food and travel expenses to find her total expenses: $1,200 (rent) + $2,400 (food and travel) = $3,600.",
+    "Kathryn's new friend Shelby moved in and they share the rent. So, Kathryn's expense on rent now will be halved: $1,200 / 2 = $600.",
+    "With the new rent sharing situation, her total expenses would now be: $600 (rent) + $2,400 (food and travel) = $3,000.",
+    "Given that her salary was $5,000 per month, we need to subtract her total monthly expenses from her salary to find how much money remains.",
+    "$5,000 (salary) - $3,000 (total expenses) = $2,000 remaining."
+  ],
+  "solution": "2000"
+}

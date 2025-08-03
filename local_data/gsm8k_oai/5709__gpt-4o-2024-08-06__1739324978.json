@@ -1,0 +1,32 @@
+{
+  "query": "3 cloves of garlic can repel 2 vampires, 8 vampire bats or 3 wights. How many cloves of garlic are needed to repel 30 vampires, 12 wights and 40 vampire bats?",
+  "steps": [
+    "First, I need to understand the problem, which involves calculating how many cloves of garlic are required to repel a certain number of vampires, vampire bats, and wights based on given ratios.",
+    "I will start by determining how many cloves of garlic are needed for 30 vampires based on the given ratio. \n3 cloves of garlic repel 2 vampires.",
+    "I set up a proportion: \\(\\frac{3 \\text{ cloves}}{2 \\text{ vampires}} = \\frac{x \\text{ cloves}}{30 \\text{ vampires}}\\).",
+    "Cross-multiply to solve for x: \\(2x = 3 \\times 30\\).",
+    "Calculate \\(3 \\times 30 = 90\\).",
+    "Therefore, \\(2x = 90\\).",
+    "Divide both sides by 2 to find x: \\(x = \\frac{90}{2} = 45\\).",
+    "Now, 45 cloves of garlic are needed to repel 30 vampires.",
+    "Next, I calculate how many cloves of garlic are needed to repel 40 vampire bats.",
+    "3 cloves of garlic repel 8 vampire bats.",
+    "Set up a proportion: \\(\\frac{3 \\text{ cloves}}{8 \\text{ bats}} = \\frac{x \\text{ cloves}}{40 \\text{ bats}}\\).",
+    "Cross-multiply to solve for x: \\(8x = 3 \\times 40\\).",
+    "Calculate \\(3 \\times 40 = 120\\).",
+    "Thus, \\(8x = 120\\).",
+    "Divide both sides by 8: \\(x = \\frac{120}{8} = 15\\).",
+    "Therefore, 15 cloves of garlic are needed to repel 40 vampire bats.",
+    "Lastly, I calculate how many cloves of garlic are needed to repel 12 wights.",
+    "3 cloves of garlic repel 3 wights.",
+    "Set up a proportion: \\(\\frac{3 \\text{ cloves}}{3 \\text{ wights}} = \\frac{x \\text{ cloves}}{12 \\text{ wights}}\\).",
+    "Cross-multiply to solve for x: \\(3x = 3 \\times 12\\).",
+    "Calculate \\(3 \\times 12 = 36\\).",
+    "So, \\(3x = 36\\).",
+    "Divide both sides by 3: \\(x = \\frac{36}{3} = 12\\).",
+    "Therefore, 12 cloves of garlic are needed to repel 12 wights.",
+    "Now I sum up all the cloves needed: 45 (for vampires) + 15 (for bats) + 12 (for wights).",
+    "Calculate: \\(45 + 15 + 12 = 72\\)."
+  ],
+  "solution": "72"
+}

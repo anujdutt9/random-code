@@ -1,0 +1,16 @@
+{
+  "query": "Paul makes pencils, making 100 pencils a day five days a week. He started the week with 80 pencils in his stock, and during the week he sold 350 pencils. How many pencils did he have in his stock at the end of the week?",
+  "steps": [
+    "First, calculate the number of pencils Paul produces in a week.",
+    "Paul makes 100 pencils a day. He works 5 days a week.",
+    "100 pencils/day * 5 days/week = 500 pencils/week.",
+    "Next, determine the total initial stock of pencils.",
+    "Paul started the week with 80 pencils.",
+    "Add the pencils he produces in a week to his initial stock.",
+    "80 pencils + 500 pencils = 580 pencils.",
+    "Now, subtract the number of pencils sold during the week from the total stock.",
+    "Paul sold 350 pencils during the week.",
+    "580 pencils - 350 pencils = 230 pencils."
+  ],
+  "solution": "230"
+}

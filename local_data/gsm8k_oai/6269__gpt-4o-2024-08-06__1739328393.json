@@ -1,0 +1,16 @@
+{
+  "query": "Tommy has 13 items in his pencil case. The pens are twice as many as the pencils and there's one eraser. How many pencils are there?",
+  "steps": [
+    "Let's start by defining variables. Let the number of pencils be P.",
+    "According to the problem, the pens are twice as many as the pencils. Therefore, the number of pens would be 2P.",
+    "Tommy has one eraser. So, there are P pencils, 2P pens, and 1 eraser in total.",
+    "The sum of these items must equal the total number of items Tommy has, which is 13.",
+    "So, we can write the equation: P (pencils) + 2P (pens) + 1 (eraser) = 13.",
+    "Simplify this equation: 3P + 1 = 13.",
+    "To isolate P, subtract 1 from both sides of the equation: 3P = 13 - 1, which simplifies to 3P = 12.",
+    "Now, divide both sides by 3 to solve for P: P = 12 / 3.",
+    "This simplifies to P = 4.",
+    "To ensure there is no error, let's verify: If P = 4, then 2P = 8 (number of pens), and there is 1 eraser. Therefore, the total count is 4 (pencils) + 8 (pens) + 1 (eraser) = 13."
+  ],
+  "solution": "4"
+}

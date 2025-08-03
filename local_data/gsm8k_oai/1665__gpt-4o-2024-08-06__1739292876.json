@@ -1,0 +1,17 @@
+{
+  "query": "Jamie collects glass balls. He had 16 red balls and two times more blue balls. Later on, he lost 6 of the red balls, so he decided to buy some yellow balls to fill up his collection. How many yellow balls did he buy if, after all, he had 74 balls in total?",
+  "steps": [
+    "First, I need to determine how many blue balls Jamie had. He started with 16 red balls and twice as many blue balls.",
+    "Twice as many blue balls as red balls means he had 16 * 2 = 32 blue balls.",
+    "Next, I calculate how many total balls Jamie originally had before losing any.",
+    "Jamie had 16 red balls + 32 blue balls = 48 balls initially.",
+    "He then lost 6 of the red balls.",
+    "After losing 6 red balls, he has 16 - 6 = 10 red balls left.",
+    "Now, he has a total of 10 red balls + 32 blue balls = 42 balls.",
+    "Jamie decided to buy some yellow balls to fill up his collection.",
+    "After buying the yellow balls, he ended up with a total of 74 balls.",
+    "The number of yellow balls he bought can be found by subtracting the new total without them from the final total number of balls.",
+    "So, 74 total balls - 42 balls (red and blue) = 32 yellow balls."
+  ],
+  "solution": "32"
+}

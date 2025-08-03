@@ -1,0 +1,14 @@
+{
+  "query": "Amanda has taken 4 quizzes this semester and averaged a 92% score on them. The final quiz is coming up, which is worth the same as each previous quiz. What score does she need in order to get an A in the class, which requires her to average 93% over the 5 quizzes?",
+  "steps": [
+    "Amanda has taken 4 quizzes, and her average score is 92%.",
+    "To find the total score she has accumulated so far, I multiply her average score by the number of quizzes: 92% * 4 quizzes.",
+    "92% of 100 is 92, so 92 * 4 = 368. She has a total score of 368 from the first 4 quizzes.",
+    "She needs an average of 93% over the 5 quizzes.",
+    "To find the total score needed to average 93% over 5 quizzes, multiply 93% by 5 quizzes.",
+    "93% of 100 is 93, so 93 * 5 = 465. She needs a total score of 465.",
+    "Subtract her current total score from the total score needed: 465 - 368.",
+    "465 - 368 = 97. She needs to score 97% on the final quiz."
+  ],
+  "solution": "97"
+}

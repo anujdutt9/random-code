@@ -1,0 +1,13 @@
+{
+  "query": "Bill gets paid $20 every hour he works up to a total of 40 hours, after which he gets paid double that amount per hour.  How much does Bill get paid for a 50-hour workweek?",
+  "steps": [
+    "Bill earns $20 per hour for the first 40 hours.",
+    "For 40 hours of work, Bill earns 40 hours x $20/hour = $800.",
+    "After 40 hours, Bill earns double his regular rate, which is $20 x 2 = $40 per hour.",
+    "Bill works 10 additional hours beyond the 40-hour standard.",
+    "For these 10 extra hours, he earns 10 hours x $40/hour = $400.",
+    "To find the total amount Bill earns in a 50-hour workweek, we add his earnings for the first 40 hours to his earnings for the extra 10 hours.",
+    "Total earnings = $800 + $400 = $1200."
+  ],
+  "solution": "1200"
+}

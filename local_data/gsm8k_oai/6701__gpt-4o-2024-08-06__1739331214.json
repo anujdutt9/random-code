@@ -1,0 +1,21 @@
+{
+  "query": "From Sunday to Thursday, Prudence sleeps 6 hours a night.  Friday and Saturday she sleeps for 9 hours a night.  She also takes a 1-hour nap on Saturday and Sunday.  How much sleep does she get in 4 weeks?",
+  "steps": [
+    "First, I need to determine how many hours Prudence sleeps each night from Sunday to Thursday.",
+    "Prudence sleeps 6 hours each night from Sunday to Thursday.",
+    "There are 5 nights from Sunday to Thursday.",
+    "Prudence sleeps 6 hours/night * 5 nights = 30 hours from Sunday to Thursday each week.",
+    "Next, I need to determine how many hours Prudence sleeps each night on Friday and Saturday.",
+    "Prudence sleeps 9 hours each night on Friday and Saturday.",
+    "There are 2 nights: Friday and Saturday.",
+    "Prudence sleeps 9 hours/night * 2 nights = 18 hours on Friday and Saturday each week.",
+    "Now, I need to calculate how much she sleeps from her naps on Saturday and Sunday.",
+    "Prudence takes a 1-hour nap on both Saturday and Sunday.",
+    "Prudence naps 1 hour/nap * 2 days = 2 hours from naps each week.",
+    "Now, I can calculate the total sleep each week by adding all the parts together:",
+    "Total sleep per week = 30 hours (Sunday to Thursday) + 18 hours (Friday and Saturday) + 2 hours (naps) = 50 hours per week.",
+    "Prudence follows this sleep schedule for 4 weeks.",
+    "Total sleep over 4 weeks = 50 hours/week * 4 weeks = 200 hours."
+  ],
+  "solution": "200"
+}

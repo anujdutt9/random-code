@@ -1,0 +1,15 @@
+{
+  "query": "Isabel has some money in her piggy bank. She spent half the amount and bought a toy. She then spent half of the remaining money and bought her brother a book. If she has $51 left, how much money, in dollars, did she have at first?",
+  "steps": [
+    "Let's start by setting up a variable for the initial amount of money Isabel had. Let it be \\( x \\).",
+    "She spent half on a toy, so she had \\( \\frac{x}{2} \\) left after buying the toy.",
+    "Then, she spent half of her remaining money on a book. Half of \\( \\frac{x}{2} \\) is \\( \\frac{x}{4} \\).",
+    "After buying the book, she had \\( \\frac{x}{2} - \\frac{x}{4} \\) left. I need to simplify this expression.",
+    "To simplify \\( \\frac{x}{2} - \\frac{x}{4} \\), convert \\( \\frac{x}{2} \\) to a common denominator: \\( \\frac{2x}{4} \\).",
+    "Now, perform the subtraction: \\( \\frac{2x}{4} - \\frac{x}{4} = \\frac{x}{4} \\).",
+    "According to the problem, she has $51 left, so \\( \\frac{x}{4} = 51 \\).",
+    "To find \\( x \\), I will multiply both sides of the equation by 4.",
+    "\\( x = 51 \\times 4 = 204 \\)."
+  ],
+  "solution": "204"
+}

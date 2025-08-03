@@ -1,0 +1,20 @@
+{
+  "query": "A pack of dogs found a pile of bones in the dumpster behind the butcher shop.  One by one, the dogs crawled into the dumpster, grabbed a mouthful of bones, and ran off with their newfound treasure.  In all, there were 5 dogs.  The first dog carried off 3 bones.  The second dog carried off 1 less bone than the first dog.  The third dog carried off twice as many as the second dog.  The fourth dog carried off one bone, and the fifth dog carried off twice the number of bones as the fourth dog carried, leaving no remaining bones in the dumpster.  How many bones were in the original pile of bones?",
+  "steps": [
+    "Start by identifying the number of bones each dog carried off.",
+    "The first dog carried off 3 bones.",
+    "The second dog carried off 1 less bone than the first dog. So, it carried off 3 - 1 = 2 bones.",
+    "The third dog carried off twice as many bones as the second dog. Therefore, it carried off 2 * 2 = 4 bones.",
+    "The fourth dog carried off 1 bone.",
+    "The fifth dog carried off twice the number of bones as the fourth dog. Thus, it carried off 1 * 2 = 2 bones.",
+    "Now, we add up the total number of bones that all the dogs carried off.",
+    "First dog's bones = 3",
+    "Second dog's bones = 2",
+    "Third dog's bones = 4",
+    "Fourth dog's bones = 1",
+    "Fifth dog's bones = 2",
+    "Total bones = 3 + 2 + 4 + 1 + 2",
+    "Total bones = 12"
+  ],
+  "solution": "12"
+}

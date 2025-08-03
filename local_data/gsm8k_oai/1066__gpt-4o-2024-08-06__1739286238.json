@@ -1,0 +1,23 @@
+{
+  "query": "George and Amelia are picking oranges and apples at an orchard. George picks 45 oranges and 5 more apples than Amelia. Amelia picks 18 fewer oranges than George and 15 apples. How many fruits do they pick altogether?",
+  "steps": [
+    "George picks 45 oranges.",
+    "Amelia picks 18 fewer oranges than George.",
+    "Since George picks 45 oranges, Amelia picks 45 - 18 oranges. Let's calculate this: 45 - 18 equals 27.",
+    "So, Amelia picks 27 oranges.",
+    "George picks 5 more apples than Amelia.",
+    "Amelia picks 15 apples, so George picks 15 + 5 apples. Let's calculate this: 15 + 5 equals 20.",
+    "Therefore, George picks 20 apples.",
+    "Now calculate how many fruits George picks altogether, which is the sum of the oranges and apples he picks.",
+    "George picks 45 oranges and 20 apples.",
+    "45 + 20 equals 65.",
+    "So, George picks a total of 65 fruits.",
+    "Now calculate how many fruits Amelia picks altogether, which is the sum of the oranges and apples she picks.",
+    "Amelia picks 27 oranges and 15 apples.",
+    "27 + 15 equals 42.",
+    "So, Amelia picks a total of 42 fruits.",
+    "Finally, add the total fruits picked by George and Amelia together.",
+    "65 (George's total fruits) + 42 (Amelia's total fruits) equals 107."
+  ],
+  "solution": "107"
+}

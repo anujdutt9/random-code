@@ -1,0 +1,15 @@
+{
+  "query": "John goes to the bakery to buy rolls.  They sell them for 5 dollars for a dozen.  He spent 15 dollars.  How many rolls did he get?",
+  "steps": [
+    "I need to find out how many dozens of rolls John bought for 15 dollars when one dozen costs 5 dollars.",
+    "First, I should calculate how many dozens John could buy with 15 dollars.",
+    "If each dozen costs 5 dollars, then dividing the total amount spent (15 dollars) by the cost per dozen (5 dollars) will give the number of dozens bought.",
+    "15 dollars divided by 5 dollars per dozen equals 3 dozens.",
+    "Now, I know that John bought 3 dozens of rolls.",
+    "Next, I need to convert the number of dozens into the number of individual rolls.",
+    "One dozen is equal to 12 rolls.",
+    "To find the total number of rolls, multiply the number of dozens (3) by the number of rolls per dozen (12).",
+    "3 dozens multiplied by 12 rolls per dozen equals 36 rolls."
+  ],
+  "solution": "36"
+}

@@ -1,0 +1,21 @@
+{
+  "query": "A typical tournament of tennis has 4 rounds. There are 8 games in the first round, 4 in the second round, 2 in the third round and 1 during the finals. If each game requires new tennis balls, and on average each game uses 5 cans of tennis balls, how many tennis balls in total are used at the end of the tournament if each can has 3 tennis balls?",
+  "steps": [
+    "First, I need to find the total number of games played in the tournament. There are 8 games in the first round.",
+    "In the second round, there are 4 games.",
+    "In the third round, there are 2 games.",
+    "Finally, there is 1 game in the finals.",
+    "To find the total number of games, I add the games from each round: 8 + 4 + 2 + 1.",
+    "8 + 4 = 12",
+    "12 + 2 = 14",
+    "14 + 1 = 15. So, there are 15 games in total.",
+    "Each game uses 5 cans of tennis balls.",
+    "I need to multiply the total number of games, 15, by the number of cans used per game, which is 5.",
+    "15 games * 5 cans per game = 75 cans.",
+    "Each can contains 3 tennis balls.",
+    "Now, I need to find the total number of tennis balls. I do this by multiplying the number of cans by the number of tennis balls per can: 75 cans * 3 balls per can.",
+    "75 * 3 = 225 tennis balls.",
+    "So, the total number of tennis balls used in the tournament is 225."
+  ],
+  "solution": "225"
+}

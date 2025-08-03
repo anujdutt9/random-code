@@ -1,0 +1,17 @@
+{
+  "query": "A small pizza can gives 4 slices, and a large pizza gives 8 slices.  George purchased 3 small and 2 large pizzas.  George would like to eat 3 pieces.  His friend Bob would like to eat one more piece than George.  Susie will eat half as many as Bob.  Bill, Fred and Mark would each like 3 pieces.  How many slices of pizza will be left over?",
+  "steps": [
+    "First, calculate the total number of slices from the pizzas George purchased.",
+    "A small pizza gives 4 slices, and George purchased 3 small pizzas. Therefore, the total slices from small pizzas are 3 * 4 = 12 slices.",
+    "A large pizza gives 8 slices, and George purchased 2 large pizzas. Therefore, the total slices from large pizzas are 2 * 8 = 16 slices.",
+    "Now, add the slices from small and large pizzas to get the total number of slices. \n12 slices (from small) + 16 slices (from large) = 28 slices total.",
+    "Determine how many slices George will eat. George would like to eat 3 pieces.",
+    "Determine how many slices Bob will eat. Bob would like to eat one more piece than George, so Bob will eat 3 + 1 = 4 pieces.",
+    "Determine how many slices Susie will eat. Susie will eat half as many as Bob, so Susie will eat 4 / 2 = 2 pieces.",
+    "Bill, Fred, and Mark would each like 3 pieces, so calculate the total slices for them together. \n3 pieces each for 3 people = 3 * 3 = 9 pieces.",
+    "Add up all the slices that have been eaten: George (3) + Bob (4) + Susie (2) + Bill, Fred, and Mark (9).",
+    "3 + 4 + 2 + 9 = 18 slices have been eaten.",
+    "Subtract the total eaten slices from the total number of slices to find out how many are left over. \n28 slices total - 18 eaten slices = 10 slices left over."
+  ],
+  "solution": "10"
+}

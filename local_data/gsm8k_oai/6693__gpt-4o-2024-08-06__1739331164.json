@@ -1,0 +1,20 @@
+{
+  "query": "John's hair grows 1.5 inches every month.  Every time it gets to 9 inches long he cuts it down to 6 inches.  A haircut costs $45 and he gives a 20% tip.  How much does he spend on haircuts a year?",
+  "steps": [
+    "John's hair grows 1.5 inches each month.",
+    "He cuts it when it reaches 9 inches long.",
+    "After a cut, his hair is 6 inches long.",
+    "The difference in hair length from 6 inches to 9 inches is 3 inches.",
+    "To grow 3 inches, it takes John 3 divided by 1.5, which is 2 months. So he gets a haircut every 2 months.",
+    "There are 12 months in a year.",
+    "John gets haircuts every 2 months, so he gets 12 divided by 2, which is 6 haircuts a year.",
+    "Each haircut costs $45.",
+    "John gives a 20% tip on each haircut.",
+    "20% of $45 is 0.20 multiplied by $45, which equals $9.",
+    "The total cost for each haircut, including tip, is $45 plus $9, which equals $54.",
+    "John spends $54 per haircut.",
+    "For 6 haircuts a year, he spends 6 multiplied by $54.",
+    "6 multiplied by $54 equals $324."
+  ],
+  "solution": "324"
+}

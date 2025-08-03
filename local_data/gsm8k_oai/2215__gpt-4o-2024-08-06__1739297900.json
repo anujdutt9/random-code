@@ -1,0 +1,18 @@
+{
+  "query": "There are 80 men in a race. 1/4 of the men tripped and were unable to finish. 2/3 of the remaining men were dehydrated and 1/5 of those dehydrated men couldn't finish the race. How many men finished the race?",
+  "steps": [
+    "There are 80 men in the race initially.",
+    "1/4 of the men tripped and were unable to finish. Let's calculate how many men that is.",
+    "1/4 of 80 is 80/4 = 20 men.",
+    "So, 20 men tripped and couldn't finish. Therefore, the remaining men are 80 - 20 = 60 men.",
+    "2/3 of the remaining 60 men were dehydrated. Let's calculate how many men that is.",
+    "2/3 of 60 is 60 * (2/3) = 40 men.",
+    "1/5 of these dehydrated men couldn't finish the race. Let's calculate how many men that is.",
+    "1/5 of 40 is 40/5 = 8 men.",
+    "So, 8 dehydrated men couldn't finish. Therefore, the dehydrated men who did finish are 40 - 8 = 32 men.",
+    "The men who were not dehydrated from the remaining 60 men are 60 - 40 = 20 men.",
+    "These 20 men (who were not dehydrated) finished the race.",
+    "Total men who finished the race are those not dehydrated plus those dehydrated who finished: 20 + 32 = 52 men."
+  ],
+  "solution": "52"
+}

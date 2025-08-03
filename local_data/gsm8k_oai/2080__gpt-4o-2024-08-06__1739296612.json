@@ -1,0 +1,17 @@
+{
+  "query": "A hairstylist charges $5 for a normal haircut, $6 for a special haircut, and $8 for a trendy haircut. If he cuts 5 normal haircuts, 3 special haircuts, and 2 trendy haircuts per day, how much money does he earn per week?",
+  "steps": [
+    "First, I need to determine the earnings from each type of haircut per day.",
+    "For normal haircuts, the hairstylist cuts 5 haircuts per day at $5 each.",
+    "The daily earnings from normal haircuts is 5 x $5 = $25.",
+    "Next, calculate the earnings from special haircuts. The hairstylist cuts 3 special haircuts per day at $6 each.",
+    "The daily earnings from special haircuts is 3 x $6 = $18.",
+    "Then, calculate the earnings from trendy haircuts. The hairstylist cuts 2 trendy haircuts per day at $8 each.",
+    "The daily earnings from trendy haircuts is 2 x $8 = $16.",
+    "Now, add the daily earnings from all types of haircuts to get the total daily earnings.",
+    "The total daily earnings is $25 (normal) + $18 (special) + $16 (trendy) = $59.",
+    "Now, determine the weekly earnings. The hairstylist works 7 days a week.",
+    "The weekly earnings is $59 per day x 7 days = $413."
+  ],
+  "solution": "413"
+}

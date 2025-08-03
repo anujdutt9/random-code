@@ -1,0 +1,16 @@
+{
+  "query": "Al is 25 pounds heavier than Ben. Ben is 16 pounds lighter than Carl. If Ed weighs 146 pounds and is 38 pounds lighter than Al, find the weight of Carl.",
+  "steps": [
+    "I need to find the weight of Carl.",
+    "I know that Ed is 38 pounds lighter than Al.",
+    "Since Ed weighs 146 pounds, I can find Al's weight by adding 38 pounds to Ed's weight.",
+    "Al's weight is 146 + 38 = 184 pounds.",
+    "I know that Al is 25 pounds heavier than Ben.",
+    "To find Ben's weight, I subtract 25 pounds from Al's weight.",
+    "Ben's weight is 184 - 25 = 159 pounds.",
+    "I know that Ben is 16 pounds lighter than Carl.",
+    "To find Carl's weight, I add 16 pounds to Ben's weight.",
+    "Carl's weight is 159 + 16 = 175 pounds."
+  ],
+  "solution": "175"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Allen is 25 years younger than his mother. In 3 years, the sum of their ages will be 41. What is the present age of Allen's mother?",
+  "steps": [
+    "Let me start by assigning variables to represent Allen's current age and his mother's current age.",
+    "Let A be Allen's current age.",
+    "Since Allen is 25 years younger than his mother, we can express his mother's age as A + 25.",
+    "In 3 years, Allen's age will be A + 3.",
+    "In 3 years, his mother's age will be (A + 25) + 3, which simplifies to A + 28.",
+    "The problem states that in 3 years, the sum of their ages will be 41. This can be expressed with the equation: (A + 3) + (A + 28) = 41.",
+    "Simplifying the equation: A + 3 + A + 28 = 41.",
+    "Combining like terms: 2A + 31 = 41.",
+    "Subtract 31 from both sides to isolate the terms with A: 2A = 10.",
+    "Divide both sides by 2 to solve for A: A = 5.",
+    "Having found that A = 5, Allen's current age is 5 years.",
+    "Since Allen's mother's age is A + 25, substitute A with 5: Allen's mother is 5 + 25 = 30 years old."
+  ],
+  "solution": "30"
+}

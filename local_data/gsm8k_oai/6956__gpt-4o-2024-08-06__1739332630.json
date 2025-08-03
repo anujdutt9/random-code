@@ -1,0 +1,18 @@
+{
+  "query": "Viggo spent $80 on a shirt. He paid the shirt using $20 and $10 bills. If she gave the clerk one more $20 bill than $10 bills, how many $10 bills did he give?",
+  "steps": [
+    "Let me assign a variable for the number of $10 bills. Let's call this number \\(x\\).",
+    "According to the question, Viggo gave 1 more $20 bill than $10 bills. So, the number of $20 bills is \\(x + 1\\).",
+    "Next, I need to calculate the total amount in terms of $10 and $20 bills.",
+    "The total amount from $10 bills is \\(10x\\).",
+    "The total amount from $20 bills is \\(20(x + 1)\\).",
+    "To find the total amount Viggo paid, I need to sum the amounts from $10 and $20 bills. So I have: \\(10x + 20(x + 1)\\).",
+    "Simplifying \\(10x + 20(x + 1)\\), I distribute the 20: \n\\[\n10x + 20x + 20\n\\]",
+    "Simplifying further:\n\\[\n30x + 20\n\\]",
+    "I know the total amount spent by Viggo was $80. So, I can set up the equation:\n\\[\n30x + 20 = 80\n\\]",
+    "I will solve for \\(x\\). First, I subtract 20 from both sides:\n\\[\n30x = 60\n\\]",
+    "Now, I divide both sides by 30:\n\\[\nx = 2\n\\]",
+    "Therefore, Viggo gave 2 $10 bills."
+  ],
+  "solution": "2"
+}

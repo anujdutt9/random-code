@@ -1,0 +1,14 @@
+{
+  "query": "James decides he needs to start eating more vegetables.  He starts by eating a quarter pound of asparagus and a quarter pound of broccoli per day.  After 2 weeks, he doubles that amount and adds 3 pounds of kale per week.  How many pounds of vegetables does he eat a week after adding the kale?",
+  "steps": [
+    "James starts by eating a quarter pound of asparagus and a quarter pound of broccoli per day.",
+    "He eats 0.25 pounds of asparagus and 0.25 pounds of broccoli each day.",
+    "Total daily vegetable consumption initially is 0.25 + 0.25 = 0.5 pounds of vegetables per day.",
+    "After 2 weeks, he doubles that amount.",
+    "Doubling 0.5 pounds per day means he now eats 0.5 * 2 = 1 pound of vegetables per day.",
+    "He also adds 3 pounds of kale per week.",
+    "His new weekly vegetable consumption from asparagus and broccoli is 1 pound per day * 7 days = 7 pounds per week.",
+    "Adding the 3 pounds of kale per week brings his total weekly vegetable consumption to 7 pounds + 3 pounds = 10 pounds per week."
+  ],
+  "solution": "10"
+}

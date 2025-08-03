@@ -1,0 +1,21 @@
+{
+  "query": "There are 120 cards in a box. If 2/5 of the cards are red, exactly 5/9 of the remainder are black, and the rest are green, calculate the number of green cards in the box?",
+  "steps": [
+    "First, calculate 2/5 of the total 120 cards to find the number of red cards.",
+    "2/5 of 120 equals 2/5 * 120.",
+    "2/5 of 120 equals 48.",
+    "So, there are 48 red cards.",
+    "Next, subtract the number of red cards from the total number of cards to determine the remainder.",
+    "120 - 48 equals 72.",
+    "There are 72 cards remaining after removing the red cards.",
+    "Now, calculate 5/9 of this remainder of 72 cards to find the number of black cards.",
+    "5/9 of 72 equals 5/9 * 72.",
+    "5/9 of 72 equals 40.",
+    "So, there are 40 black cards.",
+    "Now, calculate the number of green cards by subtracting the number of red and black cards from the total.",
+    "Subtract the red and black cards: 120 - 48 - 40.",
+    "120 - 48 - 40 equals 32.",
+    "Thus, there are 32 green cards."
+  ],
+  "solution": "32"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "At a station, a train comes every 5 minutes leaving 200 passengers and taking 320 others. How many different passengers step on and off a train at the station within an hour?",
+  "steps": [
+    "First, I need to determine how many trains arrive at the station within one hour.",
+    "Since the train comes every 5 minutes, I can divide the total number of minutes in an hour by the frequency of train arrivals.",
+    "There are 60 minutes in an hour. Dividing 60 by 5 gives me 12.",
+    "Therefore, 12 trains arrive at the station in one hour.",
+    "Each train leaves 200 passengers and takes 320 passengers.",
+    "First, I calculate the total number of passengers leaving the train in an hour.",
+    "The calculation is 200 passengers per train multiplied by 12 trains.",
+    "200 \u00d7 12 = 2400 passengers leave the train in an hour.",
+    "Next, I calculate the total number of passengers boarding the train in an hour.",
+    "The calculation is 320 passengers per train multiplied by 12 trains.",
+    "320 \u00d7 12 = 3840 passengers board the train in an hour.",
+    "The question asks for the total number of different passengers stepping on and off the train.",
+    "I need to add the total number of passengers leaving and boarding to find this total.",
+    "2400 passengers leaving plus 3840 passengers boarding equals 6240 different passengers."
+  ],
+  "solution": "6240"
+}

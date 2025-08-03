@@ -1,0 +1,13 @@
+{
+  "query": "Cindy was 5 years old.  Her sister Jan was 2 years older than Cindy.  Their oldest sister Marcia was twice as old as Jan.  Greg was two years older than Marcia.  How old was Greg?",
+  "steps": [
+    "Cindy is 5 years old.",
+    "Jan is 2 years older than Cindy, so Jan is 5 + 2 years old.",
+    "This means Jan is 7 years old.",
+    "Marcia is twice as old as Jan, so Marcia is 2 * 7 years old.",
+    "This means Marcia is 14 years old.",
+    "Greg is 2 years older than Marcia, so Greg is 14 + 2 years old.",
+    "Hence, Greg is 16 years old."
+  ],
+  "solution": "16"
+}

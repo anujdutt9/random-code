@@ -1,0 +1,18 @@
+{
+  "query": "Fiona completed 36 math questions in an hour. Shirley was able to complete twice as many math questions within that same time, and Kiana completed half of the sum of Fiona and Shirley's math questions. If they each did the same number of questions the following hour, how many math questions did all three girls complete in 2 hours?",
+  "steps": [
+    "First, I need to find out how many questions Shirley completed. Since Shirley completed twice as many questions as Fiona, and Fiona completed 36, Shirley completed 2 * 36 questions.",
+    "Calculating this gives me 2 * 36 = 72 questions that Shirley completed.",
+    "Next, I need to determine how many questions Kiana completed. Kiana completed half of the sum of Fiona and Shirley's questions.",
+    "First, I need the sum of Fiona and Shirley's questions: 36 (Fiona) + 72 (Shirley) = 108 questions.",
+    "Kiana completed half of 108 questions, which is 108 / 2 = 54 questions.",
+    "Now, I know how many questions each girl completed in the first hour: Fiona 36, Shirley 72, Kiana 54.",
+    "Since they completed the same number of questions in the second hour, I have to double each of their totals for two hours.",
+    "Fiona's total for 2 hours is 36 * 2 = 72 questions.",
+    "Shirley's total for 2 hours is 72 * 2 = 144 questions.",
+    "Kiana's total for 2 hours is 54 * 2 = 108 questions.",
+    "Now, I will add all these together to get the total number of questions completed by all three girls in 2 hours.",
+    "The total number of questions is 72 (Fiona) + 144 (Shirley) + 108 (Kiana) = 324 questions."
+  ],
+  "solution": "324"
+}

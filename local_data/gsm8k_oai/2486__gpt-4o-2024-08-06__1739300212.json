@@ -1,0 +1,22 @@
+{
+  "query": "There are 248 pages in a book. Joanna can read 16 pages per hour. On Monday, she reads for 3 hours. On Tuesday, she reads for 6.5 hours. How many more hours does she need to read to finish the book?",
+  "steps": [
+    "First, I need to calculate how many pages Joanna reads on Monday.",
+    "Joanna reads 16 pages per hour and she reads for 3 hours on Monday.",
+    "So, on Monday she reads 16 * 3 = 48 pages.",
+    "Next, I need to calculate how many pages Joanna reads on Tuesday.",
+    "Joanna reads 16 pages per hour and she reads for 6.5 hours on Tuesday.",
+    "So, on Tuesday she reads 16 * 6.5 = 104 pages.",
+    "Now, I need to calculate the total number of pages she has read on both days.",
+    "Joanna reads 48 pages on Monday and 104 pages on Tuesday.",
+    "So, she has read 48 + 104 = 152 pages in total.",
+    "The book has 248 pages in total.",
+    "To find out how many pages are left, I subtract the number of pages she has read from the total pages.",
+    "248 - 152 = 96 pages are left to read.",
+    "Joanna can read 16 pages per hour.",
+    "To find out how many more hours she needs to read, I divide the remaining pages by the pages she can read per hour.",
+    "96 / 16 = 6",
+    "Joanna needs to read for 6 more hours to finish the book."
+  ],
+  "solution": "6"
+}

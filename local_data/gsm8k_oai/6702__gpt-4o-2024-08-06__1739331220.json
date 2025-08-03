@@ -1,0 +1,15 @@
+{
+  "query": "There were 100 people in attendance at the school dance.  Ten percent of the attendees were school faculty and staff.  Of the remaining attendees, two-thirds were girls.  How many boys attended the school dance?",
+  "steps": [
+    "Start by determining how many attendees were school faculty and staff.",
+    "Ten percent of 100 attendees were faculty and staff, so calculate 10% of 100.",
+    "10% of 100 is (10/100) * 100, which equals 10.",
+    "Subtract the number of faculty and staff from the total number of attendees to find the number of students (non-faculty/staff).",
+    "100 total attendees minus 10 faculty and staff equals 90 student attendees.",
+    "Now, determine how many of the students were girls. We know two-thirds of the remaining 90 attendees were girls.",
+    "Calculate two-thirds of 90: (2/3) * 90 = 60.",
+    "Subtract the number of girls from the total number of students to find the number of boys.",
+    "90 student attendees minus 60 girls equals 30 boys."
+  ],
+  "solution": "30"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Tom decides to take 10 dance lessons that cost $10 each, but he gets two of them for free. How much does he pay?",
+  "steps": [
+    "Tom plans to take 10 dance lessons.",
+    "Each lesson costs $10.",
+    "Therefore, without any discounts, the total cost would be 10 lessons times $10 per lesson.",
+    "I calculate 10 x $10 = $100.",
+    "However, Tom gets two lessons for free.",
+    "This means he only pays for 10 - 2 = 8 lessons.",
+    "I recalculate the cost for 8 paid lessons.",
+    "8 lessons times $10 per lesson results in 8 x $10 = $80.",
+    "I double-check: paying for 8 lessons at $10 each totals $80."
+  ],
+  "solution": "80"
+}

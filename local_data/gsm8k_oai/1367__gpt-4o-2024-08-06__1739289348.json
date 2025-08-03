@@ -1,0 +1,16 @@
+{
+  "query": "An entrepreneur is crowdfunding a new business effort. He has three different dollar amount levels of financial backing options and each level is ten times as high as the previous one. He needs to raise $12000 to get his business off the ground. He succeeded after getting two backers at the highest level of financial backing, three at the second level, and ten at the lowest level. How many dollars was the highest level of financial backing?",
+  "steps": [
+    "Let's define the levels of financial backing as x, 10x, and 100x, where x is the lowest level.",
+    "Two backers at the highest level contributed 2 * 100x.",
+    "Three backers at the second level contributed 3 * 10x.",
+    "Ten backers at the lowest level contributed 10 * x.",
+    "The total amount raised is then given by the equation 2 * 100x + 3 * 10x + 10 * x = 12000.",
+    "Combine the terms in the equation: (200x) + (30x) + (10x) = 12000.",
+    "Simplify the equation: 240x = 12000.",
+    "Solve for x by dividing both sides by 240: x = 12000 / 240.",
+    "Calculate x: x = 50.",
+    "The highest level of financial backing is 100x, which is 100 * 50."
+  ],
+  "solution": "5000"
+}

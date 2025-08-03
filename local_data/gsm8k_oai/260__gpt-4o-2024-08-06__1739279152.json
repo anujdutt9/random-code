@@ -1,0 +1,12 @@
+{
+  "query": "Every hour past noon shadows from a building stretch an extra 5 feet, starting at zero at noon.  How long are the shadows from the building 6 hours past noon in inches?",
+  "steps": [
+    "First, I will determine how many hours past noon we are considering, which is 6 hours.",
+    "Next, I need to calculate the length of the shadows in feet. Since the shadows stretch an extra 5 feet each hour, after 6 hours, they will be 6 hours \u00d7 5 feet/hour.",
+    "6 hours \u00d7 5 feet/hour = 30 feet",
+    "Now, I need to convert the length of the shadows from feet to inches. There are 12 inches in 1 foot.",
+    "So, I multiply the total feet by 12 inches/foot to get the length in inches: 30 feet \u00d7 12 inches/foot.",
+    "30 \u00d7 12 = 360"
+  ],
+  "solution": "360"
+}

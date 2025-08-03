@@ -1,0 +1,17 @@
+{
+  "query": "Abigail built 10 fences. Each fence took her 30 minutes to build. If she builds fences for the next 8 hours, how many fences would she have built in total?",
+  "steps": [
+    "Abigail has already built 10 fences.",
+    "Each fence takes Abigail 30 minutes to build.",
+    "We need to determine how many fences she can build in 8 hours.",
+    "First, convert 8 hours into minutes because the time taken for each fence is in minutes.",
+    "8 hours is equivalent to 8 * 60 = 480 minutes.",
+    "Calculate how many fences can be built in 480 minutes.",
+    "Since each fence takes 30 minutes, the number of fences she can build in 480 minutes is 480 / 30.",
+    "480 / 30 = 16 fences.",
+    "These 16 fences are in addition to the 10 she already built.",
+    "Add the 16 fences to the initial 10 fences to find the total.",
+    "10 + 16 = 26 fences."
+  ],
+  "solution": "26"
+}

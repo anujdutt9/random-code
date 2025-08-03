@@ -1,0 +1,15 @@
+{
+  "query": "Bill and Phil are firehouse Dalmatians. Bill has one less than twice as many spots as Phil. If they have 59 spots combined, how many spots does Bill have?",
+  "steps": [
+    "Let's use variables to represent the number of spots. Let P represent the number of spots Phil has.",
+    "According to the problem, Bill has one less than twice as many spots as Phil. So, we can write an expression for Bill's spots: B = 2P - 1.",
+    "The total number of spots for both Dalmatians is given as 59. So, we can write the equation: P + B = 59.",
+    "We can substitute the expression for B from step 2 into the equation from step 3: P + (2P - 1) = 59.",
+    "Now we simplify the equation: P + 2P - 1 = 59, which simplifies further to 3P - 1 = 59.",
+    "Add 1 to both sides to isolate terms with P: 3P = 60.",
+    "Divide both sides by 3 to solve for P: P = 20.",
+    "Now that we have the number of spots for Phil (P = 20), we substitute back into the expression for Bill's spots: B = 2P - 1 = 2(20) - 1 = 40 - 1 = 39.",
+    "Finally, we conclude that Bill has 39 spots."
+  ],
+  "solution": "39"
+}

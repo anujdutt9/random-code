@@ -1,0 +1,17 @@
+{
+  "query": "The school band has 30 songs in their repertoire. The band played 5 songs in their first set and 7 in their second set. The band will play 2 songs for their encore. Assuming the band plays through their entire repertoire, how many songs will they play on average in the third and fourth sets?",
+  "steps": [
+    "The total number of songs in the band's repertoire is 30.",
+    "The band played 5 songs in their first set.",
+    "The band played 7 songs in their second set.",
+    "The band will play 2 songs for their encore.",
+    "I need to calculate the total number of songs the band has already played, which includes the first set, second set, and the encore.",
+    "The songs already played or to be played are: 5 (first set) + 7 (second set) + 2 (encore) = 14 songs.",
+    "Out of the repertoire of 30 songs, 14 have been accounted for, so I need to figure out how many songs are left to be played.",
+    "The number of songs left is: 30 (total songs) - 14 (already played) = 16 songs.",
+    "These 16 songs will be played in the third and fourth sets.",
+    "To find the average number of songs played in the third and fourth sets, I need to divide the remaining number of songs by the number of sets, which is 2 (third and fourth sets).",
+    "16 remaining songs \u00f7 2 sets = 8 songs per set on average."
+  ],
+  "solution": "8"
+}

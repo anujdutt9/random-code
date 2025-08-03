@@ -1,0 +1,24 @@
+{
+  "query": "Joe and Adam built a garden wall with three courses of bricks. They realized the wall was too low and added 2 more courses. If each course of the wall had 400 bricks, and they took out half of the bricks in the last course to allow easy checkup of the garden, calculate the total number of bricks the wall has.",
+  "steps": [
+    "Initially, the wall was built with three courses of bricks.",
+    "Each course contains 400 bricks.",
+    "Number of bricks in these three original courses = 3 courses * 400 bricks/course",
+    "That gives 1200 bricks for the original three courses.",
+    "They added 2 more courses to the wall.",
+    "Each course still contains 400 bricks.",
+    "Number of bricks in the two additional courses = 2 courses * 400 bricks/course",
+    "That gives 800 bricks for the two new courses.",
+    "In total, without removing any bricks, the wall should have 1200 bricks + 800 bricks.",
+    "This sums up to 2000 bricks.",
+    "They took out half of the bricks in the last course for easier garden checkup.",
+    "The last (5th) course originally has 400 bricks.",
+    "Half of 400 bricks = 400 bricks / 2",
+    "That equals 200 bricks removed.",
+    "Therefore, the actual number of bricks remaining in the last course is 400 - 200",
+    "So, 200 bricks remain in the last course.",
+    "The total number of bricks in the wall after removing the bricks = 2000 total bricks - 200 removed bricks",
+    "This equals 1800 bricks."
+  ],
+  "solution": "1800"
+}

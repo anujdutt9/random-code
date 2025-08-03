@@ -1,0 +1,14 @@
+{
+  "query": "James gets a cable program.  The first 100 channels cost $100 and the next 100 channels cost half that much.  He splits it evenly with his roommate.  How much did he pay?",
+  "steps": [
+    "First, I need to understand the cost structure for the cable program: the first 100 channels cost $100, and the next 100 channels cost half that amount.",
+    "The total cost for the first 100 channels is $100.",
+    "The next 100 channels (channels 101 to 200) cost half as much as the first 100 channels. Since the first 100 channels cost $100, the next 100 channels cost $50.",
+    "To find the total cost for all 200 channels, I add the cost of the first 100 channels and the next 100 channels: $100 + $50.",
+    "The total cost for all 200 channels is $150.",
+    "James splits this total cost of $150 evenly with his roommate.",
+    "To find out how much James pays, I take the total cost of $150 and divide it by 2.",
+    "$150 divided by 2 equals $75."
+  ],
+  "solution": "75"
+}

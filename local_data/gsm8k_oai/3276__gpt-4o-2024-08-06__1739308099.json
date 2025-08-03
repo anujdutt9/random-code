@@ -1,0 +1,17 @@
+{
+  "query": "If you take the fastest speed of a rabbit and double it, add 4 to that then double it again you get 188.  How fast is the rabbit?",
+  "steps": [
+    "Let the fastest speed of the rabbit be denoted as \\( x \\).",
+    "According to the problem, if we double the rabbit's speed, we get \\( 2x \\).",
+    "Next, we need to add 4 to this doubled speed: \\( 2x + 4 \\).",
+    "Then, we double the result of the previous step: \\( 2(2x + 4) \\).",
+    "The equation provided by the problem is: \\( 2(2x + 4) = 188 \\).",
+    "First, let's simplify the left side of the equation: \\( 2 \\times 2x + 2 \\times 4 \\).",
+    "Simplifying further, we have: \\( 4x + 8 \\).",
+    "The equation now reads: \\( 4x + 8 = 188 \\).",
+    "Subtract 8 from both sides of the equation to isolate the term with \\( x \\): \\( 4x = 180 \\).",
+    "To find \\( x \\), divide both sides by 4: \\( x = 45 \\).",
+    "The fastest speed of the rabbit is therefore 45 units (such as miles per hour, depending on the context) per whatever time unit is used."
+  ],
+  "solution": "45"
+}

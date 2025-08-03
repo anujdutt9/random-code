@@ -1,0 +1,16 @@
+{
+  "query": "Alex has 2 cakes that are each cut into 8 slices. A fourth of the slices are given away to his friends. A third of the remaining slices are given away to his family. Alex eats 3 slices. How many slices of the cake are left?",
+  "steps": [
+    "Each cake is cut into 8 slices.",
+    "Alex has 2 cakes, so the total number of slices is 2 cakes * 8 slices/cake = 16 slices.",
+    "A fourth of the slices are given to friends.",
+    "A fourth of 16 slices is 16 / 4 = 4 slices.",
+    "After giving 4 slices to friends, there are 16 - 4 = 12 slices left.",
+    "A third of the remaining slices are given to family.",
+    "A third of 12 slices is 12 / 3 = 4 slices.",
+    "After giving 4 slices to family, there are 12 - 4 = 8 slices left.",
+    "Alex eats 3 slices.",
+    "After Alex eats 3 slices, there are 8 - 3 = 5 slices left."
+  ],
+  "solution": "5"
+}

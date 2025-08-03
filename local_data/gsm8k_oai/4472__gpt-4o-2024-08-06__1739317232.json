@@ -1,0 +1,14 @@
+{
+  "query": "Crackers contain 15 calories each and cookies contain 50 calories each. If Jimmy eats 7 cookies, how many crackers does he need to eat to have consumed a total of 500 calories?",
+  "steps": [
+    "First, calculate the total calories consumed by eating 7 cookies.",
+    "Multiply the number of cookies (7) by the calories per cookie (50).",
+    "7 cookies * 50 calories/cookie = 350 calories.",
+    "Now, subtract the calories from the cookies from the total desired calories (500 calories).",
+    "500 calories - 350 calories = 150 calories.",
+    "Next, determine how many crackers are needed to consume the remaining 150 calories.",
+    "Since each cracker contains 15 calories, divide the remaining calories (150) by the calories per cracker (15).",
+    "150 calories / 15 calories/cracker = 10 crackers."
+  ],
+  "solution": "10"
+}

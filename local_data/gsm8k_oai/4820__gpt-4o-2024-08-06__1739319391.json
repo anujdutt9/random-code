@@ -1,0 +1,14 @@
+{
+  "query": "Danny has 3 bottles of soda. He drinks 90% of one bottle and gives 70% of the other two bottles to his friends. How much soda does Danny have left, expressed as a percentage of a bottle?",
+  "steps": [
+    "Danny starts with 3 bottles of soda in total.",
+    "He drinks 90% of one bottle.",
+    "100% - 90% = 10% of that bottle is left.",
+    "Danny gives 70% of each of the other two bottles to his friends.",
+    "For each of those 2 bottles, 100% - 70% = 30% is left.",
+    "Now, let's calculate the total amount of soda left from the three bottles.",
+    "10% from the first bottle + 30% from the second bottle + 30% from the third bottle.",
+    "10% + 30% + 30% = 70%."
+  ],
+  "solution": "70"
+}

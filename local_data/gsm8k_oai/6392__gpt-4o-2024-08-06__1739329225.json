@@ -1,0 +1,27 @@
+{
+  "query": "Ariana is past due on three bills. The first bill for $200 charges 10% simple interest for each overdue month and it's 2 months overdue. The second bill for $130 charges a flat $50 late fee per month and is 6 months overdue. The last bill is two months late and charges a $40 fee the first month overdue and twice that fee the second month overdue and is for $444. How much does Ariana owe in total?",
+  "steps": [
+    "First, calculate the interest on the first bill.",
+    "The first bill is $200 with 10% simple interest per month.",
+    "10% of $200 is $20.",
+    "The bill is 2 months overdue, so $20 interest is charged each month.",
+    "Multiply $20 by 2 months to get the total interest: $20 * 2 = $40.",
+    "Add the interest to the original amount: $200 + $40 = $240.",
+    "Now, calculate the fees on the second bill.",
+    "The second bill is $130 with a $50 per month late fee.",
+    "Multiply $50 by 6 months to get the total late fees: $50 * 6 = $300.",
+    "Add the fees to the original amount: $130 + $300 = $430.",
+    "Now, calculate the fees on the third bill.",
+    "The third bill is $444 with a $40 fee the first month and twice that the second month.",
+    "The fee for the first month is $40 and for the second month is twice that, which is $80.",
+    "Add both month\u2019s fees: $40 + $80 = $120.",
+    "Add the fees to the original amount: $444 + $120 = $564.",
+    "Add the total amounts for all three bills.",
+    "First bill amount due is $240.",
+    "Second bill amount due is $430.",
+    "Third bill amount due is $564.",
+    "Add $240, $430, and $564 to get the total amount due.",
+    "$240 + $430 + $564 = $1234."
+  ],
+  "solution": "1234"
+}

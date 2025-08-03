@@ -1,0 +1,11 @@
+{
+  "query": "Question: An engineer must calculate the potential energy of a roller coaster car at the top of an incline. Which information would best help the engineer determine the potential energy of the car?\n\nChoices:\nA: the distance the roller coaster car must travel\nB: the mass of the roller coaster car at full capacity\nC: the average weight of an empty roller coaster car\nD: the direction that the roller coaster car is traveling",
+  "steps": [
+    "To calculate potential energy, we need to know the mass of the object and the height above a reference point, as potential energy is given by the formula PE = mgh, where m is mass, g is acceleration due to gravity, and h is height.",
+    "Option A, the distance the roller coaster car must travel, is not directly related to potential energy since it does not provide information about mass or height.",
+    "Option B, the mass of the roller coaster car at full capacity, provides the necessary mass value needed for the potential energy calculation. This is crucial information for determining potential energy.",
+    "Option C, the average weight of an empty roller coaster car, is somewhat useful, but it may not reflect the potential energy at full capacity.",
+    "Option D, the direction that the roller coaster car is traveling, is irrelevant for calculating potential energy as it does not affect mass or height."
+  ],
+  "solution": "B"
+}

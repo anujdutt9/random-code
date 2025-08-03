@@ -1,0 +1,21 @@
+{
+  "query": "Darnell pays $12 for unlimited texting and calling on his phone each month. An alternative phone plan would charge $1 per 30 texts and $3 per 20 minutes of calls per month. Darnell sends 60 texts and spends 60 minutes on the phone each month. How many dollars less would he pay on the alternative plan?",
+  "steps": [
+    "First, I need to determine the cost of the alternative plan based on Darnell's usage.",
+    "Darnell sends 60 texts per month. The alternative plan charges $1 per 30 texts.",
+    "To find out how many groups of 30 texts Darnell sends, I divide the number of texts (60) by 30.",
+    "60 \u00f7 30 = 2, so Darnell sends 2 groups of 30 texts.",
+    "At $1 per group, Darnell pays 2 \u00d7 $1 = $2 for texting.",
+    "Next, I need to calculate the cost of calls. Darnell spends 60 minutes on calls per month.",
+    "The alternative plan charges $3 per 20 minutes of calls.",
+    "To find out how many groups of 20 minutes Darnell uses, I divide the number of call minutes (60) by 20.",
+    "60 \u00f7 20 = 3, so Darnell uses 3 groups of 20 minutes.",
+    "At $3 per group, Darnell pays 3 \u00d7 $3 = $9 for calls.",
+    "Now, I calculate the total cost of the alternative plan by adding the cost of texting and calling together.",
+    "$2 (for texting) + $9 (for calls) = $11 total per month on the alternative plan.",
+    "Darnell currently pays $12 for his current plan.",
+    "To find how much less he would pay on the alternative plan, I subtract the cost of the alternative plan from the current cost.",
+    "$12 (current plan) - $11 (alternative plan) = $1 less per month."
+  ],
+  "solution": "1"
+}

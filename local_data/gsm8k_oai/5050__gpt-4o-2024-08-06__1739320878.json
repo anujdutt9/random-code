@@ -1,0 +1,21 @@
+{
+  "query": "Loisa wants to buy a tablet that costs $450 cash. Since she does not have enough money, the store offered her an installment plan for 12 months. She will pay $100 as a down payment and pay $40 for the first 4 months; then $35 for the next four months; then $30 for the last four months. How much will Loisa save if she will buy the tablet in cash instead of on installment?",
+  "steps": [
+    "First, I need to determine how much Loisa will pay in total using the installment plan.",
+    "She will pay $100 as a down payment.",
+    "Next, she will pay $40 for the first 4 months.",
+    "The total for the first 4 months is 4 months \u00d7 $40 = $160.",
+    "Then, she will pay $35 for the next 4 months.",
+    "The total for these 4 months is 4 months \u00d7 $35 = $140.",
+    "Finally, she will pay $30 for the last 4 months.",
+    "The total for these 4 months is 4 months \u00d7 $30 = $120.",
+    "Now, I add up all these payments to find the total installment cost: $100 (down payment) + $160 + $140 + $120.",
+    "The total installment payment is $100 + $160 + $140 + $120 = $520.",
+    "Now, I need to compare this total installment payment to the cash price of the tablet.",
+    "The cash price of the tablet is $450.",
+    "To find how much Loisa will save by paying in cash, I subtract the cash price from the total installment payment.",
+    "Loisa's savings will be $520 (installment cost) - $450 (cash cost).",
+    "Loisa will save $70 by buying the tablet in cash."
+  ],
+  "solution": "70"
+}

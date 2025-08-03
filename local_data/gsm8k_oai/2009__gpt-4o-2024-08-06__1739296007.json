@@ -1,0 +1,20 @@
+{
+  "query": "The marching band has 110 members.  There are 4 times as many percussion players as there are woodwind, and twice as many woodwinds as brass.  How many brass players are there?",
+  "steps": [
+    "I need to find out the number of brass players in the marching band.",
+    "The total number of band members is given as 110.",
+    "The problem states that there are 4 times as many percussion players as woodwind players.",
+    "It also states that there are twice as many woodwinds as brass players.",
+    "Let's assume the number of brass players is B.",
+    "Since there are twice as many woodwinds as brass, the number of woodwind players is 2B.",
+    "Since there are 4 times as many percussion players as woodwinds, the number of percussion players is 4 times 2B, which is 8B.",
+    "The total number of members is the sum of brass, woodwind, and percussion players.",
+    "The equation for the total number of band members is B (brass) + 2B (woodwinds) + 8B (percussion) = 110.",
+    "Simplifying the equation gives me B + 2B + 8B = 11B.",
+    "The equation becomes 11B = 110.",
+    "To solve for B, I divide both sides by 11.",
+    "So, B = 110 / 11.",
+    "Calculating the division gives me B = 10."
+  ],
+  "solution": "10"
+}

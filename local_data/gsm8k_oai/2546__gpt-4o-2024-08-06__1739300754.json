@@ -1,0 +1,21 @@
+{
+  "query": "Jack makes his own cold brew coffee.  He makes it in batches of 1.5 gallons.  He drinks 96 ounces of coffee every 2 days.  It takes 20 hours to make coffee.  How long does he spend making coffee over 24 days?",
+  "steps": [
+    "First, I need to understand the units involved in this problem. Jack makes his coffee in batches of 1.5 gallons.",
+    "I know that 1 gallon is equal to 128 ounces.",
+    "Therefore, 1.5 gallons is equal to 1.5 * 128 = 192 ounces.",
+    "Jack drinks 96 ounces of coffee every 2 days.",
+    "I need to find out how much coffee Jack drinks in 24 days.",
+    "Since he drinks 96 ounces every 2 days, in 24 days, he will drink (24 / 2) * 96 ounces.",
+    "Calculating that, I get 12 * 96 = 1152 ounces.",
+    "Now I know Jack drinks 1152 ounces over 24 days.",
+    "Next, I calculate how many batches of coffee Jack needs to make to have 1152 ounces.",
+    "Each batch makes 192 ounces, so I divide the total ounces needed by the ounces per batch: 1152 / 192.",
+    "1152 divided by 192 equals 6.",
+    "This means Jack needs to make 6 batches of cold brew in the 24 days.",
+    "I know it takes 20 hours to make one batch of coffee.",
+    "To find how many hours Jack spends making coffee, I multiply the number of batches by the time it takes per batch: 6 * 20 hours.",
+    "Calculating that, I get 6 * 20 = 120 hours."
+  ],
+  "solution": "120"
+}

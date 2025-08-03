@@ -1,0 +1,16 @@
+{
+  "query": "Tracy, Michelle, and Kati take a road trip that is a total of 1000 miles.  Tracy drives 20 miles more than twice Michelle, and Michelle drives 3 times the amount that Katie drives. How many miles does Michelle drive?",
+  "steps": [
+    "Let's use variables to represent the miles driven by each person. Let K represent the miles driven by Katie.",
+    "Michelle drives 3 times the amount Katie drives, so I will represent the miles Michelle drives as 3K.",
+    "Tracy drives 20 miles more than twice the miles Michelle drives. Twice the miles Michelle drives is represented as 2(3K) = 6K.",
+    "Adding the extra 20 miles Tracy drives gives us 6K + 20 for the miles Tracy drives.",
+    "The total miles driven by Tracy, Michelle, and Katie is 1000 miles. We can set up the equation:\nK + 3K + (6K + 20) = 1000",
+    "Combine like terms: K + 3K + 6K = 10K, so the equation now looks like:\n10K + 20 = 1000",
+    "Subtract 20 from both sides of the equation to isolate 10K:\n10K = 980",
+    "Divide both sides by 10 to find the value of K:\nK = 98",
+    "Michelle drives 3 times the amount that Katie drives. Since K = 98, Michelle drives 3K, which is 3 * 98.",
+    "Calculate 3 * 98 to find out how many miles Michelle drives: 3 * 98 = 294."
+  ],
+  "solution": "294"
+}

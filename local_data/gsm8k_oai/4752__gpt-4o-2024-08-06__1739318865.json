@@ -1,0 +1,12 @@
+{
+  "query": "Jill is painting her 20 toenails and fingernails. She paints 6 of her nails purple, 8 of them blue, and the rest striped. What is the difference in percentage points between the percentage of nails painted blue and the percentage painted striped?",
+  "steps": [
+    "First, I need to determine the total number of nails Jill is painting. She has 10 fingers and 10 toes, so that's 20 nails in total.",
+    "Next, I find out how many nails are painted in specific colors. She paints 6 nails purple and 8 nails blue.",
+    "Now, I need to calculate the number of nails painted striped. I subtract the purple and blue nails from the total number of nails: 20 - 6 (purple) - 8 (blue) = 6 striped nails.",
+    "Then, I calculate the percentage of nails painted blue: (8 blue nails / 20 total nails) * 100 = 40%.",
+    "Next, I calculate the percentage of nails painted striped: (6 striped nails / 20 total nails) * 100 = 30%.",
+    "Finally, I find the difference in percentage points between the percentage of nails painted blue and the percentage painted striped: 40% (blue) - 30% (striped) = 10 percentage points."
+  ],
+  "solution": "10"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "A teacher is making packed lunches for a field trip. Each student needs 2 sandwiches, and will travel in a group with 5 other students. There are a total of 5 groups. How many pieces of bread will the teacher need to make enough sandwiches for all the students?",
+  "steps": [
+    "I need to determine the total number of students first.",
+    "Each group has 6 students since 1 student plus 5 others equals 6.",
+    "There are 5 groups.",
+    "So, the total number of students is 5 groups times 6 students, which equals 30 students.",
+    "Each student needs 2 sandwiches.",
+    "To find the total number of sandwiches needed, I multiply 30 students by 2 sandwiches, resulting in 60 sandwiches.",
+    "Each sandwich requires 2 pieces of bread.",
+    "To find the total number of pieces of bread needed, I multiply 60 sandwiches by 2 pieces of bread per sandwich.",
+    "60 sandwiches times 2 pieces of bread per sandwich equals 120 pieces of bread."
+  ],
+  "solution": "120"
+}

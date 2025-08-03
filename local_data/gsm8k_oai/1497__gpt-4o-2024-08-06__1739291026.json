@@ -1,0 +1,15 @@
+{
+  "query": "Henry had 33 games, and he gave five of them to Neil. Now Henry has 4 times more games than Neil. How many games did Neil have at first?",
+  "steps": [
+    "Let's denote the number of games Neil initially had as N.",
+    "Henry initially had 33 games.",
+    "Henry gave 5 games to Neil. So, the number of games Henry now has is 33 - 5 = 28.",
+    "We know that now Henry has 4 times more games than Neil does. So, the number of games Neil now has must be 1/4 of the number of games Henry has.",
+    "Let the number of games Neil has now be M.",
+    "According to the information, M = 28 / 4.",
+    "Calculating gives M = 7. So, Neil now has 7 games.",
+    "Since Neil received 5 games from Henry, Neil must have initially had 7 - 5 games.",
+    "Calculating gives N = 7 - 5 = 2."
+  ],
+  "solution": "2"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Mr. Bodhi is transporting some animals using a yacht across a river. He has 20 cows, 15 foxes and three times as many zebras as foxes. To balance the yacht to ensure a smooth sail across the river, the total number of animals in the yacht needs to be 100. If he decides to add sheep to the yacht to make the yacht sail-worthy, how many sheep did he add to the yacht?",
+  "steps": [
+    "Mr. Bodhi has 20 cows.",
+    "He also has 15 foxes.",
+    "The number of zebras is three times the number of foxes.",
+    "The number of zebras is 15 times 3, which equals 45 zebras.",
+    "To find the total number of animals already on the yacht, I need to add the number of cows, foxes, and zebras.",
+    "The total number of animals on the yacht without sheep is 20 (cows) + 15 (foxes) + 45 (zebras) = 80 animals.",
+    "The yacht needs to have a total of 100 animals to sail smoothly.",
+    "To find out how many sheep are needed, I subtract the current number of animals from the total required number of animals.",
+    "100 (total needed animals) - 80 (current animals) = 20 sheep needed."
+  ],
+  "solution": "20"
+}

@@ -1,0 +1,26 @@
+{
+  "query": "Selina is selling some of her old clothes to a second-hand store. They will buy her pants for $5 each, her shorts for $3 each, and her shirts for $4 each. She sells 3 pairs of pants, 5 pairs of shorts, and some shirts. After she gets her money, she sees 2 shirts that she likes which cost $10 each and buys them. She leaves the store with $30. How many shirts did she sell to the store?",
+  "steps": [
+    "Let's start by calculating how much Selina earned from selling 3 pairs of pants.",
+    "Each pair of pants is sold for $5. So, 3 pairs of pants earn her 3 x $5 = $15.",
+    "Next, calculate how much she earned from selling 5 pairs of shorts.",
+    "Each pair of shorts is sold for $3. So, 5 pairs of shorts earn her 5 x $3 = $15.",
+    "Now, add the money she earned from pants and shorts together.",
+    "From pants, she made $15, and from shorts, she made $15. So, the total from pants and shorts is $15 + $15 = $30.",
+    "She also sold some shirts, and we don't know how many yet, so let's denote the number of shirts as x.",
+    "Each shirt sells for $4, so x shirts will earn her 4x dollars.",
+    "The total money she gets from the store is the sum of the money from pants, shorts, and shirts.",
+    "Thus, total money = $30 (from pants and shorts) + 4x (from shirts).",
+    "She buys 2 shirts at $10 each, costing her $20.",
+    "After buying the shirts, she leaves with $30.",
+    "Let's think about how much total money she had after selling but before buying.",
+    "If she had $30 left after spending $20, that means she initially had 30 + 20 = $50 after selling everything.",
+    "We know she made $30 from pants and shorts.",
+    "So, solving for shirts: $30 (pants and shorts) + 4x (shirts) = $50.",
+    "Subtract $30 from both sides to isolate 4x.",
+    "4x = $50 - $30 = $20.",
+    "Now, solve for x by dividing both sides by 4.",
+    "x = $20 / 4 = 5."
+  ],
+  "solution": "5"
+}

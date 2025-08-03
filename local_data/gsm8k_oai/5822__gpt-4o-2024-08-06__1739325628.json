@@ -1,0 +1,15 @@
+{
+  "query": "A busy restaurant is counting how many customers they had during that Friday to try to predict how many they might get on Saturday. During breakfast, they had 73 customers. During lunch, they had 127 customers. During dinner, they had 87 customers. If they predict they'll get twice the amount of customers on Saturday as they had on Friday, how many customers do they predict they will get?",
+  "steps": [
+    "First, I need to find the total number of customers the restaurant had on Friday.",
+    "To do this, I'll add the number of customers from breakfast, lunch, and dinner.",
+    "Breakfast customers: 73, Lunch customers: 127, Dinner customers: 87.",
+    "73 + 127 gives me 200.",
+    "Adding the dinner customers: 200 + 87 gives me 287.",
+    "The total number of customers on Friday is 287.",
+    "The restaurant predicts they'll get twice the amount of customers on Saturday.",
+    "I need to multiply 287 by 2 to find the predicted number of customers for Saturday.",
+    "287 multiplied by 2 gives me 574."
+  ],
+  "solution": "574"
+}

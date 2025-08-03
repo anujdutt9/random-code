@@ -1,0 +1,21 @@
+{
+  "query": "Harry is counting the hours that he sleeps. On Monday night, he sleeps for 8 hours. On Tuesday night, he sleeps for 7 hours. On Wednesday night, he sleeps for 8 hours. On Thursday night, he sleeps for 10 hours. On Friday night he sleeps for 7 hours. What is the average number of hours that Harry sleeps in one night?",
+  "steps": [
+    "First, I need to find the total number of hours Harry sleeps from Monday to Friday.",
+    "On Monday night, Harry sleeps for 8 hours.",
+    "On Tuesday night, he sleeps for 7 hours.",
+    "On Wednesday night, he sleeps for 8 hours.",
+    "On Thursday night, he sleeps for 10 hours.",
+    "On Friday night, he sleeps for 7 hours.",
+    "Now I will add these hours together: 8 + 7 + 8 + 10 + 7.",
+    "8 + 7 is 15.",
+    "15 + 8 is 23.",
+    "23 + 10 is 33.",
+    "33 + 7 is 40.",
+    "Harry sleeps a total of 40 hours from Monday to Friday.",
+    "There are 5 nights from Monday to Friday.",
+    "To find the average, divide the total hours by the number of nights: 40 \u00f7 5.",
+    "40 \u00f7 5 = 8."
+  ],
+  "solution": "8"
+}

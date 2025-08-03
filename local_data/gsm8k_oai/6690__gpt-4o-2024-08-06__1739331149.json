@@ -1,0 +1,18 @@
+{
+  "query": "A laboratory needs flasks, test tubes, and safety gear to carry out its experiments. They were given a $325 budget for the month. They bought $150 worth of flasks, spent two-thirds of that amount on test tubes, and used half of the test tube cost on safety gear. How many dollars of their budget remained?",
+  "steps": [
+    "First, I know the total budget for the laboratory is $325.",
+    "They bought flasks for $150.",
+    "To find the cost of test tubes, I calculate two-thirds of $150.",
+    "Two-thirds of $150 is calculated as \\( (2/3) \\times 150 = 100 \\).",
+    "So, they spent $100 on test tubes.",
+    "Next, I need to find the cost of safety gear. It's stated as half of the cost of the test tubes.",
+    "Half of $100 (the cost of the test tubes) is calculated as \\( 1/2 \\times 100 = 50 \\).",
+    "So, they spent $50 on safety gear.",
+    "Now, I add up the total expenses: $150 on flasks, $100 on test tubes, and $50 on safety gear.",
+    "The total spent is $150 + $100 + $50 = $300.",
+    "I now subtract the total expenses from the initial budget to find the remaining amount.",
+    "The remaining budget is $325 - $300 = $25."
+  ],
+  "solution": "25"
+}

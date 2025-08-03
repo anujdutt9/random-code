@@ -1,0 +1,17 @@
+{
+  "query": "Two-thirds of the class have brown eyes. Half of the students with brown eyes have black hair. If there are 6 students in the class with brown eyes and black hair, how many students are there in total?",
+  "steps": [
+    "I need to find the total number of students in the class.",
+    "First, I know that two-thirds of the class have brown eyes.",
+    "Out of the students with brown eyes, half of them have black hair.",
+    "I am given that there are 6 students with both brown eyes and black hair.",
+    "Since there are 6 students with both brown eyes and black hair, and this group represents half of the students with brown eyes, there must be 6 x 2 = 12 students with brown eyes in total.",
+    "The 12 students with brown eyes represent two-thirds of the class.",
+    "To find the total class size, I need to determine what the full class size is if two-thirds equals 12.",
+    "I set up the equation: (2/3) * total_students = 12.",
+    "To solve for total_students, I multiply both sides of the equation by the reciprocal of 2/3, which is 3/2.",
+    "total_students = 12 x (3/2).",
+    "total_students = 18."
+  ],
+  "solution": "18"
+}

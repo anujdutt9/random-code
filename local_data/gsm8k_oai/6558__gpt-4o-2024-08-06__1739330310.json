@@ -1,0 +1,14 @@
+{
+  "query": "It takes 20 minutes for John to go to the bathroom 8 times.  How long would it take to go 6 times?",
+  "steps": [
+    "First, I need to find out how long it takes for John to go to the bathroom once.",
+    "John goes to the bathroom 8 times in 20 minutes.",
+    "To find the time per trip, I need to divide the total time by the number of trips. So, I calculate 20 minutes divided by 8 trips.",
+    "Calculating 20 divided by 8 gives me 2.5 minutes per trip.",
+    "Now, I need to find out how long it would take to go to the bathroom 6 times.",
+    "Since each trip takes 2.5 minutes, I multiply 2.5 minutes by 6 trips.",
+    "Calculating 2.5 times 6 gives me 15 minutes.",
+    "So, it would take John 15 minutes to go to the bathroom 6 times."
+  ],
+  "solution": "15"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Jennifer's boyfriend left 5 texts about the grocery shopping, 5 times more texts asking why she wasn't responding, and a number of texts equal to 10% of all the texts he sent previously saying he was calling the police. How many texts did he send total?",
+  "steps": [
+    "First, let's determine the number of texts he sent about grocery shopping.",
+    "He sent 5 texts about the grocery shopping.",
+    "Next, let's find out how many texts he sent asking why she wasn't responding.",
+    "He sent 5 times more texts asking why she wasn't responding.",
+    "If he sent 5 texts about grocery shopping, then he sent 5 * 5 = 25 texts asking why she wasn't responding.",
+    "Now, let's sum these texts to find out how many texts he sent up to this point.",
+    "He sent 5 (grocery texts) + 25 (why not responding texts) = 30 texts so far.",
+    "Next, we need to determine the number of texts equal to 10% of all the texts he sent previously where he said he was calling the police.",
+    "10% of all the texts he sent previously (30 texts) is 30 * 0.10 = 3 texts.",
+    "Finally, we sum all the types of texts to find the total number of texts he sent.",
+    "He sent 5 (grocery) + 25 (why not responding) + 3 (calling police) = 33 texts in total."
+  ],
+  "solution": "33"
+}

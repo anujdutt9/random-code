@@ -1,0 +1,13 @@
+{
+  "query": "To let Ruth know how long her fish will live, her father tells her that well-cared fish can live 2 years longer than dogs live. On average, dogs live 4 times as long as hamsters live. And hamsters live an average of 2.5 years. How long can a fish live?",
+  "steps": [
+    "First, I need to find out how long a dog lives on average. I know that dogs live 4 times as long as hamsters.",
+    "Hamsters live an average of 2.5 years.",
+    "To find out how long dogs live, I multiply the hamster's lifespan by 4.",
+    "2.5 years * 4 = 10 years. So, on average, dogs live 10 years.",
+    "Now, I need to find out how long a well-cared-for fish can live. I know that a fish can live 2 years longer than a dog.",
+    "Since dogs live 10 years, a fish can live 10 years + 2 years.",
+    "10 years + 2 years = 12 years. So, a well-cared-for fish can live 12 years."
+  ],
+  "solution": "12"
+}

@@ -1,0 +1,23 @@
+{
+  "query": "A family just bought a newborn puppy that must eat a special type of dog food until it is 1 year old.  The puppy needs to eat 2 ounces of this special dog food per day during the first 60 days of its life.  After that, it needs to eat 4 ounces per day of the special food until it is old enough to eat regular dog food.  If the special dog food is only sold in 5-pound bags, and there are 16 ounces in a pound, how many bags will the family need to buy to feed the puppy until it is old enough to eat regular dog food?",
+  "steps": [
+    "First, I need to calculate how much special dog food the puppy needs for the first 60 days.",
+    "The puppy eats 2 ounces per day for the first 60 days.",
+    "2 ounces/day * 60 days = 120 ounces.",
+    "Next, I need to find out how much food the puppy needs for the rest of the first year.",
+    "There are 365 days in a year, and the puppy already ate special food for 60 days.",
+    "365 days - 60 days = 305 days remaining to eat special dog food.",
+    "During these 305 days, the puppy needs 4 ounces of special food per day.",
+    "4 ounces/day * 305 days = 1220 ounces.",
+    "Now, I add the ounces needed for the first 60 days to the ounces needed for the next 305 days.",
+    "120 ounces + 1220 ounces = 1340 ounces total.",
+    "Next, I convert the total ounces of dog food to pounds because the food is sold in 5-pound bags.",
+    "There are 16 ounces in one pound.",
+    "1340 ounces / 16 ounces per pound = 83.75 pounds.",
+    "The dog food is sold in 5-pound bags, so I need to determine how many 5-pound bags are needed.",
+    "83.75 pounds / 5 pounds/bag = 16.75 bags.",
+    "Since we can't purchase a fraction of a bag, I need to round up to the nearest whole number.",
+    "Rounding up 16.75 gives 17 bags."
+  ],
+  "solution": "17"
+}

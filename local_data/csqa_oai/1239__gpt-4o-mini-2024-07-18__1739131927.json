@@ -1,0 +1,15 @@
+{
+  "query": "Question: If a train is behind schedule what is it likely to do?\n\nChoices:\nA: arrive late\nB: slow down\nC: make up time\nD: arrive early\nE: arrive on time",
+  "steps": [
+    "The question states that a train is behind schedule, which means it is not on track to arrive at the planned time.",
+    "The potential answers to consider in relation to the question are: A (arrive late), B (slow down), C (make up time), D (arrive early), and E (arrive on time).",
+    "If the train is behind schedule, it can't arrive on time (E) since that would contradict the initial condition of being behind.",
+    "Similarly, if the train is behind schedule, it cannot arrive early (D) for the same reasoning.",
+    "Considering option B (slow down), a train that is already behind schedule is unlikely to slow down further, as that would cause it to become even more delayed.",
+    "That leaves us with options A (arrive late) and C (make up time).",
+    "While a train can attempt to make up time (C) by increasing speed or minimizing stops, the reality of \"being behind schedule\" generally indicates that it will not be able to arrive at the original scheduled time.",
+    "Therefore, the most consistent and straightforward outcome of a train being behind schedule is that it will arrive late (A).",
+    "Thus, the logical conclusion is that the train is likely to arrive late."
+  ],
+  "solution": "A"
+}

@@ -1,0 +1,21 @@
+{
+  "query": "Laura wants to bake a cake for her mother. She checks the recipe and the pantry and sees that she needs to buy 2 cups of flour, 2 cups of sugar, a cup of butter, and two eggs. The flour costs $4. The sugar costs $2. The eggs cost $.5, and the butter costs $2.5. When she is done baking it, she cuts the cake into 6 slices. Her mother enjoys a piece the first two days. But on the third day, they discover that Kevin, her dog, ate the rest of the cake. How much did the amount the dog ate cost?",
+  "steps": [
+    "Laura wants to bake a cake and notes the ingredients she needs to buy, along with their costs.",
+    "She needs to buy 2 cups of flour, which costs $4.",
+    "She needs to buy 2 cups of sugar, which costs $2.",
+    "She needs to buy a cup of butter, which costs $2.5.",
+    "She needs to buy two eggs, which cost $0.5.",
+    "Now, add up the total cost of all the ingredients:\n- Flour: $4\n- Sugar: $2\n- Butter: $2.5\n- Eggs: $0.5",
+    "Calculate the total cost: $4 + $2 + $2.5 + $0.5 = $9",
+    "Laura cuts the cake into 6 slices.",
+    "Her mother eats 1 piece per day for 2 days, so she consumes 2 slices in total.",
+    "This leaves 6 - 2 = 4 slices remaining.",
+    "Kevin the dog eats the remaining 4 slices.",
+    "To find out how much the portion Kevin ate costs, calculate the value per slice: Total cost of the cake ($9) divided by the number of slices (6).",
+    "Cost per slice = $9 / 6 = $1.5",
+    "Kevin ate 4 slices, each costing $1.5.",
+    "Calculate the total cost of the slices Kevin ate: 4 slices * $1.5 per slice = $6."
+  ],
+  "solution": "6"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "On Tuesday, a fruit vendor sold 2.5 dozen lemons and 5 dozens avocados. What is the total number of fruits that the fruit vendor sold?",
+  "steps": [
+    "First, I need to calculate the total number of lemons sold.",
+    "There are 12 items in a dozen.",
+    "The vendor sold 2.5 dozen lemons.",
+    "To find out how many lemons that is, I multiply 2.5 by 12.",
+    "2.5 \u00d7 12 = 30 lemons.",
+    "Next, I need to calculate the total number of avocados sold.",
+    "The vendor sold 5 dozens of avocados.",
+    "To find out how many avocados that is, I multiply 5 by 12.",
+    "5 \u00d7 12 = 60 avocados.",
+    "Now, I need to find the total number of fruits sold.",
+    "I do this by adding the total number of lemons and the total number of avocados together.",
+    "30 lemons + 60 avocados = 90 fruits."
+  ],
+  "solution": "90"
+}

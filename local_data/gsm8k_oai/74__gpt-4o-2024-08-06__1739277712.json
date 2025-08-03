@@ -1,0 +1,15 @@
+{
+  "query": "Four people lost a total of 103 kilograms of weight. The first person lost 27 kilograms. The second person lost 7 kilograms less than the first person. The two remaining people lost the same amount. How many kilograms did each of the last two people lose?",
+  "steps": [
+    "First, I need to determine the amount of weight the second person lost.",
+    "The second person lost 7 kilograms less than the first person.",
+    "Since the first person lost 27 kilograms, I subtract 7 kilograms from 27 kilograms to find the second person's weight loss: 27 - 7 = 20 kilograms.",
+    "Next, I calculate the total weight lost by the first two people.",
+    "I add the weight loss of the first and second person: 27 kilograms + 20 kilograms = 47 kilograms.",
+    "I need to find out how much weight was lost by the last two people together.",
+    "Since the total weight lost by all four people combined is 103 kilograms, I subtract the weight lost by the first two people from the total: 103 - 47 = 56 kilograms.",
+    "The two remaining people lost an equal amount of weight.",
+    "I divide the total weight lost by the last two people by 2 to find out how much each of them lost: 56 \u00f7 2 = 28 kilograms."
+  ],
+  "solution": "28"
+}

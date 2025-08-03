@@ -1,0 +1,15 @@
+{
+  "query": "A basketball team won 35 out of the 50 games that they have played. They still have 25 games left to play for the season. How many of the remaining games must they win so that their percentage of wins in the entire season is 64%?",
+  "steps": [
+    "First, I need to calculate the total number of games the team will play in the entire season.",
+    "They have already played 50 games and have 25 more games left to play.",
+    "So, the total number of games in the season is 50 + 25 = 75.",
+    "Next, I need to calculate how many games they must win in total to achieve a 64% win rate for the season.",
+    "64% of 75 games is calculated as 0.64 * 75.",
+    "0.64 * 75 = 48. So, they need to win 48 games in total.",
+    "They have already won 35 games.",
+    "Therefore, the number of games they still need to win is 48 - 35.",
+    "48 - 35 = 13."
+  ],
+  "solution": "13"
+}

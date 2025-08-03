@@ -1,0 +1,13 @@
+{
+  "query": "For every 1 year a human ages, a dog ages 7 years.  When Max is 3, how much older, in dog years, will his 3-year-old dog be?",
+  "steps": [
+    "First, I need to understand the relationship given in the problem: for every 1 year a human ages, a dog ages 7 years.",
+    "Max is 3 years old, and his dog is also 3 years old. I need to calculate how old the dog is in \"dog years.\"",
+    "To find the age of a 3-year-old dog in dog years, I multiply the dog's human years by 7.",
+    "So, I calculate 3 years (human years) \u00d7 7 = 21 dog years.",
+    "To find out how much older the dog is in dog years compared to human years, I subtract Max's age (in human years) from the dog's age (in dog years).",
+    "So, 21 dog years - 3 human years = 18.",
+    "Therefore, Max's dog is 18 dog years older than Max is in human years."
+  ],
+  "solution": "18"
+}

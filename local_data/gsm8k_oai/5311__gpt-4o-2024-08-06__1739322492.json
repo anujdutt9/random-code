@@ -1,0 +1,15 @@
+{
+  "query": "Tim takes his 3 children trick or treating.  They are out for 4 hours.  Each hour they visited 5 houses.  Each house gives 3 treats per kid.  How many treats do his children get in total?",
+  "steps": [
+    "Tim's children were out trick or treating for 4 hours.",
+    "Each hour they visited 5 houses.",
+    "To find the total number of houses they visited, I multiply the number of hours by the number of houses per hour: 4 hours * 5 houses/hour.",
+    "4 hours * 5 houses/hour = 20 houses.",
+    "Each house gives 3 treats per kid.",
+    "Tim has 3 children, so at each house, the total number of treats given is 3 children * 3 treats/child.",
+    "3 children * 3 treats/child = 9 treats per house.",
+    "To find the total number of treats, I multiply the number of houses by the number of treats per house: 20 houses * 9 treats/house.",
+    "20 houses * 9 treats/house = 180 treats."
+  ],
+  "solution": "180"
+}

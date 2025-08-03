@@ -1,0 +1,17 @@
+{
+  "query": "Erin works in the school cafeteria serving soup. Each bowl of soup has 10 ounces, and Erin can serve 5 bowls per minute. If the pot of soup has 6 gallons of soup, how long will it take Erin to serve all the soup, rounded to the nearest minute? (There are 128 ounces to a gallon.)",
+  "steps": [
+    "First, I need to calculate the total number of ounces in the pot of soup.",
+    "The pot has 6 gallons of soup, and there are 128 ounces in each gallon.",
+    "I multiply 6 gallons by 128 ounces per gallon to find the total ounces: 6 * 128 = 768 ounces.",
+    "Next, I need to determine how many total bowls of soup can be served from 768 ounces.",
+    "Each bowl contains 10 ounces of soup.",
+    "I divide the total ounces by the ounces per bowl: 768 ounces / 10 ounces per bowl = 76.8 bowls.",
+    "Now, I know Erin can serve 5 bowls per minute.",
+    "I need to calculate the total time required to serve all 76.8 bowls.",
+    "I divide the total number of bowls by the number of bowls served per minute: 76.8 bowls / 5 bowls per minute = 15.36 minutes.",
+    "Finally, I round the time to the nearest minute.",
+    "15.36 minutes rounds to 15 minutes."
+  ],
+  "solution": "15"
+}

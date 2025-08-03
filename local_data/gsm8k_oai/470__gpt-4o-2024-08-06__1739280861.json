@@ -1,0 +1,13 @@
+{
+  "query": "A lot of people have been sick at Gary's workplace, so he's been working a lot of extra shifts to fill in for people. As a result, he's earned some overtime (where every hour after 40 he earns 1.5 times his normal wage.) His paycheck (before taxes are taken out) came out to $696. If Gary normally earns $12 per hour, how many hours did he work that week?",
+  "steps": [
+    "First, I need to determine how much Gary earns for the first 40 hours he works at his normal wage.",
+    "Gary's normal wage is $12 per hour. So, for 40 hours, he earns 40 * $12 = $480.",
+    "Since Gary's total earnings were $696, this means the amount he earned from overtime is $696 - $480 = $216.",
+    "Gary earns 1.5 times his normal wage for overtime hours. His normal wage is $12, so his overtime wage is 1.5 * $12 = $18 per hour.",
+    "Now, I need to determine how many overtime hours Gary worked. If he earned $216 from overtime, then the number of hours he worked overtime is $216 / $18 per hour = 12 hours.",
+    "To find the total hours Gary worked, I need to add the 40 regular hours to the 12 overtime hours.",
+    "40 regular hours + 12 overtime hours = 52 total hours."
+  ],
+  "solution": "52"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Andy harvests all the tomatoes from 18 plants that have 7 tomatoes each. If he dries half the tomatoes and turns a third of the remainder into marinara sauce, how many tomatoes are left?",
+  "steps": [
+    "First, I need to calculate the total number of tomatoes that Andy harvests from his 18 plants.",
+    "Each plant has 7 tomatoes, so I multiply 18 plants by 7 tomatoes per plant.",
+    "18 multiplied by 7 equals 126. So, Andy has 126 tomatoes in total.",
+    "Next, Andy dries half of the tomatoes. To find out how many that is, I need to divide 126 by 2.",
+    "126 divided by 2 is 63. So, Andy dries 63 tomatoes.",
+    "Now, I subtract the dried tomatoes from the total, which is 126 - 63.",
+    "126 minus 63 equals 63 tomatoes remaining.",
+    "Andy turns a third of the remaining tomatoes into marinara sauce. So, I need to divide 63 by 3.",
+    "63 divided by 3 equals 21. So, Andy uses 21 tomatoes for marinara sauce.",
+    "Finally, I subtract the tomatoes used for marinara sauce from the remaining tomatoes after drying, which is 63 - 21.",
+    "63 minus 21 equals 42."
+  ],
+  "solution": "42"
+}

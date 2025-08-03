@@ -1,0 +1,12 @@
+{
+  "query": "At the Boisjoli farm, there is a chicken coop where 270 hens and 3 roosters live. Every morning, around 8 a.m., Ms. Mosel goes to collect the eggs because, every morning, each hen lays one. Then, after 1 hour of collection, she puts all these eggs in boxes of 6. It takes her another 40 minutes. Once all this is done, Ms. Mosel brings all the boxes of eggs to her village. She does it from Monday to Sunday, because chickens don't have a day off. How many boxes does Ms. Mosel fill each week?",
+  "steps": [
+    "First, I need to determine how many eggs are collected each day. Each hen lays one egg per day and there are 270 hens.",
+    "The number of eggs collected each day is 270 hens * 1 egg per hen = 270 eggs.",
+    "Next, I need to figure out how many eggs are put into each box. Each box holds 6 eggs.",
+    "Now, I can calculate the number of boxes filled each day by dividing the total eggs collected by the number of eggs per box: 270 eggs / 6 eggs per box = 45 boxes.",
+    "This calculation is for one day. Ms. Mosel collects eggs every day of the week, which is 7 days a week.",
+    "Now, I'll calculate the total number of boxes filled in a week: 45 boxes/day * 7 days = 315 boxes."
+  ],
+  "solution": "315"
+}

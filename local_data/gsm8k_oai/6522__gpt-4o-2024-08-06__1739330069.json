@@ -1,0 +1,29 @@
+{
+  "query": "Ellie takes her little brother down to the pond to teach him how to skip stones. After he takes his first throw, she gives him pointers to improve his technique. His second throw skips two more times across the water than his first. His third throw skips twice as many times as his second. His fourth throw skips 3 fewer times than his third throw. His fifth throw skips one more time than the fourth throw. If his fifth throw skipped 8 times across the water, how many skips did he make in total between all of his throws?",
+  "steps": [
+    "I need to find out how many skips each throw made.",
+    "Let's denote the number of skips in the first throw as x.",
+    "The second throw skips 2 more times than the first throw, so it is x + 2.",
+    "The third throw skips twice as many times as the second throw, so it is 2(x + 2).",
+    "The fourth throw skips 3 fewer times than the third throw, so it is 2(x + 2) - 3.",
+    "The fifth throw skips one more time than the fourth throw, so it is 2(x + 2) - 3 + 1.",
+    "According to the problem, the fifth throw skipped 8 times.",
+    "Set the equation for the fifth throw: 2(x + 2) - 3 + 1 = 8.",
+    "Simplify the equation: 2(x + 2) - 2 = 8.",
+    "Further simplify: 2(x + 2) = 10.",
+    "Solve for x: x + 2 = 5.",
+    "Subtract 2 from both sides: x = 3.",
+    "Now I know the number of skips for each throw:",
+    "First throw: x = 3.",
+    "Second throw: x + 2 = 5.",
+    "Third throw: 2(x + 2) = 10.",
+    "Fourth throw: 10 - 3 = 7.",
+    "Fifth throw: 7 + 1 = 8.",
+    "Add all the skips together: 3 + 5 + 10 + 7 + 8.",
+    "3 + 5 = 8.",
+    "8 + 10 = 18.",
+    "18 + 7 = 25.",
+    "25 + 8 = 33."
+  ],
+  "solution": "33"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "A curry house sells curries that have varying levels of spice. Recently, a lot of the customers have been ordering very mild curries and the chefs have been having to throw away some wasted ingredients. To reduce cost and food wastage, the curry house starts monitoring how many ingredients are actually being used and changes their spending accordingly. The curry house needs 3 peppers for very spicy curries, 2 peppers for spicy curries, and only 1 pepper for mild curries. After adjusting their purchasing, the curry house now buys the exact amount of peppers they need. Previously, the curry house was buying enough peppers for 30 very spicy curries, 30 spicy curries, and 10 mild curries. They now buy enough peppers for 15 spicy curries and 90 mild curries. They no longer sell very spicy curries. How many fewer peppers does the curry house now buy?",
+  "steps": [
+    "First, calculate the total number of peppers originally purchased.",
+    "For the very spicy curries, which required 3 peppers each, the curry house bought peppers for 30 curries. So, 30 curries x 3 peppers = 90 peppers.",
+    "For the spicy curries, which required 2 peppers each, the curry house bought peppers for 30 curries. So, 30 curries x 2 peppers = 60 peppers.",
+    "For the mild curries, which required 1 pepper each, the curry house bought peppers for 10 curries. So, 10 curries x 1 pepper = 10 peppers.",
+    "Add these together to get the total number of peppers originally purchased: 90 + 60 + 10 = 160 peppers.",
+    "Next, calculate the total number of peppers currently being purchased.",
+    "For the spicy curries, now requiring 2 peppers each, they buy enough for 15 curries. So, 15 curries x 2 peppers = 30 peppers.",
+    "For the mild curries, requiring 1 pepper each, they buy enough for 90 curries. So, 90 curries x 1 pepper = 90 peppers.",
+    "Add these together to get the total number of peppers currently purchased: 30 + 90 = 120 peppers.",
+    "Finally, calculate the difference in the number of peppers purchased now vs. before: 160 - 120 = 40 fewer peppers."
+  ],
+  "solution": "40"
+}

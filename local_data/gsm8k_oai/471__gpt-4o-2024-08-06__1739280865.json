@@ -1,0 +1,13 @@
+{
+  "query": "Earl started delivering newspapers on the first floor of a condominium building. He then went up 5 floors then went down 2 floors. He again went up 7 floors and found that he is 9 floors away from the top of the building. How many floors does the building have?",
+  "steps": [
+    "Earl started on the first floor of the building.",
+    "He then went up 5 floors, so he was on the 1 + 5 = 6th floor.",
+    "He went down 2 floors from the 6th floor, so he was on the 6 - 2 = 4th floor.",
+    "He then went up 7 floors from the 4th floor, so he was on the 4 + 7 = 11th floor.",
+    "Earl is 9 floors away from the top of the building, meaning he is on the 11th floor and 9 more floors would be the top.",
+    "Therefore, the top floor would be 11 + 9 = 20th floor.",
+    "Since we're asked for the total number of floors, the building has 20 floors."
+  ],
+  "solution": "20"
+}

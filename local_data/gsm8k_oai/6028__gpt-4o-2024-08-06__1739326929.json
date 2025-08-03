@@ -1,0 +1,19 @@
+{
+  "query": "Bethany loved riding horses.  She rode 1 hour after school every Monday, Wednesday, and Friday.  On Tuesday and Thursday, she rode for 30 min and on Saturdays, she could ride for 2 hours.  How many hours in total did she ride over a 2 week period?",
+  "steps": [
+    "To find the total number of hours Bethany rides over a 2-week period, I need to calculate her riding hours per week first.",
+    "Bethany rides for 1 hour each on Monday, Wednesday, and Friday.",
+    "There are 3 days (Monday, Wednesday, Friday) where she rides for 1 hour. So, in one week that's 1 hour \u00d7 3 days = 3 hours.",
+    "Bethany rides for 30 minutes each on Tuesday and Thursday.",
+    "30 minutes is 0.5 hours.",
+    "There are 2 days (Tuesday, Thursday) where she rides for 0.5 hours. So, that's 0.5 hours \u00d7 2 days = 1 hour.",
+    "Bethany rides for 2 hours on Saturday.",
+    "Sunday is not mentioned, so I assume Bethany does not ride on Sundays.",
+    "So, for one week, her total riding time is Monday to Friday (3 hours) + Tuesday and Thursday (1 hour) + Saturday (2 hours).",
+    "Total hours for one week: 3 hours + 1 hour + 2 hours = 6 hours.",
+    "I need to calculate for 2 weeks.",
+    "So, multiply the weekly total by 2: 6 hours \u00d7 2 weeks.",
+    "That gives me 12 hours."
+  ],
+  "solution": "12"
+}

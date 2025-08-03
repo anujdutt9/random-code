@@ -1,0 +1,16 @@
+{
+  "query": "It takes Roque two hours to walk to work and one hour to ride his bike to work. Roque walks to and from work three times a week and rides his bike to and from work twice a week. How many hours in total does he take to get to and from work a week with walking and biking?",
+  "steps": [
+    "First, I need to calculate the total time Roque spends walking to and from work in a week.",
+    "Roque walks to work 3 times a week and back from work 3 times a week, making it 6 walking trips in total.",
+    "Each walking trip takes Roque 2 hours.",
+    "To find the total walking time, I multiply the number of walking trips by the time per trip: 6 walking trips * 2 hours per trip = 12 hours.",
+    "Next, I calculate the total time Roque spends biking to and from work in a week.",
+    "Roque rides his bike to work 2 times a week and back from work 2 times a week, making it 4 biking trips in total.",
+    "Each biking trip takes Roque 1 hour.",
+    "To find the total biking time, I multiply the number of biking trips by the time per trip: 4 biking trips * 1 hour per trip = 4 hours.",
+    "Now, I need to add the total walking time and the total biking time to get the total time spent commuting in a week.",
+    "Total time spent commuting = total walking time + total biking time = 12 hours + 4 hours = 16 hours."
+  ],
+  "solution": "16"
+}

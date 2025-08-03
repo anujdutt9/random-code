@@ -1,0 +1,17 @@
+{
+  "query": "It costs Molly $5 per package to send Christmas gifts to her relatives by mail.  She has two parents and three brothers, and each of her brothers is married with 2 children each.  If she sends one package to each relative by mail, how much does it cost her to send all of the gifts by mail to her relatives, in dollars?",
+  "steps": [
+    "First, I need to determine how many relatives Molly has.",
+    "Molly has two parents.",
+    "Molly also has three brothers.",
+    "Each brother is married, which means there are 3 spouses.",
+    "Each brother has 2 children, so there are 3 brothers * 2 children each = 6 children.",
+    "To find the total number of relatives, I add all of these up: 2 parents + 3 brothers + 3 spouses + 6 children.",
+    "2 + 3 + 3 + 6 = 14. Molly has a total of 14 relatives.",
+    "I need to find out the total cost of sending packages to each relative.",
+    "Each package costs $5, and there are 14 packages.",
+    "The total cost is 14 packages * $5 per package.",
+    "14 * 5 = 70."
+  ],
+  "solution": "70"
+}

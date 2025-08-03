@@ -1,0 +1,15 @@
+{
+  "query": "There were 50 candies left in a bowl after Shelly ate 20 candies the previous week. Her friend comes over, bringing twice as much candy as she originally had. Shelly adds this to the bowl and they decide to divide them equally. How much candy did her friend have after eating 10 of her candies?",
+  "steps": [
+    "Shelly originally had 70 candies because she ate 20, leaving 50.",
+    "Her friend brings twice as much candy as Shelly originally had, so she brings \\( 70 \\times 2 = 140 \\) candies.",
+    "They add these 140 candies to the existing 50 candies in the bowl.",
+    "The total candies in the bowl are \\( 50 + 140 = 190 \\) candies.",
+    "Shelly and her friend divide the candies equally, so each of them gets \\( \\frac{190}{2} = 95 \\) candies.",
+    "Initially, her friend brought 140 candies.",
+    "After the equal division, her friend had 95 candies.",
+    "Therefore, to determine how much candy her friend had after eating 10 candies, we subtract 10 from 95.",
+    "The friend's remaining candies after eating 10 are \\( 95 - 10 = 85 \\)."
+  ],
+  "solution": "85"
+}

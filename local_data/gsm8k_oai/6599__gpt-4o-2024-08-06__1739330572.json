@@ -1,0 +1,17 @@
+{
+  "query": "Johnson has a sack of potatoes. He gives Gina 69 potatoes, gives Tom twice as much potatoes as he gave Gina and gives one-third of the amount of potatoes he gave Tom to Anne. How many potatoes does he have left if the sack contains 300 potatoes?",
+  "steps": [
+    "Johnson starts with 300 potatoes.",
+    "Johnson gives Gina 69 potatoes.",
+    "After giving Gina 69 potatoes, Johnson has 300 - 69 = 231 potatoes left.",
+    "Johnson gives Tom twice as many potatoes as he gave Gina.",
+    "Twice as many as he gave Gina means 2 * 69 = 138 potatoes.",
+    "Johnson gives Tom 138 potatoes.",
+    "After giving Tom 138 potatoes, Johnson has 231 - 138 = 93 potatoes left.",
+    "Johnson gives Anne one-third of the amount he gave Tom.",
+    "One-third of what he gave Tom is 138 / 3 = 46 potatoes.",
+    "Johnson gives Anne 46 potatoes.",
+    "After giving Anne 46 potatoes, Johnson has 93 - 46 = 47 potatoes left."
+  ],
+  "solution": "47"
+}

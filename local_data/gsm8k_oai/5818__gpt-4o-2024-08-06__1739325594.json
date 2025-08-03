@@ -1,0 +1,18 @@
+{
+  "query": "Tommy is looking at his change collection. He has 10 more dimes than pennies. He has twice as many nickels as dimes. He has 4 quarters. He has 10 times as many pennies as quarters. How many nickels does he have?",
+  "steps": [
+    "To solve the problem, I'll define variables for the number of each coin type.",
+    "Let \\( p \\) be the number of pennies Tommy has.",
+    "According to the problem, Tommy has 10 more dimes than pennies. So, the number of dimes is \\( p + 10 \\).",
+    "He has twice as many nickels as dimes. Therefore, the number of nickels is \\( 2(p + 10) \\).",
+    "He has 4 quarters.",
+    "According to the problem, Tommy has 10 times as many pennies as quarters. Thus, the number of pennies \\( p = 10 \\times 4 \\).",
+    "Calculate the number of pennies: \\( p = 10 \\times 4 = 40 \\).",
+    "Now that I know Tommy has 40 pennies, I can calculate the number of dimes.",
+    "Number of dimes: \\( 40 + 10 = 50 \\).",
+    "Now calculate the number of nickels.",
+    "Number of nickels: \\( 2 \\times 50 = 100 \\).",
+    "Double-check: Tommy has 40 pennies, which is 10 times the number of his 4 quarters, so that's correct. With 40 pennies, he has 50 dimes (40 + 10 = 50), and hence he should have 100 nickels (2 \\times 50 = 100)."
+  ],
+  "solution": "100"
+}

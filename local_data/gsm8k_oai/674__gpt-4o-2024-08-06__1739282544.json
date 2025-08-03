@@ -1,0 +1,20 @@
+{
+  "query": "A parking garage near Nora's house is 4 stories tall. There are 100 spots per level. There are 58 open parking spots on the first level. There are 2 more open parking spots on the second level than on the first level, and there are 5 more open parking spots on the third level than on the second level. There are 31 open parking spots on the fourth level. How many full parking spots are there in all?",
+  "steps": [
+    "First, I will calculate the number of open parking spots on the second level.",
+    "The second level has 2 more open parking spots than the first level. The first level has 58 open spots.",
+    "58 (first level) + 2 = 60 open spots on the second level.",
+    "Now, I will calculate the number of open parking spots on the third level.",
+    "The third level has 5 more open spots than the second level.",
+    "60 (second level) + 5 = 65 open spots on the third level.",
+    "I know from the problem statement that the fourth level has 31 open parking spots.",
+    "Now, I will add up the total number of open parking spots across all levels.",
+    "58 (first level) + 60 (second level) + 65 (third level) + 31 (fourth level) = 214 open parking spots in total.",
+    "Next, I will calculate the total number of parking spots in the garage.",
+    "The garage is 4 stories tall with 100 spots per level.",
+    "4 levels * 100 spots per level = 400 total parking spots.",
+    "To find the number of full parking spots, I need to subtract the number of open spots from the total number of spots.",
+    "400 total spots - 214 open spots = 186 full parking spots."
+  ],
+  "solution": "186"
+}

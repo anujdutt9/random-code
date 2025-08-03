@@ -1,0 +1,16 @@
+{
+  "query": "Jade had $38 and her sister Julia had half as much money she had. On New Year's eve, their aunt gave each of them an equal amount of money so that they had a total of $97. How much did their aunt give each of them?",
+  "steps": [
+    "First, I'll determine how much money Julia had initially. Jade had $38, and Julia had half of that amount.",
+    "Half of $38 is $38 / 2 = $19. So, Julia had $19.",
+    "Next, I'll calculate their combined initial amount of money before receiving any from their aunt.",
+    "Their combined initial amount is Jade's $38 plus Julia's $19.",
+    "$38 + $19 = $57. So initially, they had $57 together.",
+    "Their final combined amount after receiving money from their aunt is $97.",
+    "I need to find the total amount of money their aunt gave them, which is the difference between the final combined amount and the initial combined amount.",
+    "$97 - $57 = $40. This is the total amount of money given by their aunt to both.",
+    "Since their aunt gave them each an equal amount, I need to divide this total by 2 to find out how much each received.",
+    "$40 / 2 = $20. Therefore, each of them received $20 from their aunt."
+  ],
+  "solution": "20"
+}

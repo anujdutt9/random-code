@@ -1,0 +1,13 @@
+{
+  "query": "Paul goes fishing every Saturday. Last week he was able to catch 5 fish for every 2 hours he was fishing. How many fish did he catch when he was fishing for 12 hours?",
+  "steps": [
+    "First, I need to determine how many hours Paul spends fishing on each of his fishing trips, and I know he fishes for 12 hours in this particular instance.",
+    "I know that Paul catches 5 fish for every 2 hours he fishes.",
+    "To find out how many sets of 2 hours are in 12 hours, I divide 12 by 2.",
+    "12 divided by 2 is 6, so there are 6 sets of 2 hours in 12 hours.",
+    "Since Paul catches 5 fish for every 2 hours of fishing, he catches 5 fish in each of these 6 sets of 2 hours.",
+    "To find the total number of fish he catches during the 12 hours, multiply the number of sets (6) by the number of fish caught per set (5).",
+    "6 multiplied by 5 equals 30."
+  ],
+  "solution": "30"
+}

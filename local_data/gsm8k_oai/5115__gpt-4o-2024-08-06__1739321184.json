@@ -1,0 +1,19 @@
+{
+  "query": "Janet makes $20 per hour at work. She works 52 hours per week. Anything over 40 hours per week is considered overtime and is paid at 1.5 times the normal rate. She wants to purchase a $4640 car. How many weeks does she need to work to purchase the car?",
+  "steps": [
+    "First, I need to calculate Janet's earnings from her regular hours.",
+    "Janet works 40 regular hours per week at $20 per hour.",
+    "Her weekly earnings from regular hours are 40 hours * $20/hour = $800.",
+    "Next, I need to calculate her earnings from overtime hours.",
+    "Janet works 52 hours per week, so her overtime hours are 52 hours - 40 hours = 12 hours.",
+    "Her overtime pay rate is 1.5 times her regular rate, which is 1.5 * $20/hour = $30/hour.",
+    "Her weekly earnings from overtime hours are 12 hours * $30/hour = $360.",
+    "Now, I will calculate her total weekly earnings by adding earnings from regular and overtime hours.",
+    "Her total weekly earnings are $800 + $360 = $1160.",
+    "Next, I need to calculate how many weeks Janet needs to work to earn $4640.",
+    "I will divide the total amount needed by her weekly earnings: $4640 / $1160.",
+    "$4640 divided by $1160 equals 4.",
+    "Janet needs to work 4 weeks to purchase the car."
+  ],
+  "solution": "4"
+}

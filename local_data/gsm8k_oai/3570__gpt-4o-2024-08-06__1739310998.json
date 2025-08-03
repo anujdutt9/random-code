@@ -1,0 +1,16 @@
+{
+  "query": "Brittany got a 78 on her first test. After her second test, her average rose to an 81. What grade did she get on her second test?",
+  "steps": [
+    "First, I need to understand that the average grade is the sum of all grades divided by the number of grades.",
+    "Brittany has two grades, so the average of these two grades is 81.",
+    "The current average after the second test is 81, and there were two tests taken.",
+    "To find the sum of the two grades needed to get this average, multiply the average by the number of tests: 81 * 2.",
+    "81 * 2 = 162.",
+    "So the sum of the grades from the first and second test is 162.",
+    "We know the first test grade is 78.",
+    "Let's find the second test grade by subtracting the first test grade from the sum of both test grades.",
+    "162 - 78 = 84.",
+    "Brittany got an 84 on her second test."
+  ],
+  "solution": "84"
+}

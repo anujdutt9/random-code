@@ -1,0 +1,14 @@
+{
+  "query": "John is half times younger than his father, who is 4 years older than John's mother. If John's father is 40 years old, what's the age difference between John and his mother?",
+  "steps": [
+    "First, I need to understand what \"half times younger\" means. Generally, \"half times younger\" isn't a clear term, but it might imply that John's age is half that of his father's age.",
+    "John's father is 40 years old.",
+    "If John is \"half times younger\" and that means he is half his father's age, we calculate John's age as 40 divided by 2.",
+    "So, John's age is 20.",
+    "Now, I need to find John's mother's age to determine the age difference between John and his mother.",
+    "John's father is 4 years older than John's mother. Since John's father is 40, his mother must be 40 - 4.",
+    "John's mother's age is 36.",
+    "Finally, I find the age difference between John and his mother by subtracting John's age from his mother's age: 36 - 20."
+  ],
+  "solution": "16"
+}

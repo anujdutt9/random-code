@@ -1,0 +1,16 @@
+{
+  "query": "There are three goldfish and ten platyfish in a fish tank. Each goldfish plays with ten red balls, while each platyfish plays with five white balls. What is the total number of balls in the fish tank?",
+  "steps": [
+    "There are three goldfish in the tank.",
+    "Each goldfish plays with ten red balls.",
+    "To find the total number of red balls, I multiply the number of goldfish by the number of red balls each goldfish has.",
+    "3 goldfish * 10 red balls per goldfish = 30 red balls.",
+    "There are ten platyfish in the tank.",
+    "Each platyfish plays with five white balls.",
+    "To find the total number of white balls, I multiply the number of platyfish by the number of white balls each platyfish has.",
+    "10 platyfish * 5 white balls per platyfish = 50 white balls.",
+    "Now, I add the total number of red balls and white balls to find the total number of balls in the tank.",
+    "30 red balls + 50 white balls = 80 balls."
+  ],
+  "solution": "80"
+}

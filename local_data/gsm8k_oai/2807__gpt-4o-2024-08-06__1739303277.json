@@ -1,0 +1,16 @@
+{
+  "query": "Osborn is testing a new way to get dressed in the morning on school days so he goes faster and can get up later. He tracks his time for the week and on Monday is takes him 2 minutes. On Tuesday it takes him 4 minutes. On Wednesday it takes him 3 minutes. On Thursday it takes him 4 minutes. Before Friday arrives he looks at his old way of getting dressed and sees that it was taking him 3 minutes on average to get dressed. How fast does he have to get dressed on Friday so his weekly average ties his old method?",
+  "steps": [
+    "First, I need to determine the total time Osborn took to get dressed from Monday to Thursday using his new method.",
+    "On Monday, it took him 2 minutes.",
+    "On Tuesday, it took him 4 minutes.",
+    "On Wednesday, it took him 3 minutes.",
+    "On Thursday, it took him 4 minutes.",
+    "Calculate the total time taken from Monday to Thursday: \\(2 + 4 + 3 + 4 = 13\\) minutes.",
+    "He needs to average 3 minutes per day over 5 days in the week to match his old method.",
+    "The total time for 5 days at 3 minutes per day is \\(5 \\times 3 = 15\\) minutes.",
+    "Determine how fast he needs to get dressed on Friday by calculating the difference between the required total time for the week and his current total time.",
+    "Calculate the time needed on Friday: \\(15 - 13 = 2\\) minutes."
+  ],
+  "solution": "2"
+}

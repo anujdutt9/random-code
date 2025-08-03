@@ -1,0 +1,11 @@
+{
+  "query": "Arabella is a dance student learning three new steps this session. Her instructor has her spend thirty minutes on learning the first step. The second step she masters in half the time. The third step is more complex, so it takes her as long as both the other steps to learn. How many minutes did she spend learning the three steps?",
+  "steps": [
+    "Arabella spends 30 minutes on learning the first step.",
+    "The second step takes her half the time of the first step, which is 30 / 2 = 15 minutes.",
+    "The third step takes as long as both the other steps combined. The combined time for the first and second steps is 30 + 15 = 45 minutes.",
+    "Arabella spends 45 minutes on the third step.",
+    "To find the total time spent, add the time spent on all three steps: 30 + 15 + 45 = 90 minutes."
+  ],
+  "solution": "90"
+}

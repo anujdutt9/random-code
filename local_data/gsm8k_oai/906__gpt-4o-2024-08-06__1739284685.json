@@ -1,0 +1,16 @@
+{
+  "query": "The bus started its route. At its first stop, 7 people got on. At the second stop, 3 people got off, and 5 people got on. At the third stop, 2 people got off, and 4 people got on. How many passengers are now on the bus?",
+  "steps": [
+    "Initially, there are no passengers on the bus.",
+    "At the first stop, 7 people get on the bus. So now there are 7 people on the bus.",
+    "At the second stop, 3 people get off the bus.",
+    "Subtract 3 from 7 to find out how many are left: 7 - 3 = 4 people remain on the bus.",
+    "At the second stop, 5 more people get on the bus.",
+    "Add 5 to the remaining 4: 4 + 5 = 9 people are now on the bus.",
+    "At the third stop, 2 people get off the bus.",
+    "Subtract 2 from 9 to find out how many are left: 9 - 2 = 7 people remain on the bus.",
+    "At the third stop, 4 more people get on the bus.",
+    "Add 4 to the remaining 7: 7 + 4 = 11 people are now on the bus."
+  ],
+  "solution": "11"
+}

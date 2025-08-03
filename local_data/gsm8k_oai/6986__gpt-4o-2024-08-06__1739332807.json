@@ -1,0 +1,21 @@
+{
+  "query": "Briar is attending a one-week community empowerment event and has to take a cab ride to the event and back home every day. A cab ride costs $2.5 per mile. If the event is 200 miles away from Briar's home, calculate the total amount of money the cab rides cost would be at the end of the event?",
+  "steps": [
+    "First, I need to find the distance that Briar travels in one day for both the ride to the event and the ride back home.",
+    "The event is 200 miles away from Briar's home.",
+    "So, the round trip distance per day is 200 miles to the event and 200 miles back home.",
+    "The round trip distance per day is 200 + 200 = 400 miles.",
+    "Next, I need to calculate the cost of the cab rides for one whole day.",
+    "The cost per mile is $2.5.",
+    "Thus, the cost per day is 400 miles * $2.5 per mile.",
+    "Calculate the daily cost: 400 * 2.5 = 1000 dollars per day.",
+    "Now, determine the number of days Briar attends the event.",
+    "The event is one week long.",
+    "A week has 7 days.",
+    "Now, calculate the total cost of all cab rides for the entire week.",
+    "Total cost = daily cost * number of days of the event.",
+    "Total cost = 1000 dollars per day * 7 days.",
+    "Calculate the total cost: 1000 * 7 = 7000 dollars."
+  ],
+  "solution": "7000"
+}

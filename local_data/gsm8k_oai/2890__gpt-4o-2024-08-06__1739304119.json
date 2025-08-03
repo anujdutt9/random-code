@@ -1,0 +1,16 @@
+{
+  "query": "Kyle has $12 less than 3 times what Dave has. Kyle then spends a third of it going snowboarding. If Dave has $46, how much money does Kyle have?",
+  "steps": [
+    "First, I need to determine how much money Kyle has initially.",
+    "The problem states Kyle has $12 less than 3 times what Dave has.",
+    "Dave has $46.",
+    "I need to calculate 3 times what Dave has: 3 * $46 = $138.",
+    "Next, I subtract $12 from $138 to find how much Kyle initially has: $138 - $12 = $126.",
+    "Now, I know Kyle initially has $126.",
+    "The problem states that Kyle spends a third of his money going snowboarding.",
+    "I calculate a third of Kyle's initial amount: $126 / 3 = $42.",
+    "Now, I subtract the amount spent on snowboarding from Kyle's initial amount: $126 - $42 = $84.",
+    "Thus, after spending, Kyle has $84 left."
+  ],
+  "solution": "84"
+}

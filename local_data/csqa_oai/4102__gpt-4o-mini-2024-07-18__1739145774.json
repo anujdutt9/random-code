@@ -1,0 +1,16 @@
+{
+  "query": "Question: Sam reflected on his long life, which started in 1918.  How long has Sam lived?\n\nChoices:\nA: graveyard\nB: cause death\nC: end\nD: last 100 years\nE: spring forth",
+  "steps": [
+    "Identify Sam's birth year, which is provided as 1918.",
+    "Determine the current year. For the purpose of this problem, I will assume it is 2023.",
+    "Calculate the span of years from 1918 to 2023 by subtracting the birth year from the current year: 2023 - 1918.",
+    "Perform the subtraction: 2023 - 1918 equals 105.",
+    "Sam has lived for 105 years.",
+    "Examine the answer choices to determine which one reflects the duration of Sam's life.",
+    "Choices 'A', 'B', and 'E' do not relate to a duration of life or age.",
+    "Choice 'C' simply states \"end,\" which does not quantify time.",
+    "Choice 'D', \"last 100 years,\" is the only option that aligns closely with the length of Sam's life, despite being an approximation.",
+    "Although Sam has lived for exactly 105 years, \"last 100 years\" implies a significant duration of life covering that timeframe."
+  ],
+  "solution": "D"
+}

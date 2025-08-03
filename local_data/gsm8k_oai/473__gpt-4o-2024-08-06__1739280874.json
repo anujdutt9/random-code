@@ -1,0 +1,16 @@
+{
+  "query": "James and Ali together own $250. If you know that James owns $40 more than Ali, then calculate the amount owned by James.",
+  "steps": [
+    "Let's assume the amount of money Ali owns is A dollars.",
+    "According to the problem, James owns $40 more than Ali. So, James owns A + $40.",
+    "Together, James and Ali own $250. Therefore, we can write the equation: A + (A + $40) = $250.",
+    "Simplify the equation: 2A + $40 = $250.",
+    "Subtract $40 from both sides to isolate the terms with A: 2A = $250 - $40.",
+    "Calculate the right side: 2A = $210.",
+    "Divide both sides by 2 to solve for A: A = $210 / 2.",
+    "Perform the division to find A: A = $105.",
+    "Now that we know Ali owns $105, we can calculate how much James owns: A + $40 = $105 + $40.",
+    "Calculate the sum: James owns $145."
+  ],
+  "solution": "145"
+}

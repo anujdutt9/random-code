@@ -1,0 +1,20 @@
+{
+  "query": "Chef Michel made shepherd's pie cut into 4 pieces and chicken pot pie cut into 5 pieces for the lunch crowd.  52 customers ordered slices of shepherd's pie and 80 customers ordered slices of chicken pot pie. How many total pies did Chef Michel sell?",
+  "steps": [
+    "The shepherd's pie is cut into 4 pieces.",
+    "52 customers ordered slices of shepherd's pie.",
+    "Each shepherd's pie serves 4 customers.",
+    "To find how many shepherd's pies were sold, I need to divide the total number of customers by the number of servings per pie.",
+    "52 divided by 4 equals 13.",
+    "Therefore, Chef Michel sold 13 shepherd's pies.",
+    "The chicken pot pie is cut into 5 pieces.",
+    "80 customers ordered slices of chicken pot pie.",
+    "Each chicken pot pie serves 5 customers.",
+    "To find how many chicken pot pies were sold, I need to divide the total number of customers by the number of servings per pie.",
+    "80 divided by 5 equals 16.",
+    "Therefore, Chef Michel sold 16 chicken pot pies.",
+    "Now, I need to find the total number of pies sold.",
+    "13 shepherd's pies + 16 chicken pot pies = 29 pies."
+  ],
+  "solution": "29"
+}

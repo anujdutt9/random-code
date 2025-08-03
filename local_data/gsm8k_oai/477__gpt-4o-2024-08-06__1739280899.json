@@ -1,0 +1,12 @@
+{
+  "query": "A couple's wedding reception had 180 people. The bride and groom had each invited 20 couples from their side of the family. The remaining guests were friends. How many friends attended the reception?",
+  "steps": [
+    "First, I need to understand the problem. There were 180 people who attended the wedding reception.",
+    "The bride invited 20 couples from her side of the family. Since each couple consists of 2 people, that means 20 x 2 = 40 people were invited by the bride as family.",
+    "Similarly, the groom also invited 20 couples from his side of the family. So, 20 x 2 = 40 people were invited by the groom as family.",
+    "To find the total number of family members invited, I need to add the family members invited by each: 40 people (bride's side) + 40 people (groom's side) = 80 people.",
+    "Now, to find out how many friends were at the reception, I need to subtract the number of family members from the total number of guests.",
+    "180 people - 80 family members = 100 friends."
+  ],
+  "solution": "100"
+}

@@ -1,0 +1,24 @@
+{
+  "query": "Marie is planning to buy a new cash register for her bakery that costs $1040. Every day Marie sells 40 loaves of bread for $2 each and 6 cakes for $12 each. She has to pay $20 each day for rent and $2 each day for electricity. How many days' worth of profits will it take for Marie to pay for the cash register?",
+  "steps": [
+    "First, I need to calculate how much money Marie makes from selling the bread each day.",
+    "Marie sells 40 loaves of bread for $2 each, so the income from the bread is 40 * $2.",
+    "40 * $2 equals $80. So, Marie makes $80 per day from bread sales.",
+    "Next, I will calculate how much money Marie makes from selling the cakes each day.",
+    "Marie sells 6 cakes for $12 each, so the income from the cakes is 6 * $12.",
+    "6 * $12 equals $72. So, Marie makes $72 per day from cake sales.",
+    "Next, I will calculate Marie's total income per day from both bread and cake sales combined.",
+    "The total income is $80 from bread + $72 from cakes.",
+    "$80 + $72 equals $152. So, Marie makes $152 in total per day.",
+    "Now, I need to calculate Marie's expenses per day.",
+    "Marie has to pay $20 for rent and $2 for electricity each day, so the total daily expenses are $20 + $2.",
+    "$20 + $2 equals $22. So, Marie's expenses per day are $22.",
+    "Next, I will calculate Marie's profit per day by subtracting the expenses from the total income.",
+    "The profit per day is $152 (total income) - $22 (expenses).",
+    "$152 - $22 equals $130. So, Marie's profit is $130 per day.",
+    "Now I need to determine how many days it will take Marie to make $1040 from her daily profits.",
+    "I will divide the cost of the cash register, $1040, by Marie's daily profit, $130.",
+    "$1040 \u00f7 $130 equals 8."
+  ],
+  "solution": "8"
+}

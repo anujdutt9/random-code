@@ -1,0 +1,18 @@
+{
+  "query": "Naomi is doing the wash. First she makes piles of different types, with one pile for towels, one for sheets, and one for clothes that need to be washed on the gentle cycle. The clothes take 30 minutes to wash. The towels take twice as long as the clothes to wash. The sheets take 15 minutes less time to wash than the towels. How many minutes total will it take for Naomi to wash everything?",
+  "steps": [
+    "First, I need to determine how long it takes to wash the clothes.",
+    "The clothes take 30 minutes to wash.",
+    "Next, I will determine how long it takes to wash the towels.",
+    "The towels take twice as long as the clothes, so 2 times 30 minutes.",
+    "Calculating that, 2 * 30 minutes = 60 minutes for the towels.",
+    "Now, I need to find out how long it takes to wash the sheets.",
+    "The sheets take 15 minutes less than the towels.",
+    "The towels take 60 minutes, so the sheets take 60 - 15 minutes.",
+    "Calculating that, 60 - 15 = 45 minutes for the sheets.",
+    "Now I will calculate the total time to wash everything.",
+    "Add the time for the clothes, towels, and sheets together: 30 minutes for clothes, 60 minutes for towels, and 45 minutes for sheets.",
+    "Adding those, 30 + 60 + 45 = 135 minutes."
+  ],
+  "solution": "135"
+}

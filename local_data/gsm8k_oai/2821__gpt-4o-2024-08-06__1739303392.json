@@ -1,0 +1,15 @@
+{
+  "query": "Matt orders 15 pounds of beef.  He cuts that into 12-ounce steaks.  How many steaks does he get?",
+  "steps": [
+    "Matt has ordered 15 pounds of beef.",
+    "There are 16 ounces in one pound.",
+    "I need to convert the total pounds to ounces to find out how many ounces of beef Matt has.",
+    "So, 15 pounds of beef is equal to 15 \u00d7 16 ounces.",
+    "15 \u00d7 16 = 240 ounces.",
+    "Now that I know Matt has 240 ounces of beef, I need to determine how many 12-ounce steaks he can cut from this.",
+    "To find out the number of steaks, I divide the total number of ounces by the number of ounces per steak.",
+    "240 ounces divided by 12 ounces per steak is 240 \u00f7 12.",
+    "240 \u00f7 12 = 20."
+  ],
+  "solution": "20"
+}

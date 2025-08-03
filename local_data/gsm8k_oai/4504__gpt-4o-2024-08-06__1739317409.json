@@ -1,0 +1,18 @@
+{
+  "query": "An old car can drive 8 miles in one hour. After 5 hours of constant driving, the car needs to get cooled down which takes 1 hour. How many miles can this car drive in 13 hours?",
+  "steps": [
+    "First, I need to determine how many hours the car spends driving versus cooling down in the 13-hour period.",
+    "The car drives for 5 hours, then cools down for 1 hour. This is a 6-hour cycle.",
+    "I should calculate how many full cycles of 6 hours fit into 13 hours.",
+    "13 divided by 6 is approximately 2 full cycles since 12 hours would be 2 cycles.",
+    "In 2 full cycles, the car will drive for 5 hours in each cycle, which totals 10 hours of driving.",
+    "After 2 cycles (12 hours), there is 1 hour remaining (13 hours total - 12 hours for 2 cycles = 1 hour).",
+    "The car can continue driving for this additional hour since the remaining hour is less than the needed hour for a cool-down.",
+    "In total, the car drives for 10 hours from the 2 cycles and 1 additional hour that's leftover.",
+    "The total driving hours equal 11 hours (10 hours + 1 additional hour).",
+    "The car drives at 8 miles per hour.",
+    "I need to calculate the total miles driven: 11 hours of driving multiplied by 8 miles per hour.",
+    "11 hours \u00d7 8 miles/hour equals 88 miles."
+  ],
+  "solution": "88"
+}

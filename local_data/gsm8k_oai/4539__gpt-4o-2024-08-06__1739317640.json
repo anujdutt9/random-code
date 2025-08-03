@@ -1,0 +1,20 @@
+{
+  "query": "At Palm Meadows, there are 13 hotel rooms. Eight of the rooms have two beds in them and the rest have three beds. How many beds are there in total?",
+  "steps": [
+    "First, I need to figure out how many rooms have two beds and how many rooms have three beds.",
+    "The problem states that there are 13 hotel rooms in total.",
+    "It also states that 8 of these rooms have two beds.",
+    "So, the remaining rooms must have three beds.",
+    "To find out how many rooms have three beds, I subtract the number of two-bed rooms from the total number of rooms.",
+    "13 total rooms - 8 rooms with two beds = 5 rooms with three beds.",
+    "Next, I calculate the total number of beds from the rooms with two beds.",
+    "There are 8 rooms, each with 2 beds.",
+    "8 rooms \u00d7 2 beds/room = 16 beds from the two-bed rooms.",
+    "Now, I calculate the total number of beds from the rooms with three beds.",
+    "There are 5 rooms, each with 3 beds.",
+    "5 rooms \u00d7 3 beds/room = 15 beds from the three-bed rooms.",
+    "Finally, I add up all the beds to find the total number of beds in the hotel.",
+    "16 beds (from two-bed rooms) + 15 beds (from three-bed rooms) = 31 beds."
+  ],
+  "solution": "31"
+}

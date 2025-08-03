@@ -1,0 +1,15 @@
+{
+  "query": "Bryan bought 5 t-shirts and 4 pairs of pants for $1500. If a t-shirt costs $100, how much does each pair of pants cost?",
+  "steps": [
+    "Let's start by considering the information we have: Bryan bought 5 t-shirts and 4 pairs of pants for $1500 in total.",
+    "We know the cost of one t-shirt is $100.",
+    "We will first calculate how much Bryan spent on the t-shirts.",
+    "Since he bought 5 t-shirts and each costs $100, the total cost for the t-shirts is 5 t-shirts * $100/t-shirt = $500.",
+    "Now, we will subtract the total cost of the t-shirts from the overall amount spent to find how much he spent on pants.",
+    "The total amount spent is $1500. The amount spent on t-shirts is $500. Thus, the amount spent on pants is $1500 - $500 = $1000.",
+    "Bryan bought 4 pairs of pants for this amount.",
+    "To find the cost of each pair of pants, we'll divide the total amount spent on pants by the number of pairs.",
+    "The cost of each pair of pants is $1000 / 4 pairs = $250."
+  ],
+  "solution": "250"
+}

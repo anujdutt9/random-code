@@ -1,0 +1,15 @@
+{
+  "query": "Jack has been driving for the past 9 years. He drives 37,000 miles every four months. How many miles has Jack driven since he started driving?",
+  "steps": [
+    "First, I need to determine how many four-month periods are in 9 years.",
+    "There are 12 months in a year.",
+    "Therefore, in 9 years, there are 9 * 12 = 108 months.",
+    "Now, I should find out how many four-month periods are in 108 months.",
+    "I divide the total number of months, 108, by 4 to get the number of four-month periods.",
+    "108 / 4 = 27 four-month periods.",
+    "Jack drives 37,000 miles every four months.",
+    "To find the total number of miles Jack has driven, I multiply the number of four-month periods by the miles he drives in each period.",
+    "27 * 37,000 = 999,000 miles."
+  ],
+  "solution": "999,000"
+}

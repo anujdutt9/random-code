@@ -1,0 +1,16 @@
+{
+  "query": "John weighs one-quarter times more than what Mary weighs. Mary weighs 20 lbs less than Jamison's weight. If Mary weighs 160 lbs, what's the combined weight of the three?",
+  "steps": [
+    "First, I need to understand how much Mary weighs. According to the problem, Mary weighs 160 lbs.",
+    "Next, let's find out how much John weighs. John weighs one-quarter times more than what Mary weighs. This implies John's weight is 1.25 times Mary's weight.",
+    "Now, calculate John's weight: John's weight = 1.25 * Mary's weight = 1.25 * 160 lbs.",
+    "1.25 * 160 = 200 lbs. John weighs 200 lbs.",
+    "Now, let's determine Jamison's weight. Mary weighs 20 lbs less than Jamison.",
+    "If Mary weighs 160 lbs, then Jamison's weight is Mary\u2019s weight + 20 lbs = 160 lbs + 20 lbs.",
+    "Jamison's weight = 180 lbs.",
+    "Now, let's calculate the combined weight of John, Mary, and Jamison. Their combined weight is John's weight + Mary's weight + Jamison's weight.",
+    "Combined weight = 200 lbs (John) + 160 lbs (Mary) + 180 lbs (Jamison).",
+    "200 + 160 + 180 = 540 lbs."
+  ],
+  "solution": "540"
+}

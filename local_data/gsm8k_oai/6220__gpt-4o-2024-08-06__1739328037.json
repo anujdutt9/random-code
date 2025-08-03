@@ -1,0 +1,19 @@
+{
+  "query": "Lily bought a Russian nesting doll as a souvenir. The biggest doll is 243 cm tall, and each doll is 2/3rd the size of the doll that contains it. How big is the 6th biggest doll?",
+  "steps": [
+    "The biggest doll is 243 cm tall.",
+    "Each doll is 2/3 the size of the previous doll.",
+    "To find the size of the 6th biggest doll, I need to calculate the sizes sequentially.",
+    "First, calculate the size of the 2nd biggest doll: \\(243 \\times \\frac{2}{3}\\).",
+    "\\(243 \\times \\frac{2}{3} = 162\\).",
+    "Now, calculate the size of the 3rd biggest doll: \\(162 \\times \\frac{2}{3}\\).",
+    "\\(162 \\times \\frac{2}{3} = 108\\).",
+    "Next, calculate the size of the 4th biggest doll: \\(108 \\times \\frac{2}{3}\\).",
+    "\\(108 \\times \\frac{2}{3} = 72\\).",
+    "Now, calculate the size of the 5th biggest doll: \\(72 \\times \\frac{2}{3}\\).",
+    "\\(72 \\times \\frac{2}{3} = 48\\).",
+    "Finally, calculate the size of the 6th biggest doll: \\(48 \\times \\frac{2}{3}\\).",
+    "\\(48 \\times \\frac{2}{3} = 32\\)."
+  ],
+  "solution": "32"
+}

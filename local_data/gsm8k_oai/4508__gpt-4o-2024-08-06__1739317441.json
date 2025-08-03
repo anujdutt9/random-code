@@ -1,0 +1,15 @@
+{
+  "query": "A YouTube video got 3000 likes and 100 more than half as many dislikes. If the video gets 1000 more dislikes and 0 more likes how many dislikes does the video have?",
+  "steps": [
+    "Let me first determine how many dislikes the video originally had.",
+    "The video got 100 more than half as many dislikes as the number of likes.",
+    "The video has 3000 likes.",
+    "Half of 3000 likes is 3000 / 2 = 1500.",
+    "The number of dislikes is 100 more than half of 3000.",
+    "So, the number of original dislikes is 1500 + 100 = 1600.",
+    "According to the problem, the video gets 1000 more dislikes.",
+    "The new total number of dislikes is the original 1600 dislikes plus an additional 1000 dislikes.",
+    "1600 + 1000 = 2600."
+  ],
+  "solution": "2600"
+}

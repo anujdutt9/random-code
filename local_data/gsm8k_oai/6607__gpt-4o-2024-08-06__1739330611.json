@@ -1,0 +1,18 @@
+{
+  "query": "Carly is a pet groomer. Today, her task was trimming the four nails on dogs\u2019 paws. She trimmed 164 nails, but three of the dogs had only three legs. How many dogs did Carly work on?",
+  "steps": [
+    "I need to determine the number of dogs Carly worked on given the total number of nails trimmed and the fact that some dogs have only three legs.",
+    "So first, let's assume all dogs have four legs, which would mean each dog has 4 paws, i.e., 16 nails.",
+    "Since three dogs have only three legs, those dogs would have only 3 \u00d7 4 = 12 nails each.",
+    "Let's calculate the number of nails trimmed from these three dogs.",
+    "The 3 dogs with three legs would have a total of 3 \u00d7 12 = 36 nails trimmed.",
+    "I need to subtract these 36 nails from the total number of 164 nails.",
+    "So, subtracting 36 from 164 gives me 164 - 36 = 128 nails.",
+    "The number of nails left, 128, comes from dogs with four legs.",
+    "Each four-legged dog has 16 nails, so I divide 128 by 16 to find the number of these dogs.",
+    "128 \u00f7 16 = 8 dogs.",
+    "Thus, there are 8 four-legged dogs and 3 three-legged dogs.",
+    "Therefore, the total number of dogs Carly worked on today is 8 + 3 = 11."
+  ],
+  "solution": "11"
+}

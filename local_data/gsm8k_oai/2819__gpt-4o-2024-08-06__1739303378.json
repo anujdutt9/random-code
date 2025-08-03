@@ -1,0 +1,16 @@
+{
+  "query": "Brian likes to read books.  He read one book that had 20 chapters, two books that had 15 chapters each, and one book that had half the chapters of the three previous books put together. How many chapters of books did Brian read?",
+  "steps": [
+    "First, I need to calculate the total number of chapters in the book that had 20 chapters.",
+    "The book with 20 chapters contributes 20 chapters.",
+    "Next, I need to calculate the total number of chapters in the two books that had 15 chapters each.",
+    "Two books with 15 chapters each contribute a total of 15 + 15 = 30 chapters.",
+    "Now, I need to find out about the last book that had half the chapters of the previous three books combined.",
+    "First, sum the chapters of the first three books: 20 (first book) + 30 (two books) = 50 chapters.",
+    "Half of the chapters of the three previous books is 50 / 2 = 25 chapters.",
+    "Finally, add up all the chapters from all the books: 20 + 30 + 25.",
+    "20 + 30 = 50.",
+    "50 + 25 = 75."
+  ],
+  "solution": "75"
+}

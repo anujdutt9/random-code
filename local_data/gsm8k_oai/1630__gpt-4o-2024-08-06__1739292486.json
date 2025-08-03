@@ -1,0 +1,15 @@
+{
+  "query": "A cobbler can mend 3 pairs of shoes in an hour. From Monday to Thursday, the cobbler works for 8 hours each day, and on Friday, he only works from 8am to 11am. How many pairs of shoes can the cobbler mend in a week?",
+  "steps": [
+    "First, I need to calculate how many hours the cobbler works from Monday to Thursday.",
+    "The cobbler works 8 hours each day from Monday to Thursday, and there are 4 days from Monday to Thursday.",
+    "The total hours from Monday to Thursday is 8 hours/day * 4 days = 32 hours.",
+    "Now, I need to calculate how many hours the cobbler works on Friday.",
+    "The cobbler works from 8am to 11am on Friday, which is 3 hours.",
+    "Now, I add up all the hours worked in the week: 32 hours (Monday to Thursday) + 3 hours (Friday) = 35 hours.",
+    "The cobbler can mend 3 pairs of shoes in an hour.",
+    "To find out the total number of pairs of shoes mended in a week, I multiply the total hours worked by the number of pairs mended per hour.",
+    "The total pairs of shoes mended is 35 hours * 3 pairs/hour = 105 pairs."
+  ],
+  "solution": "105"
+}

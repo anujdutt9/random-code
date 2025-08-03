@@ -1,0 +1,13 @@
+{
+  "query": "Greg is riding his bike around town and notices that each block he rides, his wheels rotate 200 times. He's now on a a trail and wants to make sure he rides at least 8 blocks. His wheels have already rotated 600 times, how many more times do they need to rotate to reach his goal?",
+  "steps": [
+    "Greg notices that his wheels rotate 200 times per block.",
+    "He wants to ride at least 8 blocks.",
+    "First, I need to calculate the total wheel rotations he needs to ride 8 blocks.",
+    "Total rotations required for 8 blocks = 8 blocks * 200 rotations/block = 1600 rotations.",
+    "He has already completed 600 wheel rotations.",
+    "To find out how many more rotations he needs, I subtract the completed rotations from the total required rotations.",
+    "1600 rotations (required) - 600 rotations (completed) = 1000 rotations needed."
+  ],
+  "solution": "1000"
+}

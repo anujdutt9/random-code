@@ -1,0 +1,22 @@
+{
+  "query": "Mark is 5 feet 3 inches tall and Mike is 6 feet and 1 inch tall. How much taller is Mike than Mark in inches if 1 foot is equal to 12 inches?",
+  "steps": [
+    "First, I need to convert Mark's height from feet and inches to inches only.",
+    "Mark is 5 feet 3 inches tall.",
+    "Since 1 foot is equal to 12 inches, I multiply 5 feet by 12 inches/foot.",
+    "5 feet x 12 inches/foot = 60 inches.",
+    "Now, I add the extra 3 inches to Mark's height in inches.",
+    "60 inches + 3 inches = 63 inches.",
+    "Next, I need to convert Mike's height from feet and inches to inches only.",
+    "Mike is 6 feet 1 inch tall.",
+    "Again, using the conversion, I multiply 6 feet by 12 inches/foot.",
+    "6 feet x 12 inches/foot = 72 inches.",
+    "Now, I add the extra 1 inch to Mike's height in inches.",
+    "72 inches + 1 inch = 73 inches.",
+    "To find out how much taller Mike is than Mark, I subtract Mark's height in inches from Mike's height in inches.",
+    "Mike's height in inches = 73 inches.",
+    "Mark's height in inches = 63 inches.",
+    "73 inches - 63 inches = 10 inches."
+  ],
+  "solution": "10"
+}

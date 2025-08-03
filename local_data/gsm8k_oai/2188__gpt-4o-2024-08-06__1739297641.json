@@ -1,0 +1,20 @@
+{
+  "query": "Jerry takes 2 antacids that weigh 2 grams each and are 5% zinc by weight. Then he takes three more smaller antacids that weigh 1 gram each and have 15% zinc. How many milligrams of zinc does he eat?",
+  "steps": [
+    "I need to calculate the amount of zinc in each type of antacid separately.",
+    "First, I'll calculate the zinc from the 2 antacids that weigh 2 grams each and are 5% zinc.",
+    "The weight of zinc in each 2-gram antacid is 5% of 2 grams.",
+    "5% of 2 grams is (5/100) * 2 = 0.1 grams.",
+    "Jerry takes 2 of these antacids, so the total zinc from the 2-gram antacids is 2 * 0.1 grams = 0.2 grams.",
+    "Now, I'll calculate the zinc from the 3 antacids that weigh 1 gram each and are 15% zinc.",
+    "The weight of zinc in each 1-gram antacid is 15% of 1 gram.",
+    "15% of 1 gram is (15/100) * 1 = 0.15 grams.",
+    "Jerry takes 3 of these antacids, so the total zinc from the 1-gram antacids is 3 * 0.15 grams = 0.45 grams.",
+    "The total amount of zinc Jerry consumes is the sum of zinc from both types of antacids.",
+    "Total zinc = 0.2 grams + 0.45 grams = 0.65 grams.",
+    "I need to convert grams to milligrams.",
+    "There are 1000 milligrams in a gram.",
+    "Thus, 0.65 grams is equal to 0.65 * 1000 = 650 milligrams."
+  ],
+  "solution": "650"
+}

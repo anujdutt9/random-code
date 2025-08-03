@@ -1,0 +1,12 @@
+{
+  "query": "Jamir and his two friends Sarah and Julien, go to their school's swimming pool to swim. Jamir swims 20 more meters per day than Sarah, who swims twice the distance Julien swims. They go to the swimming pool the whole week, swimming the same distances as before. If Julien swam 50 meters, what's the combined distance for three of them for the whole week?",
+  "steps": [
+    "First, identify how much Julien swims per day. It's given that Julien swims 50 meters per day.",
+    "Sarah swims twice the distance that Julien swims. So, calculate Sarah's daily distance: \\(2 \\times 50 = 100\\) meters.",
+    "Jamir swims 20 more meters than Sarah per day. Calculate Jamir's daily distance: \\(100 + 20 = 120\\) meters.",
+    "Now calculate the total daily distance for the three: \nJulien (50) + Sarah (100) + Jamir (120) = 270 meters.",
+    "They swim for the entire week, which consists of 7 days.",
+    "Multiply the combined daily distance by the number of days in the week to find the weekly total: \\(270 \\times 7 = 1890\\) meters."
+  ],
+  "solution": "1890"
+}

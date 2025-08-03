@@ -1,0 +1,16 @@
+{
+  "query": "Mr. Roberts can buy a television for $400 cash or $120 down payment and $30 a month for 12 months. How much can he save by paying cash?",
+  "steps": [
+    "First, I need to calculate the total cost Mr. Roberts will pay using the installment plan.",
+    "He makes a $120 down payment initially.",
+    "He then pays $30 for each of the 12 months.",
+    "I will multiply the monthly payment by the number of months: \\( 30 \\times 12 \\).",
+    "The result of \\( 30 \\times 12 \\) is $360.",
+    "I need to add the down payment to the total monthly payments: $120 + $360.",
+    "$120 + $360 equals $480.",
+    "Now, I compare the total installment cost to the cash price: $480 (installment) and $400 (cash).",
+    "The difference, which is the savings by paying cash, is $480 - $400.",
+    "The result of $480 - $400 is $80."
+  ],
+  "solution": "80"
+}

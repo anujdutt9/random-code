@@ -1,0 +1,12 @@
+{
+  "query": "If Lucy would give Linda $5, Lucy would have the same amount of money as Linda. If Lucy originally had $20, how much money did Linda have at the beginning?",
+  "steps": [
+    "The problem states that Lucy would have the same amount of money as Linda if she gave Linda $5.",
+    "This means that after the $5 transfer, Lucy's amount of money equals Linda's.",
+    "Originally, Lucy had $20.",
+    "If Lucy gives $5 to Linda, Lucy would then have $20 - $5 = $15.",
+    "Since giving $5 makes Lucy and Linda have the same amount, Linda must have $15 after receiving the $5 from Lucy.",
+    "If Linda has $15 after receiving the $5, then before receiving it, Linda must have had $15 - $5 = $10."
+  ],
+  "solution": "10"
+}

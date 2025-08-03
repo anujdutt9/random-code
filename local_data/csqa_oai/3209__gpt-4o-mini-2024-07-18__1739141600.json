@@ -1,0 +1,14 @@
+{
+  "query": "Question: Where would a doctor rush to?\n\nChoices:\nA: nursing home\nB: sick patients\nC: dentist\nD: emergency room\nE: golf course",
+  "steps": [
+    "Consider the role of a doctor and the environments they typically work in or respond to.",
+    "Examine the choices provided to identify where immediate medical attention is typically required.",
+    "A nursing home may require a doctor, but it does not necessarily imply urgency compared to other options.",
+    "Sick patients could indicate a need for a doctor, but it's vague as it doesn't specify a location.",
+    "A dentist is a different specialty; generally, doctors do not rush to a dentist's office.",
+    "A golf course is unrelated to urgent medical needs unless a specific incident occurs, but this is not a typical rush destination.",
+    "An emergency room is specifically designed for urgent medical care, where doctors often go in emergencies.",
+    "Compare all options: the emergency room is the most logical place for a doctor to rush to, as it is synonymous with urgent medical care."
+  ],
+  "solution": "D"
+}

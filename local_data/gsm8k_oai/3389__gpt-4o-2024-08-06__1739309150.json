@@ -1,0 +1,14 @@
+{
+  "query": "A certain store sells computer accessories and equipment. Due to a fire outbreak in one of the factories, the price of RAM increased by 30%. After two years, the price stabilized and finally fell by 20% from what it has risen. What is the current price of RAM if it was $50 before the fire?",
+  "steps": [
+    "The initial price of RAM before the fire was $50.",
+    "The price increased by 30% due to the fire. To find the increased amount, I calculate 30% of $50.",
+    "30% of $50 is \\((30/100) \\times 50 = 15\\).",
+    "I add the increased amount, $15, to the original price of $50. So, the new price after the increase is \\(50 + 15 = 65\\).",
+    "After two years, the price of the RAM fell by 20%. I need to calculate 20% of the increased price, which is $65.",
+    "20% of $65 is \\((20/100) \\times 65 = 13\\).",
+    "The price fell by $13, so I subtract this amount from the increased price of $65.",
+    "The final price of the RAM is \\(65 - 13 = 52\\)."
+  ],
+  "solution": "52"
+}

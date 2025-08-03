@@ -1,0 +1,16 @@
+{
+  "query": "Question: John works for a company that doesn't make anything.  It just buys, sales, and does what?\n\nChoices:\nA: own resources\nB: mail order\nC: commit crime\nD: ship goods\nE: stock shelves",
+  "steps": [
+    "The company is described as one that doesn't make anything, which indicates it's not a manufacturing business.",
+    "Since the company is involved in buying and selling, it likely engages in some form of commerce or trade.",
+    "The option \u201cA: own resources\u201d does not fit as owning resources alone does not align with the company's buying and selling activities.",
+    "The option \u201cB: mail order\u201d refers specifically to selling products through postal services, which might apply but does not encompass the overall activities of buying and selling in a general sense.",
+    "The option \u201cC: commit crime\u201d implies illegal activities, which is not relevant to a general description of a company involved in buying and selling.",
+    "The option \u201cD: ship goods\u201d relates to the logistical aspect of selling, which could be applicable. However, it may not fully describe the buying aspect.",
+    "The option \u201cE: stock shelves\u201d deals more with retail operations and does not capture the essence of buying and selling as described in the prompt.",
+    "Looking at the options again, \"buying and selling\" suggests that the company is functioning in a trading capacity, which can include shipping goods as part of that process.",
+    "Between \u201cD: ship goods\u201d and \u201cB: mail order,\u201d \u201cD: ship goods\u201d appears more general and aligns better with both buying and selling.",
+    "Confirming all previous steps, the most fitting answer to describe what the company does, alongside buying and selling, is to ship goods."
+  ],
+  "solution": "D"
+}

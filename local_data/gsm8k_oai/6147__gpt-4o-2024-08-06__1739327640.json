@@ -1,0 +1,17 @@
+{
+  "query": "There are 6 dogs and 2 ducks in the garden. How many feet are there in the garden?",
+  "steps": [
+    "First, I identify the different animals in the garden, which are dogs and ducks.",
+    "There are 6 dogs in the garden.",
+    "Each dog has 4 feet.",
+    "To calculate the total number of feet from the dogs, I multiply the number of dogs by the number of feet per dog: 6 dogs * 4 feet/dog.",
+    "6 * 4 = 24, so there are 24 feet from the dogs.",
+    "Next, I count the ducks in the garden. There are 2 ducks.",
+    "Each duck has 2 feet.",
+    "To find the total number of feet from the ducks, I multiply the number of ducks by the number of feet per duck: 2 ducks * 2 feet/duck.",
+    "2 * 2 = 4, so there are 4 feet from the ducks.",
+    "To find the total number of feet in the garden, I add the feet from the dogs to the feet from the ducks: 24 feet (dogs) + 4 feet (ducks).",
+    "24 + 4 = 28."
+  ],
+  "solution": "28"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "On a construction site, a mason has to build 6 courses of a wall, each having 10 bricks per course. He has to build 4 such walls and realized he won't be able to finish two courses of the last wall because there were not enough bricks. What's the total number of bricks that he has used?",
+  "steps": [
+    "First, I need to calculate the total number of bricks required for one complete wall.",
+    "Each wall has 6 courses, and each course requires 10 bricks.",
+    "Therefore, the number of bricks needed for one wall is 6 courses * 10 bricks/course = 60 bricks.",
+    "There are 4 walls to be built. So, for 4 complete walls, the total number of bricks required is 4 walls * 60 bricks/wall = 240 bricks.",
+    "However, the mason didn't complete two courses of the last wall.",
+    "Each course has 10 bricks, so two courses would require 2 courses * 10 bricks/course = 20 bricks.",
+    "Therefore, the mason finished 240 bricks - 20 bricks = 220 bricks."
+  ],
+  "solution": "220"
+}

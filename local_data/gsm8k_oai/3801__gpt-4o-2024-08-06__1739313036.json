@@ -1,0 +1,19 @@
+{
+  "query": "Safari National park has 100 lions, half as many snakes, and 10 fewer giraffes than snakes. On the other hand, Savanna National park has double as many lions as Safari National park, triple as many snakes as Safari National park, and 20 more giraffes than Safari National park. How many animals in total does Savanna National park have?",
+  "steps": [
+    "First, calculate the number of snakes in Safari National park.",
+    "Safari National park has half as many snakes as lions. Lions = 100, so snakes = 100 / 2 = 50.",
+    "Next, calculate the number of giraffes in Safari National park.",
+    "Safari National park has 10 fewer giraffes than snakes. Snakes = 50, so giraffes = 50 - 10 = 40.",
+    "Calculate the number of lions in Savanna National park.",
+    "Savanna National park has double the number of lions compared to Safari National park. Safari has 100 lions, so Savanna has 100 * 2 = 200 lions.",
+    "Calculate the number of snakes in Savanna National park.",
+    "Savanna National park has triple the number of snakes compared to Safari National park. Safari has 50 snakes, so Savanna has 50 * 3 = 150 snakes.",
+    "Calculate the number of giraffes in Savanna National park.",
+    "Savanna National park has 20 more giraffes compared to Safari National park. Safari has 40 giraffes, so Savanna has 40 + 20 = 60 giraffes.",
+    "Now, add the number of lions, snakes, and giraffes in Savanna National park to find the total number of animals.",
+    "Lions = 200, Snakes = 150, Giraffes = 60. Total animals = 200 + 150 + 60.",
+    "Total animals = 410."
+  ],
+  "solution": "410"
+}

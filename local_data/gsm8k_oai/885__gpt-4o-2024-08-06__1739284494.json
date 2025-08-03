@@ -1,0 +1,15 @@
+{
+  "query": "Bobby needs to buy a new pair of fancy shoes.  He decides to go to a cobbler and get them handmade.  The cobbler charges $250 to make the mold.  He then charges $75 an hour for 8 hours to make the shoes.  The cobbler agrees to only charge 80% of the cost for work to make the shoes, since it is his first pair of shoes.  How much did Bobby pay?",
+  "steps": [
+    "First, I need to calculate the total labor cost of making the shoes before any discounts.",
+    "The cobbler charges $75 an hour and works for 8 hours.",
+    "To find the total labor cost, I multiply the hourly rate by the number of hours: $75 * 8 = $600.",
+    "Next, I need to apply the discount for the labor cost.",
+    "The cobbler agrees to only charge 80% of the labor cost.",
+    "I calculate 80% of $600 to find out how much Bobby actually pays for the labor.",
+    "80% of $600 is calculated as 0.80 * $600 = $480.",
+    "Now, I add the cost of making the mold with the discounted labor cost to find the total cost Bobby pays.",
+    "The mold cost is $250, and the discounted labor cost is $480. I add these together: $250 + $480 = $730."
+  ],
+  "solution": "730"
+}

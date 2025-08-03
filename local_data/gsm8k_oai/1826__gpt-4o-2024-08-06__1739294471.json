@@ -1,0 +1,13 @@
+{
+  "query": "Miriam is trying to exercise more and figures if she counts her exercises it will be encouraging to see her numbers go up. On Monday she does 5 push-ups. On Tuesday she does 7 push-ups. On Wednesday she does twice as many push-ups as the day before. On Thursday she does half the number of total pushups she already did that week. Finally, on Friday she does as many pushups as the total number she did over the previous four days. How many pushups does Miriam do on Friday?",
+  "steps": [
+    "On Monday, Miriam does 5 push-ups.",
+    "On Tuesday, she does 7 push-ups.",
+    "On Wednesday, she does twice as many push-ups as the day before, which means she does 2 * 7 = 14 push-ups.",
+    "As of Wednesday, she has done a total of 5 + 7 + 14 = 26 push-ups.",
+    "On Thursday, she does half the number of the total push-ups she already did. So she does 26 / 2 = 13 push-ups on Thursday.",
+    "By the end of Thursday, the total number of push-ups is 5 + 7 + 14 + 13 = 39.",
+    "On Friday, she does as many push-ups as the total number she did over the previous four days, which means she does 39 push-ups."
+  ],
+  "solution": "39"
+}

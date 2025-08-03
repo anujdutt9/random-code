@@ -1,0 +1,14 @@
+{
+  "query": "Ian used a grocery delivery app to have his groceries delivered.  His original order was $25 before delivery and tip.  He noticed that 3 items changed on his order.  A $0.99 can of tomatoes was replaced by a $2.20 can of tomatoes, his $1.00 lettuce was replaced with $1.75 head of lettuce and his $1.96 celery was replaced with celery that cost $2.00.  Delivery and tip came to a total of $8.00.  How much is his new bill now, with the food substitutes and delivery/tip?",
+  "steps": [
+    "First, I need to determine the total cost increase due to the substituted items.",
+    "The first substitution is a $0.99 can of tomatoes being replaced by a $2.20 can. To find the increase, I subtract $0.99 from $2.20, which gives an increase of $1.21.",
+    "The second substitution is $1.00 lettuce being replaced by $1.75 head of lettuce. The increase is $1.75 minus $1.00, resulting in an increase of $0.75.",
+    "The third substitution is $1.96 celery being replaced by $2.00 celery. The increase is $2.00 minus $1.96, which equals $0.04.",
+    "Now, I add up the total increase from the substitutions, which is $1.21 + $0.75 + $0.04 = $2.00.",
+    "The original grocery bill was $25. I need to add the $2.00 increase from substitutions, which makes the total $27.",
+    "Next, I include the delivery and tip, which amount to a total of $8.00. I add this to the current grocery total of $27.",
+    "$27 plus $8 gives a new total bill of $35."
+  ],
+  "solution": "35"
+}

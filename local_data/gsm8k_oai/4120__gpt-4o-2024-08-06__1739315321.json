@@ -1,0 +1,17 @@
+{
+  "query": "Bridget counted 14 shooting stars in the night sky.  Reginald counted two fewer shooting stars than did Bridget, but Sam counted four more shooting stars than did Reginald.  How many more shooting stars did Sam count in the night sky than was the average number of shooting stars observed for the three of them?",
+  "steps": [
+    "Bridget counted 14 shooting stars.",
+    "Reginald counted two fewer shooting stars than Bridget.",
+    "Subtracting 2 from 14 gives Reginald's count: 14 - 2 = 12.",
+    "Sam counted four more shooting stars than Reginald.",
+    "Adding 4 to Reginald's count gives Sam's count: 12 + 4 = 16.",
+    "Now, I need to find the average number of shooting stars observed by the three of them.",
+    "Add up all their counts: 14 (Bridget) + 12 (Reginald) + 16 (Sam) = 42.",
+    "There are three people, so divide the total by 3 to find the average: 42 / 3 = 14.",
+    "Now, I need to find how many more shooting stars Sam counted than this average.",
+    "Sam counted 16 shooting stars, and the average is 14.",
+    "Subtract the average from Sam's count: 16 - 14 = 2."
+  ],
+  "solution": "2"
+}

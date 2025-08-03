@@ -1,0 +1,13 @@
+{
+  "query": "Annie brought 20 brownies to school.  She gave half of them to the school administrator to put in the faculty lounge.  Of the remaining brownies, she gave half to her best friend, Carl, and another two to her friend, Simon.  How many brownies did she have left?",
+  "steps": [
+    "Annie started with 20 brownies.",
+    "She gave half of them to the school administrator, so she gave away 20 / 2 = 10 brownies.",
+    "After giving 10 brownies to the administrator, she had 20 - 10 = 10 brownies left.",
+    "She then gave half of the remaining brownies to her best friend Carl. Half of 10 is 10 / 2 = 5 brownies.",
+    "After giving 5 brownies to Carl, she had 10 - 5 = 5 brownies left.",
+    "She gave another 2 brownies to her friend Simon.",
+    "After giving 2 brownies to Simon, she had 5 - 2 = 3 brownies left."
+  ],
+  "solution": "3"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Jane is shopping for some fruit.  She sees a stand of fruit advertising 10 apples for $2, and another one advertising 5 oranges for $1.50.  Assuming there's no price discount for buying in bulk, how much would Jane spend in cents if she bought 12 of the cheaper of the two fruits?",
+  "steps": [
+    "Jane sees 10 apples for $2, which means each apple costs $2 / 10 apples.",
+    "Calculating the cost per apple: each apple costs $0.20.",
+    "Jane sees 5 oranges for $1.50, which means each orange costs $1.50 / 5 oranges.",
+    "Calculating the cost per orange: each orange costs $0.30.",
+    "Comparing the costs per fruit, apples are cheaper at $0.20 per apple.",
+    "Jane decides to buy 12 of the cheaper fruit, which are the apples.",
+    "To find the total cost, multiply 12 apples by $0.20 per apple.",
+    "12 apples x $0.20 per apple = $2.40.",
+    "Since the question asks for the cost in cents, I convert $2.40 into cents.",
+    "$2.40 is equivalent to 240 cents."
+  ],
+  "solution": "240"
+}

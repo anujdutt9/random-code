@@ -1,0 +1,20 @@
+{
+  "query": "An animal shelter is having a pet adoption event where owners can adopt an animal for just the cost of the vet fees. Vet fees for dogs are $15, and vet fees for cats are $13. Eight families adopt dogs and three adopt cats. The vet donates a third of the fees they were paid for the adoption checkups back to the shelter. How many dollars did the vet donate?",
+  "steps": [
+    "First, I need to calculate the total vet fees for the dogs.",
+    "The vet fees for one dog are $15, and eight families adopted dogs.",
+    "Multiply 8 dogs by the $15 fee per dog.",
+    "8 dogs * $15 per dog = $120",
+    "Next, I will calculate the total vet fees for the cats.",
+    "The vet fees for one cat are $13, and three families adopted cats.",
+    "Multiply 3 cats by the $13 fee per cat.",
+    "3 cats * $13 per cat = $39",
+    "Now, add the total fees for dogs and cats to get the overall total vet fees.",
+    "$120 (dogs) + $39 (cats) = $159",
+    "The vet donates a third of the total vet fees back to the shelter.",
+    "Calculate one-third of the $159 total.",
+    "Divide $159 by 3.",
+    "$159 / 3 = $53"
+  ],
+  "solution": "53"
+}

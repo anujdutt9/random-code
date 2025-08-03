@@ -1,0 +1,16 @@
+{
+  "query": "Five years ago, there were 500 old books in the library. Two years ago, the librarian bought 300 books. Last year, the librarian bought 100 more books than she had bought the previous year. This year, the librarian donated 200 of the library's old books. How many books are in the library now?",
+  "steps": [
+    "To solve the problem, let's start by considering the number of old books in the library five years ago.",
+    "Five years ago, there were 500 old books in the library.",
+    "Two years ago, the librarian bought 300 more books. We need to add these to the existing books.",
+    "500 books + 300 books = 800 books. This was the number of books in the library two years ago.",
+    "Last year, the librarian bought 100 more books than she did the previous year, which means she bought 300 + 100 = 400 books last year.",
+    "Add the 400 books bought last year to the total.",
+    "800 books + 400 books = 1200 books. This was the number of books in the library last year.",
+    "This year, the librarian donated 200 old books from the library.",
+    "Subtract the 200 donated books from the current total.",
+    "1200 books - 200 books = 1000 books. This is the current number of books in the library."
+  ],
+  "solution": "1000"
+}

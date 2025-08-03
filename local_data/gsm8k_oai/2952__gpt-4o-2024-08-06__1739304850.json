@@ -1,0 +1,16 @@
+{
+  "query": "For every 5 people that attend a poetry class, the teacher gives one of the students a lollipop. If 45 people show up for class, then another 15 come in a while later, how many lollipops did the teacher give away?",
+  "steps": [
+    "First, I need to determine the total number of people who attended the class.",
+    "Initially, 45 people attended the class.",
+    "Afterward, an additional 15 people joined the class.",
+    "I add the initial 45 people to the additional 15 people to calculate the total number of people.",
+    "45 + 15 = 60, so a total of 60 people attended the class.",
+    "The teacher gives out one lollipop for every 5 people.",
+    "To find out how many groups of 5 people are in 60, I divide 60 by 5.",
+    "60 \u00f7 5 = 12",
+    "This means there are 12 groups of 5 people.",
+    "Therefore, the teacher gives out 12 lollipops."
+  ],
+  "solution": "12"
+}

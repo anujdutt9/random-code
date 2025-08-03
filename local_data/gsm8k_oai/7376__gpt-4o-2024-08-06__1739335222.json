@@ -1,0 +1,16 @@
+{
+  "query": "Janette went camping for 5 days. She brought along 40 pieces of beef jerky. She wants to ration it out so that she can eat 1 for breakfast, 1 for lunch, and 2 for dinner each day. When she returns from the trip, she plans on giving half of the remaining pieces to her brother. How many pieces of beef jerky will she have left once she does this?",
+  "steps": [
+    "First, I'll calculate how many pieces of beef jerky Janette eats in one day.",
+    "For breakfast, she eats 1 piece. For lunch, she eats 1 piece. For dinner, she eats 2 pieces.",
+    "Adding these up: 1 + 1 + 2 = 4 pieces per day.",
+    "Next, I'll calculate how many pieces of beef jerky she eats over the 5-day trip.",
+    "If she eats 4 pieces per day, in 5 days she will eat 4 * 5 = 20 pieces.",
+    "Janette started with 40 pieces of beef jerky.",
+    "After 5 days, she eats 20 pieces, so she has 40 - 20 = 20 pieces left.",
+    "Once she returns, she plans to give half of the remaining pieces to her brother.",
+    "Half of 20 pieces is 20 / 2 = 10 pieces.",
+    "She will give 10 pieces to her brother, leaving her with 20 - 10 = 10 pieces."
+  ],
+  "solution": "10"
+}

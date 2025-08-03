@@ -1,0 +1,16 @@
+{
+  "query": "Harry is ordering pizza. A large pizza is 14. It costs $2 per topping. He orders 2 large pizzas, each with 3 toppings. He then adds a 25% tip. What is the total cost?",
+  "steps": [
+    "First, I need to calculate the cost of one large pizza with 3 toppings.",
+    "The base cost of one large pizza is $14.",
+    "Each topping costs $2, and there are 3 toppings, so the cost for toppings is 3 * $2 = $6.",
+    "Therefore, the total cost for one large pizza with 3 toppings is $14 + $6 = $20.",
+    "Harry orders 2 large pizzas, so I need to calculate the cost for 2 pizzas.",
+    "The cost for 2 pizzas is 2 * $20 = $40.",
+    "Next, I need to calculate the tip. Harry is adding a 25% tip on the total cost of the pizzas.",
+    "A 25% tip on $40 is 0.25 * $40 = $10.",
+    "Finally, I need to calculate the total cost including the tip.",
+    "The total cost is $40 + $10 = $50."
+  ],
+  "solution": "50"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "Nancy bought a pie sliced it into 8 pieces. She gave 1/2 to Joe and Darcy, and she gave 1/4 to Carl. How many slices were left?",
+  "steps": [
+    "Nancy bought a pie and sliced it into 8 pieces.",
+    "She gave 1/2 of the pie to Joe and Darcy.",
+    "Since the pie has 8 slices, 1/2 of the pie will be 8 * 1/2 = 4 slices.",
+    "Joe and Darcy together received 4 slices of the pie.",
+    "Nancy also gave 1/4 of the pie to Carl.",
+    "1/4 of the pie means 8 * 1/4 = 2 slices.",
+    "Carl received 2 slices of the pie.",
+    "Now, I need to add the slices given to Joe, Darcy, and Carl.",
+    "4 slices were given to Joe and Darcy, and 2 slices were given to Carl.",
+    "In total, 4 + 2 = 6 slices have been given away.",
+    "The pie started with 8 slices; 6 slices were given away.",
+    "To find the number of slices left, I need to subtract the slices given away from the total slices.",
+    "8 - 6 = 2 slices."
+  ],
+  "solution": "2"
+}

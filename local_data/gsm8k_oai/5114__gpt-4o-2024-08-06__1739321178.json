@@ -1,0 +1,16 @@
+{
+  "query": "Jaron wants to raise enough money selling candy bars to win the Nintendo Switch prize. He needs 2000 points for the Nintendo Switch. He has already sold 8 chocolate bunnies that are worth 100 points each. Each Snickers bar he sells earns 25 points. How many Snickers bars does he need to sell the win the Nintendo Switch?",
+  "steps": [
+    "First, I need to calculate how many points Jaron has already earned from selling chocolate bunnies.",
+    "Each chocolate bunny is worth 100 points, and he sold 8 of them.",
+    "So, the total points from chocolate bunnies is 8 x 100 = 800 points.",
+    "Next, I need to calculate how many points Jaron still needs to reach 2000 points.",
+    "Jaron needs a total of 2000 points, and he already has 800 points.",
+    "The points he still needs are 2000 - 800 = 1200 points.",
+    "Now, I need to determine how many Snickers bars he needs to sell to earn the remaining points.",
+    "Each Snickers bar earns 25 points.",
+    "To find out how many Snickers bars are needed, divide the remaining points needed by the points per Snickers bar.",
+    "So, 1200 points / 25 points per Snickers bar = 48 Snickers bars."
+  ],
+  "solution": "48"
+}

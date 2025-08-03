@@ -1,0 +1,22 @@
+{
+  "query": "Tom's cat needs an expensive surgery.  He has had pet insurance for 24 months that cost $20 per month.  The procedure cost $5000 but the insurance covers all but 20% of this.  How much money did he save by having insurance?",
+  "steps": [
+    "Tom has been paying for pet insurance for 24 months at a rate of $20 per month.",
+    "To find the total amount Tom has paid for insurance, I multiply 24 months by $20 per month.",
+    "24 months * $20/month = $480",
+    "Now, let's calculate the cost of the surgery. It costs $5000 in total.",
+    "The insurance covers all but 20% of the surgery cost. So, the insurance covers 80% of the cost.",
+    "To find out how much the insurance covers, I calculate 80% of $5000.",
+    "80% of $5000 = 0.8 * $5000 = $4000",
+    "Tom has to pay the remaining 20% of the surgery cost.",
+    "To calculate Tom's out-of-pocket expense, I take 20% of $5000.",
+    "20% of $5000 = 0.2 * $5000 = $1000",
+    "Now, let's find out how much Tom saved by having insurance.",
+    "Without insurance, Tom would have paid the full cost of the surgery, which is $5000.",
+    "With insurance, Tom pays $480 in premiums plus $1000 out-of-pocket, totaling $1480.",
+    "To find the total savings, I subtract the total amount Tom spent with insurance from the full cost of the surgery.",
+    "$5000 (full cost) - $1480 (with insurance) = $3520",
+    "Therefore, Tom saved $3520 by having insurance."
+  ],
+  "solution": "3520"
+}

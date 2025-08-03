@@ -1,0 +1,9 @@
+{
+    "id": 8,
+    "query": "Question: The mountain chorus frog is an endangered species in Maryland. In addition to the loss of habitat, what most likely caused this frog population to decline?\n\nChoices:\nA: an increase in a food source\nB: more frog breeding grounds\nC: native wetlands preservation\nD: poisons dissolved in the water",
+    "solution": "D",
+    "style_name": "form_5_annotated_deduction",
+    "steps": [
+        "[Frog habitat loss] + [Pollutants in water] \u2192 [Population decline]\nAnswer: Poisons dissolved in the water"
+    ]
+}

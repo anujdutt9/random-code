@@ -1,0 +1,17 @@
+{
+  "query": "Twenty gallons of tea were poured into 80 containers. Geraldo drank 3.5 containers. How many pints of tea did Geraldo drink?",
+  "steps": [
+    "First, I need to determine how much tea each container holds.",
+    "There are 20 gallons of tea and 80 containers.",
+    "To find out how many gallons of tea are in each container, I divide the total gallons by the number of containers: 20 gallons \u00f7 80 containers.",
+    "20 gallons divided by 80 containers is 0.25 gallons per container.",
+    "Next, I need to convert the amount each container holds from gallons to pints.",
+    "There are 8 pints in a gallon.",
+    "Since each container holds 0.25 gallons, I will multiply the gallons per container by the number of pints in a gallon: 0.25 gallons/container \u00d7 8 pints/gallon.",
+    "0.25 \u00d7 8 = 2 pints per container.",
+    "Geraldo drank 3.5 containers.",
+    "To find out how many pints he drank, I multiply the number of containers he drank by the amount of tea in each container in pints: 3.5 containers \u00d7 2 pints/container.",
+    "3.5 \u00d7 2 = 7 pints."
+  ],
+  "solution": "7"
+}

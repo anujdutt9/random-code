@@ -1,0 +1,26 @@
+{
+  "query": "The vending machine fails to drop a snack when it\u2019s purchased one in six times. One in ten times, it will accidentally drop two snacks. The rest of the time, it drops the purchased snack. If thirty people have used the vending machine once each to purchase a snack, how many snacks has the vending machine dropped?",
+  "steps": [
+    "First, I need to determine how often the vending machine drops no snack.",
+    "The probability of dropping no snack is one in six, or 1/6.",
+    "If thirty people use the vending machine, then the expected number of times it drops no snack is 30 * (1/6).",
+    "Calculate 30 * (1/6). That's 30 divided by 6, which is 5.",
+    "So, the machine drops no snack 5 times.",
+    "Next, I need to consider how often the machine drops two snacks.",
+    "The probability of dropping two snacks is one in ten, or 1/10.",
+    "If thirty people use the vending machine, the expected number of times it drops two snacks is 30 * (1/10).",
+    "Calculate 30 * (1/10). That's 30 divided by 10, which is 3.",
+    "So, the machine drops two snacks 3 times.",
+    "Finally, I need to find out how many times the machine drops exactly one snack, which is not dropping zero or two.",
+    "There are 30 total uses of the machine.",
+    "Out of these uses, 5 result in no snack and 3 result in two snacks.",
+    "Thus, the remaining number of times corresponds to when one snack is dropped.",
+    "Calculate 30 - 5 - 3 = 22.",
+    "So, the machine drops one snack 22 times.",
+    "Now, calculate the total number of snacks dropped.",
+    "The snacks dropped when one snack is dropped: 22 * 1 = 22.",
+    "The snacks dropped when two snacks are dropped: 3 * 2 = 6.",
+    "Add these results together: 22 + 6 = 28."
+  ],
+  "solution": "28"
+}

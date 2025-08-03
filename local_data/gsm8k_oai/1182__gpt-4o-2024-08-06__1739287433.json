@@ -1,0 +1,13 @@
+{
+  "query": "Mrs. Anderson bought 2 bags of 3-pound bag of cat food and another 2 bags of dog food that each weigh 2 more pounds than each bag of cat food. There are 16 ounces in each pound. How many ounces of pet food did Mrs. Anderson buy?",
+  "steps": [
+    "First, determine the weight of each bag of cat food in pounds. Each bag is 3 pounds.",
+    "Since there are 2 bags of cat food, calculate the total weight of the cat food in pounds: 3 pounds/bag * 2 bags = 6 pounds.",
+    "Convert the total weight of the cat food from pounds to ounces. There are 16 ounces in each pound, so: 6 pounds * 16 ounces/pound = 96 ounces.",
+    "Next, determine the weight of each bag of dog food. Each bag of dog food weighs 2 more pounds than each bag of cat food. So, each bag of dog food weighs 3 + 2 = 5 pounds.",
+    "Since there are 2 bags of dog food, calculate the total weight of the dog food in pounds: 5 pounds/bag * 2 bags = 10 pounds.",
+    "Convert the total weight of the dog food from pounds to ounces. Again, there are 16 ounces in each pound, so: 10 pounds * 16 ounces/pound = 160 ounces.",
+    "To find the total weight of all the pet food in ounces, add the ounces of cat food and dog food together: 96 ounces (cat food) + 160 ounces (dog food) = 256 ounces."
+  ],
+  "solution": "256"
+}

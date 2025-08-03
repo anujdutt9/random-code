@@ -1,0 +1,20 @@
+{
+  "query": "Maria is baking cookies for Sally. Sally says that she wants 1/4 of her cookies to have nuts in them, 40% to have chocolate chips in them, and the remainder to have nuts and chocolate chips in them. When she adds nuts to the cookies, she uses 2 nuts per cookie. If she makes 60 cookies, how many nuts does she need?",
+  "steps": [
+    "Maria is making 60 cookies in total.",
+    "Sally wants 1/4 of the cookies to have nuts in them.",
+    "1/4 of 60 cookies is 60 / 4 = 15 cookies.",
+    "Sally wants 40% of the cookies to have chocolate chips in them.",
+    "40% of 60 cookies is 0.40 * 60 = 24 cookies.",
+    "The remainder of the cookies will have both nuts and chocolate chips.",
+    "To find how many cookies have both ingredients, subtract the sum of cookies with only nuts and only chocolate chips from the total.",
+    "Cookies with both nuts and chocolate chips = 60 - (15 + 24) = 60 - 39 = 21 cookies.",
+    "The cookies with only nuts have 2 nuts per cookie.",
+    "For the 15 cookies that have only nuts, the total number of nuts needed is 15 * 2 = 30 nuts.",
+    "The cookies with both nuts and chocolate chips also have 2 nuts per cookie.",
+    "For the 21 cookies with both nuts and chocolate chips, the total number of nuts needed is 21 * 2 = 42 nuts.",
+    "Adding the nuts for cookies with only nuts and cookies with both ingredients gives the total number of nuts needed.",
+    "Total nuts needed = 30 nuts (for cookies with only nuts) + 42 nuts (for cookies with both) = 72 nuts."
+  ],
+  "solution": "72"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Every morning Harry takes 15 minutes to buy coffee and a bagel and twice that long to read the paper and eat before going in to work. How long does Harry's morning routine take?",
+  "steps": [
+    "Harry takes 15 minutes to buy coffee and a bagel.",
+    "Twice that time means he spends 15 minutes * 2 = 30 minutes to read the paper and eat.",
+    "Now, I add the time taken to buy coffee and a bagel (15 minutes) to the time taken to read the paper and eat (30 minutes).",
+    "15 minutes + 30 minutes = 45 minutes."
+  ],
+  "solution": "45"
+}

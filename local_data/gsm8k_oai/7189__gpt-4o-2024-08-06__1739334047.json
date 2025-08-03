@@ -1,0 +1,18 @@
+{
+  "query": "There are 11 boys and 13 girls in a class. If 1 boy is added to the class, what percentage of the class are girls?",
+  "steps": [
+    "First, I need to find the current total number of students before adding anyone. There are 11 boys and 13 girls.",
+    "Add the number of boys and girls: 11 boys + 13 girls = 24 students.",
+    "Now, I add 1 more boy to the class.",
+    "The new total number of boys is 11 + 1 = 12 boys.",
+    "Calculate the new total number of students: 12 boys + 13 girls = 25 students.",
+    "Now, I need to determine what percentage of this new total is girls.",
+    "The number of girls is 13.",
+    "To find the percentage of the class that are girls, I use the formula: (number of girls / total number of students) * 100.",
+    "Substitute the values into the formula: (13 / 25) * 100.",
+    "Calculate 13 divided by 25, which equals 0.52.",
+    "Multiply 0.52 by 100 to convert it to a percentage.",
+    "0.52 * 100 = 52%."
+  ],
+  "solution": "52"
+}

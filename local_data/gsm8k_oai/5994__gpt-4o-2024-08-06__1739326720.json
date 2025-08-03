@@ -1,0 +1,17 @@
+{
+  "query": "Dani has 3 cats; Binkie, Frankie and Spaatz.  Each cat has a collar decorated with gemstones.  Binkie has four times as many gemstones on his collar as does Frankie but Spaatz has two less than half as many gemstones on her collar as does Frankie.  If Spaatz has 1 Gemstone on her collar, how many gemstones does Binkie have on his collar?",
+  "steps": [
+    "Firstly, we know that Spaatz has 1 gemstone on her collar.",
+    "According to the problem, Spaatz has two less than half as many gemstones on her collar as Frankie does.",
+    "Let's denote the number of gemstones on Frankie's collar as F.",
+    "Based on the relationship, Spaatz has (F/2) - 2 gemstones.",
+    "We know Spaatz has 1 gemstone, so we set up the equation: (F/2) - 2 = 1.",
+    "Add 2 to both sides of the equation: (F/2) = 3.",
+    "Multiply both sides by 2 to solve for F: F = 6.",
+    "Now we know Frankie has 6 gemstones on his collar.",
+    "Binkie has four times as many gemstones on his collar as does Frankie.",
+    "Since Frankie has 6 gemstones, Binkie has 4 * 6 gemstones.",
+    "Calculate 4 * 6, which equals 24."
+  ],
+  "solution": "24"
+}

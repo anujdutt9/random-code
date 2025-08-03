@@ -1,0 +1,15 @@
+{
+  "query": "James takes 5 oranges and breaks each orange into 8 pieces.  He splits the pieces between 4 people.  If an orange has 80 calories how many calories does each person get?",
+  "steps": [
+    "James has 5 oranges.",
+    "Each orange is broken into 8 pieces.",
+    "So, in total, 5 oranges produce 5 x 8 = 40 pieces.",
+    "These 40 pieces are split equally among 4 people.",
+    "Each person gets 40 / 4 = 10 pieces.",
+    "Each orange contains 80 calories.",
+    "Since each orange is broken into 8 pieces, each piece is 80 / 8 = 10 calories.",
+    "Each person gets 10 pieces.",
+    "So, each person receives 10 pieces x 10 calories/piece = 100 calories."
+  ],
+  "solution": "100"
+}

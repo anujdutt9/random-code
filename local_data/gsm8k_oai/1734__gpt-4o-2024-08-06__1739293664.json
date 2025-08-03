@@ -1,0 +1,15 @@
+{
+  "query": "Wade is the star player of the basketball team. His average points per game is 20, and his teammates' average points per game is 40. How many points will their team have in total after 5 games?",
+  "steps": [
+    "I know that the total points for the team can be found by adding the points Wade scores and the points his teammates score.",
+    "Wade scores an average of 20 points per game.",
+    "The problem states his teammates have an average of 40 points per game. It doesn't specify how many players contribute to this average, so I'll assume the total team points per game is composed of Wade's points and the average points of his teammates.",
+    "To find the team's total points per game, I should add Wade's average points per game to his teammates' average points per game.",
+    "Wade's points per game: 20\nTeammates' points per game: 40",
+    "20 + 40 = 60 points per game for the entire team.",
+    "The team plays 5 games.",
+    "To find the total points for 5 games, I will multiply the team's points per game by the number of games.",
+    "60 points per game * 5 games = 300 total points."
+  ],
+  "solution": "300"
+}

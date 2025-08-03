@@ -1,0 +1,16 @@
+{
+  "query": "Zack's number of marbles can be divided equally among three people, leaving Zack with 5. If Zack decided to give his three friends 20 marbles each and kept five, how many marbles did he initially have?",
+  "steps": [
+    "Let's represent Zack's initial number of marbles as \\( M \\).",
+    "According to the problem, when Zack divides his marbles among three people, he's left with 5 marbles.",
+    "This implies that \\( M \\equiv 5 \\pmod{3} \\).",
+    "Additionally, Zack gave 20 marbles to each of his three friends. That amounts to 60 marbles given away.",
+    "After giving away 60 marbles and keeping 5, we can set up the equation: Remaining marbles with Zack = Initial marbles - 60, which equals 5.",
+    "Thus, \\( M - 60 = 5 \\).",
+    "To find \\( M \\), we add 60 to both sides of the equation: \\( M = 5 + 60 \\).",
+    "Therefore, \\( M = 65 \\).",
+    "Let's verify: If Zack had 65 marbles initially, and he keeps 5, that means he gives away the rest, which is 60 to his friends.",
+    "Dividing 65 among three people, each gets 20, and Zack is left with 5, which matches the condition of the problem."
+  ],
+  "solution": "65"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "In a movie theater, the admission costs $8 but the price is $3 less if you watch the movie before 6 P.M. Kath takes her 2 siblings and 3 of her friends to a movie which starts at 4 P.M. How much will Kath pay for all of their admission?",
+  "steps": [
+    "The regular admission price is $8.",
+    "The discount for watching the movie before 6 P.M. is $3.",
+    "The discounted admission price for a movie before 6 P.M. is $8 - $3 = $5.",
+    "Kath has 2 siblings.",
+    "Kath also has 3 friends with her.",
+    "Including herself, the total number of people Kath is buying tickets for is 1 (Kath) + 2 (siblings) + 3 (friends) = 6 people.",
+    "Each person pays the discounted admission price of $5.",
+    "The total cost for all individuals is 6 people * $5/person = $30."
+  ],
+  "solution": "30"
+}

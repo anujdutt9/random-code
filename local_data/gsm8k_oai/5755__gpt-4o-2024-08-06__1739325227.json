@@ -1,0 +1,15 @@
+{
+  "query": "John is twice as old as Mary and half as old as Tonya. If Tanya is 60, what is their average age?",
+  "steps": [
+    "First, I need to establish the age of Tanya. It is given that Tanya is 60 years old.",
+    "Next, I find John's age in relation to Tanya's age. John is half as old as Tanya.",
+    "Calculating John's age: 60 (Tanya's age) divided by 2 equals 30. So, John is 30 years old.",
+    "I am also told that John is twice as old as Mary, so I can find Mary's age using John's age.",
+    "Calculating Mary's age: 30 (John's age) divided by 2 equals 15. So, Mary is 15 years old.",
+    "Now, I know the ages of all three individuals: Tanya is 60, John is 30, and Mary is 15.",
+    "To find their average age, I need to calculate the sum of their ages and then divide by the number of individuals.",
+    "Calculating the sum of their ages: 60 (Tanya) + 30 (John) + 15 (Mary) equals 105.",
+    "Since there are 3 individuals, I divide the total sum by 3 to find the average: 105 divided by 3 equals 35."
+  ],
+  "solution": "35"
+}

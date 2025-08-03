@@ -1,0 +1,14 @@
+{
+  "query": "Marco uses a fifth of an ounce of dry tea leaves to brew his morning cup of tea each day. He buys tea leaves in boxes of 28 ounces. How many weeks of daily tea does Marco get from a box?",
+  "steps": [
+    "First, let's understand that Marco uses a fifth of an ounce of tea leaves each day.",
+    "There are 7 days in a week, so let's calculate how much tea Marco uses in a week.",
+    "In one week, Marco uses \\( \\frac{1}{5} \\) ounce per day * 7 days =  \\( \\frac{7}{5} \\) ounces.",
+    "Next, let's determine how many weeks Marco can get from one 28 ounce box of tea leaves.",
+    "If Marco consumes \\( \\frac{7}{5} \\) ounces per week, the number of weeks he can sustain from a 28 ounce box is calculated by dividing 28 by \\( \\frac{7}{5} \\).",
+    "To divide by a fraction, we multiply by its reciprocal. So, \\( 28 \\div \\frac{7}{5} = 28 \\times \\frac{5}{7} \\).",
+    "Calculate the product: \\( 28 \\times \\frac{5}{7} = 28 \\times 0.7142857142857143 \\approx 20 \\).",
+    "Marco can brew tea daily for approximately 20 weeks with a 28-ounce box."
+  ],
+  "solution": "20"
+}

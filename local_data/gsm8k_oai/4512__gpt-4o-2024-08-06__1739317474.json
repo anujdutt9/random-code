@@ -1,0 +1,21 @@
+{
+  "query": "Vincent's bookstore is divided into different kinds of books. His top-selling books are fantasy books. He also sells literature books which cost half of the price of a fantasy book. If his fantasy books cost $4 each, and he sold five fantasy books and eight literature books per day, how much money will he earn after five days?",
+  "steps": [
+    "First, I need to determine the price of the literature books.",
+    "Literature books cost half of the price of a fantasy book.",
+    "The price of a fantasy book is $4.",
+    "Therefore, the price of a literature book is $4 / 2 = $2.",
+    "Next, I calculate the earnings from fantasy books in one day.",
+    "Vincent sells five fantasy books per day.",
+    "The earnings from these are 5 books * $4 = $20 per day.",
+    "Now, I calculate the earnings from literature books in one day.",
+    "Vincent sells eight literature books per day.",
+    "The earnings from these are 8 books * $2 = $16 per day.",
+    "Now, I calculate the total earnings from both types of books in one day.",
+    "The total daily earnings are $20 (fantasy books) + $16 (literature books) = $36.",
+    "Finally, I calculate the earnings after five days.",
+    "In five days, the earnings would be $36 per day * 5 days.",
+    "The total earnings after five days are $36 * 5 = $180."
+  ],
+  "solution": "180"
+}

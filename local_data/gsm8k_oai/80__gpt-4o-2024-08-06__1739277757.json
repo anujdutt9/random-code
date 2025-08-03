@@ -1,0 +1,15 @@
+{
+  "query": "Jennifer purchased 40 cans of milk at the store before meeting her classmate Mark, who was also buying milk. Jennifer bought 6 additional cans for every 5 cans Mark bought. If Mark purchased 50 cans, how many cans of milk did Jennifer bring home from the store?",
+  "steps": [
+    "Jennifer initially purchased 40 cans of milk.",
+    "Mark purchased 50 cans of milk.",
+    "According to the problem, Jennifer buys 6 additional cans for every 5 cans that Mark buys.",
+    "I need to calculate how many sets of 5 cans Mark bought. Since Mark bought 50 cans, we divide 50 by 5.",
+    "50 divided by 5 equals 10. So, there are 10 sets of 5 cans.",
+    "For each of these 10 sets, Jennifer buys 6 additional cans.",
+    "So, Jennifer buys 6 additional cans for each of the 10 sets, which means she buys 6 x 10 = 60 additional cans.",
+    "Now, to find the total number of cans Jennifer brought home, I need to add the initial 40 cans to the additional 60 cans she bought due to Mark's purchase.",
+    "40 + 60 equals 100."
+  ],
+  "solution": "100"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Peyton has 3 children and they each get a juice box in their lunch, 5 days a week.  The school year is 25 weeks long.  How many juices boxes will she need for the entire school year for all of her children?",
+  "steps": [
+    "First, I need to figure out how many juice boxes one child needs in a week.",
+    "Each child gets 1 juice box per day, and they need it for 5 days.",
+    "So, 1 juice box/day * 5 days/week = 5 juice boxes per week for one child.",
+    "Now, I need to calculate how many juice boxes all three children need in a week.",
+    "There are 3 children and each needs 5 juice boxes per week.",
+    "3 children * 5 juice boxes/child/week = 15 juice boxes per week for all children.",
+    "Next, I calculate how many juice boxes are needed for the entire school year.",
+    "The school year is 25 weeks long.",
+    "15 juice boxes/week * 25 weeks = 375 juice boxes for the entire school year."
+  ],
+  "solution": "375"
+}

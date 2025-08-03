@@ -1,0 +1,21 @@
+{
+  "query": "Donovan Mitchell is currently averaging 26 points per game. His team has played 15 games this season. He has a goal of averaging 30 points per game for the entire 20 game season. How many points does he need to average per game to reach his goal?",
+  "steps": [
+    "First, I need to find out how many total points Donovan Mitchell has scored so far this season.",
+    "He is averaging 26 points per game over 15 games.",
+    "To find the total points scored so far, I multiply 26 points per game by 15 games.",
+    "26 * 15 = 390 points. Donovan Mitchell has scored 390 points in 15 games.",
+    "Next, I need to determine the total number of points he wants to score by the end of the 20-game season.",
+    "He wants to average 30 points per game for 20 games.",
+    "To find the desired total points, I multiply 30 points per game by 20 games.",
+    "30 * 20 = 600 points. Donovan Mitchell wants to score a total of 600 points by the end of the season.",
+    "Now, I calculate the number of points he needs to score in the remaining games to reach his goal.",
+    "He has already scored 390 points, and he wants to score a total of 600 points.",
+    "600 - 390 = 210 points. He needs to score 210 more points.",
+    "There are 5 games left in the season (since 20 total games - 15 games already played = 5 games).",
+    "Now, I need to determine how many points he needs to average per game in these remaining 5 games to score 210 points.",
+    "To find the average, I divide the total points needed (210) by the number of remaining games (5).",
+    "210 / 5 = 42 points per game."
+  ],
+  "solution": "42"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "There are 42 apples in a crate. 12 crates of apples were delivered to a factory. 4 apples were rotten and had to be thrown away. The remaining apples were packed into boxes that could fit 10 apples each. How many boxes of apples were there?",
+  "steps": [
+    "First, I need to determine the total number of apples delivered to the factory.",
+    "There are 42 apples per crate and 12 crates delivered.",
+    "To find the total number of apples, I multiply the number of apples per crate by the number of crates: 42 apples/crate * 12 crates.",
+    "42 multiplied by 12 equals 504 apples.",
+    "Next, I account for the rotten apples. There are 4 rotten apples that need to be subtracted from the total.",
+    "The total number of usable apples is then 504 apples - 4 rotten apples.",
+    "504 minus 4 equals 500 usable apples.",
+    "Now, I need to determine how many boxes can be filled with these remaining 500 apples if each box holds 10 apples.",
+    "I divide the total number of usable apples by the number of apples per box: 500 apples / 10 apples/box.",
+    "500 divided by 10 equals 50 boxes."
+  ],
+  "solution": "50"
+}

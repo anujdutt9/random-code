@@ -1,0 +1,18 @@
+{
+  "query": "Milly is making croissants. She needs to fold the dough 4 times, which takes 5 minutes each time, then let it rest for 75 minutes each time. If mixing the ingredients takes 10 minutes and baking the croissants takes 30 minutes, how many hours does the whole process take?",
+  "steps": [
+    "I need to calculate the total time it takes to fold the dough.",
+    "Folding the dough 4 times, each taking 5 minutes, results in 4 * 5 = 20 minutes.",
+    "Next, I need to calculate the total time for the dough to rest.",
+    "The dough rests 4 times, each for 75 minutes, resulting in 4 * 75 = 300 minutes.",
+    "Now, I will add the time for mixing ingredients.",
+    "Mixing the ingredients takes 10 minutes.",
+    "I will also add the time for baking.",
+    "Baking the croissants takes 30 minutes.",
+    "I need to calculate the total time in minutes.",
+    "The total time is 20 (folding) + 300 (resting) + 10 (mixing) + 30 (baking) = 360 minutes.",
+    "Finally, I will convert the total time from minutes to hours.",
+    "There are 60 minutes in an hour, so 360 minutes / 60 = 6 hours."
+  ],
+  "solution": "6"
+}

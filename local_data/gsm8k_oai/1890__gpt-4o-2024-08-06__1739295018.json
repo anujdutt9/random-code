@@ -1,0 +1,16 @@
+{
+  "query": "Jane, Kyla, and Anthony have summer jobs in a resort. Their task is to fold guests' towels. Jane can fold 3 towels in 5 minutes. Kyla can fold 5 towels in 10 minutes, and Anthony can fold 7 towels in 20 minutes. If they all fold towels together, how many towels can they fold in one hour?",
+  "steps": [
+    "First, I need to calculate each person's folding rate per minute.",
+    "Jane can fold 3 towels in 5 minutes, so her rate is 3 towels / 5 minutes = 0.6 towels per minute.",
+    "Kyla can fold 5 towels in 10 minutes, so her rate is 5 towels / 10 minutes = 0.5 towels per minute.",
+    "Anthony can fold 7 towels in 20 minutes, so his rate is 7 towels / 20 minutes = 0.35 towels per minute.",
+    "Now I need to find their combined rate per minute by adding their individual rates.",
+    "The combined rate per minute is 0.6 + 0.5 + 0.35 towels per minute.",
+    "Performing the addition: 0.6 + 0.5 = 1.1, then 1.1 + 0.35 = 1.45.",
+    "Their combined rate is 1.45 towels per minute.",
+    "Now I need to find out how many towels they can fold in one hour, which is 60 minutes.",
+    "Multiply their combined rate by 60 minutes to find the total number of towels: 1.45 towels/minute * 60 minutes = 87 towels."
+  ],
+  "solution": "87"
+}

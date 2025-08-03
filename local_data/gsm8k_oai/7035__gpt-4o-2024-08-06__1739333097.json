@@ -1,0 +1,20 @@
+{
+  "query": "Ahmed and Emily are having a contest to see who can get the best grade in the class. There have been 9 assignments and Ahmed has a 91 in the class. Emily has a 92. The final assignment is worth the same amount as all the other assignments. Emily got a 90 on the final assignment. What is the minimum grade Ahmed needs to get to beat Emily if all grades are whole numbers?",
+  "steps": [
+    "First, I need to calculate Ahmed's total grade points before the final assignment. Ahmed has a 91 average over 9 assignments.",
+    "To find Ahmed's total grade points, I multiply 91 by 9.",
+    "91 * 9 = 819. So, Ahmed has 819 grade points so far.",
+    "Next, I need to calculate Emily's total grade points for all 10 assignments. She has a 92 average over 9 assignments and scored a 90 on the final assignment.",
+    "First, calculate the grade points for the 9 assignments. Multiply 92 by 9.",
+    "92 * 9 = 828. So, Emily has 828 grade points before the final.",
+    "Add Emily's score for the final assignment to her total grade points: 828 + 90.",
+    "828 + 90 = 918. Emily's total points are 918 after 10 assignments.",
+    "Now, calculate the score Ahmed needs on the final assignment to finish with more total points than Emily.",
+    "Set up the inequality for Ahmed to have more total points than Emily: 819 + final score > 918.",
+    "Solve the inequality: 819 + final score > 918. Subtract 819 from both sides.",
+    "final score > 918 - 819.",
+    "918 - 819 = 99. So, Ahmed needs to score more than 99 to beat Emily.",
+    "Since scores are in whole numbers, the minimum score Ahmed needs is 100."
+  ],
+  "solution": "100"
+}

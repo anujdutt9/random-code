@@ -1,0 +1,19 @@
+{
+  "query": "Ken likes to bike when it's raining and can cycle 30 miles in 20 minutes during this time. However, when it's snowing Ken can't stand the cold and can only cycle 10 miles in 20 minutes. If it rains 3 times and snows 4 times in one week, how many miles did Ken reach if he cycles 1 hour a day?",
+  "steps": [
+    "Ken can cycle 30 miles in 20 minutes when it's raining.",
+    "Ken can cycle 10 miles in 20 minutes when it's snowing.",
+    "When it's raining, Ken can cycle for 3 times a week. Each time Ken cycles for 1 hour a day.",
+    "There are 3 sessions of rain. In each session, Ken can cover 30 miles in 20 minutes, cycling for an hour means Ken cycles 3 sessions of 20 minutes.",
+    "Each rainy day, Ken cycles 3 times 30 miles. This equates to 30 + 30 + 30 = 90 miles.",
+    "If it rains 3 times a week, then Ken cycles 90 miles per rainy day times 3 days equals 270 miles during the rains.",
+    "Next, let's consider snowy days. Ken can cycle for 4 times a week.",
+    "On a snowy day, Ken cycles 10 miles in 20 minutes. He cycles for 1 hour a day, translating to 3 of those 20-minute sessions.",
+    "So each snowy day, Ken cycles 10 times 3, which is 30 miles.",
+    "If it snows 4 times in a week, then Ken by cycling 30 miles a day for 4 days covers 30 times 4 = 120 miles in total during snow.",
+    "Finally, I need to sum the miles Ken cycled during both rainy and snowy conditions.",
+    "Ken cycled 270 miles in the rain plus 120 miles in the snow.",
+    "Adding these totals gives me 270 + 120."
+  ],
+  "solution": "390"
+}

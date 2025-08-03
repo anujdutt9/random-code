@@ -1,0 +1,15 @@
+{
+  "query": "Camila has only gone hiking 7 times in her life. Amanda has gone on 8 times as many hikes as Camila, and Steven has gone on 15 more hikes than Amanda. If Camila wants to say that she has hiked as many times as Steven and plans to go on 4 hikes a week, how many weeks would it take Camila to achieve her goal?",
+  "steps": [
+    "First, I need to find out how many times Amanda has gone hiking. Camila has gone hiking 7 times, and Amanda has gone 8 times as many hikes as Camila.",
+    "To find the total number of times Amanda has gone hiking, I multiply the number of times Camila has hiked by 8: \\( 7 \\times 8 = 56 \\).",
+    "Next, I need to calculate how many times Steven has gone hiking. Steven has gone on 15 more hikes than Amanda.",
+    "Adding 15 to the number of times Amanda has hiked gives me the total number of times Steven has hiked: \\( 56 + 15 = 71 \\).",
+    "Camila wants to hike as many times as Steven, which means she needs to hike 71 times in total.",
+    "Currently, Camila has hiked 7 times. I need to find out how many more hikes she needs to reach her goal.",
+    "Subtracting the hikes she has already done from her goal gives: \\( 71 - 7 = 64 \\).",
+    "Camila plans to go on 4 hikes a week. I need to determine how many weeks it will take her to hike the remaining 64 times.",
+    "I'll divide the number of hikes she needs to do by the number of hikes she plans to do per week: \\( 64 \\div 4 = 16 \\)."
+  ],
+  "solution": "16"
+}

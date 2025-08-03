@@ -1,0 +1,18 @@
+{
+  "query": "Dani brings two and half dozen cupcakes for her 2nd-grade class.  There are 27 students (including Dani), 1 teacher, and 1 teacher\u2019s aid.  If 3 students called in sick that day, how many cupcakes are left after Dani gives one to everyone in the class?",
+  "steps": [
+    "First, I need to find out how many cupcakes Dani has. I know that \"two and a half dozen\" means two dozen and a half dozen.",
+    "A dozen is 12, so two dozen is 24.",
+    "A half dozen is 6.",
+    "Adding those together, two and a half dozen is 24 + 6 = 30 cupcakes.",
+    "Now I need to figure out how many people are in the class on that day.",
+    "There are 27 students in the class.",
+    "However, 3 students are out sick, so 27 - 3 = 24 students are present.",
+    "In addition to the students, there is 1 teacher and 1 teacher's aide. Therefore, I add 2 more people.",
+    "So, 24 students + 1 teacher + 1 teacher's aide = 26 people present on that day.",
+    "Dani gives one cupcake to everyone who is present, which means she's giving out 26 cupcakes.",
+    "I started with 30 cupcakes and gave out 26.",
+    "So, 30 - 26 = 4 cupcakes are left."
+  ],
+  "solution": "4"
+}

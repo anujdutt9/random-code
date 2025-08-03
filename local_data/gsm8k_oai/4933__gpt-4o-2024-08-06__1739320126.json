@@ -1,0 +1,21 @@
+{
+  "query": "Gloria has five times as many dimes as quarters in her graduation money. She decides to put 2/5 of the quarters aside for future use. If she has 350 dimes, calculate the combined number of quarters and dimes she has after putting aside 2/5 of the quarters?",
+  "steps": [
+    "First, I need to find out how many quarters Gloria originally has.",
+    "It's given that Gloria has five times as many dimes as quarters.",
+    "Let the number of quarters be \\( q \\).",
+    "The number of dimes is 5 times the number of quarters, so the equation is \\( 5q = 350 \\).",
+    "I divide 350 by 5 to find the number of quarters: \\( q = 350 / 5 \\).",
+    "This calculation gives \\( q = 70 \\). So, Gloria originally has 70 quarters.",
+    "Now, Gloria puts aside 2/5 of the quarters.",
+    "To find out how many quarters she puts aside, calculate \\( (2/5) \\times 70 \\).",
+    "This results in \\( \\frac{2}{5} \\times 70 = 28 \\) quarters.",
+    "Subtract the 28 quarters put aside from the original 70 quarters to find out how many quarters she has left.",
+    "70 - 28 = 42",
+    "Now, find the total number of dimes and quarters left.",
+    "We know she has 350 dimes.",
+    "Add the remaining quarters to the number of dimes: 42 quarters + 350 dimes.",
+    "350 + 42 gives a total of 392."
+  ],
+  "solution": "392"
+}

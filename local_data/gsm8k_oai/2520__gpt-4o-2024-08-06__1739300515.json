@@ -1,0 +1,29 @@
+{
+  "query": "Rockefeller Army Base has 3000 more than twice as many guns as Grenada Army Base, 400 less than thrice as many war tractors as Grenada Army Base, and 30 times as many soldier uniforms as Grenada Army Base reserved for its national protection. How many total war supplies does Rockefeller have if Grenada's war supplies are equally divided among the 6000 war supplies they have in total?",
+  "steps": [
+    "Grenada Army Base has 6000 war supplies in total.",
+    "We know that Grenada's war supplies are equally divided. This means that they have equal numbers of guns, war tractors, and soldier uniforms.",
+    "Let's assume the number of guns Grenada has is x.",
+    "Therefore, Grenada also has x war tractors and x soldier uniforms.",
+    "The total number of supplies for Grenada is given by the sum of guns, war tractors, and soldier uniforms, which is x + x + x.",
+    "This simplifies to 3x.",
+    "We know that 3x = 6000. Therefore, x = 6000 / 3.",
+    "Calculating x, we have x = 2000.",
+    "Therefore, Grenada has 2000 guns, 2000 war tractors, and 2000 soldier uniforms.",
+    "Now, let's calculate the number of guns Rockefeller Army Base has.",
+    "Rockefeller has 3000 more than twice as many guns as Grenada.",
+    "Twice as many guns as Grenada is 2 * 2000 = 4000.",
+    "3000 more than 4000 guns is 4000 + 3000 = 7000 guns.",
+    "Now, let's calculate the number of war tractors Rockefeller has.",
+    "Rockefeller has 400 less than thrice as many war tractors as Grenada.",
+    "Thrice as many war tractors as Grenada is 3 * 2000 = 6000.",
+    "400 less than 6000 war tractors is 6000 - 400 = 5600 war tractors.",
+    "Now, let's calculate the number of soldier uniforms Rockefeller has.",
+    "Rockefeller has 30 times as many soldier uniforms as Grenada.",
+    "30 times as many soldier uniforms as Grenada is 30 * 2000 = 60000 soldier uniforms.",
+    "Finally, let's calculate the total war supplies Rockefeller has.",
+    "The total war supplies include guns, war tractors, and soldier uniforms: 7000 + 5600 + 60000.",
+    "Calculating the total, we get 7000 + 5600 + 60000 = 72600."
+  ],
+  "solution": "72600"
+}

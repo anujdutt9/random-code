@@ -1,0 +1,20 @@
+{
+  "query": "40% of a farmer's cattle are males. The rest are females. If a female cow produces 2 gallons of milk a day, how much milk will the farmer get a day if he has 50 male cows?",
+  "steps": [
+    "First, I need to determine the total number of cattle the farmer has.",
+    "I know 40% of the cattle are males and there are 50 male cows.",
+    "Let the total number of cattle be \\(x\\).",
+    "Since 40% of the cattle are males, \\(0.4 \\times x = 50\\).",
+    "To find \\(x\\), solve the equation: \\(x = \\frac{50}{0.4}\\).",
+    "Calculate \\(x\\): \\(x = 125\\).",
+    "The farmer has 125 total cattle.",
+    "Now, I need to determine how many female cows are there.",
+    "Since 40% are males, 60% are females.",
+    "Calculate the number of female cows: \\(0.6 \\times 125 = 75\\).",
+    "There are 75 female cows.",
+    "Each female cow produces 2 gallons of milk a day.",
+    "Calculate the total milk produced by all female cows per day: \\(75 \\times 2\\).",
+    "Calculate the milk production: \\(75 \\times 2 = 150\\)."
+  ],
+  "solution": "150"
+}

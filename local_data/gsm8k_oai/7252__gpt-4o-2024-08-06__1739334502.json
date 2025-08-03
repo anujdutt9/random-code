@@ -1,0 +1,16 @@
+{
+  "query": "In North Carolina, Jim bought 10 gallons of gas at $2.00/gallon.  He paid $1.00 more per gallon in Virginia where he bought another 10 gallons of gas.  How much has he spent on gas?",
+  "steps": [
+    "Jim bought 10 gallons of gas in North Carolina.",
+    "The price per gallon in North Carolina is $2.00.",
+    "To find the total cost in North Carolina, I multiply the number of gallons by the price per gallon: 10 gallons * $2.00/gallon.",
+    "10 * 2.00 = $20.00. Jim spent $20.00 in North Carolina.",
+    "In Virginia, Jim also bought 10 gallons of gas.",
+    "The price per gallon in Virginia is $1.00 more than in North Carolina, so it is $2.00 + $1.00 = $3.00 per gallon.",
+    "To find the total cost in Virginia, I multiply the number of gallons by the price per gallon: 10 gallons * $3.00/gallon.",
+    "10 * 3.00 = $30.00. Jim spent $30.00 in Virginia.",
+    "To find the total amount Jim spent on gas, I add the amounts spent in North Carolina and Virginia.",
+    "$20.00 + $30.00 = $50.00."
+  ],
+  "solution": "50"
+}

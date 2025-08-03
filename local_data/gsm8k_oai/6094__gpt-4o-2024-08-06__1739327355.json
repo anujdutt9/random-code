@@ -1,0 +1,19 @@
+{
+  "query": "Walter goes to the zoo, where he spends a certain amount of time looking at the seals, eight times as long looking at the penguins, and 13 minutes looking at the elephants. If he spent 2 hours and 10 minutes at the zoo, how many minutes did he spent looking at the seals?",
+  "steps": [
+    "First, let's convert the total time Walter spent at the zoo into minutes. Since 1 hour is 60 minutes, 2 hours is 120 minutes. So, 2 hours and 10 minutes is 120 minutes + 10 minutes = 130 minutes.",
+    "Let the time spent looking at the seals be S minutes.",
+    "According to the problem, Walter spends 8 times as long looking at the penguins as he does looking at the seals.",
+    "So, the time spent looking at the penguins is 8S minutes.",
+    "He looks at the elephants for 13 minutes.",
+    "The total time spent at the zoo is the time spent on seals, plus the time spent on penguins, plus the time spent on elephants.",
+    "This gives us the equation: S + 8S + 13 = 130.",
+    "Combining like terms, we get 9S + 13 = 130.",
+    "Subtract 13 from both sides of the equation to isolate the terms with S: 9S = 130 - 13.",
+    "Perform the subtraction: 130 - 13 = 117.",
+    "So, 9S = 117.",
+    "Divide both sides of the equation by 9 to solve for S: S = 117 / 9.",
+    "Perform the division: 117 divided by 9 equals 13."
+  ],
+  "solution": "13"
+}

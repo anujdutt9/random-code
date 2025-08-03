@@ -1,0 +1,23 @@
+{
+  "query": "Kathleen saved $21 in June, $46 in July, and $45 in August. Then Kathleen spent $12 on school supplies and $54 on new clothes. Kathleen\u2019s aunt said she would give Kathleen $25 if Kathleen saves more than $125.  How much money does Kathleen have left?",
+  "steps": [
+    "First, I need to calculate the total amount Kathleen saved over the three months.",
+    "Kathleen saved $21 in June, $46 in July, and $45 in August.",
+    "I will add these amounts: $21 + $46 + $45.",
+    "$21 + $46 = $67",
+    "$67 + $45 = $112",
+    "Kathleen saved a total of $112 over the three months.",
+    "Next, I will calculate how much money Kathleen spent.",
+    "Kathleen spent $12 on school supplies and $54 on new clothes.",
+    "I will add these expenses: $12 + $54.",
+    "$12 + $54 = $66",
+    "Kathleen spent a total of $66.",
+    "Now I will subtract the amount Kathleen spent from the total amount she saved.",
+    "$112 - $66 = $46",
+    "At this point, Kathleen has $46 remaining.",
+    "Kathleen\u2019s aunt said she would give Kathleen $25 if Kathleen saves more than $125.",
+    "Kathleen saved $112, which is less than $125, so she will not receive the $25 from her aunt.",
+    "Therefore, the final amount Kathleen has left is $46."
+  ],
+  "solution": "46"
+}

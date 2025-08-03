@@ -1,0 +1,18 @@
+{
+  "query": "Nicole collected 400 Pokemon cards. Cindy collected twice as many, and Rex collected half of Nicole and Cindy's combined total. If Rex divided his card equally among himself and his three younger siblings, how many cards does Rex have left?",
+  "steps": [
+    "Nicole collected 400 Pokemon cards.",
+    "Cindy collected twice as many cards as Nicole.",
+    "That means Cindy collected 2 * 400 = 800 cards.",
+    "Now, let's find the combined total of Nicole's and Cindy's cards.",
+    "The combined total is 400 (Nicole's) + 800 (Cindy's) = 1200 cards.",
+    "Rex collected half of the combined total.",
+    "Half of 1200 is 1200 / 2 = 600.",
+    "Rex collected 600 cards.",
+    "Rex divided his 600 cards equally among himself and his three younger siblings.",
+    "This means Rex is dividing the cards among 1 (himself) + 3 (siblings) = 4 people.",
+    "Each person gets 600 / 4 = 150 cards.",
+    "Rex keeps 150 cards for himself."
+  ],
+  "solution": "150"
+}

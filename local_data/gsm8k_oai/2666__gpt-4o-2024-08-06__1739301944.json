@@ -1,0 +1,16 @@
+{
+  "query": "If Jim has 20 apples, and Jane has 60 apples, and Jerry has 40 apples, how many times can Jim's number of apples fit into the average amount of apples for a person in the group?",
+  "steps": [
+    "First, I need to calculate the total number of apples. Jim has 20 apples, Jane has 60 apples, and Jerry has 40 apples.",
+    "Total apples = Jim's apples + Jane's apples + Jerry's apples = 20 + 60 + 40.",
+    "Total apples = 120.",
+    "Next, I need to find the number of people in the group. There are three people: Jim, Jane, and Jerry.",
+    "Now I can find the average number of apples per person by dividing the total number of apples by the number of people.",
+    "Average apples per person = Total apples / Number of people = 120 / 3.",
+    "Average apples per person = 40.",
+    "Next, I need to determine how many times Jim's number of apples, which is 20, can fit into this average.",
+    "Jim's apples can fit into the average number of apples per person = Average apples per person / Jim's apples = 40 / 20.",
+    "40 divided by 20 equals 2."
+  ],
+  "solution": "2"
+}

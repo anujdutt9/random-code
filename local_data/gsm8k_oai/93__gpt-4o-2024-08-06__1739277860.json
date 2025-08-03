@@ -1,0 +1,19 @@
+{
+  "query": "John orders food for a massive restaurant.  He orders 1000 pounds of beef for $8 per pound.  He also orders twice that much chicken at $3 per pound.  How much did everything cost?",
+  "steps": [
+    "First, I need to calculate the cost of the beef.",
+    "John orders 1000 pounds of beef at $8 per pound.",
+    "I multiply 1000 by 8 to find the total cost of the beef.",
+    "1000 * 8 equals 8000.",
+    "Next, I calculate the amount of chicken ordered.",
+    "John orders twice the amount of chicken as he does beef.",
+    "He ordered 1000 pounds of beef, so he orders 2 * 1000 pounds of chicken, which is 2000 pounds.",
+    "Now, I need to calculate the cost of the chicken.",
+    "The chicken is $3 per pound.",
+    "I multiply 2000 pounds by $3 to find the total cost of the chicken.",
+    "2000 * 3 equals 6000.",
+    "Now, I add the cost of the beef and chicken to find the total cost.",
+    "8000 (beef cost) + 6000 (chicken cost) equals 14000."
+  ],
+  "solution": "14000"
+}

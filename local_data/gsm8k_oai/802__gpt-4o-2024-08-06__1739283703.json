@@ -1,0 +1,16 @@
+{
+  "query": "Ivan has a bird feeder in his yard that holds two cups of birdseed. Every week, he has to refill the emptied feeder. Each cup of birdseed can feed fourteen birds, but Ivan is constantly chasing away a hungry squirrel that steals half a cup of birdseed from the feeder every week. How many birds does Ivan\u2019s bird feeder feed weekly?",
+  "steps": [
+    "First, I need to determine how much birdseed the feeder actually holds after the squirrel steals some.",
+    "The feeder holds two cups of birdseed initially.",
+    "The squirrel steals half a cup of birdseed each week.",
+    "So, the amount of birdseed left for the birds is 2 cups - 0.5 cups = 1.5 cups.",
+    "Next, I need to find out how many birds can be fed with the remaining birdseed.",
+    "Each cup of birdseed feeds fourteen birds.",
+    "Therefore, 1.5 cups of birdseed can feed 1.5 * 14 birds.",
+    "Calculate 1.5 * 14.",
+    "1.5 times 14 equals 21.",
+    "Therefore, 1.5 cups of birdseed feed 21 birds."
+  ],
+  "solution": "21"
+}

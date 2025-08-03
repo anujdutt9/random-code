@@ -1,0 +1,25 @@
+{
+  "query": "Mike and Leo have to print as many pamphlets as possible for a social gathering. Mike manages to print as fast as 600 pamphlets per hour for 9 consecutive hours. After a break, he resumes the task for another 2 hours achieving a third of the speed he was doing before. Leo, on the other hand, only works a third as many hours as Mike did before his break, but was twice as fast as Mike before he took his break. How many pamphlets do both manage to print at the end?",
+  "steps": [
+    "First, I calculate how many pamphlets Mike prints in the first 9 hours.",
+    "Mike prints at a speed of 600 pamphlets per hour for 9 hours.",
+    "600 pamphlets/hour * 9 hours = 5400 pamphlets.",
+    "Now, I calculate how many pamphlets Mike prints after his break.",
+    "After the break, Mike prints at a third of his initial speed. His initial speed was 600 pamphlets/hour.",
+    "A third of 600 pamphlets/hour is 600/3 = 200 pamphlets/hour.",
+    "Mike resumes printing for another 2 hours at this reduced speed.",
+    "200 pamphlets/hour * 2 hours = 400 pamphlets.",
+    "I add up the pamphlets Mike prints: 5400 pamphlets before the break + 400 pamphlets after the break.",
+    "5400 + 400 = 5800 pamphlets. This is Mike's total pamphlet output.",
+    "Next, I focus on Leo's pamphlet output.",
+    "Leo works a third of the hours Mike did before the break. Mike worked 9 hours before the break.",
+    "A third of 9 hours is 9/3 = 3 hours.",
+    "Leo's speed is twice that of Mike's initial speed of 600 pamphlets/hour.",
+    "Twice of 600 pamphlets/hour is 600*2 = 1200 pamphlets/hour.",
+    "Leo prints at a speed of 1200 pamphlets/hour for 3 hours.",
+    "1200 pamphlets/hour * 3 hours = 3600 pamphlets.",
+    "Lastly, I add up the total pamphlets produced by both, Mike and Leo.",
+    "5800 pamphlets (Mike) + 3600 pamphlets (Leo) = 9400 pamphlets."
+  ],
+  "solution": "9400"
+}

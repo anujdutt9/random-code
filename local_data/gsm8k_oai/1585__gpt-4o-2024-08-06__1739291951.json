@@ -1,0 +1,19 @@
+{
+  "query": "Olly wants to get shoes to protect his pets\u2019 paws. He owns 3 dogs, 2 cats, and a ferret. How many shoes does he need?",
+  "steps": [
+    "First, I need to determine how many paws each type of pet has.",
+    "Dogs typically have 4 paws each.",
+    "Cats also typically have 4 paws each.",
+    "Ferrets, like dogs and cats, also have 4 paws.",
+    "Next, I'll calculate the total number of paws for all dogs.",
+    "Olly has 3 dogs, and each has 4 paws, so 3 dogs * 4 paws per dog = 12 paws.",
+    "Now, I'll calculate the number of paws for all cats.",
+    "Olly has 2 cats, and each has 4 paws, so 2 cats * 4 paws per cat = 8 paws.",
+    "Then, I'll calculate the number of paws for the ferret.",
+    "Olly has 1 ferret, and it has 4 paws, so 1 ferret * 4 paws per ferret = 4 paws.",
+    "Now, I will sum the total number of paws from all pets.",
+    "Total paws = 12 paws (dogs) + 8 paws (cats) + 4 paws (ferret) = 24 paws.",
+    "Olly needs a shoe for each paw to protect them. Therefore, he needs 24 shoes in total."
+  ],
+  "solution": "24"
+}

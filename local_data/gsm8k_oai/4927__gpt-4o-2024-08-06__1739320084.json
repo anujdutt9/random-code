@@ -1,0 +1,14 @@
+{
+  "query": "Jackie loves to climb trees.  She climbed a 1000 foot tall tree.  Then she climbed 2 trees that were half as tall as the first tree.  She finished by climbing a tree that was 200 feet taller than her first tree.  What was the average height of the trees that Jackie climbed?",
+  "steps": [
+    "First, I calculate the height of the first tree that Jackie climbed, which is given as 1000 feet.",
+    "Next, I determine the height of the second and third trees. Each of these trees is half the height of the first tree. Since the first tree is 1000 feet tall, each of these two trees is 1000 / 2 = 500 feet tall.",
+    "Then, I calculate the height of the fourth tree. This tree is 200 feet taller than the first tree. Since the first tree is 1000 feet tall, the fourth tree height is 1000 + 200 = 1200 feet.",
+    "Now, I sum the heights of all the trees that Jackie climbed. The heights are 1000 feet, 500 feet, 500 feet, and 1200 feet.",
+    "The total height of all the trees is 1000 + 500 + 500 + 1200 = 3200 feet.",
+    "I count the number of trees Jackie climbed, which is four trees.",
+    "To find the average height of the trees, I divide the total height by the number of trees. So, I calculate 3200 feet / 4 trees.",
+    "The average height of the trees Jackie climbed is 800 feet."
+  ],
+  "solution": "800"
+}

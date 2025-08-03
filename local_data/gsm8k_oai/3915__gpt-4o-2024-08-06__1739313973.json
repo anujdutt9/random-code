@@ -1,0 +1,14 @@
+{
+  "query": "Jordan is a hockey goalie. In the first period of a game, he blocked four shots. In the second period, he blocked twice as many shots. In the third period, he blocked three fewer than in the second period. When the game ended after the fourth period, he had blocked 21 shots in all. How many did Jordan block in the fourth period?",
+  "steps": [
+    "Jordan blocked 4 shots in the first period.",
+    "In the second period, Jordan blocked twice as many shots as in the first period. Twice of 4 is 8.",
+    "Thus, Jordan blocked 8 shots in the second period.",
+    "In the third period, Jordan blocked three fewer shots than the second period. 8 minus 3 is 5.",
+    "So, Jordan blocked 5 shots in the third period.",
+    "Now, calculating the total number of shots blocked in the first three periods: 4 (first period) + 8 (second period) + 5 (third period) = 17.",
+    "He blocked 21 shots in total by the end of the game.",
+    "The number of shots blocked in the fourth period would be the total shots minus the shots blocked in the first three periods: 21 - 17 = 4."
+  ],
+  "solution": "4"
+}

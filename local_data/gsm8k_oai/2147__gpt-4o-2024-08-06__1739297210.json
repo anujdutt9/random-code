@@ -1,0 +1,19 @@
+{
+  "query": "There are ten more newborn elephants than baby hippos. If an entire herd starts with 20 elephants and 35 hippos, and the female hippos, whose number is 5/7 of the total number of hippos, give birth to 5 new baby hippos each, find the number of animals that are there altogether?",
+  "steps": [
+    "I begin by identifying the initial number of elephants and hippos. There are 20 elephants and 35 hippos in the whole herd initially.",
+    "Next, I calculate the number of female hippos. The female hippos are 5/7 of the total hippos. I will multiply 35 by 5/7 to find this number.",
+    "35 \u00d7 (5/7) = 25 female hippos. Therefore, there are 25 female hippos.",
+    "Each female hippo gives birth to 5 baby hippos. So, I will multiply the number of female hippos by 5 to find the total number of new baby hippos.",
+    "25 \u00d7 5 = 125 baby hippos are born.",
+    "According to the problem, there are ten more newborn elephants than baby hippos. So, I will calculate the number of newborn elephants by adding 10 to the number of new baby hippos.",
+    "125 (baby hippos) + 10 = 135 newborn elephants.",
+    "Now, I find the total number of elephants after the newborns are added. I add the newborn elephants to the initial number of elephants.",
+    "20 (initial elephants) + 135 (newborn elephants) = 155 total elephants.",
+    "I will now calculate the total number of hippos after the new births are added. I add the newborn baby hippos to the initial number of hippos.",
+    "35 (initial hippos) + 125 (newborn hippos) = 160 total hippos.",
+    "Finally, I can now determine the total number of animals by adding the total number of elephants and the total number of hippos together.",
+    "155 (elephants) + 160 (hippos) = 315 total animals."
+  ],
+  "solution": "315"
+}

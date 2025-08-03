@@ -1,0 +1,15 @@
+{
+  "query": "Bill had to finish a project from work that was to take him 4 days. If he took 6 seven-hour naps in the four days, how long did he spend working on the project?",
+  "steps": [
+    "First, I need to determine how many hours Bill spent napping in total.",
+    "He took 6 naps, each lasting 7 hours.",
+    "The total time spent napping is 6 naps * 7 hours/nap = 42 hours.",
+    "Next, I will calculate the total number of hours available in 4 days.",
+    "Each day has 24 hours.",
+    "So, in 4 days, there are 4 days * 24 hours/day = 96 hours.",
+    "Now I need to find the number of hours Bill spent working on the project by subtracting the time spent napping from the total available time.",
+    "Total working time = Total available time - Total napping time = 96 hours - 42 hours.",
+    "96 - 42 = 54 hours."
+  ],
+  "solution": "54"
+}

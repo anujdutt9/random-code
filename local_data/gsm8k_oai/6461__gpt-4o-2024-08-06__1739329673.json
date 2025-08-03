@@ -1,0 +1,15 @@
+{
+  "query": "John had $200. He gave 3/8 of his money to his mother and 3/10 to his father. How much money did John have left?",
+  "steps": [
+    "John initially had $200.",
+    "He gave 3/8 of his money to his mother. To find out how much this is, we calculate \\( \\frac{3}{8} \\times 200 \\).",
+    "\\( \\frac{3}{8} \\times 200 = 75 \\). So, he gave $75 to his mother.",
+    "He gave 3/10 of his money to his father. To find out how much this is, we calculate \\( \\frac{3}{10} \\times 200 \\).",
+    "\\( \\frac{3}{10} \\times 200 = 60 \\). So, he gave $60 to his father.",
+    "To find out how much John has left, we need to subtract the total amount he gave away from his initial amount.",
+    "First, we find the total amount given away: \\( 75 + 60 = 135 \\).",
+    "Now, subtract the total amount given away from the initial amount: \\( 200 - 135 \\).",
+    "\\( 200 - 135 = 65 \\)."
+  ],
+  "solution": "65"
+}

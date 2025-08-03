@@ -1,0 +1,13 @@
+{
+  "query": "Max has 8 children and each of his children has the same number of children as he does except for 2 who have 5 children each. How many grandchildren does he have?",
+  "steps": [
+    "Max has 8 children.",
+    "All his children, except 2, have the same number of children as Max does.",
+    "We need to determine how many each has that matches Max's total number of children.",
+    "Identify how many children, excluding the two with 5 children each, have this number of children: 8 - 2 = 6 children.",
+    "Determine the number of grandchildren from the 6 children who have the same number of children as Max: 6 children \u00d7 8 grandchildren each = 48 grandchildren.",
+    "Add the grandchildren from the 2 children who have 5 children each: 2 children \u00d7 5 grandchildren each = 10 grandchildren.",
+    "Combine the total number of grandchildren: 48 grandchildren + 10 grandchildren = 58 grandchildren."
+  ],
+  "solution": "58"
+}

@@ -1,0 +1,24 @@
+{
+  "query": "Linda's bag has 2 dimes, 6 quarters, and 5 nickels. Her mother gives her 2 more dimes, 10 quarters, and twice as many nickels as she has. How many coins does she have altogether?",
+  "steps": [
+    "First, I need to count the number of each type of coin Linda has initially.",
+    "Linda initially has 2 dimes.",
+    "Linda initially has 6 quarters.",
+    "Linda initially has 5 nickels.",
+    "Next, I need to consider the coins her mother gives her.",
+    "Her mother gives her 2 more dimes.",
+    "Her mother gives her 10 more quarters.",
+    "Her mother gives her twice as many nickels as she already has.",
+    "Twice as many nickels as she has initially means 2 times 5, which is 10 nickels.",
+    "Now, I will add the coins Linda receives from her mother to her initial amount.",
+    "For dimes: Linda has 2 initially, and receives 2 more, so 2 + 2 = 4 dimes.",
+    "For quarters: Linda has 6 initially, and receives 10 more, so 6 + 10 = 16 quarters.",
+    "For nickels: Linda has 5 initially, and receives 10 more, so 5 + 10 = 15 nickels.",
+    "Now, I will add up all the coins she has.",
+    "Total dimes = 4",
+    "Total quarters = 16",
+    "Total nickels = 15",
+    "The total number of coins is 4 dimes + 16 quarters + 15 nickels = 35 coins."
+  ],
+  "solution": "35"
+}

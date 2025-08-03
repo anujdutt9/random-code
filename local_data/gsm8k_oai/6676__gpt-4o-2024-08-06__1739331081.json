@@ -1,0 +1,18 @@
+{
+  "query": "A museum has eight different wings displaying four times as many artifacts as paintings displayed. Three of the wings are dedicated to paintings. The artifacts are divided evenly among the remaining wings. One painting is so large it takes up an entire wing, and the other two wings house 12 smaller paintings each. How many artifacts are in each artifact wing?",
+  "steps": [
+    "Identify that there are eight different wings in total.",
+    "Three of these wings are dedicated to paintings.",
+    "Five wings must then be dedicated to artifacts, as 8 total wings - 3 painting wings = 5 artifact wings.",
+    "Of the three painting wings, one has one large painting.",
+    "So, the remaining two wings have 12 smaller paintings each.",
+    "Calculate the total number of smaller paintings: 12 + 12 = 24.",
+    "Add the one large painting to the total smaller paintings: 24 + 1 = 25 paintings in total.",
+    "There are 25 paintings in the museum.",
+    "The museum displays four times as many artifacts as paintings.",
+    "Calculate the total number of artifacts: 4 * 25 = 100.",
+    "The 100 artifacts are evenly divided among the five artifact wings.",
+    "Divide the total number of artifacts by the number of artifact wings: 100 / 5 = 20."
+  ],
+  "solution": "20"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "The balance of Pam's bank account tripled during the year. At the end of the year, Pam withdrew $250. If her current balance is $950, how much did she have in the bank account at the beginning of the year?",
+  "steps": [
+    "Pam's current balance is $950 after withdrawing $250.",
+    "This means before the withdrawal, the balance was $950 + $250 = $1200.",
+    "The problem states that Pam's beginning balance tripled during the year to reach this amount before withdrawal.",
+    "Let the initial balance be X. According to the problem, 3X = $1200.",
+    "To find the initial balance, divide $1200 by 3.",
+    "$1200 \u00f7 3 = $400.",
+    "Double-check the calculation: 3 times $400 is indeed $1200."
+  ],
+  "solution": "400"
+}

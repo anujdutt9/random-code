@@ -1,0 +1,21 @@
+{
+  "query": "Jim decides to buy mayo in bulk.  He can buy 1 gallon of mayo at Costco for 8 dollars.  At the normal store, a 16-ounce bottle costs $3.  How much money does he save by buying the gallon container?",
+  "steps": [
+    "First, I determine how many ounces are in a gallon.",
+    "There are 128 ounces in a gallon.",
+    "Next, I compare the cost per ounce at Costco with the cost per ounce at the normal store.",
+    "At Costco, Jim pays $8 for 128 ounces.",
+    "The cost per ounce at Costco is 8 dollars / 128 ounces.",
+    "Perform the division: 8 / 128 = 0.0625 dollars per ounce at Costco.",
+    "Now, consider the normal store where a 16-ounce bottle costs $3.",
+    "Calculate the cost per ounce at the normal store: 3 dollars / 16 ounces.",
+    "Perform the division: 3 / 16 = 0.1875 dollars per ounce at the normal store.",
+    "Now, I need to find out how much it costs at the normal store to buy 128 ounces (the equivalent of a gallon).",
+    "Multiply the cost per ounce at the normal store by 128 ounces: 0.1875 * 128.",
+    "Calculate: 0.1875 * 128 = 24 dollars at the normal store for 128 ounces.",
+    "Finally, determine the savings by comparing the total cost at the normal store and the cost at Costco.",
+    "Subtract the Costco price from the normal store price: 24 dollars - 8 dollars.",
+    "Calculate: 24 - 8 = 16 dollars savings by buying the gallon container at Costco."
+  ],
+  "solution": "16"
+}

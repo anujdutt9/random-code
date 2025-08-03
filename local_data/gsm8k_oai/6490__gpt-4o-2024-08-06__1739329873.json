@@ -1,0 +1,12 @@
+{
+  "query": "Lucy has $65 in the bank. She made a $15 deposit and then followed by a $4 withdrawal. What is Lucy's bank balance?",
+  "steps": [
+    "Lucy initially has $65 in the bank.",
+    "She makes a $15 deposit, which increases her balance.",
+    "$65 + $15 equals $80. Her balance is now $80 after the deposit.",
+    "Next, she makes a $4 withdrawal.",
+    "$80 - $4 equals $76.",
+    "After the withdrawal, her balance is now $76."
+  ],
+  "solution": "76"
+}

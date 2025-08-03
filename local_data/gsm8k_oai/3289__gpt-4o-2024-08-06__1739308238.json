@@ -1,0 +1,24 @@
+{
+  "query": "Linda is building a new hotel with two wings. The first wing has 9 floors and each floor has 6 halls each with 32 rooms. The second wing has 7 floors each with 9 halls with 40 rooms each. How many rooms are in the hotel total?",
+  "steps": [
+    "First, I need to calculate the total number of rooms in the first wing.",
+    "The first wing has 9 floors.",
+    "Each floor has 6 halls.",
+    "Each hall has 32 rooms.",
+    "To find the total number of rooms in the first wing, I multiply the number of floors by the number of halls per floor by the number of rooms per hall: 9 floors * 6 halls per floor * 32 rooms per hall.",
+    "9 * 6 = 54",
+    "54 * 32 = 1728",
+    "So, the first wing has 1728 rooms.",
+    "Next, I need to calculate the number of rooms in the second wing.",
+    "The second wing has 7 floors.",
+    "Each floor has 9 halls.",
+    "Each hall has 40 rooms.",
+    "To find the total number of rooms in the second wing, I multiply the number of floors by the number of halls per floor by the number of rooms per hall: 7 floors * 9 halls per floor * 40 rooms per hall.",
+    "7 * 9 = 63",
+    "63 * 40 = 2520",
+    "So, the second wing has 2520 rooms.",
+    "To find the total number of rooms in the hotel, I need to add the number of rooms in both wings.",
+    "1728 rooms in the first wing + 2520 rooms in the second wing = 4248 rooms."
+  ],
+  "solution": "4248"
+}

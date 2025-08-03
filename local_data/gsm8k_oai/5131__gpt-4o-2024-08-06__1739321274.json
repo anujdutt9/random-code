@@ -1,0 +1,16 @@
+{
+  "query": "Connor scored 2 in a game while Amy scored 4 more than Connor. Jason scored twice the score of Amy. If Connor, Amy, and Jason belong to the same team, how many points did their team have?",
+  "steps": [
+    "Connor scored 2 points.",
+    "Amy scored 4 more than Connor.",
+    "To find Amy's score, I add 4 to Connor's score: 2 + 4 = 6.",
+    "Jason scored twice the score of Amy.",
+    "To find Jason's score, I multiply Amy's score by 2: 6 * 2 = 12.",
+    "To find the total score of the team, I add up the scores of Connor, Amy, and Jason.",
+    "Connor's score is 2, Amy's score is 6, and Jason's score is 12.",
+    "Adding these together: 2 + 6 + 12.",
+    "First, 2 + 6 = 8.",
+    "Then, 8 + 12 = 20."
+  ],
+  "solution": "20"
+}

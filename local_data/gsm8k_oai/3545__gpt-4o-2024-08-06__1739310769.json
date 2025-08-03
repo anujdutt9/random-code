@@ -1,0 +1,16 @@
+{
+  "query": "Belle eats 4 dog biscuits and 2 rawhide bones every evening. If each rawhide bone is $1, and each dog biscuit is $0.25, then how much does it cost, in dollars, to feed Belle these treats for a week?",
+  "steps": [
+    "First, I need to calculate the cost of the dog biscuits Belle eats in one evening.",
+    "Belle eats 4 dog biscuits each evening, and each costs $0.25.",
+    "The cost for the dog biscuits each evening is 4 biscuits * $0.25 per biscuit = $1.00.",
+    "Next, I calculate the cost of the rawhide bones Belle eats in one evening.",
+    "Belle eats 2 rawhide bones each evening, and each costs $1.00.",
+    "The cost for the rawhide bones each evening is 2 bones * $1.00 per bone = $2.00.",
+    "Now, I add the cost of the dog biscuits and rawhide bones to find the total cost per evening.",
+    "The total cost per evening is $1.00 (dog biscuits) + $2.00 (rawhide bones) = $3.00.",
+    "I need to calculate the total cost for a week, which has 7 days.",
+    "The total cost for a week is $3.00 per evening * 7 evenings = $21.00."
+  ],
+  "solution": "21"
+}

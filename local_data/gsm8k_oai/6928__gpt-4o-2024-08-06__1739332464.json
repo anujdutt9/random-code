@@ -1,0 +1,18 @@
+{
+  "query": "Kohen has a business selling apples. Once a week, he orders 10 boxes of apples to add to his stock. If each box has 300 apples and he sells 3/4 of his stock in a certain week, what total number of apples is not sold?",
+  "steps": [
+    "Kohen orders 10 boxes of apples each week.",
+    "Each box contains 300 apples.",
+    "To find the total number of apples ordered each week, I multiply the number of boxes by the number of apples per box.",
+    "Total apples ordered = 10 boxes * 300 apples/box",
+    "Total apples ordered = 3000 apples",
+    "Kohen sells 3/4 of his stock in a certain week.",
+    "To find the number of apples sold, I multiply the total number of apples by 3/4.",
+    "Apples sold = 3000 apples * (3/4)",
+    "Apples sold = 2250 apples",
+    "To find the number of apples not sold, I subtract the number of apples sold from the total number of apples.",
+    "Apples not sold = 3000 apples - 2250 apples",
+    "Apples not sold = 750 apples"
+  ],
+  "solution": "750"
+}

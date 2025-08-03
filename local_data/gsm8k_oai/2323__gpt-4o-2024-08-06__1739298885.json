@@ -1,0 +1,12 @@
+{
+  "query": "Jack wants to send thank you cards to everyone who got him a gift for his wedding.  He sent out 200 invitations.  90% of people RSVPed but only 80% of people who RSVPed actually showed up.  Then 10 people who showed up didn't get a gift.  How many thank you cards does he need?",
+  "steps": [
+    "First, calculate the number of people who RSVPed. Jack sent out 200 invitations and 90% of people RSVPed.",
+    "90% of 200 is calculated as 0.9 * 200 = 180.",
+    "Now, calculate the number of people who actually showed up. Only 80% of the RSVPed people showed up.",
+    "80% of 180 is calculated as 0.8 * 180 = 144.",
+    "We are told that 10 people who showed up didn't bring a gift.",
+    "To find the number of people who got Jack a gift, subtract the 10 people who didn't bring a gift from the number who showed up: 144 - 10 = 134."
+  ],
+  "solution": "134"
+}

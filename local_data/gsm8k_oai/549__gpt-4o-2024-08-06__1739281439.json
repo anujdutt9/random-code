@@ -1,0 +1,17 @@
+{
+  "query": "In his company, Kenzo has 80 office chairs with five legs each and 20 round tables with three legs each. If after a month 40% of the chairs are damaged and have to be disposed of, calculate the total number of legs of furniture Kenzo has remaining in his company.",
+  "steps": [
+    "First, I need to calculate the total number of legs for all the office chairs before any are disposed of. Each chair has five legs, and there are 80 chairs.",
+    "To find the total number of chair legs, I multiply the number of chairs by the number of legs per chair: 80 chairs * 5 legs per chair = 400 legs.",
+    "Next, I am told that 40% of these chairs are damaged and have to be disposed of. So, I must calculate the number of chairs that are damaged.",
+    "40% of 80 chairs is 0.4 * 80 = 32 chairs.",
+    "The remaining number of chairs after the damaged ones are disposed of is 80 - 32 = 48 chairs.",
+    "Now, I need to calculate the total number of legs remaining from the undamaged chairs. There are 48 chairs remaining, each with 5 legs.",
+    "48 chairs * 5 legs per chair = 240 legs from the undamaged chairs.",
+    "Next, I need to calculate the total number of legs from the round tables. Each table has 3 legs, and there are 20 tables.",
+    "To find the total number of table legs, I multiply the number of tables by the number of legs per table: 20 tables * 3 legs per table = 60 legs.",
+    "To get the total number of legs of furniture remaining, I need to add the legs from the remaining chairs to the legs from the tables.",
+    "240 legs from undamaged chairs + 60 legs from tables = 300 legs."
+  ],
+  "solution": "300"
+}

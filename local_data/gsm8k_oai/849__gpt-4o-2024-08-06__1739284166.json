@@ -1,0 +1,15 @@
+{
+  "query": "A hot air balloon with 200 balloons is blowing up. After about half an hour, 1/5 of the total number of balloons in the hot air balloon have blown up. After another hour, twice the number of balloons that had already blown up also blow up. How many balloons in the hot air balloon remain intact?",
+  "steps": [
+    "First, I need to find out how many balloons 1/5 of the total number of balloons is. The total number of balloons is 200.",
+    "Calculating 1/5 of 200 gives me \\( \\frac{1}{5} \\times 200 = 40 \\).",
+    "Initially, after half an hour, 40 balloons have blown up.",
+    "Next, I need to determine how many more balloons blow up after another hour. Twice the number of balloons that had already blown up are said to blow up.",
+    "Twice the 40 balloons that have already blown up is \\( 2 \\times 40 = 80 \\).",
+    "Thus, 80 additional balloons blow up after another hour.",
+    "Adding the initial 40 blown up balloons to the additional 80 gives me \\( 40 + 80 = 120 \\) balloons blown up in total.",
+    "To find out how many balloons remain intact, I subtract the total number of blown up balloons from the initial total.",
+    "200 total balloons minus 120 blown up balloons equals \\( 200 - 120 = 80 \\) balloons left intact."
+  ],
+  "solution": "80"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "At the family reunion, everyone ate too much food and gained weight.  Orlando gained 5 pounds.  Jose gained two pounds more than twice what Orlando gained.  Fernando gained 3 pounds less than half of what Jose gained.  How much weight, in pounds, did the three family members gain at their reunion?",
+  "steps": [
+    "First, I need to know how much weight Orlando gained, which is given directly in the problem: Orlando gained 5 pounds.",
+    "Next, I need to calculate how much weight Jose gained. The problem states that Jose gained two pounds more than twice what Orlando gained.",
+    "Twice what Orlando gained is 2 times 5, which equals 10 pounds.",
+    "Two pounds more than 10 pounds means Jose gained 10 + 2 = 12 pounds.",
+    "Next, I need to calculate how much weight Fernando gained. The problem states that Fernando gained 3 pounds less than half of what Jose gained.",
+    "Half of what Jose gained is 12 divided by 2, which equals 6 pounds.",
+    "3 pounds less than 6 pounds means Fernando gained 6 - 3 = 3 pounds.",
+    "To find the total weight gained by the three family members, I need to add each person's weight gain together.",
+    "Orlando gained 5 pounds, Jose gained 12 pounds, and Fernando gained 3 pounds.",
+    "The total weight gained is 5 + 12 + 3.",
+    "Adding them together gives 20 pounds."
+  ],
+  "solution": "20"
+}

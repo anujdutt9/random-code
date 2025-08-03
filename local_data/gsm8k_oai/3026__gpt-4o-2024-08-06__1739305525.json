@@ -1,0 +1,15 @@
+{
+  "query": "Carla has 6 sunflowers and 8 dandelions. The sunflowers have 9 seeds per plant and the dandelions have 12 seeds per plant. What percentage of Carla's seeds come from the dandelions?",
+  "steps": [
+    "First, I need to find out the total number of seeds from the sunflowers. Carla has 6 sunflowers, and each sunflower has 9 seeds.",
+    "I multiply the number of sunflowers (6) by the seeds per sunflower (9): 6 * 9 = 54 seeds from the sunflowers.",
+    "Next, I need to find out the total number of seeds from the dandelions. Carla has 8 dandelions, and each dandelion has 12 seeds.",
+    "I multiply the number of dandelions (8) by the seeds per dandelion (12): 8 * 12 = 96 seeds from the dandelions.",
+    "Now, I need to find the total number of seeds from both the sunflowers and dandelions.",
+    "I add the seeds from the sunflowers (54) to the seeds from the dandelions (96): 54 + 96 = 150 seeds in total.",
+    "To find the percentage of seeds that come from the dandelions, I need to calculate the proportion of dandelion seeds to the total seeds.",
+    "I divide the number of dandelion seeds (96) by the total number of seeds (150): 96 / 150 = 0.64.",
+    "Finally, I need to convert this proportion to a percentage. I multiply 0.64 by 100 to get the percentage: 0.64 * 100 = 64%."
+  ],
+  "solution": "64"
+}

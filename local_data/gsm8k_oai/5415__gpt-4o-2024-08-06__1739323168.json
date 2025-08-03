@@ -1,0 +1,17 @@
+{
+  "query": "Adrian has the choice between two boxes of contacts.  One has 50 contacts for $25, and the other has 99 contacts for $33. He chooses the box that costs less per individual contact.  How many contacts will it take to equal $1 worth in whatever box he decides to buy?",
+  "steps": [
+    "First, I need to determine the cost per contact for each box.",
+    "For the first box, which has 50 contacts for $25, I'll divide the total price by the number of contacts: $25 / 50 contacts.",
+    "Calculating that, 25 divided by 50 equals $0.50, so each contact in the first box costs $0.50.",
+    "Now, I will find the cost per contact for the second box, which has 99 contacts for $33.",
+    "I'll divide the total price by the number of contacts: $33 / 99 contacts.",
+    "Calculating that, 33 divided by 99 equals approximately $0.3333 (or $0.33 when rounded to two decimal places), so each contact in the second box costs about $0.33.",
+    "Now I compare the cost per contact for the two boxes. The first box costs $0.50 per contact, and the second box costs $0.33 per contact.",
+    "Since $0.33 is less than $0.50, Adrian should choose the second box with the 99 contacts.",
+    "To find out how many contacts equal $1 worth in the less costly box, I will divide $1 by the cost per contact for the second box.",
+    "$1 divided by $0.33 equals approximately 3.03.",
+    "Since the number of contacts must be a whole number, I will round 3.03 down to the nearest whole number, which is 3."
+  ],
+  "solution": "3"
+}

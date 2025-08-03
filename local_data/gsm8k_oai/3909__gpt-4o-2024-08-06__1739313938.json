@@ -1,0 +1,18 @@
+{
+  "query": "John is performing in 3 plays.  Each play has 5 Acts.  He wears 2 wigs per act.  Each wig cost $5.  He drops one of the plays and sells all of the wigs for that play for $4.  How much money did he spend?",
+  "steps": [
+    "John is performing in 3 plays.",
+    "Each play consists of 5 Acts.",
+    "In each act, he wears 2 wigs.",
+    "I need to calculate the total number of wigs used in all 3 plays initially.",
+    "For one play, the number of acts is 5, and he uses 2 wigs per act, so the total wigs for one play is 5 * 2 = 10 wigs.",
+    "John is in 3 plays, so the total number of wigs for all plays is 3 * 10 = 30 wigs.",
+    "Each wig costs $5, so the amount of money spent on wigs is 30 wigs * $5 per wig = $150.",
+    "John drops one of the plays, meaning he no longer uses the wigs for that play.",
+    "The number of wigs from one dropped play is 10, as calculated earlier.",
+    "He sells the wigs for the dropped play for $4 each, so he sells 10 wigs * $4 per wig = $40.",
+    "To find out how much money he actually spent, I will subtract the money he got from selling the 10 wigs from the total amount spent on wigs.",
+    "I subtract the $40 from the total spent of $150, so $150 - $40 = $110."
+  ],
+  "solution": "110"
+}

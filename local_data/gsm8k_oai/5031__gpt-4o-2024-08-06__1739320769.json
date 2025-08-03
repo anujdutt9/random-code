@@ -1,0 +1,15 @@
+{
+  "query": "Gretchen read that you should spend 10 minutes walking for every 90 minutes you spend sitting. If Gretchen spends 6 hours working at her desk, how long will she spend walking?",
+  "steps": [
+    "First, I need to determine how many minutes Gretchen spends sitting if she spends 6 hours at her desk.",
+    "There are 60 minutes in an hour, so 6 hours is 6 x 60 minutes.",
+    "6 x 60 = 360 minutes. So Gretchen spends 360 minutes sitting.",
+    "According to the guideline, for every 90 minutes sitting, 10 minutes should be spent walking.",
+    "Now I need to find out how many 90-minute blocks there are in the 360 minutes spent sitting.",
+    "To do this, I divide 360 by 90.",
+    "360 / 90 = 4. So there are 4 blocks of 90 minutes in 360 minutes.",
+    "Since each 90-minute block requires 10 minutes of walking, I multiply the number of blocks by 10.",
+    "4 x 10 = 40. So Gretchen will spend 40 minutes walking."
+  ],
+  "solution": "40"
+}

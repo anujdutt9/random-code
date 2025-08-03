@@ -1,0 +1,13 @@
+{
+  "query": "Jack has a stack of books that is 12 inches thick. He knows from experience that 80 pages is one inch thick. If he has 6 books, how many pages is each one on average?",
+  "steps": [
+    "First, I need to find the total number of pages in the stack of books.",
+    "I know that 80 pages is equivalent to one inch. Jack's stack is 12 inches thick.",
+    "So, the total number of pages is 80 pages/inch * 12 inches.",
+    "Calculating this gives 80 * 12 = 960 pages in total.",
+    "Jack has 6 books, and I need to find the average number of pages per book.",
+    "To find the average number of pages per book, I divide the total number of pages by the number of books.",
+    "960 pages / 6 books equals 160 pages per book on average."
+  ],
+  "solution": "160"
+}

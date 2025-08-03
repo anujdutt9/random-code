@@ -1,0 +1,15 @@
+{
+  "query": "Jacob can write twice as fast as Nathan. Nathan wrote 25 letters in one hour. How many letters can the two write in 10 hours together?",
+  "steps": [
+    "First, I need to figure out how many letters Jacob can write in one hour.",
+    "Jacob writes twice as fast as Nathan. Nathan writes 25 letters in one hour.",
+    "So, Jacob can write 25 letters * 2 = 50 letters in one hour.",
+    "Next, I will calculate how many letters Nathan can write in 10 hours.",
+    "Nathan writes 25 letters per hour, so in 10 hours, Nathan writes 25 letters/hour * 10 hours = 250 letters.",
+    "Now, I will calculate how many letters Jacob can write in 10 hours.",
+    "Jacob writes 50 letters per hour, so in 10 hours, Jacob writes 50 letters/hour * 10 hours = 500 letters.",
+    "Finally, I will add the letters written by Nathan and Jacob to find out how many letters they wrote together in 10 hours.",
+    "Together, they wrote 250 letters + 500 letters = 750 letters."
+  ],
+  "solution": "750"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "While shopping, Greg spent 300$ on a shirt and shoes. If Greg spent 9 more than twice as much on shoes as he did a shirt, how much did Greg spend on a shirt?",
+  "steps": [
+    "Let's define variables for the amounts spent on the shirt and shoes.",
+    "Let S be the amount Greg spent on the shirt, and let H be the amount spent on the shoes.",
+    "According to the problem, H = 2S + 9.",
+    "We also know the total amount spent is 300, so we have S + H = 300.",
+    "Now we have two equations: H = 2S + 9 and S + H = 300.",
+    "Substitute H from the first equation into the second equation: S + (2S + 9) = 300.",
+    "Simplify the equation: 3S + 9 = 300.",
+    "Subtract 9 from both sides: 3S = 291.",
+    "Divide both sides by 3: S = 97.",
+    "Greg spent 97 dollars on the shirt."
+  ],
+  "solution": "97"
+}

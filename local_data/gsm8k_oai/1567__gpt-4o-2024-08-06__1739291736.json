@@ -1,0 +1,18 @@
+{
+  "query": "Billy and Tiffany are having a contest to see how can run the most miles in a week. On Sunday, Monday, and Tuesday, Billy runs 1 mile each day and Tiffany runs 2 miles each day. On Wednesday, Thursday, and Friday, Billy runs 1 mile each day and Tiffany runs a 1/3 of a mile each day. On Saturday Tiffany assumes she's going to win and takes the day off. How many miles does Billy have to run on Saturday to tie Tiffany?",
+  "steps": [
+    "First, let's calculate how many miles Billy runs from Sunday to Friday. He runs 1 mile each day for 6 days.",
+    "Billy's total miles from Sunday to Friday is 1 mile/day * 6 days = 6 miles.",
+    "Next, let's calculate how many miles Tiffany runs from Sunday to Saturday. She runs 2 miles on Sunday, Monday, and Tuesday.",
+    "Tiffany's total miles from Sunday to Tuesday is 2 miles/day * 3 days = 6 miles.",
+    "Then, from Wednesday to Friday, Tiffany runs 1/3 of a mile each day.",
+    "Tiffany's total miles from Wednesday to Friday is 1/3 mile/day * 3 days = 1 mile.",
+    "Adding up both periods, Tiffany has 6 miles + 1 mile = 7 miles by Friday.",
+    "Tiffany takes Saturday off, so her total miles for the week is 7 miles.",
+    "We need to find out how many miles Billy needs to run on Saturday to tie Tiffany's total of 7 miles.",
+    "Billy currently has 6 miles by Friday.",
+    "To tie Tiffany, Billy needs to run enough miles on Saturday so that his total matches Tiffany's 7 miles.",
+    "Billy needs 7 miles - 6 miles = 1 more mile on Saturday."
+  ],
+  "solution": "1"
+}

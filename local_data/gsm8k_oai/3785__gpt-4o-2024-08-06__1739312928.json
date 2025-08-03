@@ -1,0 +1,15 @@
+{
+  "query": "Kat gets a 95% on her first math test and an 80% on her second math test. If she wants an average grade of at least 90% in her math class, what does she need to get on her third final math test?",
+  "steps": [
+    "First, I need to recall the formula for calculating an average. The average is the sum of all scores divided by the number of scores.",
+    "Kat has two scores so far: 95% and 80%.",
+    "She wants her average over three tests to be at least 90%. This means (95 + 80 + x) / 3 \u2265 90, where x is the score on her third test.",
+    "Let's calculate the sum of her first two scores: 95 + 80 = 175.",
+    "Substitute the known values into the inequality: (175 + x) / 3 \u2265 90.",
+    "To clear the fraction, multiply both sides of the inequality by 3: 175 + x \u2265 270.",
+    "Subtract 175 from both sides to solve for x: x \u2265 270 - 175.",
+    "Calculate 270 - 175: x \u2265 95.",
+    "Therefore, Kat needs to score at least 95% on her third test to have an average of at least 90%."
+  ],
+  "solution": "95"
+}

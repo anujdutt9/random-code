@@ -1,0 +1,18 @@
+{
+  "query": "Toby is in a juggling contest with a friend. The winner is whoever gets the most objects rotated around in 4 minutes. Toby has 5 baseballs and each one makes 80 rotations. His friend has 4 apples and each one makes 101 rotations. How many total rotations of objects are made by the winner?",
+  "steps": [
+    "First, I need to find out how many total rotations Toby makes with his 5 baseballs.",
+    "Each baseball makes 80 rotations.",
+    "Toby has 5 baseballs, so I will multiply the number of rotations each baseball makes by the total number of baseballs: 5 baseballs * 80 rotations/baseball.",
+    "5 * 80 = 400.",
+    "Toby makes a total of 400 rotations with his 5 baseballs.",
+    "Next, I need to find out how many total rotations Toby's friend makes with his 4 apples.",
+    "Each apple makes 101 rotations.",
+    "Toby's friend has 4 apples, so I will multiply the number of rotations each apple makes by the total number of apples: 4 apples * 101 rotations/apple.",
+    "4 * 101 = 404.",
+    "Toby's friend makes a total of 404 rotations with his 4 apples.",
+    "Now, I need to determine who has more rotations. Toby has 400 and his friend has 404.",
+    "Toby's friend has more rotations with 404 rotations compared to Toby's 400 rotations."
+  ],
+  "solution": "404"
+}

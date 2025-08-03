@@ -1,0 +1,16 @@
+{
+  "query": "Conner has a dune buggy that he rides in the desert.  On flat sand, it can ride at a speed of 60 miles per hour.  When traveling on downhill slopes, it can race at 12 miles per hour faster than it can when it is on flat sand.  And when riding on an uphill inclined slow, it travels at a speed 18 miles per hour slower than when it is riding on flat sand.  If Conner rides his dune buggy one-third of the time on flat sand, one-third of the time on uphill slopes, and one-third of the time on downhill slopes, what is his average speed in miles per hour?",
+  "steps": [
+    "Conner's speed on flat sand is 60 miles per hour.",
+    "When Conner is traveling on downhill slopes, his speed increases by 12 miles per hour.",
+    "Therefore, on downhill slopes, Conner's speed is 60 + 12 = 72 miles per hour.",
+    "When riding on uphill slopes, Conner's speed decreases by 18 miles per hour.",
+    "Therefore, on uphill slopes, Conner's speed is 60 - 18 = 42 miles per hour.",
+    "Conner rides his dune buggy one-third of the time on each type of terrain: flat sand, uphill slopes, and downhill slopes.",
+    "To find the average speed, I should calculate the average of the speeds on the three types of terrain. Since the time spent on each type is the same, the average speed is the arithmetic mean of the three speeds.",
+    "The sum of all three speeds is 60 (flat) + 42 (uphill) + 72 (downhill) = 174 miles per hour.",
+    "Since he spends equal time on each type of terrain, the average speed is the total sum of speeds divided by 3.",
+    "The average speed is 174 / 3 = 58 miles per hour."
+  ],
+  "solution": "58"
+}

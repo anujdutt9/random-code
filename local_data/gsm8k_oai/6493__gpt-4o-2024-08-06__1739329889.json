@@ -1,0 +1,13 @@
+{
+  "query": "Michael is baking a cake and needs 6 cups of flour. The only measuring cup he has is the 1/4 cup. He has an 8 cup bag of flour and realizes it would be faster to measure the flour he doesn't need, take it out of the bag, and then dump the rest of the bag into the bowl. How many scoops should he remove?",
+  "steps": [
+    "Michael needs 6 cups of flour.",
+    "The bag has 8 cups of flour.",
+    "If Michael removes the flour he doesn't need, he should be left with just 6 cups in the bag.",
+    "8 cups (total flour in the bag) - 6 cups (flour needed) = 2 cups of flour to remove.",
+    "Michael has a 1/4 cup measuring cup.",
+    "To find out how many scoops of 1/4 cup he needs to remove, I'll convert 2 cups into scoops of 1/4 cup.",
+    "2 cups * (4 scoops per cup) = 8 scoops of 1/4 cup."
+  ],
+  "solution": "8"
+}

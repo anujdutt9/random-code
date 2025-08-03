@@ -1,0 +1,20 @@
+{
+  "query": "Charles bought 20 papers to draw. Today Charles drew 6 pictures. Yesterday he drew 6 pictures before going to work and some pictures when he came back. How many pictures did Charles draw when he came back from work knowing that he has 2 papers left?",
+  "steps": [
+    "First, I need to determine how many papers Charles used in total.",
+    "Charles initially bought 20 papers.",
+    "He has 2 papers left now.",
+    "To find the total number of papers he used, I subtract the number of papers left from the total he bought: 20 - 2 = 18 papers used.",
+    "I know that today Charles drew 6 pictures.",
+    "Yesterday, before going to work, Charles drew 6 pictures.",
+    "Yesterday, after coming back, he drew an additional number of pictures, which is what I need to find.",
+    "To find out how many pictures he drew when he came back, I use this equation: Total pictures drawn = Pictures drawn today + Pictures drawn yesterday morning + Pictures drawn yesterday after coming back.",
+    "Let's define the pictures drawn when he came back as x.",
+    "So, 18 (total pictures) = 6 (today) + 6 (yesterday morning) + x (yesterday after coming back).",
+    "Simplifying gives: 18 = 12 + x.",
+    "To find x, I subtract 12 from both sides: x = 18 - 12.",
+    "After solving, I find that x = 6.",
+    "Therefore, Charles drew 6 pictures when he came back from work."
+  ],
+  "solution": "6"
+}

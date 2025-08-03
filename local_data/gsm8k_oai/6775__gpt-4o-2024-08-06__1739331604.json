@@ -1,0 +1,20 @@
+{
+  "query": "Iris\u2019 family is planning a surprise birthday party for her. The party will include her 3 uncles and 4 aunts who have a son and daughter each as well as her brother and mother. In total, how many people are coming to Iris\u2019 birthday party?",
+  "steps": [
+    "First, I need to figure out how many people each uncle and aunt brings to the party.",
+    "Each uncle and aunt has a son and a daughter, so they bring 2 children with them.",
+    "There are 3 uncles and 4 aunts in total.",
+    "Now, I'll calculate the total number of children coming from the uncles and aunts.",
+    "Each uncle and aunt have 2 children, and there are 3 uncles and 4 aunts, making it 7 in total.",
+    "So, 7 uncles and aunts \u00d7 2 children each = 14 children.",
+    "Next, I need to add the 3 uncles and 4 aunts themselves who are attending the party.",
+    "3 uncles + 4 aunts = 7 adults without including their children.",
+    "Now, I add Iris' brother to the party count.",
+    "Iris' brother adds 1 more person.",
+    "I also add Iris' mother to the party count.",
+    "Including Iris' mother adds another person.",
+    "Finally, I add all these numbers together: 14 children + 7 uncles and aunts + 1 brother + 1 mother.",
+    "14 + 7 + 1 + 1 = 23 people in total."
+  ],
+  "solution": "23"
+}

@@ -1,0 +1,23 @@
+{
+  "query": "Cindy can run at 3 miles per hour and walk at 1 mile per hour. If she runs for half a mile and then walks for half a mile, how many minutes will it take her to travel the full mile?",
+  "steps": [
+    "First, I need to calculate how long it takes for Cindy to run half a mile.",
+    "Cindy runs at 3 miles per hour.",
+    "Time taken to run half a mile is the distance divided by speed.",
+    "So, time to run half a mile = 0.5 miles / 3 mph.",
+    "0.5 / 3 = 1/6 hours.",
+    "Now, I need to convert 1/6 hours into minutes.",
+    "There are 60 minutes in an hour.",
+    "1/6 hours * 60 minutes/hour = 10 minutes.",
+    "Next, calculate how long it takes for Cindy to walk half a mile.",
+    "Cindy walks at 1 mile per hour.",
+    "Time taken to walk half a mile is the distance divided by speed.",
+    "So, time to walk half a mile = 0.5 miles / 1 mph.",
+    "0.5 / 1 = 0.5 hours.",
+    "Now, I need to convert 0.5 hours into minutes.",
+    "0.5 hours * 60 minutes/hour = 30 minutes.",
+    "Now, I add the time it takes for Cindy to run and walk.",
+    "10 minutes (running) + 30 minutes (walking) = 40 minutes."
+  ],
+  "solution": "40"
+}

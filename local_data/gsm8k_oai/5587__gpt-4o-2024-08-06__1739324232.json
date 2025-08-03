@@ -1,0 +1,16 @@
+{
+  "query": "I have purchased 5 blue apples at the store. Suppose my neighbor gives me twice as many yellow apples as I have blue ones, and then I give my son 1/5 of the total number of apples; how many apples do I have now?",
+  "steps": [
+    "I start with 5 blue apples.",
+    "My neighbor gives me twice as many yellow apples as the blue ones I have.",
+    "Twice as many as 5 blue apples is 2 * 5 = 10 yellow apples.",
+    "So now I have 5 blue apples + 10 yellow apples = 15 apples in total.",
+    "I give my son 1/5 of the total number of apples.",
+    "1/5 of 15 apples is 15 / 5 = 3 apples.",
+    "Therefore, I give my son 3 apples.",
+    "To find out how many apples I have now, I need to subtract the 3 apples I gave to my son from the total apples I initially had.",
+    "Initially, I had 15 apples in total.",
+    "After giving away 3 apples, I have 15 - 3 = 12 apples now."
+  ],
+  "solution": "12"
+}

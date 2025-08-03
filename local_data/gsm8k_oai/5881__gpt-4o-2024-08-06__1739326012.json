@@ -1,0 +1,16 @@
+{
+  "query": "John's car gets 30 mpg.  He drives 20 miles to work each way 5 days a week.  He also drives another 40 miles a week for leisure travel. How many gallons of gas does he use a week?",
+  "steps": [
+    "First, I need to calculate the total distance John drives for work each week.",
+    "John drives 20 miles each way to work, which is 40 miles a day.",
+    "He drives to work 5 days a week, so that's 40 miles/day * 5 days = 200 miles per week for work.",
+    "Now I need to add the leisure travel to the work travel.",
+    "He drives 40 miles a week for leisure.",
+    "So, total weekly driving is 200 miles (work) + 40 miles (leisure) = 240 miles.",
+    "Now I calculate how many gallons of gas John needs for the 240 miles.",
+    "His car gets 30 miles per gallon (mpg).",
+    "To find out how many gallons John uses, I divide the total miles by the miles per gallon.",
+    "So, 240 miles / 30 mpg = 8 gallons."
+  ],
+  "solution": "8"
+}

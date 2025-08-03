@@ -1,0 +1,12 @@
+{
+  "query": "Tom invites his parents and 3 siblings to his house.  They each eat 3 times a day.  How many plates do Tom and his guests use while they are there for the 4 days if each person uses 2 plates per meal?",
+  "steps": [
+    "First, I need to determine the total number of people eating. Tom invites his parents and 3 siblings, so including Tom, there are 1 + 2 + 3 = 6 people.",
+    "Next, I calculate the number of meals each person has per day. Each person eats 3 times a day.",
+    "Now, I need to determine the number of meals over the 4 days. Each person eats 3 meals a day for 4 days, so they eat 3 x 4 = 12 meals in total per person.",
+    "I calculate how many plates each person uses per meal. Each person uses 2 plates per meal.",
+    "Now, I know each person uses 2 plates per meal for 12 meals, meaning each person uses 2 x 12 = 24 plates.",
+    "To find out the total number of plates used, I multiply the number of plates each person uses by the total number of people. So, 24 plates per person x 6 people = 144 plates."
+  ],
+  "solution": "144"
+}

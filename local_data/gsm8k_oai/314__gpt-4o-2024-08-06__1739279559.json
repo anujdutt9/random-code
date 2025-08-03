@@ -1,0 +1,19 @@
+{
+  "query": "Berry wants to make sure he reads an average of 50 pages a day. This week he read 43 pages on Sunday, 65 pages on Monday, and 28 pages on Tuesday. He had a soccer game and fell asleep early on Wednesday so he read nothing. On Thursday he read 70 pages, and on Friday he read 56 pages. How many pages does he have to read on Saturday to reach his goal?",
+  "steps": [
+    "First, I need to calculate the total number of pages Berry has read so far this week.",
+    "On Sunday, Berry read 43 pages.",
+    "On Monday, he read 65 pages.",
+    "On Tuesday, he read 28 pages.",
+    "On Wednesday, he read 0 pages.",
+    "On Thursday, he read 70 pages.",
+    "On Friday, he read 56 pages.",
+    "Now I'll add up the pages he read from Sunday to Friday.",
+    "43 (Sunday) + 65 (Monday) + 28 (Tuesday) + 0 (Wednesday) + 70 (Thursday) + 56 (Friday) = 262 pages.",
+    "Berry needs to have read an average of 50 pages per day over 7 days.",
+    "50 pages/day * 7 days = 350 pages needed in total for the week.",
+    "Berry has already read 262 pages, so I need to find out how many more pages he needs to read on Saturday.",
+    "350 total pages - 262 pages already read = 88 pages Berry needs to read on Saturday."
+  ],
+  "solution": "88"
+}

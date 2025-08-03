@@ -1,0 +1,14 @@
+{
+  "query": "James won a money prize at a charity raffle. He donated half of his winnings back to the charity, then spent $2 on a hot dog to celebrate his win. He had $55 left over. How many dollars did he win?",
+  "steps": [
+    "Let me denote the initial amount of winnings as \\( x \\).",
+    "According to the problem, James donates half of his winnings back to the charity, so he donates \\( \\frac{x}{2} \\).",
+    "After donating half of his winnings, the money James has is \\( x - \\frac{x}{2} = \\frac{x}{2} \\).",
+    "James then spends $2 on a hot dog, so the money he has after that is \\( \\frac{x}{2} - 2 \\).",
+    "According to the problem, James has $55 left over, so \\( \\frac{x}{2} - 2 = 55 \\).",
+    "To find \\( x \\), I first add 2 to both sides to isolate the term with \\( x \\), resulting in \\( \\frac{x}{2} = 57 \\).",
+    "I then multiply both sides by 2 to solve for \\( x \\), giving me \\( x = 114 \\).",
+    "I should double-check my calculations to ensure there were no mistakes:\n1. Half of 114 is 57.\n2. Subtracting 2 from 57 gives 55, which matches the problem's conditions."
+  ],
+  "solution": "114"
+}

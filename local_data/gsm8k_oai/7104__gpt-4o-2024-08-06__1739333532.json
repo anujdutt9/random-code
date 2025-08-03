@@ -1,0 +1,21 @@
+{
+  "query": "A truck can carry a maximum of 13,500 kgs of supplies. Yesterday, the truck was loaded with 100 boxes that weigh 100 kgs each. Then, it was loaded with 10 crates which weigh 60 kgs each. Today, it was loaded again with 50 sacks which weigh 50 kilograms each. How many bags weighing 40 kilograms each can we still load in the truck?",
+  "steps": [
+    "First, I need to calculate the total weight of the 100 boxes.",
+    "Each box weighs 100 kgs. So for 100 boxes: 100 boxes * 100 kgs/box = 10,000 kgs.",
+    "Next, I calculate the total weight of the 10 crates.",
+    "Each crate weighs 60 kgs. So for 10 crates: 10 crates * 60 kgs/crate = 600 kgs.",
+    "Now, I add the weight of the boxes and the crates to find the total weight loaded yesterday.",
+    "Total weight from yesterday = 10,000 kgs (boxes) + 600 kgs (crates) = 10,600 kgs.",
+    "Next, I calculate the weight of the 50 sacks loaded today.",
+    "Each sack weighs 50 kgs. So for 50 sacks: 50 sacks * 50 kgs/sack = 2,500 kgs.",
+    "Now, I add the weight from yesterday and the weight from today to find the current total weight of the load.",
+    "Current total weight = 10,600 kgs (from yesterday) + 2,500 kgs (sacks) = 13,100 kgs.",
+    "The maximum capacity of the truck is 13,500 kgs.",
+    "To find how much more weight the truck can carry, I subtract the current total weight from the maximum capacity.",
+    "Remaining capacity = 13,500 kgs - 13,100 kgs = 400 kgs.",
+    "Now, I need to determine how many 40 kg bags can fit into the remaining 400 kgs.",
+    "Divide the remaining capacity by the weight of each bag: 400 kgs / 40 kgs/bag = 10 bags."
+  ],
+  "solution": "10"
+}

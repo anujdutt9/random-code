@@ -1,0 +1,16 @@
+{
+  "query": "Alexander Bought 22 more joggers than Tyson. Christopher bought twenty times as many joggers as Tyson. If Christopher bought 80 joggers, how many more joggers does Christopher buy than Alexander?",
+  "steps": [
+    "Let's start by identifying how many joggers Tyson bought.",
+    "Christopher bought twenty times as many joggers as Tyson. We know Christopher bought 80 joggers.",
+    "Since Christopher bought 80 joggers, and this amount is 20 times what Tyson bought, we set up an equation: 20 * (Tyson's joggers) = 80.",
+    "Solving for Tyson's joggers, we divide both sides by 20: Tyson's joggers = 80 / 20.",
+    "So, Tyson bought 4 joggers.",
+    "Now, let's figure out how many joggers Alexander bought.",
+    "Alexander bought 22 more joggers than Tyson. Since Tyson bought 4 joggers, Alexander bought 4 + 22 joggers.",
+    "This means Alexander bought 26 joggers.",
+    "Finally, we need to find out how many more joggers Christopher buys than Alexander.",
+    "We subtract the number of joggers Alexander bought from the number of joggers Christopher bought: 80 - 26."
+  ],
+  "solution": "54"
+}

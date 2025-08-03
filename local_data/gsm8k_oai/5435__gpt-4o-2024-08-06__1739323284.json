@@ -1,0 +1,16 @@
+{
+  "query": "Matt's protein powder is 80% protein.  He weighs 80 kg and wants to eat 2 grams of protein per kilogram of body weight each day.  How much protein powder does he need to eat per week?",
+  "steps": [
+    "First, I need to calculate Matt's daily protein requirement in grams.",
+    "Matt weighs 80 kg and wants to consume 2 grams of protein per kilogram.",
+    "80 kg multiplied by 2 grams of protein per kg equals 160 grams of protein needed daily.",
+    "Now, I need to find out how much protein powder Matt needs to consume to meet this daily protein requirement.",
+    "Matt's protein powder is 80% protein, so each gram of protein powder contains 0.8 grams of protein.",
+    "To find out how many grams of protein powder Matt needs to get 160 grams of protein, I divide 160 grams by 0.8.",
+    "160 divided by 0.8 equals 200 grams of protein powder needed per day.",
+    "Matt wants to know how much protein powder he needs per week, not per day.",
+    "There are 7 days in a week, so I multiply the daily protein powder requirement by 7.",
+    "200 grams per day multiplied by 7 days equals 1400 grams of protein powder per week."
+  ],
+  "solution": "1400"
+}

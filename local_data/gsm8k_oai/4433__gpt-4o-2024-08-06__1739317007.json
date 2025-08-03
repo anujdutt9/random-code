@@ -1,0 +1,18 @@
+{
+  "query": "There is a playground that is surrounded by a square fence that has a side length of 27 yards. There is a 12 yard by 9 yard garden that has fencing around it. How many yards of fencing do the playground and garden have together?",
+  "steps": [
+    "First, I need to determine the perimeter of the square playground.",
+    "The formula for the perimeter of a square is 4 times the side length.",
+    "The side length of the playground is 27 yards.",
+    "So, the perimeter of the playground is 4 * 27 = 108 yards.",
+    "Next, I need to determine the perimeter of the 12 yard by 9 yard garden.",
+    "The formula for the perimeter of a rectangle is 2 times the sum of its length and width.",
+    "For the garden, the length is 12 yards, and the width is 9 yards.",
+    "The sum of the length and width is 12 + 9 = 21 yards.",
+    "Thus, the perimeter of the garden is 2 * 21 = 42 yards.",
+    "Now, I calculate the total amount of fencing for both the playground and the garden by adding their perimeters.",
+    "The total amount of fencing is 108 yards (playground) + 42 yards (garden).",
+    "Calculating the sum gives 108 + 42 = 150 yards."
+  ],
+  "solution": "150"
+}

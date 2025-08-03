@@ -1,0 +1,13 @@
+{
+  "query": "To improve her health, Mary decides to drink 1.5 liters of water a day as recommended by her doctor. Mary's glasses hold 250 mL of water. How many glasses of water should Mary drink per day to reach her goal?",
+  "steps": [
+    "First, I need to convert Mary's daily water goal from liters to milliliters because Mary's glasses are measured in milliliters.",
+    "There are 1000 milliliters in a liter. So, 1.5 liters is equivalent to 1.5 x 1000 milliliters.",
+    "Calculating that, 1.5 x 1000 equals 1500 milliliters.",
+    "Next, I need to determine how many glasses of water, each holding 250 milliliters, Mary needs to drink to reach 1500 milliliters.",
+    "To find the number of glasses, I divide the total amount of water in milliliters by the volume of one glass. That is, 1500 milliliters divided by 250 milliliters per glass.",
+    "Calculating the division, 1500 divided by 250 equals 6.",
+    "Thus, Mary needs to drink 6 glasses of water per day to meet her goal."
+  ],
+  "solution": "6"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "From Monday to Friday, Elle practices piano for 30 minutes. On Saturday, she practices piano three times as much as on a weekday. There is no practice on Sunday.  How many hours does Elle spend practicing piano each week?",
+  "steps": [
+    "Elle practices for 30 minutes each weekday, from Monday to Friday.",
+    "There are 5 weekdays, so the total weekday practice time is 5 days * 30 minutes per day.",
+    "Calculate the total weekday practice time: 5 * 30 = 150 minutes.",
+    "On Saturday, Elle practices three times as much as on a weekday.",
+    "A single weekday practice session is 30 minutes, so on Saturday she practices 3 * 30 = 90 minutes.",
+    "Now sum the total practice time for the week: 150 minutes (weekdays) + 90 minutes (Saturday).",
+    "Calculate the total practice time: 150 + 90 = 240 minutes.",
+    "Convert the total practice time from minutes to hours. There are 60 minutes in an hour.",
+    "Divide 240 minutes by 60 to get the total hours: 240 / 60 = 4 hours."
+  ],
+  "solution": "4"
+}

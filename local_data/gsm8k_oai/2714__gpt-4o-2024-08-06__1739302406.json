@@ -1,0 +1,17 @@
+{
+  "query": "Two puppies, two kittens, and three parakeets were for sale at the pet shop.  The puppies were three times more expensive than the parakeets, and the parakeets were half as expensive as the kittens.  If the cost of one parakeet was $10, what would it cost to purchase all of the pets for sale at the pet shop, in dollars?",
+  "steps": [
+    "First, determine the cost of one parakeet, which is given as $10.",
+    "According to the problem, parakeets were half as expensive as the kittens. This means that the cost of a kitten is twice the cost of a parakeet.",
+    "Calculate the cost of one kitten: 2 x $10 = $20.",
+    "Next, the puppies were three times more expensive than the parakeets.",
+    "Calculate the cost of one puppy: 3 x $10 = $30.",
+    "There are two puppies, each costing $30, so the total cost for the puppies is 2 x $30 = $60.",
+    "There are two kittens, each costing $20, so the total cost for the kittens is 2 x $20 = $40.",
+    "There are three parakeets, each costing $10, so the total cost for the parakeets is 3 x $10 = $30.",
+    "Add the total costs for all the puppies, kittens, and parakeets to find the total cost of all the pets.",
+    "Total cost = $60 (puppies) + $40 (kittens) + $30 (parakeets).",
+    "Calculate the total: $60 + $40 + $30 = $130."
+  ],
+  "solution": "130"
+}

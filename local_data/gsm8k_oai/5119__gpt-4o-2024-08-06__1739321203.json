@@ -1,0 +1,15 @@
+{
+  "query": "If we assume all thirty 4-wheel drive cars in the parking lot have their spare tire with them, how many tires are in the parking lot?",
+  "steps": [
+    "First, I need to determine the total number of cars in the parking lot.",
+    "According to the problem, there are thirty 4-wheel drive cars in the parking lot.",
+    "Each 4-wheel drive car has 4 regular tires.",
+    "Since there are thirty cars, the total number of regular tires is 30 cars multiplied by 4 regular tires per car.",
+    "30 cars * 4 regular tires/car = 120 regular tires.",
+    "Each car also has a spare tire.",
+    "Therefore, for the 30 cars, there are 30 spare tires, one for each car.",
+    "Now, I need to add the number of regular tires to the number of spare tires to find the total number of tires.",
+    "120 regular tires + 30 spare tires = 150 tires in total."
+  ],
+  "solution": "150"
+}

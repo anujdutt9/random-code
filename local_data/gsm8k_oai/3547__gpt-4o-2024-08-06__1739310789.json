@@ -1,0 +1,17 @@
+{
+  "query": "James gets a fleet of gas transportation vans.  He gets 6 vans.  2 of them are 8000 gallons.  1 of them is 30% less than that.  The remaining trucks are 50% larger than the 2 trucks.  How many gallons can he transport?",
+  "steps": [
+    "James has 6 vans in total.",
+    "2 of the vans can carry 8000 gallons each.",
+    "Let's calculate the capacity of the 2 vans, each with 8000 gallons. 2 vans * 8000 gallons/van = 16000 gallons.",
+    "1 van has 30% less capacity than 8000 gallons.",
+    "30% of 8000 is 0.30 * 8000 = 2400.",
+    "The capacity of this van is 8000 - 2400 = 5600 gallons.",
+    "The remaining 3 vans have a capacity 50% larger than the 2 trucks that are 8000 gallons.",
+    "50% of 8000 is 0.50 * 8000 = 4000.",
+    "The capacity of each of the remaining 3 vans is 8000 + 4000 = 12000 gallons.",
+    "Calculate the total capacity of the 3 vans: 3 vans * 12000 gallons/van = 36000 gallons.",
+    "Now sum up the gallons of all the vans: 16000 (from the first two vans) + 5600 (from the one van) + 36000 (from the remaining three vans) = 57600 gallons."
+  ],
+  "solution": "57600"
+}

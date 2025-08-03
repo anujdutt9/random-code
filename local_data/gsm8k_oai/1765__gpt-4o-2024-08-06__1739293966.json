@@ -1,0 +1,16 @@
+{
+  "query": "Mama bird has 6 babies in the nest.  She needs to feed each baby 3 worms a day.  Papa bird caught 9 worms. If she caught 13 worms and had 2 stolen, how many more does she need to catch to feed them for 3 days?",
+  "steps": [
+    "First, calculate the total number of worms needed to feed the babies for one day. Each baby needs 3 worms, and there are 6 babies.",
+    "Multiply 6 babies by 3 worms per baby to get 18 worms needed per day.",
+    "Next, calculate the total number of worms needed to feed the babies for 3 days.",
+    "Multiply 18 worms per day by 3 days to get a total of 54 worms needed.",
+    "Now, calculate the total number of worms the birds currently have. Papa bird caught 9 worms, and Mama bird caught 13 worms but had 2 stolen.",
+    "Subtract 2 stolen worms from Mama bird's 13 worms to get 11 worms remaining.",
+    "Add Papa bird's 9 worms to Mama bird's 11 worms to get a total of 20 worms.",
+    "Now, find out how many more worms Mama bird needs to catch.",
+    "Subtract the total number of worms they have (20 worms) from the total number of worms needed (54 worms).",
+    "54 worms needed minus 20 worms on hand equals 34 worms."
+  ],
+  "solution": "34"
+}

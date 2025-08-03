@@ -1,0 +1,19 @@
+{
+  "query": "A radio show plays for 3 hours a day. They split their show into talking segments, ad breaks and songs. Talking segments last 10 minutes each, ad breaks last 5 minutes each and songs are played throughout the rest of the show. If the radio show includes 3 talking segments and 5 ad breaks in today\u2019s show, how long, in minutes, does the show play songs?",
+  "steps": [
+    "First, I need to calculate the total duration of the radio show in minutes.",
+    "Since the show plays for 3 hours a day, I convert the hours into minutes.",
+    "1 hour is 60 minutes, so 3 hours is 3 * 60 = 180 minutes.",
+    "Next, I need to calculate the total time taken up by the talking segments.",
+    "There are 3 talking segments, and each lasts 10 minutes.",
+    "So the total time for talking segments is 3 * 10 = 30 minutes.",
+    "Now, I calculate the total time taken up by the ad breaks.",
+    "There are 5 ad breaks, and each lasts 5 minutes.",
+    "So the total time for ad breaks is 5 * 5 = 25 minutes.",
+    "Now, I add the time for talking segments and ad breaks to find out how much time is taken by these activities altogether.",
+    "The total time for talking segments and ad breaks is 30 + 25 = 55 minutes.",
+    "To find out how long the show plays songs, I subtract the total time taken by talking segments and ad breaks from the total show time.",
+    "The total time for songs is 180 - 55 = 125 minutes."
+  ],
+  "solution": "125"
+}

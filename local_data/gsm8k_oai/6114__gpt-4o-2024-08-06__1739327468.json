@@ -1,0 +1,13 @@
+{
+  "query": "Nancy has six pairs of boots, nine more pairs of slippers than boots, and a number of pairs of heels equal to three times the combined number of slippers and boots. How many shoes (individual shoes, not pairs) does she have?",
+  "steps": [
+    "First, I determine the number of pairs of boots Nancy has. She has 6 pairs of boots.",
+    "Next, I calculate how many pairs of slippers Nancy has. The problem states she has nine more pairs of slippers than boots. Since she has 6 pairs of boots, that means she has 6 + 9 = 15 pairs of slippers.",
+    "Now, I find the combined number of pairs of slippers and pairs of boots. There are 6 pairs of boots and 15 pairs of slippers, which makes the total 6 + 15 = 21 pairs.",
+    "According to the problem, the number of pairs of heels is three times the combined number of pairs of slippers and boots. So, that is 3 times 21 pairs, which is 3 * 21 = 63 pairs of heels.",
+    "Next, I calculate the total number of pairs of shoes Nancy has in total by adding the pairs of boots, slippers, and heels: 6 pairs of boots + 15 pairs of slippers + 63 pairs of heels = 84 pairs of shoes.",
+    "Since the question is asking for the total number of individual shoes, I need to multiply the total number of pairs by 2, because each pair contains 2 individual shoes.",
+    "So, the total number of individual shoes is 84 pairs * 2 = 168 individual shoes."
+  ],
+  "solution": "168"
+}

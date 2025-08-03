@@ -1,0 +1,15 @@
+{
+  "query": "Manny has a tree that grows at the rate of fifty centimeters every two weeks. If the tree is currently 2 meters tall, how tall, in centimeters, will the tree be in 4 months?",
+  "steps": [
+    "First, I need to determine how many weeks are in 4 months.",
+    "Assuming an average month has about 4.35 weeks, I calculate 4 months as 4 * 4.35 = 17.4 weeks.",
+    "But let's round it to a practical whole number and assume 4 months is close to 17 weeks for simplicity.",
+    "Next, I see the tree grows 50 centimeters every 2 weeks.",
+    "I need to find out how many complete two-week periods are in 17 weeks.",
+    "There are 17 // 2 = 8 complete two-week periods in 17 weeks.",
+    "The growth of the tree over these periods is 8 periods * 50 centimeters = 400 centimeters.",
+    "The tree is currently 2 meters tall, which is equal to 200 centimeters.",
+    "Adding the current height to the growth: 200 centimeters + 400 centimeters = 600 centimeters."
+  ],
+  "solution": "600"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Bobby has an aquarium with twice as many fish as Sarah's has.  Sarah has 5 more fish in her aquarium than Tony does.  Tony has 3 times as many fish in his aquarium as Billy does.  Billy has 10 fish.  How many fish do all 4 people have put together?",
+  "steps": [
+    "I know that Billy has 10 fish.",
+    "Tony has 3 times as many fish as Billy, so I multiply 10 by 3 to find out how many fish Tony has.",
+    "10 times 3 is 30, so Tony has 30 fish.",
+    "Sarah has 5 more fish than Tony, so I add 5 to the number of fish Tony has.",
+    "30 plus 5 is 35, so Sarah has 35 fish.",
+    "Bobby has twice as many fish as Sarah, so I multiply 35 by 2 to find out how many fish Bobby has.",
+    "35 times 2 is 70, so Bobby has 70 fish.",
+    "Finally, I add the number of fish Billy, Tony, Sarah, and Bobby each have to determine the total number of fish.",
+    "10 (Billy) plus 30 (Tony) plus 35 (Sarah) plus 70 (Bobby) equals 145."
+  ],
+  "solution": "145"
+}

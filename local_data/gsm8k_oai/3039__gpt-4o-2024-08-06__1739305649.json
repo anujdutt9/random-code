@@ -1,0 +1,14 @@
+{
+  "query": "The owner of a company needs to install a transformer to power his electrical equipment. He operates three units of machinery that require a running current of 40A each. These appliances require at least twice their running current for starting, and the transformer chosen must account for this. What is the minimum current load that his transformer of choice must be able to carry?",
+  "steps": [
+    "First, I need to determine the running current for all three units of machinery combined. Each unit requires 40A.",
+    "Since there are three units, the total running current is 3 units \u00d7 40A/unit = 120A.",
+    "Next, I need to consider the starting current requirement. Each machine requires twice its running current for starting.",
+    "Therefore, each machine requires 2 \u00d7 40A = 80A for starting.",
+    "I need to determine the starting current for all three machines combined.",
+    "The total starting current for all three units is 3 units \u00d7 80A/unit = 240A.",
+    "Since the transformer must account for the highest current demand, it must handle the starting current.",
+    "Thus, the transformer must at least carry a current load of 240A."
+  ],
+  "solution": "240"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "A community is building a metal fence. Each fence panel is made of 3 metal sheets, and 2 metal beams. The fence is made of 10 fence panels. If each sheet is made of 10 metal rods and each metal beam is made of 4 metal rods, how many metal rods does the community need for the fence?",
+  "steps": [
+    "First, I need to determine how many metal sheets are used in total for all 10 fence panels.",
+    "Each fence panel is made up of 3 metal sheets.",
+    "Since there are 10 fence panels, the total number of metal sheets needed is 10 panels \u00d7 3 sheets per panel = 30 sheets.",
+    "Next, I need to determine how many metal beams are used in total for all 10 fence panels.",
+    "Each fence panel is made up of 2 metal beams.",
+    "Since there are 10 fence panels, the total number of metal beams needed is 10 panels \u00d7 2 beams per panel = 20 beams.",
+    "Now, I will calculate how many metal rods are required for all the metal sheets.",
+    "Each metal sheet is made of 10 metal rods.",
+    "So, for 30 metal sheets, the total number of metal rods needed is 30 sheets \u00d7 10 rods per sheet = 300 rods.",
+    "Next, I will calculate how many metal rods are required for all the metal beams.",
+    "Each metal beam is made of 4 metal rods.",
+    "So, for 20 metal beams, the total number of metal rods needed is 20 beams \u00d7 4 rods per beam = 80 rods.",
+    "Finally, I will add together the metal rods needed for both the sheets and the beams to find the total number of metal rods needed.",
+    "The total number of metal rods needed is 300 rods (from sheets) + 80 rods (from beams) = 380 rods."
+  ],
+  "solution": "380"
+}

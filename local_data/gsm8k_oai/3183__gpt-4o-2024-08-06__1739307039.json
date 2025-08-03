@@ -1,0 +1,18 @@
+{
+  "query": "There are 400 students. 120 students take dance as their elective. 200 students take art as their elective. The rest take music. What percentage of students take music?",
+  "steps": [
+    "First, I need to determine the total number of students who take music.",
+    "There are 400 students in total.",
+    "120 students take dance.",
+    "200 students take art.",
+    "I will add the students taking dance and art to find how many students do not take music.",
+    "120 (dance) + 200 (art) = 320 students take either dance or art.",
+    "To find the number of students taking music, I will subtract the number of students taking dance or art from the total number of students.",
+    "400 (total students) - 320 (students taking dance or art) = 80 students take music.",
+    "Now, I need to find the percentage of students who take music.",
+    "I will use the formula for percentage: (part/total) \u00d7 100%.",
+    "The part is 80 students taking music, and the total is 400 students.",
+    "(80/400) \u00d7 100% = 20%."
+  ],
+  "solution": "20"
+}

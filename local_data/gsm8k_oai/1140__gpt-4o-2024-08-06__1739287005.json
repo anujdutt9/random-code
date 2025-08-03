@@ -1,0 +1,16 @@
+{
+  "query": "A basketball team played 40 games and won 70% of the games. It still had 10 games to play. How many games can they lose to win 60% of their games?",
+  "steps": [
+    "The team played 40 games and won 70% of them.",
+    "First, let's calculate how many games they have already won.",
+    "70% of 40 games is 0.70 * 40 = 28 games.",
+    "The team has 10 more games to play, which will make for a total of 40 + 10 = 50 games by the end of the season.",
+    "The team wants to finish with a winning percentage of 60%.",
+    "60% of the total 50 games = 0.60 * 50 = 30 games.",
+    "Therefore, they need to win a total of 30 games to have a 60% winning record by the end.",
+    "They have already won 28 games.",
+    "They need to win 30 - 28 = 2 more games.",
+    "Since they have to play 10 more games, if they win 2 more, they would lose 10 - 2 = 8 games."
+  ],
+  "solution": "8"
+}

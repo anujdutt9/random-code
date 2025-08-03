@@ -1,0 +1,17 @@
+{
+  "query": "Wanda walks her daughter .5 miles to school in the morning and then walks .5 miles home.  She repeats this when she meets her daughter after school in the afternoon.  They walk to school 5 days a week.  How many miles does Wanda walk after 4 weeks?",
+  "steps": [
+    "First, I need to determine how many trips Wanda makes in a day.",
+    "In the morning, Wanda walks to the school and then back home, which is 0.5 miles each way.",
+    "So, in the morning, Wanda walks 0.5 miles + 0.5 miles = 1 mile.",
+    "In the afternoon, Wanda repeats the same trip: walking 0.5 miles to the school and then 0.5 miles back home.",
+    "Therefore, in the afternoon, Wanda walks another 1 mile.",
+    "In total, Wanda walks 1 mile (morning) + 1 mile (afternoon) = 2 miles each day.",
+    "Now, I calculate how many days Wanda walks in 1 week.",
+    "She walks 5 days a week.",
+    "By walking 2 miles per day for 5 days, she walks 5 days * 2 miles/day = 10 miles per week.",
+    "Next, I need to calculate how many miles Wanda walks after 4 weeks.",
+    "So, over 4 weeks, she walks 4 weeks * 10 miles/week = 40 miles."
+  ],
+  "solution": "40"
+}

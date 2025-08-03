@@ -1,0 +1,9 @@
+{
+    "id": 17,
+    "query": "Question: Why is it safer to look at the Moon than it is to look at the Sun?\n\nChoices:\nA: The Moon is less bright.\nB: The Moon is closer to Earth.\nC: The Moon shines mostly at night.\nD: The Moon is full only once a month.",
+    "solution": "A",
+    "style_name": "form_5_annotated_deduction",
+    "steps": [
+        "[Sun is bright] \u2192 [Can damage eyes]\n[Moon is dimmer] \u2192 [Safer to view]\nAnswer: The Moon is less bright"
+    ]
+}

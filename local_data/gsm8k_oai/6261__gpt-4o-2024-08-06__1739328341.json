@@ -1,0 +1,17 @@
+{
+  "query": "At the same store, Peter bought 2 pairs of pants and 5 shirts for $62 total, and Jessica bought 2 shirts for $20 total. Each pair of pants cost the same price, and each shirt cost the same price. How much does 1 pair of pants cost?",
+  "steps": [
+    "Let p be the cost of one pair of pants and s be the cost of one shirt.",
+    "Peter bought 2 pairs of pants and 5 shirts for $62, so we can set up the equation: 2p + 5s = 62.",
+    "Jessica bought 2 shirts for $20, so we can set up another equation: 2s = 20.",
+    "From the equation 2s = 20, we can solve for s: s = 20 / 2.",
+    "s = 10. Each shirt costs $10.",
+    "Now substitute s = 10 into the first equation: 2p + 5(10) = 62.",
+    "Simplify the equation: 2p + 50 = 62.",
+    "Subtract 50 from both sides to solve for 2p: 2p = 62 - 50.",
+    "2p = 12.",
+    "Divide both sides by 2 to find the cost of one pair of pants: p = 12 / 2.",
+    "p = 6. Each pair of pants costs $6."
+  ],
+  "solution": "6"
+}

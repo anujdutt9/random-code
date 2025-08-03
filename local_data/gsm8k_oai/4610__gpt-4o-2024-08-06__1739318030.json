@@ -1,0 +1,25 @@
+{
+  "query": "Camille goes to the Ice Cream Palace with her husband and two children. Each one orders a different ice cream. Camille orders a banana split, her husband orders a waffle bowl, her daughter orders a single cone, and her son orders a double cone. The cone has 1 scoop of ice cream, the banana split has 3 times as many scoops of ice cream as the cone and the waffle bowl has 1 more scoop than the banana split. How many scoops of ice cream did the ice cream man serve?",
+  "steps": [
+    "Camille orders a banana split.",
+    "The banana split has 3 times as many scoops of ice cream as the cone.",
+    "Let the number of scoops in a single cone be x.",
+    "Then, the banana split has 3x scoops.",
+    "Her husband orders a waffle bowl.",
+    "The waffle bowl has 1 more scoop than the banana split.",
+    "So, the waffle bowl has 3x + 1 scoops.",
+    "Her daughter orders a single cone with x scoops.",
+    "Her son orders a double cone with 2x scoops.",
+    "Now, calculate the total number of scoops: banana split (3x), waffle bowl (3x + 1), single cone (x), and double cone (2x).",
+    "Total number of scoops = 3x + (3x + 1) + x + 2x.",
+    "Combine like terms: 3x + 3x + 1 + x + 2x = 9x + 1.",
+    "I need to find the value of x to get the total number of scoops. However, x is a variable for the problem, so I need to find the total using substitution or logic.",
+    "The problem is about summation rather than solving for x. Assuming a single cone scoop as a base unit is the key.",
+    "Assume x = 1 (single scoop cone) for calculating total scoops using a base unit.",
+    "Then the scoops become concrete numbers instead of variables.",
+    "Recalculate totals using base unit assumption: banana split = 3 scoops, waffle bowl = 3 + 1 scoops = 4 scoops, single cone = 1 scoop, double cone = 2 scoops.",
+    "Total scoops are 3 + 4 + 1 + 2.",
+    "Adding these gives: 3 + 4 + 1 + 2 = 10."
+  ],
+  "solution": "10"
+}

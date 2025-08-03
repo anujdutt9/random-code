@@ -1,0 +1,19 @@
+{
+  "query": "Jill can run up a hill at 9 feet/second and down a hill at 12 feet/second. How long does it take her to run up and down a 900 foot hill?",
+  "steps": [
+    "First, determine the time it takes for Jill to run up the hill.",
+    "The distance up the hill is 900 feet.",
+    "The speed going up the hill is 9 feet/second.",
+    "Time is calculated using the formula: time = distance/speed.",
+    "Time to run up the hill = 900 feet / 9 feet/second = 100 seconds.",
+    "Next, determine the time it takes for Jill to run down the hill.",
+    "The distance down the hill is also 900 feet.",
+    "The speed going down the hill is 12 feet/second.",
+    "Time to run down the hill = 900 feet / 12 feet/second.",
+    "Time to run down the hill = 75 seconds.",
+    "Now, add the time taken to run up and down the hill to find the total time.",
+    "Total time = time up + time down = 100 seconds + 75 seconds.",
+    "Total time = 175 seconds."
+  ],
+  "solution": "175"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "John needs to replace his shoes so he decides to buy a $150 pair of Nikes and a $120 pair of work boots.  Tax is 10%.  How much did he pay for everything?",
+  "steps": [
+    "First, I need to calculate the total cost of the shoes without tax.",
+    "The pair of Nikes costs $150.",
+    "The pair of work boots costs $120.",
+    "I will add these two amounts together to find the subtotal.",
+    "$150 + $120 = $270",
+    "The subtotal is $270.",
+    "Now, I need to calculate the sales tax. The tax rate is 10%.",
+    "To find 10% of $270, I multiply $270 by 0.10.",
+    "$270 \u00d7 0.10 = $27",
+    "The sales tax is $27.",
+    "Next, I will add the sales tax to the subtotal to find the total cost.",
+    "$270 (subtotal) + $27 (tax) = $297",
+    "The total amount John paid for both pairs of shoes is $297."
+  ],
+  "solution": "297"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "What is the average age of the 1st and 5th fastest dogs if the 1st fastest dog is 10 years old, the 2nd fastest dog is 2 years younger than the first fastest dog, the 3rd fastest dog is 4 years older than the 2nd fastest dog, the 4th fastest dog is half the age of the 3rd fastest dog, and the 5th fastest dog is 20 years older than the 4th fastest dog?",
+  "steps": [
+    "The 1st fastest dog is given as 10 years old.",
+    "The 2nd fastest dog is 2 years younger than the 1st fastest dog, so it is 10 - 2 = 8 years old.",
+    "The 3rd fastest dog is 4 years older than the 2nd fastest dog, so it is 8 + 4 = 12 years old.",
+    "The 4th fastest dog is half the age of the 3rd fastest dog, so it is 12 / 2 = 6 years old.",
+    "The 5th fastest dog is 20 years older than the 4th fastest dog, so it is 6 + 20 = 26 years old.",
+    "Now, we need to find the average age of the 1st and 5th fastest dogs.",
+    "The age of the 1st fastest dog is 10 years and the 5th fastest dog is 26 years.",
+    "The sum of the ages of the 1st and 5th fastest dogs is 10 + 26 = 36 years.",
+    "The average age is calculated by dividing the sum by 2, so the average age is 36 / 2 = 18 years."
+  ],
+  "solution": "18"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "A family has three adults and children, both girls and boys. They went out for a family trip and prepared 3 dozen boiled eggs for the trip. Every adult got 3 eggs, and the boys each received 1 more egg than each girl since the girls had some snacks. How many boys went on the trip if the number of girls was 7 and each girl received an egg?",
+  "steps": [
+    "First, calculate the total number of eggs available. There are 3 dozen eggs, so 3 dozen equals 3 x 12 = 36 eggs.",
+    "Next, determine how many eggs the adults received. Each adult received 3 eggs, and there are 3 adults. So the adults received 3 x 3 = 9 eggs in total.",
+    "Subtract the number of eggs the adults received from the total number of eggs. 36 eggs - 9 eggs = 27 eggs are left for the children.",
+    "Each girl received 1 egg, and there are 7 girls, so the girls received 7 x 1 = 7 eggs in total.",
+    "Subtract the number of eggs received by the girls from the remaining eggs for the children. There were 27 eggs, and 7 were given to the girls, so 27 - 7 = 20 eggs are left for the boys.",
+    "The problem states that each boy receives 1 more egg than each girl, meaning each boy receives 2 eggs (since each girl received 1 egg).",
+    "Determine the number of boys by dividing the remaining eggs by the number of eggs each boy receives. There are 20 eggs left and each boy receives 2 eggs, so the number of boys is 20 \u00f7 2 = 10."
+  ],
+  "solution": "10"
+}

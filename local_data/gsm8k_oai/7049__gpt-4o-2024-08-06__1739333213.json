@@ -1,0 +1,15 @@
+{
+  "query": "James works for 240 minutes. He takes a water break every 20 minutes and a sitting break every 120 minutes. How many more water breaks does he take than sitting breaks?",
+  "steps": [
+    "James works for 240 minutes in total.",
+    "He takes a water break every 20 minutes.",
+    "To find the number of water breaks, I need to divide the total work time by the interval for water breaks: 240 \u00f7 20.",
+    "240 \u00f7 20 equals 12. So, James takes 12 water breaks.",
+    "He takes a sitting break every 120 minutes.",
+    "To find the number of sitting breaks, I need to divide the total work time by the interval for sitting breaks: 240 \u00f7 120.",
+    "240 \u00f7 120 equals 2. So, James takes 2 sitting breaks.",
+    "Now, I need to find the difference between the number of water breaks and sitting breaks: 12 water breaks - 2 sitting breaks.",
+    "12 - 2 equals 10."
+  ],
+  "solution": "10"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "Martin eats 1/2 cup of berries every day.  The grocery store is selling a package of berries (1 cup per pack) for $2.00.  How much will he spend on berries in a 30 day period?",
+  "steps": [
+    "Martin eats 1/2 cup of berries every day.",
+    "A package of berries contains 1 cup and costs $2.00.",
+    "Martin needs 1/2 cup per day, so in 2 days, he will consume 1 full cup of berries.",
+    "Each package, costing $2.00, will last him 2 days.",
+    "To find out how many packages Martin needs in 30 days, divide the number of days by 2: 30 days \u00f7 2 days/package = 15 packages.",
+    "Each package costs $2.00, and Martin needs 15 packages.",
+    "Calculate the total cost by multiplying the number of packages by the cost per package: 15 packages \u00d7 $2.00/package = $30.00."
+  ],
+  "solution": "30"
+}

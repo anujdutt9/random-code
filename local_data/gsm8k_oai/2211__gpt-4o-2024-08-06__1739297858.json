@@ -1,0 +1,19 @@
+{
+  "query": "The trip from Philip's house to the children's school is 2.5 miles, and the trip to the market is 2 miles. He makes the round trip to school two times (when taking the children to school and when bringing them back) every day for 4 days a week. Then he makes a round trip to the market once during weekends. What is his car's mileage for a typical week?",
+  "steps": [
+    "First, I will calculate the total miles for one round trip to the school. A round trip means going to and coming back, so it's 2 times the one-way distance.",
+    "The one-way trip to the school is 2.5 miles, so the round trip to the school is 2 * 2.5 miles.",
+    "2 * 2.5 = 5 miles for a round trip to the school.",
+    "Next, I will calculate the total miles for school trips in a week. Philip makes this round trip twice a day, for 4 days a week.",
+    "In a single day, two round trips to the school are 5 miles each, totaling 10 miles.",
+    "For 4 days, the total school trip mileage is 4 * 10 miles.",
+    "4 * 10 = 40 miles for school trips in a week.",
+    "Now, I will calculate the round trip to the market. A round trip to the market is 2 times the one-way distance.",
+    "The one-way trip to the market is 2 miles, so the round trip to the market is 2 * 2 miles.",
+    "2 * 2 = 4 miles for a round trip to the market.",
+    "Philip makes the market trip once during the weekend, so it's 4 miles total for the market trip in a week.",
+    "Finally, I will calculate the total mileage for Philip's car in a typical week by adding the school and market trips' mileages.",
+    "40 miles (school trips) + 4 miles (market trip) = 44 miles."
+  ],
+  "solution": "44"
+}

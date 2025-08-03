@@ -1,0 +1,13 @@
+{
+  "query": "Molly and her parents love to hang out at the beach on weekends. Molly spent the better part of the day at the beach and saw 100 people join them. At 5:00, 40 people left the beach. What's the total number of people at the beach if they all stayed until evening?",
+  "steps": [
+    "Molly and her parents started at the beach. Let's assume that's 3 people (Molly, her mother, and her father).",
+    "Molly saw 100 people join them at the beach.",
+    "To find the number of people initially at the beach before seeing others join, we sum 3 (Molly and her parents) with the 100 people who came.",
+    "3 + 100 = 103 people were at the beach after others joined.",
+    "At 5:00, 40 people left the beach.",
+    "To find the number of people still at the beach, we subtract the 40 people who left from the total number of people present before they left.",
+    "103 - 40 = 63 people remained at the beach after 40 people left."
+  ],
+  "solution": "63"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "There were 30 women and 20 men who attended the party. After few hours, 2/5 of the total number of people left. If 9 men left the party, how many more women stayed at the party than men?",
+  "steps": [
+    "First, I need to calculate the total number of people who attended the party initially.",
+    "There were 30 women and 20 men, so the total is 30 + 20 = 50 people.",
+    "I know that 2/5 of the total number of people left the party.",
+    "Calculate 2/5 of 50 to find out how many people left.",
+    "2/5 of 50 = (2/5) * 50 = 20 people.",
+    "I also know that 9 men left the party.",
+    "To find out how many women left, subtract the 9 men from the total of 20 people who left.",
+    "20 - 9 = 11 women left the party.",
+    "Next, calculate how many women stayed.",
+    "Initially, there were 30 women. Since 11 women left, 30 - 11 = 19 women stayed.",
+    "Now calculate how many men stayed.",
+    "Initially, there were 20 men. Since 9 men left, 20 - 9 = 11 men stayed.",
+    "Finally, find out how many more women stayed than men.",
+    "19 women stayed, and 11 men stayed. The difference is 19 - 11 = 8."
+  ],
+  "solution": "8"
+}

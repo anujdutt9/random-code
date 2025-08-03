@@ -1,0 +1,15 @@
+{
+  "query": "Federal guidelines recommend eating at least 2 cups of vegetables per day. From breakfast on Sunday to the end of the day on Thursday, Sarah has eaten 8 cups. How many cups per day does Sarah need to eat of her vegetables in order to meet her daily minimum requirement for the week?",
+  "steps": [
+    "First, I need to understand the problem. Sarah has eaten 8 cups of vegetables from Sunday morning to Thursday night.",
+    "The week is from Sunday to Saturday, so I need to find out how many days are left in the week from Friday to Saturday.",
+    "There are 5 days from Sunday to Thursday (inclusive).",
+    "A week has 7 days, so there are 7 - 5 = 2 days left in the week: Friday and Saturday.",
+    "I need to calculate the total number of cups of vegetables Sarah should eat in a week.",
+    "The guidelines recommend 2 cups per day. For 7 days, that totals 7 * 2 = 14 cups of vegetables.",
+    "Sarah has already eaten 8 cups, so we subtract the amount she has already eaten from what she needs in total: 14 - 8 = 6 cups.",
+    "Sarah needs to eat these remaining 6 cups over the next 2 days (Friday and Saturday).",
+    "To find out how many cups of vegetables Sarah needs to eat per day on Friday and Saturday, divide the remaining cups by the number of days left: 6 cups \u00f7 2 days = 3 cups per day."
+  ],
+  "solution": "3"
+}

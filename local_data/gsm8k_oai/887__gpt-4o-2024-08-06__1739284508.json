@@ -1,0 +1,18 @@
+{
+  "query": "Kyle is 5 years older than Julian. Julian is 20 years younger than Frederick. Frederick is 2 times older than Tyson. If Tyson is 20, how old is Kyle?",
+  "steps": [
+    "I'm given that Tyson is 20 years old.",
+    "Frederick is 2 times older than Tyson.",
+    "So, Frederick is 2 times 20 years old.",
+    "2 times 20 equals 40.",
+    "Therefore, Frederick is 40 years old.",
+    "Julian is 20 years younger than Frederick.",
+    "So, Julian is 40 minus 20 years old.",
+    "40 minus 20 equals 20.",
+    "Therefore, Julian is 20 years old.",
+    "Kyle is 5 years older than Julian.",
+    "So, Kyle is 20 plus 5 years old.",
+    "20 plus 5 equals 25."
+  ],
+  "solution": "25"
+}

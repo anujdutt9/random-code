@@ -1,0 +1,15 @@
+{
+  "query": "Matt needs to buy new plates for his home.  He only wants to do dishes once a week.  Three days a week it is only him and his son eating and they use 1 plate each.  On the remainder of the days, his parents join them and everyone uses 2 plates that day.  How many plates does he need to buy?",
+  "steps": [
+    "First, I need to determine the total number of days in a week Matt and his son will use the plates.",
+    "Matt and his son use plates for 3 days of the week. There are 2 people, so they need 1 plate each on those days.",
+    "For the other 4 days, it's Matt, his son, and his parents using plates. So, that's 4 people in total on those days.",
+    "On the 3 days with just Matt and his son, they each use 1 plate, making it a total of 2 plates per day.",
+    "For those 3 days, that would be 2 plates/day * 3 days = 6 plates.",
+    "On the remaining 4 days, each of the 4 people uses 2 plates, making it 4 * 2 = 8 plates per day.",
+    "Total plates for 4 days is 8 plates/day * 4 days = 32 plates.",
+    "To find the total number of plates needed for the week, I add the plates used for each period: 6 plates + 32 plates = 38 plates.",
+    "Matt wants to ensure he has a sufficient supply of plates for the entire week without running out, which means he needs to have exactly or slightly more than the total number used in the week."
+  ],
+  "solution": "38"
+}

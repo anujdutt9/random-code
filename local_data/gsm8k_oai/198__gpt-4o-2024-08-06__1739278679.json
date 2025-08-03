@@ -1,0 +1,16 @@
+{
+  "query": "Rosie runs 6 miles per hour. She runs for 1 hour on Monday, 30 minutes on Tuesday, 1 hour on Wednesday, and 20 minutes on Thursday. If she wants to run 20 miles for the week, how many minutes should she run on Friday?",
+  "steps": [
+    "First, I calculate how many miles Rosie runs on each day.",
+    "On Monday, Rosie runs for 1 hour. Since she runs 6 miles per hour, she runs 6 miles on Monday.",
+    "On Tuesday, Rosie runs for 30 minutes. Since 30 minutes is 0.5 of an hour, and she runs 6 miles per hour, she runs 0.5 * 6 = 3 miles on Tuesday.",
+    "On Wednesday, Rosie runs for 1 hour. Therefore, she runs 6 miles on Wednesday.",
+    "On Thursday, Rosie runs for 20 minutes. Since 20 minutes is 1/3 of an hour, and she runs 6 miles per hour, she runs 1/3 * 6 = 2 miles on Thursday.",
+    "Now, I sum up the miles run from Monday to Thursday: 6 miles + 3 miles + 6 miles + 2 miles = 17 miles.",
+    "Rosie wants to run 20 miles for the week. She has already run 17 miles, so she needs to run 20 - 17 = 3 more miles to reach her goal.",
+    "To calculate how many minutes it will take Rosie to run 3 miles on Friday, I note that she runs 6 miles in 60 minutes (or 1 hour).",
+    "Since she runs 6 miles in 60 minutes, she will run 1 mile in 60 / 6 = 10 minutes.",
+    "Therefore, to run 3 miles, she needs 3 * 10 = 30 minutes."
+  ],
+  "solution": "30"
+}

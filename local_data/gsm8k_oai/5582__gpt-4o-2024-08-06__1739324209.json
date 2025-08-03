@@ -1,0 +1,13 @@
+{
+  "query": "Taipei 101 in Taiwan is 1,673 feet tall with 101 floors. Suppose the first to 100th floors have height each equal to 16.5 feet, how high is the 101st floor?",
+  "steps": [
+    "I know that the total height of Taipei 101 is 1,673 feet.",
+    "I also know that the first 100 floors each have a height of 16.5 feet.",
+    "To find the total height of the first 100 floors, I need to multiply 100 by 16.5.",
+    "100 times 16.5 is 1,650.",
+    "The total height of the first 100 floors is 1,650 feet.",
+    "To find the height of the 101st floor, I must subtract the height of the first 100 floors from the total building height.",
+    "1,673 minus 1,650 equals 23."
+  ],
+  "solution": "23"
+}

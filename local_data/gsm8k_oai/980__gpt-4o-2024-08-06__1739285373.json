@@ -1,0 +1,16 @@
+{
+  "query": "A farm is growing corn in 2 fields. One of the fields has 13 full rows of corn cobs, and the other field has 16 full rows of corn cobs. If each row contains 4 corn cobs, how many corn cobs has the farm grown?",
+  "steps": [
+    "The farm has 2 fields, each with a different number of rows of corn.",
+    "The first field has 13 rows of corn cobs.",
+    "The second field has 16 rows of corn cobs.",
+    "Each row in both fields contains 4 corn cobs.",
+    "To find the total number of corn cobs in the first field, multiply the number of rows (13) by the number of corn cobs per row (4).",
+    "13 rows * 4 corn cobs per row = 52 corn cobs in the first field.",
+    "To find the total number of corn cobs in the second field, multiply the number of rows (16) by the number of corn cobs per row (4).",
+    "16 rows * 4 corn cobs per row = 64 corn cobs in the second field.",
+    "Add the total corn cobs from both fields to get the total number of corn cobs grown on the farm.",
+    "52 corn cobs from the first field + 64 corn cobs from the second field = 116 total corn cobs."
+  ],
+  "solution": "116"
+}

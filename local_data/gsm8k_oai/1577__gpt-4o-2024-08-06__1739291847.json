@@ -1,0 +1,17 @@
+{
+  "query": "Steve has a bank account that earns 10% interest every year. He puts $100 in it, and then 10 each year. How much money is in it after two years?",
+  "steps": [
+    "Steve initially deposits $100 into the bank account.",
+    "At the end of the first year, he earns 10% interest on the initial $100.",
+    "10% of $100 is $10.",
+    "Adding the interest, the account balance at the end of the first year is $100 + $10 = $110.",
+    "Steve deposits an additional $10 at the end of the first year.",
+    "The account balance after the additional deposit is $110 + $10 = $120.",
+    "At the end of the second year, he earns 10% interest on the $120 in the account.",
+    "10% of $120 is $12.",
+    "Adding the interest, the account balance at the end of the second year becomes $120 + $12 = $132.",
+    "Steve deposits another additional $10 at the end of the second year.",
+    "The final account balance after the additional deposit is $132 + $10 = $142."
+  ],
+  "solution": "142"
+}

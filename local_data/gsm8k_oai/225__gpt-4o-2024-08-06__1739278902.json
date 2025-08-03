@@ -1,0 +1,17 @@
+{
+  "query": "A washing machine uses 20 gallons of water for a heavy wash, 10 gallons of water for a regular wash, and 2 gallons of water for a light wash per load of laundry. If bleach is used, there is an extra light wash cycle added to rinse the laundry thoroughly. There are two heavy washes, three regular washes, and one light wash to do. Two of the loads need to be bleached. How many gallons of water will be needed?",
+  "steps": [
+    "First, I will calculate the total water usage for the two heavy washes. Each heavy wash uses 20 gallons of water.",
+    "For two heavy washes, the total water usage is 2 * 20 = 40 gallons.",
+    "Next, I will calculate the total water usage for the three regular washes. Each regular wash uses 10 gallons of water.",
+    "For three regular washes, the total water usage is 3 * 10 = 30 gallons.",
+    "Now, I will calculate the total water usage for the one light wash. Each light wash uses 2 gallons of water.",
+    "For one light wash, the total water usage is 1 * 2 = 2 gallons.",
+    "Now, I will consider the two loads that need to be bleached. For each bleached load, there is an extra light wash cycle.",
+    "Each extra light wash cycle uses 2 gallons of water. Since there are two loads that need to be bleached, there will be two extra light washes.",
+    "The total water usage for the two extra light washes due to bleach is 2 * 2 = 4 gallons.",
+    "Now, I will add up all the water used: 40 gallons for heavy washes, 30 gallons for regular washes, 2 gallons for the light wash, and 4 gallons for the extra light washes due to bleach.",
+    "The total water usage is 40 + 30 + 2 + 4 = 76 gallons."
+  ],
+  "solution": "76"
+}

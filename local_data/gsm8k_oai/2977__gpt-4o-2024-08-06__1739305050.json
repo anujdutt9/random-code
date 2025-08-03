@@ -1,0 +1,16 @@
+{
+  "query": "Cindy can jump rope for 12 minutes before tripping up on the ropes.  Betsy can jump rope half as long as Cindy before tripping up, while Tina can jump three times as long as Betsy.  How many more minutes can Tina jump rope than Cindy?",
+  "steps": [
+    "First, I'll find out how long Betsy can jump rope. Betsy can jump rope for half as long as Cindy.",
+    "Cindy can jump rope for 12 minutes.",
+    "Half of 12 minutes is 12 / 2 = 6 minutes.",
+    "So, Betsy can jump rope for 6 minutes.",
+    "Now, I'll find out how long Tina can jump rope. Tina can jump three times as long as Betsy.",
+    "Three times Betsy's time of 6 minutes is 3 * 6 = 18 minutes.",
+    "So, Tina can jump rope for 18 minutes.",
+    "Next, I will calculate how many more minutes Tina can jump rope than Cindy.",
+    "Tina can jump for 18 minutes, and Cindy can jump for 12 minutes.",
+    "The difference in their jumping times is 18 - 12 = 6 minutes."
+  ],
+  "solution": "6"
+}

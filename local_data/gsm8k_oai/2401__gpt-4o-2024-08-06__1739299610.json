@@ -1,0 +1,20 @@
+{
+  "query": "A wild tiger escapes the zoo.  He escapes at 1 AM and zookeepers do not notice he is missing until 4 AM.  He runs at a speed of 25 mph.  It takes 2 more hours to find him but after 4 hours of running, the tiger slows his speed to 10 mph.  He then gets chased for half an hour going 50 mph.  How far away from the zoo was he caught?",
+  "steps": [
+    "The tiger escapes at 1 AM.",
+    "The zookeepers notice the tiger missing at 4 AM, 3 hours after he starts running.",
+    "For the first 3 hours, the tiger runs at a speed of 25 mph.",
+    "Distance covered in the first 3 hours = 3 hours * 25 mph = 75 miles.",
+    "The zookeepers find him 2 hours after they notice, meaning the tiger continues to move for 2 more hours after 4 AM. Total running time = 3 hours (initial) + 2 hours = 5 hours.",
+    "For the 4th hour, the tiger runs at 25 mph.",
+    "Distance covered in the 4th hour = 1 hour * 25 mph = 25 miles.",
+    "After running for a total of 4 hours, the tiger slows down to 10 mph.",
+    "During the 5th hour, he runs at 10 mph.",
+    "Distance covered in the 5th hour = 1 hour * 10 mph = 10 miles.",
+    "The tiger is then chased for half an hour at a speed of 50 mph.",
+    "Distance covered during the chase = 0.5 hours * 50 mph = 25 miles.",
+    "The total distance covered by the tiger = 75 miles (first 3 hours) + 25 miles (4th hour) + 10 miles (5th hour) + 25 miles (chase).",
+    "Total distance covered by the tiger = 135 miles."
+  ],
+  "solution": "135"
+}

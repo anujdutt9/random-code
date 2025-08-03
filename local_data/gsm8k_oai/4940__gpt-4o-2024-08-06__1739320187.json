@@ -1,0 +1,14 @@
+{
+  "query": "A shop is offering a discount on pens. If you buy 10 pens at the regular price, you can get the next 10 for half off. A customer came in and bought 20 pens for $30. What's the regular price of one pen in dollars?",
+  "steps": [
+    "Let's define the regular price of one pen as \\( x \\).",
+    "The customer buys the first 10 pens at regular price, costing \\( 10x \\).",
+    "The next 10 pens are bought at half the regular price, costing \\( 10 \\times \\frac{x}{2} = 5x \\).",
+    "The total cost for 20 pens would be \\( 10x + 5x = 15x \\).",
+    "According to the problem, this total cost equals $30, so I can set up the equation \\( 15x = 30 \\).",
+    "To find \\( x \\), I divide both sides of the equation by 15: \\( x = \\frac{30}{15} \\).",
+    "Simplifying \\( \\frac{30}{15} \\) gives \\( x = 2 \\).",
+    "Thus, the regular price of one pen is $2."
+  ],
+  "solution": "2"
+}

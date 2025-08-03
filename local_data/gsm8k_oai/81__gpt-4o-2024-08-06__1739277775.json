@@ -1,0 +1,17 @@
+{
+  "query": "Sam and Jeff had a skipping competition at recess. The competition was split into four rounds. Sam completed 1 more skip than Jeff in the first round. Jeff skipped 3 fewer times than Sam in the second round. Jeff skipped 4 more times than Sam in the third round. Jeff got tired and only completed half the number of skips as Sam in the last round. If Sam skipped 16 times in each round, what is the average number of skips per round completed by Jeff?",
+  "steps": [
+    "First, determine how many times Sam skipped in each round. According to the problem, Sam skipped 16 times in each round.",
+    "In the first round, Sam completed 1 more skip than Jeff. If Sam skipped 16 times, Jeff skipped 16 - 1 = 15 times.",
+    "In the second round, Jeff skipped 3 fewer times than Sam. Thus, Jeff skipped 16 - 3 = 13 times.",
+    "In the third round, Jeff skipped 4 more times than Sam. Therefore, Jeff skipped 16 + 4 = 20 times.",
+    "In the last round, Jeff completed half the number of skips as Sam. Therefore, Jeff skipped 16 \u00f7 2 = 8 times.",
+    "Now, calculate the total number of skips Jeff completed over all the rounds: 15 + 13 + 20 + 8.",
+    "Calculate: 15 + 13 = 28.",
+    "Calculate: 28 + 20 = 48.",
+    "Calculate: 48 + 8 = 56.",
+    "Now calculate the average number of skips per round by Jeff. Total skips by Jeff is 56, and there are 4 rounds. So, 56 \u00f7 4.",
+    "Calculate: 56 \u00f7 4 = 14."
+  ],
+  "solution": "14"
+}

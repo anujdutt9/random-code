@@ -1,0 +1,16 @@
+{
+  "query": "Jim and his Cousin are out at a restaurant. They each order a cheeseburger and milkshake. They also split an order to cheese fries. A cheeseburger is $3. A milkshake is $5. Cheese fries are $8. They spend 80% of their combined money. If Jim brought $20 how much did his cousin bring?",
+  "steps": [
+    "First, I need to sum up the total cost of their order.",
+    "Each of them orders a cheeseburger and a milkshake. So, for both Jim and his cousin, that's 2 cheeseburgers and 2 milkshakes in total. Also, they share one order of cheese fries.",
+    "The cost of the two cheeseburgers is 2 * $3 = $6.",
+    "The cost of the two milkshakes is 2 * $5 = $10.",
+    "Adding the shared order of cheese fries brings the total cost to $6 (cheeseburgers) + $10 (milkshakes) + $8 (cheese fries) = $24.",
+    "They spend 80% of their combined money, so the total amount of money they have collectively is $24 / 0.8.",
+    "$24 / 0.8 = $30.",
+    "Jim brought $20, so the total amount they collectively brought, which is $30, is the sum of Jim's and his cousin's contributions.",
+    "Therefore, if their combined amount is $30 and Jim brought $20, his cousin must have brought the remaining $30 - $20.",
+    "So, Jim's cousin brought $10."
+  ],
+  "solution": "10"
+}

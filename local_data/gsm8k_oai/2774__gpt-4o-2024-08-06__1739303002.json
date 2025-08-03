@@ -1,0 +1,12 @@
+{
+  "query": "Officer Hopps has to give out 200 tickets in May. The first 15 days he averages 8 tickets a day. How many does he have to average each day for the rest of the month to reach his required goal?",
+  "steps": [
+    "First, determine how many tickets Officer Hopps has given out in the first 15 days. We know he averages 8 tickets a day for these 15 days.",
+    "Calculate the total number of tickets given in these 15 days: 15 days * 8 tickets/day = 120 tickets.",
+    "Officer Hopps needs to give out a total of 200 tickets. So, calculate how many tickets are left to be given: 200 tickets - 120 tickets = 80 tickets.",
+    "Determine how many days are left in May to give out these 80 tickets. May has 31 days, so there are 31 - 15 = 16 days remaining.",
+    "Now, calculate the average number of tickets Officer Hopps needs to give out each day for the remaining 16 days: 80 tickets / 16 days = 5 tickets/day.",
+    "Officer Hopps needs to average 5 tickets per day for the rest of the month to reach his goal of 200 tickets."
+  ],
+  "solution": "5"
+}

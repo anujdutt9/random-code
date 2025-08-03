@@ -1,0 +1,18 @@
+{
+  "query": "John jogs at a speed of 4 miles per hour when he runs alone, but runs at 6 miles per hour when he is being dragged by his 100-pound German Shepherd dog. If John and his dog go on a run together for 30 minutes, and then John runs for an additional 30 minutes by himself, how far will John have traveled?",
+  "steps": [
+    "The total time given in the problem is 30 minutes with the dog and 30 minutes alone.",
+    "First, calculate the distance covered with the dog.",
+    "The speed when running with the dog is 6 miles per hour.",
+    "Time spent with the dog is 30 minutes.",
+    "Convert 30 minutes to hours, which is \\( \\frac{30}{60} = 0.5 \\) hours.",
+    "Use the formula distance = speed \u00d7 time to calculate the distance with the dog: \\( 6 \\text{ miles per hour} \\times 0.5 \\text{ hours} = 3 \\text{ miles} \\).",
+    "Now, calculate the distance covered when John runs alone.",
+    "The speed when running alone is 4 miles per hour.",
+    "Time spent running alone is also 30 minutes.",
+    "Convert 30 minutes to hours, which remains \\( \\frac{30}{60} = 0.5 \\) hours.",
+    "Use the formula distance = speed \u00d7 time to calculate the distance alone: \\( 4 \\text{ miles per hour} \\times 0.5 \\text{ hours} = 2 \\text{ miles} \\).",
+    "Add the distances covered with the dog and alone: \\( 3 \\text{ miles} + 2 \\text{ miles} = 5 \\text{ miles} \\)."
+  ],
+  "solution": "5"
+}

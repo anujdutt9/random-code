@@ -1,0 +1,12 @@
+{
+  "query": "Horatio is a poet composing sonnets for his lady fair. He believes it will take many of his sonnets to win her over. Each sonnet is fourteen lines long. His lady fair tells him to leave her alone after he reads her only seven sonnets, and Horatio is heartbroken over the 70 romantic lines he wrote that she never heard. How many sonnets did Horatio write in all?",
+  "steps": [
+    "We know that each sonnet is fourteen lines long.",
+    "Horatio was able to read seven sonnets to his lady fair.",
+    "His lady fair didn't hear 70 lines that Horatio wrote.",
+    "First, calculate the number of lines in the seven sonnets he read: 7 sonnets * 14 lines/sonnet = 98 lines.",
+    "Next, add the 70 lines that she never heard to the 98 lines that were read: 98 lines + 70 lines = 168 lines.",
+    "Now, we need to determine how many sonnets 168 lines represent: 168 lines / 14 lines/sonnet = 12 sonnets."
+  ],
+  "solution": "12"
+}

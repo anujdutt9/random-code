@@ -1,0 +1,19 @@
+{
+  "query": "Lionel walked 4 miles. Esther walked 975 yards and Niklaus walked 1287 feet. How many combined feet did the friends walk?",
+  "steps": [
+    "First, I need to understand the problem: it involves adding up the distances walked by three people but converting them all to a common unit, feet.",
+    "Lionel walked 4 miles. I need to convert miles to feet. There are 5280 feet in a mile.",
+    "To find out how many feet Lionel walked, I multiply 4 miles by 5280 feet per mile.",
+    "4 miles x 5280 feet/mile = 21120 feet.",
+    "Next, I need to convert the distance Esther walked to feet. She walked 975 yards.",
+    "There are 3 feet in a yard.",
+    "To convert yards to feet, I multiply the number of yards by 3.",
+    "975 yards x 3 feet/yard = 2925 feet.",
+    "Niklaus walked 1287 feet. Since his distance is already in feet, I don't need to convert his distance.",
+    "Now, I will add up all the distances in feet: Lionel's feet, Esther's feet, and Niklaus' feet.",
+    "21120 feet (Lionel) + 2925 feet (Esther) + 1287 feet (Niklaus).",
+    "I perform the addition: \n21120 + 2925 = 24045",
+    "Next, I add Niklaus' distance:\n24045 + 1287 = 25332"
+  ],
+  "solution": "25332"
+}

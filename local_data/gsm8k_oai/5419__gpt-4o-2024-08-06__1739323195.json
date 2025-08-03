@@ -1,0 +1,15 @@
+{
+  "query": "In 2004, there were some kids at a cookout. In 2005, half the number of kids came to the cookout as compared to 2004. In 2006, 2/3 as many kids came to the cookout as in 2005. If there were 20 kids at the cookout in 2006, how many kids came to the cookout in 2004?",
+  "steps": [
+    "I start by letting the number of kids at the cookout in 2004 be \\( x \\).",
+    "In 2005, half the number of kids from 2004 came to the cookout. That means in 2005, there were \\( \\frac{x}{2} \\) kids.",
+    "In 2006, 2/3 as many kids came to the cookout as in 2005. So, there were \\( \\frac{2}{3} \\times \\frac{x}{2} \\) kids in 2006.",
+    "Simplifying the expression for the number of kids in 2006, we have \\( \\frac{2}{3} \\times \\frac{x}{2} = \\frac{2x}{6} = \\frac{x}{3} \\).",
+    "It is given that there were 20 kids in 2006.",
+    "So, I set up the equation \\( \\frac{x}{3} = 20 \\).",
+    "I solve for \\( x \\) by multiplying both sides of the equation by 3, giving \\( x = 20 \\times 3 \\).",
+    "Calculating \\( 20 \\times 3 \\), I get 60.",
+    "Therefore, 60 kids came to the cookout in 2004."
+  ],
+  "solution": "60"
+}

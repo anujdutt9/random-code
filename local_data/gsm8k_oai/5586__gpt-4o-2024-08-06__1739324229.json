@@ -1,0 +1,20 @@
+{
+  "query": "There are 400 students in a local high school. 50 percent are freshmen or sophomores.  1/5 of freshmen and sophomores own a pet.  How many freshmen and sophomores do not own a pet?",
+  "steps": [
+    "I know the total number of students in the high school is 400.",
+    "I need to find out how many students are freshmen or sophomores.",
+    "I am told that 50 percent of the students are freshmen or sophomores.",
+    "To find the number of freshmen and sophomores, I take 50 percent of 400.",
+    "Calculating 50 percent of 400 gives me 0.5 * 400 = 200.",
+    "So, there are 200 freshmen and sophomores.",
+    "Next, I need to determine how many of these freshmen and sophomores own a pet.",
+    "I am told that 1/5 of the freshmen and sophomores own a pet.",
+    "To find out how many freshmen and sophomores own a pet, I need to calculate 1/5 of 200.",
+    "1/5 of 200 is calculated as 200 / 5 = 40.",
+    "So, 40 freshmen and sophomores own a pet.",
+    "Now, I need to find out how many freshmen and sophomores do not own a pet.",
+    "If 40 own a pet, then the number who do not own a pet is 200 - 40.",
+    "Calculating 200 - 40 gives me 160."
+  ],
+  "solution": "160"
+}

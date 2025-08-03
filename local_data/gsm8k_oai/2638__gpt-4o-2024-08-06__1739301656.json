@@ -1,0 +1,17 @@
+{
+  "query": "Bridge and Sarah have $3 between them. If Bridget has 50 cents more than Sarah, how many cents does Sarah have?",
+  "steps": [
+    "First, I need to translate the relationships described in the problem into mathematical expressions. Let S represent the amount of money Sarah has in dollars.",
+    "If Sarah has S dollars, then Bridget has S + 0.5 dollars, because Bridget has 50 cents more than Sarah.",
+    "Together, they have $3. So, S + (S + 0.5) = 3.",
+    "Combine the terms on the left side of the equation: 2S + 0.5 = 3.",
+    "Now, I need to solve for S. First, subtract 0.5 from both sides: 2S = 3 - 0.5.",
+    "3 - 0.5 is equal to 2.5. So, 2S = 2.5.",
+    "Divide both sides of the equation by 2 to isolate S: S = 2.5 / 2.",
+    "2.5 divided by 2 equals 1.25.",
+    "So, Sarah has 1.25 dollars.",
+    "Since the question asks for the amount in cents, I need to convert dollars to cents. 1 dollar is equal to 100 cents.",
+    "Therefore, 1.25 dollars is equal to 1.25 \u00d7 100 = 125 cents."
+  ],
+  "solution": "125"
+}

@@ -1,0 +1,22 @@
+{
+  "query": "Jimmy is going to sell pizzas at the carnival to make some money. The carnival only gave him 7 hours to do so. He bought a 22kg sack of flour to make his pizzas and he takes 10 min to make each pizza for the customers. At the end of the 7 hours, he saw some flour was left. Knowing that each pizza needs 0.5kg of flour to make, how many pizzas can he make to bring home with the flour left?",
+  "steps": [
+    "Jimmy has 7 hours to make pizzas at the carnival.",
+    "There are 60 minutes in an hour.",
+    "Therefore, in 7 hours, Jimmy has 7 * 60 = 420 minutes.",
+    "Each pizza takes 10 minutes to make.",
+    "To find out how many pizzas Jimmy can make in 420 minutes, divide 420 by 10.",
+    "420 minutes / 10 minutes per pizza = 42 pizzas.",
+    "Jimmy needs 0.5 kg of flour for each pizza.",
+    "To find out how much flour 42 pizzas require, we multiply 42 by 0.5 kg.",
+    "42 * 0.5 = 21 kg of flour.",
+    "Jimmy bought a 22 kg sack of flour.",
+    "After making 42 pizzas, Jimmy will use 21 kg of flour.",
+    "Subtract the used flour from the original amount to find the remaining flour.",
+    "22 kg - 21 kg = 1 kg of flour remaining.",
+    "Each pizza needs 0.5 kg of flour.",
+    "With 1 kg of flour remaining, divide by 0.5 kg to find out how many additional pizzas Jimmy can make.",
+    "1 kg / 0.5 kg per pizza = 2 pizzas."
+  ],
+  "solution": "2"
+}

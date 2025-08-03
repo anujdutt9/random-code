@@ -1,0 +1,22 @@
+{
+  "query": "The grocery store sells chips for $2 per packet and corn chips for $1.5 per packet. John would like to buy 15 packets of chips, and with the rest of the money he has left, buy as many packets of corn chips as he can. How many packets of corn chips could John buy if he has $45 for his entire purchase?",
+  "steps": [
+    "First, I need to calculate the cost of the 15 packets of chips that John wants to buy.",
+    "The price per packet of chips is $2.",
+    "The total cost for 15 packets of chips is 15 packets * $2 per packet.",
+    "15 * 2 = $30",
+    "John will spend $30 on chips.",
+    "Now, I need to find out how much money John has left for corn chips.",
+    "John initially has $45.",
+    "He spends $30 on chips.",
+    "The amount left for corn chips is $45 - $30.",
+    "$45 - $30 = $15",
+    "John has $15 left to spend on corn chips.",
+    "The price per packet of corn chips is $1.5.",
+    "I need to calculate how many packets of corn chips John can buy with his remaining $15.",
+    "I will divide the remaining $15 by the cost of one packet of corn chips, which is $1.5.",
+    "$15 / $1.5 = 10",
+    "John can buy 10 packets of corn chips with his remaining money."
+  ],
+  "solution": "10"
+}

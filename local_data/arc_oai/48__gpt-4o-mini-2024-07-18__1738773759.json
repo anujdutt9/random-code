@@ -1,0 +1,11 @@
+{
+  "query": "Question: If a new moon occurred on June 2, when will the next new moon occur?\n\nChoices:\nA: June 30\nB: June 28\nC: June 23\nD: June 15",
+  "steps": [
+    "A new moon typically occurs approximately every 29.5 days.",
+    "Calculating the next new moon from June 2: June 2 + 29.5 days gives us around June 31.5.",
+    "Since June has only 30 days, we round down to June 30 for the new moon after June 2.",
+    "Now I check the provided options to see which one is closest to June 30.",
+    "The only option that matches or is very close to June 30 is A: June 30."
+  ],
+  "solution": "A"
+}

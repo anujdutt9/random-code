@@ -1,0 +1,16 @@
+{
+  "query": "A supermarket receives a delivery of 15 cases of tins of beans. Each case contains 24 tins. If 5% of the tins are damaged and thrown away, how many tins of beans are left?",
+  "steps": [
+    "First, I need to calculate the total number of tins delivered.",
+    "There are 15 cases, each containing 24 tins.",
+    "To find the total number of tins, I multiply the number of cases by the number of tins per case.",
+    "15 cases * 24 tins per case = 360 tins.",
+    "Next, I need to determine how many of these tins are damaged.",
+    "5% of the tins are damaged.",
+    "I calculate 5% of 360 to find the number of damaged tins.",
+    "5/100 * 360 = 18 tins are damaged.",
+    "Now, I subtract the damaged tins from the total number of tins to find the number of undamaged tins left.",
+    "360 total tins - 18 damaged tins = 342 tins."
+  ],
+  "solution": "342"
+}

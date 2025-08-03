@@ -1,0 +1,18 @@
+{
+  "query": "On our last vacation, I bought 4 times as many tetras as Tim bought clowns. Tim bought twice as many clowns as Rick bought guppies. If Rick bought 30 guppies, how many animals did we buy on our last vacation?",
+  "steps": [
+    "I need to identify the key information given in the problem.",
+    "Rick bought 30 guppies.",
+    "Tim bought twice as many clowns as Rick bought guppies.",
+    "This means Tim bought 2 * 30 = 60 clowns.",
+    "I bought 4 times as many tetras as Tim bought clowns.",
+    "This means I bought 4 * 60 = 240 tetras.",
+    "Now, I will add all the animals bought together to find the total number.",
+    "Rick bought 30 guppies.",
+    "Tim bought 60 clowns.",
+    "I bought 240 tetras.",
+    "Total number of animals = 30 guppies + 60 clowns + 240 tetras.",
+    "Calculation: 30 + 60 + 240 = 330."
+  ],
+  "solution": "330"
+}

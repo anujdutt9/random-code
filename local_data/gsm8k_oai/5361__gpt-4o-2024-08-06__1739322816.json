@@ -1,0 +1,19 @@
+{
+  "query": "A restaurant buffet has 36 different dishes available to try. The restaurant features mango salsa on three of its dishes, fresh mangoes in a sixth of its dishes, and mango jelly in one dish. Oliver despises mangoes and won't eat them, but can pick them out of two of the dishes with fresh mango that he would be willing to try. How many dishes are left for Oliver on the buffet?",
+  "steps": [
+    "First, I need to determine how many dishes contain fresh mangoes. Since a sixth of the dishes have fresh mangoes, I calculate 36 (total dishes) divided by 6.",
+    "36 divided by 6 is 6. So, there are 6 dishes with fresh mangoes.",
+    "Next, I calculate how many more dishes contain mango in some other form. There are 3 dishes with mango salsa.",
+    "There is 1 dish that contains mango jelly.",
+    "I need to determine if there might be any overlap among these dishes with mango. If a dish has both fresh mango and mango salsa, or fresh mango and mango jelly, it would still count as a single different dish.",
+    "The problem does not provide information about direct overlaps, so I will assume the worst-case scenario (that all combinations are different unless told otherwise).",
+    "Since Oliver can pick mango out of 2 of the fresh mango dishes, this leaves 4 fresh mango dishes he won't eat, because there are 6 fresh mango dishes in total.",
+    "I now sum all the distinct mango-involving dishes he won't eat: 4 fresh mango dishes (after removing the 2 he will eat), 3 mango salsa dishes, and 1 mango jelly dish.",
+    "Calculating gives me 4 (fresh mango dishes) + 3 (mango salsa dishes) + 1 (mango jelly dish) = 8 dishes.",
+    "I initially forgot about the 2 dishes where Oliver can pick out the mango, it means he can eat these, so the total number of dishes he cannot eat would actually be 9.",
+    "There are 4 remaining fresh mango dishes he won't eat, in addition to the 3 salsa and 1 jelly dish. This adds to 8 dishes he actively avoids regardless of the picking scenario.",
+    "Checking again: those 2 fresh-mango-pickable dishes he will eat indeed result in 8, I accidentally fell into adding them as part of the total non-eatable count.",
+    "Therefore, 36 total dishes minus the 8 he will definitely avoid gives us the the total dishes he can definitely eat."
+  ],
+  "solution": "28"
+}

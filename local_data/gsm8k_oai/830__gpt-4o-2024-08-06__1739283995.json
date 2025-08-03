@@ -1,0 +1,17 @@
+{
+  "query": "Forty percent of the students have elected to learn from home during the pandemic. The remaining students are divided into two equal groups, only one of which is physically in school on any day. What percent of students are present in school?",
+  "steps": [
+    "Let's assume 100 students in total as it's easier to work with percentages this way.",
+    "Forty percent of the students have elected to learn from home.",
+    "Forty percent of 100 students is 0.4 * 100 = 40 students.",
+    "The remaining students are those who didn't elect to learn from home.",
+    "So, the remaining number of students is 100 - 40 = 60 students.",
+    "These 60 students are divided into two equal groups.",
+    "Each group consists of 60 / 2 = 30 students.",
+    "Only one of these groups is physically in school on any day.",
+    "Therefore, on any given day, 30 students are present in school.",
+    "To find out what percent of the total student population this group represents, we use the formula: (number of students present / total number of students) * 100.",
+    "This calculation is (30 / 100) * 100 = 30%."
+  ],
+  "solution": "30"
+}

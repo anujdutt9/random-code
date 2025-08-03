@@ -1,0 +1,16 @@
+{
+  "query": "Jose owns a swimming pool. He charges $3 for kids and twice that amount for adults. If 8 kids and 10 adults swim in his swimming pool per day, how much money will he earn per week?",
+  "steps": [
+    "First, I need to determine how much Jose charges for adults. The problem states it's twice the amount he charges for kids, so I multiply the kids' charge by 2.",
+    "Since the charge for kids is $3, the charge for adults will be 2 * $3 = $6.",
+    "Next, I'll calculate how much money Jose earns from kids per day. There are 8 kids each paying $3.",
+    "The total income from kids per day is 8 * $3 = $24.",
+    "Now, I calculate the daily income from adults. There are 10 adults each paying $6.",
+    "The total income from adults per day is 10 * $6 = $60.",
+    "To find the total daily income from both kids and adults, I add the income from kids and adults together.",
+    "The total daily income is $24 (from kids) + $60 (from adults) = $84.",
+    "Finally, I need to determine Jose's weekly earnings by multiplying the daily income by 7 days.",
+    "The total weekly income is $84 * 7 = $588."
+  ],
+  "solution": "588"
+}

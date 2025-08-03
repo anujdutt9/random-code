@@ -1,0 +1,10 @@
+{
+  "query": "The total number of dogs at an animal rescue center is 200. Mr. Tanner, the manager at the rescue center, gets a call that 100 dogs at another rescue center are to be moved because of weather problems. He agrees to bring the dogs to his rescue center, and after one week, gives out 40  animals for adoption. After a month, 60 more dogs were adopted by dog lovers. What's the total number of remaining animals in the adoption center after the last adoptions?",
+  "steps": [
+    "First, determine the initial number of dogs at Mr. Tanner's rescue center, which is 200.",
+    "Next, add the 100 dogs that are moved from another rescue center due to weather problems. This makes the total 200 + 100 = 300.",
+    "After one week, Mr. Tanner gives out 40 dogs for adoption. Subtract these 40 dogs from the total. So, 300 - 40 = 260.",
+    "After another month, 60 more dogs are adopted. Subtract these 60 dogs from the current total of 260. So, 260 - 60 = 200."
+  ],
+  "solution": "200"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Jason worked for 9 years as a bartender and 3 years and six months as a manager. How many months of work experience does he have total?",
+  "steps": [
+    "First, I need to calculate the number of months Jason worked as a bartender.",
+    "Jason worked for 9 years as a bartender.",
+    "There are 12 months in a year.",
+    "So, for the bartender job, 9 years * 12 months per year = 108 months.",
+    "Next, I need to calculate the number of months Jason worked as a manager.",
+    "Jason worked as a manager for 3 years and 6 months.",
+    "First, convert the years into months: 3 years * 12 months per year = 36 months.",
+    "Now, add the additional 6 months: 36 months + 6 months = 42 months.",
+    "Finally, I add together the months from both jobs.",
+    "108 months (bartender) + 42 months (manager) = 150 months of total work experience."
+  ],
+  "solution": "150"
+}

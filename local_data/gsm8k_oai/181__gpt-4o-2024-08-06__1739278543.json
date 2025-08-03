@@ -1,0 +1,15 @@
+{
+  "query": "A certain tree was 100 meters tall at the end of 2017. It will grow 10% more than its previous height each year. How long has the tree grown from 2017 until the end of 2019?",
+  "steps": [
+    "The height of the tree at the end of 2017 is 100 meters.",
+    "In 2018, the tree grows by 10% of its 2017 height.",
+    "10% of 100 meters is 10 meters.",
+    "The tree's height at the end of 2018 is 100 meters + 10 meters = 110 meters.",
+    "In 2019, the tree grows by 10% of its 2018 height.",
+    "10% of 110 meters is 11 meters.",
+    "The tree's height at the end of 2019 is 110 meters + 11 meters = 121 meters.",
+    "Now, the tree's height has increased from 100 meters at the end of 2017 to 121 meters at the end of 2019.",
+    "The total growth from 2017 to 2019 is 121 meters - 100 meters = 21 meters."
+  ],
+  "solution": "21"
+}

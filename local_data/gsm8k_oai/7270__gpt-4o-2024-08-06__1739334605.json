@@ -1,0 +1,23 @@
+{
+  "query": "Bob is tilling a plot of his garden. The plot is 110 feet wide by 120 feet long. His tiller digs a swath two feet wide, and he can till 1 foot of ground in about 2 seconds. How long will it take him to till this plot of land, in minutes?",
+  "steps": [
+    "First, I need to find the total area of the plot of land that Bob needs to till.",
+    "The plot is 110 feet wide and 120 feet long.",
+    "To find the area, I multiply the width by the length: 110 feet * 120 feet.",
+    "The area of the plot is 13,200 square feet.",
+    "Next, I need to determine how much area Bob's tiller covers in a given time.",
+    "The tiller digs a swath that is 2 feet wide.",
+    "Bob can till 1 foot of ground in about 2 seconds.",
+    "In 2 seconds, the tiller covers an area of 2 feet (width) * 1 foot (length) = 2 square feet.",
+    "I need to find out how many 2 square feet segments are in the entire plot.",
+    "To find that, I divide the total area of the plot, 13,200 square feet, by the area Bob's tiller covers in 2 seconds, 2 square feet.",
+    "13,200 divided by 2 equals 6,600 segments.",
+    "Each segment takes 2 seconds to till.",
+    "Now, I need to find the total time in seconds. So, I multiply the number of segments, 6,600, by 2 seconds.",
+    "6,600 * 2 equals 13,200 seconds.",
+    "Finally, I need to convert the total time from seconds to minutes.",
+    "There are 60 seconds in a minute, so I divide 13,200 seconds by 60.",
+    "13,200 divided by 60 equals 220 minutes."
+  ],
+  "solution": "220"
+}

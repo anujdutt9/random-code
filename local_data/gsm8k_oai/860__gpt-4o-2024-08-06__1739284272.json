@@ -1,0 +1,12 @@
+{
+  "query": "Earl has $90; Fred has $48; Greg has $36. Earl owes Fred $28. Fred owes Greg $32. Greg owes Earl $40. When all debts are paid, how much will Greg and Earl have together in dollars?",
+  "steps": [
+    "Earl starts with $90, Fred with $48, and Greg with $36.",
+    "Earl owes Fred $28. After transaction, Earl will have $90 - $28 = $62, and Fred will have $48 + $28 = $76.",
+    "Fred owes Greg $32. After paying Greg, Fred will have $76 - $32 = $44, and Greg will have $36 + $32 = $68.",
+    "Greg owes Earl $40. After paying back Earl, Greg will have $68 - $40 = $28, and Earl will have $62 + $40 = $102.",
+    "Now, to find the sum of the amounts Greg and Earl have together, we add Earl's $102 and Greg's $28.",
+    "The total amount Greg and Earl have together is $102 + $28 = $130."
+  ],
+  "solution": "130"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "Maggie picked 40 apples. Kelsey picked 28 apples. Layla picked some apples, too. The three averaged 30 apples picked. How many did Layla pick?",
+  "steps": [
+    "First, determine the total number of apples picked to meet the average.",
+    "There are three people, and the average number of apples picked per person is 30.",
+    "To find the total apples picked by all three, multiply the average by the number of people: 30 apples/person * 3 people = 90 apples.",
+    "Next, calculate the number of apples picked by Maggie and Kelsey together.",
+    "Maggie picked 40 apples and Kelsey picked 28 apples.",
+    "Add 40 and 28: 40 + 28 = 68 apples.",
+    "Now, determine how many apples Layla picked. Subtract the apples Maggie and Kelsey picked from the total apples.",
+    "Subtract 68 from 90: 90 - 68 = 22 apples."
+  ],
+  "solution": "22"
+}

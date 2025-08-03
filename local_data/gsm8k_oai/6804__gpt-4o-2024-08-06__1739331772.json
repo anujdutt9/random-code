@@ -1,0 +1,14 @@
+{
+  "query": "The sum of the three sides of a triangle is 50. The right side of the triangle is 2 cm longer than the left side. Find the value of the triangle base if the left side has a value of 12 cm.",
+  "steps": [
+    "We are given that the sum of the three sides of a triangle is 50 cm.",
+    "We know that the left side is 12 cm.",
+    "The right side is 2 cm longer than the left side. So, we add 2 cm to the left side's length.",
+    "The right side is 12 cm + 2 cm = 14 cm.",
+    "Now, we can find the base of the triangle. We subtract the left side and right side from the total perimeter.",
+    "The total perimeter minus the sum of the left and right sides is 50 cm - (12 cm + 14 cm).",
+    "Perform the calculation: 50 cm - 26 cm = 24 cm.",
+    "So, the base of the triangle is 24 cm."
+  ],
+  "solution": "24"
+}

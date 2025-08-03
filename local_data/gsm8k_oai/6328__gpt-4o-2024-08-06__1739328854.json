@@ -1,0 +1,15 @@
+{
+  "query": "James decides to buy two suits.  The first is an off-the-rack suit which costs $300.  The second is a tailored suit that costs three as much plus an extra $200 for tailoring.  How much did he pay for both suits?",
+  "steps": [
+    "First, I know James buys two suits: one off-the-rack and one tailored.",
+    "The off-the-rack suit costs $300. That's straightforward.",
+    "The tailored suit costs three times as much as the off-the-rack suit, plus an extra $200.",
+    "First, calculate three times the cost of the off-the-rack suit: 3 * $300 = $900.",
+    "Now, add the $200 tailoring cost to the $900: $900 + $200 = $1100.",
+    "So, the tailored suit costs $1100.",
+    "Now, I need to find the total cost for both suits.",
+    "Add the cost of the off-the-rack suit and the tailored suit together: $300 + $1100 = $1400.",
+    "Double-checking the calculations: The off-the-rack suit is $300. Three times $300 is $900. Adding the extra $200 for tailoring gives $1100 for the tailored suit. Therefore, total cost is $300 + $1100 = $1400."
+  ],
+  "solution": "1400"
+}

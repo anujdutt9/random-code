@@ -1,0 +1,17 @@
+{
+  "query": "An aqua park charges $12 admission and $6 for a tour. A group of 10 people goes to the aquarium and takes the tour; while a group of 5 people only goes to the aquarium. How much does the aqua park earn?",
+  "steps": [
+    "First, I need to calculate the total cost for the group of 10 people who go to the aquarium and take the tour.",
+    "The admission fee is $12 per person.",
+    "The tour fee is $6 per person.",
+    "So, for each person taking both the admission and the tour, the total cost is $12 + $6 = $18 per person.",
+    "Since there are 10 people in this group, the cost for the group is 10 people \u00d7 $18 = $180.",
+    "Next, I need to calculate the cost for the group of 5 people who only go to the aquarium.",
+    "This group only pays the admission fee of $12 per person.",
+    "Therefore, for the group of 5 people, the cost is 5 people \u00d7 $12 = $60.",
+    "To find the total earnings for the aqua park, I will add the earnings from both groups together.",
+    "The total earnings from the first group are $180 and from the second group are $60.",
+    "Adding them together gives $180 + $60 = $240."
+  ],
+  "solution": "240"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "James made $4000 in January.  The next month he made twice as much.  In March, however, James made $2000 less than in February.  How much has James made so far this year?",
+  "steps": [
+    "James made $4000 in January.",
+    "In February, he made twice as much as January.",
+    "Twice $4000 is $8000.",
+    "In February, James made $8000.",
+    "In March, he made $2000 less than in February.",
+    "$8000 minus $2000 is $6000.",
+    "In March, James made $6000.",
+    "To find out how much James has made so far this year, I need to add his earnings for January, February, and March.",
+    "January earnings: $4000, February earnings: $8000, March earnings: $6000.",
+    "$4000 plus $8000 is $12000.",
+    "$12000 plus $6000 is $18000."
+  ],
+  "solution": "18000"
+}

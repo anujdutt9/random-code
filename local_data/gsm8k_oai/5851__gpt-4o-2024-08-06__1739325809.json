@@ -1,0 +1,22 @@
+{
+  "query": "Gilbert, the bearded dragon, eats 4 crickets per week when the temperature averages 90 degrees F per day, but he eats twice as many crickets per week when the temperature averages 100 degrees F.  How many crickets will he eat over 15 weeks if the temperature averages 90 degrees F for 80% of the time, and 100 degrees F for the remainder of the time?",
+  "steps": [
+    "First, I need to determine how many weeks the temperature was 90 degrees F.",
+    "Since the temperature averages 90 degrees F for 80% of the time over 15 weeks, I calculate 80% of 15 weeks.",
+    "80% of 15 weeks is calculated as 0.8 * 15 = 12 weeks.",
+    "Next, I will calculate how many weeks the temperature was 100 degrees F.",
+    "If 12 weeks had an average temperature of 90 degrees F, then the remaining weeks had an average temperature of 100 degrees F.",
+    "There are 15 total weeks, so 15 - 12 = 3 weeks where the temperature averages 100 degrees F.",
+    "Now, I calculate the total number of crickets Gilbert eats during the 90 degrees F weeks.",
+    "Gilbert eats 4 crickets per week at 90 degrees F.",
+    "Over 12 weeks, he eats 4 crickets per week, so he eats 4 * 12 = 48 crickets.",
+    "Next, I calculate the total number of crickets Gilbert eats during the 100 degrees F weeks.",
+    "Gilbert eats twice as many crickets when the temperature is 100 degrees F compared to when it is 90 degrees F.",
+    "Twice as many crickets as 4 is 2 * 4 = 8 crickets per week.",
+    "Over 3 weeks at 8 crickets per week, he eats 8 * 3 = 24 crickets.",
+    "Finally, I will calculate the total number of crickets Gilbert eats over the entire 15 weeks.",
+    "He eats 48 crickets during the weeks with 90 degrees F temperatures and 24 crickets during the weeks with 100 degrees F temperatures.",
+    "I add these together: 48 + 24 = 72 crickets."
+  ],
+  "solution": "72"
+}

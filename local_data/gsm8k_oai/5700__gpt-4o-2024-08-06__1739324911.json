@@ -1,0 +1,18 @@
+{
+  "query": "A large gathering occurred at the town hall with 200 people participating. 100 people decided to have a snack, and then 20 new outsiders joined in to have a snack. Half of these snack eaters got full and left. 10 new outsiders came to have snacks, too. 30 more snack eaters got their fill and left. Then half of the remaining snack eaters left later on. How many snack eaters are left?",
+  "steps": [
+    "Initially, at the gathering, there are 200 people.",
+    "100 of these people decided to have a snack.",
+    "20 new outsiders joined to have a snack.",
+    "Total snack eaters now: 100 (original snackers) + 20 (new outsiders) = 120 snack eaters.",
+    "Half of these snack eaters got full and left: 120 / 2 = 60 left.",
+    "Remaining snack eaters: 120 - 60 = 60.",
+    "10 new outsiders came to have snacks.",
+    "Total snack eaters now: 60 (remaining) + 10 = 70 snack eaters.",
+    "30 more snack eaters got their fill and left.",
+    "New remaining snack eaters: 70 - 30 = 40.",
+    "Half of the remaining snack eaters left: 40 / 2 = 20 left.",
+    "Final count of snack eaters: 40 - 20 = 20."
+  ],
+  "solution": "20"
+}

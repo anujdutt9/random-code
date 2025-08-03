@@ -1,0 +1,12 @@
+{
+  "query": "There are 20 hands in Peter\u2019s class, not including his. Assume every student in the class has 2 arms and 2 hands. How many students are in Peter\u2019s class including him?",
+  "steps": [
+    "First, I need to determine how many students contribute to the 20 hands mentioned.",
+    "Since each student has 2 hands, I need to divide the total number of hands by the number of hands each student has.",
+    "20 hands divided by 2 hands per student equals 10 students.",
+    "These 10 students represent the number of students other than Peter, since the problem states the 20 hands do not include Peter\u2019s.",
+    "Now, I need to add Peter to the total number of students to find the total class size.",
+    "10 students (from the 20 hands) plus 1 student (Peter) equals 11 students."
+  ],
+  "solution": "11"
+}

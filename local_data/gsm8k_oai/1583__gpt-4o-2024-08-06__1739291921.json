@@ -1,0 +1,12 @@
+{
+  "query": "James can buy a new computer for $600 and have it last 6 years, or buy 2 used computers for $200 each that each last 3 years. How much money will he save by picking the cheaper option?",
+  "steps": [
+    "First, I need to determine the total lifespan for both options to ensure they are equivalent. The total lifespan mentioned is already provided for both options: 6 years.",
+    "Next, for the new computer option, I can see the cost is $600 for 6 years. There's no need for additional purchases.",
+    "For the used computers option, James buys 2 computers over a span of 6 years because each lasts 3 years. So, the total cost is 2 (used computers) x $200 each.",
+    "Calculating the total cost for the used computers: \\(2 \\times 200 = 400\\).",
+    "Now I need to compare the total costs. The cost for the new computer is $600 and for the used computers is $400.",
+    "To find the savings with the cheaper option, subtract the cost of the used computers from the cost of the new computer: \\(600 - 400 = 200\\)."
+  ],
+  "solution": "200"
+}

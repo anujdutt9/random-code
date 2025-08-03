@@ -1,0 +1,13 @@
+{
+  "query": "Zhang is twice as old as Li.  Li is 12 years old.  Zhang's brother Jung is 2 years older than Zhang.  How old is Jung?",
+  "steps": [
+    "I know Li is 12 years old.",
+    "Zhang is twice as old as Li.",
+    "So, I need to calculate Zhang's age: 2 times 12.",
+    "Zhang's age is 24 years old.",
+    "Jung is 2 years older than Zhang.",
+    "I need to add 2 years to Zhang's age to find Jung's age.",
+    "24 + 2 equals 26."
+  ],
+  "solution": "26"
+}

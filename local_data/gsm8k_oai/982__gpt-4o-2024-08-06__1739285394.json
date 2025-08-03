@@ -1,0 +1,17 @@
+{
+  "query": "Frank bakes two trays of cookies per day, for 6 days. Frank eats one cookie each day to make sure they taste good. Ted comes over on the sixth day and eats 4 cookies. If each tray makes 12 cookies, how many cookies are left when Ted leaves?",
+  "steps": [
+    "Frank bakes two trays of cookies per day.",
+    "Each tray makes 12 cookies.",
+    "So each day, Frank bakes 2 trays * 12 cookies per tray = 24 cookies.",
+    "Frank bakes cookies for 6 days.",
+    "Over 6 days, he bakes 6 days * 24 cookies per day = 144 cookies.",
+    "Frank eats 1 cookie each day to taste test them.",
+    "Over 6 days, Frank eats 6 days * 1 cookie per day = 6 cookies.",
+    "Ted eats 4 cookies on the sixth day.",
+    "In total, Frank and Ted eat 6 cookies + 4 cookies = 10 cookies.",
+    "There were 144 cookies baked initially.",
+    "After Frank and Ted eat 10 cookies combined, there are 144 cookies - 10 cookies = 134 cookies left."
+  ],
+  "solution": "134"
+}

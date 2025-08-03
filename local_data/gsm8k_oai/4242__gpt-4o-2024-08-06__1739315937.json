@@ -1,0 +1,14 @@
+{
+  "query": "Aston has accidentally torn apart his comics and needs to put all the pages back together. Each comic has 25 pages and Aston has found 150 pages on the floor. He puts his comics back together and adds them back into his box of comics. If there were already 5 untorn comics in the box, how many comics are now in the box of comics?",
+  "steps": [
+    "First, I need to find out how many complete comics Aston can make from the 150 torn pages.",
+    "Each comic contains 25 pages.",
+    "To find the number of comics that can be made, I need to divide the total number of pages by the number of pages per comic.",
+    "150 pages \u00f7 25 pages/comic = 6 comics.",
+    "Aston can make 6 complete comics from the 150 pages.",
+    "There were already 5 complete comics in the box before Aston added the newly assembled comics.",
+    "To find the total number of comics now in the box, I need to add the 6 newly assembled comics to the 5 existing comics.",
+    "5 comics + 6 comics = 11 comics."
+  ],
+  "solution": "11"
+}

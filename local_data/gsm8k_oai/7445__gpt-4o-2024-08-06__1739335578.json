@@ -1,0 +1,17 @@
+{
+  "query": "There were 50 people on the city bus. At the first stop, 15 people got off. At the next stop 8 people got off and 2 got on. At the third stop, 4 people got off and 3 people got on. How many people are on the bus after the third stop?",
+  "steps": [
+    "Start with the initial number of people on the bus. There were 50 people on the bus initially.",
+    "At the first stop, 15 people got off the bus. So, subtract 15 from 50.",
+    "50 - 15 = 35. Now there are 35 people on the bus after the first stop.",
+    "At the next stop, 8 people got off and 2 got on. First, subtract the 8 people who got off.",
+    "35 - 8 = 27. Now there are 27 people on the bus after those people got off.",
+    "Now add the 2 people who got on the bus.",
+    "27 + 2 = 29. Now there are 29 people on the bus after the second stop.",
+    "At the third stop, 4 people got off and 3 people got on. First, subtract the 4 people who got off.",
+    "29 - 4 = 25. Now there are 25 people on the bus after those people got off.",
+    "Now add the 3 people who got on the bus.",
+    "25 + 3 = 28. Now there are 28 people on the bus after the third stop."
+  ],
+  "solution": "28"
+}

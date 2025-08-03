@@ -1,0 +1,17 @@
+{
+  "query": "John's cow weighs 400 pounds.  It increased its weight to 1.5 times its starting weight.  He is able to sell the cow for $3 per pound.  How much more is it worth after gaining the weight?",
+  "steps": [
+    "The cow's initial weight is 400 pounds.",
+    "The cow increased its weight to 1.5 times its starting weight.",
+    "To find the new weight, multiply the initial weight (400 pounds) by 1.5.",
+    "400 pounds * 1.5 = 600 pounds.",
+    "The cow's new weight is 600 pounds.",
+    "To find out how much the cow is worth now, multiply the new weight (600 pounds) by the price per pound ($3).",
+    "600 pounds * $3 per pound = $1800.",
+    "To find out how much the cow was worth initially, multiply the initial weight (400 pounds) by the price per pound ($3).",
+    "400 pounds * $3 per pound = $1200.",
+    "Now, calculate how much more the cow is worth after gaining weight by subtracting the initial worth from the new worth.",
+    "$1800 - $1200 = $600."
+  ],
+  "solution": "600"
+}

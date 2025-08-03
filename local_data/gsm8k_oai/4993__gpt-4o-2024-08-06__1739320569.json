@@ -1,0 +1,14 @@
+{
+  "query": "Joe's pizzeria has an amazing promotion. If you buy any regular large pizza you can get the next 3 medium pizzas for $5 each. What are your total savings if the regular medium pizza price is $18 and you take full advantage of the promotion?",
+  "steps": [
+    "The promotion allows you to buy 3 medium pizzas for $5 each.",
+    "The regular price of a medium pizza is $18.",
+    "First, I will calculate the total cost of 3 medium pizzas at their regular price.",
+    "3 medium pizzas at $18 each will cost 3 x 18 = $54.",
+    "Now, I will calculate the total cost of 3 medium pizzas during the promotion.",
+    "The promotional cost for 3 medium pizzas is 3 x $5 = $15.",
+    "To find the total savings, I need to subtract the promotional cost from the regular cost.",
+    "The savings are $54 (regular price) - $15 (promotional price) = $39."
+  ],
+  "solution": "39"
+}

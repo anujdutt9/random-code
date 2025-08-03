@@ -1,0 +1,17 @@
+{
+  "query": "Erin runs her own launderette and needs to cash in the change from the machines. There are 80 quarters and 100 dimes in every machine in the launderette. When Erin empties all of the machines and cashes in the change, she has a total of $90. She had no money before she emptied the machines and each machine held the same amount of money. How many machines are in the launderette?",
+  "steps": [
+    "First, let's determine the total value of quarters in one machine. There are 80 quarters in every machine.",
+    "Each quarter is worth $0.25.",
+    "The total value of the quarters in one machine is 80 quarters * $0.25 = $20.",
+    "Next, let's determine the total value of dimes in one machine. There are 100 dimes in every machine.",
+    "Each dime is worth $0.10.",
+    "The total value of the dimes in one machine is 100 dimes * $0.10 = $10.",
+    "Now, let's find the total value of change in one machine by adding the value of quarters and the value of dimes.",
+    "The total amount of change in one machine is $20 (quarters) + $10 (dimes) = $30.",
+    "Erin has a total of $90 from emptying all of the machines.",
+    "Each machine contributes $30 in change. To find the number of machines, we need to divide the total amount of money by the amount from each machine.",
+    "The number of machines is $90 / $30 per machine = 3 machines."
+  ],
+  "solution": "3"
+}

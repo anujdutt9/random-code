@@ -1,0 +1,14 @@
+{
+  "query": "Matt can write 10 words a minute with his right hand and 7 words a minute with his left hand. How many words would Matt write in 5 minutes with his right hand than with his left?",
+  "steps": [
+    "First, I need to calculate how many words Matt can write with his right hand in 5 minutes.",
+    "Matt writes 10 words per minute with his right hand.",
+    "In 5 minutes, Matt would write 10 words/minute * 5 minutes = 50 words with his right hand.",
+    "Next, I need to calculate how many words Matt can write with his left hand in 5 minutes.",
+    "Matt writes 7 words per minute with his left hand.",
+    "In 5 minutes, Matt would write 7 words/minute * 5 minutes = 35 words with his left hand.",
+    "To find out how many more words Matt can write with his right hand than with his left, I subtract the words written with the left hand from the words written with the right hand.",
+    "50 words (right hand) - 35 words (left hand) = 15 words."
+  ],
+  "solution": "15"
+}

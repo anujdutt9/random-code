@@ -1,0 +1,16 @@
+{
+  "query": "There are 7 trucks that have 20 boxes. There are 5 trucks that have 12 boxes. Each box holds 8 containers of oil. If all of the oil is evenly redistributed onto 10 trucks, how many containers of oil will each truck have?",
+  "steps": [
+    "Consider the first group of trucks: there are 7 trucks, each with 20 boxes.",
+    "Calculate the total number of boxes from these 7 trucks: 7 trucks * 20 boxes per truck = 140 boxes.",
+    "Consider the second group of trucks: there are 5 trucks, each with 12 boxes.",
+    "Calculate the total number of boxes from these 5 trucks: 5 trucks * 12 boxes per truck = 60 boxes.",
+    "Add the total number of boxes from both groups of trucks: 140 boxes + 60 boxes = 200 boxes.",
+    "Each box holds 8 containers of oil.",
+    "Calculate the total number of containers of oil from all boxes: 200 boxes * 8 containers per box = 1600 containers of oil.",
+    "The total number of containers of oil needs to be evenly distributed to 10 trucks.",
+    "Divide the total number of containers of oil by the number of trucks: 1600 containers / 10 trucks.",
+    "1600 containers / 10 trucks = 160 containers."
+  ],
+  "solution": "160"
+}

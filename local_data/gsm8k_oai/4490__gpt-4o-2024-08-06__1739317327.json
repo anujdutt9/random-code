@@ -1,0 +1,17 @@
+{
+  "query": "Nadia is learning to play the piano. She normally makes 3 mistakes per 40 notes and can play about 60 notes a minute.   If she plays for 8 minutes how many mistakes will she make on average?",
+  "steps": [
+    "First, I need to determine how many notes Nadia plays in one minute. According to the problem, she plays about 60 notes per minute.",
+    "Next, I need to calculate the total number of notes she plays if she plays for 8 minutes straight.",
+    "To do this, I will multiply the number of notes per minute (60) by the number of minutes she plays (8).",
+    "60 notes/minute * 8 minutes = 480 notes.",
+    "Now, I understand that Nadia makes 3 mistakes per every 40 notes.",
+    "I need to calculate the total number of mistakes she makes for 480 notes at this rate of 3 mistakes per 40 notes.",
+    "To find this, I can determine how many groups of 40 notes are in 480 notes.",
+    "I will divide 480 notes by 40 notes/group.",
+    "480 / 40 = 12 groups of 40 notes.",
+    "If Nadia makes 3 mistakes per group, then I need to multiply the number of groups by the number of mistakes per group.",
+    "12 groups * 3 mistakes/group = 36 mistakes."
+  ],
+  "solution": "36"
+}

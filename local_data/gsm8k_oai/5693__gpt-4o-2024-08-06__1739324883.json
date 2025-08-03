@@ -1,0 +1,13 @@
+{
+  "query": "Kim loves to knit sweaters and can knit as many as 10 sweaters in a day if she gets the time. On a particular week, she knit 8 sweaters on Monday, 2 more sweaters on Tuesday than on Monday, 4 fewer sweaters on both Wednesday and Thursday than on Tuesday, and half the number of sweaters she had knit on Monday on Friday. Calculate the total number of sweaters she knit that week.",
+  "steps": [
+    "Kim knit 8 sweaters on Monday.",
+    "On Tuesday, she knit 2 more sweaters than on Monday, which is 8 + 2 = 10 sweaters.",
+    "On Wednesday, she knit 4 fewer sweaters than Tuesday, which is 10 - 4 = 6 sweaters.",
+    "On Thursday, she also knit 4 fewer sweaters than Tuesday, which again is 10 - 4 = 6 sweaters.",
+    "On Friday, she knit half the number of sweaters she had knit on Monday, which is 8 / 2 = 4 sweaters.",
+    "To find the total number of sweaters knit in the week, I add the number of sweaters knit each day:\n8 (Monday) + 10 (Tuesday) + 6 (Wednesday) + 6 (Thursday) + 4 (Friday).",
+    "The sum is 8 + 10 + 6 + 6 + 4 = 34 sweaters."
+  ],
+  "solution": "34"
+}

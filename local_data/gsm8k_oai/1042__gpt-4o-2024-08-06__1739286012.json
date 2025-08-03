@@ -1,0 +1,12 @@
+{
+  "query": "Kim's dad would buy her 2 candy bars a week.  She would eat 1 candy bar every 4 weeks, saving the rest.  After 16 weeks, how many candy bars did Kim have saved?",
+  "steps": [
+    "Kim receives 2 candy bars each week from her dad.",
+    "Over a 16-week period, she receives 2 candy bars per week.",
+    "Calculate the total number of candy bars Kim receives over 16 weeks: 2 candy bars/week * 16 weeks = 32 candy bars.",
+    "Kim eats 1 candy bar every 4 weeks.",
+    "In 16 weeks, calculate how many candy bars Kim eats. Since she eats 1 candy bar every 4 weeks, we calculate 16 weeks / 4 weeks per candy bar = 4 candy bars eaten.",
+    "Subtract the number of candy bars Kim eats from the total she receives to find out how many she saves: 32 candy bars received - 4 candy bars eaten = 28 candy bars saved."
+  ],
+  "solution": "28"
+}

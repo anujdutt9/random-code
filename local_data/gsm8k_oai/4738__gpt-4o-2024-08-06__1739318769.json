@@ -1,0 +1,25 @@
+{
+  "query": "There are 2000 pinecones on the ground. 20% are eaten by reindeer. Twice as many are eaten by squirrels as reindeer. 25% of the remainder are collected to make fires. How many pinecones are left?",
+  "steps": [
+    "There are initially 2000 pinecones.",
+    "First, I need to find out how many pinecones are eaten by reindeer.",
+    "20% of 2000 pinecones are eaten by reindeer.",
+    "To calculate this, I take 20% of 2000.",
+    "20% of 2000 is 0.20 \u00d7 2000 = 400 pinecones.",
+    "So, 400 pinecones are eaten by reindeer.",
+    "Next, I determine how many pinecones are eaten by squirrels.",
+    "Squirrels eat twice as many pinecones as reindeer.",
+    "Twice 400 pinecones is 2 \u00d7 400 = 800 pinecones.",
+    "So, 800 pinecones are eaten by squirrels.",
+    "Now I find out how many pinecones remain after reindeer and squirrels have eaten.",
+    "The total number of eaten pinecones is 400 + 800 = 1200 pinecones.",
+    "Subtracting the eaten pinecones from the initial amount gives 2000 - 1200 = 800 pinecones remaining.",
+    "25% of the remaining pinecones are collected to make fires.",
+    "I calculate 25% of 800 pinecones.",
+    "25% of 800 is 0.25 \u00d7 800 = 200 pinecones.",
+    "200 pinecones are collected to make fires.",
+    "I subtract the collected pinecones from the remaining ones after the animals ate.",
+    "So the final number of pinecones left is 800 - 200 = 600 pinecones."
+  ],
+  "solution": "600"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Reagan's school has a fish tank with a total of 280 fish of two types, koi fish and goldfish. Over the next 3 weeks, the school added 2 koi fish and 5 goldfish per day. If the tank had 200 goldfish at the end of the three weeks, what's the total number of koi fish in the tank after the three weeks?",
+  "steps": [
+    "We start with the information that there are 280 fish in total in the tank initially, which consist of koi fish and goldfish.",
+    "We are also told that by the end of the three-week period, there are 200 goldfish in the tank.",
+    "We need to find out how many koi fish are there at the end of the three weeks.",
+    "Let's determine how many goldfish are added over the three weeks. We know there are 5 goldfish added each day.",
+    "The duration given is three weeks. Since each week has 7 days, that's \\(3 \\times 7 = 21\\) days in total.",
+    "Thus, total goldfish added is \\(5 \\times 21 = 105\\).",
+    "Let \\(x\\) be the number of goldfish initially in the tank. After adding 105 goldfish over three weeks, the number of goldfish becomes \\(x + 105 = 200\\).",
+    "Solving for \\(x\\), we find \\(x = 200 - 105 = 95\\). So initially, there were 95 goldfish in the tank.",
+    "Since there were 280 fish in total initially, the number of koi fish originally is \\(280 - 95 = 185\\).",
+    "Similarly, we calculate how many koi fish were added over the three-week period. We know 2 koi fish are added each day.",
+    "Thus, total koi fish added is \\(2 \\times 21 = 42\\) over the three weeks.",
+    "Finally, the total number of koi fish after three weeks is the initial number of koi fish plus the number added, \\(185 + 42 = 227\\)."
+  ],
+  "solution": "227"
+}

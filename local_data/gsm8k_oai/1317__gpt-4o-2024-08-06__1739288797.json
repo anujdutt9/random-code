@@ -1,0 +1,15 @@
+{
+  "query": "Carlos and Diego are racing around the block. Carlos runs around the entire block in 3 minutes. Diego runs around half the block in 2.5 minutes and then is tripped by a dog and can't finish. Assuming he kept up the same speed the entire race, what would've been the average time in seconds for the racers?",
+  "steps": [
+    "First, I need to determine the time it would take Diego to run around the entire block if he hadn't been tripped.",
+    "Diego runs half the block in 2.5 minutes. So, to run the full block, he'd need twice that time.",
+    "To find Diego's full block time: \\( 2.5 \\times 2 = 5 \\) minutes.",
+    "Now, Carlos's full block time is 3 minutes.",
+    "To compute the average time for both racers, I need to convert these times into seconds because the question asks for the average time in seconds.",
+    "Convert Carlos's time to seconds: \\( 3 \\times 60 = 180 \\) seconds.",
+    "Convert Diego's time to seconds: \\( 5 \\times 60 = 300 \\) seconds.",
+    "To find the average time, add both times and divide by the number of racers. So, the sum of both times is \\( 180 + 300 = 480 \\) seconds.",
+    "Divide the total time by the number of racers (2): \\( \\frac{480}{2} = 240 \\) seconds."
+  ],
+  "solution": "240"
+}

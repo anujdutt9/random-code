@@ -1,0 +1,17 @@
+{
+  "query": "Albert is wondering how much pizza he can eat in one day. He buys 2 large pizzas and 2 small pizzas. A large pizza has 16 slices and a small pizza has 8 slices. If he eats it all, how many pieces does he eat that day?",
+  "steps": [
+    "Albert buys 2 large pizzas.",
+    "Each large pizza has 16 slices.",
+    "To find out how many slices there are in 2 large pizzas, I need to multiply the number of slices in one large pizza by the number of large pizzas.",
+    "16 slices/pizza * 2 pizzas = 32 slices",
+    "Albert also buys 2 small pizzas.",
+    "Each small pizza has 8 slices.",
+    "To find out how many slices there are in 2 small pizzas, I need to multiply the number of slices in one small pizza by the number of small pizzas.",
+    "8 slices/pizza * 2 pizzas = 16 slices",
+    "Now, I need to find the total number of slices Albert eats if he eats all the pizzas.",
+    "I add the number of slices from the large pizzas to the number of slices from the small pizzas.",
+    "32 slices (large pizzas) + 16 slices (small pizzas) = 48 slices"
+  ],
+  "solution": "48"
+}

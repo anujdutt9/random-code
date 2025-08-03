@@ -1,0 +1,18 @@
+{
+  "query": "Tim's cat bit him.  He decided to get himself and the cat checked out.  His doctor's visits $300 and insurance covered 75%.  His cat's visit cost $120 and his pet insurance covered $60.  How much did he pay?",
+  "steps": [
+    "First, I need to determine how much Tim's doctor's visit costs him after insurance coverage.",
+    "Insurance covered 75% of Tim's doctor's visit, which cost $300 in total.",
+    "To find out how much of the cost Tim needs to pay, I'll calculate 25% of $300 because that's the remaining portion not covered by insurance.",
+    "25% of $300 is calculated as (25/100) * 300 = $75.",
+    "So, Tim needs to pay $75 for his doctor's visit out of pocket.",
+    "Next, I need to determine how much Tim needs to pay for the cat's vet visit after pet insurance coverage.",
+    "The vet visit for the cat cost $120 in total, and the pet insurance covered $60 of it.",
+    "To find out how much Tim needs to pay, I'll subtract the insurance coverage from the total cost: $120 - $60.",
+    "So, for the cat's visit, Tim needs to pay $60 out of pocket.",
+    "Now, I will calculate the total amount Tim paid by adding the amounts he paid for both visits.",
+    "Tim paid $75 for his doctor's visit and $60 for the cat's visit.",
+    "Adding these amounts together gives: $75 + $60 = $135."
+  ],
+  "solution": "135"
+}

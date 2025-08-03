@@ -1,0 +1,21 @@
+{
+  "query": "Josh has soccer practice on Monday, Wednesday, and Friday from 3:00 p.m. to 5:00 p.m.  He has band practice on Tuesday and Thursday from 3:30 p.m. to 5:00 p.m.  From Monday to Friday, how many hours does Josh spend on extracurricular activities?",
+  "steps": [
+    "First, I need to find out how many hours Josh spends on soccer practice each week.",
+    "Soccer practice is on Monday, Wednesday, and Friday.",
+    "Each soccer practice session lasts from 3:00 p.m. to 5:00 p.m.",
+    "The duration of each soccer practice is 5:00 p.m. minus 3:00 p.m., which is 2 hours.",
+    "Josh has soccer practice 3 times a week.",
+    "So, the total hours spent on soccer practice is 3 times 2 hours per session, which equals 6 hours.",
+    "Next, I need to calculate how many hours Josh spends on band practice each week.",
+    "Band practice is on Tuesday and Thursday.",
+    "Each band practice session lasts from 3:30 p.m. to 5:00 p.m.",
+    "The duration of each band practice is 5:00 p.m. minus 3:30 p.m., which is 1.5 hours.",
+    "Josh has band practice 2 times a week.",
+    "So, the total hours spent on band practice is 2 times 1.5 hours per session, which equals 3 hours.",
+    "Now, I will add the total hours of soccer practice and band practice to find the total hours spent on extracurricular activities each week.",
+    "The total is 6 hours (soccer) plus 3 hours (band).",
+    "6 hours plus 3 hours equals 9 hours."
+  ],
+  "solution": "9"
+}

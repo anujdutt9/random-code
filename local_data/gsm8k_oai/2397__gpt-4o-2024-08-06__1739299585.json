@@ -1,0 +1,17 @@
+{
+  "query": "Nathan plays amateur baseball. He played for 3 hours for two weeks, every day. His friend Tobias played for 5 hours every day, but only for one week. How many hours did Nathan and Tobias play in total?",
+  "steps": [
+    "First, I need to calculate the total number of hours Nathan played.",
+    "Nathan played 3 hours every day.",
+    "There are 7 days in a week, so in one week, Nathan played 3 hours/day * 7 days = 21 hours.",
+    "Nathan played for two weeks, so I multiply his weekly hours by 2.",
+    "21 hours/week * 2 weeks = 42 hours in total for Nathan.",
+    "Next, I calculate the total number of hours Tobias played.",
+    "Tobias played 5 hours every day.",
+    "He played for one week, so Tobias's total is 5 hours/day * 7 days = 35 hours.",
+    "Now, I need to add Nathan's total hours to Tobias's total hours to find the combined total.",
+    "Nathan's hours: 42 hours. Tobias's hours: 35 hours.",
+    "42 hours + 35 hours = 77 hours."
+  ],
+  "solution": "77"
+}

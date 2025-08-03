@@ -1,0 +1,14 @@
+{
+  "query": "There are 3 numbers that are consecutive integers. Together they have a sum of 18. What is the largest of the 3 numbers?",
+  "steps": [
+    "Let the three consecutive integers be represented as \\( n \\), \\( n+1 \\), and \\( n+2 \\).",
+    "The sum of these three integers is given as 18, so we can write the equation: \\( n + (n+1) + (n+2) = 18 \\).",
+    "Simplify the equation: \\( n + n + 1 + n + 2 = 18 \\).",
+    "Combine like terms: \\( 3n + 3 = 18 \\).",
+    "Subtract 3 from both sides of the equation to isolate the term with \\( n \\): \\( 3n = 15 \\).",
+    "Divide both sides by 3 to solve for \\( n \\): \\( n = 5 \\).",
+    "The integers are \\( n = 5 \\), \\( n+1 = 6 \\), and \\( n+2 = 7 \\).",
+    "The largest of these three numbers is \\( n+2 = 7 \\)."
+  ],
+  "solution": "7"
+}

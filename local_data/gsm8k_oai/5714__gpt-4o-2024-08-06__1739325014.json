@@ -1,0 +1,13 @@
+{
+  "query": "The Eat \"N Go Mobile Sausage Sandwich Shop specializes in the sale of spicy sausage sandwiches served on a toasted bun.  Each sausage sandwich comes with four strips of jalapeno pepper, one sausage patty, and a tablespoon of Stephen's famous special sauce.  If a single jalapeno pepper makes 8 slices, and the Sandwich Shop serves a sandwich every 5 minutes, how many jalapeno peppers are required by the Sandwich Shop to serve all customers during an 8-hour day?",
+  "steps": [
+    "First, I need to determine how many sandwiches are served in an 8-hour day.",
+    "There are 60 minutes in an hour, so in 8 hours, there are 8 * 60 = 480 minutes.",
+    "Since one sandwich is served every 5 minutes, the total number of sandwiches served in a day is 480 / 5 = 96 sandwiches.",
+    "Each sandwich uses 4 strips of jalapeno pepper.",
+    "For 96 sandwiches, the total number of jalapeno strips needed is 96 sandwiches * 4 strips/sandwich = 384 strips.",
+    "Each single jalapeno pepper makes 8 slices.",
+    "To find out how many whole jalapeno peppers are needed, I divide the total number of strips by the number of strips per pepper: 384 strips / 8 strips/pepper = 48 peppers."
+  ],
+  "solution": "48"
+}

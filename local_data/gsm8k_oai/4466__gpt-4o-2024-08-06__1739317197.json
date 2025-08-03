@@ -1,0 +1,23 @@
+{
+  "query": "Lucas' father offers to pay him $2 for each window in the house that he cleans. Each floor of Lucas' house has 3 windows; Lucas lives in a 3-story house. To get Lucas to finish the job faster, his father tells him that he will subtract $1 for every 3 days that pass without Lucas finishing the job. In 6 days, Lucas finishes cleaning all the windows in the house. How much will his father pay him, in dollars?",
+  "steps": [
+    "First, determine the total number of floors in Lucas' house.",
+    "Lucas' house has 3 floors.",
+    "Determine the number of windows per floor.",
+    "Each floor has 3 windows.",
+    "Calculate the total number of windows in the house.",
+    "3 floors * 3 windows per floor = 9 windows.",
+    "Calculate how much Lucas earns for cleaning all the windows.",
+    "Lucas earns $2 per window.",
+    "Lucas earns 9 windows * $2 per window = $18.",
+    "Determine how many 3-day periods pass without Lucas finishing the job.",
+    "Lucas takes 6 days to finish the job.",
+    "There are 6 / 3 = 2 periods of 3 days each.",
+    "Calculate the total amount subtracted for the time it takes Lucas.",
+    "Lucas' father subtracts $1 for each 3-day period.",
+    "Total deduction is 2 periods * $1 per period = $2.",
+    "Subtract the total deductions from Lucas' earnings for cleaning the windows.",
+    "Lucas' total earnings are $18 - $2 = $16."
+  ],
+  "solution": "16"
+}

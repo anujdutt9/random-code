@@ -1,0 +1,13 @@
+{
+  "query": "A 40-bead necklace is made up of three kinds of beads. There are seven amethyst beads and twice as many amber beads as amethysts. The third beads are turquoise. How many turquoise beads are in the necklace?",
+  "steps": [
+    "First, I identify the number of amethyst beads. The problem states there are seven amethyst beads.",
+    "Next, I determine the number of amber beads. It says there are twice as many amber beads as amethysts. So, amber beads = 2 * amethyst beads.",
+    "Calculating the amber beads, I find that: amber beads = 2 * 7 = 14.",
+    "Now, I add the number of amethyst beads and amber beads to find the total number of non-turquoise beads. This is: 7 (amethyst) + 14 (amber).",
+    "Adding these, I get: 7 + 14 = 21 non-turquoise beads.",
+    "Since the total number of beads in the necklace is 40, I subtract the non-turquoise beads from this total to find the number of turquoise beads: 40 - 21.",
+    "Doing the subtraction, I find: 40 - 21 = 19."
+  ],
+  "solution": "19"
+}

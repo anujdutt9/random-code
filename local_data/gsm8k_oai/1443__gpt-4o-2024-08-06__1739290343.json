@@ -1,0 +1,20 @@
+{
+  "query": "Todd bought a pair of jeans that cost $125 at full price. The jeans were on sale for 20% off. He then applied a coupon that took off $10. He paid with a store credit card that gave him another 10% off the remaining amount. How many dollars did he save on the original price of the jeans?",
+  "steps": [
+    "The full price of the jeans is $125.",
+    "The jeans are on sale for 20% off. First, I'll calculate 20% of $125.",
+    "20% of $125 is calculated as 0.20 * $125 = $25.",
+    "Now, I'll subtract the $25 discount from the full price to find the price after the initial sale.",
+    "$125 - $25 = $100. The price after the 20% discount is $100.",
+    "Todd has a coupon for an additional $10 off. I'll subtract $10 from the $100.",
+    "$100 - $10 = $90. The price after applying the coupon is $90.",
+    "He uses a store credit card that gives him another 10% off the remaining amount. I need to calculate 10% of $90.",
+    "10% of $90 is 0.10 * $90 = $9.",
+    "I'll subtract the $9 discount from the remaining price of $90.",
+    "$90 - $9 = $81. The final price Todd pays is $81.",
+    "To find out how much Todd saved in total, I'll subtract this final price from the original full price.",
+    "The original price was $125. Todd paid $81. So the total savings is $125 - $81.",
+    "$125 - $81 = $44."
+  ],
+  "solution": "44"
+}

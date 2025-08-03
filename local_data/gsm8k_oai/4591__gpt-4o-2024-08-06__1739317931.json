@@ -1,0 +1,19 @@
+{
+  "query": "Tina buys 3 12-packs of soda for a party.  Including Tina, 6 people are at the party.  Half of the people at the party have 3 sodas each, 2 of the people have 4 and 1 person has 5.  How many sodas are left over when the party is over?",
+  "steps": [
+    "Tina buys 3 12-packs of soda.",
+    "Each 12-pack contains 12 sodas.",
+    "Calculate the total number of sodas: 3 packs \u00d7 12 sodas per pack = 36 sodas.",
+    "Including Tina, there are 6 people at the party.",
+    "Half of the people, which is 3 people (since 6/2 = 3), have 3 sodas each.",
+    "Calculate the total number of sodas consumed by these 3 people: 3 people \u00d7 3 sodas each = 9 sodas.",
+    "2 of the other people have 4 sodas each.",
+    "Calculate the total number of sodas consumed by these 2 people: 2 people \u00d7 4 sodas each = 8 sodas.",
+    "The remaining 1 person has 5 sodas.",
+    "Add the sodas consumed: 9 sodas (3 people) + 8 sodas (2 people) + 5 sodas (1 person).",
+    "The total number of sodas consumed is 9 + 8 + 5 = 22 sodas.",
+    "Determine how many sodas are left: 36 sodas - 22 sodas consumed.",
+    "There are 36 - 22 = 14 sodas left over."
+  ],
+  "solution": "14"
+}

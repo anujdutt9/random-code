@@ -1,0 +1,14 @@
+{
+  "query": "George collected 50 marbles in white, yellow, green, and red. Half of them are white, and 12 are yellow. There are 50% fewer green balls than yellow balls. How many marbles are red?",
+  "steps": [
+    "First, find out how many white marbles there are. Since half of the total 50 marbles are white, there are 50 / 2 = 25 white marbles.",
+    "Next, it's given that there are 12 yellow marbles.",
+    "Now, calculate the number of green marbles. There are 50% fewer green marbles than yellow marbles. This means the number of green marbles is 50% less than 12.",
+    "Calculate 50% of 12, which is 12 * 0.5 = 6.",
+    "Subtract 6 from 12 to find the number of green marbles, which gives us 12 - 6 = 6 green marbles.",
+    "Now, add up the number of white, yellow, and green marbles: 25 white + 12 yellow + 6 green = 43 marbles.",
+    "Finally, subtract the total number of white, yellow, and green marbles (43) from the total number of marbles (50) to find the number of red marbles.",
+    "50 total marbles - 43 marbles accounted for = 7 red marbles."
+  ],
+  "solution": "7"
+}

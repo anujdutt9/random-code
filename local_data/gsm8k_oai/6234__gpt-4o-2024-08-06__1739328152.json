@@ -1,0 +1,15 @@
+{
+  "query": "Three frogs are trying to hop across the road. The first frog takes 4 times as many hops as the second.  The second frog takes twice as many as the third.  If the three frogs took a total of 99 hops, how many hops did it take the second frog to cross the road?",
+  "steps": [
+    "Let's define the number of hops the third frog takes as \\( x \\).",
+    "The second frog takes twice the number of hops as the third frog, so it takes \\( 2x \\) hops.",
+    "The first frog takes four times the number of hops as the second frog, so it takes \\( 4 \\times 2x = 8x \\) hops.",
+    "The total number of hops taken by all three frogs is 99.",
+    "So we can write the equation: \\( x + 2x + 8x = 99 \\).",
+    "Simplify the equation: \\( 11x = 99 \\).",
+    "Solve for \\( x \\) by dividing both sides by 11: \\( x = \\frac{99}{11} = 9 \\).",
+    "Now that we have \\( x = 9 \\), which is the number of hops the third frog takes,",
+    "The second frog takes \\( 2x = 2 \\times 9 = 18 \\) hops."
+  ],
+  "solution": "18"
+}

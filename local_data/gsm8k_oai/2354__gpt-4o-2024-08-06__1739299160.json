@@ -1,0 +1,13 @@
+{
+  "query": "A library has a collection of 100 historical novels arranged on a shelf. 5 people borrow 2 books each from the shelf on a particular day,  and 20 more books are borrowed from the shelf on the second day. How many books are remaining on the shelf after the second day?",
+  "steps": [
+    "The library starts with a collection of 100 historical novels.",
+    "On the first day, 5 people each borrow 2 books.",
+    "5 people times 2 books per person equals 10 books borrowed on the first day.",
+    "Subtracting the 10 books borrowed on the first day from the original 100 books results in 90 books remaining after the first day.",
+    "On the second day, 20 more books are borrowed from the shelf.",
+    "Subtracting these 20 books from the 90 books remaining after the first day gives us the total number of books remaining after the second day.",
+    "90 books minus 20 books equals 70 books."
+  ],
+  "solution": "70"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "It was reported that 2000 cases of Coronavirus had been confirmed in the state of New York in May 2020. There was half the number of cases in California, which had 400 more cases than the state of Texas. What's the total number of cases that had been confirmed in all of these states?",
+  "steps": [
+    "The problem states that New York had 2000 confirmed cases.",
+    "California had half the number of cases as New York.",
+    "I calculate half of 2000 to find the number of cases in California: 2000 / 2 = 1000.",
+    "California had 1000 confirmed cases.",
+    "It is also stated that California had 400 more cases than Texas.",
+    "Let's denote the number of cases in Texas as X.",
+    "So, California cases - 400 = Texas cases.",
+    "Substitute the California cases into the equation: 1000 - 400 = X.",
+    "Calculate to find X: 1000 - 400 = 600.",
+    "Texas had 600 confirmed cases.",
+    "Now, I need to calculate the total number of confirmed cases in all three states.",
+    "Add the cases for New York, California, and Texas: 2000 + 1000 + 600.",
+    "Perform the addition: 2000 + 1000 = 3000, then 3000 + 600 = 3600."
+  ],
+  "solution": "3600"
+}

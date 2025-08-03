@@ -1,0 +1,17 @@
+{
+  "query": "Bran's tuition fee is $90. He does a part-time job that pays him $15 per month and he has a scholarship that takes care of 30% of his tuition fee. If he needs to pay his tuition fee within 3 months, how much does Bran still need to pay?",
+  "steps": [
+    "Bran's total tuition fee is $90.",
+    "The scholarship covers 30% of his tuition fee.",
+    "To find out how much the scholarship covers, calculate 30% of $90.",
+    "30% of $90 is calculated as (30/100) * $90 = $27.",
+    "So, the scholarship covers $27 of the tuition fee.",
+    "To find out how much Bran still needs to pay, subtract the scholarship amount from the total tuition fee: $90 - $27 = $63.",
+    "Bran's part-time job pays him $15 per month.",
+    "Bran has 3 months to pay the remaining tuition fee amount.",
+    "In 3 months, he will earn $15 * 3 = $45 from his part-time job.",
+    "Subtract the amount he earns from his job in 3 months from the remaining tuition amount: $63 - $45 = $18.",
+    "Therefore, Bran still needs to pay $18 to cover his tuition fee after accounting for his scholarship and earnings from his part-time job."
+  ],
+  "solution": "18"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "A pencil costs $0.5 each and a folder costs $0.9 each. An office needs two dozen pencils and 20 pieces of folders. How much does it cost to buy the office supplies?",
+  "steps": [
+    "First, I need to calculate the cost of the pencils.",
+    "A dozen means 12, so two dozen pencils means 24 pencils.",
+    "Each pencil costs $0.5.",
+    "The total cost for pencils is 24 pencils multiplied by $0.5 per pencil.",
+    "Calculating 24 multiplied by $0.5 gives me $12.",
+    "Next, I need to calculate the cost of the folders.",
+    "There are 20 folders needed.",
+    "Each folder costs $0.9.",
+    "The total cost for folders is 20 folders multiplied by $0.9 per folder.",
+    "Calculating 20 multiplied by $0.9 gives me $18.",
+    "Now, I need to add the total costs of pencils and folders to find the overall cost.",
+    "Adding $12 (for pencils) and $18 (for folders) gives me the total $30."
+  ],
+  "solution": "30"
+}

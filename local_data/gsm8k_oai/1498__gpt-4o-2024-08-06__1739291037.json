@@ -1,0 +1,16 @@
+{
+  "query": "Kristy, a sales representative earns a basic salary of $7.50 per hour plus a 16% commission on everything she sells. This month, she worked for 160 hours and sold $25000 worth of items. Her monthly budget for food, clothing, rent, transportation, bills and savings is 95% of her total monthly earnings and the rest will be put towards insurance. How much did she allocate to insurance?",
+  "steps": [
+    "First, I need to calculate Kristy's earnings from her basic salary. She earns $7.50 per hour and worked for 160 hours this month.",
+    "The earnings from her basic salary can be calculated as $7.50/hour * 160 hours = $1200.",
+    "Next, I need to calculate the commission she earned from her sales. She earns a 16% commission on $25000 worth of sales.",
+    "The commission is 16% of $25000, which is 0.16 * $25000 = $4000.",
+    "Now, I can calculate her total earnings for the month by adding her basic salary and the commission.",
+    "Her total earnings are $1200 (basic salary) + $4000 (commission) = $5200.",
+    "Kristy's budget for various expenses is 95% of her total monthly earnings.",
+    "Therefore, the amount allocated for her budget is 95% of $5200, which is 0.95 * $5200 = $4940.",
+    "The remainder of her earnings will be put towards insurance. I need to subtract the budget amount from her total earnings to find this amount.",
+    "The amount allocated to insurance is $5200 (total earnings) - $4940 (budget) = $260."
+  ],
+  "solution": "260"
+}

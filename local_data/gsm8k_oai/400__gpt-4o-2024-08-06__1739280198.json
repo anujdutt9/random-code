@@ -1,0 +1,19 @@
+{
+  "query": "Karen is packing her backpack for a long-distance hike. She packs 20 pounds of water, 10 pounds of food, and 20 pounds of gear. During her hike, she drinks 2 pounds of water per hour and eats 1/3rd the weight of food per hour as water per hour. How much weight is she carrying after six hours?",
+  "steps": [
+    "Karen starts with 20 pounds of water.",
+    "Karen starts with 10 pounds of food.",
+    "Karen starts with 20 pounds of gear.",
+    "Initially, the total weight Karen is carrying is 20 (water) + 10 (food) + 20 (gear) = 50 pounds.",
+    "Karen drinks 2 pounds of water per hour.",
+    "Over 6 hours, she will drink 6 * 2 = 12 pounds of water.",
+    "Starting with 20 pounds of water, after 6 hours, she has 20 - 12 = 8 pounds of water left.",
+    "Karen eats 1/3 the weight of food per hour as she drinks water per hour.",
+    "She drinks 2 pounds of water per hour, so she eats 2 * 1/3 = 2/3 pounds of food per hour.",
+    "Over 6 hours, she will eat 6 * 2/3 = 4 pounds of food.",
+    "Starting with 10 pounds of food, after 6 hours, she has 10 - 4 = 6 pounds of food left.",
+    "Karen's gear weight remains unchanged at 20 pounds.",
+    "After 6 hours, the total weight she is carrying is 8 (water) + 6 (food) + 20 (gear) = 34 pounds."
+  ],
+  "solution": "34"
+}

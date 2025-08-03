@@ -1,0 +1,21 @@
+{
+  "query": "Ursula went to the store and bought butter, bread, a package of cheese, and tea. The bread was 2 times cheaper than the butter, while the price of the butter was 80% of the price of cheese. Tea was the most expensive and cost twice the price of a package of cheese. If the tea cost $10, how much did Ursula pay for her purchases?",
+  "steps": [
+    "First, I need to find the price of the cheese. We know that the tea was the most expensive and cost twice the price of a package of cheese. Tea cost $10.",
+    "Let the price of the cheese be \\( C \\). Since tea is twice the price of cheese, we have the equation: \\( 2C = 10 \\).",
+    "To find \\( C \\), divide both sides of the equation by 2. So, \\( C = 5 \\).",
+    "Now, the price of the cheese is $5.",
+    "Next, let's determine the price of the butter. The problem states that the price of the butter was 80% of the price of cheese.",
+    "The cheese costs $5, so the price of the butter is \\( 0.8 \\times 5 \\).",
+    "Calculating, I find \\( 0.8 \\times 5 = 4 \\).",
+    "Therefore, the price of the butter is $4.",
+    "Next, let's find the price of the bread. We know that the bread was 2 times cheaper than the butter.",
+    "Since butter costs $4, the price of the bread would be \\( \\frac{4}{2} \\).",
+    "Calculating \\( \\frac{4}{2} = 2 \\).",
+    "Therefore, the price of the bread is $2.",
+    "Now, I have all the prices: tea $10, cheese $5, butter $4, and bread $2.",
+    "To find the total cost, add all the prices together: \\( 10 + 5 + 4 + 2 \\).",
+    "Calculating, \\( 10 + 5 + 4 + 2 = 21 \\)."
+  ],
+  "solution": "21"
+}

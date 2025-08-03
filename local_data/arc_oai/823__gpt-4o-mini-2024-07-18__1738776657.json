@@ -1,0 +1,10 @@
+{
+  "query": "Question: Which location on Earth has the least intense sunlight on December 22?\n\nChoices:\nA: Equator\nB: Florida\nC: Maine\nD: North Pole",
+  "steps": [
+    "Consider the date: December 22 is around the winter solstice in the Northern Hemisphere, when sunlight is least intense in northern regions.",
+    "Identify locations from the choices: The Equator receives nearly consistent sunlight year-round, and Florida, being in a warmer climate, also receives more sunlight. Maine, being further north, receives less sunlight than Florida and the Equator during this time, but it is still more than the North Pole.",
+    "Evaluate the North Pole: At the North Pole on December 22, the sun is below the horizon throughout the day, resulting in no direct sunlight at all.",
+    "Compare the sunlight intensity: Since the North Pole has no sunlight, it has the least intense sunlight compared to the other options listed, as all other locations receive some sunlight."
+  ],
+  "solution": "D"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "A bird eats 7 berries a day. Samuel has 5 birds. How many berries do Samuel's birds eat in 4 days?",
+  "steps": [
+    "First, I need to calculate how many berries one bird eats in one day.",
+    "According to the problem, one bird eats 7 berries in one day.",
+    "Next, I need to calculate how many berries 5 birds eat in one day.",
+    "If one bird eats 7 berries in one day, 5 birds will eat 7 berries each.",
+    "So, I need to multiply the number of berries one bird eats (7) by the number of birds (5).",
+    "7 berries/bird * 5 birds = 35 berries",
+    "Now, I know that 5 birds eat 35 berries in one day.",
+    "Next, I need to calculate how many berries 5 birds eat in 4 days.",
+    "To do this, I need to multiply the number of berries 5 birds eat in one day (35) by the number of days (4).",
+    "35 berries/day * 4 days = 140 berries",
+    "So, Samuel's birds eat 140 berries in 4 days."
+  ],
+  "solution": "140"
+}

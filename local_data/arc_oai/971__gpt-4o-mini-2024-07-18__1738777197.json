@@ -1,0 +1,10 @@
+{
+  "query": "Question: Sam builds a ramp and lets a toy car roll down. Which describes the energy of the car as it rolls down the ramp?\n\nChoices:\nA: The kinetic energy and the potential energy both increase.\nB: The kinetic energy and the potential energy both decrease.\nC: The kinetic energy increases and the potential energy decreases.\nD: The kinetic energy decreases and the potential energy increases.",
+  "steps": [
+    "When the toy car is at the top of the ramp, it has a certain amount of potential energy due to its height and a negligible amount of kinetic energy if it's not moving.",
+    "As the car starts to roll down the ramp, it loses height, which means its potential energy decreases because potential energy is related to height.",
+    "Simultaneously, as the car rolls down, it gains speed, which means its kinetic energy increases because kinetic energy is related to the speed of the car.",
+    "Therefore, as the toy car rolls down the ramp, the kinetic energy increases and the potential energy decreases."
+  ],
+  "solution": "C"
+}

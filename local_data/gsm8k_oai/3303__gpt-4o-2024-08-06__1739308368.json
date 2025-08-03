@@ -1,0 +1,17 @@
+{
+  "query": "Anahi bought a 500 pages book to write some notes on. In the first week, she wrote on 150 pages. In the second week, she wrote on 30% of the remaining pages. While continuing writing, she accidentally spilled coffee on the book and damaged 20 percent of the empty pages she was to write on. Calculate the total number of empty pages available for her to write on now.",
+  "steps": [
+    "Anahi bought a book with a total of 500 pages.",
+    "In the first week, she wrote on 150 pages.",
+    "After the first week, the remaining pages are \\(500 - 150 = 350\\) pages.",
+    "In the second week, she wrote on 30% of these remaining 350 pages.",
+    "30% of 350 pages is \\(0.30 \\times 350 = 105\\) pages.",
+    "After the second week, the pages she's written on are \\(150 + 105 = 255\\) pages.",
+    "The total pages that are written on after two weeks are 255 pages.",
+    "Considering the entire book has 500 pages, the pages yet to be written on are \\(500 - 255 = 245\\) pages.",
+    "20% of these empty pages were damaged by coffee.",
+    "20% of 245 pages is \\(0.20 \\times 245 = 49\\) pages.",
+    "The number of usable empty pages left after the damage is \\(245 - 49 = 196\\) pages."
+  ],
+  "solution": "196"
+}

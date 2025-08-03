@@ -1,0 +1,17 @@
+{
+  "query": "A waterpark opens up and charges $30 for admission.  Kids' tickets are half price.  If a group of people brings a soda, they can get 20% off the total price of admission.  Janet gets tickets for 10 people and 4 of them are children.  She buys a soda for $5 to take advantage of the discount for her group.  How much did she pay for everything?",
+  "steps": [
+    "First, I need to determine the regular admission price for adults and children. The adult admission price is $30.",
+    "The children's tickets are half of the adult price, so each child's ticket is $30 / 2 = $15.",
+    "Now, I need to calculate the total admission cost for the group without any discounts. Janet has 6 adults and 4 children.",
+    "The cost for the 6 adult tickets is 6 x $30 = $180.",
+    "The cost for the 4 children's tickets is 4 x $15 = $60.",
+    "The total regular price for admission is $180 (adults) + $60 (children) = $240.",
+    "Next, calculate the discount. Janet gets a 20% discount on the total admission price by bringing a soda.",
+    "20% of $240 is 0.20 x $240 = $48.",
+    "Subtract the discount from the total admission price: $240 - $48 = $192.",
+    "Janet also spent $5 on a soda, so add this to the discounted admission cost: $192 + $5 = $197.",
+    "So, the total amount Janet paid for everything, including admission and the soda, is $197."
+  ],
+  "solution": "197"
+}

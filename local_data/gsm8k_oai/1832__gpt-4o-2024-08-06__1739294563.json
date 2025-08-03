@@ -1,0 +1,18 @@
+{
+  "query": "Reynald is the head of the varsity department, and he bought 145 balls. Twenty were soccer balls. There were five more basketballs than the soccer balls. Twice the number of soccer balls were tennis balls.  There were ten more baseballs than the soccer balls, and the rest were volleyballs. How many were volleyballs?",
+  "steps": [
+    "First, I know that Reynald bought a total of 145 balls.",
+    "He bought 20 soccer balls.",
+    "There were five more basketballs than the soccer balls.",
+    "So, the number of basketballs is 20 + 5 = 25.",
+    "Twice the number of soccer balls were tennis balls.",
+    "So, the number of tennis balls is 2 * 20 = 40.",
+    "There were ten more baseballs than the soccer balls.",
+    "So, the number of baseballs is 20 + 10 = 30.",
+    "Let's sum the number of soccer, basketball, tennis, and baseball balls: 20 + 25 + 40 + 30.",
+    "20 + 25 + 40 + 30 = 115 balls.",
+    "Since Reynald bought a total of 145 balls, I subtract the total of these balls from the total balls bought to find the number of volleyballs.",
+    "145 - 115 = 30."
+  ],
+  "solution": "30"
+}

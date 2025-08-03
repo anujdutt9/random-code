@@ -1,0 +1,21 @@
+{
+  "query": "Jack went to a supermarket with $100 and bought 4 bottles of water. Then his mother called him and asked him to buy twice as many bottles as he already bought. Each bottle cost $2. Finally, he also bought half a pound of cheese and 1 pound of cheese costs $10. How much money does Jack have remaining?",
+  "steps": [
+    "Jack initially has $100.",
+    "He buys 4 bottles of water.",
+    "Each bottle costs $2.",
+    "The cost for 4 bottles is 4 bottles * $2/bottle = $8.",
+    "He spends $8 on the initial 4 bottles of water.",
+    "Subtracted from his initial $100, he now has $100 - $8 = $92.",
+    "His mother asks him to buy twice as many bottles as he already bought.",
+    "He already bought 4 bottles, so twice as many is 4 bottles * 2 = 8 additional bottles.",
+    "Each of these additional bottles also costs $2.",
+    "The cost for the additional 8 bottles is 8 bottles * $2/bottle = $16.",
+    "Subtracted from his remaining $92, he now has $92 - $16 = $76.",
+    "He buys half a pound of cheese.",
+    "1 pound of cheese costs $10.",
+    "Half a pound of cheese costs $10 * 0.5 = $5.",
+    "Subtracted from his remaining $76, he now has $76 - $5 = $71."
+  ],
+  "solution": "71"
+}

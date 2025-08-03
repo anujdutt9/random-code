@@ -1,0 +1,15 @@
+{
+  "query": "John starts at an elevation of 400 feet.  He travels downward at a rate of 10 feet down per minute for 5 minutes.  What is his elevation now?",
+  "steps": [
+    "John starts at an elevation of 400 feet.",
+    "He travels downward at a rate of 10 feet per minute.",
+    "He travels for 5 minutes.",
+    "I need to calculate the total distance he travels downward.",
+    "Distance traveled downward = rate of descent x time traveled.",
+    "Distance traveled downward = 10 feet/minute * 5 minutes = 50 feet.",
+    "I need to subtract the distance he traveled downward from his starting elevation.",
+    "New elevation = starting elevation - distance traveled downward.",
+    "New elevation = 400 feet - 50 feet = 350 feet."
+  ],
+  "solution": "350"
+}

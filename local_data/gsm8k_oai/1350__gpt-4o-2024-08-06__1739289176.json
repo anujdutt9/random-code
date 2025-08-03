@@ -1,0 +1,13 @@
+{
+  "query": "John raises butterflies.  He has 4 jars of 10 caterpillars each.  40% of them fail to become butterflies, but the rest become caterpillars.    He sells the butterflies for $3 each.  How much money does he make?",
+  "steps": [
+    "John has 4 jars of 10 caterpillars each.",
+    "To find the total number of caterpillars, I multiply the number of jars by the number of caterpillars per jar: 4 jars * 10 caterpillars/jar = 40 caterpillars.",
+    "I know that 40% of the caterpillars fail to become butterflies.",
+    "I calculate the number of caterpillars that fail to become butterflies by multiplying 40 caterpillars by 40%: 40 * 0.40 = 16 caterpillars that fail.",
+    "Next, I need to find how many caterpillars become butterflies, so I subtract the number of failed caterpillars from the total: 40 - 16 = 24 caterpillars become butterflies.",
+    "John sells each butterfly for $3.",
+    "To find how much money he makes, I multiply the number of butterflies by the selling price: 24 butterflies * $3 = $72."
+  ],
+  "solution": "72"
+}

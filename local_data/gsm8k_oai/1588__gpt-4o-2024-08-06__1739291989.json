@@ -1,0 +1,20 @@
+{
+  "query": "Mary is making a model sailboat. She wants to add three sails: a rectangular sail that measures 5 inches by 8 inches and two right triangular sails, one that's 3 inches long at the bottom and 4 inches tall and one that's 4 inches long at the bottom and 6 inches tall. (Remember you can find the area of a triangle by dividing the area of a square with the same height and length by 2). How many square inches of canvas does she need total?",
+  "steps": [
+    "First, I will calculate the area of the rectangular sail.",
+    "The formula for the area of a rectangle is length times width.",
+    "The length and width of the rectangular sail are 5 inches and 8 inches, respectively.",
+    "The area of the rectangular sail is 5 * 8 = 40 square inches.",
+    "Next, I will calculate the area of the first right triangular sail.",
+    "The formula for the area of a triangle is 1/2 * base * height.",
+    "For the first triangular sail, the base is 3 inches and the height is 4 inches.",
+    "The area of the first triangular sail is 1/2 * 3 * 4 = 6 square inches.",
+    "Now, I will calculate the area of the second right triangular sail.",
+    "For the second triangular sail, the base is 4 inches and the height is 6 inches.",
+    "The area of the second triangular sail is 1/2 * 4 * 6 = 12 square inches.",
+    "Now I need to add the areas together to find the total area of canvas needed.",
+    "The total area of canvas needed is 40 (rectangular sail) + 6 (first triangular sail) + 12 (second triangular sail).",
+    "The total area of canvas needed is 40 + 6 + 12 = 58 square inches."
+  ],
+  "solution": "58"
+}

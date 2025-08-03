@@ -1,0 +1,33 @@
+{
+  "query": "A used car lot has 24 cars and motorcycles (in total) for sale. A third of the vehicles are motorcycles, and a quarter of the cars have a spare tire included. How many tires are on the used car lot\u2019s vehicles in all?",
+  "steps": [
+    "To start, I need to find out how many motorcycles there are.",
+    "I'm told that a third of the vehicles are motorcycles.",
+    "The total number of vehicles is 24.",
+    "I calculate the number of motorcycles by finding a third of 24.",
+    "24 divided by 3 equals 8.",
+    "So, there are 8 motorcycles on the lot.",
+    "Next, I need to figure out how many cars are on the lot.",
+    "The total number of vehicles is 24, and there are 8 motorcycles.",
+    "Therefore, the number of cars is 24 - 8 = 16.",
+    "Now, I should calculate the total number of tires.",
+    "Motorcycles typically have 2 tires each.",
+    "There are 8 motorcycles.",
+    "Therefore, the motorcycles have a total of 8 x 2 = 16 tires.",
+    "Next, I calculate the number of tires on the cars.",
+    "Cars typically have 4 tires each.",
+    "There are 16 cars on the lot.",
+    "So, the cars have a total of 16 x 4 = 64 tires.",
+    "I also need to account for the spare tires.",
+    "A quarter of the cars have a spare tire.",
+    "I calculate a quarter of 16 to find how many cars have a spare tire.",
+    "16 divided by 4 equals 4.",
+    "So, 4 cars have a spare tire.",
+    "Since each spare tire is one additional tire per car, there are 4 extra tires from the spare tires.",
+    "Now, I calculate the total number of tires on the lot.",
+    "The total number of tires from motorcycles is 16.",
+    "The total number of tires from cars is 64.",
+    "Adding the spare tires, I have 16 + 64 + 4 = 84."
+  ],
+  "solution": "84"
+}

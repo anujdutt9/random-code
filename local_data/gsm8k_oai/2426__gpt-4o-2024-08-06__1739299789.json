@@ -1,0 +1,14 @@
+{
+  "query": "Nina has received a scholarship worth $8000 less than Kelly's amount. Kelly received a scholarship worth twice the amount Wendy received. How much money did they receive in scholarship together if Wendy received a scholarship worth $20000?",
+  "steps": [
+    "I'm starting by determining the amount Wendy received. I'm given that Wendy received $20000.",
+    "Next, I'm moving on to find out how much Kelly received. It's mentioned that Kelly received twice the amount Wendy received.",
+    "To find Kelly's amount, I need to multiply Wendy's amount by 2. Wendy received $20000, so Kelly received 2 * $20000 = $40000.",
+    "Now, I need to calculate how much Nina received. It is stated that Nina's scholarship is worth $8000 less than Kelly's.",
+    "I subtract $8000 from Kelly's scholarship amount to find Nina's: $40000 - $8000 = $32000.",
+    "Finally, I need to find the total amount received by all three of them. This is the sum of Wendy's, Kelly's, and Nina's scholarships.",
+    "Adding up their amounts: Wendy's $20000 + Kelly's $40000 + Nina's $32000 equals the total amount received.",
+    "Calculating the sum: $20000 + $40000 + $32000 = $92000."
+  ],
+  "solution": "92000"
+}

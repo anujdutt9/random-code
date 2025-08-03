@@ -1,0 +1,18 @@
+{
+  "query": "If Janet reads 80 pages a day and Belinda reads 30 pages a day, how many more pages does Janet read in 6 weeks?",
+  "steps": [
+    "First, I'll calculate how many pages Janet reads in one week.",
+    "Since Janet reads 80 pages a day, she'll read \\(80 \\times 7\\) in one week.",
+    "\\(80 \\times 7 = 560\\) pages per week for Janet.",
+    "Next, I'll calculate how many pages Belinda reads in one week.",
+    "Belinda reads 30 pages a day, so she'll read \\(30 \\times 7\\) in one week.",
+    "\\(30 \\times 7 = 210\\) pages per week for Belinda.",
+    "Now, I'll calculate how many pages each reads in 6 weeks.",
+    "For Janet, \\(560 \\times 6 = 3360\\) pages in 6 weeks.",
+    "For Belinda, \\(210 \\times 6 = 1260\\) pages in 6 weeks.",
+    "Now, I need to find out how many more pages Janet reads than Belinda.",
+    "I subtract the pages read by Belinda from the pages read by Janet: \\(3360 - 1260\\).",
+    "\\(3360 - 1260 = 2100\\) pages."
+  ],
+  "solution": "2100"
+}

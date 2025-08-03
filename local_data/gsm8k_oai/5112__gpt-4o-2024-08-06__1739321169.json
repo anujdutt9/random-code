@@ -1,0 +1,11 @@
+{
+  "query": "Alissa used discarded paper to make notepads for her friends. She would fold 5 pieces of letter-size paper 3 times then cut along the edges to form smaller note papers. She would then stack these smaller note papers and staple them together. How long would 1 notepad last if someone wrote 10 notes per day?",
+  "steps": [
+    "First, I need to understand what \"fold 5 pieces of letter-size paper 3 times\" means in terms of creating smaller note papers. Each fold cuts the paper into 2 parts.",
+    "If Alissa folds the paper once, she gets 2 pieces. If she folds it a second time, she doubles the amount, getting 4 pieces from each original sheet. If she folds it a third time, she doubles it again and gets 8 pieces from each original sheet of paper.",
+    "Now, if she starts with 5 sheets of letter-size paper, and after folding each sheet 3 times, she gets 8 smaller pieces from each sheet. Therefore, she will have 5 sheets \u00d7 8 pieces/sheet = 40 smaller note papers.",
+    "Each notepad consists of these 40 smaller note papers. To determine how long the notepad will last, we need to consider the usage rate: 10 notes are written per day.",
+    "The notepad has 40 note papers, and with 10 notes written per day, we can divide the total note papers by the daily usage: 40 note papers \u00f7 10 notes per day = 4 days."
+  ],
+  "solution": "4"
+}

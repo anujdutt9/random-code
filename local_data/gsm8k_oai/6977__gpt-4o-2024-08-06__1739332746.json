@@ -1,0 +1,15 @@
+{
+  "query": "On a particular day, Rose's teacher read the register and realized there were twice as many girls as boys present on that day. The class has 250 students, and all the 140 girls were present. If all the absent students were boys, how many boys were absent that day?",
+  "steps": [
+    "First, I need to determine how many girls were present. The problem states that all 140 girls were present.",
+    "Next, I know there are twice as many girls as boys that were present. Let \\( x \\) represent the number of boys present.",
+    "According to the problem, \\( 2x = 140 \\) since the number of girls (140) is twice the number of boys present.",
+    "Solving for \\( x \\), I divide both sides by 2: \\( x = \\frac{140}{2} \\).",
+    "Calculating, I find \\( x = 70 \\). Thus, there were 70 boys present.",
+    "Now that I know 70 boys were present, I need to determine how many boys were in the class.",
+    "Given the total number of students is 250 and there were 140 girls, I find the number of boys is \\( 250 - 140 = 110 \\).",
+    "Since there are 110 boys total and 70 boys were present, the number of boys absent is \\( 110 - 70 \\).",
+    "Calculating, the number of boys absent is \\( 40 \\)."
+  ],
+  "solution": "40"
+}

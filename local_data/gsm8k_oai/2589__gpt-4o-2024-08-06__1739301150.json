@@ -1,0 +1,14 @@
+{
+  "query": "Bob picked 450 apples for his entire family to eat. There are 33 children in his family, and each of them ate 10 apples. If every adult ate 3 apples apiece, how many adults are in his family?",
+  "steps": [
+    "Start by calculating how many apples the children ate. There are 33 children, and each ate 10 apples.",
+    "33 children * 10 apples/child = 330 apples.",
+    "So, the children ate a total of 330 apples.",
+    "Subtract the apples eaten by children from the total number of apples Bob picked.",
+    "450 total apples - 330 apples eaten by children = 120 apples left for the adults.",
+    "Each adult ate 3 apples. We need to divide the remaining 120 apples by 3 to find out how many adults there are.",
+    "120 apples / 3 apples/adult = 40 adults.",
+    "So, there are 40 adults in Bob's family."
+  ],
+  "solution": "40"
+}

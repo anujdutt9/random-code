@@ -1,0 +1,16 @@
+{
+  "query": "Mike can type 65 words per minute. Due to a minor accident, Mike cannot use his right hand for a while so that his typing speed is now 20 words less per minute. If he is supposed to type a document with 810 words, how many minutes will it take him to finish typing the document?",
+  "steps": [
+    "Mike's normal typing speed is 65 words per minute.",
+    "Due to the accident, Mike's typing speed is reduced by 20 words per minute.",
+    "To find Mike's new typing speed, I subtract 20 words from 65 words per minute.",
+    "65 - 20 = 45",
+    "So, Mike's new typing speed is 45 words per minute.",
+    "The document contains 810 words.",
+    "To find out how many minutes it will take Mike to type 810 words at his new speed, I need to divide the total number of words by his typing speed.",
+    "I will divide 810 by 45 to find the time in minutes.",
+    "810 \u00f7 45 = 18",
+    "It will take Mike 18 minutes to finish typing the document."
+  ],
+  "solution": "18"
+}

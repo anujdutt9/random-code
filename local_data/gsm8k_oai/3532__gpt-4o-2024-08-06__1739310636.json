@@ -1,0 +1,13 @@
+{
+  "query": "Donna is catering for a party. She makes 20 sandwiches and then cuts them in half, before cutting them in half again. She then gives everyone 8 portions. How many people can she feed?",
+  "steps": [
+    "First, I start by figuring out how many pieces each sandwich is divided into. Donna cuts each sandwich in half and then in half again.",
+    "Cutting in half the first time gives 2 pieces per sandwich. Cutting each half in half again results in 4 pieces per sandwich.",
+    "There are a total of 20 sandwiches. Each sandwich is divided into 4 pieces.",
+    "I calculate the total number of sandwich pieces by multiplying the number of sandwiches by the number of pieces per sandwich: 20 sandwiches \u00d7 4 pieces each = 80 pieces.",
+    "Donna gives each person 8 portions (pieces).",
+    "To find the total number of people she can feed, I divide the total number of pieces by the number of pieces each person gets: 80 pieces \u00f7 8 pieces per person.",
+    "80 divided by 8 equals 10."
+  ],
+  "solution": "10"
+}

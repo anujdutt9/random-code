@@ -1,0 +1,19 @@
+{
+  "query": "Out of the 80 students who took the biology exam, only 2/5 of them managed to score 100%. If a score below 80% qualified as failing, and 50 percent of the remaining students who didn't score 100% managed to score over 80%, calculate the number of students who failed the exam.",
+  "steps": [
+    "First, I need to find out how many students scored 100%.",
+    "According to the question, 2/5 of the 80 students scored 100%.",
+    "To calculate this, multiply 80 by 2/5.",
+    "80 * (2/5) = 32 students scored 100%.",
+    "Next, I need to find out how many students didn't score 100%.",
+    "If 32 students scored 100%, then the number of students who didn't is 80 - 32.",
+    "80 - 32 = 48 students did not score 100%.",
+    "The problem states that 50% of the students who didn't score 100% managed to score over 80%.",
+    "Calculate 50% of the 48 students who didn't score 100%.",
+    "48 * 0.50 = 24 students scored over 80% but less than 100%.",
+    "The rest of the students who didn't score at least 80% are considered to have failed.",
+    "To find the number of students who failed, subtract the 24 who scored over 80% from the 48 who didn't score 100%.",
+    "48 - 24 = 24 students failed the exam."
+  ],
+  "solution": "24"
+}

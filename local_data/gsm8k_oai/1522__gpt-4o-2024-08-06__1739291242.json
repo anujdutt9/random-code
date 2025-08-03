@@ -1,0 +1,12 @@
+{
+  "query": "A baker is making bread according to a recipe that requires him to use 3 eggs for every 2 cups of flour.  If the baker wants to use up the 6 cups of flour he has remaining in his pantry, how many eggs will he need to use?",
+  "steps": [
+    "The problem describes a ratio between eggs and flour: 3 eggs for every 2 cups of flour.",
+    "We need to find out how many sets of 2 cups of flour are in 6 cups.",
+    "If I divide 6 cups of flour by 2 cups (the amount per set in the ratio), I get 3 sets.",
+    "Since each set in the problem uses 3 eggs, we need 3 eggs per set.",
+    "Now, multiply the number of sets (3) by the number of eggs per set (3) to find the total number of eggs needed.",
+    "3 sets multiplied by 3 eggs per set results in 9 eggs needed."
+  ],
+  "solution": "9"
+}

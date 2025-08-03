@@ -1,0 +1,13 @@
+{
+  "query": "Carl is having a party on Saturday and is inviting 15 guests. He would like to make sure everyone, including himself, has at least 2 glasses of punch. Each glass holds 12 ounces of punch. How many ounces of punch does he need to buy for the party?",
+  "steps": [
+    "Carl is having a party and wants to invite 15 guests.",
+    "Including himself, the total number of people at the party will be 15 guests + 1 (Carl) = 16 people.",
+    "Carl wants to ensure that each person has at least 2 glasses of punch.",
+    "Each person will therefore drink 2 glasses of punch.",
+    "The total number of glasses needed for all people is 16 people * 2 glasses/person = 32 glasses.",
+    "Each glass holds 12 ounces of punch.",
+    "The total ounces of punch needed is 32 glasses * 12 ounces/glass = 384 ounces."
+  ],
+  "solution": "384"
+}

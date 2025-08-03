@@ -1,0 +1,15 @@
+{
+  "query": "Arthur has 3 dogs. They eat an average of 15 pounds of food a week. One dog eats 13 pounds a week. The second eats double this. How much does the third dog eat a week?",
+  "steps": [
+    "I need to find how much the third dog eats per week in pounds.",
+    "I know the first dog eats 13 pounds per week.",
+    "The second dog eats double the amount the first dog eats.",
+    "So, the second dog eats 13 * 2 = 26 pounds per week.",
+    "I know the average amount of food eaten by all 3 dogs per week is 15 pounds.",
+    "The total food eaten by all 3 dogs is 3 dogs * 15 pounds = 45 pounds per week.",
+    "I need to calculate how much the third dog eats by subtracting the amount the first and second dogs eat from the total.",
+    "The first and second dogs eat 13 + 26 = 39 pounds collectively.",
+    "Subtracting from the total gives 45 - 39 = 6 pounds per week for the third dog."
+  ],
+  "solution": "6"
+}

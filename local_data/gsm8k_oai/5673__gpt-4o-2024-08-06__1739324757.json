@@ -1,0 +1,15 @@
+{
+  "query": "John and Sam were hungry so they ordered an extra-large pizza that was pre-sliced into 12 pieces.  John ate 3 slices while Sam ate twice the amount that John ate.  How many slices of pizza were left?",
+  "steps": [
+    "The total number of slices in the extra-large pizza is 12.",
+    "John ate 3 slices.",
+    "Sam ate twice the amount that John ate.",
+    "Twice the amount that John ate would be 2 times 3 slices, which is 6 slices.",
+    "Sam ate 6 slices.",
+    "The total number of slices eaten by John and Sam combined is 3 slices + 6 slices.",
+    "3 slices + 6 slices is 9 slices.",
+    "To find the number of slices left, subtract the number of slices eaten from the total number of slices.",
+    "12 slices - 9 slices is 3 slices."
+  ],
+  "solution": "3"
+}

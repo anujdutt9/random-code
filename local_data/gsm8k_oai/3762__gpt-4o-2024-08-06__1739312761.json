@@ -1,0 +1,19 @@
+{
+  "query": "Between them, Mark and Sarah have 24 traffic tickets. Mark has twice as many parking tickets as Sarah, and they each have an equal number of speeding tickets. If Sarah has 6 speeding tickets, how many parking tickets does Mark have?",
+  "steps": [
+    "Start by understanding the problem. We know Mark and Sarah together have 24 traffic tickets.",
+    "Mark has twice as many parking tickets as Sarah. Also, they have an equal number of speeding tickets.",
+    "Sarah has 6 speeding tickets.",
+    "Since both have an equal number of speeding tickets, Mark also has 6 speeding tickets.",
+    "Add the speeding tickets: Sarah has 6 speeding tickets, and Mark has 6 speeding tickets.",
+    "Total speeding tickets: 6 (Sarah) + 6 (Mark) = 12.",
+    "Subtract the speeding tickets from the total traffic tickets: 24 - 12 = 12 parking tickets.",
+    "Let x be the number of parking tickets Sarah has.",
+    "Mark has twice as many parking tickets as Sarah, so Mark has 2x parking tickets.",
+    "The combined parking tickets of Sarah and Mark is x + 2x = 3x.",
+    "Set the equation for parking tickets: 3x = 12.",
+    "Solve for x: x = 12 / 3 = 4.",
+    "Sarah has 4 parking tickets, so Mark, having twice as many, has 2*4 = 8 parking tickets."
+  ],
+  "solution": "8"
+}

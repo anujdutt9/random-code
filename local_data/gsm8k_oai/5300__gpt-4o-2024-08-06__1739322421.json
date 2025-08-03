@@ -1,0 +1,16 @@
+{
+  "query": "Javier plays 2 baseball games a week. In each of his first 20 games, he averaged 2 hits. If he has 10 games left, how many hits a game does he have to average to bring his average for the season up to 3 hits a game?",
+  "steps": [
+    "First, I need to calculate the total number of games Javier will play in the season. He plays 2 games a week, and he has already played 20 games.",
+    "Javier has 10 games left to play, so he will play 20 (already played) + 10 (left to play) = 30 games in total.",
+    "Next, I will determine how many total hits Javier needs for the whole season if he wants to average 3 hits per game.",
+    "To average 3 hits per game over 30 games, he needs 30 games \u00d7 3 hits/game = 90 hits in total.",
+    "Now, I will calculate how many hits Javier currently has from his first 20 games.",
+    "He averaged 2 hits per game for the first 20 games, so he has 20 games \u00d7 2 hits/game = 40 hits.",
+    "To find out how many more hits Javier needs, I will subtract his current hits from the total hits needed for the season.",
+    "90 hits needed - 40 hits currently = 50 more hits needed.",
+    "Javier has 10 games left to achieve these 50 hits. I need to calculate how many hits per game he needs for these remaining 10 games.",
+    "50 hits needed \u00f7 10 games remaining = 5 hits per game."
+  ],
+  "solution": "5"
+}

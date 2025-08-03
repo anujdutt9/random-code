@@ -1,0 +1,9 @@
+{
+    "id": 13,
+    "query": "Question: Which of these tools would be best to use when observing insects in a field?\n\nChoices:\nA: compass\nB: hand lens\nC: microscope\nD: thermometer",
+    "solution": "B",
+    "style_name": "form_3_causal_chain",
+    "steps": [
+        "If insects are small, then they need to be magnified to be observed well. If a hand lens provides magnification and is portable, then it is suitable for field observations. Therefore, a hand lens is best for observing insects in the field."
+    ]
+}

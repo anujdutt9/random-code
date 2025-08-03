@@ -1,0 +1,26 @@
+{
+  "query": "Barry and his friend, Jim, went horseback riding across central Texas. They traveled at 5 miles per hour for 7 hours, and then stopped for the evening.  The next day, they traveled at 6 miles per hour for 6 hours, and then at half that speed for another three hours, before stopping to rest for the night.  On the third and final day, they traveled for 5 hours at 7 miles per hour.  In total, how far did they travel, in miles, during their horseback riding trip?",
+  "steps": [
+    "First, I need to calculate the distance traveled on the first day.",
+    "They traveled for 7 hours at 5 miles per hour.",
+    "The distance for the first day is 7 hours * 5 miles per hour.",
+    "This equals 35 miles on the first day.",
+    "Next, I calculate the distance traveled on the second day.",
+    "They traveled for 6 hours at 6 miles per hour on the second day.",
+    "The distance for this part is 6 hours * 6 miles per hour.",
+    "This equals 36 miles for the first part of the second day.",
+    "Then they traveled at half of 6 miles per hour, which is 3 miles per hour, for 3 hours.",
+    "The distance for this part is 3 hours * 3 miles per hour.",
+    "This equals 9 miles for the second part of the second day.",
+    "Therefore, the total distance for the second day is 36 miles + 9 miles.",
+    "This equals 45 miles on the second day.",
+    "Finally, I calculate the distance traveled on the third day.",
+    "They traveled for 5 hours at 7 miles per hour on the third day.",
+    "The distance for the third day is 5 hours * 7 miles per hour.",
+    "This equals 35 miles on the third day.",
+    "Now, I add the distances from all three days to find the total distance traveled.",
+    "The total distance is 35 miles (first day) + 45 miles (second day) + 35 miles (third day).",
+    "This equals 115 miles in total."
+  ],
+  "solution": "115"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "Travis has 10000 apples, and he is planning to sell these apples in boxes. Fifty apples can fit in each box. If he sells each box of apples for $35, how much will he be able to take home?",
+  "steps": [
+    "Travis has 10,000 apples in total.",
+    "Each box holds 50 apples.",
+    "To find out how many boxes can be filled, I need to divide the total number of apples by the number of apples that fit in one box.",
+    "10,000 apples \u00f7 50 apples per box = 200 boxes.",
+    "Travis can fill 200 boxes with his 10,000 apples.",
+    "Each box is sold for $35.",
+    "To find the total amount Travis can take home, I need to multiply the number of boxes by the price per box.",
+    "200 boxes \u00d7 $35 per box = $7,000."
+  ],
+  "solution": "7000"
+}

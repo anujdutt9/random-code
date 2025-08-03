@@ -1,0 +1,14 @@
+{
+  "query": "Jed is 10 years older than Matt. In 10 years, Jed will be 25 years old. What is the sum of their present ages?",
+  "steps": [
+    "We are told that Jed is 10 years older than Matt.",
+    "In 10 years, Jed will be 25 years old.",
+    "To find Jed's current age, we subtract 10 years from his age in 10 years.",
+    "Jed's current age is 25 - 10 = 15 years old.",
+    "Since Jed is 10 years older than Matt, we can determine Matt's current age by subtracting 10 years from Jed's current age.",
+    "Matt's current age is 15 - 10 = 5 years old.",
+    "To find the sum of their present ages, we add Jed's current age and Matt's current age.",
+    "The sum of their present ages is 15 + 5 = 20 years."
+  ],
+  "solution": "20"
+}

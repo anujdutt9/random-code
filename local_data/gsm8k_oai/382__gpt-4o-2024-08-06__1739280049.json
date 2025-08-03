@@ -1,0 +1,15 @@
+{
+  "query": "It takes David 10 minutes to wash 4 windows.  David's house has 64 windows.  How many minutes will it take David to wash all of the windows?",
+  "steps": [
+    "First, I need to find out how many windows David can wash in one minute.",
+    "If David takes 10 minutes to wash 4 windows, I can calculate the rate of windows per minute by dividing the number of windows by the number of minutes.",
+    "So, I divide 4 windows by 10 minutes.",
+    "The rate is 4/10, which simplifies to 0.4 windows per minute.",
+    "Now, I need to calculate how long it will take David to wash 64 windows.",
+    "Since David washes 0.4 windows per minute, I need to divide the total number of windows by the rate to find the total time.",
+    "I divide 64 windows by 0.4 windows per minute.",
+    "64 divided by 0.4 is 160.",
+    "Thus, it will take David 160 minutes to wash all 64 windows."
+  ],
+  "solution": "160"
+}

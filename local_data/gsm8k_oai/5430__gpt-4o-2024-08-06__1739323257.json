@@ -1,0 +1,15 @@
+{
+  "query": "While practising for his upcoming math exams, Hayes realised that the area of a circle he had just solved was equal to the perimeter of a square he had solved in the previous problem. If the area of the circle was 100, what's the length of one side of the square?",
+  "steps": [
+    "I start by considering what is given in the problem: the area of the circle is 100.",
+    "The formula for the area of a circle is \\(A = \\pi r^2\\).",
+    "Using the area given, I plug it into the formula: \\(100 = \\pi r^2\\).",
+    "To find \\(r^2\\), I divide both sides by \\(\\pi\\): \\(r^2 = \\frac{100}{\\pi}\\).",
+    "Now, I consider the information that this area (100) is equal to the perimeter of the square.",
+    "The perimeter of a square is given by the formula \\(P = 4s\\), where \\(s\\) is the length of one side of the square.",
+    "I set up the equation for the perimeter of the square: \\(4s = 100\\).",
+    "To find \\(s\\), I divide both sides by 4: \\(s = \\frac{100}{4}\\).",
+    "Performing the division, I find \\(s = 25\\)."
+  ],
+  "solution": "25"
+}

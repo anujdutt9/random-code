@@ -1,0 +1,15 @@
+{
+  "query": "Carolyn is planning out her final essay. The introduction will be 450 words, the conclusion will be triple the length of the introduction, and each of the four body sections will be the same length. If her essay has to be 5000 words total, how long is each section?",
+  "steps": [
+    "I need to find out the total word count Carolyn needs for her body sections.",
+    "The introduction is 450 words long.",
+    "The conclusion is triple the length of the introduction.",
+    "Triple the introduction is \\(3 \\times 450 = 1350\\) words.",
+    "The introduction and conclusion together are \\(450 + 1350 = 1800\\) words.",
+    "The total essay should be 5000 words.",
+    "Subtract the words used in the introduction and conclusion from the total to find the words required for the body sections: \\(5000 - 1800 = 3200\\) words.",
+    "There are four body sections, and they are all the same length.",
+    "Divide the remaining 3200 words equally among the four body sections: \\(\\frac{3200}{4} = 800\\) words per section."
+  ],
+  "solution": "800"
+}

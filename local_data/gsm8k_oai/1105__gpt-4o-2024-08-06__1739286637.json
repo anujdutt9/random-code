@@ -1,0 +1,17 @@
+{
+  "query": "Gina had $400. She gave 1/4 of her money to her mom,  used 1/8  of her money to buy clothes,  gave 1/5 of her money to a charity,  and kept the remaining money. How much did Gina keep?",
+  "steps": [
+    "Gina starts with $400.",
+    "First, I will determine how much money Gina gave to her mom. Gina gave 1/4 of her money to her mom. So, I'll calculate 1/4 of $400.",
+    "1/4 of $400 is $400 * 1/4 = $100.",
+    "Next, I will calculate how much money Gina used to buy clothes. She used 1/8 of her money for clothes. So, I'll calculate 1/8 of $400.",
+    "1/8 of $400 is $400 * 1/8 = $50.",
+    "Next, I will calculate how much money Gina gave to a charity. She gave 1/5 of her money to charity. So, I'll calculate 1/5 of $400.",
+    "1/5 of $400 is $400 * 1/5 = $80.",
+    "Now I will add up all the amounts Gina spent or gave away: $100 to her mom, $50 on clothes, and $80 to charity.",
+    "$100 + $50 + $80 = $230.",
+    "Gina spent a total of $230. Now I will calculate how much money she kept by subtracting what she spent from her initial $400.",
+    "$400 - $230 = $170."
+  ],
+  "solution": "170"
+}

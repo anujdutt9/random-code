@@ -1,0 +1,14 @@
+{
+  "query": "James needs 200 blueberries to make a pint of blueberry jam and then a quart of blueberry jam to make a blueberry pie. If there are two pints per quart, how many blueberries does James need to pick to make 6 pies?",
+  "steps": [
+    "James needs 200 blueberries for one pint of blueberry jam.",
+    "There are two pints in a quart.",
+    "So, to make a quart of blueberry jam, James needs 200 blueberries per pint multiplied by 2.",
+    "200 blueberries/pint * 2 pints/quart = 400 blueberries per quart.",
+    "To make one pie, James needs one quart of blueberry jam, so he needs 400 blueberries.",
+    "James wants to make 6 pies.",
+    "Therefore, he needs 400 blueberries per pie * 6 pies.",
+    "400 * 6 = 2400 blueberries."
+  ],
+  "solution": "2400"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "John decides to get a new apartment with a roommate.  His former rent was $2 per square foot for a 750 square foot apartment.  His new apartment cost $2800 per month, which he splits evenly with the roommate.  How much money does he save a year?",
+  "steps": [
+    "First, I need to find out how much John was paying for his former apartment.",
+    "His former rent was $2 per square foot.",
+    "The size of his former apartment was 750 square feet.",
+    "To find the total cost of the former apartment, I multiply the price per square foot by the number of square feet: $2 * 750.",
+    "$2 * 750 = $1500 per month.",
+    "Next, I need to determine how much John pays for the new apartment.",
+    "The total cost of the new apartment is $2800 per month.",
+    "John splits the rent evenly with his roommate.",
+    "So, John pays $2800 / 2.",
+    "$2800 / 2 = $1400 per month.",
+    "Now, I calculate the monthly savings by subtracting the new rent from the former rent.",
+    "$1500 (former rent) - $1400 (new rent) = $100 saved per month.",
+    "Finally, I need to calculate the annual savings by multiplying the monthly savings by 12.",
+    "$100 per month * 12 months = $1200 saved per year."
+  ],
+  "solution": "1200"
+}

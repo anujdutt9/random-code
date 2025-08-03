@@ -1,0 +1,17 @@
+{
+  "query": "Polly the parakeet tweets all day long.  When she is happy, she tweets 18 times per minute.  When she is hungry, she tweets 4 times per minute.  And when she watches herself in the mirror, she tweets 45 times per minute.  During a time period where she is happy for 20 minutes, hungry for 20 minutes, and watches her reflection for 20 minutes, what is the total number of times she will tweet?",
+  "steps": [
+    "First, I need to determine how many times Polly tweets during the 20 minutes she is happy.",
+    "When Polly is happy, she tweets 18 times per minute.",
+    "Therefore, in 20 minutes, Polly will tweet 18 times/minute * 20 minutes = 360 times.",
+    "Next, I need to calculate the number of tweets when Polly is hungry.",
+    "When Polly is hungry, she tweets 4 times per minute.",
+    "Thus, in 20 minutes, Polly will tweet 4 times/minute * 20 minutes = 80 times.",
+    "Now, I will calculate how many times Polly tweets while watching her reflection.",
+    "When Polly watches her reflection, she tweets 45 times per minute.",
+    "In 20 minutes, Polly will tweet 45 times/minute * 20 minutes = 900 times.",
+    "Finally, I will add up all the tweets from the different activities to find the total.",
+    "Polly tweets a total of 360 + 80 + 900 = 1340 times in 60 minutes."
+  ],
+  "solution": "1340"
+}

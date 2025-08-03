@@ -1,0 +1,19 @@
+{
+  "query": "Tom decides to lease a car.  He drives 50 miles on Monday, Wednesday, and Friday, and Sunday for the rest of the days he drives 100 miles.  He has to pay $.1 per mile he drives.  He also has to pay a weekly fee of $100.  How much does he have to pay in a year.",
+  "steps": [
+    "First, I need to determine how many miles Tom drives each week.",
+    "On Mondays, Wednesdays, Fridays, and Sundays, he drives 50 miles each day.",
+    "So, the total miles for these four days = 4 days * 50 miles = 200 miles.",
+    "On the rest of the days, which are Tuesday, Thursday, and Saturday, he drives 100 miles each day.",
+    "So, the total miles for these three days = 3 days * 100 miles = 300 miles.",
+    "Therefore, the total number of miles driven in a week = 200 miles + 300 miles = 500 miles.",
+    "Now, I need to calculate the weekly cost for the miles driven, which is $0.1 per mile.",
+    "Cost per week for miles = 500 miles * $0.1 = $50.",
+    "He also has to pay a fixed weekly fee of $100.",
+    "Total weekly payment = $50 (mileage cost) + $100 (weekly fee) = $150.",
+    "Now, I need to calculate the total cost for the whole year.",
+    "There are typically 52 weeks in a year.",
+    "Total annual cost = 52 weeks * $150 = $7800."
+  ],
+  "solution": "7800"
+}

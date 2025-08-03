@@ -1,0 +1,11 @@
+{
+  "query": "Question: A bus traveled 280 kilometers between two cities. It left the first city at 3:00 p.m. and arrived at the second city at 7:00 p.m. What was the average speed of the bus during the trip?\n\nChoices:\nA: 4 km/h\nB: 40 km/h\nC: 70 km/h\nD: 280 km/h",
+  "steps": [
+    "First, calculate the total travel time by finding the difference between the departure and arrival times. The bus left at 3:00 p.m. and arrived at 7:00 p.m.",
+    "From 3:00 p.m. to 7:00 p.m. is a total of 4 hours.",
+    "Next, use the formula for average speed, which is total distance divided by total time. The total distance traveled is 280 kilometers.",
+    "Now, divide the distance (280 km) by the travel time (4 hours) to find the average speed: \\( \\text{Average Speed} = \\frac{280 \\text{ km}}{4 \\text{ hours}} \\).",
+    "Calculating this gives \\( 70 \\text{ km/h} \\)."
+  ],
+  "solution": "C"
+}

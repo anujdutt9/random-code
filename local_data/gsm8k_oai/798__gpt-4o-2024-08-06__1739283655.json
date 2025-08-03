@@ -1,0 +1,17 @@
+{
+  "query": "Patsy is gearing up for this weekend\u2019s graduation.  She needs to have 6 appetizers per each of her 30 guests.  She\u2019s making 3 dozen deviled eggs, 2 dozen pigs in a blanket and 2 dozen kebabs.  How many more dozen appetizers does she need to make?",
+  "steps": [
+    "First, I need to find the total number of appetizers required. Patsy wants 6 appetizers per guest and she is expecting 30 guests.",
+    "Calculate the total appetizers needed: 6 appetizers/guest * 30 guests = 180 appetizers.",
+    "Next, I need to calculate the total number of appetizers she is already planning to make.",
+    "Each dozen contains 12 appetizers. So, calculate the total appetizers from each type:",
+    "3 dozen deviled eggs: 3 * 12 = 36 appetizers.",
+    "2 dozen pigs in a blanket: 2 * 12 = 24 appetizers.",
+    "2 dozen kebabs: 2 * 12 = 24 appetizers.",
+    "Add the appetizers she is planning to make: 36 (deviled eggs) + 24 (pigs in a blanket) + 24 (kebabs) = 84 appetizers.",
+    "Now, find out how many more appetizers she needs to make: 180 (needed) - 84 (already planned) = 96 more appetizers required.",
+    "I need to convert the additional 96 appetizers needed into dozens. Since 1 dozen equals 12 appetizers, I will divide by 12.",
+    "96 appetizers / 12 = 8 dozen."
+  ],
+  "solution": "8"
+}

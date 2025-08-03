@@ -1,0 +1,18 @@
+{
+  "query": "If Beth had $35 more, she would have $105. If Jan had $10 less, he would have the same money as Beth has. How much money do Beth and Jan have altogether?",
+  "steps": [
+    "Beth has $35 less than $105.",
+    "To find out how much Beth has, I subtract $35 from $105.",
+    "$105 - $35 = $70.",
+    "So, Beth has $70.",
+    "If Jan had $10 less, he would have the same amount as Beth, which is $70.",
+    "I need to find out how much money Jan actually has.",
+    "To find how much Jan has, I add $10 to $70.",
+    "$70 + $10 = $80.",
+    "Jan has $80.",
+    "Now, I will calculate the total amount of money Beth and Jan have together.",
+    "Beth has $70 and Jan has $80.",
+    "$70 + $80 = $150."
+  ],
+  "solution": "150"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "Jill and her brother Jack are going apple picking.  Jill's basket can hold twice as much as Jack's basket when both are full.  Jack's basket is full when it has 12 apples, but currently space for 4 more.  How many times could Jack's current number of apples fit into Jill's basket?",
+  "steps": [
+    "Jack's basket is full when it has 12 apples.",
+    "Currently, Jack's basket has space for 4 more apples.",
+    "Therefore, Jack currently has 12 - 4 = 8 apples.",
+    "Jill's basket can hold twice as much as Jack's basket when both are full.",
+    "Jack's basket can hold 12 apples when full, so Jill's basket can hold 2 * 12 = 24 apples when full.",
+    "Jack currently has 8 apples.",
+    "To find out how many times Jack's current number of apples can fit into Jill's basket, I need to divide the capacity of Jill's basket by Jack's current number of apples.",
+    "So, I calculate 24 \u00f7 8 = 3."
+  ],
+  "solution": "3"
+}

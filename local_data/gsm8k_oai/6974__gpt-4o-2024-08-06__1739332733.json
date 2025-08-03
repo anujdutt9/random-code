@@ -1,0 +1,13 @@
+{
+  "query": "There are four members in one household. Each member consumes 3 slices of bread during breakfast and 2 slices of bread for snacks. A loaf of bread has 12 slices. How many days will five loaves of bread last in this family?",
+  "steps": [
+    "First, I need to calculate the total consumption of bread slices per day for all four members.",
+    "Each member consumes 3 slices for breakfast and 2 for snacks. That\u2019s 3 + 2 = 5 slices per member per day.",
+    "Since there are 4 members, the household consumes 4 x 5 = 20 slices of bread per day.",
+    "Next, I need to calculate the total number of slices in five loaves of bread.",
+    "Each loaf contains 12 slices, so 5 loaves contain 5 x 12 = 60 slices of bread.",
+    "I need to determine how many days 60 slices will last if the household consumes 20 slices per day.",
+    "Dividing the total slices by the daily consumption gives 60 slices \u00f7 20 slices per day = 3 days."
+  ],
+  "solution": "3"
+}

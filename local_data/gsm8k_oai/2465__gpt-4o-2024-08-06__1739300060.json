@@ -1,0 +1,16 @@
+{
+  "query": "A bird is building a nest from twigs. The bird has put twelve twigs together already to make a circle. For each twig it placed into the circle, it wants to weave in six more twigs to fill out the nest. It knows a tree that has dropped a third of the twigs it needs. How many twigs will the bird still need to find to finish its nest?",
+  "steps": [
+    "First, I need to determine the number of additional twigs needed for each twig in the circle.",
+    "Since each circle twig needs six more twigs, and there are twelve twigs in the circle, I calculate the total additional twigs required by multiplying 12 by 6.",
+    "12 twigs * 6 twigs = 72 twigs.",
+    "So, the bird needs 72 more twigs to add to the existing circle to complete its nest.",
+    "Next, I need to determine how many twigs the bird has already found from the tree.",
+    "The bird has found a third of the twigs it needs. Therefore, I need to calculate a third of the 72 additional twigs.",
+    "72 twigs / 3 = 24 twigs.",
+    "The bird has 24 twigs available from the tree.",
+    "Now, I calculate how many more twigs the bird still needs to collect by subtracting the 24 twigs it has from the total 72 twigs required.",
+    "72 twigs - 24 twigs = 48 twigs."
+  ],
+  "solution": "48"
+}

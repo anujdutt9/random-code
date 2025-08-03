@@ -1,0 +1,18 @@
+{
+  "query": "Thomas is making hummus. One of the ingredients in a hummus recipe is chickpeas. For one serving of hummus, the recipe calls for 1 cup of chickpeas. In a can of chickpeas, there are 16 ounces of chickpeas. In one cup of chickpeas, there are 6 ounces. To make 20 servings, how many cans of chickpeas should Thomas buy?",
+  "steps": [
+    "First, I need to determine how many cups of chickpeas are needed for 20 servings of hummus.",
+    "The recipe calls for 1 cup of chickpeas per serving.",
+    "Therefore, for 20 servings, Thomas needs 20 cups of chickpeas.",
+    "Next, I need to convert the 20 cups of chickpeas into ounces to determine how many ounces are required.",
+    "Since each cup of chickpeas weighs 6 ounces, I can calculate the total ounces needed by multiplying 20 cups by 6 ounces per cup.",
+    "20 cups * 6 ounces/cup = 120 ounces.",
+    "Now, I need to determine how many cans of chickpeas Thomas would need based on the weight of chickpeas in each can.",
+    "Each can of chickpeas contains 16 ounces.",
+    "To find out how many cans are needed, I divide the total ounces required by the ounces per can.",
+    "120 ounces / 16 ounces per can = 7.5 cans.",
+    "Since Thomas cannot purchase half a can, he will need to round up to the nearest whole number of cans.",
+    "Therefore, Thomas needs to buy 8 cans of chickpeas to have enough for 20 servings."
+  ],
+  "solution": "8"
+}

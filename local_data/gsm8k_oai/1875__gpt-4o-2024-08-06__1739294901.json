@@ -1,0 +1,14 @@
+{
+  "query": "Tom's rabbit can run at 25 miles per hour.  His cat can run 20 miles per hour.  The cat gets a 15-minute head start.  In hours, how long will it take for the rabbit to catch up?",
+  "steps": [
+    "The rabbit runs at 25 miles per hour.",
+    "The cat runs at 20 miles per hour.",
+    "The cat gets a 15-minute head start.",
+    "15 minutes is 15/60 hours, which simplifies to 1/4 hour.",
+    "In 1/4 hour, the distance the cat covers is its speed multiplied by the time: 20 miles per hour * 1/4 hour = 5 miles.",
+    "We need to find out how long it takes the rabbit to catch up the 5-mile distance.",
+    "The rabbit is running 5 miles per hour faster than the cat (25 - 20 = 5 miles per hour).",
+    "Since the rabbit needs to cover 5 miles at a rate of 5 miles per hour, we divide the distance by the speed difference: 5 miles / 5 miles per hour = 1 hour."
+  ],
+  "solution": "1"
+}

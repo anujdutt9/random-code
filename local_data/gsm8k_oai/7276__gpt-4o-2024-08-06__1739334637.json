@@ -1,0 +1,21 @@
+{
+  "query": "The bowl of fruit contains apples, pears, and bananas. There are two more pears than apples, and three more bananas than pears.  If the bowl contains 19 pieces of fruit, how many bananas does it contain?",
+  "steps": [
+    "I need to find how many bananas are in the bowl of fruit.",
+    "Let's assign variables to the quantities of fruit.",
+    "Let A be the number of apples.",
+    "Then, since there are two more pears than apples, P = A + 2.",
+    "There are three more bananas than pears, so B = P + 3.",
+    "The total number of fruit pieces is 19, so A + P + B = 19.",
+    "Now I substitute P = A + 2 into the equation: A + (A + 2) + B = 19.",
+    "Substituting P into B: B = (A + 2) + 3 = A + 5.",
+    "Now substitute B = A + 5 back into the equation: A + (A + 2) + (A + 5) = 19.",
+    "This simplifies to: 3A + 7 = 19.",
+    "Subtract 7 from both sides: 3A = 12.",
+    "Divide by 3: A = 4. So there are 4 apples.",
+    "Find the number of pears, using P = A + 2: P = 4 + 2 = 6.",
+    "Now find the number of bananas, using B = A + 5: B = 4 + 5 = 9.",
+    "I've found that the bowl has 9 bananas."
+  ],
+  "solution": "9"
+}

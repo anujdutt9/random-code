@@ -1,0 +1,17 @@
+{
+  "query": "To win a brand new Bible at Tom Sawyer's Sunday school, a pupil has to win 10 yellow tickets; each yellow ticket is obtained by trading in 10 red tickets; each red ticket is obtained by trading in 10 blue tickets; and blue tickets are earned by memorizing two Bible verses. But rather than go to all that trouble, Tom Sawyer has traded various toys and treasures of his with his friends until he has gathered 8 yellow, 3 red, and 7 blue tickets. How many more blue tickets would he need to earn to win a new Bible?",
+  "steps": [
+    "Tom currently has 8 yellow tickets.",
+    "He needs 10 yellow tickets to win a Bible.",
+    "He is 2 yellow tickets short.",
+    "Each yellow ticket requires 10 red tickets.",
+    "To get 2 more yellow tickets, he needs 2 * 10 = 20 red tickets.",
+    "Tom currently has 3 red tickets.",
+    "He is 20 - 3 = 17 red tickets short.",
+    "Each red ticket requires 10 blue tickets.",
+    "To earn 17 more red tickets, he needs 17 * 10 = 170 blue tickets.",
+    "Tom currently has 7 blue tickets.",
+    "He needs 170 - 7 = 163 more blue tickets to earn enough red tickets to get 2 more yellow tickets."
+  ],
+  "solution": "163"
+}

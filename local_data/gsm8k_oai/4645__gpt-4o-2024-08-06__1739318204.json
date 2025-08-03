@@ -1,0 +1,17 @@
+{
+  "query": "There are 50 marbles in a box which has a mixture of white, red and blue marbles. There were originally 20 white marbles and an equal number of red and blue marbles. Jack removes a number of marbles equal to double the difference between the number of white marbles and the number of blue marbles. How many marbles are left in the box?",
+  "steps": [
+    "I start by identifying the variables: I have white, red, and blue marbles with a total of 50 marbles.",
+    "From the given information, there were originally 20 white marbles.",
+    "The remaining marbles are red and blue, which together total 30 (i.e., 50 - 20).",
+    "It is stated that the number of red and blue marbles is equal.",
+    "So, if R = B, then R + B = 30 implies R = 15 and B = 15.",
+    "Jack removes a number of marbles equal to double the difference between the number of white marbles and the number of blue marbles.",
+    "The number of white marbles is 20 and the number of blue marbles is 15.",
+    "The difference between the number of white marbles and blue marbles is 20 - 15 = 5.",
+    "Double the difference means 2 * 5 = 10 marbles will be removed.",
+    "Initially, there are 50 marbles in the box.",
+    "After removing 10 marbles, the number of marbles left in the box is 50 - 10 = 40."
+  ],
+  "solution": "40"
+}

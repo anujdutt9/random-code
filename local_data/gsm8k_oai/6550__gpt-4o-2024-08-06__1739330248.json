@@ -1,0 +1,18 @@
+{
+  "query": "In a car dealership with 600 cars, 60% of the cars are hybrids, and 40% of the hybrids contain only one headlight. How many of the hybrids have full headlights?",
+  "steps": [
+    "First, I need to determine how many of the 600 cars are hybrids.",
+    "Since 60% of the cars are hybrids, I need to multiply 600 by 60%.",
+    "60% as a decimal is 0.60.",
+    "Calculating the number of hybrids: 600 * 0.60 = 360.",
+    "Next, I need to determine how many of these 360 hybrids have only one headlight.",
+    "40% of the hybrids have only one headlight.",
+    "I will multiply 360 by 40% to find the number of hybrids with one headlight.",
+    "40% as a decimal is 0.40.",
+    "Calculating the number of hybrids with one headlight: 360 * 0.40 = 144.",
+    "To find the number of hybrids with full headlights, I subtract the ones with one headlight from the total hybrids.",
+    "360 hybrids minus 144 hybrids with one headlight equals the number of hybrids with full headlights.",
+    "360 - 144 = 216."
+  ],
+  "solution": "216"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Alexis has four times as many mangoes as Dilan and Ashley combined. If Alexis has 60 mangoes, how many mangoes does all of them have combined?",
+  "steps": [
+    "First, let's define the variables to keep track of the mangoes each person has. Let D represent the number of mangoes Dilan has, A represent the number of mangoes Ashley has, and X represent the number of mangoes Alexis has.",
+    "We know that Alexis has 60 mangoes, so X = 60.",
+    "According to the problem, Alexis has four times as many mangoes as Dilan and Ashley combined. Therefore, X = 4 * (D + A).",
+    "Since we know X = 60, we can set up the equation: 60 = 4 * (D + A).",
+    "To find D + A, we need to solve the equation: (D + A) = 60 / 4.",
+    "60 divided by 4 equals 15. So, D + A = 15.",
+    "Now we know that Alexis has 60 mangoes and Dilan and Ashley combined have 15 mangoes.",
+    "To find the total number of mangoes they have combined, we add Alexis's mangoes with the combined count of Dilan and Ashley.",
+    "The total number of mangoes they have combined is 60 + 15 = 75."
+  ],
+  "solution": "75"
+}

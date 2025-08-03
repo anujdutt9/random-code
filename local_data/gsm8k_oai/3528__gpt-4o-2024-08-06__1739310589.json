@@ -1,0 +1,19 @@
+{
+  "query": "Samira is the assistant coach of a soccer team playing against one of the best teams in their league. She has four dozen water bottles filled with water in a box. In the first break of the match, the 11 players on the field each take two bottles of water from Samira's box, and at the end of the game, take one more bottle each. How many bottles of water are remaining in Samira's box?",
+  "steps": [
+    "First, I need to determine the total number of water bottles Samira has initially. She's got four dozen water bottles.",
+    "One dozen is equal to 12, so four dozen would be 4 multiplied by 12.",
+    "Calculating that gives 4 * 12 = 48 water bottles.",
+    "Next, I need to consider the bottles taken during the first break of the match. Each of the 11 players takes 2 bottles.",
+    "The total number of bottles taken during the first break is 11 * 2.",
+    "That's 22 bottles taken during the first break.",
+    "Now, I should consider the bottles taken at the end of the game. Each of the 11 players takes 1 more bottle.",
+    "The total number of bottles taken at the end of the game is 11 * 1.",
+    "That's 11 bottles taken at the end of the game.",
+    "Now I need to sum the bottles taken during the first break and at the end of the game: 22 + 11.",
+    "Adding those together gives a total of 33 bottles taken.",
+    "Finally, I subtract the total number of bottles taken (33) from the initial number of bottles Samira had (48).",
+    "Calculating that gives 48 - 33 = 15."
+  ],
+  "solution": "15"
+}

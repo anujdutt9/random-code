@@ -1,0 +1,25 @@
+{
+  "query": "In Alaska the commercial Cod fishing season runs from January 1 - August 1 lasting exactly 7 months, or 213 days on a non-leap year.  Two fishermen are competing against each other to see who can earn more profit.  The first fisherman plans to catch fish at a steady rate of 3 per day for the entire season.  The second fisherman is a novice who will need to start more slowly. He plans to catch only 1 fish per day during the first 30 days, 2 fish per day during the next 60 days, and then 4 fish per day during the remainder of the season.  At the end of the season, how many more fish will be caught by the fisherman who catches the higher number of fish?",
+  "steps": [
+    "First, I will calculate the total number of fish caught by the first fisherman.",
+    "The first fisherman catches fish at a steady rate of 3 fish per day for the entire season, which lasts 213 days.",
+    "To find the total number of fish caught by the first fisherman, I will multiply the number of fish caught per day by the total number of days in the season: 3 fish/day * 213 days = 639 fish.",
+    "Next, I will calculate the total number of fish caught by the second fisherman, who has a different plan.",
+    "The second fisherman plans to catch 1 fish per day for the first 30 days.",
+    "For the first 30 days, the total number of fish caught by the second fisherman is: 1 fish/day * 30 days = 30 fish.",
+    "The second fisherman then plans to catch 2 fish per day for the next 60 days.",
+    "For the next 60 days, the total number of fish caught is: 2 fish/day * 60 days = 120 fish.",
+    "Finally, the second fisherman plans to catch 4 fish per day for the remainder of the season.",
+    "I need to calculate the remaining days of the season after the first 90 days (30 days + 60 days).",
+    "The total season lasts 213 days, and 90 days have already been accounted for, so the remaining days are: 213 days - 90 days = 123 days.",
+    "During these remaining 123 days, the second fisherman catches 4 fish per day.",
+    "The total number of fish caught in these 123 days is: 4 fish/day * 123 days = 492 fish.",
+    "Now, I will add up all the fish caught by the second fisherman.",
+    "The total number of fish caught by the second fisherman is: 30 fish (first 30 days) + 120 fish (next 60 days) + 492 fish (last 123 days) = 642 fish.",
+    "Now, I will compare the total number of fish caught by each fisherman to determine who caught more fish.",
+    "The first fisherman caught 639 fish, and the second fisherman caught 642 fish.",
+    "The second fisherman caught more fish than the first fisherman.",
+    "To determine how many more fish the second fisherman caught than the first fisherman, I will subtract the number caught by the first fisherman from the number caught by the second fisherman: 642 fish - 639 fish = 3 fish."
+  ],
+  "solution": "3"
+}

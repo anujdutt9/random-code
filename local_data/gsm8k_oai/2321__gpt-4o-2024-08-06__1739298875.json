@@ -1,0 +1,14 @@
+{
+  "query": "Pete walked 5 blocks from his house to the bus garage in Houston. He rode the bus 20 blocks to the post office to get some stamps. Later, he came home the same way. How many blocks did Pete travel in all?",
+  "steps": [
+    "Pete initially walked 5 blocks from his house to the bus garage.",
+    "Pete then rode the bus 20 blocks to the post office.",
+    "To return home, Pete took the same route back. This means he rode the bus 20 blocks from the post office back to the bus garage.",
+    "After getting off the bus, he walked 5 blocks back home from the bus garage.",
+    "Now, I need to add all these distances together.",
+    "The total number of blocks Pete walked is 5 blocks (to the bus garage) + 5 blocks (back home) = 10 blocks.",
+    "The total number of blocks Pete rode on the bus is 20 blocks (to the post office) + 20 blocks (back to the bus garage) = 40 blocks.",
+    "Therefore, the total number of blocks Pete traveled in all is 10 blocks (walking) + 40 blocks (bus) = 50 blocks."
+  ],
+  "solution": "50"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Micah bought envelopes to send, and depending on the weight of the envelope he will need more stamps. If an envelope weighs more than 5 pounds, he will need 5 stamps. If it weighs less than that, it will only need 2 stamps. If he bought 52 stamps with 6 envelopes that weigh less than 5 pounds, how many envelopes in total did Micah need to buy?",
+  "steps": [
+    "I need to determine how many stamps are required for the envelopes that weigh less than 5 pounds.",
+    "Each envelope that weighs less than 5 pounds requires 2 stamps.",
+    "Micah bought 6 envelopes that weigh less than 5 pounds.",
+    "I calculate the total number of stamps needed for these 6 envelopes by multiplying 6 by 2.",
+    "6 envelopes * 2 stamps/envelope = 12 stamps.",
+    "Since Micah bought 52 stamps in total, I subtract the 12 stamps used for the envelopes that weigh less than 5 pounds to see how many stamps are left.",
+    "52 total stamps - 12 stamps = 40 stamps remaining.",
+    "Now, these remaining 40 stamps must be for the envelopes that weigh more than 5 pounds.",
+    "Each envelope that weighs more than 5 pounds requires 5 stamps.",
+    "To find out how many envelopes weigh more than 5 pounds, I divide the remaining 40 stamps by 5 stamps per envelope.",
+    "40 stamps / 5 stamps per envelope = 8 envelopes that weigh more than 5 pounds.",
+    "I have 8 envelopes that weigh more than 5 pounds and 6 envelopes that weigh less than 5 pounds.",
+    "I add these two quantities together to find out the total number of envelopes Micah bought.",
+    "8 + 6 = 14 envelopes."
+  ],
+  "solution": "14"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "Mr. Zubir bought a pair of pants, a shirt, and a coat. The pair of pants and shirt costs $100. The pants and coat cost $244. The coat costs 5 times as much as the shirt. How much did Mr. Zubir pay for his coat?",
+  "steps": [
+    "Let's assign variables to the unknowns for easier handling of the relationships. Let the price of the pants be \\( P \\), the price of the shirt be \\( S \\), and the price of the coat be \\( C \\).",
+    "From the problem statement, the pants and the shirt together cost $100, which gives us the equation: \n\\( P + S = 100 \\).",
+    "We are also told that the pants and the coat together cost $244, which gives us another equation:\n\\( P + C = 244 \\).",
+    "Another piece of information is that the coat costs five times as much as the shirt, leading to the equation:\n\\( C = 5S \\).",
+    "We now have three equations: \n1. \\( P + S = 100 \\).\n2. \\( P + C = 244 \\).\n3. \\( C = 5S \\).",
+    "Let's substitute the value of \\( C \\) from the third equation into the second equation:\n\\( P + 5S = 244 \\).",
+    "Now we have a system of two equations with two variables:\n1. \\( P + S = 100 \\).\n2. \\( P + 5S = 244 \\).",
+    "Subtract the first equation from the second equation to eliminate \\( P \\):\n\\( (P + 5S) - (P + S) = 244 - 100 \\).",
+    "This simplifies to:\n\\( 4S = 144 \\).",
+    "Divide both sides by 4 to solve for \\( S \\):\n\\( S = 36 \\).",
+    "Now that we have the value for the shirt \\( S \\), we can find the price of the coat using \\( C = 5S \\):\n\\( C = 5 \\times 36 \\).",
+    "Calculate:\n\\( C = 180 \\).",
+    "Therefore, Mr. Zubir paid $180 for his coat."
+  ],
+  "solution": "180"
+}

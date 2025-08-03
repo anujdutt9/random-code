@@ -1,0 +1,23 @@
+{
+  "query": "Logan makes $65,000 a year. He spends $20,000 on rent every year, $5000 on groceries every year, and $8000 on gas every year. If he wants to have at least $42000 left, how much more money must he make each year?",
+  "steps": [
+    "First, I need to find out how much Logan currently spends in total each year.",
+    "Logan spends $20,000 on rent every year.",
+    "He spends $5,000 on groceries every year.",
+    "He spends $8,000 on gas every year.",
+    "To find the total annual expenses, I add up all these amounts: $20,000 + $5,000 + $8,000.",
+    "$20,000 + $5,000 = $25,000.",
+    "$25,000 + $8,000 = $33,000.",
+    "Logan spends a total of $33,000 each year.",
+    "Next, I need to calculate how much money Logan has left after these expenses with his current income.",
+    "Logan's current income is $65,000 per year.",
+    "Subtract the total expenses from Logan's income: $65,000 - $33,000.",
+    "$65,000 - $33,000 = $32,000.",
+    "Logan currently has $32,000 left after his expenses each year.",
+    "Logan wants to have at least $42,000 left.",
+    "I need to determine the shortfall between how much Logan wants left and how much he currently has: $42,000 - $32,000.",
+    "$42,000 - $32,000 = $10,000.",
+    "Logan needs to make an additional $10,000 each year to have at least $42,000 left."
+  ],
+  "solution": "10,000"
+}

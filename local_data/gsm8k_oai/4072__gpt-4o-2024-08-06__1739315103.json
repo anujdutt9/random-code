@@ -1,0 +1,17 @@
+{
+  "query": "A cake has 8 slices and each slice contains 347 calories.  A pan of brownies has 6 brownies and each slice contains 375 calories.  How many more calories does the cake have?",
+  "steps": [
+    "First, I need to find the total number of calories in the cake.",
+    "There are 8 slices of cake, each containing 347 calories.",
+    "To calculate the total calories in the cake, I multiply 8 slices by 347 calories per slice.",
+    "8 slices x 347 calories/slice = 2776 calories.",
+    "Next, I need to find the total number of calories in the pan of brownies.",
+    "There are 6 brownies, each containing 375 calories.",
+    "To calculate the total calories in the pan of brownies, I multiply 6 brownies by 375 calories per brownie.",
+    "6 brownies x 375 calories/brownie = 2250 calories.",
+    "Now, I need to find how many more calories the cake has compared to the brownies.",
+    "I subtract the total calories of the brownies from the total calories of the cake.",
+    "2776 calories (cake) - 2250 calories (brownies) = 526 calories."
+  ],
+  "solution": "526"
+}

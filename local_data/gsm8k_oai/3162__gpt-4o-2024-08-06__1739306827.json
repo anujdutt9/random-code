@@ -1,0 +1,21 @@
+{
+  "query": "If I give my brother 2 marbles I will have double his number of marbles, but my friend will have triple the number I do. The total number of marbles we have together is 63. How many marbles do I have?",
+  "steps": [
+    "Let's assign variables to the number of marbles each person has. Let M be the number of marbles I have, B be the number my brother has, and F be the number my friend has.",
+    "According to the problem, if I give my brother 2 marbles, I will have double his number of marbles. Let's express this condition mathematically: M - 2 = 2(B + 2).",
+    "Additionally, the problem states that my friend has triple the number of marbles I do after the transaction: F = 3(M - 2).",
+    "The total number of marbles we collectively have is 63. Therefore, M + B + F = 63.",
+    "First, let's solve the equation M - 2 = 2(B + 2). Expanding gives M - 2 = 2B + 4.",
+    "Rearranging gives M = 2B + 6.",
+    "Next, let's address F = 3(M - 2). Substituting M = 2B + 6 into M - 2: F = 3((2B + 6) - 2).",
+    "Simplifying gives F = 3(2B + 4) = 6B + 12.",
+    "Now substitute M and F into the total equation M + B + F = 63: (2B + 6) + B + (6B + 12) = 63.",
+    "This simplifies to 9B + 18 = 63.",
+    "Subtract 18 from both sides: 9B = 45.",
+    "Dividing both sides by 9 gives B = 5.",
+    "Now substitute B = 5 into M = 2B + 6: M = 2(5) + 6 = 10 + 6 = 16.",
+    "So I have 16 marbles. Let's verify by checking F: F = 6B + 12 = 6(5) + 12 = 30 + 12 = 42.",
+    "Check the total: M + B + F = 16 + 5 + 42 = 63. The conditions match."
+  ],
+  "solution": "16"
+}

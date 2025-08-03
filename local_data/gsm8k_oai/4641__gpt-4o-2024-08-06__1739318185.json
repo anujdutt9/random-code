@@ -1,0 +1,18 @@
+{
+  "query": "There were 10000 spectators at a basketball match. 7000 of them were men. Of the remaining spectators, there were 5 times as many children as women. How many children were there?",
+  "steps": [
+    "Start by calculating the number of spectators that were not men.",
+    "There were 10000 total spectators and 7000 were men, so 10000 - 7000 = 3000 spectators were not men.",
+    "The remaining spectators consist of women and children.",
+    "Let the number of women be W.",
+    "According to the problem, there are 5 times as many children as women. This means the number of children is 5W.",
+    "The total number of spectators who are not men is the sum of women and children: W + 5W.",
+    "This simplifies to 6W.",
+    "We know that 6W = 3000.",
+    "To find the number of women, solve for W: W = 3000 / 6.",
+    "So, W = 500.",
+    "Now, find the number of children, which is 5 times the number of women.",
+    "The number of children is 5 * 500 = 2500."
+  ],
+  "solution": "2500"
+}

@@ -1,0 +1,11 @@
+{
+  "query": "Question: Paul observes four different samples of water. He records the temperature and volume of each sample. Which of his samples contains the greatest amount of thermal energy?\n\nChoices:\nA: 100 mL of 10\u00b0C water\nB: 100 mL of 25\u00b0C water\nC: 5 liters of 10\u00b0C water\nD: 5 liters of 25\u00b0C water",
+  "steps": [
+    "First, we need to understand that thermal energy in a substance is dependent on both the temperature and the volume of the substance.",
+    "Thermal energy can be approximated using the formula: Thermal Energy = Mass x Specific Heat Capacity x Temperature. Since we're dealing with water, we can assume the specific heat capacity is constant.",
+    "Next, we should convert the volumes into liters or a consistent unit to compare them easily. The samples given are already in terms of milliliters and liters.",
+    "Now, let's calculate the amount of thermal energy for each sample:\n- A: 100 mL (0.1 L) of 10\u00b0C water: Low temperature and low volume.\n- B: 100 mL (0.1 L) of 25\u00b0C water: Higher temperature but the same low volume as A.\n- C: 5 liters of 10\u00b0C water: Higher volume but lower temperature.\n- D: 5 liters of 25\u00b0C water: Highest volume and highest temperature.",
+    "We can compare the energy by considering the products of volume and temperature. \n- For A, Thermal Energy is low because of low temperature (10\u00b0C).\n- For B, Thermal Energy is also low because it has low volume (100mL) despite higher temperature (25\u00b0C).\n- For C, the thermal energy is moderate because of high volume (5L) but low temperature (10\u00b0C).\n- For D, the thermal energy is the highest because it has both the high volume (5L) and the high temperature (25\u00b0C)."
+  ],
+  "solution": "D"
+}

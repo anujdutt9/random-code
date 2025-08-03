@@ -1,0 +1,15 @@
+{
+  "query": "Tom charges a fee of $100 a day to search for an item for the first 5 days and then $60 per day for every day after that.  How much did it cost for him to look for an item for 10 days?",
+  "steps": [
+    "Tom charges $100 per day for the first 5 days.",
+    "For the first 5 days, the cost is 5 days * $100 per day.",
+    "5 days * $100 per day = $500.",
+    "Tom charges $60 per day for every day after the first 5 days.",
+    "He searches for an additional 5 days after the initial 5 days, as he searched for 10 days in total.",
+    "For these additional 5 days, the cost is 5 days * $60 per day.",
+    "5 days * $60 per day = $300.",
+    "Now, add the cost for the first 5 days to the cost of the additional 5 days.",
+    "$500 (first 5 days) + $300 (additional 5 days) = $800."
+  ],
+  "solution": "800"
+}

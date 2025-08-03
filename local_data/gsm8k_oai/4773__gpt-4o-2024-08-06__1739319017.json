@@ -1,0 +1,14 @@
+{
+  "query": "The hospital has 11 doctors and 18 nurses. If 5 doctors and 2 nurses quit, how many doctors and nurses are left?",
+  "steps": [
+    "I know the hospital originally had 11 doctors.",
+    "I also know the hospital originally had 18 nurses.",
+    "I need to subtract 5 doctors who quit from the original 11 doctors.",
+    "11 doctors - 5 doctors = 6 doctors left.",
+    "Now I need to subtract 2 nurses who quit from the original 18 nurses.",
+    "18 nurses - 2 nurses = 16 nurses left.",
+    "Now, I will add the number of doctors and nurses who are left.",
+    "6 doctors + 16 nurses = 22 people left."
+  ],
+  "solution": "22"
+}

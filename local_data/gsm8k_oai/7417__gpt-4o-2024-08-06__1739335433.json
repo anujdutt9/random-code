@@ -1,0 +1,15 @@
+{
+  "query": "Max fills up water balloons for 30 minutes at a rate of 2 water balloons every minute. Max\u2019s friend Zach fills up water balloons for 40 minutes at a rate of 3 water balloons every minute. In the process, 10 of the water balloons pop on the ground. How many filled water balloons do Max and Zach have in total?",
+  "steps": [
+    "Max fills up water balloons for 30 minutes.",
+    "He fills up 2 water balloons every minute.",
+    "So, in 30 minutes, Max fills up 30 \u00d7 2 = 60 water balloons.",
+    "Zach fills up water balloons for 40 minutes.",
+    "He fills up 3 water balloons every minute.",
+    "So, in 40 minutes, Zach fills up 40 \u00d7 3 = 120 water balloons.",
+    "Adding together the water balloons filled by Max and Zach, we have 60 + 120 = 180 water balloons.",
+    "10 of the water balloons pop on the ground.",
+    "The total number of filled water balloons after popping is 180 - 10 = 170."
+  ],
+  "solution": "170"
+}

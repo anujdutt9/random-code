@@ -1,0 +1,21 @@
+{
+  "query": "Jason bought a new bookcase that can hold a maximum of 80 pounds of weight. Jason has 70 hardcover books that each weigh half a pound, 30 textbooks that each weigh 2 pounds, and 3 knick-knacks that each weight 6 pounds. How many pounds over the bookcase's weight limit is this total collection of items?",
+  "steps": [
+    "First, I need to determine the total weight of the hardcover books.",
+    "There are 70 hardcover books, and each weighs 0.5 pounds.",
+    "The total weight of the hardcover books is 70 books * 0.5 pounds per book = 35 pounds.",
+    "Next, I need to calculate the total weight of the textbooks.",
+    "There are 30 textbooks, and each weighs 2 pounds.",
+    "The total weight of the textbooks is 30 books * 2 pounds per book = 60 pounds.",
+    "Now, I need to calculate the total weight of the knick-knacks.",
+    "There are 3 knick-knacks, and each weighs 6 pounds.",
+    "The total weight of the knick-knacks is 3 items * 6 pounds per item = 18 pounds.",
+    "I will now add the weights of the hardcover books, textbooks, and knick-knacks to find the total weight of all items.",
+    "The total weight is 35 pounds (hardcover books) + 60 pounds (textbooks) + 18 pounds (knick-knacks) = 113 pounds.",
+    "Next, I need to find out how many pounds over the bookcase's weight limit this total weight is.",
+    "The bookcase's weight limit is 80 pounds.",
+    "The total weight of the items is 113 pounds, which is over the weight limit.",
+    "To find how many pounds over the limit, I subtract the weight limit from the total weight: 113 pounds - 80 pounds = 33 pounds."
+  ],
+  "solution": "33"
+}

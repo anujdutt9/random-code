@@ -1,0 +1,21 @@
+{
+  "query": "Bill gets a flat-screen TV that measures 48 inches by 100 inches. His brother Bob gets a TV that measures 70 inches by 60 inches. If the TVs weigh 4 oz per square inch of screen space, how much more does the heavier TV weigh in pounds? (There are 16 ounces per pound).",
+  "steps": [
+    "First, I need to calculate the area of Bill's TV.",
+    "The area of Bill's TV is 48 inches multiplied by 100 inches.",
+    "48 x 100 = 4800 square inches. This is the area of Bill's TV.",
+    "Next, I need to calculate the area of Bob's TV.",
+    "The area of Bob's TV is 70 inches multiplied by 60 inches.",
+    "70 x 60 = 4200 square inches. This is the area of Bob's TV.",
+    "Now, I need to calculate the weight of Bill's TV by multiplying the area by the weight per square inch.",
+    "4800 square inches x 4 ounces per square inch = 19200 ounces. This is the weight of Bill's TV.",
+    "Next, I calculate the weight of Bob's TV using the same method.",
+    "4200 square inches x 4 ounces per square inch = 16800 ounces. This is the weight of Bob's TV.",
+    "I need to compare the weights to find the heavier TV. Bill's TV weighs 19200 ounces, and Bob's TV weighs 16800 ounces.",
+    "Bill's TV is heavier. I need to find out how much more it weighs than Bob's TV.",
+    "19200 ounces - 16800 ounces = 2400 ounces. Bill's TV weighs 2400 ounces more than Bob's TV.",
+    "To convert the difference in weight from ounces to pounds, I divide by 16 since there are 16 ounces per pound.",
+    "2400 ounces / 16 = 150 pounds. The heavier TV weighs 150 pounds more."
+  ],
+  "solution": "150"
+}

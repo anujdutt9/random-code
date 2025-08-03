@@ -1,0 +1,16 @@
+{
+  "query": "Karen had the giant box of crayons, containing twice as many crayons as were in Beatrice's box. But Beatrice's box contained twice as many crayons as were in Gilbert's box of crayons. And Gilbert had four times as many crayons as were in Judah's box of crayons. If Karen's box contained 128 crayons, how many crayons were in Judah's box?",
+  "steps": [
+    "Karen's box contains 128 crayons.",
+    "Karen's box contains twice as many crayons as Beatrice's box.",
+    "To find the number of crayons in Beatrice's box, divide the number of crayons in Karen's box by 2.",
+    "128 crayons / 2 = 64 crayons. Beatrice's box contains 64 crayons.",
+    "Beatrice's box contains twice as many crayons as Gilbert's box.",
+    "To find the number of crayons in Gilbert's box, divide the number of crayons in Beatrice's box by 2.",
+    "64 crayons / 2 = 32 crayons. Gilbert's box contains 32 crayons.",
+    "Gilbert's box contains four times as many crayons as Judah's box.",
+    "To find the number of crayons in Judah's box, divide the number of crayons in Gilbert's box by 4.",
+    "32 crayons / 4 = 8 crayons. Judah's box contains 8 crayons."
+  ],
+  "solution": "8"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "In a class of 25 students, students were asked if they like French fries, burgers, or neither. 15 students said they like French fries and 10 said they like burgers, with these statistics including the responses of 6 students who said they like both French fries and burgers. How many students do not like either food?",
+  "steps": [
+    "I need to find out how many students do not like either French fries or burgers.",
+    "First, let's determine how many students like only French fries.",
+    "The total number of students who like French fries is 15, which includes those who like both French fries and burgers.",
+    "6 students like both French fries and burgers, so the number of students who like only French fries is 15 - 6 = 9.",
+    "Next, I need to find out how many students like only burgers.",
+    "The total number of students who like burgers is 10, which also includes those who like both.",
+    "Therefore, the number of students who like only burgers is 10 - 6 = 4.",
+    "Now, let's calculate the total number of students who like either French fries or burgers or both.",
+    "Add the students who like only French fries (9) to those who like only burgers (4) and those who like both (6).",
+    "So, the number of students who like French fries or burgers or both is 9 + 4 + 6 = 19.",
+    "Finally, to find how many students do not like either food, subtract the number of students who like either food from the total number of students.",
+    "So, the number of students who do not like either food is 25 - 19 = 6."
+  ],
+  "solution": "6"
+}

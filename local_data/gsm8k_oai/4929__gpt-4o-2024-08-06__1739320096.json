@@ -1,0 +1,19 @@
+{
+  "query": "John has just turned 39.  3 years ago, he was twice as old as James will be in 6 years.  If James' older brother is 4 years older than James, how old is James' older brother?",
+  "steps": [
+    "John's current age is 39 because he has just turned 39.",
+    "Three years ago, John was 39 - 3 = 36 years old.",
+    "According to the problem, three years ago, John was twice as old as James will be in 6 years.",
+    "Let's denote James's current age as J.",
+    "In 6 years, James will be J + 6 years old.",
+    "Since John was twice as old as James will be in 6 years, we set up the equation: 36 = 2 \u00d7 (J + 6).",
+    "Now let's solve for J. First, divide both sides of the equation by 2: 36 \u00f7 2 = J + 6.",
+    "18 = J + 6.",
+    "Subtract 6 from both sides to find the current age of James: 18 - 6 = J.",
+    "J = 12, so James is currently 12 years old.",
+    "James' older brother is 4 years older than James.",
+    "Therefore, James' older brother is 12 + 4 years old.",
+    "James' older brother is 16 years old."
+  ],
+  "solution": "16"
+}

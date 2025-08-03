@@ -1,0 +1,19 @@
+{
+  "query": "The bus driver drives an average of 2 hours each day, 5 days a week. From Monday to Wednesday he drove at an average speed of 12 kilometers per hour, and from Thursday to Friday at an average speed of 9 kilometers per hour. How many kilometers did the driver travel during these 5 days?",
+  "steps": [
+    "First, I need to find out the total driving time for the 5 days.",
+    "The driver drives 2 hours a day for 5 days.",
+    "So, the total hours of driving for 5 days is 2 hours/day * 5 days = 10 hours.",
+    "Next, I'll calculate the distance traveled from Monday to Wednesday.",
+    "The driver drove at an average speed of 12 kilometers per hour for these 3 days.",
+    "The total driving time for Monday to Wednesday is 2 hours/day * 3 days = 6 hours.",
+    "The distance traveled from Monday to Wednesday is 12 kilometers/hour * 6 hours = 72 kilometers.",
+    "Now, I'll calculate the distance traveled from Thursday to Friday.",
+    "The driver drove at an average speed of 9 kilometers per hour for these 2 days.",
+    "The total driving time for Thursday to Friday is 2 hours/day * 2 days = 4 hours.",
+    "The distance traveled from Thursday to Friday is 9 kilometers/hour * 4 hours = 36 kilometers.",
+    "Finally, I'll find the total distance traveled over the 5 days.",
+    "The total distance traveled is 72 kilometers (Mon-Wed) + 36 kilometers (Thu-Fri)."
+  ],
+  "solution": "108"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Darry is a roofer and has to climb ladders multiple times a day. He climbs his full ladder, which has 11 steps, 10 times today. He also climbs his smaller ladder, which has 6 steps, 7 times today. He did not climb any steps otherwise. In total, how many times has Darry climbed a step today?",
+  "steps": [
+    "First, I need to figure out how many total steps Darry climbs using the full ladder.",
+    "The full ladder has 11 steps.",
+    "Darry climbs the full ladder 10 times today.",
+    "To find the total steps climbed with the full ladder, multiply the steps per climb by the number of climbs: 11 steps * 10 climbs.",
+    "11 * 10 = 110. So, Darry climbs 110 steps using the full ladder.",
+    "Next, I need to calculate the total number of steps climbed using the smaller ladder.",
+    "The smaller ladder has 6 steps.",
+    "Darry climbs the smaller ladder 7 times today.",
+    "To find the total steps climbed with the smaller ladder, multiply the steps per climb by the number of climbs: 6 steps * 7 climbs.",
+    "6 * 7 = 42. So, Darry climbs 42 steps using the smaller ladder.",
+    "Finally, to find the total number of steps Darry climbed today, I add the steps climbed with both ladders: 110 from the full ladder and 42 from the smaller ladder.",
+    "110 + 42 = 152."
+  ],
+  "solution": "152"
+}

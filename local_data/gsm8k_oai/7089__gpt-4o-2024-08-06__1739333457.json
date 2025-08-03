@@ -1,0 +1,16 @@
+{
+  "query": "Zach rented a car for $150 plus 50 cents for each mile. He drove 620 miles on Monday and another 744 miles on Thursday. How much did he spend?",
+  "steps": [
+    "First, I need to calculate the total number of miles Zach drove. He drove 620 miles on Monday.",
+    "He also drove 744 miles on Thursday.",
+    "To find the total miles, I add the miles driven on Monday and Thursday: 620 + 744.",
+    "620 + 744 equals 1364 miles.",
+    "Next, I need to calculate the cost of driving 1364 miles at 50 cents per mile.",
+    "50 cents can be expressed as $0.50. Now, I'll multiply the total miles by the cost per mile: 1364 miles * $0.50.",
+    "1364 * 0.50 equals $682.",
+    "The rental cost of the car was $150.",
+    "To find the total amount Zach spent, I add the rental cost to the mileage cost: $150 + $682.",
+    "$150 + $682 equals $832."
+  ],
+  "solution": "832"
+}

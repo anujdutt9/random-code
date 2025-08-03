@@ -1,0 +1,20 @@
+{
+  "query": "Mitch is a freelancer, she works 5 hours every day from Monday to Friday and 3 hours every Saturday and Sunday. If she earns $3 per hour and earns double on weekends, how much does she earn every week?",
+  "steps": [
+    "First, calculate the total number of hours Mitch works from Monday to Friday.",
+    "Mitch works 5 hours per day from Monday to Friday, which is 5 days.",
+    "Calculate total weekday hours: 5 hours/day * 5 days = 25 hours.",
+    "Now calculate the total number of hours Mitch works on Saturday and Sunday.",
+    "Mitch works 3 hours per day on Saturday and Sunday, which is 2 days.",
+    "Calculate total weekend hours: 3 hours/day * 2 days = 6 hours.",
+    "Calculate Mitch's earnings for weekdays.",
+    "On weekdays, Mitch earns $3 per hour.",
+    "Weekday earnings: 25 hours * $3/hour = $75.",
+    "Calculate Mitch's earnings for weekends.",
+    "On weekends, Mitch earns double, which is $3 * 2 = $6 per hour.",
+    "Weekend earnings: 6 hours * $6/hour = $36.",
+    "Add the weekday and weekend earnings to find the total weekly earnings.",
+    "Total weekly earnings: $75 + $36 = $111."
+  ],
+  "solution": "111"
+}

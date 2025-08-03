@@ -1,0 +1,13 @@
+{
+  "query": "Clayton plays basketball on a team. He has played three games so far. In the first game, he scored 10 points. In the second game, he scored 14 points. In the third game, he scored 6 points. In the fourth game, he scored the average of his points from the first three games.  How many total points did Clayton score during the first four games?",
+  "steps": [
+    "First, I need to find the average of Clayton's scores from the first three games.",
+    "The scores from the first three games are: 10 points, 14 points, and 6 points.",
+    "I will add these scores together: 10 + 14 + 6 = 30 points.",
+    "Next, I will divide the total score from the first three games by the number of games to find the average: 30 points / 3 games = 10 points per game.",
+    "In the fourth game, Clayton scored the average of his points from the first three games, which is 10 points.",
+    "Now I will add the scores from all four games to find the total score: 10 + 14 + 6 + 10.",
+    "Adding these together: 10 + 14 = 24, then 24 + 6 = 30, and finally 30 + 10 = 40 points."
+  ],
+  "solution": "40"
+}

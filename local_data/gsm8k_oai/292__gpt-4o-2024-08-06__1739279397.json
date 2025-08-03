@@ -1,0 +1,14 @@
+{
+  "query": "May can knit 3 scarves using one yarn. She bought 2 red yarns, 6 blue yarns, and 4 yellow yarns. How many scarves will she be able to make in total?",
+  "steps": [
+    "I first need to figure out how many scarves May can make with each type of yarn.",
+    "May can knit 3 scarves from one yarn.",
+    "May has 2 red yarns, and since she can make 3 scarves from one yarn, with 2 red yarns, she can make 2 * 3 = 6 red scarves.",
+    "For blue yarns, she has 6 of them. Thus, she can make 6 * 3 = 18 blue scarves.",
+    "For yellow yarns, she has 4 of them. She can make 4 * 3 = 12 yellow scarves.",
+    "Now I will add up all the scarves she can make from each yarn color: 6 red scarves + 18 blue scarves + 12 yellow scarves.",
+    "6 + 18 = 24.",
+    "24 + 12 = 36."
+  ],
+  "solution": "36"
+}

@@ -1,0 +1,22 @@
+{
+  "query": "Tom opens an amusement park.  It cost $100,000 to open initially.  It also cost 1% of that to run per day.  He sells 150  tickets a day for $10 each.  How long will it take to make back his money?",
+  "steps": [
+    "First, I need to calculate the daily running cost of the amusement park.",
+    "The initial cost to open the park is $100,000.",
+    "The daily operating cost is 1% of $100,000.",
+    "1% of $100,000 is $1,000.",
+    "Now, I calculate the daily revenue from selling tickets.",
+    "Tom sells 150 tickets a day, and each ticket costs $10.",
+    "The daily revenue is 150 tickets multiplied by $10 each.",
+    "150 times $10 equals $1,500.",
+    "Next, I find the daily profit by subtracting the daily running cost from the daily revenue.",
+    "The daily revenue is $1,500, and the daily cost is $1,000.",
+    "By subtracting $1,000 from $1,500, I get a daily profit of $500.",
+    "Tom needs to make back his initial investment of $100,000.",
+    "I need to find out how many days it will take for the daily profit of $500 to equal $100,000.",
+    "I divide the initial investment, $100,000, by the daily profit, $500.",
+    "$100,000 divided by $500 equals 200.",
+    "Therefore, it will take Tom 200 days to make back his money."
+  ],
+  "solution": "200"
+}

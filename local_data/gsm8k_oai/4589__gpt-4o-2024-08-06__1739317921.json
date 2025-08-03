@@ -1,0 +1,19 @@
+{
+  "query": "Every Halloween one house in the neighborhood gives out toothbrushes instead of candy, so it always gets egged and covered in toilet paper. If the owner spends 15 seconds cleaning up each egg and 30 minutes cleaning up each roll of toilet paper, how long (in minutes) will they have to spend cleaning up 60 eggs and 7 rolls of toilet paper?",
+  "steps": [
+    "First, I need to determine how long it takes to clean up the eggs.",
+    "There are 60 eggs and each egg takes 15 seconds to clean up.",
+    "I will multiply 60 (the number of eggs) by 15 seconds (the time per egg) to find out the total time in seconds needed to clean up eggs.",
+    "60 eggs * 15 seconds/egg = 900 seconds.",
+    "Next, I need to convert the total time spent cleaning eggs from seconds into minutes.",
+    "There are 60 seconds in a minute, so I will divide 900 seconds by 60.",
+    "900 seconds \u00f7 60 = 15 minutes.",
+    "Now, I calculate the time required to clean up the rolls of toilet paper.",
+    "There are 7 rolls of toilet paper and it takes 30 minutes to clean up each roll.",
+    "I will multiply 7 (the number of rolls) by 30 minutes (the time per roll).",
+    "7 rolls * 30 minutes/roll = 210 minutes.",
+    "Finally, I will add the time spent cleaning eggs to the time spent cleaning toilet paper to get the total cleanup time.",
+    "15 minutes (eggs) + 210 minutes (toilet paper) = 225 minutes."
+  ],
+  "solution": "225"
+}

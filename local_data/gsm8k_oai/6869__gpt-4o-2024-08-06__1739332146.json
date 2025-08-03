@@ -1,0 +1,19 @@
+{
+  "query": "William and Harry played 15 rounds of tic-tac-toe.  William won 5 more rounds than Harry.  How many rounds did William win?",
+  "steps": [
+    "Let W represent the number of rounds William won.",
+    "Let H represent the number of rounds Harry won.",
+    "According to the problem, W = H + 5.",
+    "The total number of rounds played is given as 15.",
+    "Therefore, the equation is W + H = 15.",
+    "Substitute the value of W from the equation W = H + 5 into the W + H = 15 equation.",
+    "This gives (H + 5) + H = 15.",
+    "Combine like terms to get 2H + 5 = 15.",
+    "Subtract 5 from both sides to get 2H = 10.",
+    "Divide both sides by 2 to solve for H: H = 5.",
+    "Substitute the value of H back into the W = H + 5 equation.",
+    "This gives W = 5 + 5.",
+    "Therefore, W = 10."
+  ],
+  "solution": "10"
+}

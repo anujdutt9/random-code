@@ -1,0 +1,15 @@
+{
+  "query": "Cat Cafe Meow has 3 times as many cats as Cat Cafe Paw. Cat Cafe Paw has 2 times as many cats as Cat Cafe Cool. If Cat Cafe Cool has 5 cats, how many cats are there in Cat Cafe Meow and Cat Cafe Paw?",
+  "steps": [
+    "Start by determining the number of cats in Cat Cafe Cool, which is given as 5 cats.",
+    "Cat Cafe Paw has 2 times as many cats as Cat Cafe Cool.",
+    "Calculate the number of cats in Cat Cafe Paw by multiplying the number of cats in Cat Cafe Cool by 2.",
+    "5 cats in Cat Cafe Cool times 2 equals 10 cats in Cat Cafe Paw.",
+    "Cat Cafe Meow has 3 times as many cats as Cat Cafe Paw.",
+    "Calculate the number of cats in Cat Cafe Meow by multiplying the number of cats in Cat Cafe Paw by 3.",
+    "10 cats in Cat Cafe Paw times 3 equals 30 cats in Cat Cafe Meow.",
+    "Add the number of cats in Cat Cafe Meow and Cat Cafe Paw to find the total number of cats in both cafes.",
+    "30 cats in Cat Cafe Meow plus 10 cats in Cat Cafe Paw equals 40 cats in total."
+  ],
+  "solution": "40"
+}

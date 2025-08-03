@@ -1,0 +1,14 @@
+{
+  "query": "Darrel is an experienced tracker.  He can tell a lot about an animal by the footprints it leaves behind.  One day he saw a set of coyote footprints.  Based on the impressions, he could tell the animal was traveling east at 15 miles per hour, and that the animal left the prints 1 hour ago.  If the coyote continues to travel east at 15 miles per hour, and Darrell hops on his motorbike and travels east at 30 miles per hour, how long, in hours, will it take for Darrel to catch up to the coyote?",
+  "steps": [
+    "The coyote was moving east at 15 miles per hour, and it left the footprints 1 hour ago.",
+    "In 1 hour, the coyote would have traveled 15 miles (since speed is 15 mph and time is 1 hour).",
+    "Currently, the coyote is 15 miles away from the starting point where Darrel found the footprints.",
+    "Darrel is now starting to follow the coyote on his motorbike, traveling at 30 miles per hour.",
+    "Both are moving in the same direction (east).",
+    "Darrel's speed is 30 mph, and the coyote's speed is 15 mph. The relative speed of Darrel with respect to the coyote is 30 - 15 = 15 mph.",
+    "Since the coyote is 15 miles ahead, at a relative speed of 15 mph, Darrel will close the gap by 1 mile each 1/15 hour.",
+    "To close a gap of 15 miles at 15 miles per hour relative speed, it will take 15 / 15 = 1 hour."
+  ],
+  "solution": "1"
+}

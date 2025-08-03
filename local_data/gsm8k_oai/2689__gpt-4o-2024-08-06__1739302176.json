@@ -1,0 +1,18 @@
+{
+  "query": "Devin teaches one math course per year. He taught Calculus for 4 years, Algebra for twice as many years, and Statistics for 5 times as long as he taught Algebra. How many years has Devin taught?",
+  "steps": [
+    "Let's start by identifying how many years Devin taught each subject.",
+    "Devin taught Calculus for 4 years.",
+    "He taught Algebra for twice as many years as Calculus.",
+    "Since he taught Calculus for 4 years, then he taught Algebra for 2 * 4 = 8 years.",
+    "Devin taught Statistics for 5 times as long as he taught Algebra.",
+    "Since he taught Algebra for 8 years, then he taught Statistics for 5 * 8 = 40 years.",
+    "To find the total number of years he taught, we need to add up the years he taught each subject.",
+    "Calculus years = 4",
+    "Algebra years = 8",
+    "Statistics years = 40",
+    "Total years = 4 (Calculus) + 8 (Algebra) + 40 (Statistics)",
+    "Total years = 4 + 8 + 40 = 52"
+  ],
+  "solution": "52"
+}

@@ -1,0 +1,23 @@
+{
+  "query": "The pirates plan to explore 4 islands. Two islands require walking 20 miles per day while the other two islands require 25 miles per day. How many miles will they have to walk if it takes 1.5 days to explore each island?",
+  "steps": [
+    "First, I need to understand the problem. The pirates will explore 4 islands, and each exploration requires walking a certain number of miles per day.",
+    "Two islands require walking 20 miles per day.",
+    "The other two islands require walking 25 miles per day.",
+    "It takes 1.5 days to explore each island.",
+    "For the first type of island, I need to calculate the total miles walked in 1.5 days.",
+    "The miles walked for one island requiring 20 miles per day would be 20 miles/day * 1.5 days.",
+    "This calculation equals 30 miles.",
+    "There are two islands requiring 20 miles per day, so I need to multiply 30 miles by 2.",
+    "The total miles walked on the two 20-mile per day islands is 60 miles.",
+    "Now, I'll calculate the total miles walked on the islands requiring 25 miles per day.",
+    "The miles walked for one island requiring 25 miles per day would be 25 miles/day * 1.5 days.",
+    "This calculation equals 37.5 miles.",
+    "There are two islands requiring 25 miles per day, so I need to multiply 37.5 miles by 2.",
+    "The total miles walked on the two 25-mile per day islands is 75 miles.",
+    "Finally, I need to add both totals together to get the total miles walked for all islands.",
+    "The total miles walked for all islands is 60 miles + 75 miles.",
+    "This addition equals 135 miles."
+  ],
+  "solution": "135"
+}

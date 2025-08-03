@@ -1,0 +1,19 @@
+{
+  "query": "Each purple book has 230 pages. Each orange book contains 510 pages. Mirella read 5 purple books and 4 orange books. How many more orange pages did she read than purple pages?",
+  "steps": [
+    "First, I need to calculate the total number of pages Mirella read from the purple books.",
+    "Each purple book has 230 pages and Mirella read 5 purple books.",
+    "So, the total number of purple pages is 5 books * 230 pages per book.",
+    "5 * 230 equals 1150.",
+    "Mirella read 1150 purple pages.",
+    "Next, I need to calculate the total number of pages Mirella read from the orange books.",
+    "Each orange book contains 510 pages and Mirella read 4 orange books.",
+    "So, the total number of orange pages is 4 books * 510 pages per book.",
+    "4 * 510 equals 2040.",
+    "Mirella read 2040 orange pages.",
+    "Now, I need to calculate how many more orange pages Mirella read than purple pages.",
+    "The difference is the total orange pages minus the total purple pages.",
+    "2040 orange pages - 1150 purple pages equals 890."
+  ],
+  "solution": "890"
+}

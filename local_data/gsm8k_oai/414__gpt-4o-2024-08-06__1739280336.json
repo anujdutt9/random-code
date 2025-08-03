@@ -1,0 +1,26 @@
+{
+  "query": "John drinks 2 energy drinks. 1 of them is a 12-ounce drink with 250 grams of caffeine.  The second drink is 3 times more caffeinated per ounce but only 2 ounces.  He then takes a caffeine pill that has as much caffeine as his 2 drinks combined.  How much caffeine did he consume?",
+  "steps": [
+    "First, I need to find the caffeine content per ounce in the first drink.",
+    "The first drink is 12 ounces with 250 grams of caffeine.",
+    "To find the caffeine per ounce, I divide 250 grams by 12 ounces.",
+    "250 grams \u00f7 12 ounces = 20.8333 grams per ounce.",
+    "Now, I'll consider the second drink.",
+    "The second drink is 3 times more caffeinated per ounce compared to the first drink.",
+    "So, I multiply the caffeine per ounce of the first drink by 3.",
+    "20.8333 grams per ounce \u00d7 3 = 62.5 grams per ounce.",
+    "The second drink is only 2 ounces.",
+    "I calculate the total caffeine in the second drink by multiplying the caffeine per ounce by the number of ounces.",
+    "62.5 grams per ounce \u00d7 2 ounces = 125 grams.",
+    "Next, I find the total caffeine in both drinks combined.",
+    "The first drink contains 250 grams of caffeine.",
+    "The second drink contains 125 grams of caffeine.",
+    "I add the caffeine content of both drinks.",
+    "250 grams + 125 grams = 375 grams.",
+    "John also takes a caffeine pill with as much caffeine as the 2 drinks combined.",
+    "The caffeine pill contains 375 grams of caffeine.",
+    "Finally, I calculate the total caffeine consumption by adding the caffeine from both drinks and the caffeine pill.",
+    "375 grams (drinks) + 375 grams (pill) = 750 grams."
+  ],
+  "solution": "750"
+}

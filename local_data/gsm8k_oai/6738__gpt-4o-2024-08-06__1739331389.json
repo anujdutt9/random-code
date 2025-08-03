@@ -1,0 +1,12 @@
+{
+  "query": "Beth is a scuba diver.  She is excavating a sunken ship off the coast of a small Caribbean island and she must remain underwater for long periods.  Her primary tank, which she wears when she first enters the water, has enough oxygen to allow her to stay underwater for 2 hours.  She also has several 1-hour supplemental tanks that she takes with her as well as stores on the ocean floor so she can change tanks underwater without having to come up to the surface.  She will need to be underwater for 8 hours.  How many supplemental tanks will she need?",
+  "steps": [
+    "Beth's primary tank allows her to be underwater for 2 hours.",
+    "Beth needs to be underwater for a total of 8 hours.",
+    "First, subtract the time provided by the primary tank from the total time needed: 8 hours - 2 hours = 6 hours.",
+    "Beth has to account for the remaining 6 hours with supplemental tanks.",
+    "Each supplemental tank provides 1 additional hour underwater.",
+    "To cover the 6 remaining hours, calculate the number of supplemental tanks needed: 6 hours / 1 hour per tank = 6 tanks."
+  ],
+  "solution": "6"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "There are 200 snakes in a park. There are three times as many pythons as boa constrictors. If there 40 boa constrictors and the rest of the snakes are rattlesnakes, calculate the total number of rattlesnakes in the park.",
+  "steps": [
+    "First, I need to find the number of boa constrictors in the park. The question states there are 40 boa constrictors.",
+    "Next, according to the problem, there are three times as many pythons as boa constrictors.",
+    "To find the number of pythons, I multiply the number of boa constrictors by 3.",
+    "So, the number of pythons is 40 * 3 = 120.",
+    "Now, I have the number of boa constrictors and pythons. Boa constrictors = 40, Pythons = 120.",
+    "To find the total number of rattlesnakes, I need to subtract the sum of boa constrictors and pythons from the total number of snakes.",
+    "The total number of snakes in the park is 200.",
+    "Adding boa constrictors and pythons together gives 40 + 120 = 160.",
+    "Subtracting the number of boa constrictors and pythons from the total number of snakes gives 200 - 160 = 40.",
+    "Thus, there are 40 rattlesnakes in the park."
+  ],
+  "solution": "40"
+}

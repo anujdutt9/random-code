@@ -1,0 +1,18 @@
+{
+  "query": "Karen is a dog groomer. Rottweilers take 20 minutes to groom, border collies take 10 minutes to groom, and chihuahuas take 45 minutes to groom because they ferociously resist. How many minutes will it take Karen to groom 6 Rottweilers, 9 border collies and 1 chihuahua?",
+  "steps": [
+    "First, I need to calculate the total time taken to groom the Rottweilers.",
+    "There are 6 Rottweilers and each takes 20 minutes to groom.",
+    "The total time for the Rottweilers is 6 times 20 minutes, which is 6 * 20 = 120 minutes.",
+    "Next, I calculate the total time taken for the border collies.",
+    "There are 9 border collies and each takes 10 minutes to groom.",
+    "The total time for the border collies is 9 times 10 minutes, which is 9 * 10 = 90 minutes.",
+    "Now, I calculate the time taken for the chihuahua.",
+    "There is 1 chihuahua which takes 45 minutes to groom.",
+    "So, the total time for the chihuahua is 45 minutes.",
+    "Finally, I add all these times together to get the total grooming time.",
+    "Total time = 120 minutes (Rottweilers) + 90 minutes (border collies) + 45 minutes (chihuahua).",
+    "120 + 90 + 45 = 255 minutes."
+  ],
+  "solution": "255"
+}

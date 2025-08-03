@@ -1,0 +1,21 @@
+{
+  "query": "Tickets to the school play cost $6 for students and $8 for adults. If 20 students and 12 adults bought tickets, how many dollars' worth of tickets were sold?",
+  "steps": [
+    "First, I need to calculate the total ticket sales from the students.",
+    "The cost of a ticket for a student is $6.",
+    "There are 20 students who bought tickets.",
+    "To find the total sales from students, multiply the number of students by the cost per student: 20 students * $6/student.",
+    "20 * 6 = 120.",
+    "So, the total sales from student tickets is $120.",
+    "Next, I need to calculate the total ticket sales from the adults.",
+    "The cost of a ticket for an adult is $8.",
+    "There are 12 adults who bought tickets.",
+    "To find the total sales from adults, multiply the number of adults by the cost per adult: 12 adults * $8/adult.",
+    "12 * 8 = 96.",
+    "So, the total sales from adult tickets is $96.",
+    "Now, I need to add the total sales from students and adults to find the total ticket sales overall.",
+    "120 (from students) + 96 (from adults) = 216.",
+    "The total dollars' worth of tickets sold is $216."
+  ],
+  "solution": "216"
+}

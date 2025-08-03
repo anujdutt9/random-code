@@ -1,0 +1,14 @@
+{
+  "query": "Mark realizes that a lot of the friends on his friends list are people he doesn't talk to anymore.  He keeps 40% of his friends list and then contacts the rest.  Of those only 50% respond.  He removes everyone who did not respond.  If he had 100 friends how many does he have left after the removal?",
+  "steps": [
+    "Mark starts with 100 friends.",
+    "He keeps 40% of his friends list.",
+    "40% of 100 is 0.40 * 100 = 40 friends.",
+    "He contacts the remaining friends, which is 100 - 40 = 60 friends.",
+    "Of those contacted, only 50% respond.",
+    "50% of 60 friends is 0.50 * 60 = 30 friends.",
+    "Mark removes the friends who did not respond. He gets responses from 30 friends.",
+    "The total number of friends left is the friends he kept plus those who responded, which is 40 + 30 = 70 friends."
+  ],
+  "solution": "70"
+}

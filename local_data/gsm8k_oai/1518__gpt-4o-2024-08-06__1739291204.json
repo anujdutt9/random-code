@@ -1,0 +1,18 @@
+{
+  "query": "A mum ordered 80 cupcakes for her daughter's birthday. Half of them are gluten-free. There are 24 vegan cupcakes and half of them are also gluten-free.  How many are non-vegan cupcakes that also contain gluten?",
+  "steps": [
+    "First, I need to determine how many cupcakes are gluten-free. According to the problem, half of the 80 cupcakes are gluten-free.",
+    "To calculate the number of gluten-free cupcakes, I divide 80 by 2, which gives me 40 gluten-free cupcakes.",
+    "Next, I need to determine how many cupcakes are vegan. The problem states that there are 24 vegan cupcakes.",
+    "The problem also mentions that half of the vegan cupcakes are gluten-free. So, I need to divide the 24 vegan cupcakes by 2 to find out how many vegan cupcakes are gluten-free.",
+    "24 divided by 2 is 12. This means there are 12 vegan cupcakes that are gluten-free.",
+    "Now, I need to find out how many total cupcakes contain gluten. I know that there are 40 gluten-free cupcakes, so the remaining cupcakes contain gluten.",
+    "To find the number of cupcakes that contain gluten, I subtract the number of gluten-free cupcakes from the total number of cupcakes (80 - 40).",
+    "80 - 40 equals 40, so there are 40 cupcakes that contain gluten.",
+    "Among these gluten-containing cupcakes, I need to calculate how many are non-vegan. Since we know that 12 of the gluten-free cupcakes are vegan, I subtract this from the number of all vegan cupcakes.",
+    "24 (vegan cupcakes) minus 12 (gluten-free vegan cupcakes) equals 12. This means there are 12 vegan cupcakes that contain gluten.",
+    "Finally, to find how many are non-vegan cupcakes that contain gluten, I subtract the 12 vegan gluten-containing cupcakes from the 40 total gluten-containing cupcakes.",
+    "40 (gluten-containing cupcakes) minus 12 (vegan gluten-containing cupcakes) equals 28."
+  ],
+  "solution": "28"
+}

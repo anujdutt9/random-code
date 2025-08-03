@@ -1,0 +1,16 @@
+{
+  "query": "John used to go to the gym multiple times a weak but because of lockdowns he hasn't been able to go.  He used to lift 700 for squat, 400 for bench, and 800 for deadlift.  For squat he lost 30% of his lift.  He didn't lose any weight on bench because he was able to train that at home and he lost 200 pounds on deadlift.  What is his new total?",
+  "steps": [
+    "John's original squat lift was 700 pounds.",
+    "John lost 30% of his squat lift.",
+    "30% of 700 is calculated as 0.30 * 700 = 210 pounds.",
+    "John's new squat weight is 700 - 210 = 490 pounds.",
+    "John's bench press did not change, so it remains at 400 pounds.",
+    "John's original deadlift was 800 pounds.",
+    "John lost 200 pounds on his deadlift.",
+    "John's new deadlift weight is 800 - 200 = 600 pounds.",
+    "Now, add the new squat, bench press, and deadlift weights to find John's new total.",
+    "The calculation is 490 + 400 + 600 = 1490 pounds."
+  ],
+  "solution": "1490"
+}

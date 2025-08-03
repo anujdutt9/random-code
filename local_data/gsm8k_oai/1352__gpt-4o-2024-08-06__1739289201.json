@@ -1,0 +1,15 @@
+{
+  "query": "A fan can create an airflow of 10 liters per second. If the fan works for 10 minutes each day, calculate the amount of airflow it will create in one week.",
+  "steps": [
+    "First, I need to determine the total airflow produced in one day.",
+    "The fan creates 10 liters of airflow per second.",
+    "There are 60 seconds in a minute.",
+    "So, in one minute, the fan produces 10 liters/second * 60 seconds = 600 liters.",
+    "The fan works for 10 minutes each day.",
+    "In 10 minutes, the fan produces 600 liters/minute * 10 minutes = 6000 liters.",
+    "Now, I need to calculate the airflow for one week.",
+    "There are 7 days in a week.",
+    "The total weekly airflow is 6000 liters/day * 7 days = 42000 liters."
+  ],
+  "solution": "42000"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "Traveling from Manhattan to the Bronx, Andrew rides the subway for 10 hours, takes the train and rides for twice as much time as the subway ride, and then bikes the remaining distance for 8 hours. What's the total time he takes to reach the Bronx from Manhattan?",
+  "steps": [
+    "Andrew rides the subway for 10 hours.",
+    "Next, he takes the train for twice the time of the subway ride.",
+    "The train ride is twice 10 hours, which means it is 20 hours.",
+    "Then, he bikes for 8 hours.",
+    "To find the total travel time, I need to sum the durations of the subway ride, train ride, and bike ride.",
+    "The total time is 10 hours (subway) + 20 hours (train) + 8 hours (bike).",
+    "Adding these up gives 10 + 20 + 8 = 38 hours."
+  ],
+  "solution": "38"
+}

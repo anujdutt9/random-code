@@ -1,0 +1,16 @@
+{
+  "query": "In my school, the number of students has increased by 20% this year. The number of students this year is 960. How many students were there last year?",
+  "steps": [
+    "I need to find out the number of students last year.",
+    "I know the number of students increased by 20% this year.",
+    "Let's denote the number of students last year as \\( x \\).",
+    "A 20% increase in the number of students last year means the number this year is 120% of last year's number.",
+    "Therefore, this year's number of students, which is 960, is 120% of \\( x \\).",
+    "I can express this relationship with an equation: \\( 1.20 \\times x = 960 \\).",
+    "To find \\( x \\), I will divide both sides of the equation by 1.20.",
+    "\\( x = \\frac{960}{1.20} \\).",
+    "Now, I will do the division: \\( 960 \\div 1.20 = 800 \\).",
+    "So, there were 800 students last year."
+  ],
+  "solution": "800"
+}

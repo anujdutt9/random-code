@@ -1,0 +1,15 @@
+{
+  "query": "Mckenna starts her day at 8:00 a.m. She works in her office up to 11:00 a.m. then joins her team of developers at the conference room to talk about projects up to 13:00, from which she works for another two hours and then heads home. How many hours does Mckenna stay at work?",
+  "steps": [
+    "Mckenna starts her day at 8:00 a.m.",
+    "She works in her office until 11:00 a.m.",
+    "From 8:00 a.m. to 11:00 a.m. is 3 hours.",
+    "Then she joins her team in the conference room and stays there until 13:00.",
+    "From 11:00 a.m. to 13:00 is 2 hours.",
+    "After that, she works for another two hours.",
+    "She finishes working at 15:00 (1:00 p.m. + 2 hours).",
+    "Now, let's add up all the hours: 3 hours (office work) + 2 hours (conference) + 2 hours (additional work).",
+    "The total time Mckenna stays at work is 3 + 2 + 2 = 7 hours."
+  ],
+  "solution": "7"
+}

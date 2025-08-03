@@ -1,0 +1,18 @@
+{
+  "query": "Sean and Sierra invited 200 guests to their wedding.  If 83% of the guests RSVP with a Yes response and 9% of the guests RSVP with a No response, how many guests did not respond at all?",
+  "steps": [
+    "First, I need to understand the problem statement: Sean and Sierra invited 200 guests to their wedding.",
+    "Of these 200 guests, 83% RSVP with a Yes response.",
+    "Additionally, 9% RSVP with a No response.",
+    "To solve this, I need to determine the number of guests who responded with Yes and No, and then subtract these from the total guests to find those who did not respond at all.",
+    "First, calculate 83% of 200 guests to find out how many RSVP'd Yes.",
+    "83% of 200 is calculated as (83/100) * 200 = 166.",
+    "Next, calculate 9% of 200 guests to find out how many RSVP'd No.",
+    "9% of 200 is calculated as (9/100) * 200 = 18.",
+    "Now, I will add the number of guests who responded with Yes and No.",
+    "166 (Yes) + 18 (No) = 184 guests who responded.",
+    "Subtract the number of guests who responded from the total number of guests invited to find those who didn't respond.",
+    "200 total guests - 184 guests who responded = 16 guests who did not respond at all."
+  ],
+  "solution": "16"
+}

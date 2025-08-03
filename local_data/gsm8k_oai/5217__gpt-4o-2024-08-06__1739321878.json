@@ -1,0 +1,12 @@
+{
+  "query": "Grant scored 10 points higher on his math test than John.  John received twice as many points as Hunter who scored a 45 on his math test.  What was Grant's test score?",
+  "steps": [
+    "Hunter scored 45 points on his math test.",
+    "John received twice as many points as Hunter.",
+    "To find John's score, I multiply Hunter's score by 2: 45 * 2 = 90.",
+    "John scored 90 points on his math test.",
+    "Grant scored 10 points higher than John.",
+    "To find Grant's score, I add 10 points to John's score: 90 + 10 = 100."
+  ],
+  "solution": "100"
+}

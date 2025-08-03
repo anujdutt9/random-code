@@ -1,0 +1,15 @@
+{
+  "query": "There are 19 marbles in a bowl, 5 of which are yellow. The remainder are split into blue marbles and red marbles in the ratio 3:4 respectively. How many more red marbles than yellow marbles are there?",
+  "steps": [
+    "First, I need to determine the number of non-yellow marbles. There are 19 total marbles and 5 are yellow.",
+    "Subtracting the yellow marbles from the total gives me 19 - 5 = 14 non-yellow marbles.",
+    "These 14 non-yellow marbles are split into blue and red marbles in the ratio of 3:4.",
+    "In a 3:4 ratio, the total parts involved are 3 + 4 = 7 parts in total.",
+    "I need to find how many marbles each part represents. So, 14 non-yellow marbles divided by 7 parts equals 2 marbles per part.",
+    "To find the number of blue marbles, I take the 3 parts allocated for blue in the ratio and multiply by 2 marbles per part. So, 3 * 2 = 6 marbles are blue.",
+    "To find the number of red marbles, I take the 4 parts allocated for red in the ratio and multiply by 2 marbles per part. So, 4 * 2 = 8 marbles are red.",
+    "Now, I need to determine how many more red marbles there are than yellow marbles.",
+    "There are 8 red marbles and 5 yellow marbles, so I subtract the number of yellow marbles from the number of red marbles: 8 - 5 = 3 more red marbles."
+  ],
+  "solution": "3"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Harry is 50 years old. His father is currently 24 years older than he is. How old was his mother when she gave birth to him if she is younger than his father by 1/25 of Harry's current age?",
+  "steps": [
+    "Harry is currently 50 years old.",
+    "Harry's father is 24 years older than Harry. To find his father's age, I add 24 to Harry's age.",
+    "50 (Harry's age) + 24 = 74. So, Harry's father is 74 years old.",
+    "Harry's mother is younger than his father by 1/25 of Harry's current age. I need to calculate 1/25 of Harry's age.",
+    "50 (Harry's age) / 25 = 2. Therefore, Harry's mother's age is 2 years less than his father's age.",
+    "To find Harry's mother's age, I subtract 2 from his father's age.",
+    "74 (Harry's father's age) - 2 = 72. So, Harry's mother is 72 years old.",
+    "Now, I need to calculate how old Harry's mother was when she gave birth to him.",
+    "To find that, I subtract Harry's age from his mother's current age.",
+    "72 (Harry's mother's age) - 50 (Harry's age) = 22.",
+    "Harry's mother was 22 years old when she gave birth to him."
+  ],
+  "solution": "22"
+}

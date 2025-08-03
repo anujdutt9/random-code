@@ -1,0 +1,21 @@
+{
+  "query": "Sidney has 4 kittens and 3 adult cats.  She has 7 cans of cat food.  Each adult cat eats 1 can of food per day.  Each kitten eats 3/4 of a can per day.  How many additional cans of food does Sidney need to buy to feed all of her animals for 7 days.",
+  "steps": [
+    "First, I need to determine how much food Sidney's adult cats eat in one day.",
+    "Sidney has 3 adult cats, and each eats 1 can per day.",
+    "So, 3 adult cats eat 3 cans per day (3 cats * 1 can each).",
+    "Next, I need to determine how much food Sidney's kittens eat in one day.",
+    "Sidney has 4 kittens, and each eats 3/4 of a can per day.",
+    "4 kittens eat 4 * (3/4) = 3 cans per day.",
+    "Now, I need to calculate the total amount of food consumed by all cats per day (adult cats + kittens).",
+    "Adult cats consume 3 cans per day, and kittens consume 3 cans per day.",
+    "Therefore, in total, all cats consume 3 + 3 = 6 cans per day.",
+    "Sidney needs to feed all of her cats for 7 days.",
+    "I multiply the total daily food requirement by 7 to find the total for 7 days: 6 cans/day * 7 days.",
+    "This equals 42 cans needed for 7 days.",
+    "Sidney currently has 7 cans of food.",
+    "I need to calculate how many additional cans she needs to buy: 42 total cans needed - 7 cans on hand.",
+    "42 - 7 = 35 additional cans."
+  ],
+  "solution": "35"
+}

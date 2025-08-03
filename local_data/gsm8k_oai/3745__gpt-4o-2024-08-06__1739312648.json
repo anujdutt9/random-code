@@ -1,0 +1,16 @@
+{
+  "query": "Jenny wants to heat a dish for dinner.  It needs to be at 100 degrees before it is ready to eat.  It is 20 degrees when she places it in the oven, and it heats up 5 degrees every minute.  How many minutes will it take to be ready?",
+  "steps": [
+    "The dish currently is at 20 degrees.",
+    "Jenny wants the dish to reach 100 degrees.",
+    "I need to find out how many degrees the dish needs to heat up.",
+    "The dish needs to heat from 20 degrees to 100 degrees.",
+    "The difference between 100 degrees and 20 degrees is 100 - 20.",
+    "That difference is 80 degrees.",
+    "The dish heats up 5 degrees every minute.",
+    "To find the number of minutes it takes to heat an 80-degree increase at 5 degrees per minute, I divide 80 by 5.",
+    "80 divided by 5 is 16.",
+    "This means it will take 16 minutes for the dish to be ready."
+  ],
+  "solution": "16"
+}

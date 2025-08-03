@@ -1,0 +1,15 @@
+{
+  "query": "The lifespan of a hamster is 6 years less than that of a bat. The lifespan of a frog is 4 times that of a hamster. Altogether, the lifespan of the animals is 30 years. What is the lifespan of the bat?",
+  "steps": [
+    "Let's assign variables to each animal's lifespan. Let B represent the lifespan of the bat.",
+    "The lifespan of the hamster is 6 years less than the bat's lifespan, so the hamster's lifespan is B - 6.",
+    "The lifespan of the frog is 4 times the hamster's lifespan. Since the hamster's lifespan is B - 6, the frog's lifespan is 4(B - 6).",
+    "According to the problem, the total lifespan of the bat, hamster, and frog is 30 years. So we can write the equation: B + (B - 6) + 4(B - 6) = 30.",
+    "Simplify the equation: B + (B - 6) + 4(B - 6) = 30. This becomes B + B - 6 + 4B - 24 = 30.",
+    "Combine like terms: 6B - 30 = 30.",
+    "Add 30 to both sides of the equation to isolate the term with B: 6B = 60.",
+    "Divide both sides by 6 to solve for B: B = 10.",
+    "So, the lifespan of the bat is 10 years."
+  ],
+  "solution": "10"
+}

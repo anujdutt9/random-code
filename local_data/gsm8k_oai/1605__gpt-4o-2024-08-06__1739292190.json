@@ -1,0 +1,17 @@
+{
+  "query": "There are 92 students altogether. Twenty of them ride the school bus home together, 5/8 of the remaining ride their own bike home, and the rest whose houses are near the school walk home. How many students are walking home?",
+  "steps": [
+    "First, I need to determine the number of students who do not ride the school bus home.",
+    "There are 92 students in total and 20 ride the bus. So, the number of students who do not ride the bus is 92 - 20.",
+    "92 - 20 = 72. This means 72 students do not ride the school bus home.",
+    "Next, I need to find out how many of these 72 students ride their own bike home.",
+    "According to the problem, 5/8 of these students ride their own bike home.",
+    "I calculate 5/8 of 72 to find how many students ride their own bike.",
+    "5/8 * 72 = 45. This means 45 students ride their own bike home.",
+    "Now, I need to find out how many students are left to walk home.",
+    "There were 72 students who did not ride the school bus, and I found that 45 of them ride their own bikes.",
+    "Therefore, the number of students who walk home is 72 - 45.",
+    "72 - 45 = 27. So, 27 students walk home."
+  ],
+  "solution": "27"
+}

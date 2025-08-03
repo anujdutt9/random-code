@@ -1,0 +1,25 @@
+{
+  "query": "Tom went to the store to buy fruit. Lemons cost $2, papayas cost $1, and mangos cost $4. For every 4 fruits that customers buy, the store offers a $1 discount. Tom buys 6 lemons, 4 papayas, and 2 mangos. How much will he pay?",
+  "steps": [
+    "First, I find the total cost of each type of fruit purchased.",
+    "Tom buys 6 lemons, and each lemon costs $2.",
+    "The total cost for lemons is 6 lemons \u00d7 $2/each = $12.",
+    "Next, I calculate the cost for papayas.",
+    "Tom buys 4 papayas, and each papaya costs $1.",
+    "The total cost for papayas is 4 papayas \u00d7 $1/each = $4.",
+    "Next, I calculate the cost for mangos.",
+    "Tom buys 2 mangos, and each mango costs $4.",
+    "The total cost for mangos is 2 mangos \u00d7 $4/each = $8.",
+    "I add the costs of all the fruits together to find the total cost before discounts.",
+    "The total cost is $12 (lemons) + $4 (papayas) + $8 (mangos) = $24.",
+    "Now, I calculate the number of $1 discounts Tom gets.",
+    "Tom buys 6 lemons + 4 papayas + 2 mangos = 12 fruits in total.",
+    "For every 4 fruits, there is a $1 discount, so I divide the total number of fruits by 4.",
+    "12 fruits \u00f7 4 = 3 sets of 4 fruits.",
+    "This means Tom qualifies for 3 discounts of $1 each.",
+    "The total discount is 3 discounts \u00d7 $1 each = $3.",
+    "I subtract the total discount from the pre-discount total cost.",
+    "$24 (total cost) - $3 (total discount) = $21."
+  ],
+  "solution": "21"
+}

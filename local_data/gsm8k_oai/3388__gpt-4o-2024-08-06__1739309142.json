@@ -1,0 +1,20 @@
+{
+  "query": "Jacque arrived in France and his suitcase weighed 5 pounds.  While in France, he picked up 5 bottles of perfume that weighed 1.2 ounces each, 4 pounds of chocolate, 2 bars of soap that weighed 5 ounces each and 2 jars of jam that weighed 8 ounces each.  Considering 16 ounces is the same as 1 pound, how much did Jacque's suitcase weigh on the return flight home?",
+  "steps": [
+    "Jacque's suitcase initially weighed 5 pounds.",
+    "He picked up 5 bottles of perfume. Each bottle weighs 1.2 ounces, so they total 5 x 1.2 = 6 ounces.",
+    "He also picked up 4 pounds of chocolate.",
+    "He picked up 2 bars of soap, each weighing 5 ounces, totaling 2 x 5 = 10 ounces.",
+    "He picked up 2 jars of jam, each weighing 8 ounces, totaling 2 x 8 = 16 ounces.",
+    "Next, I'll convert all these additional items to pounds.",
+    "The 6 ounces of perfume can be converted to pounds: 6 ounces / 16 = 0.375 pounds.",
+    "The 10 ounces of soap can be converted to pounds: 10 ounces / 16 = 0.625 pounds.",
+    "The 16 ounces of jam convert to pounds: 16 ounces / 16 = 1 pound.",
+    "Now, I'll add up all the additional weight in pounds.",
+    "He has 0.375 pounds of perfume, 4 pounds of chocolate, 0.625 pounds of soap, and 1 pound of jam.",
+    "Summing these, 0.375 + 4 + 0.625 + 1 = 6 pounds.",
+    "I'll add this additional 6 pounds to the initial suitcase weight of 5 pounds.",
+    "Jacque's suitcase now weighs 5 + 6 = 11 pounds."
+  ],
+  "solution": "11"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Mark went to a store where he spent one-half of his money, and then spent $14 more. He then went to another store where he spent one-third of his starting money, and then spent $16 more. If he then had no money left, how much did he have when he entered the first store?",
+  "steps": [
+    "Let the initial amount of money Mark had be \\( x \\).",
+    "At the first store, Mark spent one-half of his money: \\(\\frac{x}{2}\\).",
+    "After spending half, Mark also spent an additional $14.",
+    "So, the total amount spent at the first store is \\(\\frac{x}{2} + 14\\).",
+    "After leaving the first store, the amount of money Mark has left is:\n\\[\nx - \\left(\\frac{x}{2} + 14\\right) = \\frac{x}{2} - 14\n\\]",
+    "At the second store, Mark spent one-third of his starting money: \\(\\frac{x}{3}\\).",
+    "He also spent an additional $16 at the second store.",
+    "The total amount spent at the second store is \\(\\frac{x}{3} + 16\\).",
+    "After leaving the second store, the amount of money Mark has left is:\n\\[\n\\left(\\frac{x}{2} - 14\\right) - \\left(\\frac{x}{3} + 16\\right)\n\\]",
+    "Simplify the expression for the remaining money:\n\\[\n\\frac{x}{2} - 14 - \\frac{x}{3} - 16\n\\]\n\\[\n= \\frac{x}{2} - \\frac{x}{3} - 30\n\\]",
+    "Combine \\(\\frac{x}{2} - \\frac{x}{3}\\) by finding a common denominator:\n\\[\n= \\frac{3x}{6} - \\frac{2x}{6}\n\\]\n\\[\n= \\frac{x}{6}\n\\]",
+    "So, the remaining amount of money is:\n\\[\n\\frac{x}{6} - 30\n\\]",
+    "Mark ends up with no money left:\n\\[\n\\frac{x}{6} - 30 = 0\n\\]",
+    "Solve for \\( x \\):\n\\[\n\\frac{x}{6} = 30\n\\]\n\\[\nx = 30 \\times 6\n\\]\n\\[\nx = 180\n\\]"
+  ],
+  "solution": "180"
+}

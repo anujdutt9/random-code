@@ -1,0 +1,16 @@
+{
+  "query": "Every tree that Bart cuts down gives him 75 pieces of firewood.  If he burns 5 logs a day from November 1 through February 28, how many trees will he need to cut down?",
+  "steps": [
+    "First, I need to determine the total number of days from November 1 through February 28.",
+    "November has 30 days.",
+    "December has 31 days.",
+    "January has 31 days.",
+    "February typically has 28 days, considering it's not a leap year.",
+    "Add these together to get the total number of days: 30 + 31 + 31 + 28 = 120 days.",
+    "Bart burns 5 logs per day. So, I need to calculate the total number of logs he burns over 120 days.",
+    "Multiply the number of days by the number of logs burned per day: 120 days * 5 logs/day = 600 logs.",
+    "Each tree provides 75 pieces of firewood. Calculate the number of trees Bart needs to cut down by dividing the total logs needed by the logs per tree: 600 logs / 75 logs/tree.",
+    "600 divided by 75 equals 8."
+  ],
+  "solution": "8"
+}

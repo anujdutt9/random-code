@@ -1,0 +1,14 @@
+{
+  "query": "John takes 3 naps a week.  Each nap is 2 hours long.  In 70 days how many hours of naps does he take?",
+  "steps": [
+    "There are 7 days in a week.",
+    "John takes 3 naps per week.",
+    "Each nap is 2 hours long.",
+    "To find the total number of naps in one week, multiply 3 naps per week by the duration of each nap: \\(3 \\text{ naps} \\times 2 \\text{ hours per nap} = 6\\) hours per week.",
+    "Next, I need to determine how many weeks are in 70 days.",
+    "Divide 70 days by 7 days per week: \\(70 \\div 7 = 10\\) weeks.",
+    "Now I will calculate the total hours of naps in 10 weeks.",
+    "Multiply the hours of naps per week by the number of weeks: \\(6 \\text{ hours per week} \\times 10 \\text{ weeks} = 60\\) hours."
+  ],
+  "solution": "60"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Three train stations are 2 hours apart from one another. Kira travels from the first station to the third, taking a 30 minutes break at the second station. What's the total time, in minutes, that Kira takes to travel between the first and third station?",
+  "steps": [
+    "Kira travels from the first station to the second station which takes 2 hours.",
+    "She takes a 30 minute break at the second station.",
+    "Then she travels from the second station to the third station, which takes another 2 hours.",
+    "Total travel time is the sum of these segments: the first 2 hours, the 30 minute break, and the second 2 hours.",
+    "Convert the travel times from hours to minutes. One hour is 60 minutes.",
+    "The first 2 hours equates to 120 minutes.",
+    "The second travel of 2 hours equals 120 minutes as well.",
+    "The break is already in minutes (30 minutes).",
+    "Add up the minutes: 120 minutes + 30 minutes + 120 minutes.",
+    "The total time is 270 minutes."
+  ],
+  "solution": "270"
+}

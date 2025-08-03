@@ -1,0 +1,21 @@
+{
+  "query": "Jenna is making a costume for her role in Oliver Twist. She needs to make an overskirt and two petticoats. Each skirt uses a rectangle of material that measures 12 feet by 4 feet. She also needs to make a bodice that uses 2 square feet of material for the shirt and 5 square feet of fabric for each of the sleeves. If the material she uses costs $3 per square foot, how much does she spend on the material in total?",
+  "steps": [
+    "First, I need to calculate the total amount of material needed for all the skirts.",
+    "Jenna needs an overskirt and two petticoats. That's 1 overskirt + 2 petticoats = 3 skirts in total.",
+    "Each skirt uses a rectangle of material that measures 12 feet by 4 feet. The area for one skirt is 12 feet * 4 feet.",
+    "Calculating the area for one skirt: 12 * 4 = 48 square feet.",
+    "Since there are 3 skirts, I multiply the area for one skirt by 3: 48 * 3 = 144 square feet.",
+    "Next, I need to calculate the material needed for the bodice.",
+    "The bodice requires 2 square feet of material for the shirt.",
+    "Each sleeve requires 5 square feet of fabric. With 2 sleeves, that will be 2 * 5 = 10 square feet for the sleeves.",
+    "Adding the material for the shirt and the sleeves: 2 (shirt) + 10 (sleeves) = 12 square feet.",
+    "Now, I total all the material needed for the costume.",
+    "The total material for the skirts is 144 square feet, and for the bodice is 12 square feet.",
+    "Adding these together: 144 + 12 = 156 square feet.",
+    "Finally, I calculate the total cost of the material.",
+    "The material costs $3 per square foot.",
+    "Therefore, the total cost is 156 * 3 = $468."
+  ],
+  "solution": "468"
+}

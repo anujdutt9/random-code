@@ -1,0 +1,11 @@
+{
+  "query": "Skyler is a composer. He wrote 25 hit songs that made it on the top 10 charts; ten more songs that made it on the top 100 charts than the hit songs; 5 fewer songs than the hit songs that were never released. How many songs did Skyler write in all?",
+  "steps": [
+    "Skyler wrote 25 hit songs that made it on the top 10 charts. I'll note that down first.",
+    "The problem states he wrote ten more songs that made it on the top 100 charts than the hit songs. Ten more than 25 is 35. So, he wrote 35 songs that made it on the top 100 charts.",
+    "It also mentions he wrote 5 fewer songs than the hit songs that were never released. Five fewer than 25 is 20. This means he wrote 20 songs that were never released.",
+    "To find the total number of songs Skyler wrote, I need to add together all the songs he wrote, the hit songs, the top 100 chart songs, and the unreleased songs.",
+    "Adding them all together: 25 hit songs + 35 songs on top 100 charts + 20 unreleased songs = 80."
+  ],
+  "solution": "80"
+}

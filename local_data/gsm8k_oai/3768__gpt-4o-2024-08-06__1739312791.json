@@ -1,0 +1,13 @@
+{
+  "query": "In a shipping container, there are 10 crates. Each crate is filled with 6 boxes and each box is filled with 4 washing machines. A worker removes 1 washing machine from each box. There are no other changes. How many washing machines were removed from the shipping container?",
+  "steps": [
+    "First, I need to determine how many boxes are in the shipping container. There are 10 crates and each crate has 6 boxes.",
+    "10 crates multiplied by 6 boxes per crate equals 60 boxes in total.",
+    "Next, I need to find out how many washing machines are in each box initially. Each box has 4 washing machines.",
+    "Every box had 4 washing machines originally. A worker removes 1 washing machine from each box.",
+    "With 1 washing machine removed from each of the 60 boxes, I need to calculate the total number of washing machines removed.",
+    "Since 1 washing machine is removed from each box, I multiply the number of boxes (60) by the number removed per box (1).",
+    "60 boxes multiplied by 1 washing machine removed per box equals 60 washing machines removed."
+  ],
+  "solution": "60"
+}

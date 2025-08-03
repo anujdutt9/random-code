@@ -1,0 +1,84 @@
+{
+    "arguments": {
+        "model": "HuggingFaceTB/SmolLM2-360M-Instruct",
+        "task": "arc-oai",
+        "device": "cpu",
+        "batch_size": 2,
+        "seed": 1234,
+        "experiment_name": null,
+        "n": 4,
+        "multipliers": [
+            0.5,
+            1,
+            3
+        ],
+        "max_new_tokens": 10,
+        "force_choice": true,
+        "num_fewshot_examples": 5,
+        "n_contrastive_samples": 10,
+        "prefix": "Let's think step by step.",
+        "add_question": true,
+        "add_prefix": false,
+        "add_answer": false,
+        "sample_fewshot_examples": true,
+        "fewshot_delimeter": "\n\n",
+        "fewshot_only_in_postive": false,
+        "use_tokenized_version": false,
+        "encoding_method": "instruct",
+        "extraction_system_prompt": null,
+        "add_generation_prompt": true,
+        "sample_selection_method": "distance",
+        "do_sample": false,
+        "layers": "[14]",
+        "multiplier": 0.5,
+        "num_fewshot_prompt": 0,
+        "timestamp": "2025-05-10 16:41:25.737072",
+        "experiment_id": "66a31e72-c820-4ab3-85da-48fe446997fb"
+    },
+    "metrics": {
+        "augmented_extract": 0.25,
+        "last_letter": 0.25
+    },
+    "samples": [
+        {
+            "id": "b7dbed2e-dd26-50a4-9aae-a5281d7ce928",
+            "input": "<|im_start|>system\nYou are a helpful AI assistant named SmolLM, trained by Hugging Face<|im_end|>\n<|im_start|>user\nA group of engineers wanted to know how different building designs would respond during an earthquake. They made several models of buildings and tested each for its ability to withstand earthquake conditions. Which will most likely result from testing different building designs?\n\nChoices:\nA: buildings will be built faster\nB: buildings will be made safer\nC: building designs will look nicer\nD: building materials will be cheaper<|im_end|>\n<|im_start|>assistant\n",
+            "target": "B",
+            "response": "A: buildings will be built faster\nSo the correct choice is A: buildings will be built faster.<|im_end|>",
+            "filtered_response": {
+                "augmented_extract": "A",
+                "last_letter": "A"
+            }
+        },
+        {
+            "id": "60a120a4-420d-5f10-ad73-17076ab90d7d",
+            "input": "<|im_start|>system\nYou are a helpful AI assistant named SmolLM, trained by Hugging Face<|im_end|>\n<|im_start|>user\nA physicist wants to determine the speed a car must reach to jump over a ramp. The physicist conducts three trials. In trials two and three, the speed of the car is increased by 20 miles per hour. What is the physicist investigating when he changes the speed?\n\nChoices:\nA: the control\nB: the hypothesis statement\nC: the dependent (responding) variable\nD: the independent (manipulated) variable<|im_end|>\n<|im_start|>assistant\n",
+            "target": "D",
+            "response": "The physicist is investigating the dependent (responding)\nSo the correct choice is:\nD: the independent (manipulated",
+            "filtered_response": {
+                "augmented_extract": "D",
+                "last_letter": "D"
+            }
+        },
+        {
+            "id": "d33fad5e-b2ff-5a43-8ba0-da6e4fef662a",
+            "input": "<|im_start|>system\nYou are a helpful AI assistant named SmolLM, trained by Hugging Face<|im_end|>\n<|im_start|>user\nThe end result in the process of photosynthesis is the production of sugar and oxygen. Which step signals the beginning of photosynthesis?\n\nChoices:\nA: Chemical energy is absorbed through the roots.\nB: Light energy is converted to chemical energy.\nC: Chlorophyll in the leaf captures light energy.\nD: Sunlight is converted into chlorophyll.<|im_end|>\n<|im_start|>assistant\n",
+            "target": "C",
+            "response": "B: Light energy is converted to chemical energy.\nSo the correct choice is B.<|im_end|>",
+            "filtered_response": {
+                "augmented_extract": "B",
+                "last_letter": "B"
+            }
+        },
+        {
+            "id": "00f41a08-3720-5e7a-b9d2-385a1b6d9544",
+            "input": "<|im_start|>system\nYou are a helpful AI assistant named SmolLM, trained by Hugging Face<|im_end|>\n<|im_start|>user\nAn astronomer observes that a planet rotates faster after a meteorite impact. Which is the most likely effect of this increase in rotation?\n\nChoices:\nA: Planetary density will decrease.\nB: Planetary years will become longer.\nC: Planetary days will become shorter.\nD: Planetary gravity will become stronger.<|im_end|>\n<|im_start|>assistant\n",
+            "target": "C",
+            "response": "A: Planetary density will decrease.\nSo the correct choice is A: Planetary density will decrease.<|im_end|>",
+            "filtered_response": {
+                "augmented_extract": "A",
+                "last_letter": "A"
+            }
+        }
+    ]
+}

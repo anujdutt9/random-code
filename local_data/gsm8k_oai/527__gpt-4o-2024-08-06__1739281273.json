@@ -1,0 +1,17 @@
+{
+  "query": "Jason is making a salad. The lettuce has 30 calories, the cucumber has 80 calories, and the 12 croutons have 20 calories each. How many calories are in the salad?",
+  "steps": [
+    "First, I need to find the total calories for the lettuce.",
+    "The lettuce has 30 calories. I'll note that.",
+    "Now I need to find the total calories for the cucumber.",
+    "The cucumber has 80 calories. I'll note that down too.",
+    "Next, I need to determine the total calories contributed by the croutons.",
+    "Each crouton has 20 calories, and there are 12 croutons.",
+    "To find the total calories for the croutons, I need to multiply the number of croutons by the calories per crouton: 12 croutons * 20 calories each.",
+    "12 * 20 = 240, so the croutons contribute 240 calories.",
+    "Now, I need to sum the calories from the lettuce, cucumber, and croutons to find the total calories in the salad.",
+    "The total calories are 30 (lettuce) + 80 (cucumber) + 240 (croutons).",
+    "30 + 80 + 240 = 350."
+  ],
+  "solution": "350"
+}

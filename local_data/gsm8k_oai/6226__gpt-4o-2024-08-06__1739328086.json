@@ -1,0 +1,21 @@
+{
+  "query": "At Theo\u2019s cafe, he makes 3 egg and 4 egg omelettes.  His cafe is open from 7:00 a.m. to 11:00 a.m.  In the first hour, 5 customers order the 3 egg omelettes.  In the second hour, 7 customers order the 4 egg omelettes.  In the third hour, 3 customers order the 3 egg omelettes. In the last hour, 8 customers order the 4 egg omelettes.  How many eggs does Theo need to make all the omelettes?",
+  "steps": [
+    "I need to calculate the total number of eggs used for 3 egg omelettes.",
+    "In the first hour, 5 customers order the 3 egg omelettes.",
+    "For the first hour, the number of eggs used is 5 customers * 3 eggs = 15 eggs.",
+    "In the third hour, 3 customers order the 3 egg omelettes.",
+    "For the third hour, the number of eggs used is 3 customers * 3 eggs = 9 eggs.",
+    "Adding these together gives me the total number of eggs for 3 egg omelettes: 15 eggs + 9 eggs = 24 eggs.",
+    "Now I need to calculate the total number of eggs used for 4 egg omelettes.",
+    "In the second hour, 7 customers order the 4 egg omelettes.",
+    "For the second hour, the number of eggs used is 7 customers * 4 eggs = 28 eggs.",
+    "In the fourth hour, 8 customers order the 4 egg omelettes.",
+    "For the fourth hour, the number of eggs used is 8 customers * 4 eggs = 32 eggs.",
+    "Adding these together gives me the total number of eggs for 4 egg omelettes: 28 eggs + 32 eggs = 60 eggs.",
+    "Now, I add the total eggs for both the 3 egg and 4 egg omelettes.",
+    "The total number of eggs used for 3 egg omelettes is 24 eggs, and for 4 egg omelettes is 60 eggs.",
+    "Adding these amounts gives me the total number of eggs needed: 24 eggs + 60 eggs = 84 eggs."
+  ],
+  "solution": "84"
+}

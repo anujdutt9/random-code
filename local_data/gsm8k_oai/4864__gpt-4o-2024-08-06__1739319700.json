@@ -1,0 +1,16 @@
+{
+  "query": "Martha is knitting winter clothes for her 3 grandchildren, who are all the same size (identical triplets.) Each set of clothes consists of a woolen hat, a scarf, a sweater, a pair of mittens, and a pair of wooly socks. She can knit a hat in 2 hours. A scarf takes her 3 hours. Each mitten takes her about an hour to knit. A sock takes an hour and a half. Each sweater takes her 6 hours. How long will it take her to knit all the outfits?",
+  "steps": [
+    "First, I calculate the time it takes to knit one complete set of clothes for one grandchild: a hat, scarf, sweater, two mittens, and two socks.",
+    "A hat takes 2 hours.",
+    "A scarf takes 3 hours.",
+    "A sweater takes 6 hours.",
+    "Each mitten takes 1 hour, so two mittens take 2 hours.",
+    "Each sock takes 1.5 hours, so two socks take 3 hours.",
+    "Now, I add the times for all items in one set: hat (2 hours) + scarf (3 hours) + sweater (6 hours) + two mittens (2 hours) + two socks (3 hours) = 16 hours.",
+    "I have calculated that one set of clothes takes 16 hours in total.",
+    "Since Martha has three grandchildren, she needs to knit 3 sets of clothes.",
+    "I multiply the time for one set by 3: 16 hours/ set \u00d7 3 sets = 48 hours."
+  ],
+  "solution": "48"
+}

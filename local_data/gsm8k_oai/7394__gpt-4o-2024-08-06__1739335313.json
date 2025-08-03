@@ -1,0 +1,18 @@
+{
+  "query": "Mr. Manuel is a campsite manager who's been tasked with checking the number of tents set up in the recreation area. On a particular day, he counted 100 tents in the northernmost part of the campsite and twice that number on the east side of the grounds. The number of tents at the center of the camp was four times the number of tents in the northernmost part of the campsite. If he also counted 200 tents in the southern part of the campsite, what is the total number of tents in the recreation area?",
+  "steps": [
+    "Start by identifying the number of tents in each part of the campsite.",
+    "According to the problem, there are 100 tents in the northernmost part of the campsite.",
+    "The number of tents on the east side is twice the number of tents in the northernmost part.",
+    "Twice 100 is 200, so there are 200 tents on the east side of the campsite.",
+    "The number of tents at the center of the camp is four times the number of tents in the northernmost part.",
+    "Four times 100 is 400, so there are 400 tents in the center of the campsite.",
+    "The southern part of the campsite has 200 tents, as mentioned in the problem statement.",
+    "To find the total number of tents, add up the tents in each part of the campsite: north, east, center, and south.",
+    "The total is 100 (north) + 200 (east) + 400 (center) + 200 (south).",
+    "Calculate the sum: 100 + 200 = 300.",
+    "Next, add 400 (center) to 300: 300 + 400 = 700.",
+    "Finally, add 200 (south) to 700: 700 + 200 = 900."
+  ],
+  "solution": "900"
+}

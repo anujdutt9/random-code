@@ -1,0 +1,19 @@
+{
+  "query": "John is laying the foundation for 3 homes. Each home needs a slab of concrete that is 100 feet by 100 feet by .5 feet. Concrete has a density of 150 pounds per cubic foot. A pound of concrete cost $.02 per pound. How much does the foundation cost?",
+  "steps": [
+    "First, I need to determine the volume of concrete needed for a single home.",
+    "The dimensions given for the concrete slab are 100 feet by 100 feet by 0.5 feet.",
+    "I calculate the volume of one slab by multiplying these dimensions together: 100 * 100 * 0.5.",
+    "Multiplying these values gives 5000 cubic feet.",
+    "Now, to find the total volume needed for 3 homes, I multiply the volume of one slab by the number of homes: 5000 cubic feet * 3 homes.",
+    "This gives a total volume of 15000 cubic feet of concrete.",
+    "Next, I need to find out how much the concrete weighs.",
+    "The problem states that the density of concrete is 150 pounds per cubic foot.",
+    "To find the total weight of the concrete, I multiply the total volume by the density: 15000 cubic feet * 150 pounds/cubic foot.",
+    "This calculation gives 2,250,000 pounds of concrete.",
+    "The cost of concrete is given as $0.02 per pound.",
+    "To find the total cost, I multiply the total weight of the concrete by the cost per pound: 2,250,000 pounds * $0.02/pound.",
+    "This calculation results in a cost of $45,000."
+  ],
+  "solution": "45000"
+}

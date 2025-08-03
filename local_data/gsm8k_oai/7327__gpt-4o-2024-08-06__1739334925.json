@@ -1,0 +1,21 @@
+{
+  "query": "Betty has a tray of cookies and a tray of brownies.  She has a real sweet tooth and eats 3 cookies a day and 1 brownie a day.  If she starts with 60 cookies and 10 brownies, how many more cookies than brownies does she have after a week of eating like this?",
+  "steps": [
+    "Betty starts with 60 cookies.",
+    "Betty starts with 10 brownies.",
+    "She eats 3 cookies a day.",
+    "She eats 1 brownie a day.",
+    "After 1 day, she has 60 - 3 = 57 cookies left.",
+    "After 1 day, she has 10 - 1 = 9 brownies left.",
+    "I need to calculate the number of cookies after 7 days.",
+    "After 7 days, she eats 7 x 3 = 21 cookies.",
+    "She originally had 60 cookies, so the number remaining is 60 - 21 = 39 cookies.",
+    "I need to calculate the number of brownies after 7 days.",
+    "After 7 days, she eats 7 x 1 = 7 brownies.",
+    "She originally had 10 brownies, so the number remaining is 10 - 7 = 3 brownies.",
+    "Now I need to find the difference between the number of cookies and brownies after a week.",
+    "There are 39 cookies and 3 brownies remaining.",
+    "The difference is 39 - 3."
+  ],
+  "solution": "36"
+}

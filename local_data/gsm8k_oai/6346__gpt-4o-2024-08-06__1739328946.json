@@ -1,0 +1,16 @@
+{
+  "query": "Bill started reading a book on the first day of April. He read 8 pages every day and by the 12th of April, he had covered two-thirds of the book. How many pages does the book have?",
+  "steps": [
+    "Determine the number of days Bill has been reading by April 12th.",
+    "Bill started on April 1st and read through to April 12th. That is 12 days of reading.",
+    "Calculate the total number of pages Bill read in 12 days.",
+    "Bill reads 8 pages each day, so in 12 days, he read 12 days \u00d7 8 pages/day = 96 pages.",
+    "Bill covered two-thirds of the book in 96 pages.",
+    "Let P be the total number of pages in the book. Two-thirds of the book is equal to 96 pages.",
+    "Set up an equation: (2/3)P = 96.",
+    "Solve for P. Multiply both sides by 3 to clear the fraction: 2P = 288.",
+    "Divide both sides by 2 to find P: P = 144.",
+    "Check the calculation: If the book is 144 pages long and Bill read two-thirds, then he would indeed read 96 pages, which matches our earlier calculation."
+  ],
+  "solution": "144"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "There are twice as many centipedes as humans on a certain island and half as many sheep as humans. How many sheep and humans in total are on the island if the number of centipedes is 100?",
+  "steps": [
+    "The problem states that there are twice as many centipedes as humans. Let's denote the number of humans as H.",
+    "Since there are twice as many centipedes as humans and the number of centipedes is 100, we have the equation: 2H = 100.",
+    "To find the number of humans, we divide both sides of the equation by 2: H = 100 / 2.",
+    "Calculating H gives us H = 50.",
+    "Next, the problem states there are half as many sheep as humans. Let's denote the number of sheep as S.",
+    "Since there are half as many sheep as humans: S = 1/2 * H.",
+    "Substituting the previously calculated number of humans (H = 50) into the equation gives us: S = 1/2 * 50.",
+    "Calculating S gives us S = 25.",
+    "Now we need to find the total number of sheep and humans. This is simply the sum of the number of humans (H) and the number of sheep (S).",
+    "The total number of sheep and humans is: 50 (humans) + 25 (sheep) = 75."
+  ],
+  "solution": "75"
+}

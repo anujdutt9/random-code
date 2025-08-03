@@ -1,0 +1,22 @@
+{
+  "query": "Thomas buys a weight vest.  It weighed 60 pounds and worked well for him in the beginning but after a bit of training he decides he wants to increase the weight by 60%.  The weights come in 2-pound steel ingots.  Each ingot cost $5 and if you buy more than 10 you get a 20% discount.  How much does it cost to get the weight he needs?",
+  "steps": [
+    "Thomas originally bought a weight vest that weighs 60 pounds.",
+    "He wants to increase this weight by 60%.",
+    "First, I need to calculate 60% of 60 pounds.",
+    "60% of 60 pounds is \\(0.60 \\times 60 = 36\\) pounds.",
+    "To find the total new weight Thomas wants, I add the additional weight to the original weight.",
+    "The total new weight should be \\(60 + 36 = 96\\) pounds.",
+    "I need to calculate how much extra weight Thomas needs to reach 96 pounds.",
+    "The extra weight required is \\(96 - 60 = 36\\) pounds.",
+    "The weights needed come in increments of 2-pound ingots, so I need to divide 36 pounds by 2 pounds per ingot.",
+    "The number of 2-pound ingots needed is \\(36 \\div 2 = 18\\) ingots.",
+    "Each 2-pound ingot costs $5.",
+    "The total cost without any discounts for 18 ingots is \\(18 \\times 5 = 90\\) dollars.",
+    "There is a 20% discount if more than 10 ingots are purchased.",
+    "Since Thomas is buying 18 ingots, he qualifies for the discount.",
+    "The amount of the discount is \\(0.20 \\times 90 = 18\\) dollars.",
+    "The total cost after applying the discount is \\(90 - 18 = 72\\) dollars."
+  ],
+  "solution": "72"
+}

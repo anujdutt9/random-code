@@ -1,0 +1,27 @@
+{
+  "query": "Asha has to buy some gifts but has no money. She decides to borrow $20 from her brother, $40 from her father, $30 from her mother and is gifted $70 by her granny. She adds this to her savings of $100 and goes out to Target to get what she wanted. If she spent 3/4 of the money, how much money did she remain with?",
+  "steps": [
+    "First, I need to figure out how much money Asha collected in total.",
+    "She borrowed $20 from her brother.",
+    "She borrowed $40 from her father.",
+    "She borrowed $30 from her mother.",
+    "She was gifted $70 by her granny.",
+    "She added this to her savings of $100.",
+    "I will sum all these amounts to find the total: $20 + $40 + $30 + $70 + $100.",
+    "$20 + $40 = $60.",
+    "$60 + $30 = $90.",
+    "$90 + $70 = $160.",
+    "$160 + $100 = $260.",
+    "Asha collected a total of $260.",
+    "Next, I need to find out how much she spent.",
+    "It is mentioned that she spent 3/4 of her money.",
+    "To find out how much she spent, I will multiply $260 by 3/4.",
+    "First, calculate 3/4 of $260.",
+    "$260 * 3/4 = $195.",
+    "Asha spent $195.",
+    "Now, to find out how much money she remained with.",
+    "Subtract the amount spent from the total amount collected: $260 - $195.",
+    "$260 - $195 = $65."
+  ],
+  "solution": "65"
+}

@@ -1,0 +1,9 @@
+{
+  "query": "Tom\u2019s cat is 8 years old.  His rabbit is half the age of his cat.  His dog is three times as old as his rabbit.  How old is the dog?",
+  "steps": [
+    "Tom's cat is 8 years old.",
+    "Tom's rabbit is half the age of his cat, so the rabbit is 8 / 2 = 4 years old.",
+    "Tom's dog is three times as old as his rabbit, so the dog is 4 * 3 = 12 years old."
+  ],
+  "solution": "12"
+}

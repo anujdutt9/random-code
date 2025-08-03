@@ -1,0 +1,14 @@
+{
+  "query": "At Mrs. Dawson's rose garden, there are 10 rows of roses. In each row, there are 20 roses where 1/2 of these roses are red, 3/5 of the remaining are white and the rest are pink. How many roses at Mrs. Dawson's rose garden are pink?",
+  "steps": [
+    "First, identify the total number of roses in the rose garden. There are 10 rows with 20 roses in each row.",
+    "Multiply the number of rows by the number of roses per row: 10 * 20 = 200 roses in total.",
+    "Determine the number of red roses. Half of the roses in each row are red, so half of 200 roses are red.",
+    "Calculate half of 200: 200 / 2 = 100 red roses.",
+    "Subtract the number of red roses from the total number of roses to find the remaining number: 200 - 100 = 100 roses.",
+    "Find the number of white roses. 3/5 of the remaining roses after the red ones are white.",
+    "Calculate 3/5 of the remaining 100 roses: (3/5) * 100 = 60 white roses.",
+    "Determine the number of pink roses by subtracting the number of white roses from the remaining roses: 100 - 60 = 40 pink roses."
+  ],
+  "solution": "40"
+}

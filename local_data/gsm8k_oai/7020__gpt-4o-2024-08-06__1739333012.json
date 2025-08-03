@@ -1,0 +1,15 @@
+{
+  "query": "Emberly takes her mornings walks every day. If each walk takes her 1 hour covering 4 miles, and she didn't walk for 4 days in March, calculate the total number of miles she's walked.",
+  "steps": [
+    "First, I need to determine how many days there are in March.",
+    "March has 31 days.",
+    "Next, I need to figure out how many days Emberly actually walked, since she takes a break for 4 days.",
+    "If Emberly didn't walk for 4 days in March, then she walked for 31 - 4 days.",
+    "Calculate the number of days she walked: 31 - 4 = 27 days.",
+    "Next, I should calculate the total number of miles she walked.",
+    "Emberly walks 4 miles every day.",
+    "Multiply the number of days she walked by the number of miles walked per day: 27 days * 4 miles/day.",
+    "27 * 4 = 108 miles."
+  ],
+  "solution": "108"
+}

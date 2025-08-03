@@ -1,0 +1,19 @@
+{
+  "query": "A jar full of marbles is sitting on a table. Half of the marbles are blue, a quarter of them are red, 27 of them are green, and 14 of them are yellow. How many marbles are in the jar?",
+  "steps": [
+    "Let's denote the total number of marbles in the jar as \\( N \\).",
+    "It is given that half of the marbles are blue, so the number of blue marbles is \\( \\frac{N}{2} \\).",
+    "A quarter of the marbles are red, so the number of red marbles is \\( \\frac{N}{4} \\).",
+    "There are 27 green marbles as given in the problem.",
+    "There are 14 yellow marbles as given in the problem.",
+    "The sum of blue, red, green, and yellow marbles equals the total number of marbles \\( N \\).",
+    "Therefore, we can write the equation: \\( \\frac{N}{2} + \\frac{N}{4} + 27 + 14 = N \\).",
+    "First, simplify the equation by adding the constants: \\( 27 + 14 = 41 \\).",
+    "Substitute back into the equation: \\( \\frac{N}{2} + \\frac{N}{4} + 41 = N \\).",
+    "To eliminate the fractions, multiply the entire equation by 4: \\( 2N + N + 164 = 4N \\).",
+    "Combine like terms: \\( 3N + 164 = 4N \\).",
+    "Subtract \\( 3N \\) from both sides: \\( 164 = N \\).",
+    "Thus, the total number of marbles in the jar is \\( N = 164 \\)."
+  ],
+  "solution": "164"
+}

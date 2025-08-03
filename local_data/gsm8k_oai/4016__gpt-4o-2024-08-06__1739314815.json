@@ -1,0 +1,13 @@
+{
+  "query": "Mary is trying to count the animals in the petting zoo, but they kept moving around so she double-counts 7 sheep and forgets to count 3 pigs. If Mary thinks there are 60 animals, how many are there really?",
+  "steps": [
+    "Mary counted 60 animals.",
+    "Mary double-counted 7 sheep.",
+    "This means the actual count of sheep is 7 too high.",
+    "So, we subtract 7 from her total count: 60 - 7 = 53.",
+    "Mary forgot to count 3 pigs.",
+    "So, the actual count needs to include these 3 pigs.",
+    "We add the 3 pigs to the corrected total: 53 + 3 = 56."
+  ],
+  "solution": "56"
+}

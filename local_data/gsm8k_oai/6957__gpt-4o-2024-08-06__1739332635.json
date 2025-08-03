@@ -1,0 +1,14 @@
+{
+  "query": "They say the first year of a dog's life equals 15 human years. The second year of a dog's life equals 9 human years and after that, every year of a dog's life equals 5 human years. According to this logic, how many human years has my 10-year-old dog lived?",
+  "steps": [
+    "The first year of a dog's life equals 15 human years.",
+    "The dog has lived 1 year already, which equals 15 human years.",
+    "The second year of a dog's life equals 9 human years.",
+    "The dog has lived 2 years, which equals 15 + 9 = 24 human years.",
+    "Every year after the second year, each dog year equals 5 human years.",
+    "Since the dog is 10 years old, it has lived 10 - 2 = 8 years beyond the first two years.",
+    "Each of these 8 additional years equals 5 human years, which is 8 * 5 = 40 human years.",
+    "Adding these to the first two years: 24 + 40 = 64 human years."
+  ],
+  "solution": "64"
+}

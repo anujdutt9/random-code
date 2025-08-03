@@ -1,0 +1,16 @@
+{
+  "query": "There are 4 puppies and 3 dogs at a camp. Each dog eats twice as much food as a puppy, but each puppy eats three times as often as a dog. If a dog eats 4 pounds of food three times a day, what would be the total amount of food the dogs and puppies eat in a day?",
+  "steps": [
+    "First, let's determine how much food one dog eats in a day.",
+    "Since one dog eats 4 pounds of food three times a day, one dog eats a total of 4 pounds * 3 times = 12 pounds per day.",
+    "There are 3 dogs at the camp, so the total food consumed by dogs is 12 pounds/dog per day * 3 dogs = 36 pounds a day.",
+    "Next, let's find out how much food one puppy eats in a day.",
+    "Each dog eats twice as much food as a puppy, meaning one puppy eats 4 pounds / 2 = 2 pounds per meal.",
+    "Puppies eat three times as often as dogs. Since dogs eat 3 times a day, a puppy eats 3 times * 3 (since puppies eat three times more often) = 9 times a day.",
+    "Therefore, each puppy eats 2 pounds/meal * 9 meals = 18 pounds per day.",
+    "There are 4 puppies, so the total food consumed by puppies is 18 pounds/puppy per day * 4 puppies = 72 pounds a day.",
+    "The total amount of food the dogs and the puppies eat in a day is the sum of the food consumed by dogs and puppies.",
+    "Adding the food consumed by dogs (36 pounds) and puppies (72 pounds), the total food consumed is 36 pounds + 72 pounds = 108 pounds a day."
+  ],
+  "solution": "108"
+}

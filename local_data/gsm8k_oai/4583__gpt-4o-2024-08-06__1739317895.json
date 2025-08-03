@@ -1,0 +1,13 @@
+{
+  "query": "Ruby was going to order pizza for dinner.  Her son would only eat pepperoni pizza.  Her daughter would only eat sausage.  Ruby and her husband wanted black olive and mushroom pizza.  To make life easy, Ruby decided to order an entire pizza for each of her children and she would split one with her husband.  The pizza restaurant charged $10.00 per pizza and $1.00 per topping.  She also needed to add a $5.00 tip.  Including tip, how much would the pizza order cost?",
+  "steps": [
+    "Ruby needs to order three pizzas in total. One for her son, one for her daughter, and one for herself and her husband.",
+    "The pizza for her son is a pepperoni pizza. It will cost $10.00 for the pizza plus $1.00 for the pepperoni topping.",
+    "The pizza for her daughter is a sausage pizza. It will cost $10.00 for the pizza plus $1.00 for the sausage topping.",
+    "The pizza for Ruby and her husband has black olives and mushrooms. It will cost $10.00 for the pizza plus $1.00 for each topping (black olives and mushrooms), totaling $2.00 for toppings.",
+    "Now, I calculate the total cost for each pizza:\n- The son\u2019s pizza: $10.00 + $1.00 = $11.00\n- The daughter\u2019s pizza: $10.00 + $1.00 = $11.00\n- Ruby and her husband's pizza: $10.00 + $2.00 = $12.00",
+    "Add the costs of all three pizzas: $11.00 + $11.00 + $12.00 = $34.00.",
+    "Finally, add the $5.00 tip to the total cost of the pizzas: $34.00 + $5.00 = $39.00."
+  ],
+  "solution": "39"
+}

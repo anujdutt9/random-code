@@ -1,0 +1,13 @@
+{
+  "query": "A library has 7 rectangular tables and the remaining tables will be square tables. A rectangular table seats 10 pupils while a square table seats 4 pupils. How many square tables are needed so that 90 pupils can read at the same time?",
+  "steps": [
+    "First, I need to determine how many pupils can be seated at the 7 rectangular tables.",
+    "Each rectangular table seats 10 pupils, so 7 rectangular tables can seat 7 * 10 = 70 pupils.",
+    "I need to find out how many more pupils need to be seated after seating 70 pupils at the rectangular tables.",
+    "There are a total of 90 pupils, and 70 are already seated at the rectangular tables. The remaining number of pupils to seat is 90 - 70 = 20 pupils.",
+    "Next, I need to calculate how many square tables are needed to seat the remaining 20 pupils.",
+    "Each square table seats 4 pupils. To find out how many square tables are needed to seat 20 pupils, I divide 20 by 4.",
+    "20 divided by 4 equals 5. So, 5 square tables are needed to seat 20 pupils."
+  ],
+  "solution": "5"
+}

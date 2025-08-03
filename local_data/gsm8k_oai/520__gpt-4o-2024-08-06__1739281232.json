@@ -1,0 +1,20 @@
+{
+  "query": "There are 25 different layers of rock in a canyon\u2019s strata. Five of the layers are limestone. Half of the rest are sandstone. Four of the remaining are quartz. Half of the rest are shale. The rest are all different kinds of rock. How many kinds of rock make up only one layer in the canyon\u2019s strata?",
+  "steps": [
+    "First, I note that there are a total of 25 different layers of rock.",
+    "The problem states that 5 of these layers are limestone. So, I subtract 5 from 25.",
+    "25 - 5 = 20. That means there are 20 layers that are not limestone.",
+    "Half of these 20 layers are sandstone. I calculate half of 20.",
+    "20 / 2 = 10, so 10 layers are sandstone.",
+    "Now I subtract the 10 sandstone layers from the 20 non-limestone layers to find how many are left.",
+    "20 - 10 = 10. That means 10 layers remain after accounting for limestone and sandstone.",
+    "Four of these remaining layers are quartz, so I subtract 4 from 10.",
+    "10 - 4 = 6. That means there are 6 layers left which are neither limestone, sandstone, nor quartz.",
+    "Half of these 6 layers are shale. I need to calculate half of 6.",
+    "6 / 2 = 3, so 3 layers are shale.",
+    "I subtract these 3 shale layers from the 6 layers that were left.",
+    "6 - 3 = 3. This leaves 3 layers unaccounted for, which are all different kinds of rock.",
+    "Since the total remaining layers are all different kinds of rock, all 3 layers each represent a unique type of rock."
+  ],
+  "solution": "3"
+}

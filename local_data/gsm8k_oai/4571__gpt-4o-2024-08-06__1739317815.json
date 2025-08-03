@@ -1,0 +1,16 @@
+{
+  "query": "Granger has five times as many spots as his brother, Cisco.  But Cisco has 5 less than half as many spots as his cousin, Rover.  If Rover has 46 spots, how many spots do Granger and Cisco have combined?",
+  "steps": [
+    "First, let's determine how many spots Cisco has by using the information about Rover having 46 spots.",
+    "Cisco has 5 less than half as many spots as Rover.",
+    "Half of Rover's spots is 46 / 2 = 23.",
+    "Cisco has 5 less than this amount, so Cisco has 23 - 5 = 18 spots.",
+    "Now, let's calculate how many spots Granger has.",
+    "Granger has five times as many spots as his brother, Cisco.",
+    "Since Cisco has 18 spots, Granger has 18 * 5 = 90 spots.",
+    "Now, let's find the total number of spots Granger and Cisco have combined.",
+    "Granger has 90 spots and Cisco has 18 spots.",
+    "Combined, they have 90 + 18 = 108 spots."
+  ],
+  "solution": "108"
+}

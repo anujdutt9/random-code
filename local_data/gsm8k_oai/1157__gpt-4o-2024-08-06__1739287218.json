@@ -1,0 +1,20 @@
+{
+  "query": "Tony's dad is very strict about the washing machine and family members are only allowed to wash 50 total ounces of clothing at a time. Tony doesn't want to break the rules, so he weighs his clothes and finds that a pair of socks weighs 2 ounces, underwear weighs 4 ounces, a shirt weighs 5 ounces, shorts weigh 8 ounces, and pants weigh 10 ounces. Tony is washing a pair of pants, 2 shirts, a pair of shorts, and 3 pairs of socks. How many more pairs of underwear can he add to the wash and not break the rule?",
+  "steps": [
+    "First, I need to determine the total weight of the clothing Tony is already planning to wash.",
+    "Tony is washing 1 pair of pants which weighs 10 ounces.",
+    "Tony is also washing 2 shirts. Each shirt weighs 5 ounces, so 2 shirts weigh 2 * 5 = 10 ounces total.",
+    "Tony is washing a pair of shorts that weighs 8 ounces.",
+    "Finally, he is washing 3 pairs of socks. Each pair of socks weighs 2 ounces, so 3 pairs weigh 3 * 2 = 6 ounces total.",
+    "Now, I will sum the weights of all the clothing Tony is planning to wash: 10 ounces (pants) + 10 ounces (shirts) + 8 ounces (shorts) + 6 ounces (socks).",
+    "Adding these up, the total weight is 10 + 10 + 8 + 6 = 34 ounces.",
+    "The rule is that only 50 ounces of clothing can be washed at a time.",
+    "If Tony is currently planning to wash 34 ounces, I need to calculate how much more weight he can add without breaking the rule.",
+    "50 ounces (limit) - 34 ounces (current total) = 16 ounces available.",
+    "Each pair of underwear weighs 4 ounces.",
+    "I need to find how many pairs of underwear, each weighing 4 ounces, can fit into the 16 ounces available.",
+    "To find this, I divide 16 ounces by 4 ounces per pair: 16 / 4 = 4.",
+    "Therefore, Tony can add 4 more pairs of underwear without breaking the 50-ounce limit."
+  ],
+  "solution": "4"
+}

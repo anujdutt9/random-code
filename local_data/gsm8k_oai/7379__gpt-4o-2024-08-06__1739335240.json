@@ -1,0 +1,13 @@
+{
+  "query": "A man divides 3 hectares of land evenly among his 8 sons. If every 750m^2 of this land can be used to make a profit of $500 from every 3 months of commercial farming, how much can each son make if they cultivate their share of the land for one year(1 hectare is equal to 10000 m^2)?",
+  "steps": [
+    "First, let's determine the total area of the land in square meters since 1 hectare is equal to 10,000 m^2.",
+    "The man has 3 hectares of land, so the total land area is 3 hectares * 10,000 m^2/hectare = 30,000 m^2.",
+    "This land is divided equally among 8 sons, so each son receives 30,000 m^2 / 8 = 3,750 m^2.",
+    "Next, we need to determine how much profit can be generated from 3,750 m^2 over one year. We are told that every 750 m^2 of land can generate $500 every 3 months.",
+    "First, calculate how many 750 m^2 sections are in 3,750 m^2. This is calculated by 3,750 m^2 / 750 m^2/section = 5 sections.",
+    "Each section generates $500 every 3 months. Since there are 4 periods of 3 months in a year, each section will generate $500 * 4 = $2,000 in a year.",
+    "Thus, each of the 5 sections generates $2,000 over the year, so the total profit for one son is 5 sections * $2,000/section = $10,000."
+  ],
+  "solution": "10000"
+}

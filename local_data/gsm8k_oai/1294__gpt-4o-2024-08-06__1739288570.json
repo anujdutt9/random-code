@@ -1,0 +1,14 @@
+{
+  "query": "To get to an island called \"Virgo\", Tom needs to travel by plane and then by boat. The plane trip is four times longer than the boat trip, and the boat trip takes up to 2 hours. In how many hours is Tom able to get to the \"Virgo\" island?",
+  "steps": [
+    "First, I need to determine the maximum possible duration of the boat trip since it takes up to 2 hours.",
+    "The maximum duration of the boat trip is 2 hours.",
+    "The plane trip is four times longer than the boat trip.",
+    "To find the duration of the plane trip, I multiply the duration of the boat trip by 4.",
+    "The plane trip duration is 4 times 2 hours, which equals 8 hours.",
+    "Now, I add the duration of the boat trip to the duration of the plane trip to find the total travel time.",
+    "The total travel time is 2 hours (boat trip) + 8 hours (plane trip).",
+    "The total time taken for Tom to reach the \"Virgo\" island is 10 hours."
+  ],
+  "solution": "10"
+}

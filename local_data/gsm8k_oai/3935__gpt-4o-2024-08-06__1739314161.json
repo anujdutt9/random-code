@@ -1,0 +1,25 @@
+{
+  "query": "Karen works at an animal shelter with 30 dogs, 28 cats, and 20 lizards. Every month, 50% of the dogs are adopted, 25% of the cats are adopted, and 20% of lizards are adopted. If the shelter takes in 13 new pets a month, how many pets are there after one month?",
+  "steps": [
+    "First, I need to determine how many of each type of pet is adopted per month.",
+    "For dogs: 50% of 30 dogs are adopted.",
+    "50% of 30 is calculated as \\( 0.5 \\times 30 = 15 \\). So, 15 dogs are adopted.",
+    "For cats: 25% of 28 cats are adopted.",
+    "25% of 28 is calculated as \\( 0.25 \\times 28 = 7 \\). So, 7 cats are adopted.",
+    "For lizards: 20% of 20 lizards are adopted.",
+    "20% of 20 is calculated as \\( 0.2 \\times 20 = 4 \\). So, 4 lizards are adopted.",
+    "Next, I will determine how many of each type of pet remain after the adoptions.",
+    "For dogs: There are 30 original dogs minus the 15 that were adopted.",
+    "30 - 15 = 15 dogs remain.",
+    "For cats: There are 28 original cats minus the 7 that were adopted.",
+    "28 - 7 = 21 cats remain.",
+    "For lizards: There are 20 original lizards minus the 4 that were adopted.",
+    "20 - 4 = 16 lizards remain.",
+    "Now, I will find out the new total number of pets after accounting for incoming pets.",
+    "The remaining numbers are 15 dogs, 21 cats, and 16 lizards.",
+    "Total remaining pets = 15 + 21 + 16 = 52.",
+    "The shelter takes in 13 new pets every month.",
+    "Total number of pets after taking in new pets = 52 + 13 = 65."
+  ],
+  "solution": "65"
+}

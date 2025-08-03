@@ -1,0 +1,22 @@
+{
+  "query": "Janet hires six employees. Four of them are warehouse workers who make $15/hour, and the other two are managers who make $20/hour. Janet has to pay 10% of her workers' salaries in FICA taxes. If everyone works 25 days a month and 8 hours a day, how much does Janet owe total for their wages and taxes for one month?",
+  "steps": [
+    "First, I need to calculate the total number of hours each type of worker works in a month.",
+    "Everyone works 25 days a month and 8 hours a day.",
+    "This means each worker works \\(25 \\times 8 = 200\\) hours a month.",
+    "Next, I'll calculate the monthly earnings for the warehouse workers.",
+    "There are 4 warehouse workers, and each earns $15/hour.",
+    "Each warehouse worker earns \\(15 \\times 200 = 3000\\) dollars per month.",
+    "For four warehouse workers, the total monthly earnings are \\(4 \\times 3000 = 12000\\) dollars.",
+    "Now, I'll calculate the monthly earnings for the managers.",
+    "There are 2 managers, and each earns $20/hour.",
+    "Each manager earns \\(20 \\times 200 = 4000\\) dollars per month.",
+    "For two managers, the total monthly earnings are \\(2 \\times 4000 = 8000\\) dollars.",
+    "Next, I'll calculate the combined monthly earnings for all six employees.",
+    "The total monthly earnings for all workers is \\(12000 + 8000 = 20000\\) dollars.",
+    "Janet has to pay 10% of these salaries in FICA taxes.",
+    "10% of 20000 is \\(0.10 \\times 20000 = 2000\\) dollars.",
+    "Therefore, the total cost Janet owes, including wages and taxes, is \\(20000 + 2000 = 22000\\) dollars."
+  ],
+  "solution": "22000"
+}

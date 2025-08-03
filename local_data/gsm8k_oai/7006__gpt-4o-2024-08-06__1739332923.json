@@ -1,0 +1,13 @@
+{
+  "query": "Dikembe wants to teach everyone at school about the importance of flossing, so he plans to bring enough packets of floss for everyone. There are 20 students in his class. Each student needs 1.5 yards of floss. He sees in the store that each packet of floss contains 35 yards. If he buys the least amount necessary, how much floss is left over?",
+  "steps": [
+    "First, I need to calculate the total amount of floss required for 20 students, with each needing 1.5 yards.",
+    "To find this, I multiply the number of students by the amount of floss each student needs: 20 students * 1.5 yards per student = 30 yards of floss.",
+    "Next, I need to determine how many packets to buy. Each packet contains 35 yards of floss.",
+    "Since 30 yards is less than 35 yards, 1 packet would technically be enough to cover the 30 yards requirement.",
+    "By purchasing 1 packet, Dikembe still ends up with some extra floss beyond the 30 yards needed.",
+    "To find out how much floss is left over, I need to subtract the total requirement from the total amount he has after buying 1 packet.",
+    "So, the leftover floss is calculated as: 35 yards per packet - 30 yards needed = 5 yards left over."
+  ],
+  "solution": "5"
+}

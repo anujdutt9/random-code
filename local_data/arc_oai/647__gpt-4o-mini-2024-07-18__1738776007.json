@@ -1,0 +1,11 @@
+{
+  "query": "Question: Laura prepared to roll a bowling ball down a lane. She swung the ball back with her arm. At the top of her backswing, the ball had a velocity of 0 meters per second (m/s). She swung her arm forward to release the ball down the lane. The ball left her hand with a velocity of 12 m/s. The time it took her to swing the ball forward was 0.5 seconds. What was the average acceleration of the bowling ball during her forward swing?\n\nChoices:\nA: 2.4 m/s^2\nB: 6.0 m/s^2\nC: 11.5 m/s^2\nD: 24.0 m/s^2",
+  "steps": [
+    "To find the average acceleration, we can use the formula for acceleration: a = (final velocity - initial velocity) / time.",
+    "The initial velocity (u) of the ball when it was at the top of her backswing is 0 m/s, and the final velocity (v) when it left her hand is 12 m/s. The time (t) it took to reach this velocity is 0.5 seconds.",
+    "Now, substitute the values into the acceleration formula: a = (12 m/s - 0 m/s) / 0.5 s.",
+    "Calculate the change in velocity: 12 m/s - 0 m/s = 12 m/s.",
+    "Now divide the change in velocity by the time: a = 12 m/s / 0.5 s = 24 m/s\u00b2."
+  ],
+  "solution": "D"
+}

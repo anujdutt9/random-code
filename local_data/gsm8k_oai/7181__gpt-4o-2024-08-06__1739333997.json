@@ -1,0 +1,16 @@
+{
+  "query": "A small airplane can seat 10 people in first class, 30 in business class, and 50 in economy class seating. If economy class is half full, and business class and first class have the same number of people together as economy class, how many seats are unoccupied in business class if only three people on the flight have first class seats?",
+  "steps": [
+    "The airplane has seating for 10 people in first class, 30 in business class, and 50 in economy class.",
+    "Let's start by finding out how many people are sitting in economy class. We know it's half full, so:\n50 seats in economy class * 0.5 = 25 seats are occupied.",
+    "Now we have the information that the combined number of people in business and first class is equal to the people in economy class.",
+    "From the previous step, we determined that there are 25 people in economy class. Therefore, there must be 25 people in total in business and first class together.",
+    "It is given that only three people on the flight have first class seats.",
+    "So, the number of people in first class is 3.",
+    "To find how many people are in business class, we can subtract the number of first class passengers from the combined total of business and first class passengers:  25 - 3 = 22.",
+    "Thus, there are 22 people in business class.",
+    "Business class has seating for 30 people. We have already calculated that 22 of those seats are occupied.",
+    "The number of unoccupied seats in business class is: 30 - 22 = 8."
+  ],
+  "solution": "8"
+}

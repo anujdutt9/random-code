@@ -1,0 +1,18 @@
+{
+  "query": "John eats 3 meals a day.  Breakfast is 500 calories.  His lunch contains 25% more calories than that.  His dinner is twice as many calories as lunch.  He also has 3 shakes that are each 300 calories.  How many calories does he get in a day?",
+  "steps": [
+    "John eats 3 meals a day: breakfast, lunch, and dinner.",
+    "Breakfast contains 500 calories.",
+    "Lunch contains 25% more calories than breakfast.",
+    "To find out how many calories lunch contains, calculate 25% of the breakfast calories: 500 * 0.25 = 125 calories.",
+    "Add the additional calories to the breakfast calories to get the lunch calories: 500 + 125 = 625 calories.",
+    "Dinner is twice as many calories as lunch.",
+    "Calculate the calories in dinner: 625 * 2 = 1250 calories.",
+    "He has 3 shakes that are each 300 calories.",
+    "Calculate the total calories from the shakes: 3 * 300 = 900 calories.",
+    "Now sum the calories from breakfast, lunch, dinner, and the shakes.",
+    "Breakfast: 500 calories, Lunch: 625 calories, Dinner: 1250 calories, Shakes: 900 calories.",
+    "Total calories: 500 + 625 + 1250 + 900 = 3275 calories."
+  ],
+  "solution": "3275"
+}

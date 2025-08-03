@@ -1,0 +1,13 @@
+{
+  "query": "Question: Which mass is undergoing the greatest amount of acceleration?\n\nChoices:\nA: 1 kg subjected to a force of 1 N\nB: 1 kg subjected to a force of 100 N\nC: 100 kg subjected to a force of 1 N\nD: 100 kg subjected to a force of 100 N",
+  "steps": [
+    "To determine which mass is undergoing the greatest amount of acceleration, we can use Newton's second law of motion, which states that force equals mass times acceleration (F = ma). We can rearrange this to find acceleration (a = F/m).",
+    "Now, let's calculate the acceleration for each option using the formula a = F/m.",
+    "For option A: \nmass = 1 kg, force = 1 N. \nSo, a = 1 N / 1 kg = 1 m/s\u00b2.",
+    "For option B: \nmass = 1 kg, force = 100 N. \nSo, a = 100 N / 1 kg = 100 m/s\u00b2.",
+    "For option C: \nmass = 100 kg, force = 1 N. \nSo, a = 1 N / 100 kg = 0.01 m/s\u00b2.",
+    "For option D: \nmass = 100 kg, force = 100 N. \nSo, a = 100 N / 100 kg = 1 m/s\u00b2.",
+    "Now, let's compare the calculated accelerations:\n- A: 1 m/s\u00b2\n- B: 100 m/s\u00b2\n- C: 0.01 m/s\u00b2\n- D: 1 m/s\u00b2\nThe greatest acceleration is from option B, which is 100 m/s\u00b2."
+  ],
+  "solution": "B"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Susan is taking a two week vacation. She works five days a week and has six days of paid vacation. The rest of her workdays will be unpaid vacation time. She gets paid $15 per hour and works 8 hours a day. How much pay will she miss on her vacation?",
+  "steps": [
+    "First, let's determine how many workdays Susan usually has in two weeks.",
+    "Susan works five days a week.",
+    "In two weeks, she would work 5 days/week * 2 weeks = 10 workdays.",
+    "Susan has six days of paid vacation.",
+    "So, out of the 10 workdays, 6 days are paid.",
+    "Therefore, the remaining 10 workdays - 6 paid workdays = 4 workdays will be unpaid.",
+    "Now, let's calculate how many hours she works in a day.",
+    "Susan works 8 hours per day.",
+    "For the 4 unpaid days, she won't be paid for 4 days * 8 hours/day = 32 hours.",
+    "She earns $15 per hour.",
+    "Thus, the pay she will miss for those 32 hours is 32 hours * $15/hour.",
+    "32 * 15 = 480."
+  ],
+  "solution": "480"
+}

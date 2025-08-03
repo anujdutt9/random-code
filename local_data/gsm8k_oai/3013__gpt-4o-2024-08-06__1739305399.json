@@ -1,0 +1,13 @@
+{
+  "query": "John is lifting weights. He bench presses 15 pounds for 10 reps and does 3 sets. How much total weight does he move?",
+  "steps": [
+    "John is lifting 15 pounds for each repetition.",
+    "He does 10 repetitions per set.",
+    "To find out how much weight he lifts in one set, I need to multiply the weight per rep by the number of reps.",
+    "15 pounds x 10 reps = 150 pounds per set.",
+    "John does 3 sets in total.",
+    "To find the total weight moved, I need to multiply the weight per set by the number of sets.",
+    "150 pounds per set x 3 sets = 450 pounds."
+  ],
+  "solution": "450"
+}

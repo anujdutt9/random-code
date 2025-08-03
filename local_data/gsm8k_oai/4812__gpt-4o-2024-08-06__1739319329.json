@@ -1,0 +1,20 @@
+{
+  "query": "On Monday, a restaurant sells forty dinners. On Tuesday, it sells 40 more dinners than it did Monday. On Wednesday, it sells half the amount of dinners it sold on Tuesday. On Thursday they changed their recipe, and then sold 3 more dinners than they did on Wednesday. How many dinners were sold in those 4 days?",
+  "steps": [
+    "The restaurant sells 40 dinners on Monday.",
+    "On Tuesday, the restaurant sells 40 more dinners than it did on Monday.",
+    "Monday's sales were 40 dinners, so Tuesday's sales are 40 + 40 = 80 dinners.",
+    "On Wednesday, the restaurant sells half the amount of dinners it sold on Tuesday.",
+    "Tuesday's sales were 80 dinners, so Wednesday's sales are 80 / 2 = 40 dinners.",
+    "On Thursday, the restaurant sells 3 more dinners than it did on Wednesday.",
+    "Wednesday's sales were 40 dinners, so Thursday's sales are 40 + 3 = 43 dinners.",
+    "To find the total dinners sold over the four days, add the number of dinners sold each day: Monday + Tuesday + Wednesday + Thursday.",
+    "Monday: 40 dinners",
+    "Tuesday: 80 dinners",
+    "Wednesday: 40 dinners",
+    "Thursday: 43 dinners",
+    "Total dinners sold = 40 + 80 + 40 + 43.",
+    "Total dinners sold = 203."
+  ],
+  "solution": "203"
+}

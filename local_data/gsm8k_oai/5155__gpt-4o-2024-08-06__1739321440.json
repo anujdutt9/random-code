@@ -1,0 +1,12 @@
+{
+  "query": "There are 6 forks in the cutlery drawer. There are 9 more knives than forks, and there are twice as many spoons as knives and half as many teaspoons as forks. After 2 of each cutlery is added to the drawer, how many pieces of cutlery are there in all?",
+  "steps": [
+    "First, let's determine the number of knives. There are 9 more knives than forks. Since there are 6 forks, there are 6 + 9 = 15 knives.",
+    "Next, let's calculate the number of spoons. There are twice as many spoons as knives. Therefore, there are 2 * 15 = 30 spoons.",
+    "Now, let's find the number of teaspoons. There are half as many teaspoons as forks, so there are 6 / 2 = 3 teaspoons.",
+    "Let's add up the initial number of each type of cutlery. We have 6 forks, 15 knives, 30 spoons, and 3 teaspoons. So the total is 6 + 15 + 30 + 3 = 54 pieces of cutlery initially.",
+    "We are adding 2 of each type of cutlery to the drawer: 2 forks, 2 knives, 2 spoons, and 2 teaspoons. This totals to an additional 2 + 2 + 2 + 2 = 8 pieces of cutlery.",
+    "Adding these 8 new pieces to the initial 54 pieces, we get a total of 54 + 8 = 62 pieces of cutlery."
+  ],
+  "solution": "62"
+}

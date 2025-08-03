@@ -1,0 +1,21 @@
+{
+  "query": "John decides to stop delivering the newspapers he is supposed to deliver and instead steals them to recycle them for cash.  The Monday-Saturday papers weigh 8 ounces each.  The Sunday paper weighs twice as much.  He is supposed to deliver 250 papers a day.  He doesn't deliver them for 10 weeks.  If one ton of paper recycles for $20, how much did he make?",
+  "steps": [
+    "First, I need to find out how many papers John stole in total.",
+    "John doesn't deliver papers for 10 weeks. There are 7 days in a week, so that's 70 days total.",
+    "He delivers 250 papers per day, so the total number of papers is 250 papers/day * 70 days = 17,500 papers.",
+    "Now, I need to find out how much those papers weigh in total.",
+    "The Monday-Saturday papers weigh 8 ounces each. There are 6 of these days in a week, so in 10 weeks, that's 60 days.",
+    "The Sunday paper weighs twice as much as the other days' papers, so it weighs 8 ounces * 2 = 16 ounces.",
+    "There are 10 Sundays in 10 weeks.",
+    "The total weight of the Monday-Saturday papers is 250 papers/day * 60 days * 8 ounces/paper = 120,000 ounces.",
+    "The total weight of the Sunday papers is 250 papers/day * 10 days * 16 ounces/paper = 40,000 ounces.",
+    "Therefore, the total weight of all papers is 120,000 ounces + 40,000 ounces = 160,000 ounces.",
+    "Next, I need to convert the weight from ounces to tons. There are 16 ounces in a pound and 2,000 pounds in a ton.",
+    "First, convert ounces to pounds: 160,000 ounces \u00f7 16 ounces/pound = 10,000 pounds.",
+    "Now, convert pounds to tons: 10,000 pounds \u00f7 2,000 pounds/ton = 5 tons.",
+    "One ton of paper recycles for $20.",
+    "Therefore, John makes 5 tons * $20/ton = $100 by recycling the newspapers."
+  ],
+  "solution": "100"
+}

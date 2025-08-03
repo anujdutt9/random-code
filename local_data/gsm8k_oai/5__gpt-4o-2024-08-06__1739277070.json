@@ -1,0 +1,14 @@
+{
+  "query": "Mark has a garden with flowers. He planted plants of three different colors in it. Ten of them are yellow, and there are 80% more of those in purple. There are only 25% as many green flowers as there are yellow and purple flowers. How many flowers does Mark have in his garden?",
+  "steps": [
+    "Start by identifying the number of yellow flowers. There are 10 yellow flowers.",
+    "Next, determine the amount of purple flowers. The problem states there are 80% more purple flowers than yellow flowers.",
+    "Calculate 80% of the 10 yellow flowers: 0.8 * 10 = 8.",
+    "Add the original number of yellow flowers to find the total number of purple flowers: 10 + 8 = 18 purple flowers.",
+    "Now, find the number of green flowers. The problem states there are only 25% as many green flowers as there are total yellow and purple flowers.",
+    "First, calculate total number of yellow and purple flowers: 10 + 18 = 28.",
+    "Calculate 25% of 28 to find the number of green flowers: 0.25 * 28 = 7 green flowers.",
+    "Finally, calculate the total number of flowers by adding together all colors: 10 yellow + 18 purple + 7 green = 35 flowers."
+  ],
+  "solution": "35"
+}

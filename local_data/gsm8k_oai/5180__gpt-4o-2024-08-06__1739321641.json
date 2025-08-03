@@ -1,0 +1,14 @@
+{
+  "query": "There are 2,000 kids in camp. If half of the kids are going to soccer camp, and 1/4 of the kids going to soccer camp are going to soccer camp in the morning, how many kids are going to soccer camp in the afternoon?",
+  "steps": [
+    "First, I need to determine how many kids are going to soccer camp.",
+    "Since half of the 2,000 kids are going to soccer camp, I calculate \\( \\frac{1}{2} \\times 2000 \\).",
+    "\\( \\frac{1}{2} \\times 2000 = 1000 \\) kids are going to soccer camp.",
+    "Now, I need to find out how many of these kids are going to soccer camp in the morning.",
+    "1/4 of the kids going to soccer camp are going in the morning. I calculate \\( \\frac{1}{4} \\times 1000 \\).",
+    "\\( \\frac{1}{4} \\times 1000 = 250 \\) kids are going to soccer camp in the morning.",
+    "To find how many kids are going to soccer camp in the afternoon, I subtract the number of kids going in the morning from the total number of kids going to soccer camp.",
+    "1000 - 250 = 750 kids are going to soccer camp in the afternoon."
+  ],
+  "solution": "750"
+}

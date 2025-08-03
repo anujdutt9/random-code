@@ -1,0 +1,17 @@
+{
+  "query": "Lorraine made a pan of brownies and cut them into 16 pieces.  Her children ate 25% of the brownies when they got home from school.  After dinner,  the entire family ate 50% of the remaining brownies.  After everyone went to bed, Lorraine ate 1 more brownie.  How many brownies are left over?",
+  "steps": [
+    "Lorraine initially has 16 brownies.",
+    "Her children ate 25% of the brownies.",
+    "25% of 16 brownies is calculated as 0.25 * 16.",
+    "0.25 * 16 = 4 brownies.",
+    "Her children ate 4 brownies, so there are 16 - 4 = 12 brownies left.",
+    "After dinner, the family ate 50% of the remaining brownies.",
+    "50% of 12 brownies is calculated as 0.5 * 12.",
+    "0.5 * 12 = 6 brownies.",
+    "The family ate 6 brownies, so there are 12 - 6 = 6 brownies left.",
+    "After everyone went to bed, Lorraine ate 1 more brownie.",
+    "If Lorraine ate 1 brownie from the 6 left, then there are 6 - 1 = 5 brownies left."
+  ],
+  "solution": "5"
+}

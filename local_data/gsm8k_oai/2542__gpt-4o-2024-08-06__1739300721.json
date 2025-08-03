@@ -1,0 +1,20 @@
+{
+  "query": "When the machine is cold, as it is in the first hour of production, it takes 6 minutes to produce each molded flower pot. Thereafter, once it is warm, it takes only 5 minutes to produce each pot. How many additional pots are produced in the last hour of the day, compared to the first?",
+  "steps": [
+    "First, I need to determine how many pots are produced during the first hour.",
+    "The machine takes 6 minutes to produce each pot during the first hour.",
+    "There are 60 minutes in an hour.",
+    "To find the number of pots produced, I divide 60 minutes by 6 minutes per pot.",
+    "60 minutes \u00f7 6 minutes/pot = 10 pots",
+    "Next, I need to determine how many pots are produced in the last hour when the machine is warm.",
+    "When the machine is warm, it takes 5 minutes to produce each pot.",
+    "I again have 60 minutes in the hour to use for calculation.",
+    "To find the number of pots produced, I divide 60 minutes by 5 minutes per pot.",
+    "60 minutes \u00f7 5 minutes/pot = 12 pots",
+    "Now, I compare the number of pots produced in the last hour to the first hour.",
+    "In the first hour, 10 pots were produced, and in the last hour, 12 pots were produced.",
+    "I need to find the difference in the number of pots produced between the last hour and the first hour.",
+    "12 pots (last hour) - 10 pots (first hour) = 2 additional pots"
+  ],
+  "solution": "2"
+}

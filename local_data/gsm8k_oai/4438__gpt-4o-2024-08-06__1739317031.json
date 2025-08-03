@@ -1,0 +1,24 @@
+{
+  "query": "The fall semester lasts 15 weeks.  During the weekdays, Paris studies 3 hours a day for her classes.  On the weekends, she spends 4 hours studying on Saturday and 5 hours studying on Sunday.  How much time does Paris study during the semester?",
+  "steps": [
+    "First, I need to calculate the total number of weekdays in the 15-week semester.",
+    "There are 5 weekdays in a week.",
+    "So, 15 weeks \u00d7 5 weekdays per week = 75 weekdays.",
+    "Next, I find out how many hours Paris studies on weekdays during the semester.",
+    "Paris studies 3 hours each weekday.",
+    "So, 75 weekdays \u00d7 3 hours per weekday = 225 hours spent studying on weekdays during the semester.",
+    "Now, I calculate the total number of weekend days in the semester.",
+    "There are 2 days in each weekend.",
+    "So, 15 weeks \u00d7 2 days = 30 weekend days.",
+    "For the weekends, I need to calculate the study hours for Saturday and Sunday separately.",
+    "Paris studies 4 hours on Saturday.",
+    "So, 15 Saturdays \u00d7 4 hours each = 60 hours spent studying on Saturdays.",
+    "Paris studies 5 hours on Sunday.",
+    "So, 15 Sundays \u00d7 5 hours each = 75 hours spent studying on Sundays.",
+    "Next, I need to add the total hours spent studying on weekends.",
+    "Weekend study hours = 60 hours (Saturdays) + 75 hours (Sundays) = 135 hours.",
+    "Finally, I add the study hours on weekdays and weekends to get the total study hours for the semester.",
+    "Total study hours = 225 hours (weekdays) + 135 hours (weekends) = 360 hours."
+  ],
+  "solution": "360"
+}

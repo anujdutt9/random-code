@@ -1,0 +1,21 @@
+{
+  "query": "Marky owns a computer accessory shop. For this month, half of their sales are wireless mice, one-fourth are optical mice, and the rest are trackball mice. If Marky's shop was able to sell a total of 80 mice, how many of them are trackball mice?",
+  "steps": [
+    "First, I need to understand the total sales of mice.",
+    "The problem states that Marky sold a total of 80 mice.",
+    "Half of the sales were wireless mice.",
+    "So, the number of wireless mice sold is 80 divided by 2.",
+    "80 divided by 2 equals 40. Therefore, 40 wireless mice were sold.",
+    "One-fourth of the sales were optical mice.",
+    "So, the number of optical mice sold is 80 divided by 4.",
+    "80 divided by 4 equals 20. Therefore, 20 optical mice were sold.",
+    "I have calculated the number of wireless and optical mice. Now I need to find how many trackball mice were sold.",
+    "The rest of the sales, which are not wireless or optical mice, must be trackball mice.",
+    "I will calculate the number of trackball mice by subtracting the wireless and optical mice sales from the total sales.",
+    "The total sales of wireless and optical mice is 40 plus 20.",
+    "40 plus 20 equals 60. So, 60 mice were either wireless or optical mice.",
+    "The number of trackball mice sold is the total mice minus the sum of wireless and optical mice.",
+    "80 minus 60 equals 20."
+  ],
+  "solution": "20"
+}

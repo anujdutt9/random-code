@@ -1,0 +1,17 @@
+{
+  "query": "Archie is playing with his marbles outside. He loses 60% of them into the street. Of the remaining ones, he loses half down a sewer. If he has 20 left, how many did he start with?",
+  "steps": [
+    "Let's denote the number of marbles Archie originally had as \\( x \\).",
+    "He loses 60% of his marbles. Therefore, he retains 40% of them.",
+    "The number of marbles he has after losing 60% is \\( 0.4x \\).",
+    "Of these remaining marbles, he loses half down a sewer.",
+    "So, after losing half of the remaining marbles, he has \\( \\frac{1}{2} \\times 0.4x = 0.2x \\) marbles left.",
+    "We are told he has 20 marbles left.",
+    "Therefore, \\( 0.2x = 20 \\).",
+    "To solve for \\( x \\), we divide both sides of the equation by 0.2.",
+    "This gives \\( x = \\frac{20}{0.2} \\).",
+    "Calculating further, \\( \\frac{20}{0.2} = 100 \\).",
+    "Thus, Archie started with 100 marbles."
+  ],
+  "solution": "100"
+}

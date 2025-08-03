@@ -1,0 +1,18 @@
+{
+  "query": "Zayne sells bracelets for $5 each and two for $8. If he started with 30 bracelets and made $60 from selling bracelets for $5 each, how much in total did he make from selling his bracelets?",
+  "steps": [
+    "Zayne sells bracelets in two different ways: for $5 each and two for $8.",
+    "The problem states that he made $60 from selling bracelets for $5 each.",
+    "If each $5 bracelet sale contributes $5 to the total, I calculate the number of $5 bracelets sold by dividing $60 by $5.",
+    "$60 divided by $5 equals 12, which means Zayne sold 12 bracelets for $5 each.",
+    "Since each bracelet is counted as one unit, 12 bracelets were sold individually.",
+    "Zayne started with 30 bracelets, so he originally had 30 - 12 = 18 bracelets remaining after the $5 sales.",
+    "The remaining 18 bracelets could only have been sold in the \"two for $8\" model.",
+    "18 divided by 2 equals 9, indicating he sold 9 pairs of bracelets, or 18 bracelets in total, under the two-for-$8 model.",
+    "Each pair sold earns $8, so the earnings from the pairs are 9 pairs times $8 per pair.",
+    "9 times $8 equals $72 from selling pairs of bracelets.",
+    "I now calculate the total earnings by adding the $60 from individual sales and the $72 from pair sales.",
+    "$60 plus $72 equals $132."
+  ],
+  "solution": "132"
+}

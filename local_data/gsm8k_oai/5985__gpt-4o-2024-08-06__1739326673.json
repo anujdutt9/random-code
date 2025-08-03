@@ -1,0 +1,12 @@
+{
+  "query": "If Billy sleeps 6 hours one night, then 2 more hours than that the following night, and then half the previous amount the following night, and then finally triple the previous amount the final night, how much did he sleep in that four day period?",
+  "steps": [
+    "First, determine how many hours Billy slept the first night. He slept 6 hours.",
+    "Next, find out the number of hours Billy slept the second night. He slept 2 more hours than the first night, which means he slept 6 + 2 = 8 hours.",
+    "Now, calculate the number of hours Billy slept the third night. He slept half of the previous night's amount. Half of 8 hours is 8 / 2 = 4 hours.",
+    "Then, determine the number of hours Billy slept the fourth night. He slept triple the previous night's amount. Triple of 4 hours is 4 * 3 = 12 hours.",
+    "Finally, add up the total number of hours slept over the four nights: 6 + 8 + 4 + 12.",
+    "Calculate the total: 6 + 8 = 14, then 14 + 4 = 18, and finally, 18 + 12 = 30 hours."
+  ],
+  "solution": "30"
+}

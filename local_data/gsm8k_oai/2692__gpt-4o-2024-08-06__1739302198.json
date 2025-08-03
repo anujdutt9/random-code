@@ -1,0 +1,16 @@
+{
+  "query": "Randy got 90, 98, 92, and 94 in his first four quizzes. His goal is to get a 94 average on his 5 quizzes. What score should he get in the fifth quiz to reach his desired average?",
+  "steps": [
+    "First, I will calculate the total score that Randy needs for 5 quizzes to have an average of 94.",
+    "To do this, I multiply 94 (the desired average) by 5 (the number of quizzes): 94 * 5 = 470.",
+    "The total score needed for the 5 quizzes is 470.",
+    "Next, I will find the total score of Randy's first four quizzes by adding them: 90 + 98 + 92 + 94.",
+    "Calculating the sum: 90 + 98 = 188.",
+    "188 + 92 = 280.",
+    "280 + 94 = 374.",
+    "The total score of the first four quizzes is 374.",
+    "To find the score Randy needs on the fifth quiz, I subtract the total of his first four quizzes from the total score needed: 470 - 374.",
+    "Calculating the subtraction: 470 - 374 = 96."
+  ],
+  "solution": "96"
+}

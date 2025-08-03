@@ -1,0 +1,13 @@
+{
+  "query": "John watches a TV show and they announce they are going to do 1 more season.  Each season is 22 episodes except for the last season which is 4 episodes longer.  There were 9 seasons before the announcement.  If each episode is .5 hours how long will it take to watch them all after the last season finishes?",
+  "steps": [
+    "There are 9 seasons before the announcement.",
+    "Each of these seasons has 22 episodes.",
+    "Calculate the total number of episodes for these 9 seasons: 9 seasons * 22 episodes/season = 198 episodes.",
+    "The announced additional season will have 22 + 4 = 26 episodes.",
+    "Now, calculate the total number of episodes including the new season: 198 episodes + 26 episodes = 224 episodes.",
+    "Each episode is 0.5 hours long.",
+    "Calculate the total viewing time by multiplying the total number of episodes by the duration of each episode: 224 episodes * 0.5 hours/episode = 112 hours."
+  ],
+  "solution": "112"
+}

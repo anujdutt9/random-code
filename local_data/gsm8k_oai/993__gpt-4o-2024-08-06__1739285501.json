@@ -1,0 +1,20 @@
+{
+  "query": "Rick has 130 cards. He decided to only keep 15 cards and so he gave Miguel some of the cards. Then, he saw 8 friends and decided to give them 12 cards each, and the remaining cards were given equally to his 2 sisters. If each of Rick's sisters got 3 cards, how many cards did Rick give to Miguel?",
+  "steps": [
+    "Rick initially has 130 cards.",
+    "Rick decides to keep 15 cards for himself.",
+    "I need to subtract the 15 cards Rick keeps from the total 130 cards.",
+    "130 - 15 = 115 cards are distributed to others.",
+    "Rick gave 8 friends 12 cards each.",
+    "To calculate how many cards were given to the 8 friends, I must multiply 8 by 12.",
+    "8 * 12 = 96 cards were given to the friends.",
+    "Subtracting the cards given to friends from the total distributed card number: 115 - 96.",
+    "115 - 96 = 19 cards remain after distributing to the friends.",
+    "The remaining 19 cards are given equally to 2 sisters.",
+    "If each sister gets 3 cards, the total cards given to the sisters is 3 * 2.",
+    "3 * 2 = 6 cards were given to the sisters.",
+    "So, the calculation for cards given to Miguel is the remaining cards after distributing to both friends and sisters: 115 cards - 96 cards for friends - 6 cards for sisters.",
+    "115 - 96 - 6 = 13 cards were given to Miguel."
+  ],
+  "solution": "13"
+}

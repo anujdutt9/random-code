@@ -1,0 +1,17 @@
+{
+  "query": "One US cup equals 250ml. Brian is making lasagna for himself, his wife, his two kids, his parents, and his wife's parents. The recipe requires 1/2 a cup of milk per serving. How many 1L cartons of milk does Brian need to buy if each person is expected to eat 2 servings?",
+  "steps": [
+    "First, I need to figure out how many people will eat the lasagna. The people include Brian, his wife, his two kids, his parents, and his wife's parents.",
+    "The total number of people is Brian (1) + wife (1) + two kids (2) + Brian's parents (2) + wife's parents (2) = 8 people.",
+    "Each person is expected to eat 2 servings. So, I need to calculate the total number of servings.",
+    "The total number of servings = 8 people * 2 servings per person = 16 servings.",
+    "The recipe requires 1/2 cup of milk per serving. So, I need to calculate the total amount of milk in cups for 16 servings.",
+    "Total cups of milk needed = 16 servings * 1/2 cup per serving = 8 cups.",
+    "Now I need to convert the total cups of milk into milliliters. Since one US cup equals 250 ml, I multiply the cups by 250 ml/cup.",
+    "Total milliliters of milk needed = 8 cups * 250 ml/cup = 2000 ml.",
+    "Next, I need to determine how many 1-liter cartons of milk are required. A 1-liter carton contains 1000 ml.",
+    "Since 2000 ml of milk is needed, I divide 2000 ml by 1000 ml/carton to find the number of cartons required.",
+    "2000 ml / 1000 ml/carton = 2 cartons."
+  ],
+  "solution": "2"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Gwen received a $900 bonus at work and decided to invest this money in the stock market.  She spent one-third of her bonus on stock A, one-third on stock B, and the remaining one-third on stock C.   After one year, stock A and stock B had doubled in value, while stock C had lost half of its value.  At the end of the year, how much were Gwen's stocks worth, in dollars?",
+  "steps": [
+    "Gwen received a $900 bonus and decided to invest it equally in three stocks: A, B, and C.",
+    "Since she spent one-third of her bonus on each stock, we calculate one-third of $900.",
+    "One-third of $900 is $900 / 3 = $300.",
+    "Gwen invested $300 in stock A, $300 in stock B, and $300 in stock C.",
+    "After one year, stock A doubled in value. Doubling $300 results in $300 * 2 = $600 for stock A.",
+    "Stock B also doubled in value. Thus, $300 in stock B becomes $300 * 2 = $600.",
+    "Stock C lost half of its value. Losing half of $300 is equivalent to $300 / 2 = $150 for stock C.",
+    "Now, we add the values of all the stocks at the end of the year: $600 (A) + $600 (B) + $150 (C).",
+    "$600 + $600 = $1200 and $1200 + $150 = $1350."
+  ],
+  "solution": "1350"
+}

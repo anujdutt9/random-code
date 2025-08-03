@@ -1,0 +1,21 @@
+{
+  "query": "Tilly needs to sell 100 bags at $10 per bag to make $300 in profit. How much did she buy each bag for?",
+  "steps": [
+    "Tilly needs to sell 100 bags.",
+    "She sells each bag for $10.",
+    "So her total revenue from selling the bags would be 100 bags * $10/bag.",
+    "100 bags * $10/bag = $1000.",
+    "Her total revenue is $1000.",
+    "Tilly wants to make a profit of $300.",
+    "Profit is calculated as total revenue minus total costs.",
+    "Let the cost of each bag be x dollars.",
+    "So, the total cost for 100 bags = 100 bags * x dollars/bag = 100x dollars.",
+    "We set up the profit equation: Revenue - Cost = Profit.",
+    "$1000 - 100x = $300.",
+    "To find x, we solve the equation: $1000 - 100x = $300.",
+    "Adding 100x to both sides, we get $1000 = $300 + 100x.",
+    "Subtracting $300 from both sides, we get $700 = 100x.",
+    "Dividing both sides by 100 to isolate x, we get x = $7."
+  ],
+  "solution": "7"
+}

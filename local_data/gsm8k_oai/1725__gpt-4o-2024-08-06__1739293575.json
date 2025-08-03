@@ -1,0 +1,19 @@
+{
+  "query": "Mike has to get an x-ray and an MRI.  The x-ray is $250 and the MRI is triple that cost.  Insurance covers 80%.  How much did he pay?",
+  "steps": [
+    "First, I need to determine the cost of the MRI.",
+    "The MRI is three times the cost of the x-ray. The x-ray is $250.",
+    "I multiply $250 by 3 to get the cost of the MRI.",
+    "$250 multiplied by 3 is $750.",
+    "Now I have the costs: the x-ray is $250, and the MRI is $750.",
+    "Next, I calculate the total cost before insurance.",
+    "I add the cost of the x-ray ($250) and the MRI ($750) to get the total cost.",
+    "$250 plus $750 equals $1000.",
+    "Insurance covers 80% of the total cost.",
+    "I need to calculate 20% of the total cost, which represents the amount not covered by insurance, and thus what Mike would pay.",
+    "20% as a decimal is 0.20.",
+    "I multiply the total cost $1000 by 0.20 to find out how much Mike pays.",
+    "$1000 times 0.20 equals $200."
+  ],
+  "solution": "200"
+}

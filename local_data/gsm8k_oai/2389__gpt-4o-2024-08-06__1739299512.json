@@ -1,0 +1,20 @@
+{
+  "query": "Marcus takes a deck of standard playing cards and takes out all the face cards and the 8's. Mark picks a card at random and then replaces it 36 times. How many times should he expect to pick a card that's both red and has a number divisible by 3?",
+  "steps": [
+    "First, I need to figure out how many cards are in a standard deck and then remove the face cards and the 8's.",
+    "A standard deck has 52 cards. There are 12 face cards (King, Queen, Jack for each of the 4 suits) and 4 cards with the number 8 (one for each suit).",
+    "By removing the face cards and 8's, we have 52 - 12 - 4 = 36 cards left.",
+    "Next, I need to identify which cards are both red and have a number divisible by 3.",
+    "The red suits are hearts and diamonds. The numbers divisible by 3 in each suit are 3, 6, 9.",
+    "For hearts, the cards that are red and divisible by 3 are: 3 of hearts, 6 of hearts, 9 of hearts.",
+    "For diamonds, the cards that are red and divisible by 3 are: 3 of diamonds, 6 of diamonds, 9 of diamonds.",
+    "In total, there are 3 red cards divisible by 3 in hearts and 3 in diamonds, making a total of 3 + 3 = 6 such cards.",
+    "Now I calculate the probability of picking a red card with a number divisible by 3.",
+    "The probability of picking one of these cards is the number of favorable outcomes (6) divided by the total number of available cards (36).",
+    "The probability is therefore 6/36 = 1/6.",
+    "Mark picks a card 36 times with replacement. I need to find the expected number of times he picks the cards that are both red and have a number divisible by 3.",
+    "The expected number of times is the probability of success (1/6) multiplied by the number of trials (36).",
+    "So, the expected number is 36 * (1/6) = 6."
+  ],
+  "solution": "6"
+}

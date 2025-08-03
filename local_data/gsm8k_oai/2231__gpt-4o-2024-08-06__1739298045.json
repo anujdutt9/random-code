@@ -1,0 +1,17 @@
+{
+  "query": "A married couple and their 6 children are ordering some pizza. If the couple want 3 slices each and the children want 1 slice each, how many 4-slice pizzas should they order?",
+  "steps": [
+    "First, I need to determine the total number of slices the married couple wants.",
+    "The couple consists of 2 people, and each wants 3 slices.",
+    "I multiply 2 people by 3 slices each, which equals 6 slices for the couple.",
+    "Next, I need to determine the total number of slices the 6 children want.",
+    "Each child wants 1 slice, and there are 6 children.",
+    "I multiply 6 children by 1 slice each, which equals 6 slices for the children.",
+    "Now, I add the slices the couple wants to the slices the children want.",
+    "6 slices (for the couple) + 6 slices (for the children) equals 12 slices in total.",
+    "Each pizza provides 4 slices, so I need to calculate how many 4-slice pizzas are needed to get 12 slices.",
+    "I divide 12 slices by 4 slices per pizza.",
+    "12 divided by 4 equals 3 pizzas."
+  ],
+  "solution": "3"
+}

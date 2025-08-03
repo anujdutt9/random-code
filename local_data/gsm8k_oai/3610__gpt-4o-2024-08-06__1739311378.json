@@ -1,0 +1,21 @@
+{
+  "query": "Four people in a law firm are planning a party. Mary will buy a platter of pasta for $20 and a loaf of bread for $2. Elle and Andrea will split the cost for buying 4 cans of soda which cost $1.50 each, and chicken wings for $10. Joe will buy a cake that costs $5. How much more will Mary spend than the rest of the firm put together?",
+  "steps": [
+    "First, I need to calculate how much Mary will spend. Mary is buying a platter of pasta for $20 and a loaf of bread for $2.",
+    "I add $20 (the cost of the pasta) and $2 (the cost of the bread) to get Mary's total spending.",
+    "Mary's total spending is $20 + $2 = $22.",
+    "Next, I need to calculate how much Elle and Andrea are spending together. They will buy 4 cans of soda and chicken wings.",
+    "First, I calculate the cost of 4 cans of soda. Each soda costs $1.50, so I multiply 4 by $1.50.",
+    "The total cost for the soda is 4 * $1.50 = $6.",
+    "Now, I add the cost of the soda ($6) to the cost of the chicken wings ($10).",
+    "Elle and Andrea's total spending is $6 + $10 = $16.",
+    "Joe will buy a cake for $5, so his total spending is $5.",
+    "Now, I add together the total spending of Elle, Andrea, and Joe to get the combined spending of the rest of the firm.",
+    "Elle and Andrea spend $16 together, and Joe spends $5, so the total combined spending of the rest of the firm is $16 + $5.",
+    "The rest of the firm spends a total of $16 + $5 = $21.",
+    "Finally, I need to determine how much more Mary spends than the combined total of the rest of the firm.",
+    "I subtract the total spending of the rest of the firm ($21) from Mary's total spending ($22).",
+    "The difference is $22 - $21 = $1."
+  ],
+  "solution": "1"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "A store offers a $2 discount for every $10 purchase on any item in the store. Kataleya went to the store and bought 400 peaches sold at forty cents each. Calculate the total amount of money she paid at the store for the fruits.",
+  "steps": [
+    "First, I need to find out the total cost of the peaches without any discount.",
+    "The cost of one peach is $0.40.",
+    "Kataleya bought 400 peaches.",
+    "To find the total cost, I multiply the cost of one peach by the number of peaches: 400 peaches * $0.40/peach = $160.",
+    "The store offers a $2 discount for every $10 purchase.",
+    "Now I should calculate how many $10 amounts are in the total without the discount, which is $160.",
+    "I divide the total cost of $160 by $10: 160 / 10 = 16.",
+    "Since there are 16 ten-dollar amounts, Kataleya is eligible for a discount of $2 for each of those amounts.",
+    "To find the total discount, I multiply the number of $10 amounts by the discount: 16 * $2 = $32.",
+    "Now, I subtract the total discount from the original total cost to find the amount Kataleya needs to pay: $160 - $32 = $128."
+  ],
+  "solution": "128"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "The number of students in Kylie's class is 50. In a particular test, ten students scored 90 marks, 15 scored ten marks fewer than the first ten students, and the rest scored 60 marks each. What are the average marks for the whole class?",
+  "steps": [
+    "First, I need to break down the problem and identify what I'm given. There are a total of 50 students in the class.",
+    "Ten students scored 90 marks each.",
+    "I need to calculate the total marks for these 10 students, so 10 students * 90 marks = 900 marks.",
+    "Next, there are 15 students who scored ten marks fewer than the first ten students. So, these students scored 90 - 10 = 80 marks each.",
+    "Calculate the total marks for these 15 students: 15 students * 80 marks = 1200 marks.",
+    "The remaining students scored 60 marks each. First, I need to determine how many students are left.",
+    "The total number of remaining students is 50 - 10 - 15 = 25 students.",
+    "Calculate the total marks for these remaining 25 students: 25 students * 60 marks = 1500 marks.",
+    "Now, I will calculate the total marks for the entire class.",
+    "The total marks is the sum of the marks of all groups: 900 marks + 1200 marks + 1500 marks = 3600 marks.",
+    "Finally, I'll calculate the average marks for the whole class. The average is the total marks divided by the total number of students.",
+    "So, the average is 3600 marks / 50 students = 72 marks."
+  ],
+  "solution": "72"
+}

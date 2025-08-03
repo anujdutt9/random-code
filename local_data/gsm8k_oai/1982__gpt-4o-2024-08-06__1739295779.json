@@ -1,0 +1,14 @@
+{
+  "query": "Elijah is painting his living room and decides to buy masking tape to make his painting neater. 2 of his walls are 4 meters wide and the other 2 walls are 6 meters wide. Elijah needs enough masking tape to cover the entire width of each wall and can order the exact amount of masking tape he needs. How many meters of masking tape does Elijah need to order?",
+  "steps": [
+    "Elijah has 4 walls in total: 2 walls are 4 meters wide, and 2 walls are 6 meters wide.",
+    "I need to calculate the total width that needs to be covered with masking tape.",
+    "First, calculate the total width of the 2 walls that are 4 meters wide.",
+    "Each wall is 4 meters wide, so for 2 walls: 4 meters + 4 meters = 8 meters.",
+    "Next, calculate the total width of the 2 walls that are 6 meters wide.",
+    "Each wall is 6 meters wide, so for 2 walls: 6 meters + 6 meters = 12 meters.",
+    "Now, add the total widths of both sets of walls to get the total amount of masking tape needed.",
+    "8 meters (from the 4-meter-wide walls) + 12 meters (from the 6-meter-wide walls) = 20 meters."
+  ],
+  "solution": "20"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Jerry\u2019s two daughters play softball on different teams. They each have 8 games this season. Each team practices 4 hours for every game they play. If each game lasts for 2 hours, how many hours will Jerry spend at the field watching his daughters play and practice altogether?",
+  "steps": [
+    "First, I need to find out how many total games both daughters will play.",
+    "Each daughter has 8 games. Since there are two daughters, I multiply 8 games by 2, which equals 16 games.",
+    "Next, I calculate the total number of practice hours for these games.",
+    "Each game has 4 hours of practice associated with it. So, I multiply 16 games by 4 hours of practice per game.",
+    "16 games times 4 hours of practice is 64 hours of practice in total for the two daughters.",
+    "Now, I calculate the total hours spent on the games themselves.",
+    "Each game lasts for 2 hours. With 16 total games, I multiply 16 games by 2 hours per game.",
+    "16 games times 2 hours per game is 32 hours for games.",
+    "Finally, I add the practice hours to the game hours to find the total time Jerry will spend at the field.",
+    "I add 64 hours of practice to 32 hours of games, resulting in 96 total hours."
+  ],
+  "solution": "96"
+}

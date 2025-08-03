@@ -1,0 +1,14 @@
+{
+  "query": "A book costs $4 more than a CD. The CD is 30% cheaper than a $20 album. How much does the book cost?",
+  "steps": [
+    "First, I need to determine the cost of the CD. I know that the CD is 30% cheaper than a $20 album.",
+    "To find the discount amount on the album, I calculate 30% of $20.",
+    "30% of $20 is calculated as (30/100) * 20 = $6.",
+    "Now, I subtract the $6 discount from the album price to find the cost of the CD.",
+    "The cost of the CD is $20 - $6 = $14.",
+    "Next, I need to find the cost of the book. I know the book costs $4 more than the CD.",
+    "I add $4 to the CD's cost to find the cost of the book.",
+    "The book costs $14 + $4 = $18."
+  ],
+  "solution": "18"
+}

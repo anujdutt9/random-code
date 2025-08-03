@@ -1,0 +1,14 @@
+{
+  "query": "Keenan needs to write an essay that is 1200 words. Her essay is due at midnight. She writes 400 words per hour for the first two hours. After that, she writes 200 words per hour. How many hours before the deadline does she need to start to finish on time?",
+  "steps": [
+    "Keenan's total word count goal is 1200 words.",
+    "For the first two hours, she writes 400 words per hour.",
+    "In the first two hours, she writes 2 hours * 400 words/hour = 800 words.",
+    "After writing 800 words, she needs an additional 1200 - 800 = 400 words to reach her goal.",
+    "After the initial two hours, her writing speed reduces to 200 words per hour.",
+    "To write the remaining 400 words at a rate of 200 words per hour, she needs 400 words / 200 words/hour = 2 hours.",
+    "In total, she spends 2 hours (for the first 800 words) + 2 hours (for the remaining 400 words) = 4 hours writing.",
+    "This means she needs to start 4 hours before the deadline to finish her essay on time."
+  ],
+  "solution": "4"
+}

@@ -1,0 +1,21 @@
+{
+  "query": "The average temperature in Orlando in a particular week was 60 degrees. If the temperature on each of the first 3 days in that week was 40, and the temperature for Thursday and Friday was 80 degrees each, calculate the total temperature of the remaining days of that week.",
+  "steps": [
+    "To find the total temperature for the week, we need to first determine the number of days in the week. A week has 7 days.",
+    "The average temperature for the week was 60 degrees. The formula for average is the total temperature for the week divided by the number of days. Therefore, the total temperature for the week was 60 degrees multiplied by 7 days.",
+    "Calculate the total temperature for the week by multiplying 60 by 7.",
+    "60 multiplied by 7 equals 420. So, the total temperature for the week was 420 degrees.",
+    "Now, we know the temperatures for the first 3 days and for Thursday and Friday.",
+    "For the first 3 days, the temperature was 40 degrees each day.",
+    "To find the total temperature for the first 3 days, multiply 40 by 3.",
+    "40 multiplied by 3 equals 120 degrees. So, the total temperature for the first 3 days was 120 degrees.",
+    "For Thursday and Friday, the temperature was 80 degrees each day.",
+    "To find the total temperature for Thursday and Friday, multiply 80 by 2.",
+    "80 multiplied by 2 equals 160 degrees. So, the total temperature for Thursday and Friday was 160 degrees.",
+    "Add the total temperatures for the first 3 days and Thursday and Friday to find the total temperature of the known days.",
+    "120 degrees (first 3 days) plus 160 degrees (Thursday and Friday) equals 280 degrees.",
+    "Subtract the total temperature of the known days from the total temperature for the week to find the total temperature of the remaining days.",
+    "420 degrees (total for the week) minus 280 degrees (known days) equals 140 degrees."
+  ],
+  "solution": "140"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Cherry put up a delivery service. She charges $2.50 for a 3-5 kilograms cargo and $4 for a 6-8 kilograms cargo. If she delivers four 5 kilograms cargo and two 8 kilograms cargo per day, how much money will she earn in a week?",
+  "steps": [
+    "First, I need to calculate how much Cherry earns from the 5 kilograms cargo. She delivers four 5 kilogram cargo per day.",
+    "The price for each 3-5 kilograms cargo is $2.50.",
+    "If she delivers four 5 kilograms cargo per day, then she earns 4 cargo * $2.50 per cargo = $10 per day from the 5 kilograms cargo.",
+    "Next, I need to calculate how much Cherry earns from the 8 kilograms cargo. She delivers two 8 kilograms cargo per day.",
+    "The price for each 6-8 kilograms cargo is $4.",
+    "If she delivers two 8 kilograms cargo per day, then she earns 2 cargo * $4 per cargo = $8 per day from the 8 kilograms cargo.",
+    "Now, I add the earnings from the 5 kilograms cargo and the 8 kilograms cargo to find her total earnings per day.",
+    "$10 per day (from 5 kg cargo) + $8 per day (from 8 kg cargo) = $18 per day.",
+    "Cherry works for a week, which is 7 days.",
+    "To find her weekly earnings, I multiply her daily earnings by 7.",
+    "$18 per day * 7 days = $126 per week."
+  ],
+  "solution": "126"
+}

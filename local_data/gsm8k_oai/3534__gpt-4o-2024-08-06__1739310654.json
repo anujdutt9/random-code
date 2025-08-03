@@ -1,0 +1,19 @@
+{
+  "query": "John's piggy bank contains quarters, dimes, and nickels.  He has three more dimes than quarters and 6 fewer nickels than quarters.  If he has 63 coins, how many quarters does John have?",
+  "steps": [
+    "Let \\( q \\) represent the number of quarters John has.",
+    "According to the problem, John has three more dimes than quarters. Therefore, the number of dimes is \\( q + 3 \\).",
+    "Also, John has six fewer nickels than quarters. Thus, the number of nickels is \\( q - 6 \\).",
+    "The total number of coins is the sum of quarters, dimes, and nickels. The equation will be:  \n\\[ q + (q + 3) + (q - 6) = 63 \\].",
+    "Simplify the equation:\n\\[ q + q + 3 + q - 6 = 63 \\].",
+    "Combine like terms:\n\\[ 3q - 3 = 63 \\].",
+    "Add 3 to both sides to isolate the term with \\( q \\):\n\\[ 3q = 66 \\].",
+    "Divide both sides by 3 to solve for \\( q \\):\n\\[ q = 22 \\].",
+    "I've determined that John has 22 quarters. Let me verify that this satisfies all the conditions.",
+    "If John has 22 quarters, then he has \\( 22 + 3 = 25 \\) dimes.",
+    "He also has \\( 22 - 6 = 16 \\) nickels.",
+    "Check the total number of coins:  \n\\( 22 + 25 + 16 = 63 \\).",
+    "The conditions are satisfied and the total is correct."
+  ],
+  "solution": "22"
+}

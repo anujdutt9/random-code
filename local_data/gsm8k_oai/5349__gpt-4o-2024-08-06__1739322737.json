@@ -1,0 +1,17 @@
+{
+  "query": "Samuel is driving to San Francisco\u2019s Comic-Con in his car and he needs to travel 600 miles to the hotel where he made a reservation. At first, he drives at 50 miles/hour for 3 hours straight, then he speeds up to 80 miles/hour for 4 hours. How far is he from the hotel?",
+  "steps": [
+    "First, I need to calculate the distance Samuel traveled during the first part of the trip, where he drove at 50 miles/hour for 3 hours.",
+    "To calculate the distance, I use the formula: distance = speed \u00d7 time.",
+    "For the first part, distance = 50 miles/hour \u00d7 3 hours = 150 miles.",
+    "Now, I need to calculate the distance Samuel traveled during the second part of the trip, where he drove at 80 miles/hour for 4 hours.",
+    "Again, I use the formula: distance = speed \u00d7 time.",
+    "For the second part, distance = 80 miles/hour \u00d7 4 hours = 320 miles.",
+    "Now, I add the distances from the two parts of the trip to get the total distance traveled by Samuel.",
+    "Total distance traveled = 150 miles + 320 miles = 470 miles.",
+    "Samuel needs to travel a total of 600 miles to reach his hotel.",
+    "I subtract the total distance he has traveled so far from the total distance to find out how far he is from the hotel.",
+    "Distance from the hotel = 600 miles - 470 miles = 130 miles."
+  ],
+  "solution": "130"
+}

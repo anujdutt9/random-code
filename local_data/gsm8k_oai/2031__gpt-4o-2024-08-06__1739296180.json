@@ -1,0 +1,12 @@
+{
+  "query": "On a quiz, Martin answered three fewer questions correctly than Kelsey, and Kelsey answered eight more questions correctly than Campbell. If Campbell answered 35 questions correctly, how many did Martin answer correctly?",
+  "steps": [
+    "First, let's understand how many questions each person answered correctly given Campbell's results.",
+    "Campbell answered 35 questions correctly.",
+    "Kelsey answered eight more questions than Campbell.",
+    "Therefore, Kelsey answered 35 + 8 = 43 questions correctly.",
+    "Martin answered three fewer questions than Kelsey.",
+    "Therefore, Martin answered 43 - 3 = 40 questions correctly."
+  ],
+  "solution": "40"
+}

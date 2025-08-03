@@ -1,0 +1,12 @@
+{
+  "query": "The American Academy of Pediatrics recommended no more than 2 hours of screen time each day for children. Mrs. Merril wants to follow a 2-hour screen time for her child. How many minutes will she allow her child to use his gadget this evening if he already used his gadget for 45 minutes in the morning?",
+  "steps": [
+    "The American Academy of Pediatrics suggests a maximum of 2 hours of screen time per day for children.",
+    "First, I need to convert these 2 hours into minutes since the other time used is given in minutes.",
+    "There are 60 minutes in an hour, so 2 hours is equal to 2 * 60 = 120 minutes.",
+    "Mrs. Merril's child has already used the gadget for 45 minutes in the morning.",
+    "To find out how many more minutes the child can use the gadget in the evening, I will subtract the morning usage from the total allowed time.",
+    "This means I need to calculate 120 minutes (total allowed) - 45 minutes (used in the morning) = 75 minutes."
+  ],
+  "solution": "75"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "An investor invested some money in 2 separate schemes: A and B. Scheme A will yield 30% of the capital within a year, and scheme B will yield 50% of the capital within a year. If he invested $300 in scheme A and $200 in B, how much more money will he have in scheme A than in B after a year, provided he does not withdraw anything?",
+  "steps": [
+    "First, I need to calculate the amount of money scheme A will yield after one year.",
+    "Scheme A gives a return of 30% on the capital invested. The capital invested in scheme A is $300.",
+    "The return from scheme A is calculated as 30% of $300.",
+    "30% of $300 is \\(0.3 \\times 300 = 90\\).",
+    "Thus, the total amount from scheme A after one year will be the initial capital plus the return, which is \\(300 + 90 = 390\\).",
+    "Next, I need to calculate the amount of money scheme B will yield after one year.",
+    "Scheme B gives a return of 50% on the capital invested. The capital invested in scheme B is $200.",
+    "The return from scheme B is calculated as 50% of $200.",
+    "50% of $200 is \\(0.5 \\times 200 = 100\\).",
+    "Thus, the total amount from scheme B after one year will be the initial capital plus the return, which is \\(200 + 100 = 300\\).",
+    "I need to find out how much more money will be in scheme A than in scheme B after one year.",
+    "The total amount after one year in scheme A is $390, and in scheme B, it is $300.",
+    "The difference between the amounts in scheme A and scheme B is \\(390 - 300 = 90\\)."
+  ],
+  "solution": "90"
+}

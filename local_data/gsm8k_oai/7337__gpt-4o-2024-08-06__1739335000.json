@@ -1,0 +1,17 @@
+{
+  "query": "A road has four intersections. At the first intersection, there are 40 road signs showing different types of information mounted on the street poles. At the second intersection, 1/4 times more road signs than the first intersection are mounted on the street poles. The number of road signs at the third intersection is twice the number at the second intersection. If at the fourth intersection the number of road signs is 20 fewer than those at the third intersection, calculate the total number of road signs at the four intersections.",
+  "steps": [
+    "First, I need to determine the number of road signs at each intersection starting with the number given at the first intersection, which is 40 signs.",
+    "Next, I calculate the number of road signs at the second intersection. It is stated that the second intersection has 1/4 times more road signs than the first intersection.",
+    "1/4 of 40 is 10. Therefore, the second intersection has 40 + 10 = 50 road signs.",
+    "The number of road signs at the third intersection is twice the number at the second intersection. The second intersection has 50 signs.",
+    "Twice 50 is 100. So, the third intersection has 100 road signs.",
+    "The fourth intersection has 20 fewer road signs than the third intersection. The third intersection has 100 road signs.",
+    "Subtracting 20 from 100 gives me 80. So, the fourth intersection has 80 road signs.",
+    "To find the total number of road signs at all intersections, I need to sum the number of road signs at each intersection: 40 (first) + 50 (second) + 100 (third) + 80 (fourth).",
+    "40 + 50 = 90.",
+    "90 + 100 = 190.",
+    "190 + 80 = 270."
+  ],
+  "solution": "270"
+}

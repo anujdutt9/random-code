@@ -1,0 +1,20 @@
+{
+  "query": "At a laundromat, it costs $4 for a washer and a quarter for every 10 minutes in the dryer. Samantha does 2 loads of laundry in the wash and then divides all the washed clothes equally into 3 separate dryers. If she lets the dryers run for 40 minutes each, how much does she spend altogether?",
+  "steps": [
+    "First, I need to calculate the cost for the washers.",
+    "Samantha does 2 loads of laundry in the wash, and each load costs $4.",
+    "2 loads * $4 per load = $8 for washing.",
+    "Next, I need to calculate the cost for the dryers.",
+    "Samantha divides the washed clothes into 3 separate dryers.",
+    "Each dryer runs for 40 minutes.",
+    "It costs a quarter for every 10 minutes in each dryer.",
+    "Let\u2019s find the cost for 40 minutes in one dryer.",
+    "40 minutes / 10 minutes per quarter = 4 quarters.",
+    "4 quarters = $1 for each dryer running 40 minutes.",
+    "There are 3 dryers, and each costs $1 for 40 minutes.",
+    "3 dryers * $1 per dryer = $3 for drying.",
+    "Now, I need to add the costs for washing and drying together.",
+    "$8 for washing + $3 for drying = $11 total cost."
+  ],
+  "solution": "11"
+}

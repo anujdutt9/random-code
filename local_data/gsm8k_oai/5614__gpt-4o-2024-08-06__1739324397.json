@@ -1,0 +1,20 @@
+{
+  "query": "Jules is walking dogs to help pay for his family's vacation. The vacation costs $1,000. There are five members in his family and each one must contribute the same amount towards the vacation cost. He charges $2 to start a walk and $1.25 per block. If he walks 20 dogs, how many blocks in total does he have to walk them?",
+  "steps": [
+    "First, I need to determine how much each family member needs to contribute towards the vacation. The total vacation cost is $1,000, and there are five family members.",
+    "Each family member should contribute $1,000 / 5 = $200.",
+    "Jules needs to contribute $200 for the vacation.",
+    "Now, I have to calculate how much Jules earns per dog walk. He charges $2 to start a walk and $1.25 per block.",
+    "To find out how many blocks he needs to walk, I must find out how much he needs to make in total. Since he needs to make $200 and he walks 20 dogs, I need to know how much he earns from walking each dog and set this equal to $200.",
+    "Let X be the number of blocks walked per dog. The total earnings from one dog walk can be expressed as: $E = 2 + 1.25X$.",
+    "With 20 dogs, the total earnings are given by: $20(2 + 1.25X) = 200$.",
+    "First, solve for the per dog walk equation: $20(2 + 1.25X) = 200$",
+    "Simplify: $40 + 25X = 200$",
+    "Subtract 40 from both sides: $25X = 160$",
+    "Divide by 25: $X = 160 / 25$",
+    "Calculate: $X = 6.4$",
+    "So, Jules must walk 6.4 blocks per dog.",
+    "For 20 dogs, multiply the per-dog blocks by the number of dogs: $6.4 \\times 20 = 128$ blocks."
+  ],
+  "solution": "128"
+}

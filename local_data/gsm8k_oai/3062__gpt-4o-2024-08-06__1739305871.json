@@ -1,0 +1,16 @@
+{
+  "query": "One serving of soup has 1 cup of vegetables and 2.5 cups of broth. How many pints of vegetables and broth combined would be needed for 8 servings?",
+  "steps": [
+    "First, I need to find the total amount of vegetables and broth in one serving.",
+    "In one serving, there is 1 cup of vegetables and 2.5 cups of broth.",
+    "To find the total cups in one serving, I add 1 cup of vegetables and 2.5 cups of broth.",
+    "1 cup + 2.5 cups = 3.5 cups in one serving.",
+    "Now, I need to find the total cups for 8 servings by multiplying the cups per serving by the number of servings.",
+    "3.5 cups per serving * 8 servings = 28 cups.",
+    "Next, I need to convert the total cups to pints.",
+    "I know that 1 pint equals 2 cups.",
+    "To convert cups to pints, I divide the total number of cups by 2.",
+    "28 cups \u00f7 2 = 14 pints."
+  ],
+  "solution": "14"
+}

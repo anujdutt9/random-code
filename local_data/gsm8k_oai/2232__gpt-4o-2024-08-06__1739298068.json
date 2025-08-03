@@ -1,0 +1,24 @@
+{
+  "query": "Adam goes to school every day. On Monday he had 6 lessons of 30 minutes each, and on Tuesday he had 3 lessons of 1 hour each. On Wednesday, Adam spent twice as much time at school as on Tuesday. How much time in total did Adam spend at school during these 3 days, in hours?",
+  "steps": [
+    "First, let's calculate how much time Adam spent at school on Monday.",
+    "Adam had 6 lessons on Monday, each lasting 30 minutes.",
+    "To find the total time for Monday, we multiply the number of lessons by the duration of each lesson: 6 lessons * 30 minutes.",
+    "6 lessons * 30 minutes = 180 minutes.",
+    "Convert minutes into hours. There are 60 minutes in an hour.",
+    "180 minutes \u00f7 60 minutes/hour = 3 hours.",
+    "Adam spent 3 hours at school on Monday.",
+    "Next, let's calculate how much time Adam spent at school on Tuesday.",
+    "Adam had 3 lessons on Tuesday, each lasting 1 hour.",
+    "3 lessons * 1 hour = 3 hours.",
+    "Adam spent 3 hours at school on Tuesday.",
+    "Now, calculate how much time Adam spent at school on Wednesday.",
+    "On Wednesday, Adam spent twice as much time as on Tuesday.",
+    "Twice the time on Tuesday is 3 hours * 2 = 6 hours.",
+    "Adam spent 6 hours at school on Wednesday.",
+    "Finally, let's calculate the total time Adam spent at school over these 3 days.",
+    "Add the time spent on each day: Monday 3 hours + Tuesday 3 hours + Wednesday 6 hours.",
+    "3 hours + 3 hours + 6 hours = 12 hours."
+  ],
+  "solution": "12"
+}

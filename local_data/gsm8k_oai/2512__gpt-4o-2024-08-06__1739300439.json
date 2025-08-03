@@ -1,0 +1,22 @@
+{
+  "query": "Scott wants to make and freeze a large batch of ratatouille.  At the farmers' market he buys 5 pounds of eggplants and 4 pounds of zucchini at $2.00 a pound.  He needs 4 pounds of tomatoes that are $3.50 a pound.  The onions are $1.00 a pound and he needs 3 pounds.  Then he needs a pound of basil which is sold for $2.50 per half pound.  If this yields 4 quarts, how much does each quart cost?",
+  "steps": [
+    "Scott buys 5 pounds of eggplants at $2.00 per pound.",
+    "The cost of eggplants is 5 pounds * $2.00/pound = $10.00.",
+    "Scott buys 4 pounds of zucchini at $2.00 per pound.",
+    "The cost of zucchini is 4 pounds * $2.00/pound = $8.00.",
+    "Scott buys 4 pounds of tomatoes at $3.50 per pound.",
+    "The cost of tomatoes is 4 pounds * $3.50/pound = $14.00.",
+    "Scott buys 3 pounds of onions at $1.00 per pound.",
+    "The cost of onions is 3 pounds * $1.00/pound = $3.00.",
+    "Scott buys 1 pound of basil. The basil is sold at $2.50 per half pound.",
+    "To find the cost of 1 pound of basil, calculate 1 pound as 2 half pounds.",
+    "The cost of basil is 2 half pounds * $2.50/half pound = $5.00.",
+    "Now, I sum all the costs: $10.00 (eggplants) + $8.00 (zucchini) + $14.00 (tomatoes) + $3.00 (onions) + $5.00 (basil).",
+    "The total cost is $10.00 + $8.00 + $14.00 + $3.00 + $5.00 = $40.00.",
+    "This total cost yields 4 quarts of ratatouille.",
+    "To find the cost per quart, I divide the total cost by the number of quarts: $40.00 / 4 quarts.",
+    "The cost per quart is $40.00 / 4 = $10.00."
+  ],
+  "solution": "10"
+}

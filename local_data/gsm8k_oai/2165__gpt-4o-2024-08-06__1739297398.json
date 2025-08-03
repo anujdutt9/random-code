@@ -1,0 +1,20 @@
+{
+  "query": "There are 381 pages in Elliot\u2019s book.  He has already read 149 pages.  If he reads 20 pages a day for a week, how many pages are still left to be read?",
+  "steps": [
+    "First, I need to determine how many pages Elliot will read in a week.",
+    "Elliot reads 20 pages a day.",
+    "There are 7 days in a week.",
+    "multiply 20 pages/day by 7 days/week to find out the total pages read in a week.",
+    "20 pages/day * 7 days/week = 140 pages/week.",
+    "Now, I will add the number of pages Elliot has already read to the number of pages he will read this week.",
+    "He has already read 149 pages.",
+    "149 pages + 140 pages = 289 pages.",
+    "He will have read 289 pages by the end of the week.",
+    "Now, I need to find out how many pages are left in the book after reading these 289 pages.",
+    "The book has a total of 381 pages.",
+    "Subtract the number of pages read from the total number of pages.",
+    "381 pages - 289 pages = 92 pages.",
+    "Therefore, 92 pages are still left to be read."
+  ],
+  "solution": "92"
+}

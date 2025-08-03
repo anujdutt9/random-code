@@ -1,0 +1,23 @@
+{
+  "query": "Matt has six cats and half of them are female. If each female cat has 7 kittens, and Matt sells 9 of them, what percentage of his remaining cats are kittens (rounded to the nearest percent)?",
+  "steps": [
+    "Matt has six cats in total.",
+    "Half of the six cats are female.",
+    "Half of 6 is 3, so there are 3 female cats.",
+    "Each female cat has 7 kittens.",
+    "Since there are 3 female cats, the total number of kittens is 3 times 7.",
+    "Calculating 3 times 7 gives us 21 kittens in total.",
+    "Matt sells 9 of these kittens.",
+    "Subtracting the sold kittens from the total kittens, 21 minus 9 equals 12 kittens.",
+    "Now, these 12 kittens plus the initial 6 cats give Matt a total number of cats.",
+    "6 adult cats plus 12 kittens equals 18 cats altogether.",
+    "Next, we find out what percentage of these 18 cats are kittens.",
+    "The number of kittens is 12.",
+    "To find the percentage, divide the number of kittens by the total number of cats: 12 divided by 18.",
+    "12 divided by 18 leaves us with approximately 0.6667.",
+    "To convert this to a percentage, multiply by 100.",
+    "0.6667 multiplied by 100 is approximately 66.67.",
+    "Rounding 66.67 to the nearest percent gives us 67%."
+  ],
+  "solution": "67"
+}

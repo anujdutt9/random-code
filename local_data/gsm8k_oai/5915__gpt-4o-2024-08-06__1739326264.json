@@ -1,0 +1,15 @@
+{
+  "query": "Michael bought 6 crates of egg on Tuesday. He gave out 2 crates to Susan, who he admires and bought another 5 crates on Thursday. If one crate holds 30 eggs, how many eggs does he have now?",
+  "steps": [
+    "Michael initially bought 6 crates of eggs on Tuesday.",
+    "Each crate holds 30 eggs.",
+    "The initial number of eggs Michael bought is 6 crates * 30 eggs/crate = 180 eggs.",
+    "Michael gave out 2 crates to Susan.",
+    "The number of eggs in the 2 crates given to Susan is 2 crates * 30 eggs/crate = 60 eggs.",
+    "After giving out 60 eggs, Michael has 180 eggs - 60 eggs = 120 eggs left.",
+    "Michael then bought another 5 crates on Thursday.",
+    "The number of eggs in the 5 new crates is 5 crates * 30 eggs/crate = 150 eggs.",
+    "Adding these 150 eggs to the 120 eggs he already has, the total number of eggs Michael has now is 120 eggs + 150 eggs = 270 eggs."
+  ],
+  "solution": "270"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Each member of Greg\u2019s softball team needs to buy one uniform made up of a shirt, a pair of pants, and socks. A shirt costs $7.50, a pair of pants cost $15, and socks cost $4.50 each if each team member buys the uniform items on their own. If they buy the items as a group, they are given a discount. A discounted shirt cost $6.75, a discounted pair of pants cost $13.50, and discounted socks cost $3.75. How much would their team of 12 save with the group discount?",
+  "steps": [
+    "First, I need to calculate the total cost of one uniform without the group discount.",
+    "The total cost for one uniform without discount is the sum of the price of a shirt, pants, and socks: $7.50 (shirt) + $15 (pants) + $4.50 (socks).",
+    "$7.50 + $15 = $22.50",
+    "$22.50 + $4.50 = $27",
+    "Now, I will calculate the total cost of one uniform with the group discount.",
+    "The total cost for one uniform with the discount is the sum of the price of a discounted shirt, discounted pants, and discounted socks: $6.75 (shirt) + $13.50 (pants) + $3.75 (socks).",
+    "$6.75 + $13.50 = $20.25",
+    "$20.25 + $3.75 = $24",
+    "Next, I need to find out how much is saved per uniform by buying in a group.",
+    "The savings per uniform is the difference between the regular cost and the discounted cost: $27 - $24.",
+    "$27 - $24 = $3",
+    "Now, I calculate the total savings for the entire team of 12 members.",
+    "Each member saves $3 on their uniform, so the total savings for 12 members is $3 per member times 12 members.",
+    "$3 * 12 = $36"
+  ],
+  "solution": "36"
+}

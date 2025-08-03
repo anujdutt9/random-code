@@ -1,0 +1,26 @@
+{
+  "query": "The Martin family goes to the mall to get ice cream.  A kiddie scoop is $3.  A regular scoop is $4.  A double scoop is $6.   Mr. and Mrs. Martin each get the regular scoop.  Their two children each get the kiddie scoop.  Their three teenage children each get double scoops.  How much money does Mrs. Martin pay the cashier?",
+  "steps": [
+    "First, I need to calculate the cost for Mr. and Mrs. Martin who each get a regular scoop.",
+    "The cost for a regular scoop is $4.",
+    "So, for Mr. Martin: 1 regular scoop = $4.",
+    "For Mrs. Martin: 1 regular scoop = $4.",
+    "Together, Mr. and Mrs. Martin's cost is $4 + $4 = $8.",
+    "Now, I need to calculate the cost for the two children who each get a kiddie scoop.",
+    "The cost for a kiddie scoop is $3.",
+    "For child 1: 1 kiddie scoop = $3.",
+    "For child 2: 1 kiddie scoop = $3.",
+    "Together, the two children's cost is $3 + $3 = $6.",
+    "Next, I need to calculate the cost for the three teenage children who each get double scoops.",
+    "The cost for a double scoop is $6.",
+    "For teenager 1: 1 double scoop = $6.",
+    "For teenager 2: 1 double scoop = $6.",
+    "For teenager 3: 1 double scoop = $6.",
+    "Together, the three teenagers' cost is $6 + $6 + $6 = $18.",
+    "I will now calculate the total cost for the entire family's ice cream.",
+    "Total cost = cost for Mr. and Mrs. Martin + cost for two children + cost for three teenagers.",
+    "Total cost = $8 + $6 + $18.",
+    "Total cost = $32."
+  ],
+  "solution": "32"
+}

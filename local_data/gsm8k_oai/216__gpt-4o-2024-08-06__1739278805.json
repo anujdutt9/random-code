@@ -1,0 +1,16 @@
+{
+  "query": "Missy had a giant piggy bank in her bedroom.  Every day she would search the house for change to put in her bank.  After 4 years, the bank was opened and it contained $450 in change.  If the second, third, and fourth-year she doubled the amount of money she put in the bank from the amount she had put in the previous year, how much money, in dollars, did she put in the bank the first year?",
+  "steps": [
+    "Let's denote the amount of money Missy put in the bank during the first year as x.",
+    "According to the problem, in the second year, she doubled the amount she put in the bank the first year. Hence, in the second year, she put 2x in the bank.",
+    "In the third year, again, she doubled the amount from the second year. So, she put 2 * 2x = 4x in the bank.",
+    "In the fourth year, she again doubled the amount from the third year. So, she put 2 * 4x = 8x in the bank.",
+    "Now, we need to find the total amount of money she put in the bank over the 4 years. This is the sum of the money she put in each year: x + 2x + 4x + 8x.",
+    "Calculating the sum: x + 2x + 4x + 8x = 15x.",
+    "We know that after 4 years the total amount in the bank is $450.",
+    "Therefore, we can set up the equation: 15x = 450.",
+    "To find x, we divide both sides of the equation by 15: x = 450 / 15.",
+    "Calculating the division: 450 divided by 15 equals 30."
+  ],
+  "solution": "30"
+}

@@ -1,0 +1,11 @@
+{
+  "query": "A school has 1000 students. Half of the students were taken on a trip to the nearby beach. Half of the remaining students were sent home. How many students are still in the school?",
+  "steps": [
+    "The school starts with 1000 students.",
+    "Half of the students, which is 1000 / 2 = 500, were taken on a trip to the beach.",
+    "This leaves 1000 - 500 = 500 students remaining at the school.",
+    "Half of these remaining students were sent home, which is 500 / 2 = 250 students.",
+    "After sending 250 students home, the number of students still at the school is 500 - 250 = 250."
+  ],
+  "solution": "250"
+}

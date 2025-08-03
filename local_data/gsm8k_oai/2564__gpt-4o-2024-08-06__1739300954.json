@@ -1,0 +1,16 @@
+{
+  "query": "John decides to fix a racecar.  It cost $20,000 to fix but he gets a 20% discount.  He wins his first race but only keeps 90% of the money.  The prize is $70,000.  How much money did he make from the car?",
+  "steps": [
+    "First, I need to calculate the cost of fixing the car after the discount.",
+    "The original cost to fix the car is $20,000 and he gets a 20% discount.",
+    "A 20% discount on $20,000 is calculated as $20,000 * 0.20 = $4,000.",
+    "The cost after the discount is $20,000 - $4,000 = $16,000.",
+    "Now, I will calculate how much money John keeps from winning the race.",
+    "The prize for winning the race is $70,000.",
+    "John keeps 90% of the prize money.",
+    "90% of $70,000 is calculated as $70,000 * 0.90 = $63,000.",
+    "Finally, to find out how much money he made from the car, I will subtract the cost of fixing the car from the money he kept from the prize.",
+    "John's profit is $63,000 (money from prize) - $16,000 (cost of fixing the car) = $47,000."
+  ],
+  "solution": "47,000"
+}

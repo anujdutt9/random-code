@@ -1,0 +1,18 @@
+{
+  "query": "Trent cries 2 tears for every three onions he chops. He needs to chop 4 onions per pot of soup. If he's making 6 pots of soup, how many tears does he cry?",
+  "steps": [
+    "Trent cries 2 tears for every 3 onions he chops.",
+    "I need to determine the total number of onions Trent chops if he is making 6 pots of soup.",
+    "Trent needs to chop 4 onions per pot of soup.",
+    "To find the total number of onions Trent chops for 6 pots, I multiply 4 onions by 6 pots.",
+    "4 onions/pot * 6 pots = 24 onions in total.",
+    "Now, I need to find out how many tears Trent cries for these 24 onions.",
+    "He cries 2 tears for every 3 onions.",
+    "To find the number of sets of 3 onions he chops, I divide 24 onions by 3 onions/set.",
+    "24 onions / 3 onions/set = 8 sets of 3 onions.",
+    "Trent cries 2 tears per set of 3 onions.",
+    "Therefore, for 8 sets, he cries 2 tears/set * 8 sets.",
+    "2 tears/set * 8 sets = 16 tears."
+  ],
+  "solution": "16"
+}

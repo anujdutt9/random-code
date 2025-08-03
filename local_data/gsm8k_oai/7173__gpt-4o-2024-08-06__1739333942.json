@@ -1,0 +1,17 @@
+{
+  "query": "In the fall, 20,000 high school students apply to Harvard University for college. In the spring, 5% of those 20,000 students are accepted to the university. Of the students who are accepted, 90% choose to attend the university, and the other 10% choose to go to other schools. How many students choose to attend Harvard University?",
+  "steps": [
+    "First, I need to find out how many students are accepted to Harvard.",
+    "There are 20,000 students who apply.",
+    "5% of these 20,000 students are accepted.",
+    "To find 5% of 20,000, I multiply 20,000 by 0.05.",
+    "20,000 * 0.05 = 1,000",
+    "So, 1,000 students are accepted to Harvard.",
+    "Next, I need to find out how many of the accepted students choose to attend.",
+    "90% of the accepted students choose to attend Harvard.",
+    "To find 90% of 1,000, I multiply 1,000 by 0.9.",
+    "1,000 * 0.9 = 900",
+    "Thus, 900 students choose to attend Harvard University."
+  ],
+  "solution": "900"
+}

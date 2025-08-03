@@ -1,0 +1,12 @@
+{
+  "query": "A jug is filled with 5 liters of water and a bucket is filled with 4 jugs. How many liters of water are contained in 2 buckets?",
+  "steps": [
+    "A single jug contains 5 liters of water.",
+    "A bucket is filled with 4 jugs.",
+    "First, I need to calculate how many liters of water are in one bucket.",
+    "Since each jug contains 5 liters, and there are 4 jugs in a bucket, one bucket contains 5 liters/jug * 4 jugs = 20 liters.",
+    "Now, I need to calculate the amount of water in 2 buckets.",
+    "Since one bucket contains 20 liters, two buckets contain 20 liters/bucket * 2 buckets = 40 liters."
+  ],
+  "solution": "40"
+}

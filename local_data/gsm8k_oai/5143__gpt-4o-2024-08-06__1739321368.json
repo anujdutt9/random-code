@@ -1,0 +1,10 @@
+{
+  "query": "If I'm 4 times older than Billy currently, and Billy is 4 years old, how old was I when Billy was born?",
+  "steps": [
+    "First, I need to calculate my current age given that I am 4 times older than Billy, who is 4 years old.",
+    "If Billy is 4 years old, and I am 4 times older than him, then my current age is 4 * 4 = 16 years old.",
+    "Next, to find out how old I was when Billy was born, I subtract Billy's current age from my current age.",
+    "My current age is 16 years and Billy's current age is 4 years. So, 16 years - 4 years = 12 years."
+  ],
+  "solution": "12"
+}

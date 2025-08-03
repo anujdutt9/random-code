@@ -1,0 +1,14 @@
+{
+  "query": "Tim watches 2 shows.  One of them is a half-hour show per episode and the other is a 1-hour long show per episode.  The short show had 24 episodes and the long show had 12 episodes.  How many hours of TV did he watch?",
+  "steps": [
+    "First, I need to determine how many hours Tim spent watching the half-hour show.",
+    "The half-hour show has 24 episodes. Since each episode is half an hour, I need to calculate \\(24 \\times 0.5\\).",
+    "\\(24 \\times 0.5 = 12\\) hours spent watching the half-hour show.",
+    "Next, I need to calculate how many hours Tim spent watching the 1-hour long show.",
+    "The long show has 12 episodes. Since each episode is 1 hour long, I simply need to calculate \\(12 \\times 1\\).",
+    "\\(12 \\times 1 = 12\\) hours spent watching the long show.",
+    "Now, I will add the hours for both shows to find the total hours Tim watched.",
+    "\\(12\\) hours for the half-hour show + \\(12\\) hours for the long show equals \\(24\\) hours."
+  ],
+  "solution": "24"
+}

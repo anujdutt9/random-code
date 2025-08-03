@@ -1,0 +1,22 @@
+{
+  "query": "Bob started out the week with $80. On Monday alone, he spent half the money. On Tuesday, he spent one-fifth of the amount left from Monday. On Wednesday, he spent 3/8ths of the amount left from Tuesday. How much does he have left now?",
+  "steps": [
+    "Bob started with $80.",
+    "On Monday, Bob spent half of $80.",
+    "Half of $80 is $40.",
+    "After spending $40 on Monday, Bob had $80 - $40 left.",
+    "$80 - $40 equals $40 remaining after Monday.",
+    "On Tuesday, Bob spent one-fifth of $40.",
+    "One-fifth of $40 is calculated as $40 * (1/5).",
+    "$40 * (1/5) equals $8.",
+    "After spending $8 on Tuesday, Bob had $40 - $8 left.",
+    "$40 - $8 equals $32 remaining after Tuesday.",
+    "On Wednesday, Bob spent 3/8ths of $32.",
+    "3/8ths of $32 is calculated as $32 * (3/8).",
+    "$32 divided by 8 equals $4.",
+    "$4 multiplied by 3 equals $12.",
+    "After spending $12 on Wednesday, Bob had $32 - $12 left.",
+    "$32 - $12 equals $20."
+  ],
+  "solution": "20"
+}

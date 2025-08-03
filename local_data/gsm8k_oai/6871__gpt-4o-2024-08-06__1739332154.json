@@ -1,0 +1,15 @@
+{
+  "query": "John raises emu.  He has 4 pens for emu and each pen has 6 emus in it.  Each female emu lays 1 egg per day.  If half the emu are females how many eggs does he get a week?",
+  "steps": [
+    "First, determine the total number of emus John has. He has 4 pens.",
+    "Each pen has 6 emus.",
+    "So, 4 pens times 6 emus each equals 24 emus in total.",
+    "Half of the emus are female, so calculate half of 24.",
+    "Half of 24 is 12, so there are 12 female emus.",
+    "Each female lays 1 egg per day.",
+    "To find out how many eggs are laid in a day, multiply the number of females by the number of eggs each lays: 12 females times 1 egg each equals 12 eggs per day.",
+    "The question asks for eggs per week, so multiply the daily eggs by 7.",
+    "12 eggs per day times 7 days equals 84 eggs per week."
+  ],
+  "solution": "84"
+}

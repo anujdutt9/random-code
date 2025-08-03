@@ -1,0 +1,15 @@
+{
+  "query": "Ping pong balls sell for $.10 each.  Johnny buys 10000 for a prank.  He gets a 30% discount for buying in such large bulk.  How much does he pay?",
+  "steps": [
+    "The cost of one ping pong ball is $0.10.",
+    "Johnny buys 10,000 ping pong balls.",
+    "To find the total cost without discount, multiply the number of balls by the cost per ball.",
+    "10000 balls \u00d7 $0.10/ball = $1000",
+    "Johnny receives a 30% discount for buying in bulk.",
+    "Calculate the discount amount by multiplying the total cost by the discount percentage.",
+    "$1000 \u00d7 30% = $1000 \u00d7 0.30 = $300",
+    "Subtract the discount amount from the total cost to find the final amount he pays.",
+    "$1000 - $300 = $700"
+  ],
+  "solution": "700"
+}

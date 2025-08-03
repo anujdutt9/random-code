@@ -1,0 +1,14 @@
+{
+  "query": "In Sam's first 100 matches he won 50% of matches.  In his next 100 games, he won 60% of matches.  How many total matches did he win?",
+  "steps": [
+    "First, I need to calculate how many matches Sam won in his first 100 matches.",
+    "He won 50% of his first 100 matches.",
+    "50% of 100 matches is 0.50 * 100 = 50 matches.",
+    "Now, I will calculate how many matches Sam won in his next 100 matches.",
+    "He won 60% of his next 100 matches.",
+    "60% of 100 matches is 0.60 * 100 = 60 matches.",
+    "To find the total number of matches he won, I need to add the matches won from both sets of 100 matches.",
+    "50 (first 100 matches) + 60 (second 100 matches) = 110 matches."
+  ],
+  "solution": "110"
+}

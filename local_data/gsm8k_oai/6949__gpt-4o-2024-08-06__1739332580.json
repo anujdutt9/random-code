@@ -1,0 +1,18 @@
+{
+  "query": "John eats 10 potato chips that have a total of 60 calories.  He then eats 6 cheezits that each have 1/3 more calories than a chip.  How many total calories did he eat?",
+  "steps": [
+    "First, I know that 10 potato chips have a total of 60 calories.",
+    "To find out how many calories are in one potato chip, I divide 60 calories by 10 chips.",
+    "60 divided by 10 equals 6. So, one potato chip has 6 calories.",
+    "Next, John eats 6 cheezits, and each cheezit has 1/3 more calories than a chip.",
+    "One third of a chip's calories is calculated by multiplying 1/3 by 6.",
+    "1/3 of 6 is 2. So, each cheezit has 6 + 2 calories.",
+    "6 + 2 equals 8. Thus, each cheezit has 8 calories.",
+    "Now, John eats 6 cheezits, each with 8 calories, so I calculate the total calories consumed from cheezits.",
+    "6 times 8 equals 48. Therefore, John eats 48 calories from cheezits.",
+    "Finally, I add the calories from the potato chips to the calories from the cheezits to find the total.",
+    "John ate 60 calories from chips and 48 calories from cheezits.",
+    "60 plus 48 equals 108."
+  ],
+  "solution": "108"
+}

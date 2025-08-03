@@ -1,0 +1,16 @@
+{
+  "query": "Tom rents a helicopter for 2 hours a day for 3 days.  It cost $75 an hour to rent.  How much did he pay?",
+  "steps": [
+    "First, I need to figure out how many hours in total Tom rents the helicopter.",
+    "Tom rents the helicopter for 2 hours each day.",
+    "He rents it for 3 days.",
+    "To find the total hours, I multiply the number of hours per day by the number of days: 2 hours/day * 3 days.",
+    "2 * 3 = 6 hours. So, Tom rents the helicopter for a total of 6 hours.",
+    "Next, I need to calculate the total cost.",
+    "The helicopter rental rate is $75 per hour.",
+    "To find the total cost, I multiply the total hours by the hourly rate: 6 hours * $75/hour.",
+    "6 * 75 = 450.",
+    "Therefore, Tom pays a total of $450 for renting the helicopter."
+  ],
+  "solution": "450"
+}

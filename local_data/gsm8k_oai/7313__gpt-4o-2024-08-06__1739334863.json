@@ -1,0 +1,17 @@
+{
+  "query": "James can make 4 hats out of one yard of velvet. He needs three yards of velvet to make a cloak. How much velvet does he need to make 6 cloaks and 12 hats?",
+  "steps": [
+    "First, I need to determine how much velvet is required to make one cloak.",
+    "The problem states that James needs three yards of velvet to make one cloak.",
+    "Next, I need to find out how much velvet is needed for 6 cloaks.",
+    "To do this, I will multiply the amount of velvet needed for one cloak by the number of cloaks: 3 yards/cloak \u00d7 6 cloaks = 18 yards.",
+    "Now, I have to calculate how much velvet is necessary to make one hat.",
+    "The problem specifies that 4 hats can be made from 1 yard of velvet.",
+    "This means 1 hat requires 1/4 of a yard of velvet.",
+    "Next, I need to determine how much velvet is needed for 12 hats.",
+    "I use the amount of velvet needed for one hat and multiply by the number of hats: (1/4) yards/hat \u00d7 12 hats = 3 yards.",
+    "I now have the velvet requirements for both the cloaks and the hats.",
+    "The total velvet required is the sum of the velvet needed for the cloaks and the velvet needed for the hats: 18 yards + 3 yards = 21 yards."
+  ],
+  "solution": "21"
+}

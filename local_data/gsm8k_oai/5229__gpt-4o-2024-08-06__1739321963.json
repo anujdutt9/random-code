@@ -1,0 +1,12 @@
+{
+  "query": "Mikey likes his honey cluster of oats cereal.  In each spoonful, there are 4 clusters of oats.  In each bowl of cereal, he gets 25 spoonfuls of cereal.  If each box of cereal contains 500 clusters of oats, how many bowlfuls of cereal are in each box?",
+  "steps": [
+    "First, I need to determine the total number of oat clusters per bowl of cereal.",
+    "Since there are 4 clusters of oats per spoonful and 25 spoonfuls per bowl, I can multiply these numbers to find the clusters per bowl.",
+    "4 clusters/spoonful * 25 spoonfuls/bowl = 100 clusters/bowl",
+    "Next, I need to determine how many bowls of cereal are in one box.",
+    "Each box contains 500 clusters of oats. Given that each bowl has 100 clusters, I will divide the total clusters in a box by the clusters per bowl.",
+    "500 clusters/box \u00f7 100 clusters/bowl = 5 bowls/box"
+  ],
+  "solution": "5"
+}

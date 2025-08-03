@@ -1,0 +1,16 @@
+{
+  "query": "Jose had 400 tabs opened up in his windows browser. After about one hour of browsing, he closed 1/4 of the tabs to allows easy browsing. He read some news from different pages, then closed 2/5 of the remaining tabs. If he closed half of the remaining tabs after further analyzing some pages, how many windows tabs did he have remaining open?",
+  "steps": [
+    "Jose originally had 400 tabs open.",
+    "In the first step, he closed 1/4 of the tabs.",
+    "1/4 of 400 is 400 * 1/4 = 100 tabs.",
+    "After closing 100 tabs, he had 400 - 100 = 300 tabs remaining.",
+    "Next, he closed 2/5 of the remaining 300 tabs.",
+    "2/5 of 300 is 300 * 2/5 = 120 tabs.",
+    "After closing 120 tabs, he had 300 - 120 = 180 tabs remaining.",
+    "Finally, he closed half of the remaining 180 tabs.",
+    "Half of 180 is 180 / 2 = 90 tabs.",
+    "After closing 90 tabs, he had 180 - 90 = 90 tabs remaining."
+  ],
+  "solution": "90"
+}

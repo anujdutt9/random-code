@@ -1,0 +1,22 @@
+{
+  "query": "John has to replace the ball bearings for machines he works with.  He has 10 machines and they take 30 ball bearings each.  It normally costs $1 per ball bearing but right now there is a sale where they are only $.75.  Also since he is buying in bulk he gets a further 20% discount.  How much money did he save by buying them all during the sale rather than 1 at a time?",
+  "steps": [
+    "First, I need to calculate the total number of ball bearings John needs.",
+    "John has 10 machines, and each machine requires 30 ball bearings.",
+    "10 machines * 30 ball bearings/machine = 300 ball bearings.",
+    "Next, calculate the total cost if buying at the normal price without any discount.",
+    "The normal price is $1 per ball bearing.",
+    "300 ball bearings * $1/ball bearing = $300.",
+    "Now calculate the total cost with the sale price and additional bulk discount.",
+    "The sale price is $0.75 per ball bearing.",
+    "300 ball bearings * $0.75/ball bearing = $225.",
+    "There is another 20% discount on top of this sale price.",
+    "To find 20% of $225: 0.20 * $225 = $45 discount.",
+    "Subtract this discount from the sale price total.",
+    "$225 - $45 = $180.",
+    "Now, calculate how much money John saved by buying during the sale rather than at the normal price.",
+    "The normal price would be $300, and during the sale he paid $180.",
+    "$300 - $180 = $120 saved."
+  ],
+  "solution": "120"
+}

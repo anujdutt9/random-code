@@ -1,0 +1,16 @@
+{
+  "query": "Janice needs to go to watch a movie in 2 hours. before she could leave, she needs to finish her homework which takes 30 minutes; clean her room which takes half as long as her homework; walk the dog which takes 5 minutes more than making homework; take out the trash which takes 1/6 of the time it takes her to do the homework. How many more minutes do Janice have left before the movie starts?",
+  "steps": [
+    "First, I need to determine how long it takes Janice to complete each task: doing homework, cleaning her room, walking the dog, and taking out the trash.",
+    "Janice's homework takes 30 minutes.",
+    "Cleaning the room takes half the time of the homework. So, it's 30 minutes / 2 = 15 minutes.",
+    "Walking the dog takes 5 minutes more than the homework. So, it's 30 minutes + 5 = 35 minutes.",
+    "Taking out the trash takes 1/6 of the time of the homework. So, it's 30 minutes / 6 = 5 minutes.",
+    "Now I'll sum up all the time needed for these tasks: 30 minutes (homework) + 15 minutes (cleaning) + 35 minutes (walking the dog) + 5 minutes (trash).",
+    "Adding these together: 30 + 15 + 35 + 5 = 85 minutes.",
+    "Janice has 2 hours before the movie starts. 2 hours is equal to 2 * 60 = 120 minutes.",
+    "I need to subtract the total task time from the available time to find out how much time Janice has left: 120 minutes - 85 minutes.",
+    "120 - 85 = 35 minutes."
+  ],
+  "solution": "35"
+}

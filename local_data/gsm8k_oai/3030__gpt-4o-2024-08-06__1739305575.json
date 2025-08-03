@@ -1,0 +1,30 @@
+{
+  "query": "Together 3 friends watched 411 short videos. Kelsey watched 43 more than Ekon. Ekon watched 17 less than Uma. How many videos did Kelsey watch?",
+  "steps": [
+    "I need to determine how many videos each friend watched. I'll start by defining variables for each person.",
+    "Let E represent the number of videos Ekon watched.",
+    "Let K represent the number of videos Kelsey watched.",
+    "Let U represent the number of videos Uma watched.",
+    "According to the problem, Kelsey watched 43 more videos than Ekon, so K = E + 43.",
+    "Ekon watched 17 less videos than Uma. Therefore, E = U - 17.",
+    "I know the total number of videos watched by all three friends together is 411.",
+    "So, U + E + K = 411.",
+    "I have three equations now:\n1. K = E + 43\n2. E = U - 17\n3. U + E + K = 411",
+    "I will substitute E from equation 2 (E = U - 17) into equations 1 and 3.",
+    "Substituting into equation 1, K = (U - 17) + 43.",
+    "Simplifying gives: K = U + 26.",
+    "Next, substitute E = U - 17 into equation 3: U + (U - 17) + K = 411.",
+    "Simplify the equation to: 2U - 17 + K = 411.",
+    "Now, substitute K from K = U + 26 into this equation: 2U - 17 + (U + 26) = 411.",
+    "This simplifies to 3U + 9 = 411.",
+    "Subtract 9 from both sides: 3U = 402.",
+    "Divide both sides by 3: U = 134.",
+    "Now I know Uma watched 134 videos.",
+    "I can find Ekon's number of videos watched using E = U - 17, which means E = 134 - 17.",
+    "So, E = 117.",
+    "Finally, I find how many videos Kelsey watched using K = E + 43.",
+    "K = 117 + 43.",
+    "K = 160."
+  ],
+  "solution": "160"
+}

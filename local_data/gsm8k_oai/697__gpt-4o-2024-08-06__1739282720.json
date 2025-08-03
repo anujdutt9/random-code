@@ -1,0 +1,17 @@
+{
+  "query": "Joey studies for his SAT exams 2 hours per night 5 nights a week.  On the weekends, he studies 3 hours a day.  If his SAT exam is 6 weeks away, how much time will Joey spend studying?",
+  "steps": [
+    "First, calculate how many hours Joey studies on weeknights.",
+    "Joey studies for 2 hours per night for 5 nights a week.",
+    "That totals 2 hours/night * 5 nights/week = 10 hours per week on weeknights.",
+    "Now, calculate how many hours Joey studies on weekends per week.",
+    "Joey studies 3 hours per day and there are 2 weekend days.",
+    "That totals 3 hours/day * 2 days/week = 6 hours per week on weekends.",
+    "Now, sum the hours spent per week on both weeknights and weekends.",
+    "Joey studies 10 hours on weeknights and 6 hours on weekends each week.",
+    "Total hours per week = 10 hours (weeknights) + 6 hours (weekends) = 16 hours per week.",
+    "Finally, multiply the total weekly study hours by the number of weeks until the exam.",
+    "The exam is 6 weeks away, so Joey will study for 16 hours/week * 6 weeks = 96 hours in total."
+  ],
+  "solution": "96"
+}

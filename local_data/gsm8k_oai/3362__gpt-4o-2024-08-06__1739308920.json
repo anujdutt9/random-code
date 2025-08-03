@@ -1,0 +1,22 @@
+{
+  "query": "The American swallow can lift into the air and carry a maximum of 5 pounds of weight, while the European swallow can lift and carry twice the weight as the American swallow.  If there was a flock of 90 swallows, containing twice as many American as European swallows, what is the maximum combined weight the flock can carry?",
+  "steps": [
+    "First, I want to determine the maximum weight the European swallow can carry. The problem states that a European swallow can carry twice the weight of an American swallow.",
+    "The American swallow can carry 5 pounds.",
+    "Therefore, the European swallow can carry 5 pounds * 2 = 10 pounds.",
+    "Next, I need to determine the number of European and American swallows in a flock of 90 swallows, knowing there are twice as many American swallows as European ones.",
+    "Let's call the number of European swallows E and the number of American swallows A.",
+    "The problem states that A = 2E.",
+    "Additionally, the total number of swallows is 90, so A + E = 90.",
+    "Substituting A = 2E into the equation A + E = 90 gives 2E + E = 90.",
+    "Combining like terms, we get 3E = 90.",
+    "Dividing both sides by 3 gives E = 30.",
+    "Since E = 30, A = 2E = 2 * 30 = 60.",
+    "Now, let's calculate the maximum combined weight the flock can carry.",
+    "The total weight carried by the European swallows is 30 European swallows * 10 pounds/swallow = 300 pounds.",
+    "The total weight carried by the American swallows is 60 American swallows * 5 pounds/swallow = 300 pounds.",
+    "The maximum combined weight carried by the flock is the sum of the weights carried by both groups of swallows.",
+    "So, 300 pounds + 300 pounds = 600 pounds."
+  ],
+  "solution": "600"
+}

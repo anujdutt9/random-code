@@ -1,0 +1,15 @@
+{
+  "query": "Sarah's external drive showed 2.4 gigabytes free and 12.6 gigabytes used. She decided to delete a folder of size 4.6 gigabytes and store new files of 2 gigabytes. If she will transfer all her files to a new external drive of size 20 gigabytes, how many free gigabytes will the new external drive have?",
+  "steps": [
+    "Sarah's current external drive shows 2.4 gigabytes free.",
+    "The used space on Sarah's drive currently is 12.6 gigabytes.",
+    "Sarah deletes a folder of size 4.6 gigabytes.",
+    "After deleting the folder, the used space will be 12.6 gigabytes - 4.6 gigabytes = 8 gigabytes.",
+    "Now, Sarah will store new files of 2 gigabytes.",
+    "After adding the new files, the used space will be 8 gigabytes + 2 gigabytes = 10 gigabytes.",
+    "Sarah will transfer all her files to a new external drive of size 20 gigabytes.",
+    "The new drive is 20 gigabytes in total size, and the used space is 10 gigabytes.",
+    "The free space on the new external drive will be 20 gigabytes - 10 gigabytes = 10 gigabytes."
+  ],
+  "solution": "10"
+}

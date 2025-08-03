@@ -1,0 +1,14 @@
+{
+  "query": "A soccer team has three goalies and ten defenders. The team also has twice as many midfielders as defenders, and the rest of the players are strikers. If the team has 40 players, how many strikers are in the team?",
+  "steps": [
+    "I know the team has three goalies.",
+    "I also know the team has ten defenders.",
+    "I see that the team has twice as many midfielders as defenders.",
+    "Since there are ten defenders, there must be 2 * 10 = 20 midfielders.",
+    "I need to find out how many players are accounted for so far: goalies + defenders + midfielders.",
+    "The counted players are 3 goalies + 10 defenders + 20 midfielders = 33 players.",
+    "The team has a total of 40 players.",
+    "Subtracting the counted players from the total will give the number of strikers: 40 - 33 = 7."
+  ],
+  "solution": "7"
+}

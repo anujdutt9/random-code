@@ -1,0 +1,23 @@
+{
+  "query": "A few friends are making a small movie.  They hire a few actors and that cost $1200.  They also get food for the 50 people there.  Each person gets $3 worth of food.  Equipment rental costs twice as much as food and actors combined.  They sold the movie for $10,000.  How much profit did they make?",
+  "steps": [
+    "First, I need to calculate the total cost of the food for 50 people.",
+    "Each person gets $3 worth of food, so the total cost of food is 50 people times $3 per person.",
+    "50 times 3 equals 150, so the total cost of the food is $150.",
+    "Next, I need to calculate the cost of the equipment rental.",
+    "The equipment rental costs twice as much as the combined cost of food and actors.",
+    "The combined cost of food and actors is the sum of $1200 for actors and $150 for food.",
+    "$1200 plus $150 equals $1350.",
+    "The equipment rental cost is twice $1350, so I need to multiply $1350 by 2.",
+    "$1350 times 2 equals $2700, so the equipment rental costs $2700.",
+    "Now, I will calculate the total expenses by adding the cost of actors, food, and equipment rental.",
+    "The total expenses are $1200 (actors) plus $150 (food) plus $2700 (equipment rental).",
+    "$1200 plus $150 equals $1350.",
+    "$1350 plus $2700 equals $4050.",
+    "Now, I know that the total expenses are $4050.",
+    "The movie was sold for $10,000.",
+    "To find the profit, I subtract the total expenses from the selling price.",
+    "$10,000 minus $4050 equals $5950."
+  ],
+  "solution": "5950"
+}

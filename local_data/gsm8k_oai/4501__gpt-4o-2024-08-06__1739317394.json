@@ -1,0 +1,12 @@
+{
+  "query": "Roosevelt High school plays a basketball tournament with Greendale High school. Roosevelt high school scores 30 points in the first game, half as much in the second game, and triple as much as the second game in the third game. At the end of the tournament, Roosevelt high school receives 50 bonus points and Greendale high school has 10 points less than Roosevelt high school. How many points does Greendale high school have?",
+  "steps": [
+    "Roosevelt High school scores 30 points in the first game.",
+    "In the second game, Roosevelt scores half as much as the first game, which is 30 / 2 = 15 points.",
+    "In the third game, Roosevelt scores triple as much as the second game, which is 15 * 3 = 45 points.",
+    "Now, add up the points from all three games for Roosevelt: 30 + 15 + 45 = 90 points.",
+    "Roosevelt receives 50 bonus points, so the total points Roosevelt accumulates is 90 + 50 = 140 points.",
+    "Greendale has 10 points less than Roosevelt, so Greendale's points are 140 - 10 = 130 points."
+  ],
+  "solution": "130"
+}

@@ -1,0 +1,12 @@
+{
+  "query": "An amoeba reproduces by fission, splitting itself into two separate amoebae. An amoeba reproduces every two days. How many days will it take one amoeba to divide into 16 amoebae?",
+  "steps": [
+    "Let's start with the initial amoeba. On day 0, there is 1 amoeba.",
+    "Every two days, each amoeba divides into 2. So on day 2, the number of amoebae becomes 2.",
+    "On day 4, each of these 2 amoebae divides again. We then have 4 amoebae.",
+    "On day 6, each of these 4 amoebae divides once more. We have 8 amoebae.",
+    "On day 8, each of these 8 amoebae divides again, resulting in 16 amoebae.",
+    "To reach 16 amoebae, it takes a total of 8 days."
+  ],
+  "solution": "8"
+}

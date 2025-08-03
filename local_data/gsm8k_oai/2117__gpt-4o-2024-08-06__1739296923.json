@@ -1,0 +1,14 @@
+{
+  "query": "Two friends are racing three miles. The first one runs it in 21 minutes. The second one runs it in 24 minutes. If they keep up the same pace, how long combined will it take for them to run 5 miles each?",
+  "steps": [
+    "First, I need to determine the pace per mile for each friend based on their race times.",
+    "For the first friend who runs 3 miles in 21 minutes, I calculate the pace by dividing the total time by the number of miles: 21 minutes / 3 miles = 7 minutes per mile.",
+    "For the second friend who runs 3 miles in 24 minutes, I calculate the pace by dividing the total time by the number of miles: 24 minutes / 3 miles = 8 minutes per mile.",
+    "Now I need to find out how long it will take each friend to run 5 miles at their respective paces.",
+    "The first friend will run 5 miles at 7 minutes per mile, so I multiply the pace by the distance: 5 miles * 7 minutes/mile = 35 minutes.",
+    "The second friend will run 5 miles at 8 minutes per mile, so I multiply the pace by the distance: 5 miles * 8 minutes/mile = 40 minutes.",
+    "Now, I must calculate the combined time for both friends to run 5 miles each.",
+    "I add the time it takes for the first friend to run 5 miles to the time it takes for the second friend: 35 minutes + 40 minutes = 75 minutes."
+  ],
+  "solution": "75"
+}

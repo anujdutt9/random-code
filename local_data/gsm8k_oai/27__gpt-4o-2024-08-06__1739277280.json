@@ -1,0 +1,18 @@
+{
+  "query": "Brennan was researching his school project and had to download files from the internet to his computer to use for reference. After downloading 800 files, he deleted 70% of them because they were not helpful. He downloaded 400 more files but again realized that 3/5 of them were irrelevant. How many valuable files was he left with after deleting the unrelated files he downloaded in the second round?",
+  "steps": [
+    "Brennan initially downloaded 800 files.",
+    "He deleted 70% of the initial 800 files.",
+    "To find out how many files he deleted, calculate 70% of 800.",
+    "70% of 800 is 0.7 * 800 = 560 files.",
+    "Subtracting the deleted files from the initial amount, 800 - 560 = 240 files remain.",
+    "Brennan then downloaded 400 more files.",
+    "He found that 3/5 of these 400 files were irrelevant.",
+    "To find out how many of the new files were irrelevant, calculate 3/5 of 400.",
+    "3/5 of 400 is 0.6 * 400 = 240 files.",
+    "Subtracting the irrelevant files from the new download amount, 400 - 240 = 160 valuable files remain from the second download.",
+    "Add the remaining files from both rounds of downloads. So, 240 (first) + 160 (second).",
+    "Thus, 240 + 160 = 400 valuable files remain in total."
+  ],
+  "solution": "400"
+}

@@ -1,0 +1,21 @@
+{
+  "query": "Trevor needs to go downtown for a restaurant date. An Uber ride downtown costs $3 more than a Lyft ride. A Lyft ride costs $4 more than a taxi ride. The Uber ride costs $22. If Trevor takes a taxi downtown and tips the taxi driver 20% of the original cost of the ride, what is the total cost of the ride downtown?",
+  "steps": [
+    "First, let's identify the cost of the Uber ride. The Uber ride costs $22.",
+    "We know the Uber ride costs $3 more than a Lyft ride. Let L represent the cost of the Lyft ride.",
+    "Therefore, we can set up the equation: `L + 3 = 22`.",
+    "Now, solve for L. Subtract 3 from both sides to get: `L = 22 - 3`.",
+    "This simplifies to: `L = 19`. So, the cost of the Lyft ride is $19.",
+    "We also know that the Lyft ride costs $4 more than the taxi ride. Let T represent the cost of the taxi ride.",
+    "So we can set up the equation: `T + 4 = 19`.",
+    "Now, solve for T. Subtract 4 from both sides to get: `T = 19 - 4`.",
+    "This simplifies to: `T = 15`. So, the cost of the taxi ride is $15.",
+    "Trevor tips the taxi driver 20% of the original cost of the ride. We need to calculate 20% of $15.",
+    "20% of $15 can be calculated as: `0.20 * 15`.",
+    "Performing the multiplication gives: `0.20 * 15 = 3`.",
+    "So, the tip is $3.",
+    "To find the total cost of the taxi ride including the tip, add the cost of the ride and the tip: `15 + 3`.",
+    "This sum is `18`. Therefore, the total cost of the ride downtown, including the tip, is $18."
+  ],
+  "solution": "18"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "Two months ago, Wilson had a total of $150 in his bank account. Then last month, he deposited $17. A few days after, he made a withdrawal. This month, he deposited $21 so he has $16 more than what is in his account two months ago. How much did Wilson withdraw last month?",
+  "steps": [
+    "Two months ago, Wilson had $150 in his bank account.",
+    "Last month, he deposited $17, so his account balance before the withdrawal was $150 + $17 = $167.",
+    "Let's denote the amount Wilson withdrew last month as \"W\".",
+    "After the withdrawal, his balance would be $167 - W.",
+    "This month, he deposited $21.",
+    "This month, the final balance is $16 more than what was in his account two months ago. So, the final balance this month is $150 + $16 = $166.",
+    "Therefore, his balance after depositing $21 is $166.",
+    "Logically, this balance must come from the remaining amount from last month plus the $21 deposited.",
+    "Thus, $166 = ($167 - W) + $21.",
+    "This simplifies to: $167 - W + $21 = $166.",
+    "Combine the numbers: $188 - W = $166.",
+    "Solve for W by subtracting $166 from $188: $W = $188 - $166.",
+    "Calculate the result: $W = $22."
+  ],
+  "solution": "22"
+}

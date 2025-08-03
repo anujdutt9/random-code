@@ -1,0 +1,14 @@
+{
+  "query": "James writes from 1 PM to 4 PM every night.  He can write 5 pages per hour.  How many weeks will it take to finish his 735-page book?",
+  "steps": [
+    "James writes from 1 PM to 4 PM each night.",
+    "This means James writes for 3 hours each day.",
+    "James can write 5 pages per hour.",
+    "In 3 hours, James can write 3 hours \u00d7 5 pages per hour = 15 pages per day.",
+    "The total number of pages for the book is 735 pages.",
+    "To find out how many days it will take, divide the total pages by pages per day: 735 pages \u00f7 15 pages per day = 49 days.",
+    "There are 7 days in a week.",
+    "To find out how many weeks it will take, divide the total days by days per week: 49 days \u00f7 7 days per week = 7 weeks."
+  ],
+  "solution": "7"
+}

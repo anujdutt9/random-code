@@ -1,0 +1,13 @@
+{
+  "query": "Louie sells Dodge, Hyundai, and Kia vehicles, and his company has 400 vehicles for sale on the store's parking lot.  Half of the vehicles on the lot are Dodge, and there are half as many Hyundai vehicles on the lot as there are Dodge vehicles.  How many Kia vehicles are on the lot?",
+  "steps": [
+    "First, I need to determine the number of Dodge vehicles on the lot. It is given that half of the vehicles are Dodge.",
+    "There are 400 vehicles in total, so half of them would be \\( \\frac{400}{2} = 200 \\) Dodge vehicles.",
+    "Next, I need to find out how many Hyundai vehicles there are. The problem states there are half as many Hyundai vehicles as Dodge vehicles.",
+    "There are 200 Dodge vehicles, so the number of Hyundai vehicles is \\( \\frac{200}{2} = 100 \\).",
+    "Now, I need to calculate the number of Kia vehicles. To do this, I add the number of Dodge and Hyundai vehicles and subtract this total from the overall total of vehicles.",
+    "The combined total of Dodge and Hyundai vehicles is \\( 200 + 100 = 300 \\).",
+    "Subtracting this from the total number of vehicles, I have \\( 400 - 300 = 100 \\) Kia vehicles."
+  ],
+  "solution": "100"
+}

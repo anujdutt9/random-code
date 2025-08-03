@@ -1,0 +1,16 @@
+{
+  "query": "Selene buys two instant cameras at $110 and three digital photo frames at $120 each. She gets a 5% discount on all the items she purchased. How much does she pay in all?",
+  "steps": [
+    "First, I need to calculate the total cost of the instant cameras. Selene buys two instant cameras at $110 each.",
+    "The total cost of the instant cameras is 2 cameras * $110 per camera = $220.",
+    "Next, I calculate the total cost of the digital photo frames. She buys three digital photo frames at $120 each.",
+    "The total cost of the digital photo frames is 3 frames * $120 per frame = $360.",
+    "Now, I sum the total costs of both the instant cameras and the digital photo frames to find out the total cost before the discount.",
+    "The total cost before the discount is $220 (instant cameras) + $360 (digital photo frames) = $580.",
+    "Selene receives a 5% discount on the total purchase. I need to calculate the discount amount.",
+    "The discount amount is 5% of $580. Calculating this gives: 0.05 * $580 = $29.",
+    "Now, I subtract the discount amount from the total cost before the discount to find the final amount Selene pays.",
+    "The final amount after the discount is $580 - $29 = $551."
+  ],
+  "solution": "551"
+}

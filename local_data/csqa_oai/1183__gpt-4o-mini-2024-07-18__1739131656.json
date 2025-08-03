@@ -1,0 +1,13 @@
+{
+  "query": "Question: A human is hitch hiking near Hoboken, where is he?\n\nChoices:\nA: new jersey\nB: homes\nC: department store\nD: near italy\nE: new orleans",
+  "steps": [
+    "The question states that a human is hitchhiking near Hoboken.",
+    "Hoboken is a city located in the state of New Jersey.",
+    "The choice options include \"new jersey,\" which directly corresponds to the location of Hoboken.",
+    "Other options like \"homes,\" \"department store,\" \"near italy,\" and \"new orleans\" do not logically relate to the specific place of Hoboken.",
+    "Since Hoboken is well-known and located in New Jersey, the most relevant and accurate answer must be New Jersey.",
+    "Verifying the relationship of the other options: \"homes\" is too vague, \"department store\" could exist anywhere, \"near italy\" is geographically incorrect, and \"new orleans\" is a different city in a different state.",
+    "Therefore, the only answer that accurately reflects the location where the human is hitchhiking is \"new jersey.\""
+  ],
+  "solution": "A"
+}

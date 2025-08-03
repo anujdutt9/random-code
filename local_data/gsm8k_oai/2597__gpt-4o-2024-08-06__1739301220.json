@@ -1,0 +1,12 @@
+{
+  "query": "When Jane visited Iran, she visited 6 more than twice as many rehabilitation centers as Han. Han visited 2 less than twice as many rehabilitation centers as Jude did. Jude visited half fewer rehabilitation centers as Lisa did. If Lisa visited 6 rehabilitation centers, how many rehabilitation centers did they all visit assuming they are all different?",
+  "steps": [
+    "First, I need to find out how many rehabilitation centers Lisa visited. According to the information given, Lisa visited 6 centers.",
+    "Now, I determine how many centers Jude visited. He visited half fewer centers than Lisa did. Jude's centers = Lisa's centers / 2 = 6 / 2 = 3 centers.",
+    "Next, I use the information about Han. Han visited 2 less than twice as many centers as Jude did. Han's centers = 2 * Jude's centers - 2 = 2 * 3 - 2 = 6 - 2 = 4 centers.",
+    "Finally, I calculate the number of centers Jane visited. Jane visited 6 more than twice as many centers as Han did. Jane's centers = 2 * Han's centers + 6 = 2 * 4 + 6 = 8 + 6 = 14 centers.",
+    "Now, I add up all the centers visited by each person to find the total attended. Total centers = Lisa's centers + Jude's centers + Han's centers + Jane's centers = 6 + 3 + 4 + 14.",
+    "Doing the final calculation, the sum is 6 + 3 + 4 + 14 = 27."
+  ],
+  "solution": "27"
+}

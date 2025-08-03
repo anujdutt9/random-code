@@ -1,0 +1,14 @@
+{
+  "query": "In a certain company, for every customer served, an employee gets as many bonus points, as 20% of the number of customers served. On Monday, Tom served 10 customers per hour for 8 hours. How many bonus points did Tom earn that day?",
+  "steps": [
+    "First, I need to calculate the total number of customers Tom served on Monday.",
+    "Tom served 10 customers per hour.",
+    "He worked for 8 hours.",
+    "The total number of customers served is 10 customers/hour * 8 hours = 80 customers.",
+    "Now, I need to determine how many bonus points Tom earns for serving these 80 customers.",
+    "For each customer served, Tom gets bonus points equal to 20% of the number of customers served.",
+    "20% of 80 customers is calculated as (20/100) * 80 = 16.",
+    "Therefore, Tom earns 16 bonus points for serving 80 customers."
+  ],
+  "solution": "16"
+}

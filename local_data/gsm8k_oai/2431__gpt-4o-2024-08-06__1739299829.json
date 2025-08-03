@@ -1,0 +1,16 @@
+{
+  "query": "Justin and Sabrina at Pine Grove Elementary have 50 pencils combined. Justin has 8 more than twice as many pencils as Sabrina. How many pencils does Sabrina have?",
+  "steps": [
+    "Let's start by defining some variables. Let J be the number of pencils Justin has and S be the number of pencils Sabrina has.",
+    "According to the problem, Justin has 8 more than twice as many pencils as Sabrina. This means J = 2S + 8.",
+    "We also know that combined, they have 50 pencils. So, J + S = 50.",
+    "Now we substitute the expression for J from the first equation into the second equation. So we have (2S + 8) + S = 50.",
+    "Combine like terms: 2S + S is 3S, so the equation simplifies to 3S + 8 = 50.",
+    "Next, we subtract 8 from both sides of the equation to isolate the 3S term: 3S = 50 - 8.",
+    "Perform the subtraction on the right side: 50 - 8 equals 42. So, we have 3S = 42.",
+    "Now, divide both sides of the equation by 3 to solve for S: S = 42 / 3.",
+    "Perform the division: 42 divided by 3 is 14.",
+    "Thus, Sabrina has 14 pencils."
+  ],
+  "solution": "14"
+}

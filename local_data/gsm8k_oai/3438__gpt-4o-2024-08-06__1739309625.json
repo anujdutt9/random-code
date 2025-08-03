@@ -1,0 +1,20 @@
+{
+  "query": "Penn operates an ice cream stall for a week. On the first day, she made $10. Every day after that, she made $4 more than the previous day. How much money did Penn make after 5 days?",
+  "steps": [
+    "On the first day, Penn made $10.",
+    "On the second day, Penn made $4 more than the first day.",
+    "So, on the second day, Penn made $10 + $4 = $14.",
+    "On the third day, Penn made $4 more than the second day.",
+    "So, on the third day, Penn made $14 + $4 = $18.",
+    "On the fourth day, Penn made $4 more than the third day.",
+    "So, on the fourth day, Penn made $18 + $4 = $22.",
+    "On the fifth day, Penn made $4 more than the fourth day.",
+    "So, on the fifth day, Penn made $22 + $4 = $26.",
+    "Now, let's sum up all the earnings from each day: $10 + $14 + $18 + $22 + $26.",
+    "$10 + $14 = $24",
+    "$24 + $18 = $42",
+    "$42 + $22 = $64",
+    "$64 + $26 = $90"
+  ],
+  "solution": "90"
+}

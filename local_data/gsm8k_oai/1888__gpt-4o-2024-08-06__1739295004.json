@@ -1,0 +1,14 @@
+{
+  "query": "The New York City Council bought 200 streetlights to modernize its squares. But they don't have enough squares to use all the streetlights bought. Knowing that there are 15 squares in New York and that each park will have 12 new streetlights bought by the city council, how many unused streetlights will remain?",
+  "steps": [
+    "First, I need to determine how many streetlights will be used in total across all the squares.",
+    "There are 15 squares in New York City.",
+    "Each square will have 12 new streetlights.",
+    "To find the total number of streetlights that will be used, I multiply the number of squares by the number of streetlights per square: 15 squares * 12 streetlights/square.",
+    "15 * 12 equals 180 streetlights.",
+    "The New York City Council bought 200 streetlights.",
+    "To find out how many streetlights will remain unused, I subtract the total number of streetlights used (180) from the number of streetlights bought (200).",
+    "200 - 180 equals 20 streetlights."
+  ],
+  "solution": "20"
+}

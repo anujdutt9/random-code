@@ -1,0 +1,14 @@
+{
+  "query": "Emma's bank account has $100 in it. Each day of the week, she spends $8. At the end of the week, she goes to the bank and asks for as many $5 bills as her account can give her. She leaves the rest in the account. How many dollars remain in the account?",
+  "steps": [
+    "Emma starts the week with $100 in her bank account.",
+    "She spends $8 each day, and there are 7 days in a week.",
+    "Calculate the total amount Emma spends in a week: 8 dollars/day * 7 days = 56 dollars.",
+    "Subtract the amount spent from the initial amount: 100 - 56 = 44 dollars remaining at the end of the week.",
+    "Emma asks for as many $5 bills as her account can give her with the remaining amount.",
+    "Determine how many $5 bills Emma can take out: 44 dollars / 5 dollars/bill = 8 bills (since 8 is the whole number of bills).",
+    "8 bills * 5 dollars = 40 dollars withdrawn in $5 bills.",
+    "Calculate the remaining dollars in Emma's account: 44 - 40 = 4 dollars."
+  ],
+  "solution": "4"
+}

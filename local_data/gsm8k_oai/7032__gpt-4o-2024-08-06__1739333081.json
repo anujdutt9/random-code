@@ -1,0 +1,18 @@
+{
+  "query": "Chris buys 2 and a half dozen donuts on his way to work to share with his co-workers.  While driving, he eats 10% of the donuts.  Once inside, he grabs another 4 donuts for his afternoon snack.  How many donuts are left for his co-workers?",
+  "steps": [
+    "Chris buys 2 and a half dozen donuts.",
+    "A dozen is equal to 12, so 2 dozen is 24.",
+    "Half a dozen is 6, so 2 and a half dozen is 24 + 6.",
+    "Chris initially buys 30 donuts.",
+    "He eats 10% of the donuts while driving.",
+    "10% of 30 donuts is 0.10 * 30.",
+    "0.10 * 30 is 3 donuts.",
+    "After eating, 30 - 3 donuts remain.",
+    "27 donuts are left after he eats 10% of them.",
+    "Once inside, he grabs 4 more donuts for his afternoon snack.",
+    "27 - 4 donuts are left for his co-workers.",
+    "23 donuts are left for his co-workers."
+  ],
+  "solution": "23"
+}

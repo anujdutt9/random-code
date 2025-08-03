@@ -1,0 +1,16 @@
+{
+  "query": "Jill spends time every day talking to her boyfriend on the phone.  The first day of the week she spends 5 minutes on the phone with her boyfriend.  Each of the following days she spends twice as much time talking on the phone as the day before. After the 5th day her parents take the phone away from her because she was on it too long.  How much time did Jill spend talking to her boyfriend that week?",
+  "steps": [
+    "On the first day, Jill spends 5 minutes on the phone.",
+    "On the second day, she spends twice as much time as the first day, which is 5 * 2 = 10 minutes.",
+    "On the third day, she spends twice as much time as the second day, which is 10 * 2 = 20 minutes.",
+    "On the fourth day, she spends twice as much time as the third day, which is 20 * 2 = 40 minutes.",
+    "On the fifth day, she spends twice as much time as the fourth day, which is 40 * 2 = 80 minutes.",
+    "Now, I will add up all the minutes spent over these 5 days: 5 + 10 + 20 + 40 + 80.",
+    "5 + 10 = 15",
+    "15 + 20 = 35",
+    "35 + 40 = 75",
+    "75 + 80 = 155"
+  ],
+  "solution": "155"
+}

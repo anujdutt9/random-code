@@ -1,0 +1,14 @@
+{
+  "query": "The chocolate factory produces 50 candies per hour. It has to fulfill an order and produce 4000 candies. How many days will it take to complete the order if the factory works for 10 hours every day?",
+  "steps": [
+    "First, I need to determine how many candies are produced in one day.",
+    "The factory produces 50 candies per hour.",
+    "The factory works for 10 hours every day.",
+    "So, the factory produces 50 candies/hour * 10 hours/day = 500 candies/day.",
+    "Now, I need to find out how many days it will take to produce 4000 candies.",
+    "The total number of candies needed is 4000.",
+    "To find the number of days, I will divide the total candies needed by the number of candies produced per day.",
+    "So, 4000 candies / 500 candies/day = 8 days."
+  ],
+  "solution": "8"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Tom decides to buy some shirts from his favorite fandoms because there is a sale on his favorite website.  He buys 5 t-shirts from each of his 4 favorite fandoms.  The shirts normally cost $15 each but there is a 20% off sale.   The order qualified for free shipping but he still needed to pay 10% tax.  How much did he pay?",
+  "steps": [
+    "First, I need to determine how many total t-shirts Tom buys.",
+    "Tom buys 5 t-shirts from each of his 4 favorite fandoms.",
+    "Multiply 5 t-shirts by 4 fandoms to find the total number of t-shirts: \\(5 \\times 4 = 20\\) t-shirts.",
+    "Now, I need to calculate the cost of the shirts before the sale discount.",
+    "Each t-shirt costs $15.",
+    "Multiply 20 t-shirts by $15 to find the total cost before the discount: \\(20 \\times 15 = 300\\) dollars.",
+    "Next, I apply the 20% discount to the total cost.",
+    "A 20% discount means Tom pays 80% of the original total.",
+    "Calculate 80% of the $300: \\(300 \\times 0.80 = 240\\) dollars.",
+    "Next, I need to account for the 10% tax on the discounted price.",
+    "10% tax on a $240 purchase is calculated by multiplying $240 by 0.10.",
+    "$240 times 0.10 equals $24.",
+    "Add the $24 tax to the discounted cost to find the total amount Tom paid.",
+    "$240 (discounted cost) + $24 (tax) equals $264."
+  ],
+  "solution": "264"
+}

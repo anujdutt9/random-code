@@ -1,0 +1,16 @@
+{
+  "query": "Sally reads 10 pages of a book on weekdays and 20 pages on weekends. If it takes 2 weeks for Sally to finish her book, how many pages that book has?",
+  "steps": [
+    "First, I need to find out how many weekdays there are in 2 weeks.",
+    "There are 5 weekdays in a week. So, in 2 weeks, there are 5 * 2 = 10 weekdays.",
+    "Next, I need to calculate how many pages Sally reads on weekdays over the 2 weeks.",
+    "Sally reads 10 pages per weekday. Over 10 weekdays, she reads 10 * 10 = 100 pages.",
+    "Now, I need to find out how many weekend days there are in 2 weeks.",
+    "There are 2 weekend days in a week. So, in 2 weeks, there are 2 * 2 = 4 weekend days.",
+    "Then, I calculate how many pages she reads on weekends over the 2 weeks.",
+    "Sally reads 20 pages per weekend day. Over 4 weekend days, she reads 20 * 4 = 80 pages.",
+    "To find the total number of pages in the book, I add the pages she reads on weekdays and weekends.",
+    "Total pages read = pages read on weekdays + pages read on weekends = 100 + 80 = 180."
+  ],
+  "solution": "180"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Peter has four horses. Each one eats 4 pounds of oats, twice a day, and 3 pounds of grain once a day. How many pounds of food does he need to feed his horses for 3 days?",
+  "steps": [
+    "First, I need to calculate the total amount of oats each horse eats in a day.",
+    "Each horse eats 4 pounds of oats twice a day.",
+    "4 pounds/meal * 2 meals/day = 8 pounds of oats per horse per day.",
+    "Next, I need to calculate the total amount of grain each horse eats in a day.",
+    "Each horse eats 3 pounds of grain once a day.",
+    "So each horse eats 3 pounds of grain per day.",
+    "Now, I add the daily oat and grain consumption per horse.",
+    "8 pounds oats/day + 3 pounds grain/day = 11 pounds of food per horse per day.",
+    "Peter has 4 horses, so I need to multiply the daily consumption by 4 horses.",
+    "11 pounds/horse/day * 4 horses = 44 pounds of food per day for all the horses.",
+    "Now, I calculate the total food needed for 3 days.",
+    "44 pounds/day * 3 days = 132 pounds of food needed in total."
+  ],
+  "solution": "132"
+}

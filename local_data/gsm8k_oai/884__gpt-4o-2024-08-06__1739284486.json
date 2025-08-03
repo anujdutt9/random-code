@@ -1,0 +1,14 @@
+{
+  "query": "Two vampires have come to the sleepy village of Willowton, population 300. Every night, each vampire turns 5 more people into vampires. How many vampires are there after two nights?",
+  "steps": [
+    "Initially, there are 2 vampires in the village.",
+    "Each vampire turns 5 people into vampires each night.",
+    "On the first night, each of the 2 vampires turns 5 people into vampires.",
+    "This means 2 vampires create 2 * 5 = 10 new vampires on the first night.",
+    "After the first night, the total number of vampires is the original 2 plus the 10 new ones: 2 + 10 = 12 vampires.",
+    "On the second night, each of the 12 vampires turns 5 people into vampires.",
+    "This means 12 vampires create 12 * 5 = 60 new vampires on the second night.",
+    "After the second night, the total number of vampires is the previous 12 plus the 60 new ones: 12 + 60 = 72 vampires."
+  ],
+  "solution": "72"
+}

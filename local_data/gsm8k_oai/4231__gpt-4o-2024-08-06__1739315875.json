@@ -1,0 +1,15 @@
+{
+  "query": "Olaf is sailing across the ocean with 25 men, including himself. He needs 1/2 a gallon of water per day per man. The boat can go 200 miles per day and he needs to travel 4,000 miles. How many gallons of water does he need?",
+  "steps": [
+    "I need to first calculate how many total days it will take for Olaf to travel 4,000 miles.",
+    "The boat travels 200 miles per day.",
+    "I will divide the total distance by the daily distance: 4,000 miles / 200 miles per day.",
+    "4,000 / 200 = 20 days.",
+    "Now I will calculate the total amount of water needed for all 25 men for these 20 days.",
+    "Each man, including Olaf, needs 1/2 gallon of water per day.",
+    "Total water needed for one man for the journey: 1/2 gallon/day * 20 days = 10 gallons.",
+    "There are 25 men in total.",
+    "Total water needed for 25 men: 25 men * 10 gallons = 250 gallons."
+  ],
+  "solution": "250"
+}

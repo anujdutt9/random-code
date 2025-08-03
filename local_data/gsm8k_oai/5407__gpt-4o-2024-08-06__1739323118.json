@@ -1,0 +1,17 @@
+{
+  "query": "Jill has a difficult test to study for.  She decides to study one day for 2 hours.  The next day she doubles this amount, and the day after that she studies one hour less than the previous day.  How many minutes does Jill study over the 3 days?",
+  "steps": [
+    "On the first day, Jill studies for 2 hours.",
+    "There are 60 minutes in one hour.",
+    "2 hours is equal to 2 * 60 = 120 minutes.",
+    "On the second day, Jill doubles the amount of time she studied from the first day.",
+    "She studies 2 * 2 = 4 hours on the second day.",
+    "4 hours is equal to 4 * 60 = 240 minutes.",
+    "On the third day, Jill studies one hour less than she did on the second day.",
+    "She studied 4 - 1 = 3 hours on the third day.",
+    "3 hours is equal to 3 * 60 = 180 minutes.",
+    "To find the total number of minutes studied over the three days, add the minutes from each day together.",
+    "120 minutes (first day) + 240 minutes (second day) + 180 minutes (third day) = 540 minutes."
+  ],
+  "solution": "540"
+}

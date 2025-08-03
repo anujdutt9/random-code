@@ -1,0 +1,16 @@
+{
+  "query": "The half-hour newscast includes 12 minutes of national news, 5 minutes of international news, 5 minutes of sports, and 2 minutes of weather forecasts. The rest is advertisements. How many minutes of advertising are in the newscast?",
+  "steps": [
+    "The total duration of the newscast is 30 minutes since it is a half-hour newscast.",
+    "First, I will add up the time for all the news segments and the weather forecast.",
+    "The national news takes 12 minutes.",
+    "The international news takes 5 minutes.",
+    "The sports segment takes 5 minutes.",
+    "The weather forecast takes 2 minutes.",
+    "I will add these times together: 12 minutes (national news) + 5 minutes (international news) + 5 minutes (sports) + 2 minutes (weather)",
+    "The total time for news and weather segments is 12 + 5 + 5 + 2 = 24 minutes.",
+    "Now, I will subtract the total time of the news and weather segments from the total newscast time to find the time for advertisements.",
+    "30 minutes (total newscast) - 24 minutes (news and weather) = 6 minutes."
+  ],
+  "solution": "6"
+}

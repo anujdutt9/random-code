@@ -1,0 +1,16 @@
+{
+  "query": "A school does a yearly tree planting activity. This year, the 4th graders planted a total of 30 trees while 5th graders planted twice as many. The 6th graders planted 30 fewer than thrice the number of trees planted by the 5th graders. How many trees did they plant altogether?",
+  "steps": [
+    "First, I need to find out how many trees the 5th graders planted. According to the problem, the 5th graders planted twice as many trees as the 4th graders.",
+    "The 4th graders planted 30 trees, so twice that amount is 2 * 30 = 60 trees.",
+    "Now, I know that the 5th graders planted 60 trees.",
+    "Next, I need to find out how many trees the 6th graders planted. The problem states that the 6th graders planted 30 fewer than thrice the number of trees planted by the 5th graders.",
+    "First, I calculate thrice the number of trees planted by the 5th graders. This is 3 * 60 = 180 trees.",
+    "Then, I subtract 30 from the 180 trees to find out how many trees the 6th graders planted. So, it's 180 - 30 = 150 trees.",
+    "Now I know that the 6th graders planted 150 trees.",
+    "Finally, I need to find the total number of trees planted by adding the trees planted by the 4th, 5th, and 6th graders together.",
+    "The total is 30 (4th graders) + 60 (5th graders) + 150 (6th graders).",
+    "Calculating the total, I get 30 + 60 + 150 = 240 trees."
+  ],
+  "solution": "240"
+}

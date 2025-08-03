@@ -1,0 +1,13 @@
+{
+  "query": "Darma can eat 20 peanuts in 15 seconds. At this same rate, how many peanuts could she eat in 6 minutes?",
+  "steps": [
+    "Darma can eat 20 peanuts in 15 seconds.",
+    "6 minutes is equal to 6 * 60 seconds, which is 360 seconds.",
+    "I need to determine how many 15-second intervals fit into 360 seconds.",
+    "I divide 360 by 15, which is 24.",
+    "Darma can eat 20 peanuts in each 15-second interval.",
+    "If there are 24 intervals of 15 seconds in 360 seconds, and Darma eats 20 peanuts per interval, I multiply 24 by 20.",
+    "24 * 20 equals 480."
+  ],
+  "solution": "480"
+}

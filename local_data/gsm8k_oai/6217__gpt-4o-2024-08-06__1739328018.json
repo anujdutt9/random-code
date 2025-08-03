@@ -1,0 +1,21 @@
+{
+  "query": "Levi has 5 lemons. Jayden has 6 more lemons than Levi. Jayden has one-third as many lemons as Eli has while Eli has one-half as many lemons as Ian has. How many lemons do they have in all?",
+  "steps": [
+    "Levi has 5 lemons.",
+    "Jayden has 6 more lemons than Levi.",
+    "So, Jayden has 5 + 6 = 11 lemons.",
+    "Jayden has one-third as many lemons as Eli has.",
+    "Letting E represent the number of lemons Eli has, we have 11 = E/3.",
+    "Solving for E gives E = 11 * 3 = 33 lemons.",
+    "Eli has one-half as many lemons as Ian has.",
+    "Letting I represent the number of lemons Ian has, we have 33 = I/2.",
+    "Solving for I gives I = 33 * 2 = 66 lemons.",
+    "Now, add the number of lemons each person has to find the total.",
+    "Levi has 5 lemons, Jayden has 11 lemons, Eli has 33 lemons, and Ian has 66 lemons.",
+    "The total number of lemons is 5 + 11 + 33 + 66.",
+    "Calculate: 5 + 11 = 16.",
+    "Then, 16 + 33 = 49.",
+    "Finally, 49 + 66 = 115."
+  ],
+  "solution": "115"
+}

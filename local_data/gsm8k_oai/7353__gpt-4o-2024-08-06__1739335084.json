@@ -1,0 +1,24 @@
+{
+  "query": "Jay went to watch a singer in a one hour 20 minutes concert.  If there was a 10-minute intermission, and all the songs were 5 minutes except for one song that lasted 10 minutes, how many songs did she sing?",
+  "steps": [
+    "Jay went to watch a one hour 20 minutes concert.",
+    "First, I need to convert 1 hour 20 minutes into total minutes.",
+    "1 hour equals 60 minutes.",
+    "Therefore, 1 hour and 20 minutes equals 60 minutes + 20 minutes = 80 minutes.",
+    "The total concert time is 80 minutes.",
+    "There was a 10-minute intermission during the concert.",
+    "I need to subtract the intermission time from the total concert time to find the actual time when songs were sung.",
+    "80 minutes (total concert time) - 10 minutes (intermission) = 70 minutes.",
+    "Now, I know that the total time of actual singing is 70 minutes.",
+    "All the songs were 5 minutes each except for one song that lasted 10 minutes.",
+    "Let\u2019s first account for the 10-minute song.",
+    "Subtract 10 minutes for the 10-minute song from the total singing time.",
+    "70 minutes - 10 minutes = 60 minutes.",
+    "The remaining 60 minutes were used for songs that each last 5 minutes.",
+    "To find out how many 5-minute songs there were, divide the remaining 60 minutes by 5 minutes per song.",
+    "60 minutes \u00f7 5 minutes/song = 12 songs.",
+    "So, there were 12 songs that lasted 5 minutes each.",
+    "Including the 10-minute song, the total number of songs sung is 12 five-minute songs + 1 ten-minute song = 13 songs."
+  ],
+  "solution": "13"
+}

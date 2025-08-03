@@ -1,0 +1,19 @@
+{
+  "query": "Randy walks his dog twice a day.  After each walk, he wipes his dog's paws off with a baby wipe.  The baby wipes come 120 wipes per pack.  How many packs will he need to make sure he has enough wipes for 360 days?",
+  "steps": [
+    "First, I need to determine how many times Randy wipes his dog's paws in one day.",
+    "Randy wipes his dog's paws twice a day because he walks the dog twice.",
+    "So in one day, Randy uses 2 wipes.",
+    "Now, I need to calculate the total number of wipes Randy will use in 360 days.",
+    "I multiply the number of wipes used per day (2) by the number of days (360).",
+    "2 wipes/day * 360 days = 720 wipes.",
+    "Next, I need to determine how many packs of wipes Randy needs for 720 wipes.",
+    "Each pack contains 120 wipes.",
+    "I divide the total number of wipes needed (720) by the number of wipes per pack (120).",
+    "720 wipes / 120 wipes/pack = 6 packs.",
+    "I'll check my calculation to ensure accuracy.",
+    "If 1 pack contains 120 wipes, then 6 packs would contain 120 * 6 = 720 wipes.",
+    "This matches with the total number of wipes needed, confirming the calculation is correct."
+  ],
+  "solution": "6"
+}

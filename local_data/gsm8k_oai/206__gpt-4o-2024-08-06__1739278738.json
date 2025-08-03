@@ -1,0 +1,16 @@
+{
+  "query": "There are some lions in Londolozi at first. Lion cubs are born at the rate of 5 per month and lions die at the rate of 1 per month. If there are 148 lions in Londolozi after 1 year, how many lions were there in Londolozi at first?",
+  "steps": [
+    "Let's start by considering the net change in the lion population per month.",
+    "The birth rate of lion cubs is 5 per month.",
+    "The death rate of lions is 1 per month.",
+    "So, the net increase in lions per month is 5 - 1 = 4 lions.",
+    "We are asked to find out how many lions were initially in Londolozi.",
+    "The time span mentioned is 1 year. There are 12 months in a year.",
+    "The total net increase in lions over 1 year is 12 months * 4 lions per month = 48 lions.",
+    "If there are 148 lions after 1 year, and the population increased by 48 lions, we need to subtract 48 from 148 to find the initial number of lions.",
+    "Calculating the initial number: 148 - 48 = 100.",
+    "Therefore, there were 100 lions at the start."
+  ],
+  "solution": "100"
+}

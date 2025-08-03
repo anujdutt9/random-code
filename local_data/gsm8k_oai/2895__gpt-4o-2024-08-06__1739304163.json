@@ -1,0 +1,15 @@
+{
+  "query": "Joan wants to visit her family who live 480 miles away.  If she drives at a rate of 60 mph and takes a lunch break taking 30 minutes, and 2 bathroom breaks taking 15 minutes each, how many hours did it take her to get there?",
+  "steps": [
+    "First, calculate the total distance Joan needs to cover, which is 480 miles.",
+    "Determine the speed at which Joan drives: 60 mph.",
+    "Calculate the time it takes to drive 480 miles at 60 mph using the formula time = distance / speed.",
+    "Divide 480 miles by 60 mph to find the driving time: 480 / 60 = 8 hours.",
+    "List all breaks Joan takes: one 30-minute lunch break and two 15-minute bathroom breaks.",
+    "Convert the breaks from minutes to hours: 30 minutes = 0.5 hours and 15 minutes = 0.25 hours.",
+    "Since there are two 15-minute breaks, the total bathroom break time is 2 * 0.25 = 0.5 hours.",
+    "Add the break times: 0.5 hours (lunch) + 0.5 hours (bathroom) = 1 hour.",
+    "Add the total driving time and break times: 8 hours (driving) + 1 hour (breaks) = 9 hours."
+  ],
+  "solution": "9"
+}

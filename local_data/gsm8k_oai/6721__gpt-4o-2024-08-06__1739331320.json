@@ -1,0 +1,15 @@
+{
+  "query": "The height of the tree in Kilmer Park is 52 feet. Each year it grows 5 feet. In 8 years, what will the height of the tree be in inches, assuming 1 foot is 12 inches.",
+  "steps": [
+    "The current height of the tree is 52 feet.",
+    "The tree grows 5 feet each year.",
+    "We need to calculate the growth over 8 years.",
+    "The growth over 8 years is 5 feet/year * 8 years = 40 feet.",
+    "The height of the tree after 8 years will be the current height plus the growth.",
+    "The expected height is 52 feet + 40 feet = 92 feet.",
+    "Convert the height from feet to inches since 1 foot is 12 inches.",
+    "Multiply the height in feet by 12 to get the height in inches: 92 feet * 12 inches/foot.",
+    "92 * 12 = 1104 inches."
+  ],
+  "solution": "1104"
+}

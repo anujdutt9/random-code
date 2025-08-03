@@ -1,0 +1,18 @@
+{
+  "query": "There are 1250 pairs of shoes in the warehouse. There are 540 pairs that are blue. The rest are either green or purple. The number of green shoes is equal to the number of purple shoes. How many pairs of purple shoes are in the warehouse?",
+  "steps": [
+    "I am given that there are 1250 total pairs of shoes in the warehouse.",
+    "Out of these, 540 pairs are blue.",
+    "I need to find out how many pairs are either green or purple.",
+    "First, I subtract the number of blue pairs from the total number of pairs: 1250 - 540.",
+    "1250 - 540 equals 710 pairs that are either green or purple.",
+    "I know that the number of green pairs is equal to the number of purple pairs.",
+    "Let x be the number of green pairs and also the number of purple pairs.",
+    "So, x (green pairs) + x (purple pairs) equals 710.",
+    "This simplifies to 2x = 710.",
+    "To find x, I divide both sides by 2: x = 710 / 2.",
+    "710 divided by 2 equals 355.",
+    "Therefore, the number of purple pairs is 355."
+  ],
+  "solution": "355"
+}

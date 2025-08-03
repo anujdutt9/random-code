@@ -1,0 +1,17 @@
+{
+  "query": "Daisy is a poodle puppy who loves to play with her dog toys. She often loses them in various ways, and her owner needs to replace them. On Monday, Daisy played with 5 dog toys. On Tuesday, Daisy had 3 dog toys left after losing some, and her owner went to the store and got her 3 more. On Wednesday, all of Daisy's old and new dog toys were missing, so her owner went to the store and bought her 5 more. If Daisy's owner found all the lost dog toys, including the new dog toys, how many dog toys would Daisy have now?",
+  "steps": [
+    "On Monday, Daisy played with 5 dog toys.",
+    "On Tuesday, Daisy had 3 dog toys left after losing some.",
+    "Daisy's owner bought her 3 more dog toys on Tuesday.",
+    "At the end of Tuesday, Daisy had 3 (from before) + 3 (bought) = 6 dog toys.",
+    "On Wednesday, all of Daisy's 6 dog toys were missing.",
+    "Daisy's owner bought her 5 more dog toys on Wednesday.",
+    "Including the 5 new dog toys, Daisy had 0 (missing) + 5 (bought) = 5 dog toys on Wednesday.",
+    "Daisy's owner found all the lost dog toys, which include the old ones from Monday and Tuesday, as well as the new toys bought on Wednesday.",
+    "The total number of dog toys Daisy originally had on Monday was 5.",
+    "The total number of dog toys bought was 3 on Tuesday and 5 on Wednesday.",
+    "Adding up all the dog toys: 5 (from Monday) + 3 (bought Tuesday) + 5 (bought Wednesday) = 13 dog toys."
+  ],
+  "solution": "13"
+}

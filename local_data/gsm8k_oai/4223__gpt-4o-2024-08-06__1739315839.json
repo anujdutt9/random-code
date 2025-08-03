@@ -1,0 +1,16 @@
+{
+  "query": "Marcia wants to buy some fruit. Apples cost $2, bananas cost $1, and oranges cost $3. If Marcia buys 12 apples, 4 bananas and 4 oranges, what is the average cost of each piece of fruit in dollars?",
+  "steps": [
+    "First, I need to calculate the total cost for each type of fruit.",
+    "The cost of 12 apples is 12 apples * $2/apple = $24.",
+    "The cost of 4 bananas is 4 bananas * $1/banana = $4.",
+    "The cost of 4 oranges is 4 oranges * $3/orange = $12.",
+    "Now, I will add these amounts to find the total cost for all the fruits.",
+    "Total cost = $24 (apples) + $4 (bananas) + $12 (oranges) = $40.",
+    "Next, I count the total number of pieces of fruit.",
+    "Total number of fruits = 12 apples + 4 bananas + 4 oranges = 20.",
+    "To find the average cost per piece of fruit, I divide the total cost by the total number of fruits.",
+    "Average cost per piece of fruit = $40 / 20 = $2."
+  ],
+  "solution": "2"
+}

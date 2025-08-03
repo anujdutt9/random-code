@@ -1,0 +1,23 @@
+{
+  "query": "The community leader of a certain town organized a cleaning day event where community members were to be involved in collecting trash inside the town. Out of 2000 community members involved in the cleaning process, 30% were adult men. If there were twice as many adult women as adult men in the event, and the rest were children, calculate the total number of children involved in the cleaning event.",
+  "steps": [
+    "To solve the problem, I first need to calculate the number of adult men involved in the event.",
+    "According to the question, 30% of the 2000 community members were adult men.",
+    "I can calculate 30% of 2000 by multiplying 2000 by 0.30.",
+    "2000 * 0.30 = 600",
+    "So, there are 600 adult men involved in the cleaning event.",
+    "The question then states that there are twice as many adult women as adult men.",
+    "This means the number of adult women is 2 times the number of adult men.",
+    "So, the number of adult women is 600 * 2.",
+    "600 * 2 = 1200",
+    "There are 1200 adult women involved in the cleaning event.",
+    "Now, I need to find out how many children were involved.",
+    "The total number of participants is 2000, which includes adult men, adult women, and children.",
+    "I already know there are 600 adult men and 1200 adult women.",
+    "To find the number of children, I will subtract the total number of adults from the total number of participants.",
+    "The total number of adults is 600 (men) + 1200 (women) = 1800.",
+    "Therefore, the number of children is 2000 - 1800.",
+    "2000 - 1800 = 200"
+  ],
+  "solution": "200"
+}

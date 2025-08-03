@@ -1,0 +1,18 @@
+{
+  "query": "If a circle has a radius of 14 feet, how many 6-inch pencils can be placed end-to-end across the diameter of the circle?",
+  "steps": [
+    "I need to find the length of the diameter of the circle first.",
+    "The formula for the diameter of a circle is \\(d = 2r\\), where \\(r\\) is the radius.",
+    "The radius of the circle is given as 14 feet.",
+    "I will substitute the radius into the diameter formula: \\(d = 2 \\times 14\\).",
+    "Calculating the diameter: \\(d = 28\\) feet.",
+    "Next, I need to convert the diameter from feet to inches because the pencils are measured in inches.",
+    "There are 12 inches in a foot.",
+    "Multiplying the diameter in feet by 12 to convert to inches: \\(28 \\times 12\\).",
+    "Calculating: \\(28 \\times 12 = 336\\) inches.",
+    "Now, I need to determine how many 6-inch pencils can fit into the 336 inches of the diameter.",
+    "To find the number of pencils, I divide the total length in inches by the length of one pencil: \\(336 \\div 6\\).",
+    "Calculating: \\(336 \\div 6 = 56\\)."
+  ],
+  "solution": "56"
+}

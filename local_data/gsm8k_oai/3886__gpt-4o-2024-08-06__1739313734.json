@@ -1,0 +1,14 @@
+{
+  "query": "Rebecca bought 22 items for her camping trip, including tent stakes, packets of drink mix, and bottles of water.  She bought 3 times as many packets of drink mix as tent stakes.  She also bought 2 more bottles of water than she did tent stakes.  How many tent stakes did she buy?",
+  "steps": [
+    "Let the number of tent stakes be \\( x \\).",
+    "According to the problem, she bought 3 times as many packets of drink mix as tent stakes. So, the number of packets of drink mix is \\( 3x \\).",
+    "She also bought 2 more bottles of water than tent stakes, so the number of bottles of water is \\( x + 2 \\).",
+    "Adding up all the items she bought, the total is given as 22. So we have the equation \\( x + 3x + x + 2 = 22 \\).",
+    "Simplify the equation: \\( x + 3x + x + 2 = 22 \\) becomes \\( 5x + 2 = 22 \\).",
+    "Subtract 2 from both sides to get \\( 5x = 20 \\).",
+    "Divide both sides by 5 to solve for \\( x \\), so \\( x = \\frac{20}{5} \\).",
+    "Thus, \\( x = 4 \\)."
+  ],
+  "solution": "4"
+}

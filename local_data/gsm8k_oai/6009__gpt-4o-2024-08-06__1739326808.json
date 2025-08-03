@@ -1,0 +1,20 @@
+{
+  "query": "In the park, the first rose bush has 12 red flowers.  The second rose bush has 18 pink flowers.  The third rose bush has 20 yellow flowers.  The fourth rose bush has 8 orange flowers.  For her vase, Lorelei picks 50% of the red roses, 50% pink roses, 25% of the yellow roses, and 25% orange roses. How many roses are in her vase?",
+  "steps": [
+    "Identify the number of red flowers: 12.",
+    "Calculate the number of red roses Lorelei picks: 50% of 12.",
+    "50% of 12 is 12 * 0.5 = 6 red roses.",
+    "Identify the number of pink flowers: 18.",
+    "Calculate the number of pink roses Lorelei picks: 50% of 18.",
+    "50% of 18 is 18 * 0.5 = 9 pink roses.",
+    "Identify the number of yellow flowers: 20.",
+    "Calculate the number of yellow roses Lorelei picks: 25% of 20.",
+    "25% of 20 is 20 * 0.25 = 5 yellow roses.",
+    "Identify the number of orange flowers: 8.",
+    "Calculate the number of orange roses Lorelei picks: 25% of 8.",
+    "25% of 8 is 8 * 0.25 = 2 orange roses.",
+    "Add the number of roses Lorelei picks from each bush: 6 red + 9 pink + 5 yellow + 2 orange.",
+    "6 + 9 is 15, 15 + 5 is 20, 20 + 2 is 22."
+  ],
+  "solution": "22"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "There are 36 seagulls on the roof of the Taco Bell. Kids scare 1/4 of them away by throwing stones, and 1/3 of the remaining birds decide to fly to McDonald's parking lot. How many seagulls are left?",
+  "steps": [
+    "There are initially 36 seagulls on the roof of the Taco Bell.",
+    "Kids scare 1/4 of the 36 seagulls away.",
+    "Calculate 1/4 of 36. This is 36 divided by 4.",
+    "36 divided by 4 equals 9.",
+    "So, 9 seagulls are scared away.",
+    "Subtract the 9 scared seagulls from the initial 36 seagulls.",
+    "36 minus 9 equals 27 seagulls remaining.",
+    "Now, 1/3 of the remaining 27 seagulls decide to fly to McDonald's parking lot.",
+    "Calculate 1/3 of 27. This is 27 divided by 3.",
+    "27 divided by 3 equals 9.",
+    "So, 9 seagulls fly to McDonald's parking lot.",
+    "Subtract the 9 seagulls that fly away from the 27 remaining seagulls.",
+    "27 minus 9 equals 18 seagulls."
+  ],
+  "solution": "18"
+}

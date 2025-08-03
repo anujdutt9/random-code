@@ -1,0 +1,16 @@
+{
+  "query": "Rex is taking lessons for his driver\u2019s license. He wants to take 40 hour-long lessons before his test, and decides to have two-hour sessions twice a week until he has done his test. After 6 weeks, how many more weeks will Rex need to continue taking lessons to reach his goal?",
+  "steps": [
+    "Rex wants to have a total of 40 hour-long lessons.",
+    "Each session Rex attends is two hours long.",
+    "Rex attends these two-hour sessions twice a week.",
+    "If Rex has two sessions a week, each being two hours, that means he is doing 2 sessions * 2 hours = 4 hours per week.",
+    "Rex has been continuing this schedule for 6 weeks already.",
+    "In these 6 weeks, Rex has accumulated 6 weeks * 4 hours per week = 24 hours of lessons.",
+    "Rex's goal is to reach 40 total hours of lessons.",
+    "Rex has done 24 hours of lessons so far, so he needs an additional 40 hours - 24 hours = 16 hours to reach his goal.",
+    "Since Rex will continue to earn 4 hours of lessons per week, I need to determine how many more weeks are needed to accumulate the remaining 16 hours.",
+    "To figure this out, I divide the remaining hours needed by the number of hours gained per week: 16 hours / 4 hours per week = 4 weeks."
+  ],
+  "solution": "4"
+}

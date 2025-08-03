@@ -1,0 +1,17 @@
+{
+  "query": "In a basketball game, Jon scored 3 points. Jack scored 5 points more than Jon, and Tom scored 4 less than the points of Jon and Jack together. How many points did they score altogether?",
+  "steps": [
+    "Jon scored 3 points.",
+    "Jack scored 5 points more than Jon.",
+    "Jon's points are 3, so Jack scored 3 + 5 = 8 points.",
+    "Next, we consider Tom's points.",
+    "Jon and Jack together scored 3 + 8 = 11 points.",
+    "Tom scored 4 points less than the total of Jon and Jack.",
+    "So, Tom scored 11 - 4 = 7 points.",
+    "Now, we calculate the total points scored by Jon, Jack, and Tom.",
+    "Jon scored 3 points, Jack scored 8 points, and Tom scored 7 points.",
+    "Altogether, they scored 3 + 8 + 7 points.",
+    "The total score is 3 + 8 + 7 = 18 points."
+  ],
+  "solution": "18"
+}

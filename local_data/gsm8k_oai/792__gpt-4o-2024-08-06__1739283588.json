@@ -1,0 +1,15 @@
+{
+  "query": "The Chrysler Building has 11 more floors than the Leeward Center. Together they have a total of 35 floors. How many floors does the Chrysler Building have?",
+  "steps": [
+    "Let the number of floors in the Leeward Center be represented by L.",
+    "The Chrysler Building has 11 more floors than the Leeward Center. So, the number of floors in the Chrysler Building can be represented as L + 11.",
+    "Together, both buildings have 35 floors. Therefore, the equation is L + (L + 11) = 35.",
+    "Simplify the equation: 2L + 11 = 35.",
+    "Subtract 11 from both sides of the equation to isolate terms with L: 2L = 24.",
+    "Divide both sides by 2 to solve for L: L = 12.",
+    "Now that we know the Leeward Center has 12 floors, we can find the number of floors in the Chrysler Building.",
+    "The Chrysler Building has 11 more floors than the Leeward Center, so it has 12 + 11 floors.",
+    "Add to find the number of floors in the Chrysler Building: 12 + 11 = 23."
+  ],
+  "solution": "23"
+}

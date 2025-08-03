@@ -1,0 +1,18 @@
+{
+  "query": "Quentin, Skylar, and Colten have a total of 383 chickens.  Quentin has 25 more than double the chickens that Skylar has.  Skylar has 4 less than triple the number of chickens that Colten has.  How many chickens does Colten have?",
+  "steps": [
+    "Let's define variables for the number of chickens each person has. Let \\( Q \\) be the number of chickens Quentin has, \\( S \\) be the number Skylar has, and \\( C \\) be the number Colten has.",
+    "According to the problem, Quentin has 25 more than double Skylar's chickens, so we can write the equation: \\( Q = 2S + 25 \\).",
+    "The problem states that Skylar has 4 less than triple Colten's chickens, which gives us the equation: \\( S = 3C - 4 \\).",
+    "We know that the total number of chickens is 383, so the equation is: \\( Q + S + C = 383 \\).",
+    "Let's substitute the expression for \\( Q \\) from the first equation into the total equation: \\( (2S + 25) + S + C = 383 \\).",
+    "Combine like terms to simplify the equation: \\( 3S + C + 25 = 383 \\).",
+    "Subtract 25 from both sides of the equation to further simplify: \\( 3S + C = 358 \\).",
+    "Now, substitute the expression for \\( S \\) from the second equation into the simplified total equation: \\( 3(3C - 4) + C = 358 \\).",
+    "Distribute and simplify: \\( 9C - 12 + C = 358 \\).",
+    "Combine the terms involving \\( C \\): \\( 10C - 12 = 358 \\).",
+    "Add 12 to both sides to isolate the terms with \\( C \\): \\( 10C = 370 \\).",
+    "Divide by 10 to solve for \\( C \\): \\( C = 37 \\)."
+  ],
+  "solution": "37"
+}

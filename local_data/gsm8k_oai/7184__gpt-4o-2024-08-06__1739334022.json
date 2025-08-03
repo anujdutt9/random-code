@@ -1,0 +1,18 @@
+{
+  "query": "A vendor at the market is selling sunglasses for $30 each. He has to spend a certain amount to buy these sunglasses. He sells 10 pairs in a day. He then takes half his profits and uses it to buy a new sign, which costs $20. How much does each pair of sunglasses cost him to buy?",
+  "steps": [
+    "First, determine the amount of revenue from selling 10 pairs of sunglasses. Each pair is sold for $30.",
+    "The revenue from selling 10 pairs would be 10 pairs * $30 per pair = $300.",
+    "Next, understand that the vendor uses half of his profits to buy a sign costing $20.",
+    "Let the cost of acquiring each pair of sunglasses be \\( C \\). The total cost for 10 pairs is 10 pairs * \\( C \\).",
+    "The profit made from selling 10 pairs is revenue - cost, which is $300 - 10 pairs * \\( C \\).",
+    "The vendor takes half of this profit. Therefore, 0.5 * (Profit) = $20.",
+    "Substituting for the profit, 0.5 * ($300 - 10 * \\( C \\)) = $20.",
+    "Simplify the equation: $150 - 5 * \\( C \\) = $20.",
+    "Subtract $20 from both sides to isolate the term with \\( C \\): $150 - $20 = 5 * \\( C \\).",
+    "This simplifies to $130 = 5 * \\( C \\).",
+    "Divide both sides by 5 to solve for \\( C \\): \\( C = $130 / 5 \\).",
+    "Calculate \\( C \\): \\( C = $26 \\)."
+  ],
+  "solution": "26"
+}

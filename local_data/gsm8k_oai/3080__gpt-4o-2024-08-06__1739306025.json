@@ -1,0 +1,19 @@
+{
+  "query": "Tony has two fish. Every year, his parents buy him two more, but one of them dies. How many fish will he have in five years?",
+  "steps": [
+    "Tony starts with two fish.",
+    "Each year, his parents buy him two more fish.",
+    "One fish dies each year.",
+    "In the first year, Tony will get 2 more fish, so he will have 2 + 2 = 4 fish before any die.",
+    "One fish dies, so he will have 4 - 1 = 3 fish at the end of the first year.",
+    "In the second year, Tony will get 2 more fish, so he will have 3 + 2 = 5 fish before any die.",
+    "One fish dies, so he will have 5 - 1 = 4 fish at the end of the second year.",
+    "In the third year, Tony will get 2 more fish, so he will have 4 + 2 = 6 fish before any die.",
+    "One fish dies, so he will have 6 - 1 = 5 fish at the end of the third year.",
+    "In the fourth year, Tony will get 2 more fish, so he will have 5 + 2 = 7 fish before any die.",
+    "One fish dies, so he will have 7 - 1 = 6 fish at the end of the fourth year.",
+    "In the fifth year, Tony will get 2 more fish, so he will have 6 + 2 = 8 fish before any die.",
+    "One fish dies, so he will have 8 - 1 = 7 fish at the end of the fifth year."
+  ],
+  "solution": "7"
+}

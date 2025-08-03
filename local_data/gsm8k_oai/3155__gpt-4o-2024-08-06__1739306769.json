@@ -1,0 +1,23 @@
+{
+  "query": "A chocolate box contains 200 bars. Thomas and his 4 friends take 1/4 of the bars and decide to divide them equally between them. One of Thomas's friends doesn't like chocolate bars very much and returns 5 of his bars to the box. Later, his sister Piper comes home and takes 5 fewer bars than those taken in total by Thomas and his friends so she can also share with her friends. What's the total number of bars left in the box?",
+  "steps": [
+    "The chocolate box initially contains 200 bars.",
+    "Thomas and his 4 friends together make 5 people.",
+    "They take 1/4 of the 200 bars. So I need to calculate 1/4 of 200.",
+    "1/4 of 200 is calculated as 200 divided by 4, which equals 50.",
+    "So, Thomas and his friends take a total of 50 bars from the box.",
+    "Initially, there are 200 bars in the box, and they take 50 bars, leaving 150 bars in the box.",
+    "The 50 bars need to be divided equally among Thomas and his 4 friends.",
+    "There are 5 people (Thomas and his 4 friends).",
+    "Each person gets 50 divided by 5, which equals 10 bars.",
+    "One of Thomas's friends returns 5 of his bars to the box.",
+    "Each friend initially took 10 bars, so one friend returning 5 bars means they now have 5 bars.",
+    "Returning 5 bars increases the number of bars in the box from 150 to 155.",
+    "Piper takes 5 fewer bars than the total initially taken by Thomas and his friends (50 bars).",
+    "5 fewer than 50 is 50 - 5, which equals 45.",
+    "Piper takes 45 bars from the box.",
+    "After Piper takes 45 bars, we need to subtract these from the remaining 155 bars.",
+    "155 - 45 equals 110 bars."
+  ],
+  "solution": "110"
+}

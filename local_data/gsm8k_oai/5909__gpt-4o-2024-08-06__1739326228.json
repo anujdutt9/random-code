@@ -1,0 +1,21 @@
+{
+  "query": "Jordan noticed that there are 2 cars in his driveway that each have 4 wheels.  There are 2 bikes and a trash can that each have 2 wheels.  There is also a tricycle and a pair of old roller skates.  How many wheels are there?",
+  "steps": [
+    "First, I need to calculate the number of wheels on the cars. Jordan has 2 cars and each has 4 wheels.",
+    "So, for the cars: 2 cars * 4 wheels each = 8 wheels.",
+    "Next, I will calculate the number of wheels on the bikes. There are 2 bikes and each has 2 wheels.",
+    "So, for the bikes: 2 bikes * 2 wheels each = 4 wheels.",
+    "There is also a trash can with 2 wheels. I need to account for those.",
+    "The 2 wheels from the trash can add to the total.",
+    "For the tricycle, tricycles have 3 wheels.",
+    "So, the tricycle contributes 3 wheels.",
+    "Finally, the roller skates. A pair of roller skates generally means there are two skates, and each has 4 wheels.",
+    "For the roller skates, 2 skates * 4 wheels each = 8 wheels.",
+    "Now, I need to sum all these wheels together: 8 (cars) + 4 (bikes) + 2 (trash can) + 3 (tricycle) + 8 (roller skates).",
+    "8 + 4 = 12",
+    "12 + 2 = 14",
+    "14 + 3 = 17",
+    "17 + 8 = 25"
+  ],
+  "solution": "25"
+}

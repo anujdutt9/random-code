@@ -1,0 +1,18 @@
+{
+  "query": "Elisa and her two friends went out to dinner. Each of them ordered a meal worth $10. Afterwards, they each had a scoop of the same kind of ice cream. If the $45 Elisa had was enough to pay for everything, what was the cost of a scoop of ice cream?",
+  "steps": [
+    "There are three people: Elisa and her two friends.",
+    "Each person ordered a meal worth $10.",
+    "Therefore, the total cost for the meals is 3 people * $10 per meal = $30.",
+    "They each had a scoop of ice cream, so 3 scoops were purchased in total.",
+    "Let the cost of one scoop of ice cream be X dollars.",
+    "The total cost for the scoops of ice cream is 3 scoops * X dollars per scoop = 3X dollars.",
+    "Elisa had $45 in total to pay for everything.",
+    "The total cost of meals and ice cream is $30 (meals) + 3X (ice cream).",
+    "Since the $45 was enough to pay for everything, we write the equation: 30 + 3X = 45.",
+    "Now, solve for X. Subtract 30 from both sides to get: 3X = 15.",
+    "Divide both sides by 3 to solve for X: X = 15 / 3.",
+    "X = 5."
+  ],
+  "solution": "5"
+}

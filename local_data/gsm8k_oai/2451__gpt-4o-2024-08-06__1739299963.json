@@ -1,0 +1,13 @@
+{
+  "query": "Sanya can wash 7 bath towels in one wash, which will take 1 hour.  She only has 2 hours in a day to do this task.  If she has 98 bath towels, how many days will she need to wash all of them?",
+  "steps": [
+    "Sanya can wash 7 bath towels in 1 hour.",
+    "She has 2 hours each day to wash bath towels.",
+    "In 2 hours, she can wash 7 towels/hour * 2 hours = 14 towels.",
+    "Sanya has 98 bath towels to wash.",
+    "I need to calculate how many days it takes to wash 98 towels if she can do 14 towels per day.",
+    "98 towels \u00f7 14 towels/day = 7 days.",
+    "Double-checking: 14 towels/day * 7 days = 98 towels, which matches the total number of towels she has."
+  ],
+  "solution": "7"
+}

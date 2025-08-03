@@ -1,0 +1,14 @@
+{
+  "query": "Mark plants some strawberries in his backyard. Every month, the number of strawberry plants doubles. After 3 months, Mark digs up 4 strawberry plants and gives them to his friend.  If he still has 20 strawberry plants, how many did he initially plant?",
+  "steps": [
+    "Let's denote the initial number of strawberry plants as \\( P \\).",
+    "After 1 month, the number of plants doubles. So he will have \\( 2P \\) plants.",
+    "After 2 months, the number of plants doubles again. So he will have \\( 4P \\) plants.",
+    "After 3 months, the number of plants doubles once more. So he will have \\( 8P \\) plants.",
+    "After digging up and giving away 4 plants, Mark has 20 plants left.",
+    "This means that the equation \\( 8P - 4 = 20 \\) represents this situation.",
+    "Solving the equation \\( 8P - 4 = 20 \\), we add 4 to both sides to get \\( 8P = 24 \\).",
+    "Next, we divide both sides by 8 to find \\( P \\). So, we have \\( P = 3 \\)."
+  ],
+  "solution": "3"
+}

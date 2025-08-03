@@ -1,0 +1,17 @@
+{
+  "query": "Johnny buys 15 packs of colored pencils for his class. Each pack has a red, yellow, and green pencil inside. When he gets home he notices that 3 of the packs have two extra red pencils inside. How many red colored pencils did Johnny buy?",
+  "steps": [
+    "Johnny initially buys 15 packs of colored pencils.",
+    "Each pack contains one red pencil.",
+    "Without considering any extras, Johnny would have 15 red pencils from the 15 packs.",
+    "However, he notices 3 of the packs have two extra red pencils inside.",
+    "This means each of these 3 packs has 1 (the normal red pencil) + 2 (extra red pencils) = 3 red pencils each.",
+    "First, calculate the total number of red pencils in these 3 special packs.",
+    "3 packs * 3 red pencils per pack = 9 red pencils",
+    "For the other 12 packs (since 15 - 3 = 12), each contains only 1 red pencil.",
+    "12 packs * 1 red pencil per pack = 12 red pencils",
+    "Finally, add the red pencils from the special packs and the normal packs together.",
+    "9 red pencils (from special packs) + 12 red pencils (from normal packs) = 21 red pencils"
+  ],
+  "solution": "21"
+}

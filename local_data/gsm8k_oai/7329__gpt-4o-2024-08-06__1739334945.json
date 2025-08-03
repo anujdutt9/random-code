@@ -1,0 +1,12 @@
+{
+  "query": "Tara has a shoebox that is 4 inches tall and 6 inches wide. She puts a square block inside that is 4 inches per side. How many square inches of the box are left uncovered?",
+  "steps": [
+    "First, I need to determine the dimensions of the base of the shoebox. The shoebox is described as being 6 inches wide.",
+    "The square block that Tara puts inside the shoebox has sides that are each 4 inches long.",
+    "Since the block is square and 4 inches per side, when placed in the shoebox, it will cover an area of 4 \u00d7 4 = 16 square inches.",
+    "Now, I need to calculate the area of the base of the shoebox. The actual area of the base is 6 inches wide and the length can be inferred to match the width of the box or the side of the block perfectly due to no additional detail which would make the base area equal width*length; but the problem isn't complicated by that so its simplified to 6x4 = 24 square inches.",
+    "To find the area of the box that remains uncovered by the block, I subtract the area taken by the block from the total area of the base of the shoebox.",
+    "So, the area uncovered is 24 square inches (base area) - 16 square inches (area covered by block) = 8 square inches."
+  ],
+  "solution": "8"
+}

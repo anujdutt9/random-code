@@ -1,0 +1,17 @@
+{
+  "query": "Mona bikes 30 miles each week to stay fit. This week, she biked on Monday, Wednesday, and Saturday. On Wednesday, she biked 12 miles. On Saturday, she biked twice as far as on Monday. How many miles did she bike on Monday?",
+  "steps": [
+    "Mona bikes a total of 30 miles each week.",
+    "This week, she biked on Monday, Wednesday, and Saturday.",
+    "On Wednesday, Mona biked 12 miles.",
+    "Let the number of miles Mona biked on Monday be x miles.",
+    "On Saturday, she biked twice as far as on Monday, so she biked 2x miles on Saturday.",
+    "The total miles biked for the week is the sum of the miles biked on Monday, Wednesday, and Saturday, which is x + 12 + 2x.",
+    "Set up the equation: x + 12 + 2x = 30 to solve for x.",
+    "Combine like terms: 3x + 12 = 30.",
+    "Subtract 12 from both sides to isolate the terms with x: 3x = 18.",
+    "Divide each side by 3: x = 6.",
+    "This means Mona biked 6 miles on Monday."
+  ],
+  "solution": "6"
+}

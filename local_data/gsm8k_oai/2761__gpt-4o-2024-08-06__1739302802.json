@@ -1,0 +1,19 @@
+{
+  "query": "Will and Henry go fishing in a river. Will catches 16 catfish and 10 eels. Henry challenges himself to catch 3 trout for every catfish Will catches. Due to environmental concerns, Henry decides to return half his catch after meeting his own challenge. How many fishes do they have altogether now?",
+  "steps": [
+    "Will catches 16 catfish.",
+    "Will also catches 10 eels.",
+    "Henry aims to catch 3 trout for each catfish Will catches.",
+    "Since Will catches 16 catfish, Henry aims for 3 times 16 trout.",
+    "3 times 16 is 48, so Henry catches 48 trout.",
+    "However, Henry decides to return half of his catch.",
+    "Half of 48 is 24, so Henry returns 24 trout.",
+    "After returning, Henry has 24 trout left.",
+    "Now, let's add the number of fishes Will has and the number Henry has left.",
+    "Will has 16 catfish + 10 eels = 26 fish.",
+    "Henry has 24 trout.",
+    "The total number of fish both have is 26 (Will) + 24 (Henry).",
+    "26 + 24 equals 50."
+  ],
+  "solution": "50"
+}

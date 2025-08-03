@@ -1,0 +1,22 @@
+{
+  "query": "Edmund is buying a new computer and needs to save up $75 before he has enough. He convinces his parents to pay him for extra chores. He normally has to do 12 chores a week. His parents agree to pay him $2 for every extra chore he does during the week. If he does 4 chores a day for two weeks, how much does he earn?",
+  "steps": [
+    "First, I need to figure out how many chores Edmund does in one day.",
+    "He does 4 chores a day.",
+    "Next, calculate the total number of chores he does in two weeks.",
+    "In one week, there are 7 days.",
+    "So in two weeks, there are 14 days.",
+    "If he does 4 chores each day for 14 days, that\u2019s 4 * 14.",
+    "4 * 14 equals 56 chores.",
+    "Now I need to consider how many of these chores are extra chores.",
+    "He normally does 12 chores a week. In two weeks, his normal chores would be 12 * 2.",
+    "12 * 2 equals 24 normal chores.",
+    "The extra chores are the total chores minus the normal chores: 56 - 24.",
+    "56 - 24 equals 32 extra chores.",
+    "Now, I will calculate how much money he earns from these extra chores.",
+    "His parents pay him $2 for every extra chore.",
+    "So, for 32 extra chores, he earns 32 * $2.",
+    "32 * $2 equals $64."
+  ],
+  "solution": "64"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "The average GPA for 6th graders is 93, the 7th graders is 2 more than the 6th graders and the 8th graders average GPA is 91.  What is the average GPA for the school?",
+  "steps": [
+    "The average GPA for 6th graders is 93.",
+    "The average GPA for 7th graders is 2 more than the 6th graders.",
+    "Calculate the average GPA for 7th graders: 93 + 2 = 95.",
+    "The average GPA for 8th graders is 91.",
+    "We need to find the overall average GPA for the school.",
+    "We don't have information on the number of students in each grade, so we will assume equal numbers for simplicity.",
+    "Let's assume there is 1 student per grade to make the calculation simpler.",
+    "Calculate the total GPA for all three grades: 93 (6th) + 95 (7th) + 91 (8th) = 279.",
+    "Calculate the total number of grades: 3 (one for each grade level).",
+    "Calculate the average GPA for the school by dividing the total GPA by the total number of grades: 279 / 3 = 93."
+  ],
+  "solution": "93"
+}

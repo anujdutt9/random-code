@@ -1,0 +1,20 @@
+{
+  "query": "Francine wants to know if a local chemical plant is releasing toxic waste that makes the frogs mutate. In one local pond, she catches 5 frogs with extra legs, 2 frogs with 2 heads, two frogs that are bright red, and 18 normal frogs. What percentage of the frogs have mutated, rounded to the nearest integer?",
+  "steps": [
+    "First, I need to determine the total number of frogs that Francine caught.",
+    "Francine caught 5 frogs with extra legs, 2 frogs with 2 heads, and 2 frogs that are bright red.",
+    "These frogs are considered mutated.",
+    "So, the total number of mutated frogs is 5 + 2 + 2 = 9.",
+    "She also caught 18 normal frogs.",
+    "Now, I need to calculate the total number of frogs.",
+    "The total number of frogs is 9 mutated frogs + 18 normal frogs = 27 frogs.",
+    "Next, I will calculate the percentage of frogs that are mutated.",
+    "The formula to calculate the percentage is (number of mutated frogs / total number of frogs) * 100.",
+    "Substitute the values: (9 / 27) * 100.",
+    "Calculate 9 divided by 27, which equals 0.3333.",
+    "Multiply 0.3333 by 100 to convert it to a percentage.",
+    "0.3333 * 100 = 33.33.",
+    "Round 33.33 to the nearest integer, which is 33."
+  ],
+  "solution": "33"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "Annie walked 5 blocks from her house to the bus stop. She rode the bus 7 blocks to the coffee shop. Later, she came home the same way. How many blocks did Annie travel in all?",
+  "steps": [
+    "Annie first walked 5 blocks from her house to the bus stop.",
+    "Then, she rode the bus 7 blocks to the coffee shop.",
+    "On the return trip home, she would have taken the same path in reverse.",
+    "First, she rode the bus back 7 blocks from the coffee shop to the bus stop.",
+    "Then, she walked 5 blocks from the bus stop to her house.",
+    "The total distance would be the sum of all these blocks.",
+    "Calculate the total: 5 blocks (to bus stop) + 7 blocks (to coffee shop) + 7 blocks (back to bus stop) + 5 blocks (back to her house).",
+    "5 + 7 + 7 + 5 = 24 blocks."
+  ],
+  "solution": "24"
+}

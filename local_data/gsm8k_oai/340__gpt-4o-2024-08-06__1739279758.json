@@ -1,0 +1,16 @@
+{
+  "query": "Tom needs to lower a rope down 6 stories.   One story is 10 feet.  The only rope being sold is 20 feet long but you lose 25% when lashing them together.  How many pieces of rope will he need to buy?",
+  "steps": [
+    "First, I need to calculate the total length of rope required to lower down 6 stories.",
+    "One story is 10 feet, so 6 stories are 6 x 10 = 60 feet.",
+    "Next, I need to consider the length of the rope available. Each rope being sold is 20 feet long.",
+    "However, when joining ropes together, 25% of the rope is lost for lashing them together.",
+    "I need to calculate the effective length of each 20-foot rope after accounting for the 25% loss.",
+    "The loss for each 20-foot rope is 25% of 20 feet, which is 0.25 x 20 = 5 feet.",
+    "So, the effective length of each rope is 20 - 5 = 15 feet.",
+    "To find the number of 15-foot effective ropes needed to reach 60 feet, I divide 60 feet by 15 feet.",
+    "60 divided by 15 is 4.",
+    "Therefore, Tom will need to buy 4 pieces of rope."
+  ],
+  "solution": "4"
+}

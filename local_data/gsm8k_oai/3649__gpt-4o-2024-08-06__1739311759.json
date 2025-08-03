@@ -1,0 +1,16 @@
+{
+  "query": "Uncle Ben has 440 chickens on his farm. 39 are roosters and the rest are hens. 15 of his hens do not lay eggs, and the rest do. If each egg-laying hen lays 3 eggs, how many eggs will Uncle Ben have?",
+  "steps": [
+    "Uncle Ben has 440 chickens in total.",
+    "Out of 440 chickens, 39 are roosters.",
+    "To find the number of hens, subtract the number of roosters from the total number of chickens: 440 - 39.",
+    "440 - 39 = 401 hens.",
+    "Out of these 401 hens, 15 hens do not lay eggs.",
+    "To find the number of egg-laying hens, subtract the hens that do not lay eggs from the total number of hens: 401 - 15.",
+    "401 - 15 = 386 egg-laying hens.",
+    "Each egg-laying hen lays 3 eggs.",
+    "To find the total number of eggs laid, multiply the number of egg-laying hens by the number of eggs each hen lays: 386 \u00d7 3.",
+    "386 \u00d7 3 = 1158 eggs."
+  ],
+  "solution": "1158"
+}

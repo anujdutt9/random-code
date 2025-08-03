@@ -1,0 +1,12 @@
+{
+  "query": "Andrew has 2 3-hour appointments today. He spends the rest of his 8-hour workday stamping permit applications. If he can stamp 50 permit applications an hour, how many permits total does he stamp today?",
+  "steps": [
+    "Andrew has a total of 8 hours in his workday.",
+    "Andrew has 2 appointments, each lasting 3 hours.",
+    "Calculate the total hours spent in appointments: 3 hours/appointment * 2 appointments = 6 hours.",
+    "Subtract the hours spent in appointments from the total workday hours to find how much time is left for stamping permits: 8 hours - 6 hours = 2 hours available for stamping.",
+    "Andrew stamps 50 permit applications per hour.",
+    "Calculate the total number of permits stamped during the available hours: 50 permits/hour * 2 hours = 100 permits."
+  ],
+  "solution": "100"
+}

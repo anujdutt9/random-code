@@ -1,0 +1,20 @@
+{
+  "query": "Stan can type 50 words per minute. He needs to write a 5-page paper. Each page will contain 400 words. Each hour that he types he needs to drink 15 ounces of water. How much water does he need to drink while writing his paper?",
+  "steps": [
+    "I need to calculate the total number of words Stan has to type for his paper.",
+    "There are 5 pages, and each page contains 400 words.",
+    "Multiply the number of pages by the number of words per page: 5 * 400.",
+    "This gives 2000 words in total that Stan needs to type.",
+    "I need to determine how long it will take Stan to type 2000 words.",
+    "Stan types at a rate of 50 words per minute.",
+    "Divide the total number of words by the typing rate: 2000 / 50.",
+    "This results in 40 minutes needed to complete typing the paper.",
+    "Now, I need to calculate how much water Stan needs to drink.",
+    "Stan drinks 15 ounces of water per hour while typing.",
+    "Since 40 minutes is less than 1 hour, Stan will only need to drink water for that period, not a full hour.",
+    "40 minutes is equal to two-thirds of an hour (since 40/60 = 2/3).",
+    "Calculate the amount of water for two-thirds of an hour: (2/3) * 15 ounces.",
+    "This results in 10 ounces of water."
+  ],
+  "solution": "10"
+}

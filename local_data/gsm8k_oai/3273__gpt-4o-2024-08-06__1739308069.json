@@ -1,0 +1,17 @@
+{
+  "query": "A farmer is growing corn. For every 4 seeds he plants, he gets one ear of corn, that he can sell for $.1. It costs $.5 for a bag with 100 seeds. If he makes $40 in profit, how many ears did he sell?",
+  "steps": [
+    "Firstly, I need to determine how much it costs to plant enough seeds to obtain an ear of corn.",
+    "It is given that for every 4 seeds, the farmer gets one ear of corn.",
+    "Let's calculate the cost per seed. It is given that a bag of 100 seeds costs $0.5.",
+    "The cost per seed is $0.5 / 100 seeds = $0.005 per seed.",
+    "Thus, the cost to plant 4 seeds (to get one ear of corn) is 4 seeds * $0.005 per seed = $0.02.",
+    "Next, I need to determine the profit made from one ear of corn.",
+    "The revenue from selling one ear of corn is $0.1.",
+    "The profit per ear is therefore $0.1 (revenue) - $0.02 (cost) = $0.08 per ear.",
+    "The problem states the farmer makes $40 in profit.",
+    "To find out how many ears the farmer sold, I divide the total profit by the profit per ear.",
+    "$40 profit / $0.08 profit per ear = 500 ears."
+  ],
+  "solution": "500"
+}

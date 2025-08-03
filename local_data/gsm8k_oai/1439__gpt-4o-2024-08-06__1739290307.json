@@ -1,0 +1,16 @@
+{
+  "query": "Gemma ordered four pizzas at $10 each, and she gave a $5 tip to the delivery person. How much change did she get back if she gives one fifty-dollar bill?",
+  "steps": [
+    "Gemma ordered four pizzas.",
+    "Each pizza costs $10.",
+    "Calculate the total cost of the pizzas: 4 pizzas * $10 per pizza.",
+    "4 * $10 = $40.",
+    "Gemma also gave a $5 tip to the delivery person.",
+    "Add the $5 tip to the cost of the pizzas: $40 + $5.",
+    "$40 + $5 = $45.",
+    "Gemma gave one fifty-dollar bill for the total cost.",
+    "Subtract the total cost from the fifty-dollar bill to find the change: $50 - $45.",
+    "$50 - $45 = $5."
+  ],
+  "solution": "5"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Hannah collects mugs. She already has 40 different mugs in 4 different colors. She has three times more blue mugs than red mugs and 12 yellow mugs. Considering that she has only half as many red mugs as yellow mugs, how many mugs of another color than mentioned does she have?",
+  "steps": [
+    "First, determine the number of red mugs. It's stated that she has half as many red mugs as yellow mugs. She has 12 yellow mugs.",
+    "Half of 12 is 6, so she has 6 red mugs.",
+    "Next, determine the number of blue mugs. She has three times more blue mugs than red mugs.",
+    "Three times 6 is 18, so she has 18 blue mugs.",
+    "Now, calculate the total number of mugs mentioned (red, blue, and yellow). Add these together: 6 red + 18 blue + 12 yellow.",
+    "The total of red, blue, and yellow mugs is 6 + 18 + 12 = 36.",
+    "Hannah has 40 mugs in total.",
+    "Subtract the number of mentioned mugs (36) from the total number of mugs (40) to find the number of mugs of another color.",
+    "40 - 36 = 4."
+  ],
+  "solution": "4"
+}

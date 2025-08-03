@@ -1,0 +1,15 @@
+{
+  "query": "Cowboy Mickey and cowgirl Minnie train horses for a living.  On average, Mickey mounts six less than twice as many horses per day as does Minnie,  while Minnie mounts three more horses per day than there are days in a week.  How many horses does Mickey Mount per week?",
+  "steps": [
+    "First, determine how many horses Minnie mounts per day. It is given that Minnie mounts three more horses per day than there are days in a week.",
+    "There are 7 days in a week.",
+    "Minnie mounts 7 (days in a week) + 3 = 10 horses per day.",
+    "Now calculate how many horses Mickey mounts per day. It is given that Mickey mounts six less than twice as many horses per day as Minnie.",
+    "Twice as many horses as Minnie per day is 2 * 10 = 20.",
+    "Subtract 6 from 20 to find how many horses Mickey mounts per day: 20 - 6 = 14.",
+    "Mickey mounts 14 horses per day.",
+    "To find out how many horses Mickey mounts per week, multiply the number of horses he mounts per day by 7 (the number of days in a week).",
+    "14 (horses per day) * 7 (days per week) = 98 horses per week."
+  ],
+  "solution": "98"
+}

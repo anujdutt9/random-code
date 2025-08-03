@@ -1,0 +1,16 @@
+{
+  "query": "Mary needs school supplies. She has 6 classes and needs 1 folder for each class. She also needs 3 pencils for each class. She decides that for every 6 pencils she should have 1 eraser. She also needs a set of paints for an art class.  Folders cost $6, pencils cost $2, and erasers cost $1. If she spends $80, how much did the set of paints cost in dollars?",
+  "steps": [
+    "Mary has 6 classes, and she needs 1 folder for each class. That means she needs 6 folders.",
+    "Folders cost $6 each, and she needs 6 folders. The total cost for folders is 6 folders * $6 per folder = $36.",
+    "Mary needs 3 pencils for each of her 6 classes. So, she needs a total of 6 classes * 3 pencils per class = 18 pencils.",
+    "Pencils cost $2 each. Therefore, the total cost for 18 pencils is 18 pencils * $2 per pencil = $36.",
+    "For every 6 pencils, Mary needs 1 eraser. She has 18 pencils, so she needs 18 pencils / 6 pencils per eraser = 3 erasers.",
+    "Erasers cost $1 each. Therefore, the total cost for 3 erasers is 3 erasers * $1 per eraser = $3.",
+    "Now, I will add up the total costs: $36 for folders, $36 for pencils, and $3 for erasers.",
+    "The total cost for folders, pencils, and erasers is $36 + $36 + $3 = $75.",
+    "Mary spends $80 in total. To find the cost of the set of paints, I will subtract the cost of folders, pencils, and erasers from her total spending.",
+    "The cost of the set of paints is $80 total spending - $75 spent on folders, pencils, and erasers = $5."
+  ],
+  "solution": "5"
+}

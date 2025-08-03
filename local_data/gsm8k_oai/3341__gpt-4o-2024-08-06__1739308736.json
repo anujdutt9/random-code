@@ -1,0 +1,21 @@
+{
+  "query": "New York recorded 5000 new coronavirus cases on a particular week. In the second week, half as many new coronaviruses cases as the first week was recorded by the state. In the third week, 2000 more cases were recorded in the state. What is the total number of recorded new coronaviruses in the state after the three weeks?",
+  "steps": [
+    "First, I need to identify the number of new coronavirus cases recorded in the first week.",
+    "The problem states that New York recorded 5000 new coronavirus cases in the first week.",
+    "Next, I need to find the number of cases recorded in the second week.",
+    "The second week recorded half as many cases as the first week.",
+    "Half of 5000 is calculated as 5000 / 2.",
+    "5000 / 2 = 2500 cases were recorded in the second week.",
+    "Now, I need to determine the number of cases for the third week.",
+    "The third week saw 2000 more cases recorded, but I need to understand if it's 2000 more than the first week or the second week alone.",
+    "Reading the sentence again, \"2000 more cases were recorded\" implies there are 2000 cases added without reference to a previous week\u2019s count.",
+    "Thus, the third week had 2000 cases.",
+    "Now, I have all the information needed to calculate the total cases over the three weeks.",
+    "Add the cases from each week: 5000 (first week) + 2500 (second week) + 2000 (third week).",
+    "First, add 5000 + 2500 = 7500.",
+    "Next, add 7500 + 2000 = 9500.",
+    "The total number of new coronavirus cases recorded in the state after the three weeks is 9500."
+  ],
+  "solution": "9500"
+}

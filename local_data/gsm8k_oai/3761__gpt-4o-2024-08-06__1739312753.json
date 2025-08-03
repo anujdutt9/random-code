@@ -1,0 +1,23 @@
+{
+  "query": "A dog is being treated for fleas. One flea treatment gets rid of half the fleas. After four treatments, the dog has 14 fleas left. How many more fleas did the dog have before the flea treatments than after?",
+  "steps": [
+    "Let's define the initial number of fleas the dog had as \\( x \\).",
+    "After the first treatment, half of the fleas are removed, so \\( x/2 \\) fleas remain.",
+    "After the second treatment, half of the remaining fleas are removed, leaving \\( (x/2)/2 = x/4 \\) fleas.",
+    "After the third treatment, half of the remaining fleas are removed, leaving \\( (x/4)/2 = x/8 \\) fleas.",
+    "After the fourth treatment, half of the remaining fleas are removed, leaving \\( (x/8)/2 = x/16 \\) fleas.",
+    "According to the problem, after the four treatments, the dog has 14 fleas left.",
+    "This means that \\( x/16 = 14 \\).",
+    "To find the initial number of fleas \\( x \\), solve the equation \\( x/16 = 14 \\).",
+    "Multiply both sides of the equation by 16 to isolate \\( x \\).",
+    "\\( x = 14 \\times 16 \\).",
+    "Calculate \\( 14 \\times 16 \\).",
+    "First, calculate \\( 14 \\times 10 = 140 \\).",
+    "Then, calculate \\( 14 \\times 6 = 84 \\).",
+    "Add the results of the two calculations: \\( 140 + 84 = 224 \\).",
+    "So, the initial number of fleas \\( x \\) was 224.",
+    "To find how many more fleas the dog had before than after the treatments, subtract the final number of fleas from the initial number of fleas.",
+    "\\( 224 - 14 = 210 \\)."
+  ],
+  "solution": "210"
+}

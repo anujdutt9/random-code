@@ -1,0 +1,12 @@
+{
+  "query": "Rita put a $120 elliptical machine on layaway at her local sports good store. After making a down payment equal to half the cost of the machine, she completely forgot about it. Sometime before the pick-up date, a store employee called offered to waive all layaway fees and taxes on the condition that Rita paid the balance within 10 days. What is the daily minimum amount, in dollars, that Rita must pay to own the elliptical machine?",
+  "steps": [
+    "The total cost of the elliptical machine is $120.",
+    "Rita made a down payment equal to half of the cost. Half of $120 is $120 / 2 = $60.",
+    "After the down payment, the remaining balance is $120 - $60 = $60.",
+    "A store employee called and said Rita needs to pay the remaining balance within 10 days.",
+    "To find the daily minimum amount Rita must pay to clear the remaining balance within 10 days, divide the balance by the number of days.",
+    "The daily minimum payment is $60 / 10 = $6."
+  ],
+  "solution": "6"
+}

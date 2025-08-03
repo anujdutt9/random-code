@@ -1,0 +1,14 @@
+{
+  "query": "There were 600 people in the stadium when the football game started. Before the game was over, one-fourth of the boys and one-eighth of the girls left early. How many people remained to see the end of the game if there were 240 girls at the beginning of the game?",
+  "steps": [
+    "There were initially 600 people in the stadium.",
+    "There were 240 girls at the beginning of the game.",
+    "To find the number of boys, subtract the number of girls from the total number of people: 600 - 240 = 360 boys.",
+    "One-fourth of the boys left early, so calculate that: 360 / 4 = 90 boys left.",
+    "One-eighth of the girls left early, so calculate that: 240 / 8 = 30 girls left.",
+    "Calculate the remaining number of boys after some left: 360 - 90 = 270 boys stayed.",
+    "Calculate the remaining number of girls after some left: 240 - 30 = 210 girls stayed.",
+    "Add the remaining boys and girls to find the total number of people who stayed: 270 + 210 = 480 people."
+  ],
+  "solution": "480"
+}

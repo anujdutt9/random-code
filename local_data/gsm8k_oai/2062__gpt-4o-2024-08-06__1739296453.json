@@ -1,0 +1,17 @@
+{
+  "query": "Joan has 2 hours to get all her music practice done. She spends 30 minutes on the piano, 25 minutes writing music on her computer, and 38 minutes reading about the history of the piano. Her final work is to use a special finger exerciser. How much time does she have left to use this?",
+  "steps": [
+    "Joan has a total of 2 hours for her music practice.",
+    "2 hours is equivalent to 120 minutes.",
+    "Joan spends 30 minutes on the piano.",
+    "Joan spends 25 minutes writing music on her computer.",
+    "Joan spends 38 minutes reading about the history of the piano.",
+    "I will now add up the time she has already used.",
+    "30 minutes (piano) + 25 minutes (writing music) is 55 minutes.",
+    "55 minutes + 38 minutes (reading) is 93 minutes.",
+    "Joan has used 93 minutes of her practice time.",
+    "I will now subtract the time used from the total available time.",
+    "120 minutes (total time) - 93 minutes (time used) is 27 minutes."
+  ],
+  "solution": "27"
+}

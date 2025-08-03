@@ -1,0 +1,11 @@
+{
+  "query": "There are 5 houses on a street, and each of the first four houses has 3 gnomes in the garden. If there are a total of 20 gnomes on the street, how many gnomes does the fifth house have?",
+  "steps": [
+    "First, I need to calculate how many gnomes are in the first four houses combined.",
+    "Each of the first four houses has 3 gnomes.",
+    "To find the total number of gnomes in the first four houses, I multiply the number of houses by the number of gnomes per house: 4 houses * 3 gnomes per house = 12 gnomes.",
+    "Now, I'll find the total number of gnomes on the street, which is given as 20 gnomes.",
+    "To find the number of gnomes in the fifth house, I subtract the number of gnomes in the first four houses from the total number of gnomes: 20 total gnomes - 12 gnomes in the first four houses = 8 gnomes."
+  ],
+  "solution": "8"
+}

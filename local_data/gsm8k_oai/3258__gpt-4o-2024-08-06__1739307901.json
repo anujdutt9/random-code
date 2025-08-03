@@ -1,0 +1,17 @@
+{
+  "query": "Mr Castiel prepared 600 boar sausages on the weekend. He ate 2/5 of them on Monday, half of the remaining on Tuesday and saved the rest for Friday. If he ate 3/4 of the remaining boar sausages on Friday, how many sausages are left?",
+  "steps": [
+    "Mr. Castiel prepared 600 boar sausages initially.",
+    "He ate 2/5 of the sausages on Monday.",
+    "Calculate 2/5 of 600: \\( (2/5) \\times 600 = 240 \\).",
+    "After eating 240 sausages on Monday, the remaining sausages are \\( 600 - 240 = 360 \\).",
+    "He ate half of the remaining 360 sausages on Tuesday.",
+    "Calculate half of 360: \\( 360 \\div 2 = 180 \\).",
+    "After eating 180 sausages on Tuesday, the remaining sausages are \\( 360 - 180 = 180 \\).",
+    "He saved the remaining 180 sausages for Friday.",
+    "On Friday, he ate 3/4 of the remaining 180 sausages.",
+    "Calculate 3/4 of 180: \\( (3/4) \\times 180 = 135 \\).",
+    "After eating 135 sausages on Friday, the remaining sausages are \\( 180 - 135 = 45 \\)."
+  ],
+  "solution": "45"
+}

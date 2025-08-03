@@ -1,0 +1,16 @@
+{
+  "query": "Mr. Resty has two identical 4-story buildings. The first floor has 2 apartment units while the rest of the floors have 5 apartment units on each floor. How many apartment units does Mr. Resty have in all?",
+  "steps": [
+    "I need to find out how many apartment units there are in one building first.",
+    "The first floor has 2 apartment units.",
+    "The remaining floors, which are the second, third, and fourth floors, each have 5 apartment units.",
+    "There are 3 floors with 5 apartment units each.",
+    "I need to calculate the total apartment units on the remaining floors by multiplying the number of floors (3) with the number of units per floor (5).",
+    "3 floors \u00d7 5 units/floor = 15 units",
+    "Now, I need to add the units from the first floor to the total from the remaining floors: 15 units (floors 2-4) + 2 units (floor 1).",
+    "2 units + 15 units = 17 units in one building.",
+    "Mr. Resty has two identical buildings, so I need to multiply the number of units in one building (17) by 2.",
+    "17 units/building \u00d7 2 buildings = 34 units"
+  ],
+  "solution": "34"
+}

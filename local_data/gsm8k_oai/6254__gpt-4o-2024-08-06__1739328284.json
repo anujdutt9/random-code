@@ -1,0 +1,26 @@
+{
+  "query": "For his birthday, Geoffrey received clothes and money. His grandmother gave him \u20ac20, his aunt \u20ac25 and his uncle \u20ac30. With what he already had, he now has \u20ac125 in his wallet. He goes to a video game store and gets 3 games that cost 35 euros each. How much does he have left after this purchase?",
+  "steps": [
+    "First, I need to find out how much money Geoffrey received in total from his family members.",
+    "He received \u20ac20 from his grandmother, \u20ac25 from his aunt, and \u20ac30 from his uncle.",
+    "I add these amounts together: 20 + 25 + 30.",
+    "20 + 25 = 45",
+    "45 + 30 = 75",
+    "So, Geoffrey received \u20ac75 in total from his family.",
+    "Now, I need to see how much he started with. He now has \u20ac125 in his wallet.",
+    "If \u20ac125 is his total amount after receiving the gifts, then what he originally had can be found by subtracting the gifts from this total.",
+    "I calculate: 125 - 75",
+    "125 - 75 = 50",
+    "So, Geoffrey originally had \u20ac50 before the gifts.",
+    "Next, I calculate how much the video games cost in total.",
+    "Each game costs \u20ac35, and he bought 3 games.",
+    "I multiply 35 by 3: 35 * 3",
+    "35 * 3 = 105",
+    "The total cost of the 3 video games is \u20ac105.",
+    "To find out how much he has left, I subtract the total cost of the games from his total amount of money after receiving gifts.",
+    "He had \u20ac125 in total, and the games cost \u20ac105.",
+    "I calculate: 125 - 105",
+    "125 - 105 = 20"
+  ],
+  "solution": "20"
+}

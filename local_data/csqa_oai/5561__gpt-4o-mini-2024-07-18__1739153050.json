@@ -1,0 +1,12 @@
+{
+  "query": "Question: He planted an apple tree outside of Concord, what is the state it was planted in?\n\nChoices:\nA: grapes\nB: washington state\nC: new hampshire\nD: rhode island\nE: idaho",
+  "steps": [
+    "Identify the location mentioned in the prompt: Concord.",
+    "Determine which state is commonly associated with a Concord. There are multiple locations named Concord, but the most notable one is Concord, New Hampshire, which is the state capital.",
+    "Consider the choices provided: A (grapes) is not a state, B (Washington State) is not correct since it does not match Concord, C (New Hampshire) fits with Concord, D (Rhode Island) is not related, and E (Idaho) is also not related.",
+    "Since Concord is in New Hampshire, it makes sense that any tree planted there would be located in New Hampshire.",
+    "Review all the choices again to confirm: A does not apply as it is not a state, B refers to a different location, C aligns perfectly with the identified location, D and E are also unrelated.",
+    "Confirm the conclusion: The only choice that matches the planted location is C (New Hampshire)."
+  ],
+  "solution": "C"
+}

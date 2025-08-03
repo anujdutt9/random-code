@@ -1,0 +1,14 @@
+{
+  "query": "Part of Stella's job is to restock the toilet paper in each of the 6 bathrooms at the bed and breakfast.  She stocks 1 roll a day, every day of the week.  She buys the toilet paper in bulk, and each pack contains 1 dozen rolls.  After 4 weeks, how many packs of toilet paper dozen Stella buy?",
+  "steps": [
+    "Stella restocks 1 roll per bathroom per day.",
+    "There are 6 bathrooms, so she restocks 6 rolls per day.",
+    "Each week has 7 days.",
+    "Stella uses 6 rolls per day \u00d7 7 days per week = 42 rolls per week.",
+    "4 weeks means she will restock for a total of 4 \u00d7 42 rolls = 168 rolls.",
+    "Each pack contains 12 rolls (since one dozen equals 12).",
+    "To find the number of packs needed, divide the total number of rolls by the number of rolls in one pack: 168 rolls \u00f7 12 rolls per pack.",
+    "168 \u00f7 12 = 14."
+  ],
+  "solution": "14"
+}

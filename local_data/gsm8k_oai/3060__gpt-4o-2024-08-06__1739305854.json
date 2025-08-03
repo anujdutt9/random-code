@@ -1,0 +1,14 @@
+{
+  "query": "If it takes 10 people 10 days to shovel 10,000 pounds of coal, how many days will it take half of these ten people to shovel 40,000 pounds of coal?",
+  "steps": [
+    "First, I need to determine how much coal one person can shovel in one day based on the original scenario.",
+    "If 10 people can shovel 10,000 pounds in 10 days, then the total number of person-days required to shovel 10,000 pounds is 10 people * 10 days = 100 person-days.",
+    "Now, I'll calculate how much coal one person can shovel in one day. \n10,000 pounds / 100 person-days = 100 pounds per person per day.",
+    "Next, I'll calculate how many person-days are required to shovel 40,000 pounds of coal.",
+    "40,000 pounds / 100 pounds per person per day = 400 person-days.",
+    "I'll need to find out how many days it will take for 5 people (half of these ten people) to complete 400 person-days of work.",
+    "I divide the total person-days (400 person-days) by the number of people (5 people).",
+    "400 person-days / 5 people = 80 days."
+  ],
+  "solution": "80"
+}

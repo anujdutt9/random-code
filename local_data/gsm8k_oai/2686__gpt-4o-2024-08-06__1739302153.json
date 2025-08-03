@@ -1,0 +1,18 @@
+{
+  "query": "Ali, Peter, and Joey were fishing. The fish Ali caught weighed, in sum, twice as much as the fish that Peter caught. Joey caught 1 kg more fish than Peter. Together the three of them caught 25 kg of fish. How many kilograms did Ali catch?",
+  "steps": [
+    "Let's denote the weight of the fish Ali caught as A, the weight of the fish Peter caught as P, and the weight of the fish Joey caught as J.",
+    "According to the problem, Ali's fish weigh twice as much as Peter's fish. This can be written as: A = 2P.",
+    "The problem also states that Joey caught 1 kg more than Peter. We can express this as: J = P + 1.",
+    "The total weight of fish caught by Ali, Peter, and Joey is 25 kg. Thus, we can write: A + P + J = 25.",
+    "Now we have three equations:\n1) A = 2P\n2) J = P + 1\n3) A + P + J = 25",
+    "Substitute A = 2P and J = P + 1 into the equation A + P + J = 25.",
+    "This gives us: 2P + P + (P + 1) = 25.",
+    "Simplify the equation: 4P + 1 = 25.",
+    "Subtract 1 from both sides: 4P = 24.",
+    "Divide both sides by 4: P = 6.",
+    "Since A = 2P, substitute P = 6 into A = 2P: A = 2 * 6 = 12.",
+    "Thus, Ali caught 12 kg of fish."
+  ],
+  "solution": "12"
+}

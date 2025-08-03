@@ -1,0 +1,20 @@
+{
+  "query": "Meena bakes 5 dozen cookies for the school\u2019s bake sale.  She sells 2 dozen cookies to her biology teacher, Mr. Stone.  Her friend Brock buys 7 cookies, and her friend Katy buys twice as many as Brock.  How many cookies does Meena have left?",
+  "steps": [
+    "First, I need to understand how many cookies Meena originally baked. She baked 5 dozen cookies.",
+    "I know that a dozen is equal to 12, so I need to calculate 5 dozen cookies in terms of individual cookies.",
+    "5 dozen cookies is equal to 5 * 12 = 60 cookies.",
+    "Next, Meena sells 2 dozen cookies to her biology teacher, Mr. Stone.",
+    "2 dozen is equal to 2 * 12 = 24 cookies.",
+    "Now, subtract the 24 cookies sold to Mr. Stone from the original 60 cookies.",
+    "60 cookies - 24 cookies = 36 cookies.",
+    "Next, Meena's friend Brock buys 7 cookies.",
+    "Subtract the 7 cookies Brock bought from the remaining 36 cookies.",
+    "36 cookies - 7 cookies = 29 cookies.",
+    "Now, Meena's friend Katy buys twice as many cookies as Brock bought.",
+    "Brock bought 7 cookies, so Katy buys 7 * 2 = 14 cookies.",
+    "Subtract the 14 cookies that Katy bought from the remaining 29 cookies.",
+    "29 cookies - 14 cookies = 15 cookies."
+  ],
+  "solution": "15"
+}

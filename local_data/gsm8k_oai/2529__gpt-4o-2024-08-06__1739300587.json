@@ -1,0 +1,13 @@
+{
+  "query": "In a hotdog eating competition, the first competitor can eat 10 hot dogs per minute. The second competitor can eat 3 times more than the first competitor, while the third competitor can eat twice as much as the second competitor. How many hotdogs can the third competitor eat after 5 minutes?",
+  "steps": [
+    "The first competitor eats 10 hot dogs per minute.",
+    "The second competitor eats 3 times more than the first competitor.",
+    "Calculate how many hot dogs the second competitor eats per minute: 10 hot dogs/min * 3 = 30 hot dogs per minute.",
+    "The third competitor eats twice as much as the second competitor.",
+    "Calculate how many hot dogs the third competitor eats per minute: 30 hot dogs/min * 2 = 60 hot dogs per minute.",
+    "The goal is to calculate how many hot dogs the third competitor can eat after 5 minutes.",
+    "Multiply the number of hot dogs the third competitor eats per minute by 5: 60 hot dogs/min * 5 min = 300 hot dogs."
+  ],
+  "solution": "300"
+}

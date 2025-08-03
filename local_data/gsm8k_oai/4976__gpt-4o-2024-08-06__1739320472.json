@@ -1,0 +1,17 @@
+{
+  "query": "There are 10 6-ounces of glasses that are only 4/5 full of water. How many ounces of water are needed to fill to the brim all those 10 glasses?",
+  "steps": [
+    "Each glass has a capacity of 6 ounces.",
+    "Each glass is currently 4/5 full.",
+    "To find the amount of water currently in one glass, multiply its full capacity by 4/5.",
+    "6 ounces (full capacity) * 4/5 = 4.8 ounces.",
+    "Currently, each glass contains 4.8 ounces of water.",
+    "To find out how much more water is needed to fill one glass to the brim, subtract the current amount from the full capacity.",
+    "6 ounces - 4.8 ounces = 1.2 ounces.",
+    "Each glass needs an additional 1.2 ounces of water to be full.",
+    "There are 10 glasses total.",
+    "Multiply the ounces needed for one glass by the total number of glasses.",
+    "1.2 ounces * 10 glasses = 12 ounces."
+  ],
+  "solution": "12"
+}

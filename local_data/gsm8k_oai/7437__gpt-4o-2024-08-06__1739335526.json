@@ -1,0 +1,16 @@
+{
+  "query": "Michael and Thomas are selling their lego collections. They agree to split any money they earn. They sell them based on how many circles are on top. Each circle costs 1 cent. They earned $5 each after selling 100 single pieces, 45 double pieces, 50 triple pieces and a number of quadruple pieces. How many quadruple pieces did they sell?",
+  "steps": [
+    "First, I need to determine how much money they earned in total. They each earned $5, so together they earned $10.",
+    "Next, I need to calculate how much money they made from selling each type of piece. Each circle is worth 1 cent.",
+    "Single pieces have 1 circle on top. They sold 100 single pieces, so this contributed 100 circles (or cents) to the total.",
+    "Double pieces have 2 circles on top. They sold 45 double pieces, so this contributed 45 x 2 = 90 circles to the total.",
+    "Triple pieces have 3 circles on top. They sold 50 triple pieces, so this contributed 50 x 3 = 150 circles to the total.",
+    "Now, I will add up the circles from the single, double, and triple pieces: 100 + 90 + 150 = 340 circles.",
+    "Since they earned $10 in total, which is equivalent to 1000 cents, the remaining circles must have come from the quadruple pieces.",
+    "I know they got 1000 total circles, and they already have accounted for 340 circles from other pieces. So, the number of circles from the quadruple pieces is 1000 - 340 = 660 circles.",
+    "Each quadruple piece has 4 circles on top. Therefore, to find the number of quadruple pieces sold, I need to divide the number of circles from quadruple pieces by 4.",
+    "660 circles \u00f7 4 circles per piece = 165 quadruple pieces."
+  ],
+  "solution": "165"
+}

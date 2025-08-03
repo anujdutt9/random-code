@@ -1,0 +1,19 @@
+{
+  "query": "There are 6 boxes of crayons that hold 8 orange crayons. There are 7 boxes of crayons that have 5 blue crayons. There is 1 box of 11 red crayons. How many crayons are there in total?",
+  "steps": [
+    "First, I need to calculate the total number of orange crayons.",
+    "There are 6 boxes of orange crayons, with each box containing 8 crayons.",
+    "The total number of orange crayons is 6 boxes * 8 crayons per box = 48 orange crayons.",
+    "Next, I will calculate the total number of blue crayons.",
+    "There are 7 boxes of blue crayons, with each box containing 5 crayons.",
+    "The total number of blue crayons is 7 boxes * 5 crayons per box = 35 blue crayons.",
+    "Now, I need to count the red crayons.",
+    "There is 1 box of red crayons containing 11 crayons.",
+    "The total number of red crayons is simply 11 crayons.",
+    "Finally, I will add up all the crayons: orange, blue, and red.",
+    "Total crayons = 48 orange + 35 blue + 11 red.",
+    "Adding these gives me 48 + 35 = 83.",
+    "Now adding the red crayons: 83 + 11 = 94."
+  ],
+  "solution": "94"
+}

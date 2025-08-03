@@ -1,0 +1,26 @@
+{
+  "query": "Mandy\u2019s phone data plan charges $30 per month for data. Her first month, she got a promotional rate of one-third the normal price. However, in the fourth month she went over her data limit and was charged an extra fee of $15. How much did Mandy pay in the first 6 months for data?",
+  "steps": [
+    "First, I want to calculate the cost for the first month with the promotional rate.",
+    "The promotional rate is one-third of $30.",
+    "One-third of $30 is $30 / 3 = $10.",
+    "In the first month, Mandy pays $10.",
+    "Next, I calculate the cost for the second and third months at the normal rate.",
+    "Mandy pays $30 per month for the second and third months.",
+    "For two months at $30 each, the cost is $30 * 2 = $60.",
+    "Now, I consider the fourth month where she went over her data limit.",
+    "The normal cost for the fourth month is $30, plus an extra fee of $15.",
+    "So, the total for the fourth month is $30 + $15 = $45.",
+    "For the fifth and sixth months, she would again pay the normal rate.",
+    "The cost for the fifth and sixth months is $30 each.",
+    "For two more months at $30 each, the cost is $30 * 2 = $60.",
+    "Now, I add up all the costs for the six months.",
+    "First month: $10",
+    "Second and third months: $60",
+    "Fourth month: $45",
+    "Fifth and sixth months: $60",
+    "Total for all six months is $10 + $60 + $45 + $60.",
+    "Calculating the total gives: $10 + $60 = $70, then $70 + $45 = $115, and finally $115 + $60 = $175."
+  ],
+  "solution": "175"
+}

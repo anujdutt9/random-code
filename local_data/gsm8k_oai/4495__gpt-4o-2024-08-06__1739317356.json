@@ -1,0 +1,16 @@
+{
+  "query": "The population of an area starts at 100,000 people.  It increases by 60% over 10 years due to birth.  In that same time, 2000 people leave per year from emigration and 2500 people come in per year from immigration.  How many people are in the area at the end of 10 years?",
+  "steps": [
+    "The initial population starts at 100,000 people.",
+    "The population increases by 60% over 10 years due to birth.",
+    "Calculate the increase from birth: 100,000 * 0.60 = 60,000 more people from birth over 10 years.",
+    "Add the increase from birth to the initial population: 100,000 + 60,000 = 160,000 people.",
+    "Next, consider emigration where 2,000 people leave per year.",
+    "Calculate the total number of people who leave over 10 years: 2,000 * 10 = 20,000 people.",
+    "Subtract the emigration total from the population: 160,000 - 20,000 = 140,000 people.",
+    "Next, consider immigration where 2,500 people come in per year.",
+    "Calculate the total number of people who come in over 10 years: 2,500 * 10 = 25,000 people.",
+    "Add the immigration total to the population: 140,000 + 25,000 = 165,000 people."
+  ],
+  "solution": "165,000"
+}

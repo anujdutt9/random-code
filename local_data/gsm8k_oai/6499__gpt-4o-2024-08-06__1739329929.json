@@ -1,0 +1,18 @@
+{
+  "query": "Tricia is a third of Amilia\u2019s age and Amilia is a quarter of Yorick\u2019s age. Yorick is twice Eugene\u2019s age and Khloe is a third of Eugene\u2019s age. Rupert is 10 years older than Khloe but 2 years younger than Vincent who is 22 years old. How old, in years, is Tricia?",
+  "steps": [
+    "Vincent is 22 years old. Rupert is 2 years younger than Vincent.",
+    "Calculating Rupert's age: 22 - 2 = 20.",
+    "Rupert is 10 years older than Khloe.",
+    "Calculating Khloe's age: 20 - 10 = 10.",
+    "Khloe is a third of Eugene\u2019s age.",
+    "Calculating Eugene's age: 10 * 3 = 30.",
+    "Yorick is twice Eugene\u2019s age.",
+    "Calculating Yorick's age: 30 * 2 = 60.",
+    "Amilia is a quarter of Yorick\u2019s age.",
+    "Calculating Amilia's age: 60 / 4 = 15.",
+    "Tricia is a third of Amilia\u2019s age.",
+    "Calculating Tricia's age: 15 / 3 = 5."
+  ],
+  "solution": "5"
+}

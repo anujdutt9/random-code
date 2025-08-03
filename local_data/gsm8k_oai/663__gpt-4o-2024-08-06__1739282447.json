@@ -1,0 +1,16 @@
+{
+  "query": "A rectangular flowerbed in the city park is 4 meters wide. Its length is 1 meter less than twice its width. The government wants to fence the flowerbed. How many meters of fence are needed?",
+  "steps": [
+    "I know that the flowerbed is a rectangle, and I am given the width of it as 4 meters.",
+    "The length of the flowerbed is described as 1 meter less than twice its width.",
+    "Twice the width of the flowerbed would be 2 times 4 meters.",
+    "Calculating twice the width gives me 2 * 4 = 8 meters.",
+    "Since the length is 1 meter less than this value, I subtract 1 from 8.",
+    "So, the length of the flowerbed is 8 - 1 = 7 meters.",
+    "Now, I need to calculate the perimeter of the rectangle, which is given by the formula P = 2 * (length + width).",
+    "Plugging in the values I have, the perimeter is 2 * (7 + 4).",
+    "Adding 7 and 4 gives me 11.",
+    "Then I multiply by 2, so the perimeter is 2 * 11 = 22 meters."
+  ],
+  "solution": "22"
+}

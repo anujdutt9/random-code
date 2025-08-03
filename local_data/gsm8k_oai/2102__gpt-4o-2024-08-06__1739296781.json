@@ -1,0 +1,17 @@
+{
+  "query": "Maria's monthly salary is $2000. 20% of her salary goes to paying tax, and 5% goes to insurance. Also, a quarter of the money left after the deductions is spent on utility bills. How much money does Maria have after the deductions and utility bills payment?",
+  "steps": [
+    "First, I need to calculate the amount of money deducted for tax from Maria's salary.",
+    "20% of $2000 is \\( 0.20 \\times 2000 = 400 \\).",
+    "Next, I calculate the amount of money deducted for insurance from her salary.",
+    "5% of $2000 is \\( 0.05 \\times 2000 = 100 \\).",
+    "So, the total deductions for tax and insurance are \\( 400 + 100 = 500 \\).",
+    "I subtract the total deductions from her monthly salary to find out how much money she has left.",
+    "$2000 - $500 = $1500 remaining after tax and insurance deductions.",
+    "Maria spends a quarter of the remaining amount on utility bills.",
+    "One quarter of $1500 is \\( \\frac{1}{4} \\times 1500 = 375 \\).",
+    "I subtract the utility bills payment from the remaining amount to find how much money she has left.",
+    "$1500 - $375 = $1125 remaining after utility bills payment."
+  ],
+  "solution": "1125"
+}

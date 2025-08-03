@@ -1,0 +1,15 @@
+{
+  "query": "John pays for a candy bar with 4 quarters, 3 dimes, and a nickel.  He got 4 cents back in change.  How many cents did the candy bar cost?",
+  "steps": [
+    "First, I need to find out how much money John originally gave.",
+    "He paid with 4 quarters, 3 dimes, and a nickel.",
+    "I know that a quarter is worth 25 cents, a dime is worth 10 cents, and a nickel is worth 5 cents.",
+    "I multiply the number of quarters by the value of a quarter: 4 quarters \u00d7 25 cents = 100 cents.",
+    "I multiply the number of dimes by the value of a dime: 3 dimes \u00d7 10 cents = 30 cents.",
+    "I multiply the number of nickels by the value of a nickel: 1 nickel \u00d7 5 cents = 5 cents.",
+    "Now, I add up the total amount John gave. So, 100 cents (quarters) + 30 cents (dimes) + 5 cents (nickels) = 135 cents.",
+    "John got 4 cents back as change.",
+    "To find out how much the candy bar cost, I subtract the change from the total amount given: 135 cents - 4 cents = 131 cents."
+  ],
+  "solution": "131"
+}

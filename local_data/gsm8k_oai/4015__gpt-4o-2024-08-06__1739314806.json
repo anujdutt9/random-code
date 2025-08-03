@@ -1,0 +1,15 @@
+{
+  "query": "Jackson is clearing out his email inbox after noticing he has a whole lot of emails that he no longer needs and can delete. While he is cleaning his inbox, though, he keeps getting more emails. While he deletes 50 emails he gets another 15 sent to him. While he deletes 20 more he receives 5 more emails. After he is done deleting all his old emails he has just the new emails left, including 10 more that were sent to him. How many emails are there in Jackson's inbox now?",
+  "steps": [
+    "Start by calculating the total number of emails Jackson deleted.",
+    "Jackson deleted 50 emails first.",
+    "Then, he deleted 20 more emails.",
+    "So, the total number of emails he deleted is 50 + 20 = 70 emails.",
+    "Determine the total number of new emails that were sent to him while he was deleting old emails.",
+    "He received 15 emails while he was deleting the first batch.",
+    "He received 5 more emails while deleting the second batch.",
+    "He received 10 more emails after he was done deleting.",
+    "So, the total number of new emails received is 15 + 5 + 10 = 30 emails."
+  ],
+  "solution": "30"
+}

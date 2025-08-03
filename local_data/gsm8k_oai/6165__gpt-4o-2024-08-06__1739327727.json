@@ -1,0 +1,19 @@
+{
+  "query": "Tamtam collected 65 shells in total. She got 13 purple shells, 8 pink shells, 18 yellow shells, and 12 blue shells. The remaining shells are color orange. How many orange shells are there?",
+  "steps": [
+    "I have a total of 65 shells collected by Tamtam.",
+    "She has 13 purple shells.",
+    "She has 8 pink shells.",
+    "She has 18 yellow shells.",
+    "She has 12 blue shells.",
+    "I will add up the number of purple, pink, yellow, and blue shells: 13 + 8 + 18 + 12.",
+    "13 + 8 = 21.",
+    "21 + 18 = 39.",
+    "39 + 12 = 51.",
+    "The total number of purple, pink, yellow, and blue shells is 51.",
+    "I need to find out how many shells are orange.",
+    "Subtract the known colored shells from the total: 65 - 51.",
+    "65 - 51 = 14."
+  ],
+  "solution": "14"
+}

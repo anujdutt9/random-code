@@ -1,0 +1,22 @@
+{
+  "query": "Julia has a parrot and a rabbit. She buys food for both of the animals for $30 in total a week. Julia has the rabbit for 5 weeks, and the parrot for 3 weeks. How much money did Julia already spend on food for her animals, if the weekly cost of the rabbit food is $12?",
+  "steps": [
+    "I need to calculate how much Julia spends on rabbit food and parrot food separately.",
+    "I know the weekly cost of rabbit food is $12.",
+    "Julia has had the rabbit for 5 weeks.",
+    "So the total cost for rabbit food is 5 weeks * $12 per week.",
+    "Calculating 5 * 12 gives me $60.",
+    "Now I need to find out how much Julia spends on parrot food in total.",
+    "The combined weekly cost of food for both animals is $30.",
+    "If rabbit food costs $12 per week, then parrot food costs $30 - $12 per week.",
+    "$30 - $12 equals $18 per week for parrot food.",
+    "Julia has the parrot for 3 weeks.",
+    "So the total cost for parrot food is 3 weeks * $18 per week.",
+    "Calculating 3 * 18 gives me $54.",
+    "Now I add the total cost for rabbit food and parrot food to find the total money spent.",
+    "Rabbit food cost is $60 and parrot food cost is $54.",
+    "The total cost is $60 + $54.",
+    "Calculating $60 + $54 gives me $114."
+  ],
+  "solution": "114"
+}

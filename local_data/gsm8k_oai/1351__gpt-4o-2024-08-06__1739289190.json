@@ -1,0 +1,25 @@
+{
+  "query": "Jake sold 10 more stuffed animals than Thor. Quincy sold ten times as many stuffed animals as Thor. If Quincy sold 200 stuffed animals, how many more stuffed animals did Quincy sell than Jake?",
+  "steps": [
+    "I need to determine how many stuffed animals Thor sold first, since Jake's and Quincy's sales are related to Thor's sales.",
+    "I know that Quincy sold ten times as many stuffed animals as Thor, and it's given that Quincy sold 200 stuffed animals.",
+    "If Quincy sold 200 stuffed animals and this is ten times Thor's amount, I can represent Thor's sales as T.",
+    "The equation for this relationship is: Quincy = 10 * Thor.",
+    "Since Quincy sold 200 stuffed animals, I set up the equation 10 * T = 200.",
+    "Now, I solve the equation 10 * T = 200 to find T.",
+    "T = 200 / 10.",
+    "T = 20.",
+    "So, Thor sold 20 stuffed animals.",
+    "Next, I determine how many stuffed animals Jake sold.",
+    "Jake sold 10 more stuffed animals than Thor, and I know Thor sold 20 stuffed animals.",
+    "Jake's sales = Thor's sales + 10.",
+    "Jake's sales = 20 + 10.",
+    "Jake sold 30 stuffed animals.",
+    "I now need to determine how many more stuffed animals Quincy sold compared to Jake.",
+    "Quincy sold 200 stuffed animals and Jake sold 30 stuffed animals.",
+    "The difference is Quincy sold - Jake sold.",
+    "The difference = 200 - 30.",
+    "The difference = 170."
+  ],
+  "solution": "170"
+}

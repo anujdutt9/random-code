@@ -1,0 +1,14 @@
+{
+  "query": "Nina has two pairs of shoes. She bought one of them for $22, and the second one was 50% more expensive. How much did Nina pay for both pairs of shoes?",
+  "steps": [
+    "Nina bought the first pair of shoes for $22.",
+    "The second pair was 50% more expensive than the first pair.",
+    "To find out how much more expensive the second pair was, I will calculate 50% of $22.",
+    "50% of $22 is $11 (since 0.5 * 22 = 11).",
+    "Now, I'll add the $11 to the price of the first pair to find the cost of the second pair.",
+    "$22 + $11 = $33. So, the second pair of shoes costs $33.",
+    "To find the total amount Nina paid for both pairs, I will add the cost of the first pair to the cost of the second pair.",
+    "$22 + $33 = $55."
+  ],
+  "solution": "55"
+}

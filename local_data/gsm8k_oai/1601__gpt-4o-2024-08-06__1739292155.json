@@ -1,0 +1,17 @@
+{
+  "query": "The number of short students in a class is 2/5 of the total number of students. If there are 90 tall students, and the class has 400 students, calculate the total number of students with average height.",
+  "steps": [
+    "I start by identifying the total number of students in the class, which is given as 400.",
+    "I know that the number of short students is 2/5 of the total number of students.",
+    "To find the number of short students, I calculate 2/5 of 400.",
+    "2/5 of 400 is (2 * 400) / 5 = 800 / 5 = 160.",
+    "So, there are 160 short students in the class.",
+    "It is given that there are 90 tall students.",
+    "To find the number of students with average height, I subtract the number of short and tall students from the total number of students.",
+    "I calculate: 400 (total students) - 160 (short students) - 90 (tall students).",
+    "400 - 160 = 240.",
+    "Then, 240 - 90 = 150.",
+    "Therefore, the number of students with average height is 150."
+  ],
+  "solution": "150"
+}

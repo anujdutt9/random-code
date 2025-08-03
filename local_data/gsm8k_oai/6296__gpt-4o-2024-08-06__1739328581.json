@@ -1,0 +1,21 @@
+{
+  "query": "A craftsman makes 16 jars. This is exactly twice the number of clay pots he made. If each jar has 5 marbles and each clay pot has three times as many, how many marbles are there?",
+  "steps": [
+    "The craftsman makes 16 jars.",
+    "This number of jars is exactly twice the number of clay pots made.",
+    "Let the number of clay pots be x.",
+    "Therefore, 2x = 16.",
+    "Solving for x gives: x = 16 / 2.",
+    "So, x = 8, meaning the craftsman made 8 clay pots.",
+    "Each jar has 5 marbles.",
+    "The total number of marbles in jars is 16 jars * 5 marbles/jar.",
+    "The total number of marbles in jars is 80.",
+    "Each clay pot has three times as many marbles as each jar.",
+    "Each clay pot, therefore, has 3 * 5 = 15 marbles.",
+    "The total number of marbles in clay pots is 8 clay pots * 15 marbles/pot.",
+    "The total number of marbles in clay pots is 120.",
+    "Adding the marbles from both jars and pots together gives: 80 + 120.",
+    "Thus, the total number of marbles is 200."
+  ],
+  "solution": "200"
+}

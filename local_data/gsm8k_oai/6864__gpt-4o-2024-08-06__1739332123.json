@@ -1,0 +1,17 @@
+{
+  "query": "Liezl prepared four sets of 2-dozen paper cups for her daughter's birthday party. If 5 cups were damaged and 30 were not used, how many paper cups were used?",
+  "steps": [
+    "First, I need to find out how many paper cups were in the four sets that Liezl prepared.",
+    "Each set consists of 2-dozen paper cups. A dozen equals 12, so 2-dozen equals 2 x 12 = 24.",
+    "Liezl prepared four sets, each containing 24 paper cups.",
+    "I now multiply the number of sets (4) by the number of cups in each set (24).",
+    "4 x 24 = 96. So, Liezl initially had 96 paper cups in total.",
+    "I know that 5 cups were damaged, meaning these were not used.",
+    "I subtract the damaged cups (5) from the total number of cups (96) to find the number of usable cups.",
+    "96 - 5 = 91. So, there were 91 usable cups.",
+    "From these usable cups, 30 were not used.",
+    "I need to subtract the unused cups (30) from the number of usable cups (91) to find out how many were actually used.",
+    "91 - 30 = 61. Thus, 61 paper cups were used."
+  ],
+  "solution": "61"
+}

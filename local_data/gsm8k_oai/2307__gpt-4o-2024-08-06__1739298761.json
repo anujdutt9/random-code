@@ -1,0 +1,13 @@
+{
+  "query": "Josh wants to build a square sandbox that is 3 ft long, 3 ft wide for his son.  He can buy sand in 3 sq ft bags for $4.00 a bag.  How much will it cost him to fill up the sandbox?",
+  "steps": [
+    "First, I need to determine the area of the square sandbox. The formula for the area of a square is side length multiplied by itself.",
+    "The sandbox is 3 ft long and 3 ft wide, so the side length of the square is 3 ft.",
+    "Calculating the area: \\(3 \\, \\text{ft} \\times 3 \\, \\text{ft} = 9 \\, \\text{sq ft}\\).",
+    "Next, I need to calculate how many bags of sand are required to fill the sandbox.",
+    "Each bag of sand covers 3 sq ft. I need to divide the total area by the area each bag can cover: \\(9 \\, \\text{sq ft} \\div 3 \\, \\text{sq ft/bag} = 3\\) bags.",
+    "Now, I need to determine the total cost of the sand by multiplying the number of bags by the cost per bag.",
+    "The cost per bag is $4.00. So, the total cost is \\(3 \\, \\text{bags} \\times \\$4.00/\\text{bag} = \\$12.00\\)."
+  ],
+  "solution": "12"
+}

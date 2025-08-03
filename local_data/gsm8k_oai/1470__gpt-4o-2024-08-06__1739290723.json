@@ -1,0 +1,19 @@
+{
+  "query": "Ayen jogs for 30 minutes every day during weekdays. This week on Tuesday, she jogged 5 minutes more and also jogged 25 minutes more on Friday. How many hours, in total, did Ayen jog this week?",
+  "steps": [
+    "First, I need to determine how long Ayen jogs on a typical weekday.",
+    "Ayen normally jogs for 30 minutes each weekday.",
+    "Next, I'll calculate how much she jogged from Monday to Friday without any changes.",
+    "Normally, she would jog 30 minutes each on Monday, Wednesday, Thursday, and 30 minutes on Tuesday and Friday before accounting for any changes.",
+    "Adding these up: 30 + 30 + 30 + 30 + 30 minutes = 150 minutes for a normal week.",
+    "Now, let's account for the changes on Tuesday and Friday.",
+    "On Tuesday, she jogged 5 minutes more, so that's 30 + 5 = 35 minutes on Tuesday.",
+    "On Friday, she jogged 25 minutes more, so that's 30 + 25 = 55 minutes on Friday.",
+    "Now, I'll find the total jogging time considering the changes.",
+    "Monday: 30 minutes, Tuesday: 35 minutes, Wednesday: 30 minutes, Thursday: 30 minutes, Friday: 55 minutes.",
+    "Adding these up: 30 + 35 + 30 + 30 + 55 minutes = 180 minutes.",
+    "To convert the total minutes to hours, I divide by 60, since there are 60 minutes in an hour.",
+    "180 minutes divided by 60 equals 3 hours."
+  ],
+  "solution": "3"
+}

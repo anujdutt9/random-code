@@ -1,0 +1,14 @@
+{
+  "query": "On the first day of the journey, the Skipper sailed his ship halfway to the destination by traveling due east for 20 hours at a speed of 30 kilometers per hour, and then turned the ship's engines off to let them cool down. But while the engines were off, a wind storm blew his vessel backward in a westward direction.  After the storm, the Skipper used his GPS device to determine the new location of the ship, and he discovered that he was only one-third of the way to his destination.  How many kilometers had the ship been blown in a westward direction by the storm?",
+  "steps": [
+    "First, I need to find out how far the ship had traveled before the storm.",
+    "The ship was traveling for 20 hours at a speed of 30 kilometers per hour.",
+    "To calculate the total distance traveled, I multiply time by speed: 20 hours * 30 km/hour = 600 kilometers.",
+    "Before the storm, the Skipper was halfway to the destination after traveling 600 kilometers. Therefore, the total distance to the destination must be twice that, which is 1200 kilometers.",
+    "After the storm, the Skipper finds himself only one-third of the way to his destination.",
+    "One-third of the total distance to the destination is 1200 km / 3 = 400 kilometers.",
+    "Before the storm, he was 600 kilometers into his journey. After the storm, he was only 400 kilometers in.",
+    "Therefore, the distance the Skipper's ship was blown westward by the storm is the difference between these two distances: 600 km - 400 km = 200 km."
+  ],
+  "solution": "200"
+}

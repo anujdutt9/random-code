@@ -1,0 +1,16 @@
+{
+  "query": "It starts raining at 7:00 and pours heavily until its stops at 17:00  on a particular day. On the second day, the rain takes 2 more hours than it took on the first day to stop. On the third day, the rain pours for twice the amount of time it took on the second day. Calculate the total time it was raining in the three days.",
+  "steps": [
+    "First, I need to calculate how long it rained on the first day. The rain started at 7:00 and stopped at 17:00.",
+    "To find the duration of the rain on the first day, I subtract the start time from the end time.",
+    "The rain duration on the first day is 17:00 - 7:00, which is 10 hours.",
+    "Next, I move on to calculate the time it rained on the second day. It was mentioned that on the second day, rain takes 2 more hours than it took on the first day.",
+    "On the first day, it rained for 10 hours. Adding 2 more hours, the rain duration on the second day is 10 + 2 = 12 hours.",
+    "Now, I calculate the time it rained on the third day. It rained for twice the amount of time it rained on the second day.",
+    "On the second day, it rained for 12 hours. Therefore, on the third day, it rained for 12 * 2 = 24 hours.",
+    "Now, I need to calculate the total time it rained over the three days. I add the rain durations for each day together.",
+    "The total rain duration is 10 hours (first day) + 12 hours (second day) + 24 hours (third day).",
+    "Calculating the sum, 10 + 12 + 24 equals 46 hours."
+  ],
+  "solution": "46"
+}

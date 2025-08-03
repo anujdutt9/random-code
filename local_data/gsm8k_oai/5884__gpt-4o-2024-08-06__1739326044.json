@@ -1,0 +1,14 @@
+{
+  "query": "Jameson has 20 medals. Five of the medals are for the track. He has two times as many swimming medals as track medals. The rest of the medals are for badminton. How many badminton medals does he have?",
+  "steps": [
+    "Jameson has 20 medals in total.",
+    "He has 5 medals for the track.",
+    "He has two times as many swimming medals as track medals.",
+    "If he has 5 track medals, then the number of swimming medals is 2 times 5.",
+    "2 times 5 equals 10, so he has 10 swimming medals.",
+    "Adding the track and swimming medals together: 5 track + 10 swimming = 15 medals.",
+    "The total number of medals is 20, and 15 of them are track and swimming medals.",
+    "Subtract the 15 track and swimming medals from the total 20 medals: 20 - 15 = 5."
+  ],
+  "solution": "5"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "10 boxes each contain 50 bottles of water.  Each bottle has a capacity of 12 liters and is filled up to 3/4 of its capacity.  How many liters of water altogether are contained within the bottles in the boxes?",
+  "steps": [
+    "First, I need to calculate the total number of bottles. Each box contains 50 bottles.",
+    "There are 10 boxes.",
+    "Therefore, the total number of bottles is 10 boxes * 50 bottles per box = 500 bottles.",
+    "Each bottle has a capacity of 12 liters.",
+    "However, each bottle is only filled to 3/4 of its capacity.",
+    "So, each bottle contains 12 liters * 3/4 = 9 liters of water.",
+    "Now, to find out the total liters of water, I need to multiply the number of bottles by the amount of water each bottle contains.",
+    "Total liters of water = 500 bottles * 9 liters per bottle.",
+    "500 * 9 = 4500 liters."
+  ],
+  "solution": "4500"
+}

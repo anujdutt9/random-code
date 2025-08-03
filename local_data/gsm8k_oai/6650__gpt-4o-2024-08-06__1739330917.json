@@ -1,0 +1,17 @@
+{
+  "query": "Danivan Drugstore has 4500 bottles of hand sanitizer gel in inventory at the beginning of the week. On Monday 2445 bottles were sold, on Tuesday 900 bottles were sold, and 50 bottles each day for the rest of the week were sold (from Wednesday until Sunday). On Saturday, the supplier delivers an order for 650 bottles. How many bottles of sanitizer gel does the Drugstore have at the end of the week?",
+  "steps": [
+    "Initially, the drugstore has 4500 bottles of hand sanitizer gel.",
+    "On Monday, 2445 bottles are sold. So, the inventory decreases by 2445 bottles.",
+    "Calculate the remaining inventory after Monday by subtracting 2445 from 4500: 4500 - 2445 = 2055 bottles remaining.",
+    "On Tuesday, 900 bottles are sold. The inventory decreases by 900 bottles.",
+    "Calculate the remaining inventory after Tuesday by subtracting 900 from 2055: 2055 - 900 = 1155 bottles remaining.",
+    "From Wednesday to Sunday, 50 bottles are sold each day.",
+    "Calculate the number of days from Wednesday to Sunday: There are 5 days (Wednesday, Thursday, Friday, Saturday, and Sunday).",
+    "Calculate the total bottles sold from Wednesday to Sunday: 5 days * 50 bottles/day = 250 bottles.",
+    "Reduce the inventory by the 250 bottles sold from Wednesday to Sunday: 1155 - 250 = 905 bottles remaining before the delivery.",
+    "On Saturday, a delivery adds 650 bottles to the inventory.",
+    "Add the 650 bottles delivered on Saturday to the inventory: 905 + 650 = 1555 bottles."
+  ],
+  "solution": "1555"
+}

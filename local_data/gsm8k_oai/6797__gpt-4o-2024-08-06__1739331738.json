@@ -1,0 +1,21 @@
+{
+  "query": "Barney can perform 45 sit-ups in one minute. Carrie can do twice as many sit-ups per minute as Barney can.  And Jerrie can do 5 more sit-ups per minute than Carrie can do.  If Barney does sit-ups for 1 minute, and Carrie does sit-ups for two minutes, and Jerrie does sit-ups for three minutes, what would be the combined total number of sit-ups performed?",
+  "steps": [
+    "Barney can perform 45 sit-ups per minute.",
+    "Carrie can do twice as many sit-ups per minute as Barney.",
+    "Twice as many sit-ups as Barney is 45 * 2 = 90 sit-ups per minute for Carrie.",
+    "Jerrie can do 5 more sit-ups per minute than Carrie.",
+    "Jerrie\u2019s sit-ups per minute is 90 + 5 = 95 sit-ups per minute.",
+    "Barney performs sit-ups for 1 minute.",
+    "The number of sit-ups Barney does is 45 sit-ups in 1 minute.",
+    "Carrie performs sit-ups for 2 minutes.",
+    "The number of sit-ups Carrie does is 90 sit-ups/minute * 2 minutes = 180 sit-ups.",
+    "Jerrie performs sit-ups for 3 minutes.",
+    "The number of sit-ups Jerrie does is 95 sit-ups/minute * 3 minutes = 285 sit-ups.",
+    "Now, I add the sit-ups done by Barney, Carrie, and Jerrie.",
+    "Total sit-ups = Barney\u2019s sit-ups + Carrie\u2019s sit-ups + Jerrie\u2019s sit-ups.",
+    "Total sit-ups = 45 + 180 + 285.",
+    "Calculate the sum: 45 + 180 = 225; 225 + 285 = 510."
+  ],
+  "solution": "510"
+}

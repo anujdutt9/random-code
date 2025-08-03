@@ -1,0 +1,16 @@
+{
+  "query": "Ray always takes the same route when he walks his dog. First, he walks 4 blocks to the park. Then he walks 7 blocks to the high school. Finally, he walks 11 blocks to get back home. Ray walks his dog 3 times each day. How many blocks does Ray's dog walk each day?",
+  "steps": [
+    "Ray walks 4 blocks to the park.",
+    "Next, he walks 7 blocks to the high school.",
+    "Then, he walks 11 blocks back home.",
+    "To find the total distance for one complete walk, add the blocks walked in each segment: 4 + 7 + 11.",
+    "Calculate 4 + 7 = 11.",
+    "Add the result to the final segment: 11 + 11 = 22.",
+    "One complete walk is 22 blocks.",
+    "Ray walks his dog 3 times each day.",
+    "Multiply the distance of one walk by the number of walks per day: 22 blocks/walk * 3 walks/day.",
+    "Calculate the total distance: 22 * 3 = 66."
+  ],
+  "solution": "66"
+}

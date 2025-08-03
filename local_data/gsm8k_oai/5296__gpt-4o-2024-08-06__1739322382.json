@@ -1,0 +1,22 @@
+{
+  "query": "Bob orders a dozen muffins a day for $0.75 each and sells them for $1.5 each.  How much profit does he make a week?",
+  "steps": [
+    "First, I need to find out how much Bob spends on muffins each day.",
+    "He buys a dozen muffins each day, which is 12 muffins.",
+    "Each muffin costs him $0.75.",
+    "The daily cost for the muffins is 12 muffins multiplied by $0.75 per muffin.",
+    "Calculating the daily cost: 12 * $0.75 = $9.",
+    "Now, I need to calculate how much Bob makes by selling the muffins each day.",
+    "He sells 12 muffins each day for $1.50 each.",
+    "The daily revenue from selling the muffins is 12 muffins multiplied by $1.50 per muffin.",
+    "Calculating the daily revenue: 12 * $1.50 = $18.",
+    "Now, I will calculate the daily profit by subtracting the daily cost from the daily revenue.",
+    "The daily profit is $18 (revenue) - $9 (cost).",
+    "Calculating the daily profit: $18 - $9 = $9.",
+    "Next, I need to find out how much profit Bob makes in a week.",
+    "There are 7 days in a week.",
+    "Weekly profit is the daily profit multiplied by 7.",
+    "Calculating the weekly profit: $9 * 7 = $63."
+  ],
+  "solution": "63"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "In 5 years, Frank will be three times as old as Ty is now. Ty is currently 4 years more than two times as old as Carla is now. Carla is currently 2 years older than Karen is now. If Karen is currently 2 years old, how old will Frank be in 5 years?",
+  "steps": [
+    "First, we need to find Karen's current age. We are told that Karen is currently 2 years old.",
+    "Next, we determine Carla's current age. Carla is currently 2 years older than Karen.",
+    "Since Karen is 2 years old, Carla is 2 + 2 = 4 years old.",
+    "Now, we need to find Ty's current age. Ty is currently 4 years more than two times as old as Carla.",
+    "Carla is 4 years old, so two times her age is 2 * 4 = 8 years.",
+    "Adding 4 more years to 8 gives us Ty's age: 8 + 4 = 12 years.",
+    "Now, we consider Frank's future age. In 5 years, Frank will be three times as old as Ty is now.",
+    "Ty is currently 12 years old. Therefore, three times Ty's current age is 3 * 12 = 36 years.",
+    "Since Frank will be 36 years old in 5 years, we don't need to adjust this number. This is Frank's age in 5 years."
+  ],
+  "solution": "36"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "At school today, Charlize was 20 minutes late. Four of her classmates were each ten minutes late than she was. What's the total time for which the five students were late?",
+  "steps": [
+    "Charlize was 20 minutes late.",
+    "Each of the four classmates was 10 minutes later than Charlize, so they were each 20 + 10 = 30 minutes late.",
+    "To find the total time for which the five students were late, add Charlize's time to the total time for her classmates.",
+    "Charlize's lateness contributes 20 minutes to the total.",
+    "Each of the four classmates contributes 30 minutes.",
+    "Calculate the total lateness for Charlize's classmates: 4 classmates * 30 minutes each = 120 minutes.",
+    "The total lateness is Charlize's 20 minutes + 120 minutes from her classmates = 140 minutes."
+  ],
+  "solution": "140"
+}

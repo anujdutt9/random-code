@@ -1,0 +1,18 @@
+{
+  "query": "Mark wants to set the record for most consecutive ropes jumped.  The record is 54,000.  He can jump 3 times a second.  How many hours would he need to jump rope?",
+  "steps": [
+    "Firstly, I need to determine how many jumps Mark can complete in one minute.",
+    "Mark jumps 3 times a second.",
+    "There are 60 seconds in a minute.",
+    "To find how many jumps he can complete in one minute, I multiply 3 jumps/second by 60 seconds.",
+    "3 jumps/second * 60 seconds/minute = 180 jumps/minute.",
+    "Next, I need to calculate how many jumps he can complete in one hour.",
+    "There are 60 minutes in an hour.",
+    "To find his jumps per hour, I multiply 180 jumps/minute by 60 minutes.",
+    "180 jumps/minute * 60 minutes/hour = 10,800 jumps/hour.",
+    "Now, I need to determine how many hours it will take him to reach 54,000 jumps.",
+    "I divide the total jumps needed, 54,000, by the number of jumps he can do in one hour, 10,800.",
+    "54,000 jumps \u00f7 10,800 jumps/hour = 5 hours."
+  ],
+  "solution": "5"
+}

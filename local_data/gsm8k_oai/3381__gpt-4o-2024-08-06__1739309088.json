@@ -1,0 +1,16 @@
+{
+  "query": "Five shirts are bought. Of the 5 shirts, there are 3 shirts that cost $15 each. The remaining shirts are $20 each. What is the cost, in dollars, of all 5 shirts?",
+  "steps": [
+    "First, I identify the number of shirts that cost \\$15 each. There are 3 shirts.",
+    "Next, I calculate the total cost for these 3 shirts. Each costs \\$15, so I multiply 3 by 15.",
+    "3 \u00d7 15 = 45",
+    "The total cost for the 3 shirts is \\$45.",
+    "Now, I identify the number of shirts that cost \\$20 each. Since there are 5 shirts in total and 3 have already been accounted for, there are 5 - 3 = 2 shirts left.",
+    "Next, I calculate the total cost for the 2 shirts. Each costs \\$20, so I multiply 2 by 20.",
+    "2 \u00d7 20 = 40",
+    "The total cost for the 2 shirts is \\$40.",
+    "Now, I add the cost of the 3 shirts and the 2 shirts to get the total cost of all 5 shirts.",
+    "45 + 40 = 85"
+  ],
+  "solution": "85"
+}

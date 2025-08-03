@@ -1,0 +1,14 @@
+{
+  "query": "Uncle Jude baked 256 cookies. He gave 15 cookies to Tim, 23 cookies to Mike, kept some in the fridge and gave the rest to Anna. How many cookies did he put in the fridge if he gave twice as many cookies as he gave Tim to Anna?",
+  "steps": [
+    "First, determine how many cookies Uncle Jude gave to Tim, which is 15 cookies.",
+    "Next, calculate how many cookies were given to Anna. If he gave twice as many cookies to Anna as he gave to Tim, then he gave Anna 2 times 15 cookies.",
+    "Calculate twice 15: 2 * 15 = 30.",
+    "Now, determine the total number of cookies given to Tim and Anna. Add the cookies given to Tim and Anna: 15 + 30 = 45.",
+    "Next, determine how many cookies Uncle Jude gave to Mike, which is 23 cookies.",
+    "Add the cookies given to Tim, Mike, and Anna to find out how many cookies were given away in total: 15 + 23 + 30 = 68.",
+    "Now, subtract the total number of cookies given away from the total baked cookies to find how many were put in the fridge: 256 - 68.",
+    "Compute 256 - 68 = 188."
+  ],
+  "solution": "188"
+}

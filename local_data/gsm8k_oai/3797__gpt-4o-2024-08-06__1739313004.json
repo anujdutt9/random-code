@@ -1,0 +1,16 @@
+{
+  "query": "Ivan had $10 and spent 1/5 of it on cupcakes. He then spent some money on a milkshake and had only $3 left. How much is the milkshake?",
+  "steps": [
+    "Ivan started with $10.",
+    "He spent 1/5 of it on cupcakes.",
+    "1/5 of $10 is calculated by dividing $10 by 5.",
+    "$10 \u00f7 5 = $2.",
+    "Ivan spent $2 on cupcakes.",
+    "After spending on cupcakes, he had $10 - $2 = $8 left.",
+    "Ivan spent some money on a milkshake and was left with $3.",
+    "If he ended with $3 and had $8 after buying cupcakes, the amount spent on the milkshake is $8 - $3.",
+    "$8 - $3 = $5.",
+    "So, the milkshake cost $5."
+  ],
+  "solution": "5"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Ignatius owns 4 bicycles.  A friend of his owns different types of cycles, which have three times are many tires as Ignatius's bikes have. He has one unicycle, a tricycle, and the rest are bikes. How many bicycles does the friend own?",
+  "steps": [
+    "Ignatius owns 4 bicycles.",
+    "Each bicycle has 2 tires.",
+    "Ignatius's bicycles have a total of 4 bicycles * 2 tires/bicycle = 8 tires.",
+    "The friend has three times as many tires as Ignatius's bicycles have.",
+    "So, the friend has 8 tires * 3 = 24 tires.",
+    "The friend's cycles include a unicycle, a tricycle, and some bicycles.",
+    "A unicycle has 1 tire.",
+    "A tricycle has 3 tires.",
+    "The combined tires from the unicycle and the tricycle are 1 tire + 3 tires = 4 tires.",
+    "The remaining tires, which come from the friend's bicycles, are 24 tires - 4 tires = 20 tires.",
+    "Each bicycle has 2 tires.",
+    "The number of bicycles the friend owns is 20 tires / 2 tires per bicycle = 10 bicycles."
+  ],
+  "solution": "10"
+}

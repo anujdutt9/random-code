@@ -1,0 +1,18 @@
+{
+  "query": "A jar of jellybeans has 14 blue jellybeans, 26 purple jellybeans and 40 orange jellybeans. If there are 200 jellybeans in the jar, how many are there of the red color?",
+  "steps": [
+    "First, I need to calculate the total number of jellybeans accounted for by adding the blue, purple, and orange jellybeans.",
+    "I have 14 blue jellybeans.",
+    "I have 26 purple jellybeans.",
+    "I have 40 orange jellybeans.",
+    "Adding these together: 14 + 26 + 40.",
+    "14 + 26 is 40.",
+    "40 + 40 is 80.",
+    "So, there are 80 jellybeans accounted for by blue, purple, and orange colors.",
+    "The total number of jellybeans in the jar is 200.",
+    "To find the number of red jellybeans, I need to subtract the number of blue, purple, and orange jellybeans from the total number.",
+    "200 - 80 = 120.",
+    "Therefore, there are 120 red jellybeans in the jar."
+  ],
+  "solution": "120"
+}

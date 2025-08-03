@@ -1,0 +1,17 @@
+{
+  "query": "Ajax is 80 kilograms. He is planning to lose some weight. Exercising for an hour will help him lose 1.5 pounds. If 1 kilogram is equal to 2.2 pounds How many pounds will he weigh if he exercises for 2 hours every day for two weeks?",
+  "steps": [
+    "First, I need to find out how much weight Ajax will lose in pounds if he exercises for 2 hours every day for two weeks.",
+    "Exercising for 1 hour helps him lose 1.5 pounds.",
+    "Exercising for 2 hours will help him lose 1.5 pounds/hour * 2 hours = 3 pounds per day.",
+    "He plans to exercise every day for two weeks. Two weeks is 14 days.",
+    "In 14 days, he will lose 3 pounds/day * 14 days = 42 pounds.",
+    "Next, I need to find Ajax's current weight in pounds since the weight loss is calculated in pounds.",
+    "Ajax is currently 80 kilograms.",
+    "To convert his weight from kilograms to pounds, I use the conversion factor: 1 kilogram = 2.2 pounds.",
+    "Therefore, 80 kilograms * 2.2 pounds/kilogram = 176 pounds.",
+    "Now, I subtract the weight he will lose from his current weight in pounds.",
+    "176 pounds - 42 pounds = 134 pounds."
+  ],
+  "solution": "134"
+}

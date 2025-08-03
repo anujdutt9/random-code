@@ -1,0 +1,11 @@
+{
+  "query": "Cary starts working at Game Stop for $10/hour. She gets a 20% raise the first year, but the second year the company's profits decrease and her pay is cut to 75% of what it used to be. How much does Cary make now?",
+  "steps": [
+    "Cary starts with a wage of $10 per hour.",
+    "In the first year, she receives a 20% raise. To calculate the new wage, multiply the initial wage by 1.20 (which includes the original 100% plus a 20% increase).",
+    "$10/hour \u00d7 1.20 = $12/hour. This is Cary's wage after the first year's raise.",
+    "In the second year, her pay is cut to 75% of what it was after the raise. To calculate this, multiply her current wage by 0.75.",
+    "$12/hour \u00d7 0.75 = $9/hour. This is Cary's wage after the second year's pay cut."
+  ],
+  "solution": "9"
+}

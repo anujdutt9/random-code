@@ -1,0 +1,18 @@
+{
+  "query": "In the jar, there are 7 blue marbles, 11 red marbles, and some yellow marbles. If the chance of randomly picking a yellow marble is 1/4, how many yellow marbles are there?",
+  "steps": [
+    "First, I need to determine the total probability context for selecting a marble from the jar.",
+    "The probability of picking a yellow marble is given as 1/4. This means the probability that a marble is not yellow is 3/4.",
+    "I note there are 7 blue marbles and 11 red marbles, which makes a total of 18 marbles that are not yellow.",
+    "Let the number of yellow marbles be denoted by \"y\".",
+    "The total number of marbles would then be the sum of blue, red, and yellow marbles: 7 + 11 + y, which is 18 + y.",
+    "The probability of picking a yellow marble is computed by dividing the number of yellow marbles by the total number of marbles: y / (18 + y).",
+    "Since this probability is 1/4, set up the equation: y / (18 + y) = 1/4.",
+    "To solve this equation, perform cross multiplication: 4y = 18 + y.",
+    "Subtract y from both sides of the equation: 4y - y = 18.",
+    "This simplifies to: 3y = 18.",
+    "Divide by 3 to solve for y: y = 18 / 3.",
+    "So, y = 6."
+  ],
+  "solution": "6"
+}

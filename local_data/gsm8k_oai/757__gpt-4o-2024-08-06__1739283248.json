@@ -1,0 +1,15 @@
+{
+  "query": "Luna, the poodle, is supposed to eat 2 cups of kibble every day.  But Luna's master, Mary, and her husband, Frank, sometimes feed Luna too much kibble.  One day, starting with a new, 12-cup bag of kibble, Mary gave Luna 1 cup of kibble in the morning and 1 cup of kibble in the evening, But on the same day, Frank also gave Luna 1 cup of kibble in the afternoon and twice as much in the late evening as he had given Luna in the afternoon.  The next morning, how many cups of kibble will Mary find remaining in the bag?",
+  "steps": [
+    "Mary starts with a 12-cup bag of kibble.",
+    "In the morning, Mary gives Luna 1 cup of kibble.",
+    "After the morning feeding, there are 12 - 1 = 11 cups of kibble left.",
+    "In the evening, Mary gives Luna another 1 cup of kibble.",
+    "After the evening feeding, there are 11 - 1 = 10 cups of kibble left.",
+    "Frank gives Luna 1 cup of kibble in the afternoon.",
+    "After Frank's afternoon feeding, there are 10 - 1 = 9 cups of kibble left.",
+    "Frank gives Luna twice as much kibble in the late evening as he gave in the afternoon, which is 2 * 1 = 2 cups of kibble.",
+    "After Frank's late evening feeding, there are 9 - 2 = 7 cups of kibble left."
+  ],
+  "solution": "7"
+}

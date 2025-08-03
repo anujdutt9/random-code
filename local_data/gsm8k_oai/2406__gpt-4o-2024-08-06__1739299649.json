@@ -1,0 +1,12 @@
+{
+  "query": "The space station, Lupus-1, is an enormous spacecraft made up of three identical cylindrical structures that house the living quarters for the crew.   The three cylindrical structures are linked together by a series of tunnels that hold them together and allow the crew to move between cylinders.  Each cylindrical structure contains 12 bedrooms, 7 bathrooms, and several kitchens.  If the entire space station has 72 rooms, how many kitchens are there on the entire space station?",
+  "steps": [
+    "First, I need to determine the total number of bedrooms and bathrooms across all three cylindrical structures.",
+    "Each cylindrical structure has 12 bedrooms. With three structures, the total number of bedrooms is 12 * 3 = 36 bedrooms.",
+    "Each cylindrical structure also has 7 bathrooms. With three structures, the total number of bathrooms is 7 * 3 = 21 bathrooms.",
+    "Now, I add the total number of bedrooms and bathrooms together: 36 bedrooms + 21 bathrooms = 57 rooms.",
+    "According to the problem, the entire space station has 72 rooms. I need to find out how many of these rooms are kitchens.",
+    "Subtract the total number of bedrooms and bathrooms from the total number of rooms: 72 rooms - 57 rooms = 15 kitchens."
+  ],
+  "solution": "15"
+}

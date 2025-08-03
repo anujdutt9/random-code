@@ -1,0 +1,12 @@
+{
+  "query": "If it takes 8 days for 3 builders to build a cottage. How long will it take 6 builders to build the same size cottage working at the same rate?",
+  "steps": [
+    "First, I want to determine the total work done in terms of builder-days.",
+    "Since it takes 3 builders 8 days, the total work is 3 builders * 8 days = 24 builder-days.",
+    "Now, I need to find out how many days it will take for 6 builders to complete the same amount of work, which is 24 builder-days.",
+    "Let\u2019s set up the equation: 6 builders * X days = 24 builder-days. I need to solve for X.",
+    "To find X, I divide the total builder-days by the number of builders: X = 24 builder-days / 6 builders = 4 days.",
+    "It will take 6 builders 4 days to build the cottage, working at the same rate."
+  ],
+  "solution": "4"
+}

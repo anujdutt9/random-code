@@ -1,0 +1,17 @@
+{
+  "query": "A Whatsapp group has members sending messages every day sharing about how each one's day was. Last week, 300 messages were sent by the members on Monday, 200 messages on Tuesday, 300 more messages on Wednesday than the previous day, and two times as many messages on Thursday as there were on Wednesday. Calculate the number of messages sent in the Whatsapp group after the four days.",
+  "steps": [
+    "First, I need to determine the number of messages sent each day.",
+    "I know that 300 messages were sent on Monday.",
+    "I know that 200 messages were sent on Tuesday.",
+    "On Wednesday, 300 more messages were sent than on Tuesday. So, I add 300 to the number of messages sent on Tuesday.",
+    "200 + 300 = 500",
+    "So, 500 messages were sent on Wednesday.",
+    "On Thursday, two times as many messages as were sent on Wednesday. I need to multiply the Wednesday messages by 2 to find Thursday's.",
+    "500 * 2 = 1000",
+    "So, 1000 messages were sent on Thursday.",
+    "Now, I will sum all the messages sent from Monday through Thursday: Monday + Tuesday + Wednesday + Thursday.",
+    "300 (Monday) + 200 (Tuesday) + 500 (Wednesday) + 1000 (Thursday) = 2000"
+  ],
+  "solution": "2000"
+}

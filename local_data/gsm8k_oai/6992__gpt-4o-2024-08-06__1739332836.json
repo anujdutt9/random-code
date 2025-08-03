@@ -1,0 +1,19 @@
+{
+  "query": "Tiffany attends the carnival and her mother gives her $3 to play on a ring toss game. For every red bucket she tosses a ring into she gets 2 points. For every green bucket she gets three points. She gets zero points for a miss. Every play costs her $1 and she gets 5 rings per play. She's played two games and already gotten 4 red buckets and 5 green buckets. If she plays until her money runs out, what is the most total points she can get for all three games?",
+  "steps": [
+    "Tiffany starts with $3 and each play costs $1.",
+    "With $3, she can play the game 3 times.",
+    "Tiffany has already played 2 games.",
+    "In the first 2 games, she scored 4 red buckets and 5 green buckets.",
+    "Each red bucket gives her 2 points.",
+    "Each green bucket gives her 3 points.",
+    "From the red buckets, she scored 4 x 2 = 8 points.",
+    "From the green buckets, she scored 5 x 3 = 15 points.",
+    "Adding the points from red and green: 8 + 15 = 23 points.",
+    "Tiffany has 1 more game to play with her remaining dollar.",
+    "In one play, she has the possibility to get up to 5 rings into green buckets.",
+    "If all rings go into green buckets, she would get 5 x 3 = 15 additional points.",
+    "Adding 15 additional points to 23 existing points: 23 + 15 = 38 points."
+  ],
+  "solution": "38"
+}

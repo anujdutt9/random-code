@@ -1,0 +1,14 @@
+{
+  "query": "A coal-powered train is traveling towards a faraway city when the conductor realizes that he forgot to restock the train's coal supply at the last station.  The train is traveling on a one-way track, so the conductor has no other option but to continue moving forward towards the city.  The train can travel 5 miles for every 2 pounds of coal that it consumes.  If the train has 160 pounds of coal remaining, how far can the train travel before it runs out of fuel?",
+  "steps": [
+    "I need to determine how far the train can travel with the 160 pounds of coal it has left.",
+    "The train travels 5 miles for every 2 pounds of coal.",
+    "First, let's find out how many miles the train can travel using 2 pounds of coal: 5 miles.",
+    "Now, I need to calculate how many 2-pound units are there in 160 pounds of coal.",
+    "To do this, I'll divide the total coal weight by the weight of each unit: 160 pounds / 2 pounds per unit = 80 units.",
+    "The train can travel 5 miles for each of these 80 units.",
+    "To find the total distance the train can travel, I'll multiply the number of units by the miles per unit: 80 units * 5 miles per unit.",
+    "80 * 5 equals 400."
+  ],
+  "solution": "400"
+}

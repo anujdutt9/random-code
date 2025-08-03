@@ -1,0 +1,18 @@
+{
+  "query": "Steve writes a letter every 3rd day to his friend.  He spends 20 minutes writing the letters.  It takes 10 minutes to write 1 page.  He also writes a long letter at the end of the month which he puts more thought into.  It takes twice as long per page but he spends 80 minutes writing.  How many pages does he write a month?",
+  "steps": [
+    "First, I need to calculate how many days there are in a typical month. For simplicity, let's assume a month has 30 days.",
+    "Steve writes a letter every 3rd day. To find out how many letters he writes in a month, I'll divide 30 by 3.",
+    "30 divided by 3 is 10. So, Steve writes 10 letters in a month.",
+    "Each letter takes 20 minutes to write. Since it takes 10 minutes to write 1 page, each letter is 2 pages long.",
+    "If Steve writes 10 letters, and each letter is 2 pages, he writes 10 times 2 pages in these letters.",
+    "10 times 2 pages equals 20 pages for his daily letters.",
+    "Now, let's consider the long letter he writes at the end of the month.",
+    "The long letter takes 80 minutes. Since it takes twice as long per page, it takes 20 minutes to write a single page of the long letter.",
+    "To find out how many pages he writes for this letter, I'll divide the total time of 80 minutes by the time per page, which is 20 minutes.",
+    "80 divided by 20 is 4. Therefore, the long letter is 4 pages.",
+    "Now, I'll add the pages from the daily letters and the long letter together to find the total number of pages written in a month.",
+    "The daily letters amount to 20 pages, and the long letter is 4 pages. So, 20 plus 4 is 24."
+  ],
+  "solution": "24"
+}

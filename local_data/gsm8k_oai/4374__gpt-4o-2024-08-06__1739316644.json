@@ -1,0 +1,18 @@
+{
+  "query": "Phoebe eats 1 serving and gives her dog 1 serving of peanut butter for a bedtime snack. Each jar of peanut butter has 15 servings.  How many jars will she need to make sure she and her dog have enough to last for 30 days?",
+  "steps": [
+    "Phoebe eats 1 serving of peanut butter each day.",
+    "Her dog also eats 1 serving of peanut butter each day.",
+    "Together, Phoebe and her dog eat 2 servings of peanut butter per day.",
+    "I need to find out how many total servings are needed for 30 days.",
+    "There are 2 servings consumed each day, and there are 30 days.",
+    "So, the total number of servings needed is 2 servings/day * 30 days.",
+    "Calculating this gives 2 * 30 = 60 servings.",
+    "Each jar contains 15 servings.",
+    "Now, I need to calculate how many jars are needed for 60 servings.",
+    "I divide the total number of servings needed, 60, by the number of servings per jar, 15.",
+    "60 servings \u00f7 15 servings/jar = 4 jars.",
+    "Phoebe will need 4 jars to have enough peanut butter for 30 days."
+  ],
+  "solution": "4"
+}

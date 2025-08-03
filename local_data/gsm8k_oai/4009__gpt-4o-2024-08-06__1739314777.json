@@ -1,0 +1,19 @@
+{
+  "query": "Jim had 365 trading cards. He gives 8 sets of cards to his brother, 5 sets of cards to his sister, and 2 sets of cards to his friend. How many cards did he give away, assuming 1 set has 13 trading cards?",
+  "steps": [
+    "I know Jim gives 8 sets of cards to his brother.",
+    "Each set contains 13 trading cards.",
+    "So, Jim gives his brother 8 sets x 13 cards = 104 cards.",
+    "Jim gives 5 sets of cards to his sister.",
+    "Each set contains 13 trading cards.",
+    "So, Jim gives his sister 5 sets x 13 cards = 65 cards.",
+    "Jim gives 2 sets of cards to his friend.",
+    "Each set contains 13 trading cards.",
+    "So, Jim gives his friend 2 sets x 13 cards = 26 cards.",
+    "Now, I need to find the total number of cards Jim gave away.",
+    "Add the number of cards given to his brother, sister, and friend: 104 cards + 65 cards + 26 cards.",
+    "104 + 65 is equal to 169.",
+    "169 + 26 is equal to 195."
+  ],
+  "solution": "195"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Andy is checking to see if all the cars in the parking lot paid for their parking. 75% of the cars have valid tickets, and 1/5th that number have permanent parking passes. If there are 300 cars in the parking lot, how many people tried to park in the lot without paying?",
+  "steps": [
+    "First, I calculate the number of cars with valid tickets.",
+    "75% of the cars have valid tickets, so I multiply 300 by 0.75.",
+    "300 * 0.75 = 225",
+    "Next, I calculate the number of cars with permanent parking passes.",
+    "1/5th of the number of cars with valid tickets have permanent parking passes.",
+    "1/5 of 225 = 225 / 5",
+    "225 / 5 = 45",
+    "Now, I add the number of cars with valid tickets and the number of cars with permanent passes to find the total number of cars that have paid or are permitted to park.",
+    "225 (valid tickets) + 45 (permanent passes) = 270",
+    "To find how many people tried to park without paying, I subtract the number of cars that have paid or are permitted from the total number of cars.",
+    "300 total cars - 270 cars with tickets or passes = 30"
+  ],
+  "solution": "30"
+}

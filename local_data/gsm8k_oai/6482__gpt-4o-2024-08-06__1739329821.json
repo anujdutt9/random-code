@@ -1,0 +1,16 @@
+{
+  "query": "Tiffany is looking at a lake full of turtles. The turtles are 60% female and the rest are male. Of the males, 1 in 4 has stripes. Of the ones with stripes, 4 are babies, while 60% are adults How many turtles are in the lake?",
+  "steps": [
+    "First, I need to understand the composition of the turtles in the lake. We know that 60% of the turtles are female.",
+    "This implies that the remaining 40% of the turtles are male, since 100% - 60% = 40%.",
+    "Of these male turtles, 1 in 4 has stripes. This means 25% of the male turtles have stripes.",
+    "Among the striped males, 4 are babies, which implies that 40% are babies, because if 60% are adults, the remaining percentage must be for babies.",
+    "Let's denote the total number of turtles as T. Then the number of male turtles is 0.4 * T.",
+    "The number of striped male turtles is then 0.25 * 0.4 * T = 0.1 * T.",
+    "Since 40% of the striped males are babies, we can say that 0.4 * 0.1 * T = 0.04 * T represents the number of baby striped males.",
+    "We know from the problem that there are 4 baby striped males, which implies 0.04 * T = 4.",
+    "To find the total number of turtles T, we solve this equation: T = 4 / 0.04.",
+    "Therefore, T = 100."
+  ],
+  "solution": "100"
+}

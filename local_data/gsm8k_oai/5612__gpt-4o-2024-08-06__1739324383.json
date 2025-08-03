@@ -1,0 +1,22 @@
+{
+  "query": "Sue borrowed 15 books and 6 movies. She returned 8 books. She then returned a third of the movies to the library and checked out 9 more books. How many movies and books does Sue now have?",
+  "steps": [
+    "Sue borrowed 15 books initially.",
+    "Sue returned 8 books.",
+    "I need to subtract the 8 books she returned from the 15 books she borrowed.",
+    "15 books - 8 books = 7 books remaining.",
+    "Sue then checked out 9 more books.",
+    "I will add the 9 books to the 7 books she still had.",
+    "7 books + 9 books = 16 books.",
+    "Sue has 16 books now.",
+    "Sue borrowed 6 movies initially.",
+    "She returned a third of the movies.",
+    "I will calculate a third of 6 movies.",
+    "6 movies \u00f7 3 = 2 movies.",
+    "She returned 2 movies, so I need to subtract them from the 6 movies she borrowed.",
+    "6 movies - 2 movies = 4 movies remaining.",
+    "Sue now has 4 movies.",
+    "Sue has a total of 16 books and 4 movies now."
+  ],
+  "solution": "20"
+}

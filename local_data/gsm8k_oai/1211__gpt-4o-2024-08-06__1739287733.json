@@ -1,0 +1,21 @@
+{
+  "query": "Isabelle gets a job so she can save enough money to go to a concert with her two brothers. Her ticket costs $20. Her brothers both get the children\u2019s discount, and each of their tickets cost $10. Her brothers have saved $5 between the two of them and Isabelle has saved $5. If her job pays $3 per week, how many weeks must she work to afford the tickets?",
+  "steps": [
+    "First, I need to determine the total cost of all the tickets.",
+    "Isabelle's ticket costs $20.",
+    "Each of her brothers' tickets costs $10.",
+    "Isabelle has two brothers, so the total cost for her brothers' tickets is 2 * $10 = $20.",
+    "Therefore, the total cost of all the tickets is $20 (Isabelle's ticket) + $20 (brothers' tickets) = $40.",
+    "Next, I need to calculate how much money they have already saved.",
+    "Isabelle has saved $5.",
+    "Her brothers have saved $5 between them.",
+    "The total amount of money they have saved is $5 (Isabelle) + $5 (brothers) = $10.",
+    "To find out how much more money is needed, I subtract the amount saved from the total cost of the tickets.",
+    "The total amount still needed is $40 (total ticket cost) - $10 (money saved) = $30.",
+    "Isabelle's job pays $3 per week.",
+    "To find out how many weeks Isabelle needs to work, I divide the total amount still needed by her weekly earnings.",
+    "$30 \u00f7 $3/week = 10 weeks.",
+    "Therefore, Isabelle must work 10 weeks to afford the tickets."
+  ],
+  "solution": "10"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "The last time Bob cut his hair he cut it to 6 inches.  His hair is now 36 inches long.  If hair grows at a rate of .5 inches per month how many years did it take him to grow out his hair?",
+  "steps": [
+    "Bob's hair is now 36 inches long.",
+    "The last time Bob cut his hair, it was 6 inches long.",
+    "To find out how much his hair has grown, I need to subtract the length it was cut to from its current length: 36 inches - 6 inches.",
+    "36 inches - 6 inches = 30 inches. So, his hair has grown 30 inches.",
+    "Hair grows at a rate of 0.5 inches per month.",
+    "To find out how many months it took to grow 30 inches, I need to divide the growth in inches by the rate of growth: 30 inches / 0.5 inches per month.",
+    "30 inches / 0.5 inches per month = 60 months.",
+    "To convert months into years, I need to divide the number of months by 12 (the number of months in a year).",
+    "60 months / 12 months per year = 5 years."
+  ],
+  "solution": "5"
+}

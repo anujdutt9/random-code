@@ -1,0 +1,19 @@
+{
+  "query": "Trey is hanging wall decorations around his house. He uses a nail for each of two-thirds of them, a thumbtack for each of two-fifths of the rest, and a sticky strip for each of the other decorations. He used 15 sticky strips. How many nails did Trey use?",
+  "steps": [
+    "First, I need to understand the problem. Trey uses three types of attachments: nails, thumbtacks, and sticky strips. Two-thirds of the decorations use nails, and two-fifths of the remaining decorations use thumbtacks. The rest use sticky strips. I am told that Trey used 15 sticky strips.",
+    "Let the total number of decorations be \\( x \\).",
+    "Two-thirds of these decorations use nails. Therefore, the number of decorations using nails is \\( \\frac{2}{3}x \\).",
+    "The remaining decorations, after using nails, would be \\( x - \\frac{2}{3}x = \\frac{1}{3}x \\).",
+    "Two-fifths of these remaining decorations use thumbtacks. So, the number of decorations using thumbtacks is \\( \\frac{2}{5} \\times \\frac{1}{3}x = \\frac{2}{15}x \\).",
+    "The rest of the decorations use sticky strips. This means the remaining number of decorations is \\( x - \\frac{2}{3}x - \\frac{2}{15}x \\).",
+    "It is given that Trey used 15 sticky strips. Thus, the equation for decorations using sticky strips is \\( x - \\frac{2}{3}x - \\frac{2}{15}x = 15 \\).",
+    "To simplify the equation, first find a common denominator for the terms, which is 15. Convert \\(\\frac{2}{3}x\\) into \\(\\frac{10}{15}x\\).",
+    "Now, rewrite the equation: \\( x - \\frac{10}{15}x - \\frac{2}{15}x = 15 \\).",
+    "Combine the terms: \\( x - \\frac{10}{15}x - \\frac{2}{15}x = x - \\frac{12}{15}x = \\frac{3}{15}x = \\frac{1}{5}x \\).",
+    "Thus, \\(\\frac{1}{5}x = 15\\).",
+    "Multiply both sides by 5 to solve for \\( x \\): \\( x = 75 \\).",
+    "Now, calculate how many nails Trey used. Recall \\(\\frac{2}{3}\\) of the decorations use nails: \\(\\frac{2}{3} \\times 75 = 50\\)."
+  ],
+  "solution": "50"
+}

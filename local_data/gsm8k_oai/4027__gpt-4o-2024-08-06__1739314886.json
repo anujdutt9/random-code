@@ -1,0 +1,20 @@
+{
+  "query": "Lionel went to the grocery store and bought 14 boxes of Graham crackers and 15 packets of Oreos. To make an Oreo cheesecake, Lionel needs 2 boxes of Graham crackers and 3 packets of Oreos. After making the maximum number of Oreo cheesecakes he can with the ingredients he bought, how many boxes of Graham crackers would he have left over?",
+  "steps": [
+    "First, I need to determine how many Oreo cheesecakes Lionel can make with the ingredients he has.",
+    "I should check how many cheesecakes can be made with the Graham crackers.",
+    "Lionel has 14 boxes of Graham crackers.",
+    "Each cheesecake requires 2 boxes of Graham crackers.",
+    "I divide the total boxes of Graham crackers by the number needed per cheesecake: 14 \u00f7 2 = 7 cheesecakes.",
+    "Now, I check how many cheesecakes can be made with the Oreos.",
+    "Lionel has 15 packets of Oreos.",
+    "Each cheesecake requires 3 packets of Oreos.",
+    "I divide the total packets of Oreos by the number needed per cheesecake: 15 \u00f7 3 = 5 cheesecakes.",
+    "The limiting factor is the number of cheesecakes that can be made, which is the lower number of the two calculations: 5 cheesecakes.",
+    "Since Lionel can make 5 cheesecakes, I calculate how many boxes of Graham crackers are used for 5 cheesecakes.",
+    "5 cheesecakes x 2 boxes of Graham crackers per cheesecake = 10 boxes of Graham crackers used.",
+    "Now, I calculate how many boxes of Graham crackers Lionel has left over.",
+    "Starting with 14 boxes and using 10, Lionel has 14 - 10 = 4 boxes of Graham crackers left over."
+  ],
+  "solution": "4"
+}

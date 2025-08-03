@@ -1,0 +1,18 @@
+{
+  "query": "Lefty scores 20 points in a game and his teammate Righty scores half as many as Lefty does.  Their other teammate scores 6 times as much as Righty does.  What are the average points scored per player on the team?",
+  "steps": [
+    "First, I note that Lefty scores 20 points.",
+    "Righty scores half as many points as Lefty. So, I need to calculate half of 20.",
+    "Half of 20 is 10. Therefore, Righty scores 10 points.",
+    "Now, I know that their other teammate scores 6 times as much as Righty.",
+    "Since Righty scores 10 points, I need to calculate 6 times 10.",
+    "6 times 10 is 60. So, their other teammate scores 60 points.",
+    "To find the average points scored per player, I need to add up all the points scored by the team and divide by the number of players.",
+    "The total points scored by the team is Lefty's 20 points, Righty's 10 points, and the other teammate's 60 points.",
+    "20 + 10 + 60 equals 90. So, the team scored 90 points in total.",
+    "There are three players on the team: Lefty, Righty, and the other teammate.",
+    "To find the average, I need to divide the total points of 90 by the 3 players.",
+    "90 divided by 3 is 30."
+  ],
+  "solution": "30"
+}

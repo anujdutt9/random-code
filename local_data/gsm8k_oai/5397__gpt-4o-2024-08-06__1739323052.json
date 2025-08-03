@@ -1,0 +1,14 @@
+{
+  "query": "Grant decided to sell his baseball gear since he was now playing football.  He sold his baseball cards for $25.  He got $10 for his baseball bat and agreed to sell his $30 baseball glove at 20% off.  He also sold both pair of his baseball cleats for $10 each.  How much money did Grant make?",
+  "steps": [
+    "First, calculate the amount he got from selling his baseball cards. He sold them for $25, so that's $25.",
+    "Next, consider the baseball bat. He sold it for $10, so add $10 to the total from the baseball cards. This is $25 + $10 = $35.",
+    "Now, calculate the discounted price for the baseball glove. It was originally $30 and he sold it at 20% off.",
+    "20% of $30 is 0.20 * $30 = $6.",
+    "The discounted price of the baseball glove is $30 - $6 = $24.",
+    "Add the amount from selling the baseball glove to the running total. This is $35 + $24 = $59.",
+    "He also sold two pairs of baseball cleats for $10 each. So, that's $10 + $10 = $20 for the cleats.",
+    "Finally, add the money from the cleats to the running total. This is $59 + $20 = $79."
+  ],
+  "solution": "79"
+}

@@ -1,0 +1,24 @@
+{
+  "query": "Rebecca runs a hair salon. She charges $30 for haircuts, $40 for perms, and $60 for dye jobs, but she has to buy a box of hair dye for $10 to dye every head of hair. Today, she has four haircuts, one perm, and two dye jobs scheduled. If she makes $50 in tips, how much money will she have in dollars at the end of the day?",
+  "steps": [
+    "To determine Rebecca's earnings from haircuts, I need to calculate the total revenue from the four haircuts she has scheduled.",
+    "Rebecca charges $30 for each haircut.",
+    "For four haircuts, the total revenue is 4 haircuts * $30 per haircut = $120.",
+    "Next, I need to calculate the revenue from the perm she has scheduled.",
+    "Rebecca charges $40 for a perm.",
+    "She has one perm scheduled, so the revenue from the perm is 1 perm * $40 = $40.",
+    "Now, I'll calculate the earnings from the two dye jobs scheduled.",
+    "Rebecca charges $60 for each dye job.",
+    "For two dye jobs, the gross revenue is 2 dye jobs * $60 per dye job = $120.",
+    "However, Rebecca needs to buy one box of hair dye per dye job, and each box costs $10. I need to account for this expense.",
+    "The total cost for the two boxes of hair dye is 2 boxes * $10 per box = $20.",
+    "The net revenue from the two dye jobs is the gross revenue minus the cost of the hair dye, which is $120 - $20 = $100.",
+    "Next, I'll add up all the revenues: from haircuts, the perm, and dye jobs.",
+    "Total revenue from haircuts is $120, from the perm is $40, and from dye jobs is $100.",
+    "I sum these amounts to get the total revenue before tips: $120 + $40 + $100 = $260.",
+    "Rebecca received $50 in tips.",
+    "I add the tips to the total revenue to find her final earnings for the day.",
+    "Her total earnings are $260 + $50 = $310."
+  ],
+  "solution": "310"
+}

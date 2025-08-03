@@ -1,0 +1,22 @@
+{
+  "query": "Sabrina went to the library and found a historical series novel called The Rangers Apprentice. There are 14 books in the series, and each book has 200 pages. She read four books in a month and half the number of books remaining in the second month. What's the total number of pages Sabrina has to read to finish the whole series?",
+  "steps": [
+    "First, I need to determine how many books Sabrina read in the first month.",
+    "She read 4 books in the first month.",
+    "Next, I need to calculate how many books are left after the first month.",
+    "There are originally 14 books in the series.",
+    "Subtracting the 4 books that Sabrina read in the first month, there are 14 - 4 = 10 books remaining.",
+    "Now, according to the problem, Sabrina then read half the number of books remaining in the second month.",
+    "Since there were 10 books left, half of 10 is 5 books.",
+    "So, Sabrina read 5 more books in the second month.",
+    "Now I need to calculate how many books Sabrina has read in total.",
+    "She read 4 books in the first month and 5 books in the second month, so she read 4 + 5 = 9 books in total.",
+    "Next, I'll find out how many books are left to be read.",
+    "Starting with 14 books in total, subtracting the 9 books Sabrina already read, there are 14 - 9 = 5 books remaining.",
+    "Now, I need to find out the total number of pages Sabrina has left to read.",
+    "Each book has 200 pages.",
+    "If there are 5 books left, then there are 5 * 200 = 1000 pages remaining to be read.",
+    "Therefore, Sabrina has 1000 pages left to read in order to finish the series."
+  ],
+  "solution": "1000"
+}

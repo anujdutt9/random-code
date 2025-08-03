@@ -1,0 +1,16 @@
+{
+  "query": "Jim decides to open up a bike shop.  The most common repair he does is fixing bike tires.  He charges $20 for this and it cost him $5 in parts.  In one month Jim does 300 of these repairs.  He also does 2 more complex repairs for $300 each and cost $50 in parts.  He also sells $2000 profit worth of things from his retail shop.  If rent and other fixed expense for the shop is $4000 a month how much profit did the shop make?",
+  "steps": [
+    "First, I need to calculate the profit Jim makes from fixing bike tires.",
+    "Jim charges $20 per tire repair and it costs him $5 in parts, so the profit per repair is $20 - $5 = $15.",
+    "Jim does 300 repairs in a month, so the total profit from tire repairs is 300 repairs * $15 profit/repair = $4500.",
+    "Next, I'll calculate the profit from the more complex repairs.",
+    "Jim charges $300 for each complex repair and it costs him $50 in parts, so the profit per complex repair is $300 - $50 = $250.",
+    "Jim does 2 complex repairs, so the total profit from these repairs is 2 repairs * $250 profit/repair = $500.",
+    "Now, I'll add the sales from the retail shop. The problem states this results in $2000 profit.",
+    "To find the total profit made, I need to sum the profits from tire repairs, complex repairs, and retail sales: $4500 (tire repairs) + $500 (complex repairs) + $2000 (retail sales) = $7000.",
+    "Finally, I'll subtract the fixed expenses from the total profit. The shop's fixed expenses are $4000.",
+    "The total profit after accounting for the fixed expenses is $7000 - $4000 = $3000."
+  ],
+  "solution": "3000"
+}

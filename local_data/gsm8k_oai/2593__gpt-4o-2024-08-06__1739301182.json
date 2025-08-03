@@ -1,0 +1,13 @@
+{
+  "query": "Adam had a farm with animals. He had 12 cows and twice as many sheep. He decided to buy 3 pigs for every sheep he had. How many animals were on the farm after the transaction?",
+  "steps": [
+    "First, I need to determine how many sheep Adam had. He had twice as many sheep as cows.",
+    "Since Adam had 12 cows, he had twice that number in sheep, making it 12 * 2 = 24 sheep.",
+    "Next, I need to calculate how many pigs Adam bought. He bought 3 pigs for every sheep.",
+    "For 24 sheep, he would buy 3 * 24 = 72 pigs.",
+    "Now I need to find the total number of animals on the farm after the transaction. Originally, there were 12 cows and 24 sheep.",
+    "Adding the new pigs to the existing animals, there are a total of 12 cows + 24 sheep + 72 pigs.",
+    "Adding these together gives 12 + 24 + 72 = 108 animals."
+  ],
+  "solution": "108"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "In a grocery store, the daily salary of the manager is $5 and the clerk is $2. If there are currently 2 managers and 3 clerks employed in the grocery store, how much is the total daily salary of all the employees of the grocery store?",
+  "steps": [
+    "First, I need to determine the total daily salary for the managers.",
+    "There are 2 managers, and each manager earns $5 per day.",
+    "To find the total for the managers, I multiply the number of managers (2) by the daily salary per manager ($5).",
+    "2 managers * $5/manager = $10",
+    "Next, I need to determine the total daily salary for the clerks.",
+    "There are 3 clerks, and each clerk earns $2 per day.",
+    "To find the total for the clerks, I multiply the number of clerks (3) by the daily salary per clerk ($2).",
+    "3 clerks * $2/clerk = $6",
+    "Now, I add the total salaries for the managers and the clerks to find the overall total daily salary.",
+    "$10 (managers) + $6 (clerks) = $16"
+  ],
+  "solution": "16"
+}

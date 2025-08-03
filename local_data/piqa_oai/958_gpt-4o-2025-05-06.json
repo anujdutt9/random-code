@@ -1,0 +1,12 @@
+{
+    "question": "How do you find the area of a Heptagon with an Apothem?\n\nChoices:\nA: To find the apothem, divide the length of one side by 2 times the tangent of 180 degrees divided by the number of sides plus the number of sides. To find the perimeter, multiply the length of one side by the total number of sides. Once you've found the apothem and the perimeter, plug them into the formula for area and solve.\nB: To find the apothem, divide the length of one side by 2 times the tangent of 180 degrees divided by the number of sides. To find the perimeter, multiply the length of one side by the total number of sides. Once you've found the apothem and the perimeter, plug them into the formula for area and solve.",
+    "steps": [
+        "To find the area of a heptagon given the apothem, you need to know both the apothem and the perimeter.",
+        "The perimeter of a heptagon (a polygon with 7 sides) can be found by multiplying the length of one side by the number of sides, which is 7.",
+        "To find the apothem, you need to use the formula which involves the tangent function. The apothem \\(a\\) can be found using the formula: \n\\[ a = \\frac{s}{2 \\cdot \\tan( \\frac{180^{\\circ}}{n} )} \\]\n where \\( s \\) is the length of one side and \\( n \\) is the number of sides (7 for a heptagon).",
+        "Once the apothem and the perimeter are known, the area \\( A \\) of the heptagon can be calculated using the formula:\n\\[ A = \\frac{1}{2} \\times \\text{Perimeter} \\times \\text{Apothem} \\]",
+        "Breaking down the given choices:\n- Choice A incorrectly states to divide the length of one side by 2 times the tangent of 180 degrees divided by the number of sides plus the number of sides.\n- Choice B correctly states to divide the length of one side by 2 times the tangent of 180 degrees divided by the number of sides. This follows the correct steps to find the area.",
+        "Therefore, the correct answer is B."
+    ],
+    "solution": "B"
+}

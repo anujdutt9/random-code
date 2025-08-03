@@ -1,0 +1,21 @@
+{
+  "query": "There are 180 students in ninth grade. 1/4 of them bombed their finals because they were going through difficult breakups. 1/3rd of the rest didn't show up to take the test, and another 20 got less than a D. How many students passed their finals?",
+  "steps": [
+    "First, calculate how many students bombed their finals due to breakups.",
+    "To find out how many students bombed their finals, take 1/4 of 180 students.",
+    "1/4 of 180 is 180 / 4 = 45.",
+    "So, 45 students bombed their finals.",
+    "Subtract the number of students who bombed their finals from the total number of students to find out how many students are left.",
+    "180 - 45 = 135 students are left after accounting for those who bombed their finals.",
+    "Now, calculate how many of these 135 students didn't show up for the test.",
+    "1/3rd of these 135 students didn't show up, so calculate 1/3 of 135.",
+    "1/3 of 135 = 135 / 3 = 45.",
+    "Therefore, 45 students didn't show up for the test.",
+    "Subtract the number of students who didn't show up from the remaining students.",
+    "135 - 45 = 90 students showed up and took the test.",
+    "Out of those who showed up, 20 got less than a D, implying they didn't pass.",
+    "Subtract the number of students who got less than a D from those who showed up.",
+    "90 - 20 = 70 students passed their finals."
+  ],
+  "solution": "70"
+}

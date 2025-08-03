@@ -1,0 +1,20 @@
+{
+  "query": "Jessica just got her driving permit. She must complete 50 hours of driving with a parent to get her driver\u2019s license. It takes 20 minutes to drive to school. If she drives to and from school every day, how many school days will it take Jessica to meet the 50-hour driving requirement?",
+  "steps": [
+    "First, I need to determine how much driving time Jessica accumulates in one round trip to school.",
+    "A round trip includes driving both to and from school.",
+    "I know that it takes 20 minutes one way to drive to school.",
+    "So, a round trip will be 20 minutes to school plus 20 minutes back home.",
+    "This means each round trip equals 40 minutes of driving.",
+    "Next, I need to convert these 40 minutes into hours because the requirement is in hours.",
+    "Since there are 60 minutes in an hour, I divide 40 minutes by 60 to find out how many hours that is.",
+    "40 divided by 60 equals 2/3 or approximately 0.667 hours.",
+    "Now, I know Jessica accumulates 0.667 hours of driving each day.",
+    "Jessica needs to complete a total of 50 hours of driving.",
+    "I should now determine how many school days it takes to reach 50 hours of driving by dividing the total required hours by the hours accumulated per day.",
+    "So, I will divide 50 hours by 0.667 hours per day.",
+    "50 divided by 0.667 equals approximately 75.",
+    "Therefore, it will take Jessica approximately 75 school days to meet the 50-hour driving requirement."
+  ],
+  "solution": "75"
+}

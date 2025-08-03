@@ -1,0 +1,19 @@
+{
+  "query": "Mrs. Snyder used to spend 40% of her monthly income on rent and utilities. Her salary was recently increased by $600 so now her rent and utilities only amount to 25% of her monthly income. How much was her previous monthly income?",
+  "steps": [
+    "Let's denote Mrs. Snyder's previous monthly income as \\( X \\).",
+    "Initially, 40% of her monthly income was spent on rent and utilities. Therefore, she spent \\( 0.4X \\) on rent and utilities.",
+    "Her salary increased by $600, so her new monthly income is \\( X + 600 \\).",
+    "Now, the rent and utilities amount to 25% of her new monthly income.",
+    "This means that \\( 0.25(X + 600) \\) is the amount she spends on rent and utilities now.",
+    "Since the amount spent on rent and utilities hasn't changed, \\( 0.4X = 0.25(X + 600) \\).",
+    "Now, I will solve the equation \\( 0.4X = 0.25(X + 600) \\).",
+    "First, I'll expand the right side: \\( 0.4X = 0.25X + 150 \\).",
+    "Next, I'll subtract \\( 0.25X \\) from both sides: \\( 0.4X - 0.25X = 150 \\).",
+    "This simplifies to \\( 0.15X = 150 \\).",
+    "Now, I'll solve for \\( X \\) by dividing both sides by 0.15: \\( X = \\frac{150}{0.15} \\).",
+    "Calculating \\( X = \\frac{150}{0.15} \\), which equals 1000.",
+    "Therefore, Mrs. Snyder's previous monthly income was $1000."
+  ],
+  "solution": "1000"
+}

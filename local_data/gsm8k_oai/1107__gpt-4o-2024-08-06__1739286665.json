@@ -1,0 +1,18 @@
+{
+  "query": "Roman the Tavernmaster has $20 worth of gold coins. He sells 3 gold coins to Dorothy. After she pays him, he has $12. How many gold coins does Roman have left?",
+  "steps": [
+    "Roman originally has $20 worth of gold coins.",
+    "After selling 3 gold coins to Dorothy, he has $12.",
+    "The difference in gold coins worth is $20 - $12 = $8.",
+    "The 3 gold coins sold to Dorothy are worth $8.",
+    "This means each gold coin is worth $8 / 3.",
+    "Calculating the value of each gold coin: $8 / 3 = $2.67 (approximately).",
+    "Roman initially had $20 worth of coins, and knowing each is worth $2.67, we calculate the initial number of coins.",
+    "The initial number of gold coins is $20 / $2.67.",
+    "Calculating Roman\u2019s initial number of gold coins: $20 / $2.67 \u2248 7.5 coins. (Let's check this assumption since coins should be a whole number).",
+    "The error suggests that the nominal value per coin calculation might have been inaccurate over such an arithmetic division since currency in coins can\u2019t be fractional.",
+    "Let\u2019s correct to a whole number that fits: If each coin was worth $4, initially $20 / $4 = 5 coins.",
+    "When 3 coins are sold: Original 5 - 3 leaves Roman with 2."
+  ],
+  "solution": "2"
+}

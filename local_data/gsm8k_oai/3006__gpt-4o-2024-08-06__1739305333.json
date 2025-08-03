@@ -1,0 +1,14 @@
+{
+  "query": "Gretchen's local ice cream shop offers 100 different flavors.  She was able to try a 1/4 of the flavors 2 years ago and double that amount last year.  How many more flavors will she need to try this year to have tried all 100 flavors?",
+  "steps": [
+    "Two years ago, Gretchen tried 1/4 of the flavors.",
+    "100 flavors * 1/4 = 25 flavors were tried two years ago.",
+    "Last year, she tried double the amount she tried two years ago.",
+    "Double of 25 flavors = 25 * 2 = 50 flavors were tried last year.",
+    "To find out how many unique flavors she has tried thus far, add the flavors she tried over the two years.",
+    "25 flavors (two years ago) + 50 flavors (last year) = 75 flavors have been tried so far.",
+    "There are 100 total flavors and she's already tried 75.",
+    "100 total flavors - 75 flavors tried = 25 more flavors left to try."
+  ],
+  "solution": "25"
+}

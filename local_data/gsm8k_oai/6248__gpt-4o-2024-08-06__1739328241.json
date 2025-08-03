@@ -1,0 +1,15 @@
+{
+  "query": "James has five huskies, two pitbulls and four golden retrievers, all female. They became pregnant and each golden retriever had two more pups than each husky. If the huskies and pitbulls had 3 pups each, How many more pups than adult dogs are there in total?",
+  "steps": [
+    "First, I need to calculate the number of pups each husky has. Each husky had 3 pups since it is mentioned that huskies and pitbulls had 3 pups each.",
+    "James has five huskies. Therefore, to find the total number of pups from all huskies, I multiply the number of huskies by the number of pups each had. That is 5 huskies * 3 pups/husky = 15 puppies.",
+    "Next, calculate the number of pups each pitbull has. Each pitbull had 3 pups.",
+    "James has two pitbulls. Therefore, to find the total number of pups from all pitbulls, I multiply the number of pitbulls by the number of pups each had. That is 2 pitbulls * 3 pups/pitbull = 6 puppies.",
+    "Now, to find the number of pups each golden retriever has. Each golden retriever had 2 more pups than each husky. Since each husky had 3 pups, each golden retriever had 3 + 2 = 5 pups.",
+    "James has four golden retrievers. Therefore, to find the total number of pup from all golden retrievers, I multiply the number of golden retrievers by the number of pups each had. That is 4 golden retrievers * 5 pups/golden retriever = 20 puppies.",
+    "Now, I can find out the total number of puppies from all dogs. So I add the puppies from the huskies, pitbulls, and golden retrievers: 15 + 6 + 20 = 41.",
+    "Next, I calculate the total number of adult dogs James has. He has five huskies, two pitbulls, and four golden retrievers, which is a total of 5 + 2 + 4 = 11 adult dogs.",
+    "Finally, I need to find the difference between the number of puppies and adult dogs which is 41 puppies - 11 adult dogs = 30 more puppies than adult dogs."
+  ],
+  "solution": "30"
+}

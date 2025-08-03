@@ -1,0 +1,23 @@
+{
+  "query": "Linda was going to pass out homemade cookies to each of her 24 classmates on the last day of school.  She wanted to give each student 10 cookies and wanted to make chocolate chip cookies and oatmeal raisin cookies.  Each cookie recipe made exactly 4 dozen cookies.  She was able to make 2 batches of chocolate chip cookies before running out of chocolate chips.  She made 1 batch of oatmeal raisin cookies.  How many more batches of cookies does Linda need to bake?",
+  "steps": [
+    "First, calculate the total number of cookies Linda wants to distribute.",
+    "She wants to give each of her 24 classmates 10 cookies.",
+    "24 classmates x 10 cookies per classmate = 240 cookies total.",
+    "Next, determine how many cookies she already has.",
+    "Each batch makes 4 dozen cookies, and a dozen is 12 cookies.",
+    "So, each batch makes 4 x 12 = 48 cookies.",
+    "She made 2 batches of chocolate chip cookies.",
+    "2 batches x 48 cookies per batch = 96 chocolate chip cookies.",
+    "She also made 1 batch of oatmeal raisin cookies.",
+    "1 batch x 48 cookies per batch = 48 oatmeal raisin cookies.",
+    "Add the number of cookies from both types.",
+    "96 chocolate chip cookies + 48 oatmeal raisin cookies = 144 cookies.",
+    "Now, calculate how many more cookies she needs.",
+    "240 cookies needed - 144 cookies already made = 96 more cookies needed.",
+    "Determine how many more batches are needed to make these 96 cookies.",
+    "Each batch makes 48 cookies.",
+    "96 more cookies needed \u00f7 48 cookies per batch = 2 batches."
+  ],
+  "solution": "2"
+}

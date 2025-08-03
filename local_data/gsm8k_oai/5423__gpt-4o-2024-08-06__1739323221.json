@@ -1,0 +1,15 @@
+{
+  "query": "John skateboarded for 10 miles and then walked another 4 miles to the park. He then skated all the way back home. How many miles has John skateboarded in total?",
+  "steps": [
+    "First, identify the distances John covered using the skateboard.",
+    "John skateboarded 10 miles to the park.",
+    "He walked 4 miles, which does not involve skateboarding.",
+    "He then skateboarded all the way back home.",
+    "To find the skating distance on the return trip, I must consider the entire distance from the park back to home.",
+    "The total distance from home to the park is 10 miles by skateboard plus 4 miles on foot, which is 14 miles.",
+    "Hence, John skateboarded 14 miles on the return trip.",
+    "Add the distances John skateboarded: 10 miles initially plus 14 miles on the return.",
+    "10 miles + 14 miles equals 24 miles."
+  ],
+  "solution": "24"
+}

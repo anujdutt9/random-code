@@ -1,0 +1,22 @@
+{
+  "query": "Grace is looking to plant some lettuce in her raised bed garden. Her raised bed is comprised of 2 large beds on top with 2 medium beds on the bottom. The top bed can hold 4 rows of lettuce with 25 seeds being sown per row. The medium bed can house 3 rows with 20 seeds being sown per row. How many seeds can Grace plant in all four beds of her raised bed garden?",
+  "steps": [
+    "Grace has 2 large beds on the top of her raised bed garden.",
+    "Each large bed can hold 4 rows of lettuce.",
+    "Each row in a large bed can have 25 seeds.",
+    "First, I need to calculate the total number of seeds Grace can plant in one large bed.",
+    "In one large bed: 4 rows \u00d7 25 seeds per row = 100 seeds.",
+    "Grace has 2 large beds, so I need to multiply the seeds for one large bed by 2.",
+    "In 2 large beds: 100 seeds per bed \u00d7 2 beds = 200 seeds.",
+    "Next, there are 2 medium beds at the bottom.",
+    "Each medium bed can hold 3 rows.",
+    "Each row in a medium bed can have 20 seeds.",
+    "First, I need to calculate the total number of seeds Grace can plant in one medium bed.",
+    "In one medium bed: 3 rows \u00d7 20 seeds per row = 60 seeds.",
+    "Grace has 2 medium beds, so I need to multiply the seeds for one medium bed by 2.",
+    "In 2 medium beds: 60 seeds per bed \u00d7 2 beds = 120 seeds.",
+    "To find the total number of seeds, I need to add the seeds from the large beds and the medium beds.",
+    "Total seeds = seeds from large beds + seeds from medium beds = 200 seeds + 120 seeds = 320 seeds."
+  ],
+  "solution": "320"
+}

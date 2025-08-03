@@ -1,0 +1,21 @@
+{
+  "query": "The price per organic egg is 50 cents. The price of a tray of eggs that contains 30 eggs is $12. How much can you save, in cents, per egg if you buy a tray versus individual eggs?",
+  "steps": [
+    "First, I need to calculate the total price of buying 30 eggs individually.",
+    "The price per organic egg is 50 cents.",
+    "If I buy 30 eggs individually, the total cost would be 30 eggs * 50 cents/egg.",
+    "30 * 50 = 1500 cents.",
+    "So, the cost of buying 30 eggs individually is 1500 cents.",
+    "Now, I need to calculate the price per egg when buying a tray of 30 eggs.",
+    "The price of a tray of eggs that contains 30 eggs is $12.",
+    "First, convert $12 to cents: $12 = 1200 cents.",
+    "The cost per egg in the tray is 1200 cents / 30 eggs.",
+    "1200 / 30 = 40 cents.",
+    "So, the price per egg when buying a tray is 40 cents.",
+    "Next, I find the difference in price per egg between buying individually and buying in a tray.",
+    "Price per egg individually is 50 cents, and price per egg in a tray is 40 cents.",
+    "The difference is 50 cents - 40 cents.",
+    "50 - 40 = 10 cents."
+  ],
+  "solution": "10"
+}

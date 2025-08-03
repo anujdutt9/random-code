@@ -1,0 +1,19 @@
+{
+  "query": "A survey was conducted by a school to the parents about their children's online class experience. Fifteen percent of the respondents rated Excellent; 60% rated Very Satisfactory; 80% of the remaining respondents rated Satisfactory and the rest rated Needs Improvement. If 120 parents answered the survey, how many of them rated Needs Improvement?",
+  "steps": [
+    "First, I need to determine how many parents each percentage represents based on the total number of parents, which is 120.",
+    "15% of the respondents rated Excellent.",
+    "Calculating 15% of 120, I get 0.15 * 120 = 18 parents rated Excellent.",
+    "Next, 60% of the respondents rated Very Satisfactory.",
+    "Calculating 60% of 120, I get 0.60 * 120 = 72 parents rated Very Satisfactory.",
+    "Now, I need to find out how many parents are left after accounting for those who rated Excellent and Very Satisfactory.",
+    "The number of parents that rated either Excellent or Very Satisfactory is 18 + 72 = 90 parents.",
+    "The remaining respondents are 120 - 90 = 30 parents.",
+    "80% of the remaining respondents rated Satisfactory.",
+    "Calculating 80% of 30, I get 0.80 * 30 = 24 parents rated Satisfactory.",
+    "Now, I need to find out how many parents rated Needs Improvement.",
+    "The rest of the remaining respondents rated Needs Improvement.",
+    "Therefore, the number of parents who rated Needs Improvement is 30 - 24 = 6 parents."
+  ],
+  "solution": "6"
+}

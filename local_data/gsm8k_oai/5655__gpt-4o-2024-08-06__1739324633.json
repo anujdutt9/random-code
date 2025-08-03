@@ -1,0 +1,16 @@
+{
+  "query": "Lolita can drink 3 boxes of milk during weekdays. During Saturdays, she can drink twice the number of boxes of milk than on the weekdays, and during Sundays, she can drink thrice the number of boxes of milk than on the weekdays. How many boxes of milk does she drink per week?",
+  "steps": [
+    "First, I need to calculate how many boxes of milk Lolita drinks during the weekdays.",
+    "She drinks 3 boxes of milk each weekday.",
+    "There are 5 weekdays in a week.",
+    "Calculate the total boxes of milk for the weekdays: 3 boxes/day * 5 days = 15 boxes.",
+    "Now, calculate the number of boxes she drinks on Saturday.",
+    "She drinks twice the number of boxes on a weekday on Saturdays: 3 boxes * 2 = 6 boxes.",
+    "Next, calculate the number of boxes she drinks on Sunday.",
+    "She drinks thrice the number of boxes on a weekday on Sundays: 3 boxes * 3 = 9 boxes.",
+    "Add up all the boxes of milk she drinks over the entire week.",
+    "Total boxes for the week: 15 (weekday) + 6 (Saturday) + 9 (Sunday) = 30 boxes."
+  ],
+  "solution": "30"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "Barry stands on his head for 10 minutes at a time, but then he must sit for 5 minutes before he can take another turn standing on his head.  How many turns can Barry take standing on his head during a single 2-hour period?",
+  "steps": [
+    "Barry stands on his head for 10 minutes at a time.",
+    "After each attempt, he needs to sit for 5 minutes before the next turn.",
+    "This means each cycle of standing on his head and sitting is 10 + 5 = 15 minutes.",
+    "We need to determine how many cycles Barry can complete in a 2-hour period.",
+    "Two hours is 120 minutes.",
+    "To find out how many cycles fit in 120 minutes, we divide 120 by the length of one cycle.",
+    "120 \u00f7 15 = 8 cycles."
+  ],
+  "solution": "8"
+}

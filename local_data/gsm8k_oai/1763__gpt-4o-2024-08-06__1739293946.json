@@ -1,0 +1,13 @@
+{
+  "query": "My brother and I have thirty minutes to go to school, without being late. It takes us 15 minutes to arrive at the school gate, and another 6 minutes to get to the school building. How much time do we have to get to our room, without being late?",
+  "steps": [
+    "I need to determine the total time it takes to get to the room at school.",
+    "We have 30 minutes in total to get to school.",
+    "Out of these 30 minutes, 15 minutes are needed to get to the school gate.",
+    "So after reaching the school gate, 30 - 15 = 15 minutes remain.",
+    "From the school gate, it takes another 6 minutes to reach the school building.",
+    "Subtracting these 6 minutes from the remaining 15 minutes, 15 - 6 = 9 minutes remain.",
+    "Therefore, we have 9 minutes left to get to the room without being late."
+  ],
+  "solution": "9"
+}

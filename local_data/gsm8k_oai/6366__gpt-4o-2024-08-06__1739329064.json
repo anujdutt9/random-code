@@ -1,0 +1,12 @@
+{
+  "query": "Elsa started the day with 40 marbles.  At breakfast, she lost 3 marbles while playing.  At lunchtime, she gave her best friend Susie 5 marbles.  In the afternoon, Elsa's mom bought her a new bag with 12 marbles.  Susie came back and gave Elsa twice as many marbles as she received at lunch.  How many marbles did Elsa end the day with?",
+  "steps": [
+    "Elsa started the day with 40 marbles.",
+    "At breakfast, Elsa lost 3 marbles. So, 40 - 3 = 37 marbles remain.",
+    "At lunchtime, Elsa gave her best friend Susie 5 marbles. So, 37 - 5 = 32 marbles remain.",
+    "In the afternoon, Elsa's mom bought her a new bag with 12 marbles. So, 32 + 12 = 44 marbles.",
+    "Susie came back and gave Elsa twice as many marbles as she received at lunch. At lunch, Susie received 5 marbles, so she gave back 5 * 2 = 10 marbles.",
+    "Adding the marbles Susie returned to Elsa's total: 44 + 10 = 54 marbles."
+  ],
+  "solution": "54"
+}

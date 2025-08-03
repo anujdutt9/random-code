@@ -1,0 +1,21 @@
+{
+  "query": "Carson needs to mow the lawn and plant some flowers. Carson has to mow 40 lines to cover the whole yard, and it takes him 2 minutes to mow one line. He also needs to plant 8 rows of flowers, each with 7 flowers, and it takes him half a minute to plant each flower. How many minutes will Carson spend gardening?",
+  "steps": [
+    "I start by calculating the total time Carson needs to mow the lawn.",
+    "Carson has to mow 40 lines.",
+    "It takes him 2 minutes to mow one line.",
+    "So, for mowing, I multiply 40 lines by 2 minutes per line.",
+    "40 lines * 2 minutes/line = 80 minutes",
+    "Now, I calculate the total time Carson needs to plant the flowers.",
+    "Carson needs to plant 8 rows of flowers.",
+    "Each row contains 7 flowers.",
+    "So, I calculate the total number of flowers by multiplying 8 rows by 7 flowers/row.",
+    "8 rows * 7 flowers/row = 56 flowers",
+    "It takes Carson half a minute to plant each flower.",
+    "So, for planting, I multiply 56 flowers by 0.5 minutes/flower.",
+    "56 flowers * 0.5 minutes/flower = 28 minutes",
+    "I add the time spent mowing and planting to find the total time spent gardening.",
+    "80 minutes (mowing) + 28 minutes (planting) = 108 minutes"
+  ],
+  "solution": "108"
+}

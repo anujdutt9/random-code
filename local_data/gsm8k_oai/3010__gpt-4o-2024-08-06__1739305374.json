@@ -1,0 +1,14 @@
+{
+  "query": "Jon's laundry machine can do 5 pounds of laundry at a time.  4 shirts weigh 1 pound and 2 pairs of pants weigh 1 pound.  If he needs to wash 20 shirts and 20 pants, how many loads of laundry does he have to do?",
+  "steps": [
+    "First, I need to determine how many pounds the shirts weigh. Given that 4 shirts weigh 1 pound, I calculate how much 20 shirts weigh by dividing 20 by 4.",
+    "20 shirts divided by 4 means the shirts weigh 5 pounds total.",
+    "Next, I need to calculate how much the pants weigh. Since 2 pairs of pants weigh 1 pound, I find out how much 20 pairs of pants weigh by dividing 20 by 2.",
+    "20 pants divided by 2 means the pants weigh 10 pounds total.",
+    "Now I can combine the weight of the shirts and pants. The total weight is 5 pounds (shirts) plus 10 pounds (pants).",
+    "The total laundry weight is 15 pounds.",
+    "The laundry machine can handle 5 pounds at a time. To find out how many loads are needed, I divide the total weight by the machine's capacity, which is 5 pounds.",
+    "15 pounds divided by 5 pounds per load results in 3 loads."
+  ],
+  "solution": "3"
+}

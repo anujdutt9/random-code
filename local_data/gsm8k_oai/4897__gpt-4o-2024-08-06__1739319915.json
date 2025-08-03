@@ -1,0 +1,22 @@
+{
+  "query": "Olaf has an aquarium. He has fish in 3 different colors: orange, green, and blue. Blue fish make up half of all the fish in the aquarium. There are 15 fewer orange fish than blue fish. How many green fish are there when the total number of fish in the aquarium is 80?",
+  "steps": [
+    "Let the number of blue fish be represented by \\( b \\).",
+    "From the problem, blue fish make up half of all the fish in the aquarium.",
+    "This means that \\( b = \\frac{80}{2} \\).",
+    "Calculating, \\( b = 40 \\).",
+    "There are 15 fewer orange fish than blue fish.",
+    "The number of orange fish can be represented by \\( b - 15 \\).",
+    "Substituting the value of \\( b \\), the number of orange fish is \\( 40 - 15 = 25 \\).",
+    "The total number of fish in the aquarium is the sum of blue, orange, and green fish.",
+    "Let the number of green fish be \\( g \\).",
+    "We know \\( b + (b - 15) + g = 80 \\).",
+    "Substituting the values we have, \\( 40 + 25 + g = 80 \\).",
+    "Simplifying, \\( 65 + g = 80 \\).",
+    "To find \\( g \\), we solve \\( 65 + g = 80 \\) for \\( g \\).",
+    "Subtract 65 from both sides to isolate \\( g \\).",
+    "This gives us \\( g = 80 - 65 \\).",
+    "Calculating, \\( g = 15 \\)."
+  ],
+  "solution": "15"
+}

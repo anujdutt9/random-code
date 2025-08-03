@@ -1,0 +1,19 @@
+{
+  "query": "There are 9 bicycles and 16 cars in the garage. How many wheels are there in the garage?",
+  "steps": [
+    "First, I need to determine how many wheels are on one bicycle.",
+    "A standard bicycle has 2 wheels.",
+    "Now, I need to figure out the total number of wheels from the bicycles.",
+    "There are 9 bicycles, each with 2 wheels, so the total wheels from bicycles is 9 * 2.",
+    "Calculating 9 * 2 gives me 18 wheels from the bicycles.",
+    "Next, I determine how many wheels are on one car.",
+    "A standard car has 4 wheels.",
+    "Now, I need to figure out the total number of wheels from the cars.",
+    "There are 16 cars, each with 4 wheels, so the total wheels from cars is 16 * 4.",
+    "Calculating 16 * 4 gives me 64 wheels from the cars.",
+    "Finally, I need to find the total number of wheels in the garage by adding the wheels from the bicycles and the wheels from the cars.",
+    "The total number of wheels is 18 (from bicycles) + 64 (from cars).",
+    "Calculating 18 + 64 gives me 82 wheels in total."
+  ],
+  "solution": "82"
+}

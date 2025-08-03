@@ -1,0 +1,17 @@
+{
+  "query": "To raise funds for her local soup kitchen, Didi enlisted the help of her family, friends, and neighbors. They donated 10 same-size cakes that she sliced into 8 slices per cake and started selling a slice for $1. A local business owner was so impressed by Didi's efforts that she offered to donate 50 cents for each slice Didi sold. A second business owner also offered to donate a quarter for each slice sold. If Didi sold all the slices, how much money did she raise?",
+  "steps": [
+    "To solve this problem, first I need to determine how many slices of cake were sold in total.",
+    "Didi had 10 cakes, and each cake was sliced into 8 pieces.",
+    "Therefore, the total number of slices is calculated by multiplying the number of cakes by the number of slices per cake: 10 cakes * 8 slices per cake = 80 slices.",
+    "Now, I need to calculate the total money earned from selling the slices.",
+    "Since each slice is sold for $1, Didi earns $1 per slice sold. So, for 80 slices, she earns 80 * $1 = $80.",
+    "Next, I need to account for the donations made by the business owners for each slice sold.",
+    "The first business owner donates 50 cents per slice. For 80 slices, the donation is 80 * $0.50 = $40.",
+    "The second business owner donates 25 cents per slice. For 80 slices, the donation is 80 * $0.25 = $20.",
+    "I will now add up all the money raised: the money from sales plus both business owners' donations.",
+    "Total money raised from sales = $80.\nTotal donation from the first business owner = $40.\nTotal donation from the second business owner = $20.",
+    "Adding these amounts gives the total money raised: $80 + $40 + $20 = $140."
+  ],
+  "solution": "140"
+}

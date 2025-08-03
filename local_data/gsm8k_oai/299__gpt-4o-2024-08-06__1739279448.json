@@ -1,0 +1,17 @@
+{
+  "query": "Basil gets 1/2 of a  dog cookie in the morning and before bed.  She gets 2 whole cookies during the day.  Basil\u2019s cookies are packaged with 45 cookies per box.  How many boxes will she need to last her for 30 days?",
+  "steps": [
+    "First, I need to figure out how many cookies Basil gets in one full day.",
+    "Basil receives 1/2 of a cookie in the morning and 1/2 of a cookie before bed.",
+    "1/2 cookie in the morning + 1/2 cookie before bed = 1 cookie in total for morning and night.",
+    "In addition to the morning and night cookies, Basil gets 2 whole cookies during the day.",
+    "So, in total, Basil gets 1 (morning + bed) + 2 (during the day) = 3 cookies per day.",
+    "Next, I need to calculate how many cookies Basil needs for 30 days.",
+    "Basil needs 3 cookies per day for 30 days, so I multiply 3 cookies/day by 30 days.",
+    "3 cookies/day * 30 days = 90 cookies needed in total for 30 days.",
+    "Now, I know the cookies come 45 per box, so I need to determine how many boxes are needed for 90 cookies.",
+    "To do that, I divide the total cookies needed (90) by the number of cookies per box (45).",
+    "90 cookies / 45 cookies/box = 2 boxes."
+  ],
+  "solution": "2"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "Edith is a receptionist at a local office and is organizing files into cabinets. She had 60 files and finished organizing half of them this morning. She has another 15 files to organize in the afternoon and the rest of the files are missing. How many files are missing?",
+  "steps": [
+    "Edith started with a total of 60 files.",
+    "She organized half of them this morning. Half of 60 is 60 / 2 = 30 files.",
+    "Edith has 15 more files to organize in the afternoon.",
+    "The total number of files accounted for is the 30 files organized in the morning plus the 15 files for the afternoon.",
+    "So, 30 + 15 = 45 files have been accounted for.",
+    "To find out how many files are missing, I subtract the accounted files (45) from the total files (60).",
+    "60 - 45 = 15 files are missing."
+  ],
+  "solution": "15"
+}

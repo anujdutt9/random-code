@@ -1,0 +1,15 @@
+{
+  "query": "Ellis is going to take a road trip with her family. First, she needs to figure out how many bottles of water she should bring for everyone. There will be four people total: Ellis, her mother, her sister, and her aunt. They will be on the road to their destination for 8 hours and drive 8 hours to return home. Every hour each person will want to drink 1/2 a bottle of water. How many water bottles will Ellis' family need total?",
+  "steps": [
+    "First, I need to calculate the total number of hours they will be spending on the road.",
+    "They are driving 8 hours to their destination and 8 hours back home.",
+    "So, the total number of hours driving is 8 + 8 = 16 hours.",
+    "Next, I need to calculate the amount of water each person will drink in these 16 hours.",
+    "Each person drinks 1/2 a bottle of water per hour.",
+    "For 16 hours, each person will drink 16 * 1/2 = 8 bottles of water.",
+    "Now, I need to determine the total amount of water for all four people.",
+    "There are four people: Ellis, her mother, her sister, and her aunt.",
+    "Each person needs 8 bottles of water, so for four people, the total is 4 * 8 = 32 bottles of water."
+  ],
+  "solution": "32"
+}

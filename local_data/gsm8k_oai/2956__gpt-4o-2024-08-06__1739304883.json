@@ -1,0 +1,14 @@
+{
+  "query": "In a basketball game, Cyrus made exactly eighty percent of the shots he attempted. He attempted twenty shots. How many times did he miss the shots?",
+  "steps": [
+    "Cyrus attempted a total of 20 shots.",
+    "He made 80% of the shots he attempted.",
+    "I need to calculate the number of shots he made by applying 80% to his total attempts.",
+    "80% of 20 can be calculated by multiplying 20 by 0.8.",
+    "20 * 0.8 = 16, so Cyrus made 16 shots.",
+    "To find the number of shots he missed, I need to subtract the number of made shots from the total attempts.",
+    "Cyrus attempted 20 shots and made 16, so he missed 20 - 16 shots.",
+    "20 - 16 = 4, so Cyrus missed 4 shots."
+  ],
+  "solution": "4"
+}

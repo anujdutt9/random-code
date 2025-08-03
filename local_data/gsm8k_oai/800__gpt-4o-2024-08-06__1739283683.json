@@ -1,0 +1,22 @@
+{
+  "query": "Cappuccinos cost $2, iced teas cost $3, cafe lattes cost $1.5 and espressos cost $1 each. Sandy orders some drinks for herself and some friends. She orders three cappuccinos, two iced teas, two cafe lattes, and two espressos. How much change does she receive back for a twenty-dollar bill?",
+  "steps": [
+    "First, I need to calculate the total cost of the cappuccinos.",
+    "Cappuccinos cost $2 each and Sandy orders three.",
+    "The cost for the cappuccinos is 3 cappuccinos \u00d7 $2/cappuccino = $6.",
+    "Next, I calculate the total cost of the iced teas.",
+    "Iced teas cost $3 each and Sandy orders two.",
+    "The cost for the iced teas is 2 iced teas \u00d7 $3/iced tea = $6.",
+    "Now, I calculate the total cost of the cafe lattes.",
+    "Cafe lattes cost $1.5 each and Sandy orders two.",
+    "The cost for the cafe lattes is 2 lattes \u00d7 $1.5/latte = $3.",
+    "Next, I calculate the total cost of the espressos.",
+    "Espressos cost $1 each and Sandy orders two.",
+    "The cost for the espressos is 2 espressos \u00d7 $1/espresso = $2.",
+    "Now, I add all the drink costs together to find the total cost.",
+    "Total cost = $6 + $6 + $3 + $2 = $17.",
+    "Sandy pays with a twenty-dollar bill, so I need to calculate the change.",
+    "Change received = $20 - $17 = $3."
+  ],
+  "solution": "3"
+}

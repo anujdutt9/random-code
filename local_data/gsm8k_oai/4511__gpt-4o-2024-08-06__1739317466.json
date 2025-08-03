@@ -1,0 +1,20 @@
+{
+  "query": "Gerald brings chocolate bars to school for his class to share. Each bar contains 8 squares. He brings 7 total bars. His teacher says that for every bar he brings, she will bring two more identical ones. There are 24 students in class. How many squares of chocolate does each student get?",
+  "steps": [
+    "Gerald brings 7 chocolate bars to school.",
+    "Each chocolate bar has 8 squares.",
+    "First, calculate the total number of squares in the bars Gerald brings.",
+    "7 bars * 8 squares per bar = 56 squares.",
+    "The teacher brings two more bars for each one Gerald brings.",
+    "Calculate the total number of bars the teacher brings.",
+    "2 bars * 7 = 14 bars.",
+    "Now calculate the total number of squares in the bars the teacher brings.",
+    "14 bars * 8 squares per bar = 112 squares.",
+    "Add the squares from Gerald's and the teacher's bars together to find the total number of squares.",
+    "56 squares + 112 squares = 168 squares.",
+    "There are 24 students in class.",
+    "To find out how many squares each student gets, divide the total number of squares by the number of students.",
+    "168 squares / 24 students = 7 squares per student."
+  ],
+  "solution": "7"
+}

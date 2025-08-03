@@ -1,0 +1,13 @@
+{
+  "query": "Cooper is building a brick fence around all four sides of his property.  Each of the four walls of his fence is 20 bricks long, 5 bricks high, and 2 bricks deep.  How many bricks does Cooper need to complete his fence?",
+  "steps": [
+    "To find out how many bricks Cooper needs in total, I first need to calculate the number of bricks used in one wall.",
+    "Each wall is 20 bricks long, 5 bricks high, and 2 bricks deep.",
+    "This means the number of bricks needed for one layer is 20 bricks since \"long\" implies the number of bricks in one layer.",
+    "Since the wall is also 2 bricks deep, this means there are 2 rows of 20 bricks in each layer, giving us 20 bricks * 2 = 40 bricks per layer.",
+    "The wall is 5 bricks high, so there are 5 layers of 40 bricks each.",
+    "To find the total number of bricks in one wall, I multiply the number of bricks per layer by the number of layers: 40 bricks/layer * 5 layers = 200 bricks per wall.",
+    "Cooper has four identical walls, so I now multiply the number of bricks needed for one wall by 4: 200 bricks/wall * 4 walls = 800 bricks."
+  ],
+  "solution": "800"
+}

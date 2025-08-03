@@ -1,0 +1,16 @@
+{
+  "query": "Rob planned on spending three hours reading in preparation for his literature exam. If he ends up spending only three-quarters of this time reading, and he reads a page every fifteen minutes, how many pages did he read in this time?",
+  "steps": [
+    "Rob planned to spend three hours reading.",
+    "Since Rob ends up spending only three-quarters of this time reading, I need to calculate three-quarters of three hours.",
+    "Three hours is the same as 3 * 60 = 180 minutes.",
+    "I need to find three-quarters of 180 minutes.",
+    "Three-quarters of 180 is calculated as (3/4) * 180.",
+    "Calculate (3/4) * 180 = 135 minutes.",
+    "Rob spends 135 minutes reading.",
+    "Rob reads a page every 15 minutes.",
+    "To find the number of pages Rob reads, divide the total reading time by the time it takes to read one page.",
+    "135 minutes / 15 minutes per page = 9 pages."
+  ],
+  "solution": "9"
+}

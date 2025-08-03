@@ -1,0 +1,17 @@
+{
+  "query": "Peter is eating chips. Each chip is 10 calories. A bag has 24 chips and costs $2. If he wants to eat 480 calories, how much does he have to spend on chips?",
+  "steps": [
+    "Each chip is 10 calories.",
+    "Peter wants to eat 480 calories.",
+    "To find out how many chips he needs, divide 480 calories by 10 calories per chip.",
+    "480 calories / 10 calories per chip = 48 chips.",
+    "Peter needs 48 chips to eat 480 calories.",
+    "One bag contains 24 chips.",
+    "Calculate how many bags are needed by dividing 48 chips by 24 chips per bag.",
+    "48 chips / 24 chips per bag = 2 bags.",
+    "Each bag costs $2.",
+    "Calculate the total cost by multiplying 2 bags by $2 per bag.",
+    "2 bags * $2 per bag = $4."
+  ],
+  "solution": "4"
+}

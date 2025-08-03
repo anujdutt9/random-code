@@ -1,0 +1,20 @@
+{
+  "query": "The total average age of three friends is 40. Jared is ten years older than Hakimi, and Molly's age is 30. How old is Hakimi?",
+  "steps": [
+    "Let me first calculate the total sum of ages for the three friends. The average age is given as 40 for the three friends.",
+    "To find the total sum, I'll multiply the average age by the number of friends: 40 * 3 = 120.",
+    "So, the total sum of their ages is 120.",
+    "I know that Molly is 30 years old.",
+    "Since Molly is 30, I'll subtract her age from the total sum: 120 - 30 = 90.",
+    "Now, 90 is the combined age of Jared and Hakimi.",
+    "I'm given that Jared is 10 years older than Hakimi.",
+    "Let Hakimi's age be x. Thus, Jared's age will be x + 10.",
+    "Their combined age is x + (x + 10) which equals 90.",
+    "I will solve for x: x + x + 10 = 90.",
+    "Simplify the equation: 2x + 10 = 90.",
+    "Subtract 10 from both sides: 2x = 80.",
+    "Divide both sides by 2 to get x: x = 40.",
+    "Hakimi's age is 40."
+  ],
+  "solution": "40"
+}

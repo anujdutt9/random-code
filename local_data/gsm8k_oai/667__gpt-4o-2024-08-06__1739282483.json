@@ -1,0 +1,15 @@
+{
+  "query": "Madison takes her dog to the dog park. Counting Madison's dog, half the dogs have spots and 1/5 have pointy ears. If 15 dogs have spots, how many have pointy ears?",
+  "steps": [
+    "I'm given that half of the dogs have spots, and 1/5 have pointy ears.",
+    "It is stated that 15 dogs have spots.",
+    "Since 15 dogs with spots represent half of the total dogs, I need to find the total number of dogs.",
+    "Since half of the dogs have spots, this implies that the total number of dogs is twice the number of dogs with spots.",
+    "So, I calculate the total number of dogs as 15 (spots) * 2 = 30.",
+    "I'm also told that 1/5 of the dogs have pointy ears.",
+    "To find out how many dogs have pointy ears, I calculate 1/5 of the total number of dogs.",
+    "1/5 of 30 dogs is calculated as 30 / 5 = 6.",
+    "Therefore, 6 dogs have pointy ears."
+  ],
+  "solution": "6"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Josh works 8 hours a day, 5 days a week, 4 weeks a month. Carl is an intern and works 2 hours less than Josh every day. Josh gets $9 an hour and Carl, half that. How much does the company pay for the 2 together in one month?",
+  "steps": [
+    "First, I need to calculate how many hours Josh works in one day. It is given that Josh works 8 hours a day.",
+    "Next, I calculate how many days Josh works in one month. Josh works 5 days a week and 4 weeks a month, so he works 5 * 4 = 20 days per month.",
+    "Now, I calculate the total hours Josh works in one month. This is 8 hours per day * 20 days = 160 hours.",
+    "Josh's pay rate is $9 per hour. So, the total payment for Josh in one month is 160 hours * $9 = $1,440.",
+    "Next, I need to calculate how many hours Carl works in one day. Carl works 2 hours less than Josh every day, so Carl works 8 - 2 = 6 hours a day.",
+    "Using the same working schedule as Josh, Carl also works for 20 days in one month.",
+    "Now, I calculate the total hours Carl works in one month. This is 6 hours per day * 20 days = 120 hours.",
+    "Carl's pay rate is half of Josh's, which is $9/2 = $4.50 per hour.",
+    "The total payment for Carl in one month is 120 hours * $4.50 = $540.",
+    "Now, I sum up the total payments for Josh and Carl in one month. This is $1,440 + $540 = $1,980."
+  ],
+  "solution": "1980"
+}

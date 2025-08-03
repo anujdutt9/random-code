@@ -1,0 +1,22 @@
+{
+  "query": "Roberto is out for a hike. He travels uphill at 2 MPH and downhill at 3MPH. The trail is 5 miles long. 60% is uphill and the rest is downhill. How long does it take him to complete it in minutes?",
+  "steps": [
+    "First, I need to calculate the distances for uphill and downhill. Since 60% of the trail is uphill, I multiply 5 miles by 0.6.",
+    "5 miles * 0.6 = 3 miles of uphill.",
+    "The remaining 40% of the trail is downhill, so I multiply 5 miles by 0.4.",
+    "5 miles * 0.4 = 2 miles of downhill.",
+    "Roberto travels uphill at 2 MPH. To find out how long it takes him to cover the uphill part, I divide the uphill distance by his uphill speed.",
+    "3 miles / 2 MPH = 1.5 hours for the uphill part.",
+    "Roberto travels downhill at 3 MPH. I divide the downhill distance by his downhill speed to find out how long it takes him to cover the downhill part.",
+    "2 miles / 3 MPH = 2/3 hours for the downhill part.",
+    "To find the total time, I add the time for the uphill and downhill portions.",
+    "1.5 hours + 2/3 hours = 3/2 hours + 2/3 hours.",
+    "I need a common denominator to add these fractions. The least common denominator of 2 and 3 is 6.",
+    "Converting 3/2 to a fraction with a denominator of 6 gives me 9/6.",
+    "Converting 2/3 to a fraction with a denominator of 6 gives me 4/6.",
+    "Adding 9/6 and 4/6 gives me 13/6 hours.",
+    "To convert hours to minutes, I multiply by 60 (since 1 hour = 60 minutes).",
+    "13/6 hours * 60 minutes/hour = 130 minutes."
+  ],
+  "solution": "130"
+}

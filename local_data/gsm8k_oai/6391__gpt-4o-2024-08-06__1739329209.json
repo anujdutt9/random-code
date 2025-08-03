@@ -1,0 +1,20 @@
+{
+  "query": "Trevor and Joe were working together to finish a 500 piece puzzle.  They put the border together first and that was 75 pieces.  Trevor was able to place 105 pieces of the puzzle.  Joe was able to place three times the number of puzzle pieces as Trevor.  How many puzzle pieces are missing?",
+  "steps": [
+    "First, I need to figure out how many puzzle pieces Trevor placed.",
+    "It is given that Trevor was able to place 105 pieces.",
+    "Now, I need to calculate how many pieces Joe was able to place.",
+    "Joe placed three times the number of pieces that Trevor placed.",
+    "Since Trevor placed 105 pieces, Joe placed 3 * 105 = 315 pieces.",
+    "Next, I need to determine the total number of pieces placed by both Trevor and Joe.",
+    "Trevor placed 105 pieces, and Joe placed 315 pieces.",
+    "Adding these together gives 105 + 315 = 420 pieces.",
+    "The border of the puzzle was finished first, and it was 75 pieces.",
+    "I must include these 75 border pieces in the total count.",
+    "Adding the border pieces, the total number of pieces placed is 75 + 420 = 495 pieces.",
+    "The puzzle has 500 pieces in total.",
+    "To find the number of pieces missing, I need to subtract the total pieces placed from the total pieces in the puzzle.",
+    "500 total pieces - 495 placed pieces = 5 missing pieces."
+  ],
+  "solution": "5"
+}

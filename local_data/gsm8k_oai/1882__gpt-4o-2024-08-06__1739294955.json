@@ -1,0 +1,14 @@
+{
+  "query": "A banana tree has 100 bananas left after Raj cut some bananas from it. If Raj has eaten 70 bananas and has twice as many remaining in his basket, how many bananas were on the tree initially?",
+  "steps": [
+    "First, I need to determine how many bananas Raj has remaining in his basket.",
+    "Raj has twice as many bananas in his basket as he ate.",
+    "Raj ate 70 bananas, so he has 70 * 2 = 140 bananas remaining in his basket.",
+    "Now, I know the total number of bananas Raj had before eating: 70 (eaten) + 140 (remaining) = 210 bananas.",
+    "This means Raj cut 210 bananas from the tree.",
+    "The question states that the tree has 100 bananas left after Raj cut some bananas from it.",
+    "To find how many bananas were on the tree initially, I need to add the remaining bananas on the tree to the bananas Raj cut.",
+    "So, the initial number of bananas on the tree is 100 (remaining) + 210 (cut by Raj) = 310 bananas."
+  ],
+  "solution": "310"
+}

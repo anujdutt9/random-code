@@ -1,0 +1,16 @@
+{
+  "query": "Mary and Rose went shopping to buy presents. They spent the same amount. Mary bought two pairs of sunglasses for $50 each and a pair of jeans for $100.  Rose bought a pair of shoes at $150 and two decks of basketball cards. How much did one deck of basketball cards cost?",
+  "steps": [
+    "First, I need to calculate the total amount Mary spent.",
+    "Mary bought two pairs of sunglasses at $50 each. So, 2 pairs \u00d7 $50 = $100.",
+    "Mary also bought a pair of jeans for $100.",
+    "Now, I add the cost of the sunglasses and the jeans to get Mary's total expenditure: $100 (sunglasses) + $100 (jeans) = $200.",
+    "Mary spent a total of $200.",
+    "Rose spent the same amount as Mary, which means Rose also spent $200.",
+    "Rose bought a pair of shoes for $150.",
+    "Subtract the cost of the shoes from Rose's total expenditure to find the cost of the two decks of basketball cards: $200 (total) - $150 (shoes) = $50.",
+    "Rose bought two decks of basketball cards, and the total cost for both decks is $50.",
+    "To find the cost of one deck, I divide the total cost by the number of decks: $50 \u00f7 2 = $25."
+  ],
+  "solution": "25"
+}

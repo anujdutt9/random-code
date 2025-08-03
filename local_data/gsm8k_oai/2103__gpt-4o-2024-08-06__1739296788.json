@@ -1,0 +1,17 @@
+{
+  "query": "A father is buying sand to fill his son's new sandbox, but he is worried that the sand will be too heavy for his car.  The sandbox is square, with each side being 40 inches long.  If a 30-pound bag of sand is enough to fill 80 square inches of the sandbox to an adequate depth, how many pounds of sand are needed to fill the box completely?",
+  "steps": [
+    "First, I need to find the area of the sandbox, which is a square.",
+    "The side length of the square is given as 40 inches.",
+    "The formula for the area of a square is side length squared.",
+    "Calculating the area gives 40 inches * 40 inches = 1600 square inches.",
+    "I am given that a 30-pound bag of sand covers 80 square inches.",
+    "To find the number of 30-pound bags needed, I first need to determine how many groups of 80 square inches are in 1600 square inches.",
+    "I divide 1600 square inches by 80 square inches per bag: 1600 / 80 = 20.",
+    "So, 20 bags of sand are needed to fill the sandbox completely.",
+    "Each bag weighs 30 pounds.",
+    "Therefore, to find the total weight of the sand needed, I multiply the number of bags by the weight of each bag: 20 bags * 30 pounds/bag.",
+    "Calculating the total weight gives 600 pounds."
+  ],
+  "solution": "600"
+}

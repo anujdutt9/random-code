@@ -1,0 +1,17 @@
+{
+  "query": "Mr. Maximilian is a dairy animal farmer and has 140 cows on his farm. Forty percent of the cows on his farm have a red spot, 25 percent of the cows without a red spot have a blue spot and the remaining cows do not have any spot. How many cows on the farm have no spot?",
+  "steps": [
+    "First, I need to calculate how many cows have a red spot. Forty percent of the 140 cows have a red spot.",
+    "To find this, I calculate 40% of 140. This is 0.40 \u00d7 140.",
+    "0.40 \u00d7 140 = 56. So, 56 cows have a red spot.",
+    "Next, I need to find out how many cows do not have a red spot.",
+    "The total number of cows is 140, and 56 cows have a red spot, so 140 - 56 = 84 cows do not have a red spot.",
+    "Twenty-five percent of the cows without a red spot have a blue spot. I need to calculate 25% of the 84 cows without a red spot.",
+    "25% of 84 is 0.25 \u00d7 84.",
+    "0.25 \u00d7 84 = 21. So, 21 cows have a blue spot.",
+    "Now, I calculate how many cows have no spots at all. These cows are the ones without a red spot and without a blue spot.",
+    "There are 84 cows without a red spot, and 21 of these have a blue spot.",
+    "So, 84 - 21 = 63 cows have no spot at all."
+  ],
+  "solution": "63"
+}

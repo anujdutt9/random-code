@@ -1,0 +1,16 @@
+{
+  "query": "Mikaela was repainting her bathroom. She bought 16 containers of paint to cover the four equally-sized walls. At the last minute, she decided to put tile on one wall in the bathroom and paint flowers on the ceiling with one container of paint instead. How many containers of paint will she have left over?",
+  "steps": [
+    "Mikaela bought 16 containers of paint for four equally-sized walls.",
+    "One container of paint was for the ceiling, where she painted flowers.",
+    "Now, she will use paint for 3 walls instead of 4, as she decided to tile one wall.",
+    "This means 16 containers of paint are for the 4 walls, so each wall would originally need 16 / 4 = 4 containers of paint.",
+    "Since she tiles one wall, she uses 4 containers less for the walls.",
+    "She uses 1 container for the ceiling with the flowers.",
+    "So now, she uses a total of 3 walls * 4 containers/wall = 12 containers for the walls.",
+    "Adding the 1 container for the ceiling, it becomes 12 + 1 = 13 containers used in total.",
+    "She originally bought 16 containers, so the remaining or leftover containers are 16 - 13.",
+    "Thus, Mikaela will have 3 containers of paint left over."
+  ],
+  "solution": "3"
+}

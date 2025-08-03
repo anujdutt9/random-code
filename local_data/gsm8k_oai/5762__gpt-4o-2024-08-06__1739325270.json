@@ -1,0 +1,17 @@
+{
+  "query": "The school nurse must conduct lice checks at the elementary school. She must check 26 Kindergarteners, 19 first graders, 20 second graders, and 25 third graders. If each check takes 2 minutes, how many hours will it take the nurse to complete all the checks?",
+  "steps": [
+    "First, I need to find the total number of students that need checking.",
+    "I will add the number of students from each grade: 26 Kindergarteners + 19 first graders + 20 second graders + 25 third graders.",
+    "26 + 19 = 45",
+    "45 + 20 = 65",
+    "65 + 25 = 90",
+    "There are 90 students in total.",
+    "Each lice check takes 2 minutes. So, I multiply the number of students by the time it takes for each check.",
+    "90 students * 2 minutes per student = 180 minutes",
+    "Now, I need to convert the total minutes into hours. There are 60 minutes in an hour.",
+    "I will divide the total minutes by 60 to find the amount in hours: 180 minutes \u00f7 60 minutes/hour.",
+    "180 \u00f7 60 = 3"
+  ],
+  "solution": "3"
+}

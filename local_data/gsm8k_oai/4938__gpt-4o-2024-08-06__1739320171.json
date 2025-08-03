@@ -1,0 +1,12 @@
+{
+  "query": "Kayden's business delivered an equal number of the 400 cartons of milk it had processed to four of its customers in different towns. However, each of the four customers returned 60 cartons damaged during delivery. What's the total number of cartons that were accepted by the customers?",
+  "steps": [
+    "Kayden's business processed a total of 400 cartons of milk.",
+    "These 400 cartons were delivered equally to four customers.",
+    "To determine how many cartons each customer received, divide 400 cartons by 4 customers: 400 / 4 = 100 cartons per customer.",
+    "Each customer returned 60 cartons due to damage during delivery.",
+    "Therefore, the number of cartons accepted by each customer is 100 (delivered) - 60 (returned) = 40 cartons.",
+    "To find the total number of cartons accepted by all four customers, multiply the number accepted by each customer by the number of customers: 40 cartons per customer * 4 customers = 160 cartons."
+  ],
+  "solution": "160"
+}

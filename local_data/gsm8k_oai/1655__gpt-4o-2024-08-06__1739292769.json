@@ -1,0 +1,21 @@
+{
+  "query": "Abe owns a restaurant. Every month he spends a third of his budget on food, a quarter of his budget on restaurant supplies, and the rest of his budget on employee wages. If his budget is $3000 and he uses it up every month, how much is he spending on wages?",
+  "steps": [
+    "Abe's total monthly budget is $3000.",
+    "He spends a third of his budget on food.",
+    "To calculate the amount spent on food, I take one third of $3000: $3000 * (1/3).",
+    "$3000 * (1/3) = $3000 / 3 = $1000.",
+    "Abe spends $1000 on food.",
+    "He spends a quarter of his budget on restaurant supplies.",
+    "To calculate the amount spent on supplies, I take one quarter of $3000: $3000 * (1/4).",
+    "$3000 * (1/4) = $3000 / 4 = $750.",
+    "Abe spends $750 on restaurant supplies.",
+    "I need to find out how much of his budget he spends on wages.",
+    "He uses up all of his budget every month, so the remaining budget goes towards wages.",
+    "To calculate the amount spent on wages, I subtract the amounts spent on food and supplies from the total budget: $3000 - $1000 - $750.",
+    "$3000 - $1000 = $2000.",
+    "$2000 - $750 = $1250.",
+    "Abe spends $1250 on employee wages."
+  ],
+  "solution": "1250"
+}

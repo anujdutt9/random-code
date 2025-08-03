@@ -1,0 +1,18 @@
+{
+  "query": "A warehouse store sells cartons of gum. Each carton contains 5 packs of gum, and there are 3 sticks of gum in each pack. Each brown box contains 4 cartons of gum. How many sticks of gum are there in 8 brown boxes?",
+  "steps": [
+    "First, determine how many packs of gum are in one carton.",
+    "One carton contains 5 packs of gum.",
+    "Determine how many sticks of gum are in one pack.",
+    "Each pack contains 3 sticks of gum.",
+    "Calculate the number of sticks of gum in one carton.",
+    "Since there are 5 packs in a carton and each pack has 3 sticks, one carton has 5 x 3 = 15 sticks of gum.",
+    "Next, calculate how many cartons are in one brown box.",
+    "Each brown box contains 4 cartons.",
+    "Calculate the number of sticks of gum in one brown box.",
+    "One brown box has 4 cartons, and each carton has 15 sticks, so a brown box has 4 x 15 = 60 sticks of gum.",
+    "Calculate the total number of sticks of gum in 8 brown boxes.",
+    "There are 60 sticks of gum in one brown box, so in 8 brown boxes, there are 8 x 60 = 480 sticks of gum."
+  ],
+  "solution": "480"
+}

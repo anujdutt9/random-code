@@ -1,0 +1,9 @@
+{
+  "query": "Question: Tobias rode his bike on a road for a 2 hr period. On average, he passed a 1 km marker every 3 min during this period. Which of the following was his average speed for this 2 hr period?\n\nChoices:\nA: 10 km/hr\nB: 15 km/hr\nC: 20 km/hr\nD: 25 km/hr",
+  "steps": [
+    "First, determine how many 3-minute intervals are in 2 hours. Since there are 60 minutes in an hour, 2 hours equals 120 minutes. Thus, 120 minutes divided by 3 minutes per interval equals 40 intervals.",
+    "Next, calculate the total distance Tobias traveled. Since he passed a 1 km marker every 3 minutes and he completed 40 intervals, the total distance is 1 km per interval times 40 intervals, which equals 40 km.",
+    "Now, find the average speed. Average speed is calculated by taking the total distance traveled (40 km) and dividing it by the total time of travel (2 hours). Therefore, the average speed equals 40 km divided by 2 hours, which results in 20 km/hr."
+  ],
+  "solution": "C"
+}

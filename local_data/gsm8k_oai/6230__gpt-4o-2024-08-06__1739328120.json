@@ -1,0 +1,14 @@
+{
+  "query": "Tom split 2 apples into 8 slices each. Tom gave 3/8ths of the apple slices to his friend Jerry, then ate half of the remaining slices. How many apple slices does Tom have left?",
+  "steps": [
+    "Tom had 2 apples and split each into 8 slices.",
+    "This means for 2 apples, he had 2 \u00d7 8 = 16 slices in total.",
+    "Tom gave 3/8ths of the apple slices to Jerry.",
+    "3/8 of 16 slices is calculated as (3/8) \u00d7 16 = 6 slices.",
+    "Tom gave Jerry 6 slices, so he initially has 16 - 6 = 10 slices left.",
+    "Tom ate half of the remaining slices.",
+    "Half of 10 slices is 10 / 2 = 5 slices.",
+    "After eating 5 slices, Tom has 10 - 5 = 5 slices left."
+  ],
+  "solution": "5"
+}

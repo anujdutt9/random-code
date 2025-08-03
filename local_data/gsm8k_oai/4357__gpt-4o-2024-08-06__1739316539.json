@@ -1,0 +1,16 @@
+{
+  "query": "There are 15 tables in the school's cafeteria. Each table can seat 10 people. Usually, only 1/10 of the seats are left unseated. How many seats are usually taken?",
+  "steps": [
+    "First, I need to find out the maximum number of seats available in the cafeteria.",
+    "There are 15 tables and each table can seat 10 people.",
+    "So, I multiply 15 tables by 10 seats per table to find the total number of seats.",
+    "15 \u00d7 10 = 150 seats.",
+    "Now, I need to find out how many seats are left unseated.",
+    "It is given that 1/10 of the seats are left unseated.",
+    "I calculate 1/10 of 150 to find out how many seats are unseated.",
+    "150 \u00d7 1/10 = 15 seats are left unseated.",
+    "To find out how many seats are usually taken, I need to subtract the number of unseated seats from the total number of seats.",
+    "150 - 15 = 135 seats are usually taken."
+  ],
+  "solution": "135"
+}

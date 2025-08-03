@@ -1,0 +1,14 @@
+{
+  "query": "Marie has 98 unread messages on her phone. She decides to clear them by reading 20 messages a day. However, she also gets 6 new messages a day. How many days will it take her to read all her unread messages?",
+  "steps": [
+    "Marie starts with 98 unread messages.",
+    "Each day, she reads 20 messages.",
+    "She also receives 6 new messages each day.",
+    "The net number of messages she reduces each day is 20 - 6 = 14 messages.",
+    "To find out how many days it will take, I need to divide the total number of unread messages by the net messages cleared each day.",
+    "98 unread messages \u00f7 14 messages per day = 7 days.",
+    "I should double-check this calculation. Each day, she clears 14 messages. In 7 days, she would clear 7 x 14 = 98 messages.",
+    "The calculations appear to be correct."
+  ],
+  "solution": "7"
+}

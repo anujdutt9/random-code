@@ -1,0 +1,15 @@
+{
+  "query": "Pete walks backwards three times faster than Susan walks forwards, and Tracy does one-handed cartwheels twice as fast as Susan walks forwards.  But Pete can walk on his hands only one quarter the speed that Tracy can do cartwheels.  If Pete walks on his hands at 2 miles per hour, how fast can Pete walk backwards, in miles per hour?",
+  "steps": [
+    "First, I need to determine the speed at which Tracy does one-handed cartwheels.",
+    "I know that Pete can walk on his hands at 2 miles per hour.",
+    "Pete's hand-walking speed is one quarter the speed of Tracy's cartwheeling. Therefore, Tracy's cartwheeling speed is \\(4 \\times 2 = 8\\) miles per hour.",
+    "Next, I need to find out Susan's walking speed using Tracy's cartwheeling speed.",
+    "It's given that Tracy does cartwheels twice as fast as Susan walks forwards.",
+    "Thus, Susan's walking speed is \\(8 \\div 2 = 4\\) miles per hour.",
+    "Now, I need to find how fast Pete can walk backwards.",
+    "Pete walks backwards three times faster than Susan walks forwards.",
+    "Given Susan's speed is 4 miles per hour, Pete's backward walking speed is \\(3 \\times 4 = 12\\) miles per hour."
+  ],
+  "solution": "12"
+}

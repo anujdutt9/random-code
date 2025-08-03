@@ -1,0 +1,14 @@
+{
+  "query": "A frog lays her eggs over a series of 4 days.  The first day she lays 50 eggs.  The second day, she doubles her production of eggs.  The third day she lays 20 more than the second day, and the last day she doubles the first three days total.  How many eggs did the frog lay over the span of the 4 days?",
+  "steps": [
+    "First, I need to figure out how many eggs the frog lays each day.",
+    "On the first day, the frog lays 50 eggs.",
+    "On the second day, she doubles her production from the first day. So, she lays 2 \u00d7 50 = 100 eggs.",
+    "On the third day, she lays 20 more than the second day, which is 100 + 20 = 120 eggs.",
+    "Now I need to find the total number of eggs from the first three days to calculate the fourth day. The total for the first three days is 50 + 100 + 120 = 270 eggs.",
+    "On the fourth day, she doubles the total from the first three days. So, she lays 2 \u00d7 270 = 540 eggs.",
+    "Finally, I need to find the total number of eggs over the four days. This is 50 (Day 1) + 100 (Day 2) + 120 (Day 3) + 540 (Day 4).",
+    "Calculate the sum: 50 + 100 + 120 + 540 = 810."
+  ],
+  "solution": "810"
+}

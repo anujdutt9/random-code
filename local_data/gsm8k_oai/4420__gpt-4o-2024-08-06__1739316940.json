@@ -1,0 +1,20 @@
+{
+  "query": "Steve has 2 boxes of pencils with 12 pencils in each box. He gave Matt 3 more pencils than he gave to Lauren. If Steve gave 6 pencils to Lauren, how many pencils does he have left?",
+  "steps": [
+    "Steve starts with 2 boxes of pencils, each containing 12 pencils.",
+    "I need to calculate the total number of pencils Steve has initially.",
+    "Each box has 12 pencils, so 2 boxes contain 2 x 12 = 24 pencils.",
+    "Steve has a total of 24 pencils initially.",
+    "Steve gave 6 pencils to Lauren.",
+    "I need to find out how many pencils Steve gave to Matt.",
+    "Steve gave Matt 3 more pencils than he gave to Lauren.",
+    "Since he gave Lauren 6 pencils, he gave Matt 6 + 3 = 9 pencils.",
+    "Now, I need to find the total number of pencils Steve gave away.",
+    "Steve gave away 6 pencils to Lauren and 9 pencils to Matt.",
+    "The total number of pencils given away is 6 + 9 = 15.",
+    "I need to calculate how many pencils Steve has left.",
+    "Steve started with 24 pencils and gave away 15 pencils.",
+    "The number of pencils Steve has left is 24 - 15 = 9."
+  ],
+  "solution": "9"
+}

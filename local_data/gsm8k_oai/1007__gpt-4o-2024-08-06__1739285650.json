@@ -1,0 +1,17 @@
+{
+  "query": "Rajesh walked 10 kilometers less than 4 times the distance that Hiro walked. Together they walked 25 kilometers. How many kilometers did Rajesh walk?",
+  "steps": [
+    "Let's define the variables: let x be the distance Hiro walked.",
+    "According to the problem, Rajesh walked 10 kilometers less than 4 times the distance Hiro walked. So, the distance Rajesh walked can be expressed as 4x - 10.",
+    "Together, they walked 25 kilometers. This means x (Hiro's distance) plus (4x - 10) (Rajesh's distance) equals 25 kilometers.",
+    "Now, set up the equation: x + (4x - 10) = 25.",
+    "Simplify the equation: x + 4x - 10 = 25.",
+    "Combine like terms: 5x - 10 = 25.",
+    "Add 10 to both sides to isolate the term with x: 5x = 35.",
+    "Divide both sides by 5 to solve for x: x = 7.",
+    "Now that we know Hiro walked 7 kilometers, calculate how far Rajesh walked: 4x - 10.",
+    "Substitute x = 7 into Rajesh's distance formula: 4(7) - 10.",
+    "Calculate: 28 - 10 = 18."
+  ],
+  "solution": "18"
+}

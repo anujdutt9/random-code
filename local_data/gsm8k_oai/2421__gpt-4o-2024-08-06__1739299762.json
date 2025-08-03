@@ -1,0 +1,17 @@
+{
+  "query": "Charles is jogging while listening to his favorite album. He runs at 6 MPH when he's got music on and 4 MPH when he doesn't. His album is 40 minutes long. How many minutes will it take him to jog 6 miles?",
+  "steps": [
+    "First, I want to find out how many miles Charles runs while listening to his favorite album.",
+    "The album is 40 minutes long, which is the same as 40/60 = 2/3 hours.",
+    "While listening to music, Charles runs at 6 MPH.",
+    "The distance he covers in 2/3 of an hour at this speed is 6 MPH * (2/3) hours = 4 miles.",
+    "Now, I need to find out how many miles are left for Charles to jog to complete a total distance of 6 miles.",
+    "He has already covered 4 miles while listening to his album, so he has 6 - 4 = 2 miles left to cover.",
+    "While not listening to music, Charles runs at 4 MPH.",
+    "To find out how much time it takes him to run the remaining 2 miles at this speed, I use the formula time = distance / speed.",
+    "So, time = 2 miles / 4 MPH = 0.5 hours.",
+    "Now convert this time from hours to minutes: 0.5 hours * 60 minutes/hour = 30 minutes.",
+    "The total time Charles jogs is 40 minutes (with music) + 30 minutes (without music)."
+  ],
+  "solution": "70"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Kim buys 3 pizzas.  They are 12 slices each.  The pizza cost $72.  How much did 5 slices cost?",
+  "steps": [
+    "First, I need to calculate the total number of slices from the 3 pizzas.",
+    "Each pizza has 12 slices, and since there are 3 pizzas, I calculate 3 pizzas * 12 slices per pizza.",
+    "3 * 12 = 36. So, there are 36 slices in total.",
+    "Next, I find out the cost per slice since I know the total cost of the pizzas is $72.",
+    "I divide the total cost by the total number of slices to get the cost per slice. $72 / 36 slices.",
+    "72 / 36 = $2. So, each slice costs $2.",
+    "Now, I calculate how much 5 slices cost.",
+    "I multiply the cost per slice by the number of slices I want the cost for: 5 slices * $2 per slice.",
+    "5 * 2 = 10."
+  ],
+  "solution": "10"
+}

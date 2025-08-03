@@ -1,0 +1,22 @@
+{
+  "query": "A vegan restaurant serves three kinds of protein: seitan, beans, and lentils. There are ten dishes on their menu. Two have beans and lentils, and two have beans and seitan. The remaining dishes only have one kind of protein in them. Half of the remaining dishes have only beans, and there are three times as many dishes with only beans as with only seitan. How many dishes include lentils?",
+  "steps": [
+    "First, I understand the problem describes the distribution of dishes based on the type of protein they include.",
+    "I know that there are a total of 10 dishes on the menu.",
+    "Two of the dishes contain both beans and lentils.",
+    "Two dishes contain both beans and seitan.",
+    "This means there are a total of 4 dishes that contain multiple proteins (2 dishes with beans and lentils, and 2 with beans and seitan).",
+    "Since 4 out of 10 dishes have multiple proteins, there are 6 dishes left that contain only one type of protein.",
+    "We need to determine how these 6 dishes are distributed among the single protein types: only beans, only seitan, and only lentils.",
+    "According to the problem, half of the remaining 6 dishes have only beans. This means 3 dishes have only beans.",
+    "We're also told that there are three times as many dishes with only beans as those with only seitan.",
+    "If x is the number of dishes with only seitan, then 3x equals the number of dishes with only beans. We just calculated that the number of dishes with only beans is 3.",
+    "Therefore, we set up the equation 3x = 3. Solving for x, we get x = 1. This means there is 1 dish with only seitan.",
+    "There are 6 dishes with only one type of protein (only beans, only seitan, or only lentils).",
+    "Three dishes are only beans, and one dish is only seitan, which makes 4 dishes accounted for.",
+    "This leaves 2 dishes with only lentils.",
+    "To find how many dishes include lentils, I add those that have both beans and lentils and those with only lentils.",
+    "There are 2 dishes with beans and lentils and 2 dishes with only lentils, totaling 4 dishes that include lentils."
+  ],
+  "solution": "4"
+}

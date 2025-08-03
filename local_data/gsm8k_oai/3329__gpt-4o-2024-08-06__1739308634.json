@@ -1,0 +1,18 @@
+{
+  "query": "Jerry is sweeping up pieces of broken glass in the parking lot. He sweeps up 20 amber pieces, 35 green pieces, and some clear pieces. If the green pieces are 25% of the total glass he sweeps up, how many pieces were clear?",
+  "steps": [
+    "I need to find the total number of pieces Jerry sweeps up.",
+    "I know that Jerry sweeps up 20 amber pieces and 35 green pieces.",
+    "Let's denote the total number of pieces as T.",
+    "The green pieces, 35, constitute 25% of the total, T.",
+    "I can express this relationship with the equation: 35 = 0.25 * T",
+    "To find T, I will divide 35 by 0.25.",
+    "35 divided by 0.25 equals 140. So, T = 140.",
+    "Now I need to find how many clear pieces there are.",
+    "The total number of pieces is 140, and I already know 20 are amber and 35 are green.",
+    "The sum of amber and green pieces is 20 + 35 = 55.",
+    "The number of clear pieces is the total pieces minus the amber and green pieces.",
+    "This means the clear pieces are 140 - 55 = 85."
+  ],
+  "solution": "85"
+}

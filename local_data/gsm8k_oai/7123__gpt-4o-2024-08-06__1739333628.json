@@ -1,0 +1,15 @@
+{
+  "query": "Harrison Elementary School is overcrowded with 1590 students, so 40% of the students are going to move to a new school. There are 3 grade levels, and each grade level needs one 20-person advanced class and the rest of the students divided evenly into 6 additional classes. How many students will there be in each normal class at the new school?",
+  "steps": [
+    "First, I need to find out how many students are moving to the new school. I know that 40% of the students are moving.",
+    "Calculate 40% of 1590 students: 0.40 * 1590 = 636 students.",
+    "Now I know 636 students are moving to the new school.",
+    "There are 3 grade levels, and each has one 20-person advanced class. I need to calculate the total number of students in advanced classes.",
+    "Since there is one advanced class per grade level, 3 grade levels means 3 * 20 = 60 students are in advanced classes.",
+    "Now I need to find out how many students are left for the normal classes. Subtract the students in advanced classes from the total moving students: 636 - 60 = 576 students.",
+    "These 576 students need to be divided evenly into 6 normal classes per grade level.",
+    "Since there are 3 grade levels, each with 6 normal classes, I have a total of 3 * 6 = 18 normal classes.",
+    "Now I'll divide the 576 students by the 18 normal classes: 576 / 18 = 32 students."
+  ],
+  "solution": "32"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "James is trying to avoid eating too much sodium. He's making a recipe that calls for 2 teaspoons of salt and 8 oz of parmesan cheese. Salt has 50 mg of sodium per teaspoon and parmesan has 25 mg of sodium per oz. If he can't reduce the salt, how many fewer ounces of parmesan cheese does he need to use to reduce the total amount of sodium by 1/3rd?",
+  "steps": [
+    "First, I need to calculate the total sodium from the salt. The recipe calls for 2 teaspoons of salt, and each teaspoon has 50 mg of sodium.",
+    "I multiply 2 teaspoons by 50 mg of sodium per teaspoon to get the total sodium from the salt: 2 * 50 = 100 mg of sodium.",
+    "Next, I need to calculate the total sodium from the parmesan cheese. The recipe uses 8 oz of parmesan, and each ounce contains 25 mg of sodium.",
+    "I multiply 8 oz by 25 mg of sodium per oz to find the total sodium content from the cheese: 8 * 25 = 200 mg of sodium.",
+    "Now, I add the sodium from both the salt and the cheese to get the total sodium in the recipe: 100 mg (salt) + 200 mg (cheese) = 300 mg of sodium.",
+    "James wants to reduce the total sodium content by 1/3. Therefore, I calculate 1/3 of the total sodium: 1/3 * 300 mg = 100 mg.",
+    "To reduce the sodium content by 100 mg, I keep the sodium from salt unchanged and reduce it from the parmesan cheese only. The sodium contribution from the salt is fixed at 100 mg.",
+    "To find the target sodium content from the parmesan cheese, I subtract the sodium from salt from the reduced total: 200 mg (initial cheese sodium) - 100 mg (intended reduction) = 100 mg.",
+    "Now, I calculate how many ounces of parmesan would result in 100 mg of sodium. Each ounce contains 25 mg, so I divide the target sodium by the sodium content per ounce: 100 mg / 25 mg/oz = 4 oz.",
+    "Initially, the recipe used 8 oz of parmesan. To reduce the sodium content to 100 mg from the cheese, James needs to use 4 oz instead. Thus, he should use 8 oz - 4 oz = 4 fewer ounces of parmesan cheese."
+  ],
+  "solution": "4"
+}

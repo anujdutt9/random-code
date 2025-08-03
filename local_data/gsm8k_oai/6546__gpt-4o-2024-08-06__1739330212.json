@@ -1,0 +1,19 @@
+{
+  "query": "John has a party and invites 30 people.  Of the people he invited 20% didn't show up.  75% of the people who show up get steak and the rest get chicken.  How many people ordered chicken?",
+  "steps": [
+    "John invited 30 people to the party.",
+    "20% of the invited people didn't show up.",
+    "To find out how many didn't show up, calculate 20% of 30.",
+    "20% of 30 is calculated as (20/100) * 30 = 6 people.",
+    "So, 6 people didn't show up.",
+    "To find out how many people did show up, subtract the 6 who didn't show up from the 30 invited.",
+    "30 - 6 = 24 people showed up.",
+    "75% of the people who showed up get steak.",
+    "To find out how many people got steak, calculate 75% of 24.",
+    "75% of 24 is calculated as (75/100) * 24 = 18 people.",
+    "The rest of the people who showed up got chicken.",
+    "Subtract the number of people who got steak from the total who showed up.",
+    "24 - 18 = 6 people got chicken."
+  ],
+  "solution": "6"
+}

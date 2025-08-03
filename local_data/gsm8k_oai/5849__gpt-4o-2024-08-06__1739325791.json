@@ -1,0 +1,16 @@
+{
+  "query": "Max watches a show every day that airs from 2:00 pm to 2:30 pm and only airs during weekdays. If he watches every episode during the week but misses the Friday episode, how many hours of the show did he watch?",
+  "steps": [
+    "I need to determine the number of days Max watched the show.",
+    "The show airs every weekday, from Monday to Friday.",
+    "Max watches the show from Monday to Thursday, since he misses Friday's episode.",
+    "There are 4 weekdays from Monday to Thursday.",
+    "Next, I calculate the duration of each episode.",
+    "Each episode lasts from 2:00 pm to 2:30 pm, which is 30 minutes.",
+    "Since Max watches the episodes from Monday to Thursday, I need to multiply 30 minutes by 4 days.",
+    "30 minutes multiplied by 4 days equals 120 minutes.",
+    "Now I convert 120 minutes into hours.",
+    "120 minutes is equivalent to 2 hours."
+  ],
+  "solution": "2"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "At the end of a circus act, there are 12 dogs on stage.  Half of the dogs are standing on their back legs and the other half are standing on all 4 legs.  How many dog paws are on the ground?",
+  "steps": [
+    "There are 12 dogs on stage.",
+    "Half of the dogs are standing on their back legs.",
+    "So, half of 12 is 6 dogs standing on their back legs.",
+    "The other half of the dogs are standing on all 4 legs.",
+    "That means there are also 6 dogs standing on all 4 legs.",
+    "Dogs standing on their back legs have 2 paws on the ground.",
+    "6 dogs standing on their back legs have 6 * 2 = 12 paws on the ground.",
+    "Dogs standing on all 4 legs have 4 paws on the ground.",
+    "6 dogs standing on all 4 legs have 6 * 4 = 24 paws on the ground.",
+    "Totaling the paws on the ground gives us: 12 paws from dogs on back legs + 24 paws from dogs on all 4 legs.",
+    "12 + 24 = 36 paws on the ground."
+  ],
+  "solution": "36"
+}

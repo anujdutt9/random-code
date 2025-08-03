@@ -1,0 +1,21 @@
+{
+  "query": "Nine hundred tickets were sold to a concert. Three-fourths of those who bought the ticket came before the start of the concert. Five-ninths of the remaining came few minutes after the first song. Eighty people arrived during the middle part of the concert while the rest did not go. How many of those who bought the tickets did not go?",
+  "steps": [
+    "The total number of tickets sold is 900.",
+    "Three-fourths of those who bought the ticket came before the start of the concert.",
+    "Calculate three-fourths of 900. This is 900 * (3/4) = 675.",
+    "So, 675 people arrived before the concert.",
+    "Subtract the number of people who came before the concert from the total.",
+    "900 - 675 = 225 people did not come before the start of the concert.",
+    "Five-ninths of these remaining 225 people came a few minutes after the first song.",
+    "Calculate five-ninths of 225. This is 225 * (5/9) = 125.",
+    "So, 125 people came a few minutes after the first song.",
+    "Add up the number of people who have arrived so far: 675 + 125 = 800.",
+    "Eighty people arrived during the middle part of the concert.",
+    "Add these 80 to those who already arrived: 800 + 80 = 880.",
+    "The total number of people who attended the concert is 880.",
+    "Subtract the total number of attendees from the total number of tickets sold to find out how many did not go.",
+    "900 - 880 = 20 people did not go to the concert."
+  ],
+  "solution": "20"
+}

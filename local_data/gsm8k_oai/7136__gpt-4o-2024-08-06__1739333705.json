@@ -1,0 +1,20 @@
+{
+  "query": "Danny made chocolate cookies for his class and made sure each cookie had exactly 7 chips. He made 4 dozen in total. If the class eats half the cookies, how many chips are left uneaten?",
+  "steps": [
+    "First, I need to figure out how many cookies Danny made.",
+    "A dozen is 12, so 4 dozen cookies are equal to 4 x 12 cookies.",
+    "4 x 12 = 48 cookies.",
+    "Each cookie has 7 chips.",
+    "The total number of chips is 48 cookies x 7 chips per cookie.",
+    "48 x 7 = 336 chips.",
+    "The class eats half of the cookies.",
+    "Half of 48 cookies is 48 / 2.",
+    "48 / 2 = 24 cookies eaten by the class.",
+    "Each eaten cookie also has 7 chips, so the class eats 24 x 7 chips.",
+    "24 x 7 = 168 chips eaten by the class.",
+    "I need to find the number of chips left uneaten.",
+    "Take the total number of chips and subtract the number of chips eaten.",
+    "336 total chips - 168 chips eaten = 168 chips left uneaten."
+  ],
+  "solution": "168"
+}

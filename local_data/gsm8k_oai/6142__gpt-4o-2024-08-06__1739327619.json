@@ -1,0 +1,22 @@
+{
+  "query": "Krystiana owns an apartment building. The rooms on the first floor cost $15 per month and the rooms on the 2nd floor cost $20 per month. The rooms on the third floor cost twice as much as the rooms on the first floor, but only two rooms are occupied. If each floor has 3 rooms, how much does Krystiana earn every month?",
+  "steps": [
+    "Krystiana owns an apartment building with 3 floors, each having 3 rooms.",
+    "First, I will calculate the monthly earnings from the first floor.",
+    "The cost of each room on the first floor is $15 per month.",
+    "There are 3 rooms on the first floor.",
+    "The earnings from the first floor are 3 rooms * $15/room = $45 per month.",
+    "Next, I will calculate the monthly earnings from the second floor.",
+    "The cost of each room on the second floor is $20 per month.",
+    "There are 3 rooms on the second floor.",
+    "The earnings from the second floor are 3 rooms * $20/room = $60 per month.",
+    "Now, I will calculate the monthly earnings from the third floor.",
+    "The rooms on the third floor cost twice as much as the rooms on the first floor.",
+    "The cost of each room on the third floor is 2 * $15 = $30 per month.",
+    "Only 2 rooms are occupied on the third floor.",
+    "The earnings from the third floor are 2 rooms * $30/room = $60 per month.",
+    "Now I will add the earnings from all floors to find the total monthly earnings.",
+    "The total earnings are $45 (first floor) + $60 (second floor) + $60 (third floor) = $165 per month."
+  ],
+  "solution": "165"
+}

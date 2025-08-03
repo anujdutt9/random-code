@@ -1,0 +1,19 @@
+{
+  "query": "James is trying to decide which trail is faster to hike. One trail is 20 miles and mostly downhill, so James can cover it at 5 miles per hour. The other trail is 12 miles, but it's mostly uphill, so James will only be able to cover 3 miles per hour and will have to take an hour break halfway through. How many hours faster is the fastest hike?",
+  "steps": [
+    "First, I need to calculate the total time it takes for James to hike the downhill trail.",
+    "The downhill trail is 20 miles long, and he hikes at 5 miles per hour.",
+    "To find the time, I use the formula: time = distance / speed.",
+    "Time for downhill trail = 20 miles / 5 mph = 4 hours.",
+    "Now, I will calculate the total time for the uphill trail.",
+    "The uphill trail is 12 miles long, and he hikes at 3 miles per hour.",
+    "Since there's a 1-hour break halfway through, I need to account for that break.",
+    "To find the time excluding the break, I use the formula: time = distance / speed.",
+    "The time to hike without considering the break = 12 miles / 3 mph = 4 hours.",
+    "Including the 1-hour break, the total time for the uphill trail is 4 hours + 1 hour = 5 hours.",
+    "Next, I need to find out how many hours faster the downhill trail is.",
+    "I subtract the downhill time from the uphill time: 5 hours - 4 hours.",
+    "The downhill trail is 1 hour faster than the uphill trail."
+  ],
+  "solution": "1"
+}

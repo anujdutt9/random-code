@@ -1,0 +1,18 @@
+{
+  "query": "Tom got 40 oranges and 70 apples. If he sold 1/4 of the oranges and 1/2 of the apples. How many fruits were left in total?",
+  "steps": [
+    "Tom has 40 oranges in total. He sold 1/4 of them.",
+    "To find out how many oranges he sold, I need to calculate 1/4 of 40.",
+    "1/4 of 40 is 40 divided by 4, which equals 10.",
+    "Tom sold 10 oranges. So, to find out how many oranges are left, I subtract the sold oranges from the total.",
+    "40 oranges - 10 oranges = 30 oranges left.",
+    "Tom has 70 apples in total. He sold 1/2 of them.",
+    "To find out how many apples he sold, I need to calculate 1/2 of 70.",
+    "1/2 of 70 is 70 divided by 2, which equals 35.",
+    "Tom sold 35 apples. So, to find out how many apples are left, I subtract the sold apples from the total.",
+    "70 apples - 35 apples = 35 apples left.",
+    "Now, I need to find the total number of fruits remaining by adding the oranges and apples left.",
+    "30 oranges + 35 apples = 65 fruits left in total."
+  ],
+  "solution": "65"
+}

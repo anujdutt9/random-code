@@ -1,0 +1,21 @@
+{
+  "query": "Archibald eats 1 apple a day for two weeks. Over the next three weeks, he eats the same number of apples as the total of the first two weeks. Over the next two weeks, he eats 3 apples a day. Over these 7 weeks, how many apples does he average a week?",
+  "steps": [
+    "First, I need to determine how many apples Archibald eats in the first two weeks.",
+    "There are 7 days in a week, so in two weeks there are 2 * 7 = 14 days.",
+    "Archibald eats 1 apple per day for 14 days, so he eats 1 * 14 = 14 apples in the first two weeks.",
+    "Now I calculate how many apples he eats over the next three weeks.",
+    "The problem states he eats the same number of apples as the total of the first two weeks during this period, which is 14 apples.",
+    "Next, I need to calculate how many apples he eats over the final two weeks.",
+    "Over these two weeks, he eats 3 apples per day.",
+    "There are 2 weeks, so 2 * 7 = 14 days.",
+    "He eats 3 apples per day for 14 days, so he eats 3 * 14 = 42 apples during this time.",
+    "Now I add up the number of apples he eats over the entire 7-week period.",
+    "He ate 14 apples the first two weeks, 14 apples the next three weeks, and 42 apples in the final two weeks.",
+    "The total number of apples eaten is 14 + 14 + 42 = 70 apples.",
+    "Next, I calculate the average number of apples eaten per week over the 7 weeks.",
+    "I divide the total number of apples by the number of weeks: 70 apples / 7 weeks.",
+    "His average apple consumption per week is 70 / 7 = 10 apples."
+  ],
+  "solution": "10"
+}

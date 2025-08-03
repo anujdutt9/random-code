@@ -1,0 +1,12 @@
+{
+  "query": "Eddie is 92 years old. His granddaughter Becky is currently four times younger than he is. The mother of Becky - Irene, is two times her age. How old is Irene?",
+  "steps": [
+    "Eddie is 92 years old.",
+    "Becky is four times younger than Eddie. This means her age is Eddie's age divided by 4.",
+    "Calculate Becky's age: 92 / 4 = 23.",
+    "Becky is 23 years old.",
+    "Irene, Becky's mother, is two times Becky's age.",
+    "Calculate Irene's age: 23 * 2 = 46."
+  ],
+  "solution": "46"
+}

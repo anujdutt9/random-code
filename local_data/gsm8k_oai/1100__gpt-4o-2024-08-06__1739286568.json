@@ -1,0 +1,12 @@
+{
+  "query": "Mary had 89 stickers.  She used 3 large stickers on the front page of her journal and 7 stickers each to 6 other pages of her journal. How many stickers does Mary have remaining?",
+  "steps": [
+    "I start with Mary's initial number of stickers, which is 89.",
+    "Mary uses 3 large stickers for the front page of her journal.",
+    "I subtract these 3 stickers from the total: 89 - 3 = 86.",
+    "Mary uses 7 stickers on each of 6 other pages.",
+    "I calculate the total number of stickers used on these pages: 7 stickers/page * 6 pages = 42 stickers.",
+    "I subtract these 42 stickers from the remaining 86 stickers: 86 - 42 = 44."
+  ],
+  "solution": "44"
+}

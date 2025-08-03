@@ -1,0 +1,14 @@
+{
+  "query": "Selena and Josh were running in a race. Together they ran 36 miles. Josh ran half of the distance that Selena ran. How many miles did Selena run?",
+  "steps": [
+    "Let the distance Selena ran be S miles.",
+    "According to the problem, Josh ran half the distance that Selena ran. So, Josh ran S/2 miles.",
+    "Together, Selena and Josh ran a total of 36 miles. Therefore, the sum of their distances is S + S/2 = 36.",
+    "To combine the terms on the left side, I find a common denominator. S is equivalent to 2S/2. So, I rewrite the equation as 2S/2 + S/2 = 36.",
+    "Combine the terms on the left side: (2S + S)/2 = 36, which simplifies to 3S/2 = 36.",
+    "To solve for S, I multiply both sides of the equation by 2 to cancel the division. This gives me 3S = 72.",
+    "Now, I divide both sides by 3 to isolate S. So, S = 72 / 3.",
+    "Calculating the division: S = 24."
+  ],
+  "solution": "24"
+}

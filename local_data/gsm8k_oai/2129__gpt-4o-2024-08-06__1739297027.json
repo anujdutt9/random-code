@@ -1,0 +1,18 @@
+{
+  "query": "A farmer is selling ducks and chickens at the market. He sells ducks for $10 and chickens for $8. He sells 5 chickens and some ducks. He then spends half his earnings on a new wheelbarrow. After buying it, someone sees it and agrees to pay the farmer double what the farmer paid and the farmer earns another $60. How many ducks did the farmer sell?",
+  "steps": [
+    "First, I need to find out how much money the farmer initially made from selling the chickens and ducks.",
+    "The farmer sells 5 chickens at $8 each. So, he earns 5 * $8 = $40 from chickens.",
+    "Let the number of ducks the farmer sells be d. Then, the money earned from ducks is $10d.",
+    "The farmer's total earnings before buying something is $40 (from chickens) + $10d (from ducks).",
+    "The farmer spends half of his earnings on a new wheelbarrow. This means he keeps the other half.",
+    "After spending, someone buys the wheelbarrow for double the price the farmer paid.",
+    "If the farmer earns another $60 after selling the wheelbarrow, this means he sold it for $60 + amount he had before spending = $60 + $20 + $5d.",
+    "The wheelbarrow's price must have been the $30 from keeping half of his initial earnings of $60 double (since he sold it for double its cost).",
+    "This means $40 + 5d, half of this is $30.",
+    "Let us solve the equation 10 + 5d = 30.",
+    "Dividing is necessary, so d equals 4.",
+    "So, the farmer has sold 2 ducks."
+  ],
+  "solution": "2"
+}

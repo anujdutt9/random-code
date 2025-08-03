@@ -1,0 +1,17 @@
+{
+  "query": "Two days ago, the temperature in the morning went up 1.5 degrees every 2 hours. If the temperature was 50 degrees at 3 A.M., what was the temperature at 11 A.M.?",
+  "steps": [
+    "I need to calculate the temperature change over time from 3 A.M. to 11 A.M.",
+    "First, I should figure out how many hours there are between 3 A.M. and 11 A.M.",
+    "From 3 A.M. to 11 A.M. is 8 hours.",
+    "The temperature increases by 1.5 degrees every 2 hours.",
+    "8 hours divided by 2-hour intervals gives 4 intervals.",
+    "For each interval, the temperature increases by 1.5 degrees.",
+    "Multiply the number of intervals (4) by the temperature increase per interval (1.5 degrees).",
+    "4 intervals * 1.5 degrees/interval equals 6 degrees.",
+    "The initial temperature at 3 A.M. was 50 degrees.",
+    "Add the total temperature increase (6 degrees) to the initial temperature (50 degrees).",
+    "50 degrees + 6 degrees equals 56 degrees."
+  ],
+  "solution": "56"
+}

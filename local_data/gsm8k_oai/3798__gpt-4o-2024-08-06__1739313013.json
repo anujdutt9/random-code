@@ -1,0 +1,18 @@
+{
+  "query": "John joins a country club with 3 other members of his family.  The fee to join is $4000 per person.  There is also a monthly cost of $1000 per person.  John pays half the cost.  How much does John pay for the first year?",
+  "steps": [
+    "Let's first calculate the total joining fee for John's family, which includes John and 3 other members.",
+    "Each person pays a joining fee of $4000.",
+    "There are 4 members in the family.",
+    "The total joining fee for 4 people is \\(4 \\times 4000 = 16000\\).",
+    "Now let's calculate the monthly cost for the family for one year.",
+    "The monthly cost per person is $1000.",
+    "There are 4 members, so the total monthly cost for the family is \\(4 \\times 1000 = 4000\\) per month.",
+    "The total monthly cost for 12 months (one year) is \\(4000 \\times 12 = 48000\\).",
+    "The total cost for the family for the first year is the sum of the joining fee and the annual monthly costs.",
+    "Total cost = Total joining fee + Total annual monthly costs = \\(16000 + 48000 = 64000\\).",
+    "John pays half of this total cost.",
+    "The cost John pays is half of $64000, which is \\(\\frac{64000}{2} = 32000\\)."
+  ],
+  "solution": "32000"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "Ned is an explosives specialist racing to deactivate a time bomb on the top floor of a building. The building has twenty flights of stairs to the top floor, and Ned can run up one flight of stairs in eleven seconds. The time bomb has 72 seconds left on the timer, and Ned has spent 165 seconds running up the stairs. How many seconds will Ned have to diffuse the bomb when he reaches it?",
+  "steps": [
+    "First, I need to calculate how many flights of stairs Ned has already climbed in 165 seconds.",
+    "Ned runs up one flight in 11 seconds.",
+    "So, the number of flights he has climbed is 165 seconds divided by 11 seconds per flight.",
+    "165 divided by 11 equals 15 flights.",
+    "Ned has climbed 15 flights so far.",
+    "The building has 20 flights in total.",
+    "So, Ned still needs to climb 20 minus 15 flights, which equals 5 more flights.",
+    "I will now calculate the time Ned needs to climb these 5 remaining flights.",
+    "5 flights times 11 seconds per flight equals 55 seconds.",
+    "Next, I need to calculate the remaining time on the bomb timer after Ned finishes climbing all flights.",
+    "The bomb has 72 seconds left on the timer when Ned has completed climbing the initial 15 flights.",
+    "Subtract the 55 seconds needed for the remaining 5 flights from the 72 seconds.",
+    "72 minus 55 equals 17 seconds."
+  ],
+  "solution": "17"
+}

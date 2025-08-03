@@ -1,0 +1,17 @@
+{
+  "query": "Erwan went on shopping. He purchased a pair of shoes at $200 but discounted 30%, and two shirts at $80 each. Upon checkout, the cashier said that there is an additional 5% discount. How much did he spend after all the discounts?",
+  "steps": [
+    "First, I need to calculate the price of the pair of shoes after the 30% discount.",
+    "The original price of the shoes is $200.",
+    "A 30% discount on $200 can be calculated as 30/100 * 200 = $60.",
+    "Therefore, the price of the shoes after the discount is $200 - $60 = $140.",
+    "Next, I calculate the total price of the two shirts before any additional discount.",
+    "Each shirt is $80, and there are two shirts, so 2 * $80 = $160.",
+    "Now, I need to calculate the total without the final discount by adding the shoes and shirts' discounted and original prices, respectively.",
+    "Total before the checkout discount is $140 (shoes) + $160 (shirts) = $300.",
+    "The cashier mentioned an additional 5% discount on this total.",
+    "To find the 5% discount on $300, calculate 5/100 * 300 = $15.",
+    "Subtract this discount from the total cost: $300 - $15 = $285."
+  ],
+  "solution": "285"
+}

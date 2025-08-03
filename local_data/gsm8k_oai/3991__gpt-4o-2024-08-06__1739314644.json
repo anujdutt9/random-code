@@ -1,0 +1,14 @@
+{
+  "query": "A public official wants to donate 5 new soccer balls per each class in two schools. Each school has 4 elementary school classes and 5 middle school classes.  How many soccer balls would the public official donate in all?",
+  "steps": [
+    "I need to find the total number of classes in each school first.",
+    "Each school has 4 elementary school classes and 5 middle school classes.",
+    "So, each school has 4 + 5 = 9 classes.",
+    "There are two schools, so I multiply the number of classes in one school by two.",
+    "The total number of classes in the two schools is 9 classes/school * 2 schools = 18 classes.",
+    "The public official wants to donate 5 soccer balls per class.",
+    "To find the total number of soccer balls, I multiply the number of classes by the number of soccer balls per class.",
+    "So, the total number of soccer balls is 18 classes * 5 soccer balls/class = 90 soccer balls."
+  ],
+  "solution": "90"
+}

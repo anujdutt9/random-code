@@ -1,0 +1,20 @@
+{
+  "query": "Kirill is 14 less centimeters in height than his brother. Together their heights equal 112 centimeters. How tall is Kirill in centimeters?",
+  "steps": [
+    "Let's denote Kirill's height as K and his brother's height as B.",
+    "According to the problem, Kirill's height is 14 centimeters less than his brother's height. So we can write the equation: K = B - 14.",
+    "We also know that together their heights equal 112 centimeters. This can be written as: K + B = 112.",
+    "We now have a system of equations:\n1) K = B - 14\n2) K + B = 112",
+    "We will substitute equation 1 into equation 2 to find the values. Substitute K from 1) into 2):\n(B - 14) + B = 112",
+    "Let's simplify and solve this equation: \nB - 14 + B = 112",
+    "Combine the like terms: \n2B - 14 = 112",
+    "Add 14 to both sides to isolate the term with B: \n2B - 14 + 14 = 112 + 14",
+    "The equation becomes: \n2B = 126",
+    "Divide both sides by 2 to solve for B: \nB = 126 / 2",
+    "B = 63",
+    "Now that we know B (brother's height), we can find K (Kirill's height) by substituting B back into the first equation: \nK = B - 14",
+    "Substitute the value of B:\nK = 63 - 14",
+    "K = 49"
+  ],
+  "solution": "49"
+}

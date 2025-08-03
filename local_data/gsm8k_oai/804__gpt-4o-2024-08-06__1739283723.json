@@ -1,0 +1,15 @@
+{
+  "query": "A zoo has 16 pandas, paired into mates (in the same zoo). Only 25% of the panda couples get pregnant after mating. If they each have one baby, how many panda babies are born?",
+  "steps": [
+    "The zoo has 16 pandas.",
+    "Each panda is paired into mates, meaning there are 8 panda couples since 16 pandas divided by 2 equals 8.",
+    "It is given that only 25% of the panda couples get pregnant after mating.",
+    "First, I need to calculate 25% of the 8 panda couples to find out how many couples get pregnant.",
+    "25% of 8 is calculated by multiplying 8 by 0.25.",
+    "8 multiplied by 0.25 equals 2.",
+    "This means 2 panda couples get pregnant.",
+    "If each couple has one baby, then the total number of panda babies born is equal to the number of couples that get pregnant.",
+    "Therefore, 2 panda babies are born."
+  ],
+  "solution": "2"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "The square footage of the two bedrooms in the apartment that Jenny and Martha share totals 300 square feet. If Jenny's bedroom is 60 square feet larger than Martha's, how large, in square feet, is Martha's bedroom?",
+  "steps": [
+    "Let's denote the area of Martha's bedroom as \\( x \\) square feet.",
+    "Since Jenny's bedroom is 60 square feet larger than Martha's, we can express the area of Jenny's bedroom as \\( x + 60 \\) square feet.",
+    "The total area of both bedrooms is given as 300 square feet.",
+    "We can set up the equation: \\( x + (x + 60) = 300 \\).",
+    "Combine like terms: \\( 2x + 60 = 300 \\).",
+    "Subtract 60 from both sides to isolate the terms with \\( x \\): \\( 2x = 240 \\).",
+    "Divide both sides by 2 to solve for \\( x \\): \\( x = 120 \\).",
+    "This means Martha's bedroom is 120 square feet."
+  ],
+  "solution": "120"
+}

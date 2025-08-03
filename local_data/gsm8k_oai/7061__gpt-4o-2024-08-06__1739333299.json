@@ -1,0 +1,14 @@
+{
+  "query": "Four small boxes can fit in one big box. If 50 big boxes can fit four small boxes each, each having 40 candles, calculate the total number of candles in all small boxes.",
+  "steps": [
+    "First, I need to understand how many small boxes there are.",
+    "Each big box can hold 4 small boxes, and there are 50 big boxes.",
+    "To find the total number of small boxes, I multiply the number of big boxes by the number of small boxes per big box: 50 \u00d7 4.",
+    "50 multiplied by 4 equals 200. So, there are 200 small boxes in total.",
+    "Next, I calculate the total number of candles. I know each small box contains 40 candles.",
+    "I need to multiply the number of small boxes by the number of candles per box: 200 \u00d7 40.",
+    "200 multiplied by 40 equals 8,000.",
+    "Therefore, the total number of candles in all the small boxes is 8,000."
+  ],
+  "solution": "8000"
+}

@@ -1,0 +1,22 @@
+{
+  "query": "Nancy wants to figure out if she can afford to apply to the University of Michigan. The tuition costs $22,000 per semester. Her parents can pay half the cost, and each semester Nancy can get a scholarship for $3,000 and a student loan for twice her scholarship amount. If Nancy can work a total of 200 hours during the semester, how many dollars does she have to make per hour to pay the rest of the tuition?",
+  "steps": [
+    "First, I need to determine how much Nancy's parents can contribute. The tuition cost per semester is $22,000.",
+    "Her parents can pay half of the tuition cost, so I calculate half of $22,000.",
+    "$22,000 / 2 = $11,000",
+    "Next, I find out how much the scholarship contributes. Nancy can get a scholarship for $3,000.",
+    "I add the parents' contribution and the scholarship to see the amount already covered.",
+    "$11,000 (parents) + $3,000 (scholarship) = $14,000",
+    "Now, I need to include the student loan. Nancy can get a loan for twice her scholarship amount.",
+    "Twice the scholarship amount is $3,000 * 2 = $6,000",
+    "I add the student loan to the already covered amount to see the total amount covered so far.",
+    "$14,000 (covered by parents and scholarship) + $6,000 (student loan) = $20,000",
+    "So far, $20,000 of the tuition cost is covered. The total tuition cost is $22,000.",
+    "I subtract the covered amount from the total tuition to find out how much Nancy needs to earn.",
+    "$22,000 - $20,000 = $2,000",
+    "Nancy can work 200 hours during the semester. I need to determine how much she has to make per hour.",
+    "To find the hourly rate, I divide the amount Nancy needs to cover by the number of hours she can work.",
+    "$2,000 / 200 hours = $10"
+  ],
+  "solution": "10"
+}

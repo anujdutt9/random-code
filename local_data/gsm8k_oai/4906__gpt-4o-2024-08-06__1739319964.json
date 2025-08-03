@@ -1,0 +1,16 @@
+{
+  "query": "Monroe has a collection of ants and a collection of spiders. He has 8 spiders and 12 ants. He is wondering what the number of legs of the entire collection is.",
+  "steps": [
+    "First, I need to determine how many legs each spider has.",
+    "Spiders typically have 8 legs.",
+    "Next, I need to determine how many legs each ant has.",
+    "Ants typically have 6 legs.",
+    "Now, I will calculate the total number of legs for the spiders.",
+    "There are 8 spiders, and each has 8 legs, so 8 spiders x 8 legs/spider = 64 legs.",
+    "Next, I will calculate the total number of legs for the ants.",
+    "There are 12 ants, and each has 6 legs, so 12 ants x 6 legs/ant = 72 legs.",
+    "To find the total number of legs in the entire collection, I need to add the legs from the spiders and the ants together.",
+    "Total legs = 64 legs (spiders) + 72 legs (ants) = 136 legs."
+  ],
+  "solution": "136"
+}

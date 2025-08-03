@@ -1,0 +1,26 @@
+{
+  "query": "Janet buys 3 pounds of broccoli for $4 a pound, 3 oranges for $0.75 each, a cabbage for $3.75, a pound of bacon for $3, and two pounds of chicken for $3 a pound. What percentage of her grocery budget did she spend on meat, rounded to the nearest percent?",
+  "steps": [
+    "Janet buys 3 pounds of broccoli at $4 per pound. The cost will be 3 pounds times $4 per pound.",
+    "3 pounds x $4/pound = $12 for broccoli.",
+    "Janet buys 3 oranges at $0.75 each. The cost will be 3 oranges times $0.75 per orange.",
+    "3 oranges x $0.75/orange = $2.25 for oranges.",
+    "A cabbage costs $3.75.",
+    "Janet buys 1 pound of bacon at $3 per pound. The cost will be 1 pound times $3 per pound.",
+    "1 pound x $3/pound = $3 for bacon.",
+    "Janet buys 2 pounds of chicken at $3 per pound. The cost will be 2 pounds times $3 per pound.",
+    "2 pounds x $3/pound = $6 for chicken.",
+    "Total cost of groceries is the sum of costs for broccoli, oranges, cabbage, bacon, and chicken.",
+    "Total = $12 (broccoli) + $2.25 (oranges) + $3.75 (cabbage) + $3 (bacon) + $6 (chicken).",
+    "Total = $27.",
+    "Next, find the total cost of meat, which is bacon and chicken.",
+    "Total meat cost = $3 (bacon) + $6 (chicken).",
+    "Total meat cost = $9.",
+    "To find the percentage of her grocery budget spent on meat, divide the meat cost by the total cost and then multiply by 100.",
+    "Percentage spent on meat = ($9 / $27) x 100%.",
+    "Percentage spent on meat = 0.3333 x 100%.",
+    "Percentage spent on meat = 33.33%.",
+    "Rounded to the nearest percent, the percentage of Janet's grocery budget spent on meat is 33%."
+  ],
+  "solution": "33"
+}

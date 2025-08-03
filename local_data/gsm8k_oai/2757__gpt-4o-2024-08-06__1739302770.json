@@ -1,0 +1,22 @@
+{
+  "query": "Aryan owes Fernanda $1200, which is twice what Kyro owes Fernanda. Aryan decides to pay 60% of her debt to Fernanda, and Kyro pays Fernanda 80% of her dept. If Fernanda had $300 in her savings account and adds the money she's been paid by her debtors to the savings account, calculate the total amount of money in her savings account now.",
+  "steps": [
+    "I know Aryan owes Fernanda $1200.",
+    "I also know Aryan's debt is twice what Kyro owes Fernanda.",
+    "Let Kyro's debt be \\( X \\).",
+    "According to the information, \\( 2X = 1200 \\).",
+    "Solving for \\( X \\), we get \\( X = \\frac{1200}{2} = 600 \\).",
+    "Kyro owes Fernanda $600.",
+    "Aryan decides to pay 60% of her debt.",
+    "60% of $1200 is \\( 0.6 \\times 1200 = 720 \\).",
+    "Aryan pays Fernanda $720.",
+    "Kyro pays 80% of his debt.",
+    "80% of $600 is \\( 0.8 \\times 600 = 480 \\).",
+    "Kyro pays Fernanda $480.",
+    "The total amount paid by Aryan and Kyro is \\( 720 + 480 = 1200 \\).",
+    "Initially, Fernanda had $300 in her savings account.",
+    "Fernanda adds the $1200 she received from Aryan and Kyro to her savings account.",
+    "The total amount in the savings account now is \\( 300 + 1200 = 1500 \\)."
+  ],
+  "solution": "1500"
+}

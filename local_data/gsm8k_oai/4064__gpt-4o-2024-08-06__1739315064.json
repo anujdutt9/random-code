@@ -1,0 +1,14 @@
+{
+  "query": "The novelty shop on the Starship Conundrum sells magazines and chocolates.  The cost of four chocolate bars is equal to the cost of 8 magazines.  If one magazine costs $1, how much does a dozen chocolate bars cost, in dollars?",
+  "steps": [
+    "Let's first assign some variables to the given items: let C be the cost of one chocolate bar in dollars, and M be the cost of one magazine in dollars.",
+    "We know from the problem statement that the cost of four chocolate bars equals the cost of 8 magazines. We can write this equation as 4C = 8M.",
+    "We are given that one magazine costs $1, so M = 1.",
+    "Substitute M = 1 into the equation 4C = 8M, yielding 4C = 8 * 1.",
+    "Simplify the equation 4C = 8, to find the cost of one chocolate bar. Divide both sides by 4 to get C = 2.",
+    "Now, the cost of one chocolate bar is $2.",
+    "The problem asks for the cost of a dozen chocolate bars, which is 12 chocolate bars.",
+    "Multiply the cost of one chocolate bar, which is $2, by 12 to find the total cost: 12 * 2 = 24."
+  ],
+  "solution": "24"
+}

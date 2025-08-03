@@ -1,0 +1,20 @@
+{
+  "query": "A merchant bought 15 keyboards and 25 printers for a total of $2050. If a keyboard costs $20, how much does a printer cost?",
+  "steps": [
+    "First, I need to find out the total cost of the keyboards.",
+    "The merchant bought 15 keyboards.",
+    "Each keyboard costs $20.",
+    "To find the total cost of the keyboards, I multiply the number of keyboards by the cost per keyboard.",
+    "15 keyboards * $20/keyboard = $300.",
+    "Now, I know the total cost of the keyboards is $300.",
+    "I need to find out how much was spent on the printers.",
+    "The total cost for both the keyboards and printers is $2050.",
+    "To find the cost spent on the printers, I subtract the cost of the keyboards from the total cost.",
+    "$2050 total - $300 for keyboards = $1750 remaining for printers.",
+    "Next, I need to find the cost of one printer.",
+    "The merchant bought 25 printers.",
+    "I need to divide the total cost of the printers by the number of printers to find the cost per printer.",
+    "$1750 / 25 printers = $70 per printer."
+  ],
+  "solution": "70"
+}

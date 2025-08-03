@@ -1,0 +1,17 @@
+{
+  "query": "Ali had a stock of 800 books in his Room. He sold 60 on Monday, 10 on Tuesday, 20 on Wednesday, 44 on Thursday and 66 on Friday. How many books were not sold?",
+  "steps": [
+    "Ali started with 800 books.",
+    "On Monday, he sold 60 books.",
+    "So, after Monday, 800 - 60 = 740 books remain.",
+    "On Tuesday, he sold 10 books.",
+    "So, after Tuesday, 740 - 10 = 730 books remain.",
+    "On Wednesday, he sold 20 books.",
+    "So, after Wednesday, 730 - 20 = 710 books remain.",
+    "On Thursday, he sold 44 books.",
+    "So, after Thursday, 710 - 44 = 666 books remain.",
+    "On Friday, he sold 66 books.",
+    "So, after Friday, 666 - 66 = 600 books remain."
+  ],
+  "solution": "600"
+}

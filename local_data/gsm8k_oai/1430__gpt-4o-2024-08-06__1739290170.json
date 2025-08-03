@@ -1,0 +1,20 @@
+{
+  "query": "There are 14 girls, 11 boys, and their parents at a park. If they split into 3 equally sized playgroups, each group contains 25 people. How many parents were at the park?",
+  "steps": [
+    "First, I understand the problem involves people at a park: girls, boys, and parents.",
+    "There are 14 girls and 11 boys.",
+    "I need to calculate the total number of girls and boys, which is 14 + 11.",
+    "14 + 11 equals 25.",
+    "The problem states that each playgroup has 25 people.",
+    "These 25 people already account for all the girls and boys, since we calculated that there are 25 girls and boys combined.",
+    "This implies that the total of 25 people in each playgroup contains no extra girls or boys; it's solely them.",
+    "If the total number of people in each group is 25, and all 3 groups together include people already accounted for, I need to consider the total number of groups.",
+    "With 3 equally sized groups, the total number of people at the park across all groups is 3 multiplied by 25.",
+    "3 multiplied by 25 equals 75.",
+    "These 75 people are made up of the 25 girls and boys we already mentioned, along with parents.",
+    "If the girls and boys total to 25, then the remainder of the 75 people must be parents.",
+    "So, I subtract the 25 girls and boys from the total of 75 people.",
+    "75 minus 25 equals 50."
+  ],
+  "solution": "50"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Two buses leave a pick-up point station with 60% and 70% of capacity full, respectively. If the people in the buses are all employees of a company, and the buses have a capacity of 150, calculate the total number of the employees in the two buses combined?",
+  "steps": [
+    "First, I need to calculate the number of employees on the first bus. The capacity of the bus is 150, and the first bus is 60% full.",
+    "I calculate 60% of 150 by multiplying 150 by 0.6.",
+    "150 multiplied by 0.6 equals 90.",
+    "Now, I know that there are 90 employees on the first bus.",
+    "Next, I need to calculate the number of employees on the second bus. The capacity is also 150, and the second bus is 70% full.",
+    "I calculate 70% of 150 by multiplying 150 by 0.7.",
+    "150 multiplied by 0.7 equals 105.",
+    "Now, I know that there are 105 employees on the second bus.",
+    "To find the total number of employees in both buses, I add the number of employees on the first bus to the number on the second bus.",
+    "90 plus 105 equals 195."
+  ],
+  "solution": "195"
+}

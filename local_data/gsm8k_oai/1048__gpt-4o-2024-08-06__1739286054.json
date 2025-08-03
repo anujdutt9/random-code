@@ -1,0 +1,11 @@
+{
+  "query": "A water tower that serves four neighborhoods around it holds 1200 barrels of water and is filled to the top each week. If one neighborhood uses 150 barrels of water in a week, the second neighborhood uses twice as many barrels of water as the first neighborhood in a week, and the third neighborhood uses one hundred more barrels of water than the second neighborhood in a week, how many barrels are left for the fourth neighborhood?",
+  "steps": [
+    "First, I'll identify the amount of water used by the first neighborhood, which is 150 barrels of water per week.",
+    "Next, I'll calculate the amount of water used by the second neighborhood. Since it uses twice as much as the first, the second neighborhood uses 150 barrels * 2 = 300 barrels per week.",
+    "Then, I'll determine how much water the third neighborhood uses. It uses 100 more barrels than the second neighborhood, so it uses 300 barrels + 100 barrels = 400 barrels per week.",
+    "Now I need to calculate the total amount of water used by the first three neighborhoods together: 150 barrels + 300 barrels + 400 barrels = 850 barrels per week.",
+    "To find out how many barrels are left for the fourth neighborhood, I'll subtract the total amount used by the first three neighborhoods from the total amount of water in the tower: 1200 barrels - 850 barrels = 350 barrels."
+  ],
+  "solution": "350"
+}

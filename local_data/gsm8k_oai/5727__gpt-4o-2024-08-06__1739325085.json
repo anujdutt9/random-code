@@ -1,0 +1,18 @@
+{
+  "query": "Jack is making flower crowns out of red, pink and white daisies. There are nine times as many pink daisies as white daisies and three less than four times as many red daisies as pink daisies. If there are 6 white daisies, how many daisies are there total?",
+  "steps": [
+    "First, I know there are 6 white daisies.",
+    "There are nine times as many pink daisies as white daisies.",
+    "So, I calculate the number of pink daisies by multiplying the number of white daisies by 9.",
+    "6 white daisies * 9 = 54 pink daisies.",
+    "Now, I need to calculate the number of red daisies.",
+    "There are three less than four times as many red daisies as pink daisies.",
+    "First, I find four times the number of pink daisies.",
+    "4 * 54 pink daisies = 216.",
+    "Then, I find three less than this number.",
+    "216 - 3 = 213 red daisies.",
+    "Now, I calculate the total number of daisies by adding the numbers of white, pink, and red daisies.",
+    "6 white + 54 pink + 213 red = 273 daisies."
+  ],
+  "solution": "273"
+}

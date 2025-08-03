@@ -1,0 +1,20 @@
+{
+  "query": "Madeline spends 18 hours a week in class. She spends 4 hours per day working on homework. She spends 8 hours per day sleeping. She works part-time 20 hours per week. How many hours left over does Madeline have?",
+  "steps": [
+    "First, calculate the total number of hours in a week. There are 7 days in a week and 24 hours in a day.",
+    "7 days * 24 hours/day = 168 hours.",
+    "Madeline spends 18 hours a week in class. We'll subtract this from the total.",
+    "168 hours - 18 hours = 150 hours remaining.",
+    "She spends 4 hours per day on homework. Calculate the total weekly hours spent on homework.",
+    "4 hours/day * 7 days = 28 hours per week on homework.",
+    "Subtract the homework hours from the remaining hours.",
+    "150 hours - 28 hours = 122 hours remaining.",
+    "She spends 8 hours per day sleeping. Calculate the total weekly hours spent sleeping.",
+    "8 hours/day * 7 days = 56 hours per week sleeping.",
+    "Subtract the sleeping hours from the remaining hours.",
+    "122 hours - 56 hours = 66 hours remaining.",
+    "She works part-time for 20 hours per week. Subtract the work hours from the remaining hours.",
+    "66 hours - 20 hours = 46 hours remaining."
+  ],
+  "solution": "46"
+}

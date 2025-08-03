@@ -1,0 +1,14 @@
+{
+  "query": "A carton contains 12 boxes. If each box has 10 packs of cheese cookies, what's the price of a pack of cheese cookies if a dozen cartons cost $1440?",
+  "steps": [
+    "First, I need to determine how many packs of cheese cookies there are in one carton.",
+    "There are 12 boxes in one carton, and each box contains 10 packs of cheese cookies.",
+    "So, in one carton, there are 12 boxes * 10 packs per box = 120 packs of cheese cookies.",
+    "Now, I need to find out how many packs there are in a dozen (12) cartons.",
+    "A dozen cartons would have 12 cartons * 120 packs per carton = 1440 packs of cheese cookies.",
+    "The price for a dozen cartons is $1440.",
+    "To find the price of one pack of cheese cookies, I divide the total cost by the total number of packs.",
+    "So, $1440 / 1440 packs = $1 per pack."
+  ],
+  "solution": "1"
+}

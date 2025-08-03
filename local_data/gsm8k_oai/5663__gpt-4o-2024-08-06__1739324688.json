@@ -1,0 +1,19 @@
+{
+  "query": "The rate for mowing a lawn is $14 per hour. David mowed for 2 hours a day for a week. He then spent half of the money he made from mowing a lawn on a pair of shoes and gave half of the remaining money to his mom. How much money did he have left?",
+  "steps": [
+    "First, I need to determine how many hours David mowed the lawn in total over the week.",
+    "David mowed for 2 hours a day.",
+    "A week has 7 days, so he mowed for 2 hours/day * 7 days = 14 hours total.",
+    "Now, calculate the total money earned by David by multiplying the total hours he mowed by the hourly rate.",
+    "The rate for mowing a lawn is $14 per hour.",
+    "Therefore, David earned 14 hours * $14/hour = $196 in total.",
+    "Next, he spent half of the $196 on a pair of shoes.",
+    "Half of $196 is $196 / 2 = $98.",
+    "After buying the shoes, David has $196 - $98 = $98 left.",
+    "He then gave half of the remaining money to his mom.",
+    "Half of $98 is $98 / 2 = $49.",
+    "Finally, subtract the $49 he gave to his mom from the $98 he had left after buying the shoes.",
+    "David has $98 - $49 = $49 remaining."
+  ],
+  "solution": "49"
+}

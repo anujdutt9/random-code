@@ -1,0 +1,16 @@
+{
+  "query": "Harry needs to buy 5 spellbooks that each cost 5 gold, three potion kits that each cost 20 silver, and one owl that costs 28 gold. There are 9 silver to a gold. How much will Harry pay total, in silvers?",
+  "steps": [
+    "First, I need to calculate the total cost of the spellbooks in gold. Each spellbook costs 5 gold, and Harry needs 5 of them.",
+    "5 spellbooks * 5 gold per spellbook = 25 gold.",
+    "Next, I need to calculate the total cost of the potion kits in silver. Each potion kit costs 20 silver, and Harry needs 3 of them.",
+    "3 potion kits * 20 silver per potion kit = 60 silver.",
+    "Now, I need to add the cost of the owl, which is 28 gold.",
+    "Total cost in gold is for spellbooks (25 gold) + owl (28 gold) = 53 gold.",
+    "I need to convert all the gold into silver to find out the total cost in silvers. There are 9 silver to a gold.",
+    "53 gold * 9 silver per gold = 477 silver.",
+    "Now I need to add the silver from the potion kits to the silver from the gold conversion.",
+    "477 silver + 60 silver = 537 silver."
+  ],
+  "solution": "537"
+}

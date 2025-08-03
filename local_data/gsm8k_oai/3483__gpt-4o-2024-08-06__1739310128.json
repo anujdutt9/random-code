@@ -1,0 +1,15 @@
+{
+  "query": "Mark collects money for the homeless.  He visits 20 households a day for 5 days and half of those households give him a pair of 20s.  How much did he collect?",
+  "steps": [
+    "First, I need to find out how many households Mark visits in total over 5 days.",
+    "Mark visits 20 households a day.",
+    "So, over 5 days, he visits 20 households/day * 5 days = 100 households.",
+    "Next, I need to determine how many of those households give him a pair of 20s.",
+    "Half of the households give him a pair of 20s.",
+    "Half of 100 households is 100 / 2 = 50 households.",
+    "Now, I need to calculate how much money those 50 households give him.",
+    "Each household that gives him money gives a pair of 20s, which is $20 * 2 = $40.",
+    "Therefore, from 50 households, he collects 50 households * $40/household = $2000."
+  ],
+  "solution": "2000"
+}

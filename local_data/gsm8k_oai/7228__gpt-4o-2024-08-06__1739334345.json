@@ -1,0 +1,19 @@
+{
+  "query": "If Pete read twice as many books as Matt did last year, and this year he doubles that number while Matt reads only 50% more, how many books does Pete read across both years if Matt read 75 books in his second year?",
+  "steps": [
+    "Matt read 75 books this year, which is the second year.",
+    "This year, Matt reads 50% more than he did last year.",
+    "If Matt read 75 books this year, which is 150% of what he read last year, let's calculate what he read last year.",
+    "Let's denote the number of books Matt read last year as M. Since he read 75 books this year, which is 1.5 times last year's books, we have 1.5 * M = 75.",
+    "To find M, divide both sides by 1.5: M = 75 / 1.5.",
+    "Calculate 75 / 1.5, which equals 50.",
+    "So Matt read 50 books last year.",
+    "Pete read twice as many books as Matt last year.",
+    "So Pete read 2 * 50 = 100 books last year.",
+    "This year, Pete doubles the number of books he read compared to last year.",
+    "So this year, Pete reads 2 * 100 = 200 books.",
+    "To find the total number of books Pete read across both years, add the books from last year and this year.",
+    "100 (last year) + 200 (this year) = 300 books."
+  ],
+  "solution": "300"
+}

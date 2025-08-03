@@ -1,0 +1,16 @@
+{
+  "query": "A rectangle has a length of 40 meters and a width of 20 meters. A similar smaller rectangle has half the length and width of the big rectangle. What's the area of the smaller rectangle?",
+  "steps": [
+    "The length of the larger rectangle is given as 40 meters.",
+    "The smaller rectangle has half the length of the larger rectangle.",
+    "Half of 40 meters is 20 meters.",
+    "The width of the larger rectangle is given as 20 meters.",
+    "The smaller rectangle has half the width of the larger rectangle.",
+    "Half of 20 meters is 10 meters.",
+    "Now, I have the dimensions of the smaller rectangle: a length of 20 meters and a width of 10 meters.",
+    "To find the area of a rectangle, I multiply its length by its width.",
+    "I multiply 20 meters by 10 meters to find the area.",
+    "20 meters times 10 meters equals 200 square meters."
+  ],
+  "solution": "200"
+}

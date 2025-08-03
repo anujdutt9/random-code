@@ -1,0 +1,17 @@
+{
+  "query": "Johann had 60 oranges. He decided to eat 10. Once he ate them, half were stolen by Carson. Carson returned exactly 5. How many oranges does Johann have now?",
+  "steps": [
+    "Johann started with 60 oranges.",
+    "He ate 10 oranges, so we subtract 10 from 60.",
+    "60 - 10 = 50 oranges remain after Johann ate 10.",
+    "Half of these 50 oranges were stolen by Carson.",
+    "To find half of 50, we divide 50 by 2.",
+    "50 / 2 = 25 oranges were stolen.",
+    "The remaining oranges are 50 - 25.",
+    "50 - 25 = 25 oranges remain after the theft.",
+    "Carson returned 5 oranges.",
+    "Add these 5 returned oranges to the remaining 25.",
+    "25 + 5 = 30 oranges."
+  ],
+  "solution": "30"
+}

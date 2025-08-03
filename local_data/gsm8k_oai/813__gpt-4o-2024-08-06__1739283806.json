@@ -1,0 +1,20 @@
+{
+  "query": "Tom cannot afford a normal doctor, so he goes to a discount clinic that is 70% cheaper.   It takes two visits, though, instead of 1.   A normal doctor charges $200 for a visit.   How much money does he save?",
+  "steps": [
+    "First, I need to determine how much a normal doctor's single visit costs.",
+    "A normal doctor charges $200 for a visit.",
+    "Since the discount clinic is 70% cheaper, I need to find out how much a visit costs at the discount clinic.",
+    "First, calculate 70% of $200.",
+    "70% of $200 is calculated as (70/100) * $200 = $140.",
+    "Now, subtract $140 from $200 to find out how much the discount clinic charges for a single visit.",
+    "$200 - $140 = $60.",
+    "A visit to the discount clinic costs $60.",
+    "However, Tom visits the discount clinic twice, so I need to find the cost for two visits.",
+    "2 visits * $60 per visit = $120.",
+    "Now, determine the savings Tom makes by comparing the total cost of two visits at the discount clinic to one visit at the normal doctor.",
+    "A normal doctor visit costs $200, but Tom's total cost for two visits to the discount clinic is $120.",
+    "To determine the savings, subtract $120 from $200.",
+    "$200 - $120 = $80."
+  ],
+  "solution": "80"
+}

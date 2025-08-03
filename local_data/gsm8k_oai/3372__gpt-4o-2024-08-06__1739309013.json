@@ -1,0 +1,13 @@
+{
+  "query": "Tina is a professional boxer.  She wins her first 10 fights of her career.  She then goes on to win 5 more before losing her first fight, and then doubles her number of wins before losing again.  She then retires.  How many more wins than losses does she have at the end of her career?",
+  "steps": [
+    "Tina wins her first 10 fights.",
+    "She then wins 5 more fights, bringing her total wins to 15.",
+    "She loses her first fight after these 15 wins, making her loss count 1.",
+    "She doubles her number of wins after her first loss. Initially, she has 15 wins, and doubling this results in 30 total wins.",
+    "After doubling her wins, she loses one more fight, bringing her total losses to 2.",
+    "Now Tina has 30 wins and 2 losses. The difference between wins and losses is 30 - 2.",
+    "Calculating 30 - 2 gives us the final answer."
+  ],
+  "solution": "28"
+}

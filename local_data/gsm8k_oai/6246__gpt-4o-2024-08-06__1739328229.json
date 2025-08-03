@@ -1,0 +1,18 @@
+{
+  "query": "There were 600 cookies in a box. Nicole ate 2/5 of the total number of cookies, while Eduardo ate 3/5 of the remaining amount. What percentage of the original cookies remained?",
+  "steps": [
+    "First, I need to find out how many cookies Nicole ate. She ate 2/5 of the total, which is 2/5 of 600.",
+    "Calculating 2/5 of 600: \\( \\frac{2}{5} \\times 600 = 240 \\).",
+    "Nicole ate 240 cookies.",
+    "Now, I need to find out how many cookies were left after Nicole had eaten. The original 600 minus the 240 she ate leaves 360 cookies.",
+    "Eduardo ate 3/5 of the remaining 360 cookies.",
+    "Calculating 3/5 of 360: \\( \\frac{3}{5} \\times 360 = 216 \\).",
+    "Eduardo ate 216 cookies.",
+    "Now, I need to calculate how many cookies remained after both Nicole and Eduardo had eaten. Subtract Eduardo's 216 cookies from the remaining 360 cookies.",
+    "360 - 216 = 144 cookies remain.",
+    "I need to determine what percentage of the original 600 cookies these 144 cookies represent.",
+    "Calculate the percentage: \\( \\left(\\frac{144}{600}\\right) \\times 100 \\).",
+    "\\( \\left(\\frac{144}{600}\\right) \\times 100 = 24 \\)."
+  ],
+  "solution": "24"
+}

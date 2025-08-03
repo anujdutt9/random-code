@@ -1,0 +1,14 @@
+{
+  "query": "When Betty makes cheesecake, she sweetens it with a ratio of one part sugar to four parts cream cheese, and she flavors it with one teaspoon of vanilla for every two cups of cream cheese. For every one teaspoon of vanilla, she uses two eggs. She used two cups of sugar in her latest cheesecake. How many eggs did she use?",
+  "steps": [
+    "Betty uses a sugar to cream cheese ratio of 1:4.",
+    "She used 2 cups of sugar.",
+    "For 2 cups of sugar, she used 4 times that amount in cream cheese because of the 1:4 ratio.",
+    "This means she used 2 * 4 = 8 cups of cream cheese.",
+    "Betty uses one teaspoon of vanilla for every two cups of cream cheese.",
+    "If she used 8 cups of cream cheese, she would use 8 / 2 = 4 teaspoons of vanilla.",
+    "For every one teaspoon of vanilla, she uses two eggs.",
+    "If she used 4 teaspoons of vanilla, then she would use 4 * 2 = 8 eggs."
+  ],
+  "solution": "8"
+}

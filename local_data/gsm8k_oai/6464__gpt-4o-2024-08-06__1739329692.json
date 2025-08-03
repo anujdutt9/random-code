@@ -1,0 +1,26 @@
+{
+  "query": "Bea's mom planted 50 Mahogany and 30 Narra trees on their farm. Due to a typhoon, a total of 5 trees fell. One more Mahogany tree fell than the number of Narra trees that fell. A month after the typhoon, Bea's mom planted twice as much as the number of the Narra and thrice the number of Mahogany trees that fell. How many trees are now on the farm?",
+  "steps": [
+    "First, I need to determine the number of Mahogany and Narra trees that fell in the typhoon.",
+    "Let's denote the number of Narra trees that fell as N_fallen.",
+    "Since one more Mahogany tree fell than the number of Narra trees, the number of Mahogany trees that fell is N_fallen + 1.",
+    "The total number of trees that fell is 5.",
+    "Thus, N_fallen (Narra) + (N_fallen + 1) (Mahogany) = 5.",
+    "Simplifying this equation: 2N_fallen + 1 = 5.",
+    "Subtract 1 from both sides: 2N_fallen = 4.",
+    "Divide both sides by 2: N_fallen = 2.",
+    "So, 2 Narra trees fell.",
+    "Since one more Mahogany tree fell, 2 + 1 = 3 Mahogany trees fell.",
+    "Now, a month after, Bea's mom planted twice the number of Narra trees that fell and thrice the number of Mahogany trees that fell.",
+    "Twice the number of Narra trees that fell is 2 * 2 = 4 Narra trees planted.",
+    "Thrice the number of Mahogany trees that fell is 3 * 3 = 9 Mahogany trees planted.",
+    "Initially, there were 50 Mahogany and 30 Narra trees on the farm.",
+    "After the typhoon, there were 50 - 3 = 47 Mahogany trees left.",
+    "And 30 - 2 = 28 Narra trees left.",
+    "Then Bea's mom planted 9 new Mahogany trees, so now there are 47 + 9 = 56 Mahogany trees.",
+    "Also, she planted 4 new Narra trees, now there are 28 + 4 = 32 Narra trees.",
+    "The total number of trees on the farm now is 56 (Mahogany) + 32 (Narra).",
+    "Adding these together gives 56 + 32 = 88 trees."
+  ],
+  "solution": "88"
+}

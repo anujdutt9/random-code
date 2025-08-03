@@ -1,0 +1,18 @@
+{
+  "query": "David has a store where he sells cell phones. When he takes inventory at the end of the day, he notices that he has 10 Samsung cell phones but he started the day with 14 Samsung cell phones. Then he notices that he has 5 iPhones and in the initial inventory, but started with 8. His staff then told him that in the afternoon they realized that 2 Samsung cell phones were damaged and 1 iPhone had a manufacturing defect in the screen, so they threw these out during the day. What was the total number of cell phones that were sold today?",
+  "steps": [
+    "David started the day with 14 Samsung cell phones.",
+    "At the end of the day, he has 10 Samsung cell phones remaining.",
+    "The difference between the starting and ending inventory of Samsung cell phones is 14 - 10 = 4.",
+    "Two Samsung cell phones were damaged and thrown out.",
+    "Therefore, the number of Samsung cell phones sold is 4 - 2 = 2.",
+    "David started the day with 8 iPhones.",
+    "At the end of the day, he has 5 iPhones remaining.",
+    "The difference between the starting and ending inventory of iPhones is 8 - 5 = 3.",
+    "One iPhone had a manufacturing defect and was thrown out.",
+    "Therefore, the number of iPhones sold is 3 - 1 = 2.",
+    "The total number of cell phones sold is the sum of the Samsung cell phones sold and the iPhones sold.",
+    "Total number of cell phones sold is 2 (Samsung) + 2 (iPhone) = 4."
+  ],
+  "solution": "4"
+}

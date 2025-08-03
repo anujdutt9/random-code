@@ -1,0 +1,18 @@
+{
+  "query": "Toby is counting goldfish in the local pond. He knows that only 25% of goldfish are at the surface and the rest are too deep below the surface to be able to see. If he counts 15 goldfish, how many are below the surface?",
+  "steps": [
+    "Toby has counted 15 goldfish at the surface of the pond.",
+    "He knows that these 15 goldfish represent 25% of all the goldfish in the pond.",
+    "I need to find out what 100% of the goldfish would be if 15 is 25%.",
+    "If 15 represents 25%, then we can set up the equation 0.25 * Total = 15.",
+    "To find the total number of goldfish, I divide 15 by 0.25.",
+    "15 divided by 0.25 equals 60.",
+    "This means there are a total of 60 goldfish in the pond.",
+    "Now I need to calculate how many goldfish are below the surface.",
+    "The goldfish below the surface would be the remainder, or 100% - 25% = 75% of all goldfish.",
+    "75% of 60 goldfish is calculated by multiplying 60 by 0.75.",
+    "60 times 0.75 equals 45.",
+    "Therefore, there are 45 goldfish below the surface."
+  ],
+  "solution": "45"
+}

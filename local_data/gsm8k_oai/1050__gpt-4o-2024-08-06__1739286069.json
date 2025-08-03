@@ -1,0 +1,18 @@
+{
+  "query": "Tom, Tim, and Paul are collecting photos of cars. Paul has 10 photos more than Tim. Tim has one hundred photos less than the total amount of photos which is 152. How many photos does Tom have?",
+  "steps": [
+    "First, I need to understand the relationships given in the problem. Tim has 100 photos less than the total amount of photos.",
+    "The total amount of photos is 152.",
+    "To find out how many photos Tim has, I need to subtract 100 from the total of 152.",
+    "152 - 100 equals 52. So, Tim has 52 photos.",
+    "Next, I'm told that Paul has 10 more photos than Tim.",
+    "Since Tim has 52 photos, I need to add 10 to find how many Paul has: 52 + 10 = 62.",
+    "Now, I know that Tim has 52 photos and Paul has 62 photos.",
+    "The total number of photos is 152.",
+    "To find out how many photos Tom has, I need to subtract the photos Tim and Paul have from the total.",
+    "So, I need to calculate 152 - 52 - 62.",
+    "First, I'll subtract Tim's photos: 152 - 52 = 100.",
+    "Next, I'll subtract Paul's photos: 100 - 62 = 38."
+  ],
+  "solution": "38"
+}

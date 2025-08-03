@@ -1,0 +1,13 @@
+{
+  "query": "Jack is trying to stack cans in his emergency bunker. If he can fit 12 cans in one row, 4 rows on one shelf, and 10 shelves in one closet, how many cans can he store in each closet?",
+  "steps": [
+    "First, I need to determine how many cans fit on one shelf.",
+    "There are 12 cans in one row and 4 rows on one shelf.",
+    "I multiply the number of cans per row by the number of rows: 12 cans/row * 4 rows = 48 cans.",
+    "So, 48 cans fit on one shelf.",
+    "Next, I need to determine how many cans fit in the entire closet.",
+    "There are 10 shelves in one closet.",
+    "I multiply the number of cans per shelf by the number of shelves: 48 cans/shelf * 10 shelves = 480 cans."
+  ],
+  "solution": "480"
+}

@@ -1,0 +1,11 @@
+{
+  "query": "Jeff has a shelter where he currently takes care of 20 cats. On Monday he found 2 kittens in a box and took them to the shelter. On Tuesday he found 1 more cat with a leg injury. On Wednesday 3 people adopted 2 cats each. How many cats does Jeff currently have in his shelter?",
+  "steps": [
+    "Jeff starts with 20 cats in his shelter.",
+    "On Monday, Jeff finds 2 kittens and adds them to the shelter. So, he now has 20 + 2 = 22 cats.",
+    "On Tuesday, Jeff finds 1 more cat with a leg injury and adds it to the shelter. Now he has 22 + 1 = 23 cats.",
+    "On Wednesday, 3 people adopt 2 cats each. This means a total of 3 * 2 = 6 cats are adopted.",
+    "Jeff now has 23 - 6 = 17 cats remaining in his shelter."
+  ],
+  "solution": "17"
+}

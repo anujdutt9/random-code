@@ -1,0 +1,19 @@
+{
+  "query": "A child is making a 5-level pyramid by stacking some blocks. In the first row, he has 9 blocks. For the next rows, he has 2 less than the blocks he has from its bottom row. How many blocks did he use in all?",
+  "steps": [
+    "I recognize that the pyramid has a total of 5 levels.",
+    "The first row has 9 blocks. This is the bottom row of the pyramid.",
+    "For each subsequent row, there are 2 fewer blocks than the row beneath it.",
+    "So, for the second row, there are 9 - 2 = 7 blocks.",
+    "The third row will have 7 - 2 = 5 blocks.",
+    "The fourth row will have 5 - 2 = 3 blocks.",
+    "The fifth row will have 3 - 2 = 1 block.",
+    "Now, I need to sum up the blocks in each row.",
+    "The total number of blocks used is 9 + 7 + 5 + 3 + 1.",
+    "Calculating this: \n9 + 7 = 16",
+    "16 + 5 = 21",
+    "21 + 3 = 24",
+    "24 + 1 = 25"
+  ],
+  "solution": "25"
+}

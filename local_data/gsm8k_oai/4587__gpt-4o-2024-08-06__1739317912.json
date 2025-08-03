@@ -1,0 +1,20 @@
+{
+  "query": "For 5 days, Chantel makes 2 friendship bracelets every day. She gives away 3 bracelets to her friends at school. Then for four days, she makes 3 friendship bracelets every day. Then she gives away 6 bracelets to her friends at soccer practice. How many bracelets does Chantel have in the end?",
+  "steps": [
+    "First, I need to calculate how many bracelets Chantel makes in the first 5 days.",
+    "Chantel makes 2 bracelets per day for 5 days.",
+    "So, 2 bracelets/day * 5 days = 10 bracelets.",
+    "Next, I need to subtract the bracelets she gives away to her friends at school.",
+    "She gives away 3 bracelets at school.",
+    "10 bracelets - 3 bracelets = 7 bracelets.",
+    "Now, I will calculate how many bracelets she makes in the next 4 days.",
+    "Chantel makes 3 bracelets per day for 4 days.",
+    "So, 3 bracelets/day * 4 days = 12 bracelets.",
+    "I need to add these bracelets to the 7 bracelets she had after giving away 3 at school.",
+    "7 bracelets + 12 bracelets = 19 bracelets.",
+    "Next, I need to subtract the bracelets she gives away at soccer practice.",
+    "She gives away 6 bracelets at soccer practice.",
+    "19 bracelets - 6 bracelets = 13 bracelets."
+  ],
+  "solution": "13"
+}

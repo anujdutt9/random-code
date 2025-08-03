@@ -1,0 +1,17 @@
+{
+  "query": "A frog lays 800 eggs a year.  10 percent dry up, and 70 percent are eaten.  1/4 of the remaining eggs end up hatching, how many frogs hatch out of the 800?",
+  "steps": [
+    "The frog lays 800 eggs in total.",
+    "First, I need to calculate how many eggs dry up. 10% of 800 eggs dry up.",
+    "10% of 800 is 0.10 * 800 = 80 eggs.",
+    "Next, I need to determine how many eggs are eaten. 70% of 800 eggs are eaten.",
+    "70% of 800 is 0.70 * 800 = 560 eggs.",
+    "I need to find out how many eggs remain after some have dried up or been eaten.",
+    "The total number of eggs that do not dry up or get eaten is 800 - 80 - 560.",
+    "800 - 80 - 560 = 160 eggs.",
+    "1/4 of the remaining eggs hatch.",
+    "1/4 of 160 is 160 / 4 = 40.",
+    "The final answer, which is the number of frogs that hatch, is 40."
+  ],
+  "solution": "40"
+}

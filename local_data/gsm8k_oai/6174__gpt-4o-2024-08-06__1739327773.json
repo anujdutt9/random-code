@@ -1,0 +1,12 @@
+{
+  "query": "Gigi is baking cookies. The recipe for 1 batch of cookies calls for 2 cups of flour. She bakes 3 batches of cookies. If her bag of flour contains 20 cups of flour, how many more batches of cookies could Gigi make in the future with the remaining amount of flour?",
+  "steps": [
+    "First, I need to calculate how many cups of flour Gigi uses for 3 batches of cookies.",
+    "Each batch requires 2 cups of flour, so for 3 batches, she uses 3 batches * 2 cups per batch = 6 cups of flour.",
+    "Next, I subtract the cups of flour Gigi used from the total amount she has.",
+    "She started with 20 cups of flour, and after using 6 cups, she has 20 cups - 6 cups = 14 cups of flour remaining.",
+    "Now, I determine how many additional batches of cookies she can make with the remaining 14 cups of flour.",
+    "Since each batch requires 2 cups of flour, I divide the remaining flour by the amount needed per batch: 14 cups / 2 cups per batch = 7 batches."
+  ],
+  "solution": "7"
+}

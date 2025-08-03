@@ -1,0 +1,16 @@
+{
+  "query": "Carol has $60 and saves $9 per week. Mike has $90 and saves $3 per week. How many weeks before Carol and Mike both have the same amount of money?",
+  "steps": [
+    "First, I need to determine the expression for the amount of money Carol has after a given number of weeks.",
+    "Carol starts with $60 and saves $9 per week. So, after \\( x \\) weeks, Carol will have \\( 60 + 9x \\) dollars.",
+    "Now, I should find the expression for the amount of money Mike has after the same number of weeks.",
+    "Mike starts with $90 and saves $3 per week. So, after \\( x \\) weeks, Mike will have \\( 90 + 3x \\) dollars.",
+    "The task is to find the number of weeks before Carol and Mike have the same amount of money.",
+    "I need to set the expressions for the amount of money Carol and Mike have equal to each other: \\( 60 + 9x = 90 + 3x \\).",
+    "To solve the equation, I'll start by subtracting \\( 3x \\) from both sides: \\( 60 + 6x = 90 \\).",
+    "Next, subtract 60 from both sides: \\( 6x = 30 \\).",
+    "Now, divide both sides by 6 to find \\( x \\): \\( x = 5 \\).",
+    "I have found that it will take 5 weeks for Carol and Mike to have the same amount of money."
+  ],
+  "solution": "5"
+}

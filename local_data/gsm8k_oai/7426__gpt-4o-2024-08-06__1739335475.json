@@ -1,0 +1,14 @@
+{
+  "query": "We harvested 405 kg of apples. 90 kg were used to make fruit juice and 60 kg were given to a restaurant. The rest was sold in 5 kg bags and their sale brought in $408. What was the selling price of one bag of apples?",
+  "steps": [
+    "Start by determining how many kilograms of apples were not used for juice or given to the restaurant.",
+    "405 kg (total harvested) - 90 kg (for juice) - 60 kg (to restaurant) = 255 kg remained for sale.",
+    "These 255 kg were sold in 5 kg bags.",
+    "To find out how many bags were sold, divide the total remaining kilograms by the weight of one bag.",
+    "255 kg \u00f7 5 kg/bag = 51 bags.",
+    "These 51 bags brought in a total of $408.",
+    "To find the selling price per bag, divide the total revenue by the number of bags sold.",
+    "$408 \u00f7 51 bags = $8 per bag."
+  ],
+  "solution": "8"
+}

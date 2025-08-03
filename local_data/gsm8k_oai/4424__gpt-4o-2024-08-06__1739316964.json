@@ -1,0 +1,22 @@
+{
+  "query": "At a James Bond movie party, each guest is either male (M) or female (F. 40% of the guests are women, 80% of the women are wearing rabbit ears, and 60% of the males are wearing rabbit ears. If the total number of guests at the party is 200, given all this information, what is the total number of people wearing rabbit ears?",
+  "steps": [
+    "First, I need to determine the number of female guests at the party.",
+    "Since 40% of the guests are women, I calculate 40% of 200.",
+    "40% of 200 is 0.4 * 200 = 80 women.",
+    "Now, I have established that there are 80 female guests.",
+    "Next, I find the number of female guests wearing rabbit ears.",
+    "80% of these women are wearing rabbit ears, so I calculate 80% of 80.",
+    "80% of 80 is 0.8 * 80 = 64 women wearing rabbit ears.",
+    "Now I need to determine the number of male guests.",
+    "Since 40% are women, the remaining 60% must be men.",
+    "Calculate 60% of 200 to find the number of male guests.",
+    "60% of 200 is 0.6 * 200 = 120 men.",
+    "Determine the number of male guests wearing rabbit ears.",
+    "60% of these males are wearing rabbit ears, hence calculate 60% of 120.",
+    "60% of 120 is 0.6 * 120 = 72 men wearing rabbit ears.",
+    "Finally, add the number of women wearing rabbit ears to the number of men wearing rabbit ears to find the total number of guests wearing rabbit ears.",
+    "64 women + 72 men = 136 guests wearing rabbit ears."
+  ],
+  "solution": "136"
+}

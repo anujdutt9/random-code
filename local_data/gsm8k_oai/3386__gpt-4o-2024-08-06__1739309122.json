@@ -1,0 +1,11 @@
+{
+  "query": "A pair of dogs are barking back and forth at each other from across the street. The poodle barks twice for every one time the terrier barks. The terrier\u2019s owner hushes it every second time it barks. She has to say \u201chush\u201d six times before the dogs stopped barking. How many times did the poodle bark?",
+  "steps": [
+    "The terrier barks every time its owner says \"hush\" for the second time, which happens after two barks.",
+    "The owner's six \"hushes\" means she has hushed the terrier after 12 barks (because 6 times 2 barks per \"hush\" equals 12).",
+    "Since the poodle barks twice for every terrier bark, I need to calculate how many times the poodle barks when the terrier barks 12 times.",
+    "The poodle barks 2 times for each of the 12 terrier barks, so I multiply 12 terrier barks by 2.",
+    "12 multiplied by 2 equals 24."
+  ],
+  "solution": "24"
+}

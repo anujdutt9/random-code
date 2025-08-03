@@ -1,0 +1,14 @@
+{
+  "query": "To produce one chocolate bar, a company needs 1.5 grams of sugar. Every minute the company produces 36 chocolate bars. How many grams of sugar will the company use in two minutes?",
+  "steps": [
+    "First, I need to determine how much sugar is required for one minute of production.",
+    "The company produces 36 chocolate bars every minute.",
+    "Each chocolate bar requires 1.5 grams of sugar.",
+    "To find the total grams of sugar used in one minute, I multiply the number of chocolate bars produced in one minute by the amount of sugar per chocolate bar.",
+    "36 chocolate bars x 1.5 grams of sugar per bar = 54 grams of sugar used in one minute.",
+    "Now, I need to find out how much sugar is used in two minutes.",
+    "Since the company produces the same amount of chocolate bars every minute, I can simply multiply the one-minute sugar usage by 2.",
+    "54 grams of sugar per minute x 2 minutes = 108 grams of sugar in two minutes."
+  ],
+  "solution": "108"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Wendy went to the dentist for a cleaning, two fillings, and a tooth extraction. The dentist charges $70 for a cleaning and $120 for a filling. Wendy\u2019s dentist bill was five times the cost of a filling. What did Wendy pay for the tooth extraction?",
+  "steps": [
+    "The cost of a cleaning is given as $70.",
+    "The cost of one filling is $120.",
+    "Wendy had two fillings, so the cost for the fillings is 2 * $120.",
+    "Calculating the cost for the fillings: 2 * $120 = $240.",
+    "Wendy's total dentist bill was five times the cost of one filling.",
+    "The cost of a filling is $120, so five times the cost of a filling is 5 * $120.",
+    "Calculating five times the cost of a filling: 5 * $120 = $600.",
+    "Wendy\u2019s total dentist bill is $600.",
+    "The total bill includes the cost of a cleaning, two fillings, and a tooth extraction.",
+    "Summing up the costs we know: $70 for cleaning + $240 for fillings = $310.",
+    "We know the total bill is $600, and we have accounted for $310 between the cleaning and the fillings.",
+    "The remaining amount to account for from the total bill is $600 - $310.",
+    "Calculating the remaining amount: $600 - $310 = $290.",
+    "This $290 must be the cost of the tooth extraction."
+  ],
+  "solution": "290"
+}

@@ -1,0 +1,22 @@
+{
+  "query": "When Erick went to the market to sell his fruits, he realized that the price of lemons had risen by $4 for each lemon. The price of grapes had also increased by half the price that the price of lemon increased by per grape. If he had planned to sell the lemons at $8 and the grapes at $7, and he had 80 lemons and 140 grapes in his basket, how much money did he collect from selling the fruits at the new prices?",
+  "steps": [
+    "First, I need to determine the original price per lemon and the increase in price for each lemon.",
+    "The original price per lemon was $8.",
+    "The increase in price for each lemon is $4.",
+    "Now, I calculate the new price per lemon by adding the original price and the increase: $8 + $4 = $12.",
+    "Next, I need to determine the original price per grape and the increase in price for each grape.",
+    "The original price per grape was $7.",
+    "The increase in price for each grape is half the increase in the price of a lemon: $4 / 2 = $2.",
+    "I calculate the new price per grape by adding the original price and the increase: $7 + $2 = $9.",
+    "Now, I will calculate the total revenue from selling the lemons at the new price.",
+    "There are 80 lemons, and each is sold at the new price of $12.",
+    "The total revenue from lemons is 80 lemons * $12 per lemon = $960.",
+    "Next, I calculate the total revenue from selling the grapes at the new price.",
+    "There are 140 grapes, and each is sold at the new price of $9.",
+    "The total revenue from grapes is 140 grapes * $9 per grape = $1260.",
+    "I add the total revenues from lemons and grapes to find the total amount of money collected.",
+    "The total amount of money collected is $960 (from lemons) + $1260 (from grapes) = $2220."
+  ],
+  "solution": "2220"
+}

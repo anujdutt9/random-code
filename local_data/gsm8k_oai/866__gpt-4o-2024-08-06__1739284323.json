@@ -1,0 +1,14 @@
+{
+  "query": "Jake is retrieving the notes on a communal board, putting all of the red notes in the complaints bin and all of the blue notes in the compliments bin. The red notes were in 5 rows with 6 notes in each row. There are 2 blue notes under each of the red notes, as well as another 10 blue notes scattered at the bottom of the board. How many notes in total are put into the complaints and compliments bins?",
+  "steps": [
+    "First, I need to figure out how many red notes there are. The red notes are organized in 5 rows with 6 notes in each row.",
+    "To calculate the total number of red notes, I multiply the number of rows by the number of notes per row: 5 rows * 6 notes/row = 30 red notes.",
+    "Now, I need to find out how many blue notes are there. According to the problem, there are 2 blue notes under each red note.",
+    "Since there are 30 red notes and 2 blue notes under each, I calculate the total number of blue notes under the red notes: 30 red notes * 2 blue notes/red note = 60 blue notes.",
+    "Additionally, there are 10 blue notes scattered at the bottom of the board.",
+    "Thus, the total number of blue notes is the sum of the blue notes under the red notes and the scattered blue notes: 60 blue notes + 10 blue notes = 70 blue notes.",
+    "To find the total number of notes, I need to add the red notes and the blue notes together.",
+    "So, the total number of notes is the sum of the red notes and the blue notes: 30 red notes + 70 blue notes = 100 notes."
+  ],
+  "solution": "100"
+}

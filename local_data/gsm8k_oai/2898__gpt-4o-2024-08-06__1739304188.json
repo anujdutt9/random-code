@@ -1,0 +1,23 @@
+{
+  "query": "Michael is stuck in an elevator that is slowly moving to the bottom floor. The elevator needs to move down 20 floors to reach the bottom. It takes 15 minutes for the elevator to travel down the first half of the floors. The elevator then takes 5 minutes per floor to travel down the next 5 floors. It then takes 16 minutes per floor for the elevator to finish traveling down the final 5 floors. In hours, how long did it take for the elevator to reach the bottom?",
+  "steps": [
+    "First, I need to determine how many floors are in the first half of the journey.",
+    "The elevator is moving down 20 floors in total.",
+    "Half of 20 floors is 10 floors.",
+    "The question states it takes 15 minutes to travel down the first half of the floors.",
+    "So, it takes 15 minutes to travel down the first 10 floors.",
+    "Next, I need to calculate the time taken to travel the next 5 floors.",
+    "It takes 5 minutes per floor for the next 5 floors.",
+    "Multiply 5 floors by 5 minutes per floor: 5 * 5 = 25 minutes.",
+    "Now, calculate the time taken for the final 5 floors.",
+    "It takes 16 minutes per floor for the last 5 floors.",
+    "Multiply 5 floors by 16 minutes per floor: 5 * 16 = 80 minutes.",
+    "Add all the times together to find the total time taken.",
+    "The total time is 15 minutes + 25 minutes + 80 minutes.",
+    "Calculate the sum: 15 + 25 + 80 = 120 minutes.",
+    "Convert the total time from minutes to hours.",
+    "There are 60 minutes in one hour.",
+    "Divide 120 minutes by 60 to convert to hours: 120 / 60 = 2 hours."
+  ],
+  "solution": "2"
+}

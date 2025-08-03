@@ -1,0 +1,24 @@
+{
+  "query": "At Sarah's job 60% of the employees are women and the rest are men. Of the men, 75% have a college degree and 8 do not. How many women work at Sarah's company?",
+  "steps": [
+    "I know that 60% of the employees at Sarah's company are women.",
+    "This means that 40% of the employees are men since the total must be 100%.",
+    "Let's find out how many men work at the company. Let \\( x \\) be the total number of employees.",
+    "The percentage of men that have a college degree is given as 75%.",
+    "This means that 25% of the men do not have a college degree.",
+    "We know that 8 men do not have a college degree. This represents 25% of the men.",
+    "If 25% of the men is 8, the total number of men can be calculated. Let \\( y \\) be the total number of men.",
+    "Set up the equation: \\( 0.25 \\times y = 8 \\).",
+    "Solve for \\( y \\): \\( y = \\frac{8}{0.25} \\).",
+    "Calculate \\( y \\): \\( y = 32 \\).",
+    "Now we know there are 32 men in the company.",
+    "Since men make up 40% of the employees, 32 is 40% of the total number of employees.",
+    "To find the total number of employees, set up the equation: \\( 0.40 \\times x = 32 \\).",
+    "Solve for \\( x \\): \\( x = \\frac{32}{0.40} \\).",
+    "Calculate \\( x \\): \\( x = 80 \\).",
+    "The total number of employees is 80.",
+    "I know that 60% of the employees are women.",
+    "Calculate the number of women: \\( 0.60 \\times 80 = 48 \\)."
+  ],
+  "solution": "48"
+}

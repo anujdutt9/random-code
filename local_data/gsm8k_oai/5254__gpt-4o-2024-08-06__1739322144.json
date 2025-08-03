@@ -1,0 +1,21 @@
+{
+  "query": "Shawn collected 40 plain pebbles. He painted 9 pebbles red and 13 pebbles blue. He then divided the remaining pebbles equally into 3 groups, and painted them purple, yellow, and green. What is the difference between the number of blue and yellow pebbles?",
+  "steps": [
+    "Shawn collected a total of 40 pebbles.",
+    "He painted 9 pebbles red and 13 pebbles blue.",
+    "First, I need to calculate the number of pebbles that were painted red and blue in total.",
+    "9 (red pebbles) + 13 (blue pebbles) = 22 pebbles",
+    "Shawn painted 22 pebbles either red or blue.",
+    "Now I need to find out how many pebbles were left after painting some red and blue.",
+    "40 (total pebbles) - 22 (red and blue pebbles) = 18 pebbles left",
+    "These 18 remaining pebbles were divided equally into 3 groups.",
+    "18 divided by 3 groups = 6 pebbles per group",
+    "Each group of 6 pebbles was painted a different color: purple, yellow, and green.",
+    "The question asks for the difference between the number of blue and yellow pebbles.",
+    "There are 13 blue pebbles.",
+    "There are 6 yellow pebbles.",
+    "Now, I calculate the difference between the number of blue and yellow pebbles.",
+    "13 (blue pebbles) - 6 (yellow pebbles) = 7"
+  ],
+  "solution": "7"
+}

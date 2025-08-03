@@ -1,0 +1,15 @@
+{
+  "query": "An agricultural cooperative must ship 6500 kg of potatoes. During transport by truck, 150 kg are damaged and therefore cannot be sold. The potatoes are distributed in 50 kg bags, each bag being sold for $72. What will the sale of the potatoes bring?",
+  "steps": [
+    "The cooperative starts with 6500 kg of potatoes to ship.",
+    "During transport, 150 kg are damaged and unsellable.",
+    "To find the sellable potatoes, I subtract the damaged amount from the initial amount: 6500 kg - 150 kg = 6350 kg.",
+    "The potatoes are distributed in 50 kg bags.",
+    "I need to find out how many 50 kg bags we can make from 6350 kg of potatoes: 6350 kg / 50 kg per bag = 127 bags.",
+    "Each bag sells for $72.",
+    "To calculate the total sale, I multiply the number of bags by the price per bag: 127 bags * $72 per bag.",
+    "127 * 72 is calculated as follows: 127 * 72 = 9144.",
+    "The total sale of the potatoes will bring in $9144."
+  ],
+  "solution": "9144"
+}

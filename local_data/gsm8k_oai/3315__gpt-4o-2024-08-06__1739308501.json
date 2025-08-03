@@ -1,0 +1,15 @@
+{
+  "query": "A factory manufactures cars with 5 doors. The factory was planning to produce 200 cars but due to metal shortages, they decreased the production by 50 cars. Due to a pandemic, they also had to cut production by another 50%. How many doors will the factory produce?",
+  "steps": [
+    "The factory initially planned to produce 200 cars.",
+    "They decreased production by 50 cars due to metal shortages.",
+    "200 cars initially planned - 50 cars decreased = 150 cars now planned.",
+    "Due to the pandemic, they had to cut production by 50%.",
+    "50% of 150 cars is 150 / 2 = 75 cars.",
+    "They will produce only 75 cars after the 50% reduction.",
+    "Each car has 5 doors.",
+    "The total number of doors equals the number of cars multiplied by the number of doors per car.",
+    "75 cars x 5 doors per car = 375 doors."
+  ],
+  "solution": "375"
+}

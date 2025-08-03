@@ -1,0 +1,20 @@
+{
+  "query": "Toby, the Alaskan Malamute, can pull a sled at a speed of 20 miles per hour if the sled is unloaded, but he pulls the same sled at a speed of 10 miles per hour if the sled is fully loaded.  If Toby takes a continuous 4-part journey, first pulling the loaded sled for 180 miles, then pulling the unloaded sled for 120 miles, then pulling the loaded sled 80 miles, and finally, pulling the unloaded sled another 140 miles, how many hours in total will Toby spend pulling the sled?",
+  "steps": [
+    "First, I will calculate the time taken for each portion of Toby's journey individually.",
+    "For the first part of the journey, Toby is pulling a loaded sled for 180 miles at 10 miles per hour.",
+    "Time taken for first part = distance / speed = 180 miles / 10 mph = 18 hours.",
+    "Next, for the second part of the journey, he is pulling an unloaded sled for 120 miles at 20 miles per hour.",
+    "Time taken for second part = distance / speed = 120 miles / 20 mph = 6 hours.",
+    "For the third part of the journey, Toby is again pulling the loaded sled for 80 miles at 10 miles per hour.",
+    "Time taken for third part = distance / speed = 80 miles / 10 mph = 8 hours.",
+    "Then for the fourth part of the journey, he is pulling the unloaded sled for 140 miles at 20 miles per hour.",
+    "Time taken for fourth part = distance / speed = 140 miles / 20 mph = 7 hours.",
+    "Now, to find the total time spent pulling the sled, I need to add all these times together.",
+    "Total time = 18 hours + 6 hours + 8 hours + 7 hours.",
+    "18 + 6 = 24.",
+    "24 + 8 = 32.",
+    "32 + 7 = 39."
+  ],
+  "solution": "39"
+}

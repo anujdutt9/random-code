@@ -1,0 +1,18 @@
+{
+  "query": "Five adults and two children go to see a movie and buy $12 worth of concessions. The total cost of their trip is $76. If each child's ticket is $7, how much, in dollars, are the adult tickets?",
+  "steps": [
+    "I need to determine the total ticket cost and then find the cost of the adult tickets.",
+    "The total cost of the trip is given as $76.",
+    "Concessions cost $12.",
+    "To find the total cost of tickets, I subtract the cost of concessions from the total trip cost.",
+    "$76 - $12 = $64 is the total cost of the tickets.",
+    "I'm told each child's ticket costs $7, and there are two children.",
+    "The total cost of the children's tickets is 2 \u00d7 $7 = $14.",
+    "The remaining cost is for the adult tickets. I subtract the cost of children's tickets from the total ticket cost.",
+    "$64 - $14 = $50 is the total cost of adult tickets.",
+    "There are five adults.",
+    "I divide the total cost of adult tickets by the number of adults to find the cost per adult ticket.",
+    "$50 \u00f7 5 = $10"
+  ],
+  "solution": "10"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Marta sells tomatoes in a grocery store. On Friday, a shipment of 1000 kg of tomatoes arrived at the store. On Saturday, Marta sold a total of 300 kg of tomatoes to customers. On Sunday, the store was closed, causing 200 kg of tomatoes to rot and to be thrown away. On Monday morning another shipment arrived, twice the size of the first one. How many kilograms of tomatoes did Marta have ready for sale on Tuesday?",
+  "steps": [
+    "First, I note that initially, on Friday, Marta receives a shipment of 1000 kg of tomatoes.",
+    "On Saturday, she sells 300 kg of tomatoes, so I subtract the sold amount from the available tomatoes.",
+    "1000 kg - 300 kg = 700 kg of tomatoes remain after Saturday's sales.",
+    "On Sunday, the store is closed, and 200 kg of tomatoes rot and have to be thrown away.",
+    "I need to subtract the rotting loss from the remaining tomatoes after Saturday.",
+    "700 kg - 200 kg = 500 kg of tomatoes remain after accounting for rotting on Sunday.",
+    "On Monday morning, a new shipment arrives, which is twice the size of Friday's shipment.",
+    "Twice the size of Friday's shipment is 2 x 1000 kg = 2000 kg.",
+    "I add this new shipment to the tomatoes still available, the 500 kg left after Sunday.",
+    "500 kg + 2000 kg = 2500 kg.",
+    "Thus, the total amount of tomatoes Marta has ready for sale on Tuesday is 2500 kg."
+  ],
+  "solution": "2500"
+}

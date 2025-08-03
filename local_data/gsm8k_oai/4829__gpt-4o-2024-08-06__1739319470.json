@@ -1,0 +1,30 @@
+{
+  "query": "After geometry class, Bill wants to count how many lines he drew. For each shape, he drew one line per side. If he drew 12 triangles, 8 squares, and 4 pentagons, how many lines did he draw?",
+  "steps": [
+    "First, I will calculate the number of lines Bill drew for the triangles.",
+    "A triangle has 3 sides, so Bill drew 3 lines per triangle.",
+    "Bill drew 12 triangles.",
+    "To find the total number of lines for the triangles, I will multiply the number of triangles by the number of lines per triangle: 12 triangles * 3 lines per triangle.",
+    "12 * 3 = 36",
+    "Bill drew 36 lines for the triangles.",
+    "Next, I'll calculate the number of lines Bill drew for the squares.",
+    "A square has 4 sides, so Bill drew 4 lines per square.",
+    "Bill drew 8 squares.",
+    "To find the total number of lines for the squares, I will multiply the number of squares by the number of lines per square: 8 squares * 4 lines per square.",
+    "8 * 4 = 32",
+    "Bill drew 32 lines for the squares.",
+    "Now, I'll calculate the number of lines Bill drew for the pentagons.",
+    "A pentagon has 5 sides, so Bill drew 5 lines per pentagon.",
+    "Bill drew 4 pentagons.",
+    "To find the total number of lines for the pentagons, I will multiply the number of pentagons by the number of lines per pentagon: 4 pentagons * 5 lines per pentagon.",
+    "4 * 5 = 20",
+    "Bill drew 20 lines for the pentagons.",
+    "Now, I will add up all the lines Bill drew for the triangles, squares, and pentagons to find the total number of lines.",
+    "Total lines = lines from triangles + lines from squares + lines from pentagons",
+    "Total lines = 36 (triangles) + 32 (squares) + 20 (pentagons)",
+    "36 + 32 = 68",
+    "68 + 20 = 88",
+    "The total number of lines Bill drew is 88."
+  ],
+  "solution": "88"
+}

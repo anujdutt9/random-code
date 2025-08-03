@@ -1,0 +1,16 @@
+{
+  "query": "If Ken's house is twice as far from Dawn's house as Mary's house along a certain road, and Ken's house is 4 miles away from Dawn's house along this same road, how much distance (in miles) will Ken cover if he goes from his house to Dawn's house, then Mary's, then back to Dawn's before going back to his own house?",
+  "steps": [
+    "Ken's house is twice as far from Dawn's house as Mary's house is along the road.",
+    "Ken's house is 4 miles away from Dawn's house.",
+    "Since Ken's house is twice as far from Dawn's house as Mary's house, the distance between Mary's house and Dawn's house must be half of the distance from Ken's house to Dawn's house.",
+    "Thus, the distance between Mary's house and Dawn's house is 4 miles / 2 = 2 miles.",
+    "Ken will first travel from his house to Dawn's house, covering 4 miles.",
+    "Next, Ken travels from Dawn's house to Mary's house, covering 2 miles.",
+    "Then Ken travels back from Mary's house to Dawn's house, which is another 2 miles.",
+    "Finally, Ken travels from Dawn's house to his own house, which is 4 miles.",
+    "Now, I'll add up all these distances: 4 miles (Ken to Dawn) + 2 miles (Dawn to Mary) + 2 miles (Mary to Dawn) + 4 miles (Dawn to Ken).",
+    "4 + 2 + 2 + 4 = 12 miles."
+  ],
+  "solution": "12"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "A flower shop sells bouquets of roses, which each contain 12 roses, and bouquets of daisies, which each contain an equal amount of daisies. The flower shop sells 20 bouquets today. 10 of these were rose bouquets and the remaining 10 bouquets were daisy bouquets. If the flower shop has sold 190 flowers in total today, how many daisies are in each bouquet of daisies?",
+  "steps": [
+    "First, I need to figure out how many flowers are in the rose bouquets that were sold. There are 10 bouquets of roses sold.",
+    "Each bouquet of roses contains 12 roses.",
+    "To find out how many roses were sold, I multiply the number of rose bouquets by the number of roses in each bouquet: 10 bouquets * 12 roses = 120 roses.",
+    "Now, I need to find out how many flowers are in the daisy bouquets.",
+    "The total number of flowers sold today is 190.",
+    "I already calculated that 120 of these flowers are roses.",
+    "To find out how many flowers are from the daisy bouquets, I subtract the number of roses from the total number of flowers: 190 total flowers - 120 roses = 70 daisy flowers.",
+    "There are 10 daisy bouquets sold.",
+    "To find out how many daisies are in each bouquet, I divide the total number of daisy flowers by the number of daisy bouquets: 70 daisy flowers / 10 bouquets = 7 daisies per bouquet."
+  ],
+  "solution": "7"
+}

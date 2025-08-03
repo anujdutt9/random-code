@@ -1,0 +1,16 @@
+{
+  "query": "At a party, there are 400 students, a combination of poets, singers and tree huggers. There are 50 more poets than treehuggers at the party. If the number of tree huggers is 120, how many singers are at the party?",
+  "steps": [
+    "The total number of students at the party is 400.",
+    "The number of tree huggers at the party is given as 120.",
+    "There are 50 more poets than tree huggers at the party.",
+    "Since there are 120 tree huggers, the number of poets is 120 + 50 = 170.",
+    "Now, I need to find the number of singers.",
+    "The total number of students is the sum of poets, singers, and tree huggers.",
+    "I know there are 170 poets and 120 tree huggers.",
+    "The sum of poets and tree huggers is 170 + 120 = 290.",
+    "To find the number of singers, I subtract the sum of poets and tree huggers from the total number of students.",
+    "So, the number of singers is 400 - 290 = 110."
+  ],
+  "solution": "110"
+}

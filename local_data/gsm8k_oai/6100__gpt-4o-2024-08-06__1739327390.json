@@ -1,0 +1,14 @@
+{
+  "query": "Grandma Olga has 3 daughters and 3 sons.  If all her daughters each have 6 sons, and each of her sons has 5 daughters, how many grandchildren does she have in total?",
+  "steps": [
+    "First, let's identify how many daughters grandma Olga has. She has 3 daughters.",
+    "Each daughter has 6 sons. Therefore, to find out how many grandsons she has through her daughters, we multiply the number of daughters by the number of sons each has. This is \\(3 \\times 6\\).",
+    "Calculating this gives \\(18\\) grandsons from her daughters.",
+    "Now, let's determine how many sons grandma Olga has. She has 3 sons.",
+    "Each son has 5 daughters. So, to find out how many granddaughters she has through her sons, we multiply the number of sons by the number of daughters each has. This is \\(3 \\times 5\\).",
+    "Calculating this gives \\(15\\) granddaughters from her sons.",
+    "To find out the total number of grandchildren, we add up the number of grandsons and granddaughters. So, we add 18 grandsons and 15 granddaughters, which is \\(18 + 15\\).",
+    "Calculating this gives us a total of \\(33\\) grandchildren."
+  ],
+  "solution": "33"
+}

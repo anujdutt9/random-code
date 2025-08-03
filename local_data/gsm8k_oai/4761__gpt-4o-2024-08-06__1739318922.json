@@ -1,0 +1,12 @@
+{
+  "query": "There are 100 jellybeans in a glass jar.  Mrs. Copper\u2019s kindergarten class normally has 24 kids, but 2 children called in sick and stayed home that day. The remaining children who attended school eat 3 jellybeans each. How many jellybeans are still left in the jar?",
+  "steps": [
+    "First, find out how many children were present in the class by subtracting the number of sick children from the total number of children.",
+    "24 children normally, 2 sick, so 24 - 2 = 22 children were present.",
+    "Each child eats 3 jellybeans. Multiply the number of children by the number of jellybeans each consumes to find the total number of jellybeans eaten.",
+    "22 children * 3 jellybeans each = 66 jellybeans were eaten.",
+    "Subtract the number of jellybeans eaten from the initial total to find out how many jellybeans are left in the jar.",
+    "100 jellybeans - 66 jellybeans eaten = 34 jellybeans remaining."
+  ],
+  "solution": "34"
+}

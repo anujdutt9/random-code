@@ -1,0 +1,14 @@
+{
+  "query": "There are 10 students in a class. The average age of 9 of them is 8 years. By how many years will this average increase if the tenth student is (quite strangely) 28 years old?",
+  "steps": [
+    "First, I need to determine the total age of the first 9 students. If their average age is 8 years, the total age can be found by multiplying the average by the number of students.",
+    "Total age of first 9 students = 8 years/student * 9 students = 72 years.",
+    "Next, I need to calculate the total age of all 10 students, including the tenth student who is 28 years old.",
+    "Adding the age of the tenth student, the total age of all 10 students = 72 years + 28 years = 100 years.",
+    "Now, I calculate the new average age for all 10 students by dividing the total age by 10.",
+    "New average age = 100 years / 10 students = 10 years.",
+    "The average age of the first 9 students was 8 years. The new average age is 10 years. I need to find the difference.",
+    "The increase in the average age = 10 years - 8 years = 2 years."
+  ],
+  "solution": "2"
+}

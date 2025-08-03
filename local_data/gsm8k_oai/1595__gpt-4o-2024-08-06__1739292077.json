@@ -1,0 +1,32 @@
+{
+  "query": "With 40 seconds left to play in the basketball game, the Dunkinville Hornets were leading the Fredingo Fireflies by a score of 86 to 74.  In the remaining seconds in the game, the Fireflies scored 7 three-point baskets while holding the Hornets to only 2 two-point baskets to win the game.  How many more points did the Fireflies score in the game than did the Hornets?",
+  "steps": [
+    "I start by calculating the total points the Fireflies scored in the remaining seconds.",
+    "Each three-point basket is worth 3 points.",
+    "The Fireflies scored 7 three-point baskets.",
+    "I multiply 7 baskets by 3 points per basket.",
+    "7 multiplied by 3 equals 21.",
+    "The Fireflies scored 21 points in the remaining seconds.",
+    "I now calculate the total points the Hornets scored in the remaining seconds.",
+    "Each two-point basket is worth 2 points.",
+    "The Hornets scored 2 two-point baskets.",
+    "I multiply 2 baskets by 2 points per basket.",
+    "2 multiplied by 2 equals 4.",
+    "The Hornets scored 4 points in the remaining seconds.",
+    "I now find the Fireflies' new total score by adding their points scored in the remaining seconds to their score before those seconds.",
+    "The Fireflies' score before was 74.",
+    "I add 74 to 21.",
+    "74 plus 21 equals 95.",
+    "The Fireflies' final score is 95.",
+    "I now find the Hornets' new total score by adding their points scored in the remaining seconds to their score before those seconds.",
+    "The Hornets' score before was 86.",
+    "I add 86 to 4.",
+    "86 plus 4 equals 90.",
+    "The Hornets' final score is 90.",
+    "Now, I need to find the difference in points scored between the Fireflies and the Hornets.",
+    "I subtract the Hornets' final score from the Fireflies' final score.",
+    "95 minus 90 equals 5.",
+    "The Fireflies scored 5 more points than the Hornets in the game."
+  ],
+  "solution": "5"
+}

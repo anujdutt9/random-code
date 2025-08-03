@@ -1,0 +1,14 @@
+{
+  "query": "Jeff\u2019s swimming coach required him to swim 98 laps over the weekend. On Saturday, Jeff swam 27 laps. On Sunday morning, he swam 15 laps, took a break, then resumed practice in the afternoon. How many laps did Jeff have remaining when he took the break?",
+  "steps": [
+    "Jeff was required to swim a total of 98 laps over the weekend.",
+    "On Saturday, Jeff swam 27 laps.",
+    "Then, on Sunday morning, Jeff swam 15 laps.",
+    "I need to calculate how many laps he swam in total before his Sunday afternoon practice.",
+    "Adding the laps from Saturday and Sunday morning: 27 laps + 15 laps = 42 laps.",
+    "Now, I need to find out how many laps Jeff had remaining out of the original 98 laps requirement.",
+    "Subtract the laps swum (42) from the total required laps (98).",
+    "98 laps - 42 laps = 56 laps remaining."
+  ],
+  "solution": "56"
+}

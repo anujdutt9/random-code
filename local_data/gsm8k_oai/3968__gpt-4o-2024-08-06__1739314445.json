@@ -1,0 +1,12 @@
+{
+  "query": "Linda was gathering eggs from her chicken coops. When she was done, she had three times as many white eggs as brown eggs. On her way back to the house, she stumbled, dropping her egg basket. Upon inspecting the damage, she found that all 5 of the brown eggs survived, but now she only had a dozen eggs left. How many eggs did Linda break?",
+  "steps": [
+    "Let's start by defining the problem. Linda originally had three times as many white eggs as brown eggs.",
+    "The problem states that 5 brown eggs survived, meaning she originally had 5 brown eggs.",
+    "If the number of white eggs was three times the brown eggs, then she had 3 * 5 = 15 white eggs.",
+    "Let's calculate the total number of eggs Linda originally had: 5 brown eggs + 15 white eggs = 20 eggs.",
+    "After the stumble, Linda only had 12 eggs left.",
+    "To find out how many eggs were broken, we subtract the remaining eggs from the original total: 20 eggs - 12 eggs = 8 eggs."
+  ],
+  "solution": "8"
+}

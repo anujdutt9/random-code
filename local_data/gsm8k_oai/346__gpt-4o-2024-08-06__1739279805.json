@@ -1,0 +1,14 @@
+{
+  "query": "Lucille is painting her room. Two of her walls are 3 meters wide and 2 meters tall. The third wall is 5 meters wide and 2 meters tall. The final wall is 4 meters wide and 2 meters tall. If each can of paint covers 2 square meters, how many cans of paint does Lucille need?",
+  "steps": [
+    "First, I need to calculate the area of each wall to find the total area that needs to be painted.",
+    "The first two walls are both 3 meters wide and 2 meters tall. The area of each of these walls is 3 * 2 = 6 square meters.",
+    "Since there are two walls with the same dimensions, I multiply the area of one wall by 2: 6 * 2 = 12 square meters.",
+    "The third wall is 5 meters wide and 2 meters tall. The area of the third wall is 5 * 2 = 10 square meters.",
+    "The fourth wall is 4 meters wide and 2 meters tall. The area of the fourth wall is 4 * 2 = 8 square meters.",
+    "Now, I add the areas of all the walls to get the total area: 12 + 10 + 8 = 30 square meters.",
+    "Each can of paint covers 2 square meters. To find out how many cans are needed, I divide the total area by the area one can covers: 30 / 2 = 15.",
+    "Therefore, Lucille needs 15 cans of paint."
+  ],
+  "solution": "15"
+}

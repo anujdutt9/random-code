@@ -1,0 +1,17 @@
+{
+  "query": "A local music festival is held every year for three days.  The three day attendance this year was 2700 people.  The second day was rainy so only half the number of people that showed up the first day showed up the second day.  The third day was the finale, so attendance was triple the original day.  How many people attended the second day of the festival?",
+  "steps": [
+    "To start, I need to introduce some variables to clarify the problem. Let me call the number of people who attended on the first day \"D1\".",
+    "According to the problem, the attendance on the second day, \"D2\", was half the attendance of the first day. Therefore, D2 = D1 / 2.",
+    "Also, the attendance on the third day, \"D3\", was triple that of the first day. So, D3 = 3 * D1.",
+    "I now have the expressions for the attendance over the three days in terms of D1: \nD1 + D2 + D3 = total attendance over three days.",
+    "The total attendance over the three days is given as 2700 people. Hence, I have the equation: D1 + (D1 / 2) + 3 * D1 = 2700.",
+    "Let\u2019s simplify this equation: \nCombining terms gives me: \nD1 + (1/2) * D1 + 3 * D1 = 2700.",
+    "This simplifies to: \n(1 + 1/2 + 3) * D1 = 2700, which is (4.5) * D1 = 2700.",
+    "Now, I'll solve for D1 by dividing both sides by 4.5:\nD1 = 2700 / 4.5.",
+    "When I perform this division, I find that D1 = 600.",
+    "I can now determine D2, which is half of D1.",
+    "D2 = D1 / 2 = 600 / 2 = 300."
+  ],
+  "solution": "300"
+}

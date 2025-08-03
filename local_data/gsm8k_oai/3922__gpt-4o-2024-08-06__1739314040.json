@@ -1,0 +1,11 @@
+{
+  "query": "A car manufacturing company that produces 100 cars per month wants to increase its production to reach 1800 cars per year. How many cars should the company add to the monthly production rate to reach that target?",
+  "steps": [
+    "Start by clarifying the current production scenario: The company produces 100 cars per month.",
+    "Calculate the current annual production by multiplying the monthly production by 12 months: 100 cars/month * 12 months = 1200 cars per year.",
+    "Identify the target annual production: 1800 cars per year.",
+    "Determine the additional number of cars needed annually by subtracting the current annual production from the target: 1800 cars - 1200 cars = 600 cars.",
+    "Now calculate the additional number of cars needed each month to achieve this annual increase. Since there are 12 months in a year, divide the additional annual production by the number of months: 600 cars / 12 months = 50 cars per month."
+  ],
+  "solution": "50"
+}

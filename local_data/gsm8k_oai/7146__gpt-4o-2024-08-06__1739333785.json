@@ -1,0 +1,20 @@
+{
+  "query": "Martha is grinding a spice paste. She adds 3 tablespoons of ginger, 1 teaspoon of cardamom, 1 teaspoon of mustard, 2 tablespoons of garlic, and four times as much chile powder as mustard. What percentage of the spice paste is ginger, rounded to the nearest integer? (Remember there are three teaspoons per tablespoon.)",
+  "steps": [
+    "First, I need to convert all spices to the same unit. There are three teaspoons in a tablespoon.",
+    "The ginger is 3 tablespoons, which equals 3 * 3 = 9 teaspoons.",
+    "The cardamom is already in teaspoons, so it is 1 teaspoon.",
+    "The mustard is 1 teaspoon.",
+    "The garlic is 2 tablespoons, which equals 2 * 3 = 6 teaspoons.",
+    "The chile powder is four times as much as mustard. Since mustard is 1 teaspoon, chile powder is 4 * 1 = 4 teaspoons.",
+    "Now, I will find the total amount of teaspoons in the spice paste.",
+    "Total = ginger (9) + cardamom (1) + mustard (1) + garlic (6) + chile powder (4)",
+    "Total = 9 + 1 + 1 + 6 + 4 = 21 teaspoons.",
+    "To find the percentage of ginger, I will take the amount of ginger in teaspoons and divide it by the total, then multiply by 100.",
+    "Ginger percentage = (9 / 21) * 100",
+    "Ginger percentage = 42.8571",
+    "I need to round 42.8571 to the nearest integer.",
+    "Rounding 42.8571 gives 43."
+  ],
+  "solution": "43"
+}

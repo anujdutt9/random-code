@@ -1,0 +1,15 @@
+{
+  "query": "There are 235 books in a library. On Tuesday, 227 books are taken out. On Thursday, 56 books are brought back and 35 books are taken out again on Friday. How many books are there now?",
+  "steps": [
+    "First, I note that the library initially has 235 books.",
+    "On Tuesday, 227 books are taken out. So, I will subtract 227 from 235.",
+    "235 - 227 equals 8 books left in the library after Tuesday.",
+    "On Thursday, 56 books are brought back into the library.",
+    "I will add 56 to the books remaining in the library after Tuesday.",
+    "8 + 56 equals 64 books in the library after Thursday.",
+    "On Friday, 35 books are taken out.",
+    "I will subtract 35 from the books remaining in the library after Thursday.",
+    "64 - 35 equals 29 books left in the library."
+  ],
+  "solution": "29"
+}

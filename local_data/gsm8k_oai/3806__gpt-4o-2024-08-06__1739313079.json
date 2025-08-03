@@ -1,0 +1,16 @@
+{
+  "query": "An avant-garde sushi house sells jellyfish for a certain amount and eel for nine times that amount. If the combined cost of one order each kind of sushi is $200, how much does the eel cost?",
+  "steps": [
+    "Let's introduce a variable to help us solve the problem. Let x be the cost of one order of jellyfish.",
+    "According to the problem, the cost of one order of eel is nine times the cost of jellyfish. Therefore, the cost of one order of eel is 9x.",
+    "The combined cost of one order of jellyfish and one order of eel is given as $200.",
+    "We can set up the equation for the total cost: x + 9x = 200.",
+    "Simplify the equation: 10x = 200.",
+    "Solve for x by dividing both sides by 10: x = 200 / 10.",
+    "Calculate the value of x: x = 20.",
+    "Now that we know the cost of one order of jellyfish is $20, we can find the cost of one order of eel.",
+    "The cost of one order of eel is 9 times the cost of jellyfish, so calculate 9 * 20.",
+    "9 * 20 = 180."
+  ],
+  "solution": "180"
+}

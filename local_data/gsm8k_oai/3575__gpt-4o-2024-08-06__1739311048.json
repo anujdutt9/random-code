@@ -1,0 +1,19 @@
+{
+  "query": "An apartment building has 12 floors and half of them are full. The remaining floors are all at half-capacity. If each floor has 10 apartments and each apartment has four people, how many people are in the building?",
+  "steps": [
+    "The apartment building has a total of 12 floors.",
+    "Half of the floors are full, so that means 6 floors are full.",
+    "The remaining 6 floors are half-capacity.",
+    "Each floor has 10 apartments.",
+    "Since 6 floors are full, there are 6 full floors with 10 apartments each.",
+    "6 full floors \u00d7 10 apartments per floor = 60 apartments that are full.",
+    "On the remaining 6 floors at half-capacity, only half of the apartments are full.",
+    "Half of 10 apartments per floor is 5 apartments per half-full floor.",
+    "6 half-full floors \u00d7 5 apartments per half-full floor = 30 apartments that are half-full.",
+    "Each apartment has 4 people.",
+    "For the full floors, there are 60 full apartments \u00d7 4 people per apartment = 240 people.",
+    "For the half-full floors, there are 30 half-full apartments \u00d7 4 people per apartment = 120 people.",
+    "Adding both, we have 240 people from the full floors + 120 people from the half-full floors."
+  ],
+  "solution": "360"
+}

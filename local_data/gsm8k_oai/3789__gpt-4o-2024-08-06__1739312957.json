@@ -1,0 +1,16 @@
+{
+  "query": "Doris works at the Widget Factory in the packing department. She puts 3 widgets in each carton, which are 4 inches wide, 4 inches long, and 5 inches tall. She then packs those cartons into a shipping box before sending it to the loading bay. The shipping boxes are 20 inches wide, 20 inches long, and 20 inches high. How many widgets get shipped in each shipping box?",
+  "steps": [
+    "First, I need to find the volume of one carton.",
+    "The dimensions of a carton are 4 inches wide, 4 inches long, and 5 inches tall.",
+    "Volume of a carton = Width \u00d7 Length \u00d7 Height = 4 \u00d7 4 \u00d7 5 = 80 cubic inches.",
+    "Next, I need to find the volume of the shipping box.",
+    "The dimensions of a shipping box are 20 inches wide, 20 inches long, and 20 inches high.",
+    "Volume of a shipping box = Width \u00d7 Length \u00d7 Height = 20 \u00d7 20 \u00d7 20 = 8000 cubic inches.",
+    "Now, I need to calculate how many cartons can fit into a shipping box.",
+    "I will divide the volume of the shipping box by the volume of a carton: 8000 \u00f7 80 = 100.",
+    "Each carton contains 3 widgets.",
+    "I need to calculate how many widgets are in 100 cartons: 100 cartons \u00d7 3 widgets per carton = 300 widgets."
+  ],
+  "solution": "300"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "When Jason plays the video game, Duty for Ashes, his mission to slay the dragon hoard requires that he fire his weapon on average every 15 seconds.   And each time he fires his weapon, his power-fire setting allows him to shoot a flame for 5 seconds.  On average, how many seconds per minute does Jason shoot flames at the dragon hoard?",
+  "steps": [
+    "I need to figure out how often Jason shoots and for how long in one minute.",
+    "Firstly, Jason fires his weapon every 15 seconds.",
+    "There are 60 seconds in a minute, so I will divide 60 by 15 to determine how many times he fires in a minute.",
+    "60 divided by 15 equals 4.",
+    "This means Jason fires his weapon 4 times in one minute.",
+    "Each time he fires, he shoots a flame for 5 seconds.",
+    "To find out how many seconds in a minute Jason shoots flames, I need to multiply the number of times he fires per minute by the duration of each flame.",
+    "4 times per minute multiplied by 5 seconds of flame per fire equals 20 seconds."
+  ],
+  "solution": "20"
+}

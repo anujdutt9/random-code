@@ -1,0 +1,15 @@
+{
+  "query": "A movie ticket for an adult costs $8, and a child's ticket costs $3. One adult is taking a group of children to the movies. She has $35. How many children can she take with her to the movies?",
+  "steps": [
+    "First, I need to determine the cost of the adult's ticket.",
+    "The adult's ticket costs $8.",
+    "Next, I will subtract the cost of the adult's ticket from the total amount of money the adult has.",
+    "$35 - $8 = $27",
+    "This means the adult has $27 left to spend on children's tickets.",
+    "A child's ticket costs $3.",
+    "To find out how many children's tickets can be bought with $27, I'll divide the remaining money by the cost of one child's ticket.",
+    "$27 \u00f7 $3 = 9",
+    "The adult can buy 9 children's tickets with the remaining $27."
+  ],
+  "solution": "9"
+}

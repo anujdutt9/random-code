@@ -1,0 +1,15 @@
+{
+  "query": "Evergreen Elementary school has 100 students in Grades 4, 5, and 6. There are 30 students in Grade 4 and 35 students in Grade 5. How many students are in Grade 6?",
+  "steps": [
+    "I need to find the total number of students in Grade 6.",
+    "I'm given the total number of students in Grades 4, 5, and 6 is 100.",
+    "I know there are 30 students in Grade 4.",
+    "I also know there are 35 students in Grade 5.",
+    "To find the number of students in Grade 6, I need to subtract the number of students in Grades 4 and 5 from the total number.",
+    "First, add the number of students in Grade 4 and Grade 5: 30 + 35.",
+    "30 + 35 = 65.",
+    "Now, subtract the sum from the total number of students: 100 - 65.",
+    "100 - 65 = 35."
+  ],
+  "solution": "35"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "John buys 3 spools of wire that are 20 feet each.  It takes 4 feet to make a necklace.  How many necklaces can he make?",
+  "steps": [
+    "First, I need to determine the total length of wire that John has.",
+    "John has 3 spools of wire, and each spool is 20 feet long.",
+    "To find the total length of wire, I multiply the number of spools by the length of each spool: 3 spools * 20 feet/spool.",
+    "3 * 20 = 60 feet.",
+    "John has a total of 60 feet of wire.",
+    "Next, I need to find out how many 4-foot segments can be obtained from 60 feet of wire.",
+    "To do this, I divide the total length of wire by the length needed for one necklace: 60 feet / 4 feet/necklace.",
+    "60 / 4 = 15.",
+    "John can make 15 necklaces from the wire he has."
+  ],
+  "solution": "15"
+}

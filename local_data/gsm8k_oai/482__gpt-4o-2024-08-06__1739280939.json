@@ -1,0 +1,17 @@
+{
+  "query": "Ian is looking to lose some weight.  He decides to start jogging around his apartment complex every night to burn some calories.  He does 5 laps around the complex every night.  Each lap is 100 feet.  If it takes 25 feet of jogging to burn a calorie, how many calories does Ian burn after 5 days of jogging like this?",
+  "steps": [
+    "First, I need to determine how many feet Ian runs each night.",
+    "Ian runs 5 laps a night, with each lap being 100 feet.",
+    "To find the total feet per night, multiply 5 laps by 100 feet.",
+    "5 laps * 100 feet/lap = 500 feet per night.",
+    "Now, I need to find out how many calories Ian burns from jogging those 500 feet.",
+    "He burns 1 calorie for every 25 feet he jogs.",
+    "To find the calories burned in one night, divide the total feet by the feet per calorie: 500 feet / 25 feet/calorie.",
+    "500 feet / 25 feet/calorie = 20 calories per night.",
+    "Ian jogs for 5 days, so I need to calculate the total number of calories burned over these 5 days.",
+    "Multiply the calories per night by the number of days: 20 calories/night * 5 nights.",
+    "20 calories/night * 5 nights = 100 calories."
+  ],
+  "solution": "100"
+}

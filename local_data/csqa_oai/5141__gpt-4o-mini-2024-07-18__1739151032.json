@@ -1,0 +1,15 @@
+{
+  "query": "Question: Where do you buy tickets to a show?\n\nChoices:\nA: stadium\nB: home\nC: auditorium\nD: arena\nE: opera house",
+  "steps": [
+    "First, I need to identify the locations associated with purchasing tickets for different types of shows.",
+    "A stadium is usually associated with sports events, and tickets can be purchased at the stadium or online; however, it is not the most common place for general shows.",
+    "Home is not a location for buying tickets, as it's a personal space and generally not involved in ticket sales.",
+    "An auditorium is designed for performances, lectures, and shows, and it typically has a box office where tickets can be purchased directly. Therefore, buying tickets for a show can happen there.",
+    "An arena is similar to a stadium and usually hosts larger events; while tickets can be bought there, it is not specifically associated with shows in the same vein as an auditorium.",
+    "An opera house is specifically designed for opera performances, which are a type of show. Tickets can indeed be purchased there, but it is more specific compared to an auditorium.",
+    "I need to evaluate which options are the most broadly relevant for buying tickets to a show. An auditorium serves a variety of performances while the opera house serves a more specific purpose.",
+    "Since the question refers to a general show rather than a specific type, the auditorium is the better fit because it is used for many types of performances.",
+    "Thus, the best option from the list provided that encompasses a broader category for purchasing tickets to various shows is C: auditorium."
+  ],
+  "solution": "C"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Vikki worked 42 hours in one week. Her hourly pay rate is $10. From her weekly earnings, 20% is deducted as tax, 5% is deducted as insurance cover, and $5 is deducted for union dues. How much money, in dollars, does Vikki take home after deductions?",
+  "steps": [
+    "First, I need to determine Vikki's earnings before any deductions. She worked 42 hours, and her pay rate is $10 per hour.",
+    "I multiply the number of hours worked by the hourly rate: 42 hours * $10/hour = $420.",
+    "Next, I need to calculate the deductions. I start with the tax deduction, which is 20% of her earnings.",
+    "20% of $420 is calculated as 0.20 * $420 = $84.",
+    "Now, I will calculate the insurance deduction, which is 5% of her earnings.",
+    "5% of $420 is calculated as 0.05 * $420 = $21.",
+    "The final deduction is a fixed amount for union dues, which is $5.",
+    "I add up all the deductions: $84 (tax) + $21 (insurance) + $5 (union dues) = $110.",
+    "I need to subtract the total deductions from Vikki's earnings to find out how much she takes home.",
+    "Vikki's take-home pay is calculated as $420 - $110 = $310."
+  ],
+  "solution": "310"
+}

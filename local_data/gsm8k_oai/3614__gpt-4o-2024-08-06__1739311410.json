@@ -1,0 +1,13 @@
+{
+  "query": "The distance between Robin's house and the city center is 500 meters. He leaves the house to go to the city center. After he walks 200 meters he realizes that he forgot his bag. So he returns to his house, then goes back to the city center. How many meters does he walk in total?",
+  "steps": [
+    "First, I need to determine the distance Robin walks from his house to the city center, which is given as 500 meters.",
+    "Robin initially walks 200 meters towards the city center.",
+    "Then, he realizes he forgot his bag and returns to his house. This means he walks another 200 meters back home.",
+    "After returning home, Robin walks the full distance from his house to the city center, which is 500 meters.",
+    "To calculate the total distance he walked, I need to add up all the individual distances: 200 meters (first attempt) + 200 meters (return home) + 500 meters (second attempt to city center).",
+    "200 meters + 200 meters = 400 meters.",
+    "400 meters + 500 meters = 900 meters."
+  ],
+  "solution": "900"
+}

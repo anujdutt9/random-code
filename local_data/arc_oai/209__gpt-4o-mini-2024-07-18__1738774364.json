@@ -1,0 +1,10 @@
+{
+  "query": "Question: A male fruit fly is homozygous dominant for gray-body color (G) and is crossed with a female fruit fly that is homozygous recessive for ebony-body color (g). What are the probable phenotypes of the offspring?\n\nChoices:\nA: 25% gray, 75% ebony\nB: 50% gray, 50% ebony\nC: 100% ebony\nD: 100% gray",
+  "steps": [
+    "The male fruit fly is homozygous dominant for gray-body color, meaning he has two dominant alleles (GG).",
+    "The female fruit fly is homozygous recessive for ebony-body color, meaning she has two recessive alleles (gg).",
+    "When these two fruit flies are crossed, their offspring will inherit one allele from each parent. Thus, all offspring will receive a G from the male and a g from the female.",
+    "As a result, all the offspring will have the genotype Gg, which means they will express the dominant phenotype, gray-body color."
+  ],
+  "solution": "D"
+}

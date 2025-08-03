@@ -1,0 +1,14 @@
+{
+  "query": "The first tank is 300 liters filled while the second tank is 450 liters filled. The second tank is only 45% filled. If the two tanks have the same capacity, how many more liters of water are needed to fill the two tanks?",
+  "steps": [
+    "I know that the second tank is 450 liters and it represents 45% of its capacity.",
+    "To find the full capacity of the second tank, I can set up the equation: 0.45 * capacity = 450.",
+    "I divide both sides by 0.45 to solve for the capacity: capacity = 450 / 0.45.",
+    "Calculating the division gives me capacity = 1000 liters.",
+    "Since both tanks have the same capacity, the first tank also has a capacity of 1000 liters.",
+    "The first tank is already 300 liters filled, so it needs 1000 - 300 = 700 liters more to be full.",
+    "The second tank is already 450 liters filled, so it needs 1000 - 450 = 550 liters more to be full.",
+    "Adding the additional liters needed for both tanks, I have 700 + 550 = 1250 liters."
+  ],
+  "solution": "1250"
+}

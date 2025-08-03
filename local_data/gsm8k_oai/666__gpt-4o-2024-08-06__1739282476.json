@@ -1,0 +1,15 @@
+{
+  "query": "Jackson has 5 times more money than Williams. Together, they have $150. How much money, in dollars, does Jackson have?",
+  "steps": [
+    "Let's define the amount of money Williams has as \\( W \\).",
+    "According to the problem, Jackson has 5 times more money than Williams, so Jackson has \\( 5W \\).",
+    "Together, Jackson and Williams have $150.",
+    "This gives us the equation: \\( W + 5W = 150 \\).",
+    "Combine the terms on the left side of the equation: \\( 6W = 150 \\).",
+    "To find \\( W \\), divide both sides of the equation by 6: \\( W = \\frac{150}{6} \\).",
+    "Calculate \\( \\frac{150}{6} \\), which equals 25. Thus, Williams has $25.",
+    "Now substitute \\( W = 25 \\) back into the expression for Jackson's money: \\( 5W = 5 \\times 25 = 125 \\).",
+    "Therefore, Jackson has $125."
+  ],
+  "solution": "125"
+}

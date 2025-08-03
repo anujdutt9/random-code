@@ -1,0 +1,13 @@
+{
+  "query": "Wickham is throwing a huge Christmas party. He invites 30 people. Everyone attends the party, and half of the guests bring a plus one (one other person). He plans to serve a 3-course meal for the guests. If he uses a new plate for every course, how many plates does he need in total for his guests?",
+  "steps": [
+    "Wickham invites 30 people to the party.",
+    "Half of the 30 guests bring a plus one. Half of 30 is 15, so 15 guests bring someone with them.",
+    "Each of these 15 guests brings an additional person. Therefore, there are 15 additional people attending.",
+    "To find the total attendance, add the original 30 guests to the 15 plus ones. This results in 30 + 15 = 45 people in total.",
+    "Each person will have a 3-course meal, and a new plate is used for each course.",
+    "Thus, for each person, 3 plates are needed.",
+    "To find the total number of plates needed, multiply the total number of people by the number of plates per person: 45 people * 3 plates per person = 135 plates."
+  ],
+  "solution": "135"
+}

@@ -1,0 +1,21 @@
+{
+  "query": "Michael has 36 pets. 25% of them are dogs, 50% are cats, and the rest are bunnies. How many bunnies does he have?",
+  "steps": [
+    "First, I'll find out how many of Michael's pets are dogs.",
+    "25% of his 36 pets are dogs.",
+    "To find 25% of 36, I'll calculate 36 * 0.25.",
+    "36 * 0.25 = 9",
+    "So, Michael has 9 dogs.",
+    "Next, I'll find out how many of Michael's pets are cats.",
+    "50% of his 36 pets are cats.",
+    "To find 50% of 36, I'll calculate 36 * 0.50.",
+    "36 * 0.50 = 18",
+    "So, Michael has 18 cats.",
+    "Now, I'll find out how many bunnies Michael has.",
+    "He has a total of 36 pets, with 9 being dogs and 18 being cats.",
+    "I'll subtract the number of dogs and cats from the total number of pets to find the number of bunnies.",
+    "36 - 9 - 18 = 9",
+    "Therefore, Michael has 9 bunnies."
+  ],
+  "solution": "9"
+}

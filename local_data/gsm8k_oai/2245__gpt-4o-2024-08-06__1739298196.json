@@ -1,0 +1,15 @@
+{
+  "query": "There are 100 lions in Londolozi at first. If lion cubs are born at the rate of 5 per month and lions die at the rate of 1 per month, how many lions will there be in Londolozi after 1 year?",
+  "steps": [
+    "Initially, there are 100 lions in Londolozi.",
+    "The rate of lion cub births is 5 per month.",
+    "The rate of lion deaths is 1 per month.",
+    "First, calculate the net change in the number of lions per month.",
+    "Net change per month = births - deaths = 5 - 1 = 4 lions per month.",
+    "Calculate how many lions will be added over 1 year (which is 12 months).",
+    "The total change over 12 months = 4 lions per month * 12 months = 48 lions.",
+    "Add the net change over the year to the initial number of lions.",
+    "Total number of lions after 1 year = initial lions + total change = 100 + 48."
+  ],
+  "solution": "148"
+}

@@ -1,0 +1,12 @@
+{
+  "query": "Question: Which group consists only of living things?\n\nChoices:\nA: rabbit, seed, bird\nB: seed, bird, wind\nC: Volcano, candle, rabbit\nD: wind, candle, volcano",
+  "steps": [
+    "Identify the living things in each choice.",
+    "Choice A has a rabbit (living), a seed (can grow into a living thing), and a bird (living).",
+    "Choice B has a seed (can grow into a living thing), a bird (living), and wind (non-living).",
+    "Choice C contains a volcano (non-living), a candle (non-living), and a rabbit (living).",
+    "Choice D consists of wind (non-living), a candle (non-living), and a volcano (non-living).",
+    "Only Choice A has both living things (rabbit and bird) and a seed (which can grow into a living thing)."
+  ],
+  "solution": "A"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "Malcolm brushes his teeth for 2 minutes after breakfast, lunch and dinner.  After 30 days, how many hours does he spend brushing his teeth?",
+  "steps": [
+    "First, I need to find out how many times Malcolm brushes his teeth in one day.",
+    "Malcolm brushes his teeth 3 times a day - after breakfast, lunch, and dinner.",
+    "Now, I calculate the total number of minutes he spends brushing his teeth in one day.",
+    "He brushes his teeth for 2 minutes each time, 3 times a day, so that's 2 x 3 = 6 minutes per day.",
+    "Next, I need to determine the total number of minutes he spends brushing his teeth over 30 days.",
+    "He brushes for 6 minutes per day, so over 30 days, that's 6 x 30 = 180 minutes.",
+    "Now, I need to convert the total minutes into hours.",
+    "There are 60 minutes in an hour, so I divide the total minutes by 60 to find hours: 180 \u00f7 60 = 3 hours."
+  ],
+  "solution": "3"
+}

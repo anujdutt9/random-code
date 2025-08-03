@@ -1,0 +1,23 @@
+{
+  "query": "Camp Cedar has 40 boys, it has 3 times as many girls.  It needs 1 counselor for every 8 children.  How many counselors does Camp Cedar need?",
+  "steps": [
+    "First, I need to find out how many girls are at Camp Cedar.",
+    "We know that there are 3 times as many girls as boys.",
+    "There are 40 boys.",
+    "So, the number of girls = 3 times 40.",
+    "3 times 40 is 120.",
+    "Now I know there are 120 girls.",
+    "Next, I need to calculate the total number of children.",
+    "The total number of children = number of boys + number of girls.",
+    "There are 40 boys and 120 girls.",
+    "So, total number of children = 40 + 120.",
+    "40 + 120 is 160.",
+    "The total number of children is 160.",
+    "Now, we need to determine how many counselors are needed.",
+    "Camp Cedar needs 1 counselor for every 8 children.",
+    "I need to find out how many groups of 8 children fit into 160.",
+    "160 divided by 8 equals 20.",
+    "This means Camp Cedar needs 20 counselors."
+  ],
+  "solution": "20"
+}

@@ -1,0 +1,11 @@
+{
+  "query": "Question: The doctor noticed the nerve and suggested a scan of everything, what would be scanned?\n\nChoices:\nA: brainstem\nB: skeleton\nC: organism\nD: animal\nE: human body",
+  "steps": [
+    "The question states that the doctor suggested a scan of \"everything,\" implying a comprehensive check-up of major body systems.",
+    "The most logical interpretation of \"everything\" in a medical context typically refers to the entire human body, as doctors often consider the interactions of all systems when diagnosing issues.",
+    "While options A (brainstem), B (skeleton), D (animal), and C (organism) refer to specific parts or categories, option E (human body) specifically encompasses all these parts and aligns with a typical diagnostic approach in medicine.",
+    "Given that the context is likely about a human patient, the term \"human body\" neatly includes all aspects a doctor would consider.",
+    "Comparing the choices, only option E directly represents the holistic approach a doctor would take, scanning all areas for potential issues."
+  ],
+  "solution": "E"
+}

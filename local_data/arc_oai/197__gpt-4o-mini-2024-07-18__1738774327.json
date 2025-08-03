@@ -1,0 +1,11 @@
+{
+  "query": "Question: Which diagram best shows how energy flows through a simple food chain?\n\nChoices:\nA: Leaves -> Caterpillar -> Bird\nB: Tree -> Bird -> Caterpillar\nC: Leaves -> Tree -> Caterpillar\nD: Caterpillar -> Leaves -> Bird",
+  "steps": [
+    "A food chain typically illustrates the flow of energy from producers to consumers. Producers are usually plants, which in this case would be represented by \"Leaves\" or \"Tree\".",
+    "The first component in a food chain is the producer. In option A, \"Leaves\" represent a producer, while in option B, \"Tree\" can also represent a producer. Options C and D do not make sense as starting points since the first components must be producers.",
+    "Next, the flow must go from producers to consumers. In option A, \"Caterpillar\" would be a primary consumer that eats the \"Leaves\". In option B, \"Bird\" would consume \"Caterpillar\", making it a secondary consumer, but the sequence is not correct. In option C, \"Tree\" followed by \"Caterpillar\" does not correctly depict the flow since \"Tree\" is not typically consumed directly like \"Leaves\" can be.",
+    "In option D, the flow starts with \"Caterpillar,\" which cannot happen as it does not start with a producer. Therefore, it cannot be correct.",
+    "Since \"Leaves\" (as the producer) correctly lead to \"Caterpillar\" (as the first consumer) in option A, this option depicts the correct flow of energy in a food chain."
+  ],
+  "solution": "A"
+}

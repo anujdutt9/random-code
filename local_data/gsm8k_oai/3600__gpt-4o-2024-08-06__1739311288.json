@@ -1,0 +1,14 @@
+{
+  "query": "Pat's stick is 30 inches long. He covers 7 inches of the stick in dirt. The portion that is not covered in dirt is half as long as Sarah\u2019s stick. Jane\u2019s stick is two feet shorter than Sarah\u2019s stick. How many inches long is Jane\u2019s stick?",
+  "steps": [
+    "First, I need to figure out how much of Pat's stick is not covered in dirt.",
+    "Pat's stick is 30 inches long, and 7 inches are covered in dirt, so 30 - 7 = 23 inches are not covered in dirt.",
+    "The uncovered portion of Pat's stick is half as long as Sarah's stick.",
+    "Therefore, Sarah's stick is 2 times 23 inches, since 23 inches is half of its length.",
+    "Sarah's stick is 23 * 2 = 46 inches long.",
+    "Jane's stick is two feet shorter than Sarah's stick.",
+    "Two feet is equivalent to 2 * 12 = 24 inches.",
+    "Subtract 24 inches from Sarah's stick length to find Jane's stick length: 46 - 24 = 22 inches."
+  ],
+  "solution": "22"
+}

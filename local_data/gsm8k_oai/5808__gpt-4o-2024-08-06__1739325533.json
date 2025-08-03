@@ -1,0 +1,13 @@
+{
+  "query": "Lilly and Fiona are cleaning a room. Between them, it takes 8 hours to clean the room. A quarter of the time spent cleaning was by Lilly and Fiona was responsible for the rest of the cleaning. How long, in minutes, was Fiona cleaning?",
+  "steps": [
+    "Lilly and Fiona together take 8 hours to clean the room.",
+    "A quarter of the time cleaning was done by Lilly.",
+    "Therefore, three quarters of the time was spent cleaning by Fiona.",
+    "First, I need to calculate the total time in minutes that Lilly and Fiona took to clean the room together, which is 8 hours.",
+    "Convert 8 hours into minutes: 8 hours \u00d7 60 minutes/hour = 480 minutes.",
+    "Since Lilly only cleaned for a quarter of the time, Fiona cleaned for three quarters.",
+    "Calculate the time Fiona was cleaning: (3/4) \u00d7 480 minutes = 360 minutes."
+  ],
+  "solution": "360"
+}

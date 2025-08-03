@@ -1,0 +1,11 @@
+{
+  "query": "For many years, the number of sharks in Pelican Bay has been twice the number of Pelicans in Shark Bite Cove.   But today scientists say one-third of the Pelicans in Shark Bite Cove have moved to Pelican Bay.  If there are still 60 sharks in Pelican Bay,  how many Pelicans remain in Shark Bite Cove?",
+  "steps": [
+    "Let's start by defining the initial number of pelicans in Shark Bite Cove as \\( P \\).",
+    "According to the problem, the number of sharks in Pelican Bay, which is 60, is twice the number of pelicans in Shark Bite Cove: 60 = 2P.",
+    "From 60 = 2P, we can solve for P: P = 60 / 2 = 30. So, initially, there were 30 pelicans in Shark Bite Cove.",
+    "Now, one-third of the pelicans in Shark Bite Cove have moved to Pelican Bay. One-third of 30 is \\( \\frac{1}{3} \\times 30 = 10 \\).",
+    "When 10 pelicans move to Pelican Bay, the remaining number of pelicans in Shark Bite Cove is 30 - 10 = 20."
+  ],
+  "solution": "20"
+}

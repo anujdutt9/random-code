@@ -1,0 +1,15 @@
+{
+  "query": "In April, Tank gathered 10 more Easter eggs than Emma in their first round of egg hunt. However, Emma gathered twice as many eggs as Tank in their second round of egg hunt, while Tank's total number of eggs in the second round was 20 less than the number she had gathered in the first round. If the total number of eggs in the pile they were collecting with 6 other people was 400 eggs, and Emma gathered 60 eggs in the second egg hunt round, find the number of eggs that the 6 other egg hunters collected?",
+  "steps": [
+    "Let's start by finding the number of eggs Emma collected in her second round. We know Emma gathered 60 eggs in the second round.",
+    "We also know Emma gathered twice as many eggs as Tank in the second round. Let's denote the number of eggs Tank gathered in the first round as T. Therefore, in the second round, Tank gathered \\(0.5 \\times 60 = 30\\) eggs, as she gathered half the number of eggs as Emma.",
+    "Tank gathered 20 less eggs in the second round than in the first round. From this, we set up the equation for Tank's eggs in the first round: \\(T - 20 = 30\\).",
+    "Solving the equation \\(T - 20 = 30\\), we find \\(T = 50\\). Therefore, Tank gathered 50 eggs in the first round.",
+    "Since Tank gathered 10 more eggs than Emma in the first round, we can now determine the number of eggs Emma gathered in the first round. If Tank gathered 50 eggs in the first round, then Emma gathered \\(50 - 10 = 40\\) eggs in the first round.",
+    "Now we know the number of eggs both Emma and Tank collected in both rounds. Tank's total is 50 (first round) + 30 (second round) = 80 eggs. Emma's total is 40 (first round) + 60 (second round) = 100 eggs.",
+    "Together, Tank and Emma collected \\(80 + 100 = 180\\) eggs.",
+    "The total number of eggs in the pile was 400 eggs. To find out how many eggs were collected by the 6 other people, we subtract the eggs collected by Tank and Emma from the total.",
+    "The number of eggs collected by the 6 other people is \\(400 - 180 = 220\\)."
+  ],
+  "solution": "220"
+}

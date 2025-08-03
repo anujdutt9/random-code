@@ -1,0 +1,25 @@
+{
+  "query": "A jar contains 9 blue pens, 21 black pens, and 6 red pens. Four blue pens are removed and then seven black pens are removed. How many pens are left in the jar?",
+  "steps": [
+    "First, I need to find out the initial total number of pens in the jar.",
+    "There are 9 blue pens, 21 black pens, and 6 red pens.",
+    "I will add these numbers together: 9 + 21 + 6.",
+    "9 + 21 = 30.",
+    "30 + 6 = 36.",
+    "So, initially, there are 36 pens in the jar.",
+    "Next, I need to account for the pens that are removed.",
+    "Four blue pens are removed first.",
+    "If there were initially 9 blue pens, removing 4 means 9 - 4 = 5 blue pens remain.",
+    "Now, I will consider the black pens.",
+    "Seven black pens are removed.",
+    "Initially, there were 21 black pens, so 21 - 7 = 14 black pens remain.",
+    "The number of red pens remains unchanged since none were removed, so there are still 6 red pens.",
+    "Now, I need to add the remaining blue, black, and red pens to find out how many are left.",
+    "There are 5 blue pens, 14 black pens, and 6 red pens remaining.",
+    "I will add these remaining pens together: 5 + 14 + 6.",
+    "5 + 14 = 19.",
+    "19 + 6 = 25.",
+    "Therefore, there are 25 pens left in the jar."
+  ],
+  "solution": "25"
+}

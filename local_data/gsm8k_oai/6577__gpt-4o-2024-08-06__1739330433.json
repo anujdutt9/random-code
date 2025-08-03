@@ -1,0 +1,19 @@
+{
+  "query": "Jimmy needs to score at least 50 points to pass to the next class. He earned 20 points for each of the 3 exams he wrote but lost 5 points during the school year for bad behavior. How many more points can Jimmy lose and still be able to pass the next class?",
+  "steps": [
+    "First, I need to calculate the total points Jimmy earned from the exams.",
+    "Jimmy earned 20 points for each exam and wrote 3 exams.",
+    "Total points from exams = 20 points/exam * 3 exams = 60 points.",
+    "Next, I need to consider the points lost due to bad behavior.",
+    "Jimmy lost 5 points due to bad behavior.",
+    "His current total points = points from exams - points lost for behavior.",
+    "Current total points = 60 points - 5 points = 55 points.",
+    "Jimmy needs at least 50 points to pass.",
+    "I need to calculate how many more points Jimmy can lose and still have at least 50 points.",
+    "Starting points = 55 points.",
+    "Required minimum points to pass = 50 points.",
+    "Maximum points Jimmy can lose = Starting points - Required minimum points.",
+    "Maximum points Jimmy can lose = 55 points - 50 points = 5 points."
+  ],
+  "solution": "5"
+}

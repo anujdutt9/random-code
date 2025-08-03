@@ -1,0 +1,17 @@
+{
+  "query": "Miriam spent 30 minutes doing laundry, 15 minutes cleaning the bathroom, a certain amount of time cleaning her room, and 40 minutes doing homework. If she spent a total of two hours on these tasks, how long, in minutes, did she spend cleaning her room?",
+  "steps": [
+    "First, I will convert the total time Miriam spent on tasks from hours to minutes. Two hours is equal to 120 minutes.",
+    "Next, I will add up the time spent on all the tasks except for cleaning her room to see how much time that adds up to.",
+    "Miriam spent 30 minutes doing laundry.",
+    "She spent 15 minutes cleaning the bathroom.",
+    "She spent 40 minutes doing homework.",
+    "To find the total time spent on these tasks, I add: 30 minutes (laundry) + 15 minutes (bathroom) + 40 minutes (homework).",
+    "30 + 15 = 45",
+    "45 + 40 = 85",
+    "Miriam spent 85 minutes on all tasks except for cleaning her room.",
+    "To find out how long she spent cleaning her room, I will subtract the time spent on other tasks from the total time spent.",
+    "120 minutes (total time) - 85 minutes (other tasks) = 35 minutes."
+  ],
+  "solution": "35"
+}

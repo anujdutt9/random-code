@@ -1,0 +1,13 @@
+{
+  "query": "John's grill messes up and burns half his steak.  He eats 80% of what isn't burned.  If the steak was originally 30 ounces how much steak did he eat?",
+  "steps": [
+    "The original steak is 30 ounces.",
+    "Half of the steak is burned, which means 50% of the steak is not edible.",
+    "To find the unburned portion of the steak, I calculate 50% of 30 ounces.",
+    "50% of 30 ounces is \\(30 \\times 0.5 = 15\\) ounces.",
+    "John eats 80% of the unburned portion.",
+    "To find how much of the unburned steak John eats, I calculate 80% of 15 ounces.",
+    "80% of 15 ounces is \\(15 \\times 0.8 = 12\\) ounces."
+  ],
+  "solution": "12"
+}

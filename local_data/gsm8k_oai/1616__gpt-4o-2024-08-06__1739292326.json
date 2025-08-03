@@ -1,0 +1,19 @@
+{
+  "query": "It\u2019s exam season and Tristan has several exams to prepare for. On Monday, he studies for 4 hours then studies for twice this long on Tuesday. On Wednesday, Thursday, and Friday he studies for 3 hours each day. He wants to study for a total of 25 hours over the week and divides the remaining amount of study time evenly between Saturday and Sunday. How many hours does Tristan spend studying on Saturday?",
+  "steps": [
+    "First, I need to determine how many hours Tristan studies on Monday.",
+    "On Monday, Tristan studies for 4 hours.",
+    "Next, I need to find out how many hours Tristan studies on Tuesday.",
+    "On Tuesday, he studies for twice the amount of time he studied on Monday. So, 4 hours * 2 = 8 hours.",
+    "I will now calculate the total study hours for Wednesday, Thursday, and Friday.",
+    "He studies for 3 hours each day on Wednesday, Thursday, and Friday. That's 3 days * 3 hours/day = 9 hours.",
+    "Next, I add up all the hours he studied from Monday to Friday.",
+    "From Monday to Friday, he studies 4 hours + 8 hours + 9 hours = 21 hours.",
+    "Tristan wants to study a total of 25 hours over the week.",
+    "I need to subtract the hours he has already studied from the total number of hours he wants to study.",
+    "25 hours total - 21 hours he already studied = 4 hours remaining.",
+    "The remaining 4 hours will be divided evenly between Saturday and Sunday.",
+    "Since there are 4 hours remaining and he divides this time evenly between two days, he will study 4 hours / 2 = 2 hours on Saturday."
+  ],
+  "solution": "2"
+}

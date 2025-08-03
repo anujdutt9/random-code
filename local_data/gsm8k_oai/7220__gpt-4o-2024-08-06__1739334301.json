@@ -1,0 +1,17 @@
+{
+  "query": "Donny saves $15 on Monday, $28 on Tuesday and $13 on Wednesday. On Thursday he spends half of his total savings so far. How much did he spend?",
+  "steps": [
+    "First, I need to find out how much Donny saved in total before Thursday.",
+    "He saved $15 on Monday.",
+    "He saved $28 on Tuesday.",
+    "He saved $13 on Wednesday.",
+    "To find the total savings before Thursday, I should add these amounts together: $15 + $28 + $13.",
+    "Calculating this, first add $15 and $28, which equals $43.",
+    "Now add $13 to $43, which equals $56.",
+    "Donny's total savings before Thursday is $56.",
+    "On Thursday, he spends half of his total savings so far.",
+    "Half of $56 is $56 / 2, which equals $28.",
+    "So, the amount Donny spent on Thursday is $28."
+  ],
+  "solution": "28"
+}

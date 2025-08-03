@@ -1,0 +1,13 @@
+{
+  "query": "Matt's entire family was going to spend the week at the lake house for vacation.  Matt's family included his mom, dad, his older brother and his wife and their 4 kids.  His Uncle Joe and his wife were also coming and would bring their 3 kids.  The house only sleeps 4 people.  Everyone else would sleep 2 to a tent outside.  How many tents would they need?",
+  "steps": [
+    "First, I need to calculate the total number of people going to the lake house.",
+    "The family includes Matt's mom, dad, older brother, his brother's wife, and their 4 kids. That is 2 parents + 2 brother and wife + 4 kids = 8 people.",
+    "In addition, Uncle Joe and his wife are coming with their 3 kids. That is 2 parents + 3 kids = 5 people.",
+    "Now, I add the two family groups together: 8 people + 5 people = 13 people in total.",
+    "The house sleeps 4 people, so 13 - 4 = 9 people will need to sleep outside in tents.",
+    "Since each tent can accommodate 2 people, I need to divide the 9 outdoor sleepers by 2.",
+    "9 people \u00f7 2 people/tent = 4.5 tents. Since we can't have half a tent and need a tent for each pair, we round up to 5 tents."
+  ],
+  "solution": "5"
+}

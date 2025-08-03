@@ -1,0 +1,23 @@
+{
+  "query": "On the weekend, Tony will walk to the store. On weekdays, he runs to the store. When he walks, he goes 2 MPH. When he runs he goes 10 MPH. The store is 4 miles away. If he goes on Sunday, Tuesday, and Thursday, what is the average time in minutes that he spends to get to the store?",
+  "steps": [
+    "First, I need to determine what days Tony goes to the store and at what speeds. He goes on Sunday, Tuesday, and Thursday.",
+    "Sunday is a weekend day, so Tony will be walking on that day. He walks at 2 MPH.",
+    "Tuesday is a weekday, so Tony will be running on that day. He runs at 10 MPH.",
+    "Thursday is also a weekday, so Tony will be running again on that day at 10 MPH.",
+    "Next, I need to calculate the time taken for each trip in hours. Distance to the store is 4 miles.",
+    "On Sunday (walking), the time taken is distance/speed = 4 miles / 2 MPH = 2 hours.",
+    "On Tuesday (running), the time taken is 4 miles / 10 MPH = 0.4 hours.",
+    "On Thursday (running), the time taken again is 4 miles / 10 MPH = 0.4 hours.",
+    "Now, I need to convert these times from hours to minutes. 1 hour = 60 minutes.",
+    "On Sunday, 2 hours = 2 * 60 = 120 minutes.",
+    "On Tuesday, 0.4 hours = 0.4 * 60 = 24 minutes.",
+    "On Thursday, 0.4 hours = 24 minutes again.",
+    "Now, I find the total time spent on all trips: 120 minutes (Sunday) + 24 minutes (Tuesday) + 24 minutes (Thursday).",
+    "Total time = 120 + 24 + 24 = 168 minutes.",
+    "Now, I calculate the average time spent per trip by dividing the total time by the number of trips.",
+    "There are 3 trips in total.",
+    "Average time = 168 minutes / 3 trips = 56 minutes per trip."
+  ],
+  "solution": "56"
+}

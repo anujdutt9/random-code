@@ -1,0 +1,20 @@
+{
+  "query": "At camp Wonka, there are 96 campers.  Two-thirds of the campers are boys, and the remaining one-third are girls.  50% of the boys want to toast marshmallows and 75% of the girls want to toast marshmallows.  If each camper gets one marshmallow to toast, how many marshmallows do they need?",
+  "steps": [
+    "I start by determining how many of the 96 campers are boys. Two-thirds of the campers are boys.",
+    "To find the number of boys, I calculate (2/3) * 96.",
+    "(2/3) * 96 = 64. So, there are 64 boys.",
+    "Next, I find out the number of girls. Since one-third of the campers are girls, I calculate (1/3) * 96.",
+    "(1/3) * 96 = 32. So, there are 32 girls.",
+    "Now, I determine how many boys want to toast marshmallows. 50% of the boys want to toast marshmallows.",
+    "50% of 64 boys is calculated as 0.5 * 64.",
+    "0.5 * 64 = 32. Therefore, 32 boys want to toast marshmallows.",
+    "Next, I find out how many girls want to toast marshmallows. 75% of the girls want to toast marshmallows.",
+    "75% of 32 girls is calculated as 0.75 * 32.",
+    "0.75 * 32 = 24. Therefore, 24 girls want to toast marshmallows.",
+    "I sum up the total number of campers who want to toast marshmallows: 32 boys + 24 girls.",
+    "32 + 24 = 56. So, 56 campers want to toast marshmallows.",
+    "Since each camper who wants to toast marshmallows gets one marshmallow, they need 56 marshmallows in total."
+  ],
+  "solution": "56"
+}

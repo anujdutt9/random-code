@@ -1,0 +1,16 @@
+{
+  "query": "An airplane was flying from California to Virginia.  The flight started with 124 passengers.  They made a layover in Texas.  58 passengers got off and 24 got on.  From there, they flew to North Carolina, where 47 people got off and 14 got on, before flying to Virginia.  There were also a total of 10 crew members on board for the entire flight.  How many people landed in Virginia?",
+  "steps": [
+    "The flight started with 124 passengers.",
+    "There were also a total of 10 crew members onboard the entire flight, so initially, there were 124 passengers + 10 crew = 134 people.",
+    "In Texas, 58 passengers got off the plane.",
+    "After that, 24 passengers got on the plane in Texas.",
+    "The number of passengers after Texas is 124 - 58 + 24 = 90.",
+    "The total number of people on board after Texas, including crew, is 90 passengers + 10 crew = 100.",
+    "In North Carolina, 47 passengers got off the plane.",
+    "Then, 14 passengers got on the plane in North Carolina.",
+    "The number of passengers after leaving North Carolina is 90 - 47 + 14 = 57.",
+    "The total number of people on board after North Carolina, including crew, is 57 passengers + 10 crew = 67."
+  ],
+  "solution": "67"
+}

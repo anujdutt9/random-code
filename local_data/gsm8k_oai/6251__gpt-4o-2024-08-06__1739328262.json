@@ -1,0 +1,19 @@
+{
+  "query": "Susan walked to the market to buy five dozen peaches.  To carry them home, she brought two identically-sized cloth bags and a much smaller knapsack.  Into the knapsack she placed half as many peaches as she placed in each of the two cloth bags. How many peaches did she put in the knapsack?",
+  "steps": [
+    "First, I need to determine the total number of peaches Susan bought.",
+    "A dozen is equal to 12, so five dozen peaches is 5 times 12.",
+    "5 times 12 is 60, so Susan bought a total of 60 peaches.",
+    "According to the problem, Susan places the same number of peaches in each of her two identically-sized cloth bags, and half as many peaches in the knapsack.",
+    "Let the number of peaches in each cloth bag be denoted as x.",
+    "Since she put half as many peaches in the knapsack as in each bag, the number of peaches in the knapsack is x/2.",
+    "The total number of peaches is the sum of the peaches in the two cloth bags and the knapsack: 2x + x/2.",
+    "The equation for the total peaches becomes 2x + x/2 = 60.",
+    "To solve for x, first clear the fraction by multiplying each term by 2, giving 4x + x = 120.",
+    "Combine the terms on the left to get 5x = 120.",
+    "Solve for x by dividing both sides by 5, resulting in x = 24.",
+    "Each cloth bag contains 24 peaches. The number of peaches in the knapsack is half of 24.",
+    "Half of 24 is 12."
+  ],
+  "solution": "12"
+}

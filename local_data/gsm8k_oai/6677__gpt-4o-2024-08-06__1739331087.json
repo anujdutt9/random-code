@@ -1,0 +1,12 @@
+{
+  "query": "Justin needs to collect one flower for each classmate that is in his 2nd-grade class. It takes him on average 10 minutes to find a flower he likes. He has been gathering for 2 hours. Assuming he has lost 3 of the flowers he initially gathered, how many more minutes does he need to look if he has 30 classmates?",
+  "steps": [
+    "First, I need to determine how many flowers Justin has already found. Since he has been gathering for 2 hours, which is 120 minutes, and it takes him 10 minutes to find each flower, he must have initially gathered some flowers.",
+    "I'll divide the 120 minutes by the 10 minutes per flower to find out how many flowers he gathered initially. 120 / 10 = 12. So, Justin has initially found 12 flowers.",
+    "I need to account for the 3 flowers he lost. So, I'll subtract the lost flowers from the total he initially gathered. 12 - 3 = 9. So, Justin currently has 9 flowers.",
+    "His goal is to collect 30 flowers, one for each classmate. I know he currently has 9 flowers.",
+    "I'll calculate how many more flowers Justin needs by subtracting the number he already has from the total he needs. 30 - 9 = 21. So, he needs 21 more flowers.",
+    "Since it takes him 10 minutes to find each flower, I need to multiply the number of additional flowers needed by the time it takes to find each one. 21 flowers * 10 minutes per flower = 210 minutes."
+  ],
+  "solution": "210"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "The moon is made of 50% iron, 20% carbon, and the remainder is other elements. Mars weighs twice as much as the moon, but has the exact same composition. If Mars is 150 tons of other elements, how many tons does the moon weigh?",
+  "steps": [
+    "The composition of the moon is given as 50% iron, 20% carbon, and the remaining percentage is for other elements. Let's determine what percentage of the moon is made up of other elements.",
+    "The total percentage must add up to 100%. The moon is 50% iron and 20% carbon, so the percentage of other elements is 100% - 50% - 20% = 30%.",
+    "Mars has the same composition as the moon, so it is also 30% other elements.",
+    "We know Mars has 150 tons of other elements. Since other elements are 30% of Mars's composition, we can set up the equation: 0.30 * (weight of Mars) = 150 tons.",
+    "To find the total weight of Mars, we can rearrange the equation to solve for (weight of Mars): weight of Mars = 150 tons / 0.30.",
+    "Calculating this: weight of Mars = 150 / 0.30 = 500 tons.",
+    "It is stated that Mars weighs twice as much as the moon.",
+    "This implies that the weight of the moon is half the weight of Mars.",
+    "Therefore, the weight of the moon is 500 tons / 2.",
+    "Calculating this gives the weight of the moon as 250 tons."
+  ],
+  "solution": "250"
+}

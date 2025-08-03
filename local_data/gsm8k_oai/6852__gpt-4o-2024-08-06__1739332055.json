@@ -1,0 +1,18 @@
+{
+  "query": "Mark has the option of getting a $300 lens with a 20% discount or a $220 lens.  How much money does he save by buying the cheaper lens?",
+  "steps": [
+    "First, I need to calculate the price of the $300 lens after applying the 20% discount.",
+    "A 20% discount on $300 means I'll calculate 20% of $300.",
+    "To find 20% of $300, I multiply 300 by 0.20.",
+    "$300 * 0.20 = $60.",
+    "Now, I subtract the discount amount from the original price of the lens.",
+    "$300 - $60 = $240.",
+    "The discounted price of the $300 lens is $240.",
+    "Next, I compare the discounted price of the $300 lens to the $220 lens.",
+    "The $220 lens costs less than the $240 lens.",
+    "Now, I'll calculate how much money Mark saves by buying the $220 lens instead of the $240 lens.",
+    "Subtract the cost of the $220 lens from the discounted price of the $300 lens.",
+    "$240 - $220 = $20."
+  ],
+  "solution": "20"
+}

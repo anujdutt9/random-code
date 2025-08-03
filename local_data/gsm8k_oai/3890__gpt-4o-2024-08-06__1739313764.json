@@ -1,0 +1,15 @@
+{
+  "query": "Buoys are placed in the ocean at even intervals away from the beach to help swimmers monitor how far away from the beach they have swum. If a swimmer reaches the third buoy, they have swum out 72 meters. How many meters from the beach is the fourth buoy?",
+  "steps": [
+    "To solve this problem, I need to determine how far apart each buoy is from the next.",
+    "I know that the distance to the third buoy is 72 meters.",
+    "If the buoys are evenly spaced, then the distance between each consecutive buoy is the same.",
+    "To find the distance between each buoy, I will divide 72 meters by 3, because the third buoy is the endpoint of reaching three buoys.",
+    "Calculating: 72 meters / 3 buoys = 24 meters per buoy.",
+    "Now that I know each buoy is 24 meters apart, I can calculate the distance to the fourth buoy.",
+    "The distance to the third buoy is 72 meters, and I need to add one more interval (from the third buoy to the fourth).",
+    "Adding 24 meters (one interval) to 72 meters gives me the distance to the fourth buoy.",
+    "Calculating: 72 meters + 24 meters = 96 meters."
+  ],
+  "solution": "96"
+}

@@ -1,0 +1,21 @@
+{
+  "query": "Matt has 8 baseball cards worth $6 each. If he trades two of them to Jane in exchange for 3 $2 cards and 1 $9 card, how much profit does he make?",
+  "steps": [
+    "Matt has 8 baseball cards.",
+    "Each of these baseball cards is worth $6.",
+    "To find the total value of Matt's 8 cards, I multiply 8 by $6.",
+    "8 cards x $6 per card = $48",
+    "Matt trades two of his cards, so I need to determine the value of the cards he trades.",
+    "Each card is worth $6, so two cards are worth 2 x $6.",
+    "2 cards x $6 per card = $12",
+    "Matt receives three $2 cards and one $9 card in exchange.",
+    "To find the total value of what Matt receives, I calculate the value of the 3 $2 cards and add the value of the $9 card.",
+    "3 $2 cards = 3 x $2 = $6",
+    "Add the $9 card to get the total received value: $6 + $9.",
+    "$6 + $9 = $15",
+    "To find his profit, I subtract the value of the cards he traded from the value of what he received.",
+    "Value of received cards ($15) - Value of cards traded ($12) = Profit",
+    "$15 - $12 = $3"
+  ],
+  "solution": "3"
+}

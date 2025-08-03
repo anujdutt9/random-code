@@ -1,0 +1,10 @@
+{
+  "query": "Question: Mr. Jenkins constructed a circuit consisting of a variable source, wires, and a resistor. In order to triple the amount of current, how should he change the voltage of the source?\n\nChoices:\nA: make the voltage three times larger\nB: make the voltage one-third as great\nC: make the voltage nine times larger\nD: make the voltage one-ninth as great",
+  "steps": [
+    "According to Ohm's law, current (I) is directly proportional to voltage (V) and inversely proportional to resistance (R), expressed as I = V/R.",
+    "To triple the amount of current (I), Mr. Jenkins can adjust the voltage (V) while keeping the resistance (R) constant.",
+    "If we set the initial current as I\u2080, we have I\u2080 = V\u2080/R, and to triple the current, we need I = 3I\u2080 = 3(V\u2080/R).",
+    "Rearranging gives us 3(V\u2080/R) = V/R, which simplifies to V = 3V\u2080. Thus, the new voltage must be three times the original voltage to achieve three times the original current."
+  ],
+  "solution": "A"
+}

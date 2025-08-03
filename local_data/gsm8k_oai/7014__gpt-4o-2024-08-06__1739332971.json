@@ -1,0 +1,15 @@
+{
+  "query": "Claire was in charge of passing out free balloons to all the children at the fair.  She started with 50 balloons.  While passing 1 balloon to a little girl, 12 balloons floated away.  Over the next thirty minutes, she gave 9 more away and grabbed the last 11 from her coworker.  How many balloons does Claire have?",
+  "steps": [
+    "Claire starts with 50 balloons.",
+    "She gives 1 balloon to a little girl.",
+    "After giving away 1 balloon, she has 50 - 1 = 49 balloons left.",
+    "12 balloons float away.",
+    "After 12 float away, she has 49 - 12 = 37 balloons left.",
+    "She gives away 9 more balloons.",
+    "After giving away 9, she has 37 - 9 = 28 balloons left.",
+    "She receives 11 balloons from her coworker.",
+    "After receiving 11 more, she has 28 + 11 = 39 balloons."
+  ],
+  "solution": "39"
+}

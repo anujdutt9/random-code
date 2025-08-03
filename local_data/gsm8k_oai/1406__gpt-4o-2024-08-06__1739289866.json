@@ -1,0 +1,13 @@
+{
+  "query": "Bill is trying to count the toddlers at his daycare, but they keep running around. He double-counts 8 toddlers and misses 3 who are hiding. If Bill thinks he counted 26 toddlers, how many are there really?",
+  "steps": [
+    "Bill thinks he counted 26 toddlers.",
+    "He double-counted 8 toddlers. This means part of his count includes these 8 toddlers twice.",
+    "To correct this double-counting, I need to subtract 8 toddlers from his initial count of 26.",
+    "26 - 8 equals 18. So, his adjusted count after correcting for double-counting is 18 toddlers.",
+    "However, he also missed 3 toddlers who were hiding.",
+    "To account for the missed toddlers, I need to add 3 to the adjusted count of 18.",
+    "18 + 3 equals 21."
+  ],
+  "solution": "21"
+}

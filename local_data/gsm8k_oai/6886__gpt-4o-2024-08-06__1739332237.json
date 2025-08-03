@@ -1,0 +1,24 @@
+{
+  "query": "A baseball cap factory made 320 caps the first week, 400 the second week, and 300 the third week.  If the company makes their average number of caps from the first 3 weeks during the fourth week, how many total caps will they make?",
+  "steps": [
+    "First, I need to determine the number of caps made in each of the first three weeks.",
+    "The first week, 320 caps were made.",
+    "The second week, 400 caps were made.",
+    "The third week, 300 caps were made.",
+    "Now, I need to find the total number of caps made in the first three weeks.",
+    "I add the caps from the first week: 320",
+    "I add the caps from the second week: 320 + 400 = 720",
+    "I add the caps from the third week: 720 + 300 = 1020",
+    "Now that I have the total number of caps for the first three weeks, I need to find the average number of caps made per week.",
+    "To find the average, I divide the total number of caps by the number of weeks: 1020 / 3",
+    "1020 divided by 3 is 340.",
+    "The average number of caps made each week is 340.",
+    "If the company makes the average number of caps during the fourth week, they would make 340 caps that week.",
+    "Now, I add the caps from the fourth week to the total from the first three weeks.",
+    "The total for the first three weeks is 1020.",
+    "I add 340 caps for the fourth week: 1020 + 340",
+    "1020 + 340 equals 1360.",
+    "Thus, the total number of caps made in the four weeks is 1360."
+  ],
+  "solution": "1360"
+}

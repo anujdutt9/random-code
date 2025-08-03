@@ -1,0 +1,20 @@
+{
+  "query": "Uncle Bradley has a $1000 bill that he wants to change into smaller bills so he could give them to his nieces and nephews. He wants to change 3/10 of the money into $50 bills while the rest into $100 bills. How many pieces of bills will Uncle Bradley have in all?",
+  "steps": [
+    "Uncle Bradley starts with a $1000 bill that he wants to exchange for smaller bills.",
+    "He wants to change 3/10 of the money into $50 bills.",
+    "First, I need to calculate how much money 3/10 of $1000 is.",
+    "3/10 of $1000 is calculated as (3/10) * 1000 = $300.",
+    "So, $300 will be changed into $50 bills.",
+    "To find out how many $50 bills that is, I divide $300 by $50.",
+    "300 / 50 = 6, so Uncle Bradley will have 6 pieces of $50 bills.",
+    "Now, I need to calculate the remaining amount of money that will be changed into $100 bills.",
+    "The remaining money is $1000 - $300 = $700.",
+    "Uncle Bradley wants to change the remaining $700 into $100 bills.",
+    "To find out how many $100 bills that is, I divide $700 by $100.",
+    "700 / 100 = 7, so Uncle Bradley will have 7 pieces of $100 bills.",
+    "To find out how many pieces of bills in total Uncle Bradley will have, I add the number of $50 bills to the number of $100 bills.",
+    "6 (pieces of $50 bills) + 7 (pieces of $100 bills) = 13."
+  ],
+  "solution": "13"
+}

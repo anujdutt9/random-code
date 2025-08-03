@@ -1,0 +1,18 @@
+{
+  "query": "In Grade 4, there are two sections -- Diligence and Industry. The two sections have an equal number of students after 2 students were transferred from section Industry to Diligence. How many students were there in section Diligence before the transfer if, in both sections combined, there are a total of 50 students?",
+  "steps": [
+    "Let the original number of students in section Diligence be D.",
+    "Let the original number of students in section Industry be I.",
+    "We know that D + I = 50 because the total number of students in both sections is 50.",
+    "After transferring 2 students from section Industry to section Diligence, the number of students in section Diligence becomes D + 2.",
+    "And the number of students in section Industry becomes I - 2.",
+    "After the transfer, the number of students in both sections is equal. So, D + 2 = I - 2.",
+    "Now, we have two equations:\n1. D + I = 50\n2. D + 2 = I - 2",
+    "From equation 2, we can express I in terms of D: I = D + 4.",
+    "Now substitute I = D + 4 into equation 1: D + (D + 4) = 50.",
+    "Simplify the equation: 2D + 4 = 50.",
+    "Subtract 4 from both sides: 2D = 46.",
+    "Divide by 2: D = 23."
+  ],
+  "solution": "23"
+}

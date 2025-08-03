@@ -1,0 +1,18 @@
+{
+  "query": "John went on a mission that was supposed to take 5 days.  Instead it took 60% longer.  He then had to go on a second mission which took 3 days.  How long was he on missions?",
+  "steps": [
+    "First, I need to determine how much longer the first mission took than originally planned.",
+    "The first mission was supposed to take 5 days.",
+    "It took 60% longer than 5 days.",
+    "To find 60% of 5, I need to multiply 5 by 0.6.",
+    "5 * 0.6 = 3",
+    "So, the first mission took an additional 3 days.",
+    "Now, I add these extra days to the original duration.",
+    "5 + 3 = 8",
+    "The first mission lasted 8 days in total.",
+    "Next, the second mission took 3 days.",
+    "Now, I add the durations of both missions together to get the total time John spent on missions.",
+    "8 + 3 = 11"
+  ],
+  "solution": "11"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Five times a week, Onur bikes 250 kilometers a day. His friend Hanil bikes 40 more kilometers of Onur biking distance in a day. What's the total distance the two friends bikes in a week?",
+  "steps": [
+    "First, I need to determine the total distance Onur bikes in a week.",
+    "Onur bikes 250 kilometers a day.",
+    "He bikes 5 days in a week.",
+    "I calculate the total distance Onur bikes in a week by multiplying the distance per day by the number of days: 250 km/day * 5 days/week = 1250 km/week.",
+    "Next, I need to find out how many kilometers Hanil bikes in a day.",
+    "Hanil bikes 40 more kilometers than Onur does in a day.",
+    "Onur bikes 250 kilometers a day, so Hanil bikes 250 km + 40 km = 290 km a day.",
+    "Now, I determine the total distance Hanil bikes in a week by multiplying his daily distance by 5 days.",
+    "Hanil bikes 290 km/day * 5 days/week = 1450 km/week.",
+    "Finally, I calculate the combined distance the two friends bike in a week by adding their individual weekly distances.",
+    "Onur's weekly biking distance is 1250 km, and Hanil's is 1450 km.",
+    "The total distance they bike together in a week is 1250 km + 1450 km = 2700 km."
+  ],
+  "solution": "2700"
+}

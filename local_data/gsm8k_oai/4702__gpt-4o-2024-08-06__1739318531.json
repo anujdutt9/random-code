@@ -1,0 +1,9 @@
+{
+  "query": "Kelly, Brittany, and Buffy went swimming at Salt Rock Lake and held a contest to see who could hold their breath underwater for the longest amount of time.  Kelly held her breath underwater for 3 minutes.  Brittany held her breath underwater for 20 seconds less time than than Kelly did, and Buffy held her breath underwater for 40 seconds less time than Brittany did.  How long, in seconds, did Buffy hold her breath underwater?",
+  "steps": [
+    "First, I need to convert Kelly's breath-holding time into seconds. Since there are 60 seconds in a minute, Kelly held her breath for 3 minutes, which is 3 \u00d7 60 = 180 seconds.",
+    "Next, I'll find how long Brittany held her breath. Brittany held her breath for 20 seconds less than Kelly. So, Brittany's time is 180 - 20 = 160 seconds.",
+    "Now, I'll calculate how long Buffy held her breath. Buffy held her breath for 40 seconds less than Brittany. This means Buffy's time is 160 - 40 = 120 seconds."
+  ],
+  "solution": "120"
+}

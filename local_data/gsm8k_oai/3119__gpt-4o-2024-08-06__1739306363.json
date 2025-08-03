@@ -1,0 +1,18 @@
+{
+  "query": "Nick has 60 cans. Each can takes up 30 square inches of space before being compacted and 20% of that amount after being compacted. How much space do all the cans take up after being compacted?",
+  "steps": [
+    "I have to find out the space occupied by each can after being compacted.",
+    "Each can takes up 30 square inches of space before being compacted.",
+    "After being compacted, each can takes up 20% of the original space.",
+    "To find the compacted space of one can, I need to calculate 20% of 30 square inches.",
+    "20% of 30 is calculated as (20/100) * 30.",
+    "(20/100) * 30 = 6 square inches.",
+    "So each can occupies 6 square inches after being compacted.",
+    "I need to find the total space for all 60 cans after being compacted.",
+    "Each compacted can occupies 6 square inches, and there are 60 cans.",
+    "The total space is 60 cans * 6 square inches per can.",
+    "Calculate 60 * 6.",
+    "60 * 6 = 360."
+  ],
+  "solution": "360"
+}

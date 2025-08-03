@@ -1,0 +1,14 @@
+{
+  "query": "For the school play, 40 rows of chairs were set up where there were 20 chairs in each row. If only 10 seats were not occupied, how many seats were taken?",
+  "steps": [
+    "First, I need to calculate the total number of seats available for the school play.",
+    "I know there are 40 rows of chairs and each row has 20 chairs.",
+    "To find the total number of seats, I multiply the number of rows by the number of chairs per row.",
+    "\\(40 \\times 20 = 800\\) total seats.",
+    "Next, I need to find out how many seats were actually occupied.",
+    "The problem states that only 10 seats were not occupied.",
+    "To find the number of seats that were taken, I subtract the number of empty seats from the total number of seats.",
+    "\\(800 - 10 = 790\\) seats were taken."
+  ],
+  "solution": "790"
+}

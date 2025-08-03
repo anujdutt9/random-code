@@ -1,0 +1,14 @@
+{
+  "query": "The school band is going to a competition. Five members play the flute. There are three times as many members who play the trumpet. There are eight fewer trombone players than trumpeters, and eleven more drummers than trombone players. There are twice as many members that play the clarinet as members that play the flute. Three more members play the French horn than play the trombone. How many seats are needed on the bus?",
+  "steps": [
+    "First, let's determine the number of flute players. There are 5 members who play the flute.",
+    "Next, we calculate the number of trumpet players. It is stated there are three times as many trumpet players as flute players. Therefore, trumpet players = 5 * 3 = 15.",
+    "Now, we'll find the number of trombone players. There are eight fewer trombone players than trumpet players. Therefore, trombone players = 15 - 8 = 7.",
+    "Next, find the number of drummers. There are eleven more drummers than trombone players. Therefore, drummers = 7 + 11 = 18.",
+    "Now let's determine the number of clarinet players. There are twice as many clarinet players as flute players. Therefore, clarinet players = 5 * 2 = 10.",
+    "Next, calculate the number of French horn players. There are three more French horn players than trombone players. Therefore, French horn players = 7 + 3 = 10.",
+    "Now we sum all the members to find out how many seats are needed. The total is flute (5) + trumpet (15) + trombone (7) + drummers (18) + clarinet (10) + French horn (10).",
+    "Adding those together: 5 + 15 + 7 + 18 + 10 + 10 = 65."
+  ],
+  "solution": "65"
+}

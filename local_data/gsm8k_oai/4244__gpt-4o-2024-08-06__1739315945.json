@@ -1,0 +1,16 @@
+{
+  "query": "The Grey's bought several chickens at a sale. John took 5 more of the chickens than Mary took. Ray took 6 chickens less than Mary. If Ray took 10 chickens, how many more chickens did John take than Ray?",
+  "steps": [
+    "Ray took 10 chickens.",
+    "Ray took 6 chickens less than Mary.",
+    "To find out how many chickens Mary took, I add 6 to the number of chickens Ray took.",
+    "Mary took \\(10 + 6 = 16\\) chickens.",
+    "John took 5 more chickens than Mary.",
+    "To find out how many chickens John took, I add 5 to the number of chickens Mary took.",
+    "John took \\(16 + 5 = 21\\) chickens.",
+    "Now, I need to find out how many more chickens John took than Ray.",
+    "I calculate the difference between the number of chickens John and Ray took.",
+    "The difference is \\(21 - 10 = 11\\) chickens."
+  ],
+  "solution": "11"
+}

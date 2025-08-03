@@ -1,0 +1,13 @@
+{
+  "query": "A type C school bus contains 13 rows of seats, with an aisle running down the middle of the bus, splitting each row into two sections.  If the school only allowed two students to sit in each section, how many students could be seated on the bus?",
+  "steps": [
+    "First, I need to determine how many sections of seats are in one row.",
+    "Since there is an aisle down the middle, each row has two sections.",
+    "Now, I need to calculate how many sections are in the entire bus.",
+    "There are 13 rows and, since each row is split into two sections, there are 2 sections per row.",
+    "I will multiply the number of rows by the number of sections per row: 13 rows * 2 sections per row = 26 sections.",
+    "The problem states that two students can sit in each section.",
+    "I will multiply the number of sections by the number of students that can sit in each section: 26 sections * 2 students per section = 52 students."
+  ],
+  "solution": "52"
+}

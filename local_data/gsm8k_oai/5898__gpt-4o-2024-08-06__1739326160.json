@@ -1,0 +1,16 @@
+{
+  "query": "After being contracted to build 4000 bollards on each side of a road, a company was only able to install 3/4 of the total number of bollards required on all sides of the road. How many more bollards are they required to install on all sides of the remaining part of the road?",
+  "steps": [
+    "First, calculate the total number of bollards needed for both sides of the road. We have 4000 bollards per side and there are 2 sides.",
+    "Total number of bollards = 4000 bollards/side * 2 sides",
+    "Total number of bollards = 8000",
+    "The company was only able to install 3/4 of the total number of bollards.",
+    "Calculate the number of bollards installed by the company: 3/4 of 8000.",
+    "Number of bollards installed = (3/4) * 8000",
+    "Number of bollards installed = 6000",
+    "Now, to find out how many more bollards are required, subtract the number of installed bollards from the total number needed.",
+    "Number of additional bollards required = 8000 - 6000",
+    "Number of additional bollards required = 2000"
+  ],
+  "solution": "2000"
+}

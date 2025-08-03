@@ -1,0 +1,14 @@
+{
+  "query": "There's an online sale where you get $10 for every $100 that you spend. If you make a purchase of $250 before discounts, how much did you end up paying?",
+  "steps": [
+    "The total purchase amount before any discounts is $250.",
+    "The discount is $10 for every $100 spent.",
+    "First, calculate the number of full $100 increments in $250.",
+    "Divide $250 by $100, which gives 2 full increments of $100.",
+    "Each increment of $100 gives a $10 discount.",
+    "So, the discount is 2 increments multiplied by $10, which equals $20.",
+    "Subtract the discount from the original total: $250 - $20.",
+    "$250 minus $20 is $230."
+  ],
+  "solution": "230"
+}

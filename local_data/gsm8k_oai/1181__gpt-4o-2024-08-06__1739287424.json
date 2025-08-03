@@ -1,0 +1,12 @@
+{
+  "query": "Mr Fletcher hired 2 men to dig a well in his compound. They worked for 10 hours on the first day, 8 hours on the second day and finished the job on the third day after working 15 hours. If Mr Fletcher paid each of them $10 per hour of work, calculate the total amount of money they received altogether?",
+  "steps": [
+    "First, I need to calculate the total hours worked by each man.",
+    "On the first day, they worked 10 hours each. So, for two men, that's 10 hours * 2 men = 20 hours.",
+    "On the second day, they worked 8 hours each. So, for two men, that's 8 hours * 2 men = 16 hours.",
+    "On the third day, they worked 15 hours each. So, for two men, that's 15 hours * 2 men = 30 hours.",
+    "Now, I add up all the hours they worked together: 20 hours + 16 hours + 30 hours = 66 hours.",
+    "Each man is paid $10 per hour. So, for 66 hours in total, they would be paid 66 hours * $10/hour = $660."
+  ],
+  "solution": "660"
+}

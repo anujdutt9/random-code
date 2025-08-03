@@ -1,0 +1,18 @@
+{
+  "query": "Jeff orders a Halloween costume.  He has to put in a 10% deposit and then pay the rest when he picks it up.  The costume is 40% more expensive than last year's costume, which cost $250.  How much did he pay when picking it up, in dollars?",
+  "steps": [
+    "First, I need to calculate the price of this year's costume.",
+    "Last year's costume cost $250.",
+    "This year's costume is 40% more expensive than last year's.",
+    "A 40% increase on $250 is calculated by multiplying $250 by 0.4.",
+    "$250 * 0.4 = $100",
+    "Add the increase to last year's cost to find this year's cost: $250 + $100.",
+    "This year's costume costs $350.",
+    "Jeff needs to put in a 10% deposit. Let's calculate the deposit amount.",
+    "A 10% deposit on the $350 costume is calculated by multiplying $350 by 0.1.",
+    "$350 * 0.1 = $35",
+    "Now, subtract the deposit from the total cost to find out how much he pays when picking it up.",
+    "$350 - $35 = $315"
+  ],
+  "solution": "315"
+}

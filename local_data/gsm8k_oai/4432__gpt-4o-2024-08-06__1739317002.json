@@ -1,0 +1,16 @@
+{
+  "query": "Shane wants to take as many photos as possible this year. He takes 146 photos in the first 2 months of the year. In January, he takes 2 photos every day. The rest of the photos were taken in February. If in February he took an equal number of photos each week, how many photos did Shane take each week in February?",
+  "steps": [
+    "First, I need to determine how many photos Shane took in January.",
+    "January has 31 days, and Shane takes 2 photos every day.",
+    "Thus, Shane took 31 * 2 = 62 photos in January.",
+    "Next, I need to find out how many photos he took in February.",
+    "Shane took 146 photos in the first 2 months. He took 62 photos in January.",
+    "So, the number of photos taken in February is 146 - 62 = 84 photos.",
+    "In February, Shane took photos equally each week. I need to know how many weeks are in February.",
+    "February typically has 4 weeks, as there are 28 days in February normally (excluding leap years).",
+    "To find out how many photos Shane took each week, I divide the 84 photos by 4 weeks.",
+    "84 photos divided by 4 weeks equals 21 photos per week."
+  ],
+  "solution": "21"
+}

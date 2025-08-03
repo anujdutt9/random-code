@@ -1,0 +1,15 @@
+{
+  "query": "Jim spends 8 hours scuba diving.  In that time he finds a treasure chest with 100 gold coins in it.  He also finds 2 smaller bags that have half as much gold each.  How much gold does he find per hour?",
+  "steps": [
+    "Jim finds a treasure chest with 100 gold coins in it. This is the first part of the total amount of gold he finds.",
+    "He also finds 2 smaller bags. Each smaller bag has half as much gold as the treasure chest.",
+    "Half of 100 gold coins is 50 gold coins. This is the amount of gold in one smaller bag.",
+    "There are 2 smaller bags, so I need to multiply 50 gold coins by 2 to get the total gold from the smaller bags.",
+    "Multiplying gives me 50 gold coins * 2 = 100 gold coins in the two smaller bags.",
+    "Now, I need to find the total amount of gold Jim finds. He finds 100 gold coins from the chest and 100 gold coins from the bags.",
+    "100 gold coins + 100 gold coins = 200 gold coins in total.",
+    "Jim spends 8 hours scuba diving, so I need to divide the total gold by the number of hours to find out how much gold he finds per hour.",
+    "200 gold coins / 8 hours = 25 gold coins per hour."
+  ],
+  "solution": "25"
+}

@@ -1,0 +1,21 @@
+{
+  "query": "Over several years, Daniel has adopted any stray animals he sees on the side of the road.  He now has 2 horses, 5 dogs, 7 cats, 3 turtles, and 1 goat.  All of the animals are perfectly healthy.  In total, how many legs do his animals have?",
+  "steps": [
+    "First, determine the number of legs per animal type. Horses typically have 4 legs.",
+    "Daniel has 2 horses. So, 2 horses times 4 legs per horse is 8 legs.",
+    "Next, calculate legs for dogs. Dogs also have 4 legs each.",
+    "He has 5 dogs, and 5 dogs times 4 legs per dog equals 20 legs.",
+    "Now, calculate legs for cats, which also have 4 legs each.",
+    "Daniel has 7 cats, resulting in 7 cats times 4 legs per cat equaling 28 legs.",
+    "Next, consider turtles. Turtles have 4 legs each.",
+    "Daniel has 3 turtles, so 3 turtles times 4 legs per turtle equals 12 legs.",
+    "Finally, calculate legs for the goat, which has 4 legs.",
+    "Daniel has 1 goat, so 1 goat times 4 legs per goat is 4 legs.",
+    "Now, add up all the legs from each group: 8 (horses) + 20 (dogs) + 28 (cats) + 12 (turtles) + 4 (goat).",
+    "8 + 20 = 28.",
+    "28 + 28 = 56.",
+    "56 + 12 = 68.",
+    "68 + 4 = 72."
+  ],
+  "solution": "72"
+}

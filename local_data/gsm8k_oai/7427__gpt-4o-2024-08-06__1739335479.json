@@ -1,0 +1,15 @@
+{
+  "query": "In 5 years, Joey will be as old as Beth is now. If Joey is 9 now, how old was Joey when Beth was Joey's age now?",
+  "steps": [
+    "First, I need to determine Joey's current age, which is given as 9 years old.",
+    "The problem states that in 5 years, Joey will be as old as Beth is now.",
+    "In 5 years, Joey will be 9 + 5 = 14 years old.",
+    "This means that Beth is currently 14 years old.",
+    "The question asks how old Joey was when Beth was Joey's current age.",
+    "Joey is currently 9 years old, so I need to find out how many years ago Beth was 9 years old.",
+    "Beth is currently 14 years old, and she was 9 years old, 14 - 9 = 5 years ago.",
+    "To find Joey's age at that time, I subtract 5 years from his current age.",
+    "Joey's age 5 years ago was 9 - 5 = 4 years old."
+  ],
+  "solution": "4"
+}

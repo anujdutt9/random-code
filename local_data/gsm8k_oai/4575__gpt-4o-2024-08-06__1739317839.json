@@ -1,0 +1,16 @@
+{
+  "query": "Laran has started a poster business. She is selling 5 posters per day at school. Two posters per day are her large posters that sell for $10. The large posters cost her $5 to make. The remaining posters are small posters that sell for $6. They cost $3 to produce. How much profit, in dollars, does Laran make per 5-day school week?",
+  "steps": [
+    "First, I need to identify how many posters Laran sells in a school week. She sells 5 posters per day.",
+    "In a 5-day school week, that means she sells 5 posters/day * 5 days/week = 25 posters per week.",
+    "Next, I need to determine how many of these are large posters and how many are small posters.",
+    "Laran sells 2 large posters per day. Therefore, in a 5-day week, she sells 2 large posters/day * 5 days/week = 10 large posters per week.",
+    "Subtracting the large posters from the total, the rest are small posters: 25 total posters - 10 large posters = 15 small posters per week.",
+    "Now I calculate the profit from the large posters. Each large poster sells for $10 and costs $5 to make. Profit per large poster is $10 - $5 = $5.",
+    "For 10 large posters, the total profit is 10 large posters * $5/profit per large poster = $50.",
+    "Next, I calculate the profit from small posters. Each small poster sells for $6 and costs $3 to make. Profit per small poster is $6 - $3 = $3.",
+    "For 15 small posters, the total profit is 15 small posters * $3/profit per small poster = $45.",
+    "Finally, I add the profits from both large and small posters to find the total profit for the week: $50 (large poster profit) + $45 (small poster profit) = $95."
+  ],
+  "solution": "95"
+}

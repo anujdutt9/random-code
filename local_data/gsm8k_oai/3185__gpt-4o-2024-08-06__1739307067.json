@@ -1,0 +1,20 @@
+{
+  "query": "Gordon owns 3 restaurants, his first restaurant serves 20 meals, his second restaurant serves 40 meals, and his third restaurant serves 50 meals per day. How many meals do his 3 restaurants serve per week?",
+  "steps": [
+    "First, I need to determine how many meals each restaurant serves in a week by calculating the daily meals served by 7 days, since there are 7 days in a week.",
+    "The first restaurant serves 20 meals per day.",
+    "To find out how many meals the first restaurant serves in a week, I multiply 20 meals by 7 days.",
+    "20 meals/day * 7 days/week = 140 meals/week for the first restaurant.",
+    "The second restaurant serves 40 meals per day.",
+    "To find out how many meals the second restaurant serves in a week, I multiply 40 meals by 7 days.",
+    "40 meals/day * 7 days/week = 280 meals/week for the second restaurant.",
+    "The third restaurant serves 50 meals per day.",
+    "To find out how many meals the third restaurant serves in a week, I multiply 50 meals by 7 days.",
+    "50 meals/day * 7 days/week = 350 meals/week for the third restaurant.",
+    "Now, I need to add up the weekly meals from all three restaurants to get the total number of meals they serve in a week.",
+    "140 meals/week (first restaurant) + 280 meals/week (second restaurant) + 350 meals/week (third restaurant) = total meals served per week.",
+    "140 + 280 = 420 meals/week for the first two restaurants.",
+    "420 + 350 = 770 meals/week for all three restaurants."
+  ],
+  "solution": "770"
+}

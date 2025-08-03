@@ -1,0 +1,18 @@
+{
+  "query": "Karen is planning writing assignments for her fifth grade class. She knows each short-answer question takes 3 minutes to answer, each paragraph takes 15 minutes to write, and each essay takes an hour to write. If Karen assigns 2 essays and 5 paragraphs, how many short-answer questions should she assign if she wants to assign 4 hours of homework total?",
+  "steps": [
+    "First, I need to convert all time units to minutes because the short-answer questions take minutes to complete.",
+    "4 hours of homework need to be converted into minutes: 4 hours * 60 minutes/hour = 240 minutes.",
+    "Next, calculate the time needed for the essays. Each essay takes 60 minutes, and Karen assigns 2 essays.",
+    "2 essays * 60 minutes/essay = 120 minutes.",
+    "Next, calculate the time needed for the paragraphs. Each paragraph takes 15 minutes, and Karen assigns 5 paragraphs.",
+    "5 paragraphs * 15 minutes/paragraph = 75 minutes.",
+    "Now, add the time for essays and paragraphs together to find the total time already allocated.",
+    "120 minutes (essays) + 75 minutes (paragraphs) = 195 minutes.",
+    "To find the remaining time available for short-answer questions, subtract the time already allocated from the total homework time.",
+    "240 minutes (total) - 195 minutes (essays + paragraphs) = 45 minutes remaining.",
+    "Each short-answer question takes 3 minutes, so the number of short-answer questions is the remaining time divided by the time per question.",
+    "45 minutes / 3 minutes per question = 15 short-answer questions."
+  ],
+  "solution": "15"
+}

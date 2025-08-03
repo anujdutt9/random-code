@@ -1,0 +1,18 @@
+{
+  "query": "The sum of Cooper\u2019s, Dante\u2019s, and Maria\u2019s ages is 31. Dante is twice as old as Cooper. Maria is one year older than Dante. How old is Cooper?",
+  "steps": [
+    "Let C represent Cooper's age.",
+    "Let D represent Dante's age.",
+    "Let M represent Maria's age.",
+    "We are given that the sum of their ages is 31: C + D + M = 31.",
+    "We are also given that Dante is twice as old as Cooper: D = 2C.",
+    "We are told that Maria is one year older than Dante: M = D + 1.",
+    "Substitute D = 2C into M = D + 1 to get M = 2C + 1.",
+    "Now substitute D = 2C and M = 2C + 1 into the equation for the sum of their ages: C + 2C + (2C + 1) = 31.",
+    "Simplify the equation: C + 2C + 2C + 1 = 31.",
+    "Combine like terms: 5C + 1 = 31.",
+    "Subtract 1 from both sides: 5C = 30.",
+    "Divide both sides by 5: C = 6."
+  ],
+  "solution": "6"
+}

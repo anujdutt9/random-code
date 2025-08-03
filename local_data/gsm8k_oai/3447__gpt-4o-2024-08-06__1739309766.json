@@ -1,0 +1,10 @@
+{
+  "query": "Chandler can eat a total of 23 apples and Lucy can eat a total of 19 apples per week. If the farmer only delivers 1 time per month, how many apples do they have to order for a month?",
+  "steps": [
+    "First, I need to determine how many weeks are generally in a month. Generally, a month has about 4 weeks.",
+    "Next, I will calculate how many apples Chandler eats in a month. Since Chandler eats 23 apples per week, I will multiply 23 apples by 4 weeks.\n23 apples/week * 4 weeks = 92 apples",
+    "Then, I will calculate how many apples Lucy eats in a month. Lucy eats 19 apples per week, so I will multiply 19 apples by 4 weeks.\n19 apples/week * 4 weeks = 76 apples",
+    "Now, I need to add the apples Chandler and Lucy eat over a month together to get the total amount.\n92 apples (Chandler) + 76 apples (Lucy) = 168 apples"
+  ],
+  "solution": "168"
+}

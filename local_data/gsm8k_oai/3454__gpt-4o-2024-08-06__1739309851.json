@@ -1,0 +1,26 @@
+{
+  "query": "A local college is offering German lessons and currently has 8 students enrolled. Through advertising, 8 more became interested but a fourth of these dropped out within a day. 2 more got frustrated and left. The class then rallied to show how simple the course actually is and increased enrollment by 5 times the amount of students already enrolled in the class, but 2 had to drop it because of scheduling conflicts. After one last rally, 6 more people enrolled. As the days passed, half of the class eventually dropped, and half of the remaining students graduated. How many are still enrolled?",
+  "steps": [
+    "The class currently has 8 students enrolled.",
+    "8 more students became interested through advertising.",
+    "A fourth of these 8 students dropped out. One fourth of 8 is 2.",
+    "8 initially interested minus 2 who dropped out equals 6 remaining interested students.",
+    "2 more students left due to frustration.",
+    "This leaves 6 - 2 = 4 new students who actually enroll.",
+    "Adding these to the initial 8, the class now has 8 + 4 = 12 students enrolled.",
+    "The enrollment then increased by 5 times the number of students already enrolled, which is 12.",
+    "5 times 12 is 60.",
+    "The total enrollment now adds up: 12 originally enrolled + 60 new enrollments = 72 students.",
+    "2 students dropped due to scheduling conflicts.",
+    "72 - 2 = 70 students remain enrolled after these drops.",
+    "6 more students joined after one last rally.",
+    "This brings the total to 70 + 6 = 76 students.",
+    "As time passed, half of the class dropped.",
+    "Half of 76 is 38, so 38 students dropped.",
+    "76 - 38 = 38 students remain.",
+    "Half of the remaining students, which is 38, graduated.",
+    "Half of 38 is 19.",
+    "38 - 19 = 19 students are still enrolled."
+  ],
+  "solution": "19"
+}

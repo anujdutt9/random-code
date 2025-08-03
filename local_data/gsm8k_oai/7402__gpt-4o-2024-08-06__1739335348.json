@@ -1,0 +1,12 @@
+{
+  "query": "In ancient China, soldiers positioned in beacon towers along the Great Wall would send smoke signals to warn of impending attacks.  Since the towers were located at 5 kilometer intervals, they could send a signal the length of the Great Wall.  If the Great wall was 7300 kilometers long, and every tower had two soldiers, what was the combined number of soldiers in beacon towers on the Great Wall?",
+  "steps": [
+    "First, I need to determine how many beacon towers there were along the Great Wall.",
+    "Since the towers were positioned at 5-kilometer intervals, I need to divide the total length of the Great Wall by the interval distance.",
+    "Dividing 7300 kilometers by 5 kilometers per interval gives 1460.",
+    "Therefore, there were 1460 beacon towers along the Great Wall.",
+    "Each tower had two soldiers, so I need to multiply the number of towers by the number of soldiers per tower.",
+    "Multiplying 1460 towers by 2 soldiers per tower gives 2920 soldiers."
+  ],
+  "solution": "2920"
+}

@@ -1,0 +1,21 @@
+{
+  "query": "Junior has 16 rabbits. On Monday, he bought 6 toys for his rabbits. On Wednesday, he bought twice as many toys as he did Monday. On Friday, he bought four times as many toys as he did on Monday, and on the next day he bought half as many toys as he did on Wednesday. If he split all the toys evenly between the rabbits, how many toys would each rabbit have?",
+  "steps": [
+    "Junior initially has 16 rabbits.",
+    "On Monday, Junior bought 6 toys.",
+    "On Wednesday, he bought twice as many toys as on Monday. So, he bought 2 * 6 = 12 toys.",
+    "On Friday, he bought four times as many toys as on Monday. So, he bought 4 * 6 = 24 toys.",
+    "The next day, he bought half as many toys as he did on Wednesday. So, he bought 12 / 2 = 6 toys.",
+    "Now, I will total the number of toys bought throughout the week.",
+    "He bought 6 toys on Monday.",
+    "He bought 12 toys on Wednesday.",
+    "He bought 24 toys on Friday.",
+    "He bought 6 toys the next day.",
+    "The total number of toys is 6 + 12 + 24 + 6.",
+    "The total is 48 toys.",
+    "Junior will split the toys equally among the 16 rabbits.",
+    "I will divide the total number of toys by the number of rabbits.",
+    "48 toys divided by 16 rabbits equals 3 toys per rabbit."
+  ],
+  "solution": "3"
+}

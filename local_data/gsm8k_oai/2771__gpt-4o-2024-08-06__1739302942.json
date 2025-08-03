@@ -1,0 +1,13 @@
+{
+  "query": "Jeff plays tennis for 2 hours.  He scores a point every 5 minutes.  He wins a match when he scores 8 points.  How many games did he win?",
+  "steps": [
+    "Jeff plays tennis for 2 hours.",
+    "1 hour is equal to 60 minutes.",
+    "Therefore, 2 hours is equal to 2 * 60 = 120 minutes.",
+    "Jeff scores a point every 5 minutes.",
+    "To find out how many points he scores in total, divide the total minutes by the number of minutes per point: 120 / 5 = 24 points.",
+    "Jeff wins a match when he scores 8 points.",
+    "To find out how many matches or games he wins, divide the total points by the points needed per win: 24 / 8 = 3."
+  ],
+  "solution": "3"
+}

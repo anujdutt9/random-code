@@ -1,0 +1,14 @@
+{
+  "query": "Angela slept 6.5 hours every night in December. She decided she should get more sleep and began sleeping 8.5 hours a night in January. How much more sleep did Angela get in January?",
+  "steps": [
+    "First, I need to determine the number of days in December and January. December has 31 days.",
+    "Similarly, January also has 31 days.",
+    "Next, I'll calculate the total amount of sleep Angela got in December. At 6.5 hours per night for 31 days, this is 6.5 hours/day * 31 days.",
+    "6.5 * 31 = 201.5 hours of sleep in December.",
+    "Then, I'll calculate the total amount of sleep Angela got in January. At 8.5 hours per night for 31 days, this is 8.5 hours/day * 31 days.",
+    "8.5 * 31 = 263.5 hours of sleep in January.",
+    "To find out how much more sleep Angela got in January compared to December, I subtract the total December sleep from the January sleep.",
+    "263.5 - 201.5 = 62."
+  ],
+  "solution": "62"
+}

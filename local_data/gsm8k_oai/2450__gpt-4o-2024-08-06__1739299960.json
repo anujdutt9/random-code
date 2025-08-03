@@ -1,0 +1,13 @@
+{
+  "query": "Jamie is a firefighter. One day an emergency call comes in from Mrs. Thompson, an elderly woman whose cat can't get down a 20-foot tree. The last time Jamie rescued a cat, he got it down from a 6-foot tree and had to climb 12 rungs of his ladder. How many rungs does he have to climb this time to get the cat down from the tree?",
+  "steps": [
+    "First, I need to find out how many feet each rung of the ladder accounts for.",
+    "Last time, Jamie climbed 12 rungs to reach a height of 6 feet.",
+    "So, each rung allows Jamie to climb 6 feet / 12 rungs = 0.5 feet per rung.",
+    "Now, I have to calculate how many rungs Jamie needs to climb to reach a height of 20 feet.",
+    "Using the information that each rung equals 0.5 feet, I divide 20 feet by 0.5 feet per rung.",
+    "20 feet / 0.5 feet per rung = 40 rungs.",
+    "Therefore, Jamie has to climb 40 rungs to reach the top of the 20-foot tree."
+  ],
+  "solution": "40"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Lydia is planning a road trip with her family and is trying to plan a route. She has 60 liters of fuel and she will use all of this during her trip. She isn't sure how much fuel she is going to use in the first third of the trip but she knows she will need a third of all of her fuel for the second third of the trip, and half this amount for the final third of the trip. How much fuel, in liters, can Lydia use in the first third of the trip?",
+  "steps": [
+    "Lydia has a total of 60 liters of fuel for her entire trip.",
+    "She will use a third of all her fuel for the second third of the trip.",
+    "A third of 60 liters is calculated as \\( \\frac{1}{3} \\times 60 = 20 \\) liters.",
+    "Lydia then uses 20 liters of fuel for the second third of the trip.",
+    "She will use half the amount she used for the second third in the final third of the trip.",
+    "Half of 20 liters is \\( \\frac{1}{2} \\times 20 = 10 \\) liters.",
+    "So, she uses 10 liters in the final third of the trip.",
+    "Now, calculate the total amount of fuel used in the second and final thirds of the trip.",
+    "She uses 20 liters in the second third and 10 liters in the final third, amounting to 30 liters.",
+    "The total amount of fuel for the trip is 60 liters, so to find out how much she uses in the first third, we subtract the amount used in the second and final thirds from the total.",
+    "Therefore, the fuel used in the first third is \\( 60 - 30 = 30 \\) liters."
+  ],
+  "solution": "30"
+}

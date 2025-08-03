@@ -1,0 +1,16 @@
+{
+  "query": "Every day, Billie bakes 3 pumpkin pies for 11 days and puts them in the refrigerator.  It takes 2 cans of whipped cream to cover 1 pie.  If Tiffany comes over and eats 4 pies, how many cans of whipped cream does Billie need to buy to cover the remaining pies?",
+  "steps": [
+    "First, I need to determine how many pies Billie bakes in total. Billie bakes 3 pumpkin pies each day for 11 days.",
+    "So, I calculate the total number of pies as 3 pies/day * 11 days.",
+    "That equals 33 pies in total.",
+    "Next, I need to figure out how many pies are left after Tiffany eats 4 pies.",
+    "I subtract the 4 pies eaten by Tiffany from the 33 pies Billie baked.",
+    "33 pies - 4 pies equals 29 pies remaining.",
+    "Now, I need to determine how many cans of whipped cream are required for the remaining pies.",
+    "It takes 2 cans of whipped cream for 1 pie.",
+    "To find out the total number of cans needed, I multiply the number of remaining pies by the cans needed per pie: 29 pies * 2 cans/pie.",
+    "This calculation equals 58 cans of whipped cream."
+  ],
+  "solution": "58"
+}

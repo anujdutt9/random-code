@@ -1,0 +1,15 @@
+{
+  "query": "A park warden has issued 24 citations over the past three hours. He issued the same number for littering as he did for off-leash dogs, and he issued double the number of other citations for parking fines. How many littering citations did the warden issue?",
+  "steps": [
+    "Let's denote the number of littering citations as L, the number of off-leash dogs citations as D, and the number of parking fines as P.",
+    "According to the problem, the number of littering citations is equal to the number of off-leash dogs citations, so L = D.",
+    "The problem also states that the number of parking fines is double the number of other citations, so P = 2(L + D).",
+    "We are given that the total number of citations issued is 24. Thus, the equation is L + D + P = 24.",
+    "Substituting L = D into the equation gives L + L + P = 24, which simplifies to 2L + P = 24.",
+    "Since P = 2(L + D) and L = D, it follows that P = 2(2L) = 4L.",
+    "Now we substitute P = 4L into the equation 2L + P = 24 to get 2L + 4L = 24.",
+    "Combining similar terms, we have 6L = 24.",
+    "Dividing both sides by 6 yields L = 4."
+  ],
+  "solution": "4"
+}

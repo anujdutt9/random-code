@@ -1,0 +1,15 @@
+{
+  "query": "My cat's empty bowl weighs 420 grams. If I give my cat 60 grams per day and I always fill her bowl every 3 days, how much does her bowl weigh if after I ended up refilling her empty bowl she only ate 14 grams?",
+  "steps": [
+    "The bowl weighs 420 grams when empty. This is important because I will start from this base weight when calculating the combined weight of the bowl and any food in it.",
+    "Every 3 days, I fill my cat's bowl with 60 grams each day for a total of 3 days. I should calculate how much food I initially fill the bowl with.",
+    "60 grams/day * 3 days = 180 grams. This is the amount of food I add to the empty bowl every 3 days.",
+    "Next, I need to figure out what happens if my cat eats only 14 grams before I refill the bowl.",
+    "Normally, if she ate all the food, I would expect her to eat all 180 grams (60 grams/day for 3 days).",
+    "However, she only ate 14 grams. I need to calculate how much food actually remains in the bowl.",
+    "180 grams initial fill - 14 grams eaten = 166 grams remaining in the bowl.",
+    "Now, I add the weight of the empty bowl to the remaining food to find the total weight.",
+    "420 grams (empty bowl) + 166 grams (remaining food) = 586 grams total weight."
+  ],
+  "solution": "586"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Maddie watches 8 episodes of a TV show this week. Each episode is about 44 minutes long. If she watches 138 minutes of the show on Monday. She does not watch any TV on Tuesday and Wednesday. On Thursday, she watches 21 minutes. On Friday, she watches 2 episodes. How many more minutes did she watch over the weekend?",
+  "steps": [
+    "Maddie watches 8 episodes in total, and each episode is 44 minutes long.",
+    "To find the total minutes for 8 episodes, I multiply: 8 episodes * 44 minutes per episode.",
+    "8 * 44 = 352 minutes is the total time she plans to watch.",
+    "She watches 138 minutes on Monday.",
+    "She does not watch any TV on Tuesday and Wednesday, so total minutes watched till Wednesday is 138.",
+    "On Thursday, she watches 21 minutes.",
+    "Adding Thursday's minutes to Monday's, she has watched 138 + 21 = 159 minutes by Thursday.",
+    "On Friday, she watches 2 episodes. Each episode is 44 minutes, so 2 episodes = 2 * 44 = 88 minutes.",
+    "Adding Friday's minutes, by the end of Friday she has watched 159 + 88 = 247 minutes.",
+    "She plans to watch a total of 352 minutes.",
+    "To find how many more minutes she watched over the weekend, subtract what she watched by Friday from the total.",
+    "352 - 247 = 105 minutes were watched over the weekend."
+  ],
+  "solution": "105"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Antoine owns a strawberry farm that supplies strawberries to his local bakeries. The first bakery needs 2 sacks, the second bakery needs 4 sacks, and the third bakery needs 12 sacks of strawberries per week. How many sacks of strawberries does he need to supply all the bakeries in 4 weeks?",
+  "steps": [
+    "First, I'll calculate the total number of sacks needed per week by all bakeries.",
+    "The first bakery needs 2 sacks.",
+    "The second bakery needs 4 sacks.",
+    "The third bakery needs 12 sacks.",
+    "By adding these together, 2 + 4 + 12, we get the total sacks needed per week.",
+    "2 + 4 = 6",
+    "6 + 12 = 18",
+    "So, the total number of sacks needed per week is 18.",
+    "Now, I'll calculate the total needed for all weeks combined.",
+    "They need 18 sacks per week for 4 weeks, so I'll multiply 18 by 4.",
+    "18 * 4 = 72"
+  ],
+  "solution": "72"
+}

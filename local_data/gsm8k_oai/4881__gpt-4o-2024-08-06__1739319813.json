@@ -1,0 +1,14 @@
+{
+  "query": "Snap, Crackle, and Pop spend $150 on cereal in a grocery store.  Snap spends twice as much as Crackle.  Crackle spends 3 times as much as Pop.  How much did Pop spend?",
+  "steps": [
+    "Let's denote the amount that Pop spends as \\( x \\).",
+    "Crackle spends 3 times as much as Pop, so Crackle spends \\( 3x \\).",
+    "Snap spends twice as much as Crackle. Since Crackle spends \\( 3x \\), Snap spends \\( 2 \\times 3x = 6x \\).",
+    "The total amount Snap, Crackle, and Pop spend is $150.",
+    "The equation representing their spending is: \\( x + 3x + 6x = 150 \\).",
+    "Combine like terms: \\( 10x = 150 \\).",
+    "To find \\( x \\), divide both sides by 10: \\( x = \\frac{150}{10} \\).",
+    "Calculating gives \\( x = 15 \\)."
+  ],
+  "solution": "15"
+}

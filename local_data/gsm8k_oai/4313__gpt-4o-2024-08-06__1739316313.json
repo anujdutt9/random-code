@@ -1,0 +1,14 @@
+{
+  "query": "Bob enters cycling competitions every single week and hopes to win the 100 dollar grand prize each time. For the first 2 weeks, he managed first place and got 100 dollars each week. He is saving up for a puppy that costs 1000 dollars. What is the minimum number of additional weeks Bob must win first place?",
+  "steps": [
+    "Bob has already won first place in the first 2 weeks.",
+    "For each of these weeks, he received 100 dollars.",
+    "So, for the first 2 weeks, he earned 2 * 100 dollars = 200 dollars in total.",
+    "Bob is trying to save 1000 dollars to buy a puppy.",
+    "Currently, he has 200 dollars.",
+    "He needs an additional 1000 dollars - 200 dollars = 800 dollars.",
+    "Each week he wins, he gets an additional 100 dollars.",
+    "To find out the minimum number of additional weeks he needs to win, I'll divide the additional amount needed by the prize per win: 800 dollars / 100 dollars per week = 8 weeks."
+  ],
+  "solution": "8"
+}

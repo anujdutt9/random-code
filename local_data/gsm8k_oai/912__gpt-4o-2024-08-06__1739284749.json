@@ -1,0 +1,25 @@
+{
+  "query": "Betty picked 16 strawberries. Matthew picked 20 more strawberries than Betty and twice as many as Natalie. They used their strawberries to make jam. One jar of jam used 7 strawberries and they sold each jar at $4. How much money were they able to make from the strawberries they picked?",
+  "steps": [
+    "Betty picked 16 strawberries.",
+    "Matthew picked 20 more strawberries than Betty.",
+    "Therefore, Matthew picked 16 + 20 = 36 strawberries.",
+    "Matthew picked twice as many strawberries as Natalie.",
+    "If Matthew picked 36 strawberries, then Natalie picked 36 / 2 = 18 strawberries.",
+    "Now I will calculate the total number of strawberries picked by all three people.",
+    "Total strawberries = Betty's strawberries + Matthew's strawberries + Natalie's strawberries.",
+    "Total strawberries = 16 + 36 + 18.",
+    "Total strawberries = 70.",
+    "One jar of jam uses 7 strawberries.",
+    "To find out how many jars they can make, I will divide the total number of strawberries by the number of strawberries needed for one jar.",
+    "Number of jars = Total strawberries / Strawberries per jar.",
+    "Number of jars = 70 / 7.",
+    "Number of jars = 10.",
+    "They sold each jar of jam at $4.",
+    "To find out the total money made, I will multiply the number of jars by the price per jar.",
+    "Total money = Number of jars * Price per jar.",
+    "Total money = 10 * 4.",
+    "Total money = 40."
+  ],
+  "solution": "40"
+}

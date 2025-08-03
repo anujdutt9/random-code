@@ -1,0 +1,14 @@
+{
+  "query": "Bugs are thriving in a garden of 30 plants. The bugs are very hungry today and completely ate 20 plants. The next day, they were still full and only ate half of the remaining plants. After that, they ate only 1 of the plants that were left. How many plants remain?",
+  "steps": [
+    "There are initially 30 plants in the garden.",
+    "The bugs ate 20 plants on the first day.",
+    "After eating 20 plants, there are 30 - 20 = 10 plants remaining.",
+    "The next day, the bugs ate half of the remaining 10 plants.",
+    "Half of 10 plants is 10 / 2 = 5 plants.",
+    "After eating 5 plants, there are 10 - 5 = 5 plants remaining.",
+    "The bugs then ate 1 more plant.",
+    "After eating 1 plant, there are 5 - 1 = 4 plants remaining."
+  ],
+  "solution": "4"
+}

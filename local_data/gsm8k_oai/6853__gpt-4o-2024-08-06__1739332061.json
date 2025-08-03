@@ -1,0 +1,16 @@
+{
+  "query": "Isabelle\u2019s parents bought a new television for $480. The seller gives them a 5% discount. They pay a first installment of $150 and will pay the rest in 3 monthly installments. What is the amount of a monthly payment?",
+  "steps": [
+    "First, calculate the discount amount Isabel's parents receive. The discount is 5% of $480.",
+    "To find 5% of $480, I multiply $480 by 0.05.",
+    "$480 * 0.05 = $24.",
+    "Now, subtract the discount from the original price to find the discounted price.",
+    "$480 - $24 = $456.",
+    "They pay a first installment of $150, so I need to subtract this amount from the discounted price to find the remaining balance.",
+    "$456 - $150 = $306.",
+    "This remaining balance of $306 will be paid in 3 monthly installments.",
+    "Divide the remaining balance by 3 to find the amount of each monthly payment.",
+    "$306 / 3 = $102."
+  ],
+  "solution": "102"
+}

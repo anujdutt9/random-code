@@ -1,0 +1,16 @@
+{
+  "query": "A pack of pretzels costs $4, while a pack of chips is 75% more expensive. Maciek went and bought two packets of chips and two packets of pretzels. How much did he pay for his purchases?",
+  "steps": [
+    "First, I find out how much a pack of chips costs.",
+    "A pack of chips is 75% more expensive than a pack of pretzels.",
+    "75% of $4 is calculated as 0.75 * $4 = $3.",
+    "Therefore, a pack of chips costs $4 + $3 = $7.",
+    "Now, I need to determine the total cost for two packets of chips.",
+    "Two packets of chips cost 2 * $7 = $14.",
+    "Next, I calculate the total cost for two packets of pretzels.",
+    "Two packets of pretzels cost 2 * $4 = $8.",
+    "Adding these two amounts gives the total amount Maciek paid.",
+    "$14 + $8 = $22."
+  ],
+  "solution": "22"
+}

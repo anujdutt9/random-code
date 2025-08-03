@@ -1,0 +1,20 @@
+{
+  "query": "The average of marks scored in four tests by Jake was 75. If jake scored 80 marks in the first test and 10 more in the second test, and an equal number of marks in the third and fourth test, calculate the marks he scored in the third test.",
+  "steps": [
+    "The average of marks scored in four tests by Jake is given as 75.",
+    "To find out the total marks scored in all four tests, we can multiply the average by the number of tests.",
+    "75 (average) * 4 (tests) = 300. So, Jake scored a total of 300 marks in all four tests.",
+    "We know Jake scored 80 marks in the first test.",
+    "Jake scored 10 more marks in the second test than in the first test.",
+    "Therefore, he scored 80 + 10 = 90 marks in the second test.",
+    "Now, let's add the marks from the first and second tests: 80 + 90 = 170.",
+    "Jake scored the same number of marks in the third and fourth test. Let\u2019s call the marks scored in each of these tests \"x\".",
+    "Since we know the total marks scored in all four tests is 300, the marks in the third and fourth tests combined would be: 170 + 2x = 300.",
+    "Subtracting the combined marks of the first two tests from the total, we get: 2x = 300 - 170.",
+    "2x = 130.",
+    "To find the marks in the third test, we divide both sides by 2.",
+    "x = 130 / 2.",
+    "x = 65."
+  ],
+  "solution": "65"
+}

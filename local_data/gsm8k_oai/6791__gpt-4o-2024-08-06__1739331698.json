@@ -1,0 +1,20 @@
+{
+  "query": "Mary bought a packet of 1500 stickers. She shared them between Susan, Andrew and Sam in the ratio 1:1:3 respectively. If Sam gave Andrew two-thirds of his own share, how many stickers does Andrew now have?",
+  "steps": [
+    "Mary has a total of 1500 stickers to distribute.",
+    "The ratio of stickers between Susan, Andrew, and Sam is 1:1:3.",
+    "The sum of the parts of the ratio is 1 + 1 + 3 = 5.",
+    "To find out how many stickers each part of the ratio represents, I divide 1500 by 5.",
+    "1500 \u00f7 5 = 300. So each part of the ratio is 300 stickers.",
+    "Susan gets 1 part, which is 300 stickers.",
+    "Andrew gets 1 part, which is also 300 stickers.",
+    "Sam gets 3 parts, which is 3 x 300 = 900 stickers.",
+    "Sam gives two-thirds of his share to Andrew.",
+    "Two-thirds of Sam's 900 stickers is (2/3) x 900.",
+    "(2/3) x 900 = 600. So Sam gives 600 stickers to Andrew.",
+    "Andrew initially had 300 stickers.",
+    "Adding the 600 stickers Andrew received from Sam, Andrew now has 300 + 600 stickers.",
+    "300 + 600 = 900. So, Andrew now has 900 stickers."
+  ],
+  "solution": "900"
+}

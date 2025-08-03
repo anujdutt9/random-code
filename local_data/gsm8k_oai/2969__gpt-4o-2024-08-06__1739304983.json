@@ -1,0 +1,19 @@
+{
+  "query": "Frank's laundry detergent is double concentrated and will wash 80 loads of laundry.  His detergent is usually $25.00 a bottle but they're having a sale.  If he buys 2 bottles, both bottles will drop to $20.00 a bottle.  How much does he spend, in cents, per load of laundry, if he buys 2 bottles of detergent?",
+  "steps": [
+    "First, let's calculate the total cost if Frank buys 2 bottles at the sale price.",
+    "The sale price per bottle is $20.00.",
+    "For 2 bottles, the cost is 2 times $20.00.",
+    "2 * $20.00 = $40.00",
+    "Next, we will calculate the number of loads Frank can wash with 2 bottles.",
+    "Each bottle washes 80 loads of laundry.",
+    "For 2 bottles, the total number of loads is 2 times 80.",
+    "2 * 80 = 160 loads",
+    "Now, calculate the cost per load of laundry.",
+    "The total cost is $40.00, which needs to be converted to cents.",
+    "$40.00 is equal to 4000 cents.",
+    "Divide the total cost in cents by the total number of loads.",
+    "4000 cents / 160 loads = 25 cents per load"
+  ],
+  "solution": "25"
+}

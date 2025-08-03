@@ -1,0 +1,14 @@
+{
+  "query": "Quinn's library was hosting a summer reading challenge.  For every 5 books you read, you a coupon for a free donut at a nearby bakery.  Quinn decided he could read 2 books a week for 10 weeks total.  How many free donuts would Quinn be eligible for?",
+  "steps": [
+    "I need to calculate how many books Quinn plans to read over the course of the challenge.",
+    "Quinn plans to read 2 books each week.",
+    "The challenge will last for 10 weeks.",
+    "To find the total number of books, I multiply the number of books per week by the number of weeks: 2 books/week * 10 weeks = 20 books.",
+    "With 20 books planned to be read, I need to determine how many donuts that earns based on the reading challenge rule.",
+    "The rule states that for every 5 books read, Quinn receives 1 coupon for a free donut.",
+    "To find how many coupons Quinn gets, divide the total books read by 5: 20 books \u00f7 5 books/coupon = 4 coupons.",
+    "Therefore, Quinn would be eligible for 4 free donuts."
+  ],
+  "solution": "4"
+}

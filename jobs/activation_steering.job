@@ -1,0 +1,754 @@
+#!/bin/bash
+
+#SBATCH --partition=gpu_h100
+#SBATCH --gpus=1
+#SBATCH --job-name=Act
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=16
+#SBATCH --time=06:00:00
+#SBATCH --output=jobs/outputs/activation_steering/results_%A.out
+
+# <Any code you need to set up your environment>
+
+cd $HOME/cache-steering/
+# <Activete environment here, e.g. source activate cache-steering>
+
+# Search
+
+# ------------------------------------------------------------------------------------------------------------- LLAMA 1B
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.2-1B-Instruct \
+#                                         --task arc-oai \
+#                                         --n 160 \
+#                                         --batch_size 32 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.2-1B-Instruct \
+#                                         --task csqa-oai \
+#                                         --n 160 \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.2-1B-Instruct \
+#                                         --task piqa-oai \
+#                                         --n 160 \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.2-1B-Instruct \
+#                                         --task gsm8k-oai \
+#                                         --n 160 \
+#                                         --batch_size 32 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+# ------------------------------------------------------------------------------------------------------------- SMOL
+
+# srun python eval_activation_steering.py --model HuggingFaceTB/SmolLM2-360M-Instruct \
+#                                         --task arc-oai \
+#                                         --n 160 \
+#                                         --batch_size 32 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+
+# srun python eval_activation_steering.py --model HuggingFaceTB/SmolLM2-360M-Instruct \
+#                                         --task csqa-oai \
+#                                         --n 160 \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+
+# srun python eval_activation_steering.py --model HuggingFaceTB/SmolLM2-360M-Instruct \
+#                                         --task piqa-oai \
+#                                         --n 160 \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+
+# srun python eval_activation_steering.py --model HuggingFaceTB/SmolLM2-360M-Instruct \
+#                                         --task gsm8k \
+#                                         --n 160 \
+#                                         --batch_size 32 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+# ------------------------------------------------------------------------------------------------------------- LLAMA 3B
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.2-3B-Instruct \
+#                                         --task arc-oai \
+#                                         --n 160 \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.2-3B-Instruct \
+#                                         --task csqa-oai \
+#                                         --n 160 \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.2-3B-Instruct \
+#                                         --task piqa-oai \
+#                                         --n 160 \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.2-3B-Instruct \
+#                                         --task gsm8k-oai \
+#                                         --n 160 \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+# ------------------------------------------------------------------------------------------------------------- QWEN2 0.5B
+
+# srun python eval_activation_steering.py --model Qwen/Qwen2-0.5B-Instruct \
+#                                         --task arc-oai \
+#                                         --n 160 \
+#                                         --batch_size 32 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+# srun python eval_activation_steering.py --model Qwen/Qwen2-0.5B-Instruct \
+#                                         --task csqa-oai \
+#                                         --n 160 \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+# srun python eval_activation_steering.py --model Qwen/Qwen2-0.5B-Instruct \
+#                                         --task piqa-oai \
+#                                         --n 160 \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+# srun python eval_activation_steering.py --model Qwen/Qwen2-0.5B-Instruct \
+#                                         --task gsm8k-oai \
+#                                         --n 160 \
+#                                         --batch_size 32 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+
+# ------------------------------------------------------------------------------------------------------------- Llama 8B
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.1-8B-Instruct \
+#                                         --task arc-oai \
+#                                         --n 160 \
+#                                         --batch_size 8 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.1-8B-Instruct \
+#                                         --task csqa-oai \
+#                                         --n 160 \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.1-8B-Instruct \
+#                                         --task piqa-oai \
+#                                         --n 160 \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.1-8B-Instruct \
+#                                         --task gsm8k-oai \
+#                                         --n 160 \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+
+# ------------------------------------------------------------------------------------------------------------- Phi
+
+# srun python eval_activation_steering.py --model microsoft/Phi-4-mini-instruct \
+#                                         --task arc-oai \
+#                                         --n 160 \
+#                                         --batch_size 4 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+# srun python eval_activation_steering.py --model microsoft/Phi-4-mini-instruct \
+#                                         --task csqa-oai \
+#                                         --n 160 \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+# srun python eval_activation_steering.py --model microsoft/Phi-4-mini-instruct \
+#                                         --task piqa-oai \
+#                                         --n 160 \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+# srun python eval_activation_steering.py --model microsoft/Phi-4-mini-instruct \
+#                                         --task gsm8k-oai \
+#                                         --n 160 \
+#                                         --batch_size 4 \
+#                                         --output_dir "activation_steering_results/search" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512
+
+
+# ------------------------------------------------------------------------------------------------------------------------------
+
+# ------------------------------------------------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------------------------------------------------ EVALS
+# ------------------------------------------------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------------------------------------------------------
+
+# ------------------------------------------------------------------------------------------------------------- SMOL
+
+# srun python eval_activation_steering.py --model HuggingFaceTB/SmolLM2-360M-Instruct \
+#                                         --task arc-oai \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512 \
+#                                         --multipliers 3 \
+#                                         --layers 14 \
+#                                         --skip_existing
+
+# srun python eval_activation_steering.py --model HuggingFaceTB/SmolLM2-360M-Instruct \
+#                                         --task csqa-oai \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512 \
+#                                         --multipliers 3 \
+#                                         --layers 15 \
+#                                         --skip_existing
+
+
+# srun python eval_activation_steering.py --model HuggingFaceTB/SmolLM2-360M-Instruct \
+#                                         --task piqa-oai \
+#                                         --batch_size 4 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512 \
+#                                         --multipliers 3 \
+#                                         --layers 17 \
+#                                         --skip_existing
+
+
+# srun python eval_activation_steering.py --model HuggingFaceTB/SmolLM2-360M-Instruct \
+#                                         --task gsm8k \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512 \
+#                                         --multipliers 3 \
+#                                         --layers 16 \
+#                                         --skip_existing
+
+# ------------------------------------------------------------------------------------------------------------- LLAMA 1B
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.2-1B-Instruct \
+#                                         --task gsm8k \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512 \
+#                                         --multipliers 1 \
+#                                         --layers 7 \
+#                                         --skip_existing
+
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.2-1B-Instruct \
+#                                         --task arc-oai \
+#                                         --batch_size 8 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512 \
+#                                         --multipliers 1 \
+#                                         --layers 7 \
+#                                         --skip_existing
+
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.2-1B-Instruct \
+#                                         --task csqa-oai \
+#                                         --batch_size 1 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512 \
+#                                         --multipliers 1 \
+#                                         --layers 6 \
+#                                         --skip_existing
+
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.2-1B-Instruct \
+#                                         --task piqa-oai \
+#                                         --batch_size 4 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512 \
+#                                         --multipliers 1 \
+#                                         --layers 7 \
+#                                         --skip_existing
+
+
+# ------------------------------------------------------------------------------------------------------------- LLAMA 3B
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.2-3B-Instruct \
+#                                         --task arc-oai \
+#                                         --batch_size 4 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 460 \
+#                                         --multipliers 1 \
+#                                         --layers 13 \
+#                                         --skip_existing
+
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.2-3B-Instruct \
+#                                         --task gsm8k \
+#                                         --batch_size 4 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512 \
+#                                         --multipliers 0.5 \
+#                                         --layers 14 \
+#                                         --skip_existing
+
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.2-3B-Instruct \
+#                                         --task csqa-oai \
+#                                         --batch_size 4 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 460 \
+#                                         --multipliers 1 \
+#                                         --layers 13 \
+#                                         --skip_existing
+
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.2-3B-Instruct \
+#                                         --task piqa-oai \
+#                                         --batch_size 2 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 400 \
+#                                         --multipliers 0.5 \
+#                                         --layers 15 \
+#                                         --skip_existing
+
+
+
+
+# ------------------------------------------------------------------------------------------------------------- LLAMA 8B
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.1-8B-Instruct \
+#                                         --task arc-oai \
+#                                         --batch_size 4 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 460 \
+#                                         --multipliers 1 \
+#                                         --layers 17 \
+#                                         --skip_existing
+
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.1-8B-Instruct \
+#                                         --task gsm8k \
+#                                         --batch_size 4 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512 \
+#                                         --multipliers 0.5 \
+#                                         --layers 16 \
+#                                         --skip_existing
+
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.1-8B-Instruct \
+#                                         --task csqa-oai \
+#                                         --batch_size 4 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 460 \
+#                                         --multipliers 1 \
+#                                         --layers 17 \
+#                                         --skip_existing
+
+
+# srun python eval_activation_steering.py --model meta-llama/Llama-3.1-8B-Instruct \
+#                                         --task piqa-oai \
+#                                         --batch_size 4 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 400 \
+#                                         --multipliers 0.5 \
+#                                         --layers 16 \
+#                                         --skip_existing
+
+
+# ------------------------------------------------------------------------------------------------------------- QWEN 0.5B
+
+# srun python eval_activation_steering.py --model Qwen/Qwen2-0.5B-Instruct \
+#                                         --task arc-oai \
+#                                         --batch_size 4 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 460 \
+#                                         --multipliers 0.5 \
+#                                         --layers 13 \
+#                                         --skip_existing
+
+
+# srun python eval_activation_steering.py --model Qwen/Qwen2-0.5B-Instruct \
+#                                         --task gsm8k \
+#                                         --batch_size 4 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512 \
+#                                         --multipliers 0.5 \
+#                                         --layers 12 \
+#                                         --skip_existing
+
+
+# srun python eval_activation_steering.py --model Qwen/Qwen2-0.5B-Instruct \
+#                                         --task csqa-oai \
+#                                         --batch_size 4 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 460 \
+#                                         --multipliers 0.5 \
+#                                         --layers 13 \
+#                                         --skip_existing
+
+
+# srun python eval_activation_steering.py --model Qwen/Qwen2-0.5B-Instruct \
+#                                         --task piqa-oai \
+#                                         --batch_size 2 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 400 \
+#                                         --multipliers 0.5 \
+#                                         --layers 13 \
+#                                         --skip_existing
+
+
+# ------------------------------------------------------------------------------------------------------------- PHI
+
+# srun python eval_activation_steering.py --model microsoft/Phi-4-mini-instruct \
+#                                         --task arc-oai \
+#                                         --batch_size 4 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 460 \
+#                                         --multipliers 1 \
+#                                         --layers 17 \
+#                                         --skip_existing
+
+
+# srun python eval_activation_steering.py --model microsoft/Phi-4-mini-instruct \
+#                                         --task gsm8k \
+#                                         --batch_size 4 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 512 \
+#                                         --multipliers 0.5 \
+#                                         --layers 15 \
+#                                         --skip_existing
+
+
+# srun python eval_activation_steering.py --model microsoft/Phi-4-mini-instruct \
+#                                         --task csqa-oai \
+#                                         --batch_size 4 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 460 \
+#                                         --multipliers 0.5 \
+#                                         --layers 15 \
+#                                         --skip_existing
+
+
+# srun python eval_activation_steering.py --model microsoft/Phi-4-mini-instruct \
+#                                         --task piqa-oai \
+#                                         --batch_size 4 \
+#                                         --output_dir "activation_steering_results" \
+#                                         --add_question \
+#                                         --num_fewshot_examples 5 \
+#                                         --n_contrastive_samples 200 \
+#                                         --encoding_method instruct \
+#                                         --add_generation_prompt \
+#                                         --sample_selection_method distance \
+#                                         --max_new_tokens 400 \
+#                                         --multipliers 1 \
+#                                         --layers 17 \
+#                                         --skip_existing

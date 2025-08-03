@@ -1,0 +1,21 @@
+{
+  "query": "Alex is on a cross-country bike trip. After starting this morning, he manages an average speed over flat ground of about 20 miles per hour. Four and a half hours later, the road started to incline upwards enough that he could only manage 12 miles per hour. Two and a half hours later, though, the road declined downhill and was able to mostly coast at 24 miles per hour. Unfortunately, he only got to enjoy this for one and a half hours before he punctured a tire. He had forgotten to pack a repair kit, so he had to walk his bike the rest of the way to the next town. If the next town was 164 miles from where he started this morning, how far did Alex have to walk?",
+  "steps": [
+    "First, I need to calculate the distance Alex traveled during each phase of his trip.",
+    "He traveled at 20 miles per hour for 4.5 hours.",
+    "To calculate this distance, I multiply 20 miles per hour by 4.5 hours.",
+    "20 miles/hour * 4.5 hours = 90 miles.",
+    "Next, Alex traveled at 12 miles per hour for 2.5 hours.",
+    "To calculate this distance, I multiply 12 miles per hour by 2.5 hours.",
+    "12 miles/hour * 2.5 hours = 30 miles.",
+    "Then, Alex traveled at 24 miles per hour for 1.5 hours.",
+    "To calculate this distance, I multiply 24 miles per hour by 1.5 hours.",
+    "24 miles/hour * 1.5 hours = 36 miles.",
+    "Now, I add up all the distances traveled by bike.",
+    "90 miles + 30 miles + 36 miles = 156 miles.",
+    "The total distance to the next town is 164 miles, and Alex has traveled 156 miles by bike.",
+    "To find out how far Alex had to walk, I subtract the distance traveled by bike from the total distance.",
+    "164 miles - 156 miles = 8 miles."
+  ],
+  "solution": "8"
+}

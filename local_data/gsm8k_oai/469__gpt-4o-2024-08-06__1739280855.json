@@ -1,0 +1,17 @@
+{
+  "query": "Jackson wants to impress his girlfriend by filling her hot tub with champagne. The hot tub holds 40 gallons of liquid. Each bottle of champagne holds 1 quart. (There are 4 quarts per gallon). If each bottle of champagne costs $50, but Jackson gets a 20% volume discount, how much does he spend on champagne?",
+  "steps": [
+    "First, I need to figure out how many quarts are needed to fill the hot tub.",
+    "The hot tub holds 40 gallons of liquid.",
+    "There are 4 quarts in a gallon.",
+    "I multiply 40 gallons by 4 quarts per gallon to find the total number of quarts needed: 40 * 4 = 160 quarts.",
+    "Each bottle of champagne holds 1 quart.",
+    "Therefore, Jackson needs 160 bottles of champagne to fill the hot tub.",
+    "Each bottle costs $50 before any discounts.",
+    "I multiply the number of bottles by the cost per bottle to find the total cost without the discount: 160 * $50 = $8000.",
+    "Jackson gets a 20% volume discount.",
+    "To find a 20% discount, I calculate 20% of $8000: 0.20 * $8000 = $1600.",
+    "I subtract the discount from the total cost to find the final amount Jackson spends: $8000 - $1600 = $6400."
+  ],
+  "solution": "6400"
+}

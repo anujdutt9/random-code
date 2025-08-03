@@ -1,0 +1,21 @@
+{
+  "query": "Monica is a teacher. She has 6 classes per day. The first class has 20 students. The second and third classes have 25 students. Her fourth class has half as many as her first class. Her fifth and sixth classes have 28 students. How many students does Monica see each day?",
+  "steps": [
+    "Monica has 6 classes per day.",
+    "First class has 20 students.",
+    "Second class has 25 students.",
+    "Third class also has 25 students.",
+    "Fourth class has half as many students as her first class.",
+    "First class has 20 students, so the fourth class has 20 / 2 students.",
+    "20 / 2 = 10, so the fourth class has 10 students.",
+    "Fifth class has 28 students.",
+    "Sixth class also has 28 students.",
+    "Now, add up the number of students in all classes: 20 + 25 + 25 + 10 + 28 + 28.",
+    "Calculate: 20 + 25 = 45.",
+    "Calculate: 45 + 25 = 70.",
+    "Calculate: 70 + 10 = 80.",
+    "Calculate: 80 + 28 = 108.",
+    "Calculate: 108 + 28 = 136."
+  ],
+  "solution": "136"
+}

@@ -1,0 +1,22 @@
+{
+  "query": "A competition has racers competing on bicycles and tricycles to win a grand prize of $4000. If there are 40 people in the race, and 3/5 of them are riding on bicycles, how many wheels do the bicycles and tricycles in the race have combined?",
+  "steps": [
+    "First, I need to determine how many racers are riding bicycles.",
+    "There are 40 people in the race, and 3/5 of them are on bicycles.",
+    "Calculate the number of bicycle riders: (3/5) * 40.",
+    "(3/5) * 40 = 24. So, 24 racers are on bicycles.",
+    "Next, I need to determine how many racers are riding tricycles.",
+    "Since there are 40 racers in total and 24 are on bicycles, the remaining racers must be on tricycles.",
+    "Subtract the number of bicycle riders from the total: 40 - 24 = 16.",
+    "So, there are 16 racers on tricycles.",
+    "Now, calculate the total number of wheels from bicycles.",
+    "Each bicycle has 2 wheels.",
+    "Multiply the number of bicycle riders by the number of wheels per bicycle: 24 * 2 = 48.",
+    "Now calculate the total number of wheels from tricycles.",
+    "Each tricycle has 3 wheels.",
+    "Multiply the number of tricycle riders by the number of wheels per tricycle: 16 * 3 = 48.",
+    "Finally, combine the wheels from bicycles and tricycles to find the total.",
+    "Add the wheels from bicycles and tricycles: 48 + 48 = 96."
+  ],
+  "solution": "96"
+}

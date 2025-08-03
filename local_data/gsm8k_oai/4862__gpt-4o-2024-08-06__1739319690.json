@@ -1,0 +1,19 @@
+{
+  "query": "In a 60-item exam, Liza got 90% of the items correctly. Her best friend, Rose, got 2 more correct answers than her. How many incorrect answers did Rose have?",
+  "steps": [
+    "First, I need to calculate how many items Liza got correct.",
+    "Liza got 90% of 60 items correct.",
+    "90% of 60 can be calculated as 0.9 * 60.",
+    "0.9 * 60 equals 54.",
+    "So, Liza got 54 items correct.",
+    "Rose got 2 more correct answers than Liza.",
+    "That means Rose got 54 + 2 correct answers.",
+    "54 + 2 equals 56.",
+    "Rose got 56 items correct.",
+    "To find out how many Rose got incorrect, I subtract the number of correct answers from the total items.",
+    "There are 60 items total.",
+    "60 - 56 equals 4.",
+    "So, Rose got 4 items incorrect."
+  ],
+  "solution": "4"
+}

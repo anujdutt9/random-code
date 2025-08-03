@@ -1,0 +1,21 @@
+{
+  "query": "A small poultry farm has 300 chickens, 200 turkeys and 80 guinea fowls. A strange, incurable disease hit the farm and every day the farmer lost 20 chickens, 8 turkeys and 5 guinea fowls. After a week, how many birds will be left in the poultry?",
+  "steps": [
+    "The total number of chickens on the farm initially is 300.",
+    "The total number of turkeys on the farm initially is 200.",
+    "The total number of guinea fowls on the farm initially is 80.",
+    "The disease causes the farm to lose 20 chickens every day.",
+    "In one week, which is 7 days, the farm will lose 20 chickens per day * 7 days = 140 chickens.",
+    "After a week, the number of chickens left is 300 - 140 = 160 chickens.",
+    "The disease causes the farm to lose 8 turkeys every day.",
+    "In one week, the farm will lose 8 turkeys per day * 7 days = 56 turkeys.",
+    "After a week, the number of turkeys left is 200 - 56 = 144 turkeys.",
+    "The disease causes the farm to lose 5 guinea fowls every day.",
+    "In one week, the farm will lose 5 guinea fowls per day * 7 days = 35 guinea fowls.",
+    "After a week, the number of guinea fowls left is 80 - 35 = 45 guinea fowls.",
+    "Now, I need to sum up the remaining chickens, turkeys, and guinea fowls.",
+    "The remaining number of birds is 160 chickens + 144 turkeys + 45 guinea fowls.",
+    "Performing the calculation: 160 + 144 + 45 = 349."
+  ],
+  "solution": "349"
+}

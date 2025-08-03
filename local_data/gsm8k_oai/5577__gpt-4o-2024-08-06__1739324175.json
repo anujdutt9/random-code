@@ -1,0 +1,20 @@
+{
+  "query": "How many cheese balls are in a 35oz barrel if the 24oz barrel has 60 servings and each serving has 12 cheese balls?",
+  "steps": [
+    "I need to find out how many cheese balls are in a 35oz barrel.",
+    "First, I'll find out how many cheese balls are in a 24oz barrel.",
+    "In the 24oz barrel, there are 60 servings.",
+    "Each serving has 12 cheese balls.",
+    "I need to multiply the number of servings by the number of cheese balls per serving to get the total number of cheese balls in the 24oz barrel.",
+    "60 servings * 12 cheese balls per serving = 720 cheese balls in a 24oz barrel.",
+    "Now, I will use this information to figure out how many cheese balls are in a 35oz barrel.",
+    "I will assume the number of cheese balls scales proportionally with the barrel size.",
+    "First, I calculate the ratio of the sizes of the barrels.",
+    "35oz / 24oz = 1.4583 (rounded to four decimal places).",
+    "Now, I multiply the total number of cheese balls in the 24oz barrel by this ratio to get the number of cheese balls in the 35oz barrel.",
+    "720 cheese balls * 1.4583 = 1049.976 cheese balls.",
+    "Since I cannot have a fraction of a cheese ball, I round 1049.976 to the nearest whole number.",
+    "1050 cheese balls."
+  ],
+  "solution": "1050"
+}

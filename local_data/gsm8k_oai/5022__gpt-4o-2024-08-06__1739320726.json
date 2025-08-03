@@ -1,0 +1,16 @@
+{
+  "query": "Georgie is a varsity player on a football team. He can run 40 yards within 5 seconds. If he can improve his speed by forty percent, how many yards will he be able to run within 10 seconds?",
+  "steps": [
+    "Georgie can currently run 40 yards in 5 seconds.",
+    "To find his current speed, I need to calculate the yards he can run per second.",
+    "Current speed = 40 yards / 5 seconds = 8 yards per second.",
+    "He can improve his speed by forty percent.",
+    "To calculate the improved speed, I will increase his current speed by 40%.",
+    "Improvement = 40% of 8 yards per second = 0.4 * 8 = 3.2 yards per second.",
+    "Improved speed = Current speed + Improvement = 8 + 3.2 = 11.2 yards per second.",
+    "I need to calculate how many yards he can run within 10 seconds at this improved speed.",
+    "Distance (in yards) = Improved speed (in yards per second) * Time (in seconds).",
+    "Distance = 11.2 yards/second * 10 seconds = 112 yards."
+  ],
+  "solution": "112"
+}

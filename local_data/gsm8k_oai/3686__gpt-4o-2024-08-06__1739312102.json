@@ -1,0 +1,14 @@
+{
+  "query": "Blake gave some of his money to his friend, Connie.  Connie used all the money she had been given to buy some land.  In one year, the land tripled in value.  So, she sold the land and gave half of all the money she got from the sale of the land to Blake.  If Connie gave Blake $30,000, how much money, in dollars, did Blake initially give to Connie?",
+  "steps": [
+    "Connie gave Blake $30,000 after selling the land.",
+    "This $30,000 is half of the total money Connie got from selling the land.",
+    "Since $30,000 is half, the total amount of money from the land sale must be $30,000 * 2.",
+    "Calculating: $30,000 * 2 = $60,000.",
+    "This $60,000 is the tripled value of the money Connie initially used to buy the land.",
+    "To find the original amount of money used to buy the land, divide the total amount by 3 (since the land tripled in value).",
+    "Calculating: $60,000 / 3 = $20,000.",
+    "Therefore, Blake originally gave Connie $20,000."
+  ],
+  "solution": "20,000"
+}

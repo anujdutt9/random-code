@@ -1,0 +1,14 @@
+{
+  "query": "A leaf is being blown down a sidewalk by swirling gusts of wind. For every five feet that a gust blows it forward, the wind swirls and blows it back two feet. How many feet has it traveled down the sidewalk after 11 gusts of wind?",
+  "steps": [
+    "First, identify how much net distance the leaf travels with each gust of wind.",
+    "Each gust blows the leaf forward 5 feet.",
+    "After being blown forward, the wind swirls and blows it back 2 feet.",
+    "The net distance traveled with each gust is 5 feet forward minus 2 feet backward.",
+    "Calculate the net distance for one gust: 5 - 2 = 3 feet.",
+    "Now determine how much net distance is traveled after 11 gusts.",
+    "Multiply the net distance per gust by the total number of gusts: 3 feet * 11 gusts.",
+    "Calculate the product: 3 * 11 = 33 feet."
+  ],
+  "solution": "33"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Kim orders a $10 meal and a drink for 2.5.  She gives a 20% tip.  She pays with a $20 bill.  How much does she get in change?",
+  "steps": [
+    "First, I need to calculate the total cost of the meal and drink.",
+    "The cost of the meal is $10 and the drink costs $2.5.",
+    "I add the cost of the meal and the drink: $10 + $2.5 = $12.5.",
+    "Now, I need to calculate the 20% tip on the total cost.",
+    "To find 20% of $12.5, I calculate $12.5 * 0.20.",
+    "$12.5 * 0.20 equals $2.5.",
+    "I add the tip to the total cost: $12.5 + $2.5 = $15.",
+    "Kim pays with a $20 bill.",
+    "I subtract the total bill from the amount she paid: $20 - $15.",
+    "$20 - $15 equals $5."
+  ],
+  "solution": "5"
+}

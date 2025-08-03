@@ -1,0 +1,17 @@
+{
+  "query": "It takes Matt 2 minutes per problem to do his math homework with a calculator and 5 minutes per problem without a calculator. If Matt's assignment has 20 problems, how much time will using a calculator save?",
+  "steps": [
+    "First, determine the total time it takes Matt to complete his homework using a calculator.",
+    "Matt spends 2 minutes per problem with a calculator.",
+    "Multiply the number of problems, which is 20, by the time per problem with a calculator: \\( 20 \\times 2 = 40 \\).",
+    "So, it takes Matt 40 minutes to complete the assignment with a calculator.",
+    "Next, determine the total time it takes Matt to complete his homework without a calculator.",
+    "Matt spends 5 minutes per problem without a calculator.",
+    "Multiply the number of problems, which is 20, by the time per problem without a calculator: \\( 20 \\times 5 = 100 \\).",
+    "So, it takes Matt 100 minutes to complete the assignment without a calculator.",
+    "Now, calculate the time saved by using the calculator.",
+    "Subtract the time taken with a calculator from the time taken without a calculator: \\( 100 - 40 = 60 \\).",
+    "Therefore, using a calculator saves Matt 60 minutes."
+  ],
+  "solution": "60"
+}

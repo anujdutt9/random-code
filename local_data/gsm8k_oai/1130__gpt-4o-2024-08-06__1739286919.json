@@ -1,0 +1,16 @@
+{
+  "query": "Max works for a delivery company as a courier. During one working day, he can deliver a maximum of 35 packages. One week, Max delivered the maximum number of packages, only twice. On two other days, Max unloaded a total of 50 packages, and on one day he unloaded only one-seventh of the maximum possible daily performance. On the last two days, the sum of the packages transported was only fourth-fifth of the maximum daily performance. How many more packages could Max deliver during that week, if he would work at maximum performance?",
+  "steps": [
+    "Max can deliver a maximum of 35 packages in one day.",
+    "There are 7 days in a week.",
+    "If Max delivered the maximum possible number of packages on two days, that's 2 * 35 = 70 packages.",
+    "On the two days where Max unloaded a total of 50 packages, this is already specified as a total amount.",
+    "On one day, Max delivered one-seventh of the maximum possible daily performance. The maximum is 35, so one-seventh is 35 / 7 = 5 packages.",
+    "On the last two days, the sum of the packages transported is four-fifths of the maximum daily performance. Four-fifths of 35 packages is (4/5) * 35 = 28 packages.",
+    "The total amount of packages delivered during the week is 70 from the two maximum days + 50 from the two other days + 5 from the one-seventh day + 28 from the last two days.",
+    "Calculating this, 70 + 50 + 5 + 28 = 153 packages delivered in total.",
+    "If Max worked at maximum performance every day, he would deliver 35 * 7 = 245 packages in a week.",
+    "To find out how many more packages Max could deliver, subtract the number of delivered packages from the maximum possible, which is 245 - 153."
+  ],
+  "solution": "92"
+}

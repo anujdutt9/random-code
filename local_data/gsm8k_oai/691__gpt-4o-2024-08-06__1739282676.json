@@ -1,0 +1,14 @@
+{
+  "query": "Chance boarded a plane departing from London to New York at 6:00 a.m. ET on Monday. He arrived in New York 18 hours later. If he took another plane flying to Cape town the day he arrived in New York and arrived in Cape town at 10:00 a.m ET on Tuesday, calculate the number of hours his flight took from New York to cape town.",
+  "steps": [
+    "Chance took a flight from London to New York and departed at 6:00 a.m. ET on Monday.",
+    "The flight duration to New York was 18 hours.",
+    "To calculate the arrival time in New York, I need to add 18 hours to the departure time of 6:00 a.m. ET on Monday.",
+    "6:00 a.m. plus 18 hours is 24 hours, which means Chance arrived in New York at 12:00 a.m. ET on Tuesday.",
+    "Chance then took another flight from New York to Cape Town on the same day he arrived in New York.",
+    "He arrived in Cape Town at 10:00 a.m. ET on Tuesday.",
+    "The time from Chance's arrival in New York at 12:00 a.m. ET on Tuesday to his arrival in Cape Town at 10:00 a.m. ET on Tuesday is the duration of the flight to Cape Town.",
+    "From 12:00 a.m. to 10:00 a.m. is a duration of 10 hours."
+  ],
+  "solution": "10"
+}

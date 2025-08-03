@@ -1,0 +1,13 @@
+{
+  "query": "Mark has 3 tanks for pregnant fish.  Each tank has 4 pregnant fish and each fish gives birth to 20 young.  How many young fish does he have at the end?",
+  "steps": [
+    "First, I need to determine the total number of pregnant fish Mark has across all tanks.",
+    "Mark has 3 tanks, and each tank has 4 pregnant fish.",
+    "I multiply the number of tanks by the number of pregnant fish per tank: 3 tanks * 4 pregnant fish = 12 pregnant fish total.",
+    "Next, I need to determine how many young fish each pregnant fish gives birth to.",
+    "Each pregnant fish gives birth to 20 young fish.",
+    "Now, I need to calculate the total number of young fish by multiplying the total number of pregnant fish by the number of young per fish.",
+    "12 pregnant fish * 20 young per fish = 240 young fish."
+  ],
+  "solution": "240"
+}

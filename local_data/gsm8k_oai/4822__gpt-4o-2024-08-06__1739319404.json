@@ -1,0 +1,18 @@
+{
+  "query": "James needs to get a new pair of glasses.  His frames cost $200 and the lenses cost $500.  Insurance will cover 80% of the cost of lenses and he has a $50 off coupon for frames.  How much does everything cost?",
+  "steps": [
+    "First, I need to calculate the actual cost of the frames after applying the coupon.",
+    "The original cost of the frames is $200.",
+    "James has a $50 off coupon, so I need to subtract this amount from the original cost.",
+    "$200 (original frame cost) - $50 (coupon) = $150.",
+    "Now, I will calculate the cost of the lenses after insurance coverage.",
+    "The original cost of the lenses is $500.",
+    "Insurance covers 80% of the cost of the lenses.",
+    "80% of $500 is calculated as $500 x 0.80 = $400.",
+    "The cost James needs to pay for the lenses is the original cost minus the insurance coverage.",
+    "$500 (original lens cost) - $400 (insurance coverage) = $100.",
+    "Now, I will add the cost of the frames and the lenses that James needs to pay.",
+    "$150 (frame cost after coupon) + $100 (lens cost after insurance) = $250."
+  ],
+  "solution": "250"
+}

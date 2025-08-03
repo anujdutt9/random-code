@@ -1,0 +1,16 @@
+{
+  "query": "In preparation for the church fundraiser, Julia bakes one less than 5 cakes per day for 6 days.  Unfortunately, every other day, Julia's brother, Clifford, sneaks into Julia's house and eats one of Julia's cakes.  At the end of 6 days, how many cakes does Julia have remaining?",
+  "steps": [
+    "First, I need to calculate how many cakes Julia bakes in one day. It is one less than 5 cakes per day.",
+    "5 cakes - 1 cake = 4 cakes per day.",
+    "Julia bakes cakes for 6 days. So, I need to calculate the total number of cakes Julia bakes in 6 days.",
+    "4 cakes/day * 6 days = 24 cakes total.",
+    "Next, I need to consider how many cakes Clifford eats. He eats one cake every other day.",
+    "There are 6 days in total, so Clifford eats on day 2, day 4, and day 6.",
+    "This means Clifford eats cake on 3 different days.",
+    "Clifford eats 1 cake per each of those 3 days: 1 cake/day * 3 days = 3 cakes eaten.",
+    "Now I need to subtract the number of cakes Clifford eats from the total number of cakes Julia bakes.",
+    "24 cakes - 3 cakes = 21 cakes remaining."
+  ],
+  "solution": "21"
+}

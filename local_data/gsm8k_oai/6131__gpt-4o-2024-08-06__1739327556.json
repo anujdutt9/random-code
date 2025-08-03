@@ -1,0 +1,24 @@
+{
+  "query": "James is sitting outside, counting how many people go past him in vehicles. He has counted 52 vehicles so far today. He saw 12 trucks, a couple of buses, twice as many taxis, some motorbikes, and 30 cars. If the trucks held 2 people each, the buses held 15 people each, the taxis held 2 people each, the motorbikes held 1 person each, and the cars held 3 people each, how many passengers has James seen today?",
+  "steps": [
+    "James counted 52 vehicles in total.",
+    "He saw 12 trucks, which hold 2 people each.",
+    "The number of people in the trucks is 12 trucks * 2 people/truck = 24 people.",
+    "He saw a couple of buses, so there are 2 buses.",
+    "The buses hold 15 people each, so 2 buses * 15 people/bus = 30 people.",
+    "James saw twice as many taxis as buses. Since he saw 2 buses, the number of taxis is 2 * 2 = 4 taxis.",
+    "The taxis hold 2 people each, so 4 taxis * 2 people/taxi = 8 people.",
+    "James saw some motorbikes. I need to determine the number of motorbikes.",
+    "James also saw 30 cars, which hold 3 people each.",
+    "The number of people in the cars is 30 cars * 3 people/car = 90 people.",
+    "Let's find the number of motorbikes. Total vehicles = trucks + buses + taxis + motorcycles + cars.",
+    "We have 12 trucks + 2 buses + 4 taxis + motorcycles + 30 cars = 52 vehicles.",
+    "12 + 2 + 4 + motorcycles + 30 = 52.",
+    "That simplifies to 48 + motorcycles = 52.",
+    "Thus, motorcycles = 52 - 48 = 4.",
+    "Motorbikes hold 1 person each, so 4 motorbikes * 1 person/motorbike = 4 people.",
+    "Now, add the people seen in each vehicle type: \n24 (trucks) + 30 (buses) + 8 (taxis) + 4 (motorbikes) + 90 (cars).",
+    "Total passengers: 24 + 30 + 8 + 4 + 90 = 156."
+  ],
+  "solution": "156"
+}

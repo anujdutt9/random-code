@@ -1,0 +1,15 @@
+{
+  "query": "There are 4 trains waiting at a train station and each train has 4 carriages. Each carriage has 3 rows of wheels and the rows of wheels have 5 wheels each. How many wheels are at the train station?",
+  "steps": [
+    "First, I need to find the number of carriages at the train station.",
+    "Each train has 4 carriages, and there are 4 trains, so I multiply 4 trains by 4 carriages.",
+    "4 trains * 4 carriages per train = 16 carriages.",
+    "Next, I need to find the total number of rows of wheels across all carriages.",
+    "Each carriage has 3 rows of wheels, so I multiply 16 carriages by 3 rows per carriage.",
+    "16 carriages * 3 rows per carriage = 48 rows of wheels.",
+    "Now, I need to calculate the total number of wheels for all the rows.",
+    "Each row has 5 wheels, so I multiply 48 rows by 5 wheels per row.",
+    "48 rows * 5 wheels per row = 240 wheels."
+  ],
+  "solution": "240"
+}

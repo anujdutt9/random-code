@@ -1,0 +1,17 @@
+{
+  "query": "Leonard is 4 years younger than Nina who is half as old as Jerome. If the sum of their ages is 36, what is Leonard's age?",
+  "steps": [
+    "Let Leonard's age be L, Nina's age be N, and Jerome's age be J.",
+    "According to the problem, Leonard is 4 years younger than Nina, so L = N - 4.",
+    "It is also given that Nina is half as old as Jerome, so N = J / 2.",
+    "The sum of their ages is 36, which means L + N + J = 36.",
+    "Substitute N = J / 2 in the equation L = N - 4 to get L = J / 2 - 4.",
+    "Now substitute the values for L and N in terms of J into the sum equation: (J / 2 - 4) + (J / 2) + J = 36.",
+    "Combine like terms: J/2 + J/2 + J = 2J, and -4 remains outside, so the equation becomes: 2J - 4 = 36.",
+    "Add 4 to both sides of the equation to get 2J = 40.",
+    "Divide both sides of the equation by 2 to solve for J: J = 20.",
+    "Substitute J = 20 back into the equation N = J / 2 to find Nina's age: N = 20 / 2 = 10.",
+    "Finally, substitute N = 10 into the equation L = N - 4 to find Leonard's age: L = 10 - 4 = 6."
+  ],
+  "solution": "6"
+}

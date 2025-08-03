@@ -1,0 +1,17 @@
+{
+  "query": "A van is delivering  180 bottles of drinks to a neighborhood, and each bottle contains either cider or beer or a mixture of two. Out of the  180 bottles, 40 contain only cider, 80 contain only beer, and the rest are a mixture of the two drinks. If the delivery man gives half the number of each bottle of drink to the first house, how many bottles does the first house get?",
+  "steps": [
+    "The total number of bottles is given as 180.",
+    "The number of bottles containing only cider is 40.",
+    "The number of bottles containing only beer is 80.",
+    "To find the number of bottles containing a mixture of both drinks, I need to subtract the number of cider-only and beer-only bottles from the total.",
+    "Total cider and beer-only bottles = 40 (cider) + 80 (beer) = 120 bottles.",
+    "The number of mixed bottles = Total bottles - cider-only bottles - beer-only bottles = 180 - 120 = 60.",
+    "Now, I need to determine how many bottles each type the first house will get after the delivery man gives half of them.",
+    "The first house gets half of the cider-only bottles: 40 / 2 = 20 bottles.",
+    "The first house gets half of the beer-only bottles: 80 / 2 = 40 bottles.",
+    "The first house gets half of the mixed bottles: 60 / 2 = 30 bottles.",
+    "Now I will add up the numbers of each type of bottle the first house gets: 20 (cider-only) + 40 (beer-only) + 30 (mixed) = 90 bottles."
+  ],
+  "solution": "90"
+}

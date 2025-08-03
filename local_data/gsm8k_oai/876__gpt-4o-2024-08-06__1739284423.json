@@ -1,0 +1,16 @@
+{
+  "query": "A choir was singing a song that involved 30 singers. In the first verse, only half of them sang. In the second verse, a third of the remaining singers joined in. How many people joined in the final third verse that the whole choir sang together?",
+  "steps": [
+    "The total number of singers in the choir is 30.",
+    "In the first verse, only half of the choir sang. Half of 30 is 30 / 2 = 15.",
+    "This means 15 singers sang in the first verse.",
+    "With 15 singers already singing, the remaining singers who have not sung yet are 30 - 15 = 15 singers.",
+    "In the second verse, a third of the remaining singers joined in. A third of these remaining singers is 15 / 3 = 5.",
+    "Thus, 5 additional singers joined in the second verse.",
+    "After the second verse, there were 15 (from the first verse) + 5 (new singers in the second verse) = 20 singers singing.",
+    "For the final third verse, the entire choir of 30 singers sang together.",
+    "The number of new singers joining in during the final third verse is the total choir number minus those already singing.",
+    "So, the number of new singers joining in the third verse is 30 - 20 = 10."
+  ],
+  "solution": "10"
+}

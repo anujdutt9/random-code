@@ -1,0 +1,17 @@
+{
+  "query": "Carmela has $7 and each of her four cousins has $2. How much will Carmela have to give to each of her cousins so that she and her cousins will have the same amount of money?",
+  "steps": [
+    "First, I need to calculate the total amount of money that Carmela and her four cousins have together.",
+    "Carmela has $7. Each of her four cousins has $2, so collectively they have 4 x $2 = $8.",
+    "Adding Carmela's money to her cousins' total, they have $7 + $8 = $15.",
+    "Now, I need to find out how much each person should have for them to all have the same amount.",
+    "There are 1 (Carmela) + 4 (cousins) = 5 people in total.",
+    "To find the amount each person should have, I divide the total money by the number of people: $15 \u00f7 5 = $3.",
+    "Carmela currently has $7.",
+    "For Carmela to have $3, she needs to give away some of her money to her cousins.",
+    "To find how much she needs to give away in total, I calculate $7 - $3 = $4.",
+    "Carmela needs to distribute these $4 equally among her 4 cousins.",
+    "To distribute $4 equally among 4 cousins, Carmela should give $4 \u00f7 4 = $1 to each cousin."
+  ],
+  "solution": "1"
+}

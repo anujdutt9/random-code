@@ -1,0 +1,20 @@
+{
+  "query": "Reuben opens a sandwich shop selling his namesake sandwich and pastrami sandwiches. Pastrami cost $2 more than the Reuben. He sells 10 Reubens and 5 Pastrami sandwiches and earns $55. How much does a pastrami sandwich cost?",
+  "steps": [
+    "Let's use variables to represent the cost of each sandwich. Let R be the cost of a Reuben sandwich.",
+    "Since a Pastrami sandwich costs $2 more than a Reuben, we can express the cost of a Pastrami sandwich as R + 2.",
+    "Reuben sells 10 Reubens. The total revenue from the Reubens would be calculated as 10 * R.",
+    "He sells 5 Pastrami sandwiches. Using R + 2 as the cost of a Pastrami, the total revenue from the Pastrami sandwiches would be 5 * (R + 2).",
+    "The total revenue from both types of sandwiches is 10R + 5(R + 2).",
+    "This total revenue equals $55, as given in the problem.",
+    "Let's set up the equation: 10R + 5(R + 2) = 55.",
+    "First, expand the equation: 10R + 5R + 10 = 55.",
+    "Combine like terms: 15R + 10 = 55.",
+    "Subtract 10 from both sides of the equation to isolate terms with R: 15R = 45.",
+    "Now, divide both sides by 15 to solve for R: R = 3.",
+    "We have found that a Reuben sandwich costs $3.",
+    "Since the pastrami sandwich costs $2 more than the Reuben, a pastrami sandwich costs 3 + 2.",
+    "Therefore, the cost of a pastrami sandwich is $5."
+  ],
+  "solution": "5"
+}

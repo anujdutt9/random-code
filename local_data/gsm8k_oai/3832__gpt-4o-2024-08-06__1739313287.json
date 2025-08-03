@@ -1,0 +1,18 @@
+{
+  "query": "A florist is making bouquets for the weekend. The florist uses red, yellow, orange, and purple flowers, and each bouquet contains 9 flowers of any color combinations. This week he planted 125 seeds for each color of flower. Unfortunately, a fungus killed 45 red flowers, 61 yellow, 30 orange, and 40 purple flowers. How many bouquets can the florist make this weekend?",
+  "steps": [
+    "First, I need to determine how many flowers survived for each color.",
+    "For the red flowers, 125 seeds planted minus 45 killed by fungus leaves 125 - 45 = 80 red flowers remaining.",
+    "For the yellow flowers, 125 seeds planted minus 61 killed by fungus leaves 125 - 61 = 64 yellow flowers remaining.",
+    "For the orange flowers, 125 seeds planted minus 30 killed by fungus leaves 125 - 30 = 95 orange flowers remaining.",
+    "For the purple flowers, 125 seeds planted minus 40 killed by fungus leaves 125 - 40 = 85 purple flowers remaining.",
+    "Now, I have the total count of surviving flowers: 80 red + 64 yellow + 95 orange + 85 purple.",
+    "80 + 64 equals 144.",
+    "144 + 95 equals 239.",
+    "239 + 85 equals 324.",
+    "To find the number of complete bouquets, I need to divide the total number of surviving flowers by the number of flowers per bouquet.",
+    "There are 324 surviving flowers in total, and since each bouquet requires 9 flowers, the number of bouquets is 324 divided by 9.",
+    "324 divided by 9 equals 36."
+  ],
+  "solution": "36"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "A chef needs to make french fries.  He can get 25 fries out of 1 potato.  He has 15 potatoes and he needs 200 fries.  How many potatoes will he have leftover?",
+  "steps": [
+    "First, I need to figure out how many fries the chef can make with 1 potato.",
+    "1 potato gives 25 fries.",
+    "Now, I need to determine how many potatoes are needed to make 200 fries.",
+    "To find out, I'll divide 200 fries by the number of fries per potato, which is 25.",
+    "200 divided by 25 equals 8. This means the chef needs 8 potatoes to make 200 fries.",
+    "The chef has a total of 15 potatoes.",
+    "I need to calculate how many potatoes will be left after using 8 potatoes.",
+    "15 potatoes minus 8 potatoes used equals 7 potatoes remaining."
+  ],
+  "solution": "7"
+}

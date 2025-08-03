@@ -1,0 +1,19 @@
+{
+  "query": "Dorothy is 15 years old and wants to go to a museum with her family. Her family consists of her, her younger brother, her parents, and her grandfather. The regular ticket cost is $10. People 18 years old or younger have a discount of 30%. How much money will Dorothy have after this trip, when she currently has $70?",
+  "steps": [
+    "First, I need to find out how much each ticket will cost for Dorothy and her brother, who are both 18 years old or younger.",
+    "The regular ticket cost is $10, and there's a 30% discount for those 18 years old or younger.",
+    "A 30% discount on $10 is calculated by multiplying $10 by 0.30, which is $3.",
+    "Subtracting the discount from the regular price gives us $10 - $3 = $7. So, each youth ticket costs $7.",
+    "Dorothy will need to buy a ticket for herself and one for her brother. That's 2 youth tickets.",
+    "2 youth tickets will cost 2 x $7 = $14.",
+    "Next, I calculate the ticket costs for her parents and grandfather, as they don't get the discount.",
+    "Since they are adults, each of them needs a regular ticket, costing $10 each.",
+    "There are 3 adults (2 parents and 1 grandfather), so the total cost for adult tickets is 3 x $10 = $30.",
+    "Now, I calculate the total cost for all members of the family (2 youth tickets + 3 adult tickets).",
+    "The total cost is $14 (youth) + $30 (adult) = $44.",
+    "Dorothy initially has $70.",
+    "I subtract the total cost of the tickets from Dorothy's initial amount: $70 - $44 = $26."
+  ],
+  "solution": "26"
+}

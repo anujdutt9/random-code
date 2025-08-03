@@ -1,0 +1,19 @@
+{
+  "query": "Lily has 5 lottery tickets to sell.  She sells the first ticket for $1.  She then sells each successive ticket for a dollar more than the previous ticket. She plans to keep a $4 profit and give the remaining money as the prize. How much money will the winner of the lottery receive?",
+  "steps": [
+    "Lily sells the first ticket for $1.",
+    "She sells the second ticket for $1 more than the first, so the second ticket is $2.",
+    "The third ticket is $1 more than the second ticket, so it is $3.",
+    "The fourth ticket is $1 more than the third ticket, so it is $4.",
+    "The fifth ticket is $1 more than the fourth ticket, so it is $5.",
+    "Now, I will calculate the total amount of money she makes by adding up all the ticket prices.",
+    "The total money from the tickets is $1 + $2 + $3 + $4 + $5.",
+    "Summing them gives $1 + $2 = $3, $3 + $3 = $6, $6 + $4 = $10, and $10 + $5 = $15.",
+    "So, Lily makes a total of $15 from selling all the tickets.",
+    "Lily plans to keep a $4 profit.",
+    "Therefore, the money given as the prize is the total money minus her profit.",
+    "So, the prize amount is $15 - $4.",
+    "Calculating gives $15 - $4 = $11."
+  ],
+  "solution": "11"
+}

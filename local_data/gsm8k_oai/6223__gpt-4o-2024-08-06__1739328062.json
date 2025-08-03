@@ -1,0 +1,17 @@
+{
+  "query": "Bernie loves eating chocolate. He buys two chocolates every week at the local store. One chocolate costs him $3. In a different store, there is a long-term promotion, during which each chocolate costs only $2. How much would Bernie save in three weeks, if he would buy his chocolates in this store instead of his local one?",
+  "steps": [
+    "First, I need to determine how many chocolates Bernie buys in three weeks.",
+    "Bernie buys 2 chocolates each week.",
+    "Since he buys chocolates every week, in three weeks he buys 2 chocolates/week * 3 weeks = 6 chocolates.",
+    "Now, I will calculate the cost of these chocolates at the local store.",
+    "At the local store, each chocolate costs $3.",
+    "Therefore, 6 chocolates at $3 each would cost 6 * $3 = $18.",
+    "Next, I need to calculate the cost of these chocolates at the store with the promotion.",
+    "At the store with the promotion, each chocolate costs $2.",
+    "Therefore, 6 chocolates at $2 each would cost 6 * $2 = $12.",
+    "To find out how much Bernie would save by buying in the promotional store, I subtract the total cost in the promotional store from the total cost in the local store.",
+    "The savings would be $18 - $12 = $6."
+  ],
+  "solution": "6"
+}

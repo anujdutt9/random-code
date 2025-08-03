@@ -1,0 +1,17 @@
+{
+  "query": "One white rhino weighs 5100 pounds and one black rhino weighs 1 ton. How many pounds would 7 white rhinos and 8 black rhinos weigh in total?",
+  "steps": [
+    "First, I need to convert the weight of one black rhino from tons to pounds.",
+    "Since 1 ton is equal to 2000 pounds, one black rhino weighs 2000 pounds.",
+    "Now, I will calculate the total weight of 7 white rhinos.",
+    "Each white rhino weighs 5100 pounds, so 7 white rhinos weigh 7 * 5100 pounds.",
+    "Calculating 7 * 5100 gives 35700 pounds.",
+    "Next, I calculate the total weight of 8 black rhinos.",
+    "Each black rhino weighs 2000 pounds, so 8 black rhinos weigh 8 * 2000 pounds.",
+    "Calculating 8 * 2000 gives 16000 pounds.",
+    "Now, I add the total weight of the white rhinos to the total weight of the black rhinos to find the overall total weight.",
+    "The total weight is 35700 pounds (white rhinos) + 16000 pounds (black rhinos).",
+    "Adding these together gives 51700 pounds."
+  ],
+  "solution": "51700"
+}

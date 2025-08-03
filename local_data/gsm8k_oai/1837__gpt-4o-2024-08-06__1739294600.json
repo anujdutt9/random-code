@@ -1,0 +1,16 @@
+{
+  "query": "Mr. Langsley commutes to work every day by bus. The bus picks him up at 6:00 a.m. and takes forty minutes to arrive at the first station. If Mr. Langsley arrives at work at 9:00 a.m., what's the total time taken in minutes from the first station to Mr. Langsley's workplace?",
+  "steps": [
+    "First, determine what time Mr. Langsley arrives at the first station.",
+    "The bus picks him up at 6:00 a.m. and takes forty minutes to arrive at the first station.",
+    "40 minutes after 6:00 a.m. is 6:40 a.m., so he arrives at the first station at 6:40 a.m.",
+    "Next, determine how long it takes from the first station to Mr. Langsley's workplace.",
+    "Mr. Langsley arrives at work at 9:00 a.m.",
+    "Calculate the time difference between 6:40 a.m. and 9:00 a.m.",
+    "From 6:40 a.m. to 7:40 a.m. is 1 hour, which is 60 minutes.",
+    "From 7:40 a.m. to 8:40 a.m. is another hour, which is another 60 minutes.",
+    "From 8:40 a.m. to 9:00 a.m. is 20 minutes.",
+    "Adding these together, 60 minutes + 60 minutes + 20 minutes = 140 minutes."
+  ],
+  "solution": "140"
+}

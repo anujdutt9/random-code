@@ -1,0 +1,15 @@
+{
+  "query": "A blind cave scorpion survives by catching millipedes. It needs to eat lots of millipedes to survive: a total of 800 body segments every day. If it's already eaten one millipede with 60 segments and 2 millipedes that are twice as long, how many 50-segment millipedes does it need to eat to reach its daily total?",
+  "steps": [
+    "First, I need to determine the total number of millipede segments the scorpion has already eaten.",
+    "The scorpion has eaten one millipede that has 60 segments. That's 60 segments.",
+    "It has also eaten 2 millipedes that are twice as long as the first. So, each of these millipedes has 60 * 2 = 120 segments.",
+    "The total from these 2 millipedes is 2 * 120 = 240 segments.",
+    "Now, I'll add the segments of the first millipede to the total from the 2 larger millipedes: 60 + 240 = 300 segments.",
+    "The scorpion needs a total of 800 segments to satisfy its daily requirement.",
+    "Currently, it has consumed 300 segments. I need to calculate the remaining number of segments it needs: 800 - 300 = 500 segments.",
+    "I need to determine how many more millipedes with 50 segments each are required to reach the remaining 500 segments.",
+    "If each remaining millipede has 50 segments, then the number of these millipedes needed is 500 \u00f7 50 = 10 millipedes."
+  ],
+  "solution": "10"
+}

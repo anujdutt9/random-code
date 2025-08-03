@@ -1,0 +1,16 @@
+{
+  "query": "CJ, KJ, and AJ collect stamps.  CJ has 5 more than twice the number of stamps that KJ has, and KJ has half as many as AJ.  If the three boys have 930 stamps all together, how many stamps does AJ have?",
+  "steps": [
+    "Let the number of stamps that KJ has be represented by \\( x \\).",
+    "CJ has 5 more than twice the number of stamps that KJ has. So, CJ's stamps can be expressed as \\( 2x + 5 \\).",
+    "KJ has half as many stamps as AJ. Therefore, AJ's stamps can be expressed as \\( 2x \\).",
+    "The total number of stamps by the three boys is the sum of the number of stamps they each have: \\( x + (2x + 5) + 2x \\).",
+    "According to the problem, the total number of stamps is 930. So, we have the equation: \\( x + (2x + 5) + 2x = 930 \\).",
+    "Simplify the equation: \\( x + 2x + 5 + 2x = 930 \\).",
+    "Combine like terms: \\( 5x + 5 = 930 \\).",
+    "Subtract 5 from both sides to simplify the equation: \\( 5x = 925 \\).",
+    "Divide both sides by 5 to solve for \\( x \\): \\( x = 185 \\).",
+    "Now we know KJ has 185 stamps. AJ, who has twice as many stamps as KJ, would have \\( 2 \\times 185 = 370 \\) stamps."
+  ],
+  "solution": "370"
+}

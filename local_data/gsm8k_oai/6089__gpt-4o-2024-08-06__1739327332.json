@@ -1,0 +1,20 @@
+{
+  "query": "Javier is having an eating contest with his brother. It's ravioli night and there is meat ravioli, pumpkin ravioli, and cheese ravioli. The meat ravioli weighs 1.5 ounces each. The pumpkin ravioli is 1.25 ounces each. The cheese ravioli is one ounce. Javier eats 5 meat ravioli, 2 pumpkin ravioli, and 4 cheese ravioli. His brother just ate pumpkin ravioli and had 12 of them. What is the total amount of ounces eaten by the winner?",
+  "steps": [
+    "First, I need to calculate the total weight of the ravioli Javier ate.",
+    "Javier ate 5 meat ravioli and each weighs 1.5 ounces.",
+    "Multiplying 5 by 1.5 gives 7.5 ounces of meat ravioli.",
+    "Next, Javier ate 2 pumpkin ravioli and each weighs 1.25 ounces.",
+    "Multiplying 2 by 1.25 gives 2.5 ounces of pumpkin ravioli.",
+    "Javier also ate 4 cheese ravioli and each weighs 1 ounce.",
+    "Multiplying 4 by 1 gives 4 ounces of cheese ravioli.",
+    "Adding up all the ounces Javier consumed: 7.5 + 2.5 + 4.",
+    "The total weight Javier ate is 14 ounces.",
+    "Now, let\u2019s calculate the total weight of ravioli his brother ate.",
+    "His brother ate 12 pumpkin ravioli, and each weighs 1.25 ounces.",
+    "Multiplying 12 by 1.25 gives 15 ounces of pumpkin ravioli.",
+    "Javier ate 14 ounces, and his brother ate 15 ounces.",
+    "Comparing 14 ounces and 15 ounces, his brother ate more."
+  ],
+  "solution": "15"
+}

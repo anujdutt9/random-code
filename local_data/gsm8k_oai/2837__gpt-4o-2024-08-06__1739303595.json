@@ -1,0 +1,21 @@
+{
+  "query": "Ali is a baker. Leila ordered 3 chocolate cakes for $12 each and 6 strawberry cakes for $22 each.  How much should Leila pay Ali?",
+  "steps": [
+    "I need to calculate the total cost of the chocolate cakes first.",
+    "Leila ordered 3 chocolate cakes.",
+    "Each chocolate cake costs $12.",
+    "To find the total cost for chocolate cakes, I multiply the number of chocolate cakes by the cost of each chocolate cake: 3 * $12.",
+    "3 * $12 equals $36.",
+    "Now, I need to calculate the total cost of the strawberry cakes.",
+    "Leila ordered 6 strawberry cakes.",
+    "Each strawberry cake costs $22.",
+    "To find the total cost for strawberry cakes, I multiply the number of strawberry cakes by the cost of each strawberry cake: 6 * $22.",
+    "6 * $22 equals $132.",
+    "Now, I need to find the total amount Leila should pay Ali by adding the total cost of chocolate cakes and the total cost of strawberry cakes together.",
+    "The total cost of chocolate cakes is $36.",
+    "The total cost of strawberry cakes is $132.",
+    "I add the two totals: $36 + $132.",
+    "$36 + $132 equals $168."
+  ],
+  "solution": "168"
+}

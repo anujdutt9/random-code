@@ -1,0 +1,19 @@
+{
+  "query": "John buys 30 ducks for $10 each.  They weigh 4 pounds and he sells them for $5 per pound.  How much profit did he make?",
+  "steps": [
+    "John buys 30 ducks.",
+    "The cost of each duck is $10.",
+    "I need to calculate the total cost for 30 ducks.",
+    "The total cost is 30 ducks * $10 each = $300.",
+    "Each duck weighs 4 pounds.",
+    "Every pound is sold for $5.",
+    "I need to calculate how much John earns per duck.",
+    "Since each duck weighs 4 pounds and sells for $5 per pound, John earns 4 pounds * $5 per pound = $20 per duck.",
+    "I need to calculate the total revenue from selling all the ducks.",
+    "Total revenue is 30 ducks * $20 per duck = $600.",
+    "John\u2019s profit is the total revenue minus the total cost.",
+    "John\u2019s profit = $600 (revenue) - $300 (cost).",
+    "Profit = $300."
+  ],
+  "solution": "300"
+}

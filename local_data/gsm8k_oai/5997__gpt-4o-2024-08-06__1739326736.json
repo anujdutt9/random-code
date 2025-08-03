@@ -1,0 +1,17 @@
+{
+  "query": "Mason is a caterer packing up silverware and plates for a big corporate event. Each piece of silverware weighs 4 ounces, and there are three pieces of silverware per setting. Each plate weighs 12 ounces, and there are two plates per setting. If Mason needs enough settings for 15 tables with 8 settings each, plus 20 backup settings in case of breakage, how many ounces will all the settings weigh?",
+  "steps": [
+    "First, I need to determine the number of settings required. Mason needs settings for 15 tables, with 8 settings per table.",
+    "So, there are 15 tables * 8 settings per table = 120 settings.",
+    "Mason also needs 20 backup settings.",
+    "Adding the backup settings, the total number of settings required is 120 + 20 = 140 settings.",
+    "Next, I will calculate the weight of the silverware for one setting. Each setting has 3 pieces of silverware, and each piece weighs 4 ounces.",
+    "Therefore, the silverware for one setting weighs 3 * 4 ounces = 12 ounces.",
+    "Now, I need to calculate the weight of the plates for one setting. Each setting includes 2 plates, and each plate weighs 12 ounces.",
+    "So, the plates for one setting weigh 2 * 12 ounces = 24 ounces.",
+    "The total weight of one setting, which includes both silverware and plates, is 12 ounces (silverware) + 24 ounces (plates) = 36 ounces.",
+    "I need to find the weight of 140 settings by multiplying the weight of one setting by the total number of settings.",
+    "The total weight is 140 settings * 36 ounces per setting = 5040 ounces."
+  ],
+  "solution": "5040"
+}

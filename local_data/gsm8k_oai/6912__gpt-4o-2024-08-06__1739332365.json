@@ -1,0 +1,14 @@
+{
+  "query": "Sam is stocking up on canned tuna. He got 9 cans at the supermarket, and had 5 coupons for 25 cents off a single can per coupon. He paid $20 and got $5.50 in change. How many cents does a can of tuna cost?",
+  "steps": [
+    "Sam paid $20 and received $5.50 in change, so I need to calculate how much he spent in total.",
+    "His total spending is $20 - $5.50, which equals $14.50.",
+    "He bought 9 cans of tuna total.",
+    "Sam used 5 coupons, each giving him 25 cents off, so he saved a total of 5 * 25 cents = 125 cents, or $1.25.",
+    "Without the coupons, the total cost would have been $14.50 + $1.25 = $15.75.",
+    "To find the cost per can without the coupon savings, I divide the total cost without coupons ($15.75) by the number of cans (9).",
+    "$15.75 divided by 9 equals $1.75 per can.",
+    "Since the question asks for the cost in cents, $1.75 is equivalent to 175 cents."
+  ],
+  "solution": "175"
+}

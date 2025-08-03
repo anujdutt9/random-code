@@ -1,0 +1,20 @@
+{
+  "query": "It takes a dog groomer 10 minutes to dry a short-haired dog like a beagle.  It takes him twice as long to dry a full-haired, fluffy dog like a german shepherd.  One morning, he has 6 short-haired dogs to dry and 9 full-haired dogs to dry.  How many hours does it take him to dry all of the dogs?",
+  "steps": [
+    "First, I need to determine the time it takes to dry one full-haired dog. It takes twice as long as a short-haired dog.",
+    "Drying one short-haired dog takes 10 minutes.",
+    "Therefore, drying one full-haired dog takes 10 minutes * 2 = 20 minutes.",
+    "Next, I calculate the total time needed to dry all the short-haired dogs.",
+    "There are 6 short-haired dogs, and each takes 10 minutes to dry.",
+    "So, the total time for the short-haired dogs is 6 * 10 = 60 minutes.",
+    "Now, I calculate the total time needed to dry all the full-haired dogs.",
+    "There are 9 full-haired dogs, and each takes 20 minutes to dry.",
+    "So, the total time for the full-haired dogs is 9 * 20 = 180 minutes.",
+    "I need to find the total drying time for both types of dogs.",
+    "The total drying time is 60 minutes + 180 minutes = 240 minutes.",
+    "I need to convert the total time from minutes to hours.",
+    "There are 60 minutes in an hour, so I divide the total minutes by 60.",
+    "240 minutes \u00f7 60 = 4 hours."
+  ],
+  "solution": "4"
+}

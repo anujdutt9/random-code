@@ -1,0 +1,16 @@
+{
+  "query": "The leak in Jerry's roof drips 3 drops a minute into the pot he put under it. Each drop is 20 ml, and the pot holds 3 liters. How long will it take the pot to be full?",
+  "steps": [
+    "I need to determine how many milliliters are needed to fill the pot.",
+    "I know that 1 liter is equal to 1000 milliliters, so 3 liters is 3 * 1000 milliliters.",
+    "3 liters = 3000 milliliters.",
+    "Next, I need to find out how much water is dripping into the pot per minute.",
+    "Each drop is 20 milliliters.",
+    "There are 3 drops per minute.",
+    "This means that 3 drops * 20 ml/drop = 60 milliliters are added to the pot each minute.",
+    "Now, I need to find out how long it will take to fill the pot.",
+    "I need to divide the total volume of the pot by the amount of water added per minute.",
+    "3000 milliliters / 60 milliliters/minute = 50 minutes."
+  ],
+  "solution": "50"
+}

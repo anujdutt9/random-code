@@ -1,0 +1,15 @@
+{
+  "query": "Stephen rides his bicycle to church.  During the first third of his trip, he travels at a speed of 16 miles per hour. During the second third of his trip, riding uphill, he travels a speed of 12 miles per hour.  During the last third of his trip, he rides downhill at a speed of 20 miles per hour.  If each third of his trip takes 15 minutes, what is the distance Stephen rides his bicycle to church, in miles?",
+  "steps": [
+    "First, I need to determine the time it takes for each third of the trip in hours.",
+    "15 minutes is equal to 15/60 hours, which simplifies to 0.25 hours.",
+    "I am given that each third of the trip lasts 0.25 hours.",
+    "I must calculate the distance for each segment of the trip using the formula distance = speed \u00d7 time.",
+    "For the first segment, Stephen travels at 16 miles per hour for 0.25 hours.\nDistance = 16 mph \u00d7 0.25 h = 4 miles.",
+    "For the second segment, Stephen travels at 12 miles per hour for 0.25 hours.\nDistance = 12 mph \u00d7 0.25 h = 3 miles.",
+    "For the third segment, Stephen travels at 20 miles per hour for 0.25 hours.\nDistance = 20 mph \u00d7 0.25 h = 5 miles.",
+    "Now, I need to find the total distance by summing the distances of each segment.",
+    "Total distance = 4 miles + 3 miles + 5 miles = 12 miles."
+  ],
+  "solution": "12"
+}

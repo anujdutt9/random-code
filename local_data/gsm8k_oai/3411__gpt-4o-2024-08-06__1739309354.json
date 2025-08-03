@@ -1,0 +1,20 @@
+{
+  "query": "Lara is a contestant on a fun game show where she needs to navigate an inflated bouncy house obstacle course. First she needs to carry a backpack full of treasure through the obstacle course and set it down on the other side, which she does in 7 minutes and 23 seconds. Second, she needs to crank open the door to the obstacle course so she can go back through, which takes her 73 seconds. After she gets through the door she traverses the obstacle course again and makes it out faster without the backpack, in 5 minutes and 58 seconds. How many seconds total does it take her to complete the obstacle course?",
+  "steps": [
+    "First, convert the time it takes Lara to go through the obstacle course with the backpack from minutes and seconds to just seconds.",
+    "7 minutes and 23 seconds is 7 * 60 + 23 seconds.",
+    "Calculate 7 * 60 = 420 seconds.",
+    "Add 23 seconds to 420 seconds to get 443 seconds.",
+    "Lara takes 443 seconds for the first part of the obstacle course with the backpack.",
+    "Next, add the time it takes her to crank open the door, which is 73 seconds.",
+    "443 seconds + 73 seconds = 516 seconds.",
+    "Convert the time it takes Lara to traverse the obstacle course without the backpack from minutes and seconds to just seconds.",
+    "5 minutes and 58 seconds is 5 * 60 + 58 seconds.",
+    "Calculate 5 * 60 = 300 seconds.",
+    "Add 58 seconds to 300 seconds to get 358 seconds.",
+    "Lara takes 358 seconds for the second part of the obstacle course without the backpack.",
+    "Add the time for all steps together to get the total time.",
+    "516 seconds + 358 seconds = 874 seconds."
+  ],
+  "solution": "874"
+}

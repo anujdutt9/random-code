@@ -1,0 +1,16 @@
+{
+  "query": "Mary has 300 sheep and Bob has double the number of sheep as Mary plus another 35. How many sheep must Mary buy to have 69 fewer sheep than Bob?",
+  "steps": [
+    "First, I need to calculate the number of sheep Bob has.",
+    "Mary has 300 sheep. Bob has double the number of sheep as Mary, plus another 35.",
+    "Double the number of Mary's sheep is 300 * 2 = 600.",
+    "Adding 35 to 600 gives Bob's total: 600 + 35 = 635 sheep.",
+    "Now, I need to find out how many sheep Mary should have to have 69 fewer sheep than Bob.",
+    "Bob has 635 sheep. 69 fewer than Bob's amount is 635 - 69.",
+    "Subtracting 69 from 635 gives: 635 - 69 = 566.",
+    "Mary currently has 300 sheep, and she needs 566 sheep.",
+    "To find out how many sheep Mary must buy, I need to calculate the difference: 566 - 300.",
+    "566 - 300 = 266."
+  ],
+  "solution": "266"
+}

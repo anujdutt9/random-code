@@ -1,0 +1,16 @@
+{
+  "query": "A park has three colors of flowering crepe myrtle trees planted: red, white, and pink. When they bloom, a third of them are pink, but only two are red. Most of them are white. There are 42 crepe myrtle trees in the park. How many have white flowers when they bloom?",
+  "steps": [
+    "The total number of crepe myrtle trees in the park is given as 42.",
+    "Out of these 42 trees, a third of them are pink.",
+    "Calculate the number of pink trees by taking one third of 42.",
+    "42 divided by 3 equals 14.",
+    "Therefore, there are 14 pink trees in the park.",
+    "It is also given that only two of the trees are red.",
+    "To find the number of white trees, I need to subtract the number of pink and red trees from the total number of trees.",
+    "First, add the number of pink and red trees together: 14 (pink) + 2 (red) = 16.",
+    "Subtract the sum from the total number of trees: 42 - 16 = 26.",
+    "So, there are 26 trees with white flowers when they bloom."
+  ],
+  "solution": "26"
+}

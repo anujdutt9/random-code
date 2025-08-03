@@ -1,0 +1,18 @@
+{
+  "query": "Out of 804 senior high school students, 75% passed their exams and so got their degree. The rest failed. How many didn't pass their exams?",
+  "steps": [
+    "There are 804 senior high school students in total.",
+    "75% of these students passed their exams.",
+    "I need to find out how many students did not pass their exams.",
+    "First, I need to calculate how many students passed. To do this, I will find 75% of 804.",
+    "75% in decimal form is 0.75.",
+    "I multiply 804 by 0.75 to get the number of students who passed.",
+    "804 * 0.75 = 603",
+    "603 students passed their exams.",
+    "Now, I need to find out how many students did not pass.",
+    "I subtract the number of students who passed (603) from the total number of students (804).",
+    "804 - 603 = 201",
+    "201 students did not pass their exams."
+  ],
+  "solution": "201"
+}

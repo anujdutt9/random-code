@@ -1,0 +1,18 @@
+{
+  "query": "Bill is laying power cable for a new neighborhood. There are going to be 18 east-west streets that are 2 miles long and 10 north-south streets that are four miles long. It takes 5 miles of cable to electrify 1 mile of street. If cable costs $2000/mile, what is the total cost of cable for the neighborhood?",
+  "steps": [
+    "First, I need to determine how many miles of east-west streets there are in the neighborhood.",
+    "There are 18 east-west streets that are 2 miles long each. So, I calculate the total length of east-west streets: 18 streets * 2 miles/street = 36 miles.",
+    "Next, I need to determine how many miles of north-south streets there are in the neighborhood.",
+    "There are 10 north-south streets that are 4 miles long each. So, I calculate the total length of north-south streets: 10 streets * 4 miles/street = 40 miles.",
+    "Now, I will add the total lengths of both east-west and north-south streets to get the total street length in miles.",
+    "The total street length in the neighborhood = 36 miles (east-west) + 40 miles (north-south) = 76 miles.",
+    "According to the problem, it takes 5 miles of cable to electrify 1 mile of street.",
+    "I will calculate the total length of cable needed by multiplying the total street length by 5.",
+    "Total cable needed = 76 miles of streets * 5 miles of cable/mile = 380 miles of cable.",
+    "The cost of cable is given as $2000 per mile.",
+    "I will calculate the total cost of the cable by multiplying the total length of cable by the cost per mile.",
+    "Total cost = 380 miles of cable * $2000/mile = $760,000."
+  ],
+  "solution": "760000"
+}

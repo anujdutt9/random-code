@@ -1,0 +1,24 @@
+{
+  "query": "A school is adding 5 rows of seats to the auditorium. Each row has 8 seats and each seat costs $30. A parent, being a seat manufacturer, offered a 10% discount on each group of 10 seats purchased. How much will the school pay for the new seats?",
+  "steps": [
+    "First, I need to calculate the total number of seats being added. I know there are 5 rows of seats.",
+    "Each row has 8 seats.",
+    "To find the total number of seats, I multiply 5 rows by 8 seats per row.",
+    "5 rows \u00d7 8 seats/row = 40 seats.",
+    "Next, I calculate the cost of each seat. Each seat costs $30.",
+    "First, I'll calculate the total cost without any discount. I multiply the total number of seats by the cost per seat.",
+    "40 seats \u00d7 $30/seat = $1200.",
+    "Now, I consider the discount offered by the parent. They offer a 10% discount on each group of 10 seats purchased.",
+    "To apply the discount, I first determine how many complete groups of 10 seats there are in 40 seats.",
+    "40 seats \u00f7 10 seats/group = 4 groups.",
+    "For each of these 4 groups, the school receives a 10% discount.",
+    "The cost of each group of 10 seats is 10 seats \u00d7 $30/seat = $300.",
+    "The discount on one group of 10 seats is 10% of $300.",
+    "0.10 \u00d7 $300 = $30 discount per group.",
+    "With 4 groups, the total discount is 4 groups \u00d7 $30 discount/group.",
+    "4 \u00d7 $30 = $120 total discount.",
+    "Subtract the total discount from the initial total cost to find the final amount the school will pay.",
+    "$1200 - $120 = $1080."
+  ],
+  "solution": "1080"
+}

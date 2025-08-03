@@ -1,0 +1,14 @@
+{
+  "query": "Mike bought a DVD of his favorite movie. He paid $5 for it at the store. A friend of Mike's, Steve, saw this and also decided to buy a DVD of the movie, but it was already sold out. He needed to order it online, which cost him twice as much. And in addition, he needed to pay the shipping costs which were 80% of the price of the film he ordered. How much did Steve pay to get the DVD in total?",
+  "steps": [
+    "Mike paid $5 for his DVD at the store.",
+    "Steve's online price for the DVD was twice what Mike paid.",
+    "Twice the amount Mike paid is 2 * $5 = $10.",
+    "The price of the DVD for Steve online is therefore $10.",
+    "Steve needed to pay an additional 80% of the DVD's price for shipping.",
+    "80% of $10 is 0.8 * $10 = $8.",
+    "Steve's total cost is the price of the DVD plus the shipping cost.",
+    "Steve's total cost is $10 + $8 = $18."
+  ],
+  "solution": "18"
+}

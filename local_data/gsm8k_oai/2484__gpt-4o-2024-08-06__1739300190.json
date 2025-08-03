@@ -1,0 +1,13 @@
+{
+  "query": "There are 3 rows of people relaxing at the beach. The first row is made up of 24 people until 3 people get up to wade in the water. 5 people from the second row, which originally held 20 people, go to join them. The third row is made up of 18 people. How many people are left relaxing on the beach?",
+  "steps": [
+    "First, I need to determine how many people are left in the first row after 3 people get up to wade in the water. Originally, there were 24 people in the first row.",
+    "24 people in the first row - 3 people who wade in the water = 21 people remaining in the first row.",
+    "Next, I need to determine how many people are left in the second row after 5 people get up to join those wading in the water. Initially, there were 20 people in the second row.",
+    "20 people in the second row - 5 people who go to join the first row = 15 people remaining in the second row.",
+    "The third row initially has 18 people, and no information is given about any leaving, so all 18 people are still there.",
+    "Now, I will add the total number of people remaining on the beach from all three rows.",
+    "21 people in the first row + 15 people in the second row + 18 people in the third row = 54 people left relaxing on the beach."
+  ],
+  "solution": "54"
+}

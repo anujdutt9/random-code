@@ -1,0 +1,17 @@
+{
+  "query": "John sends his son to prep school.  It cost $20,000 per semester.  There are 2 semesters in the year.  How much does it cost to send the kid to 13 years of school?",
+  "steps": [
+    "The cost of one semester is $20,000.",
+    "There are 2 semesters in one year.",
+    "I need to calculate the total cost for one year.",
+    "So, the cost for one year is $20,000 per semester multiplied by 2 semesters per year.",
+    "$20,000 * 2 = $40,000",
+    "The cost for one year is $40,000.",
+    "The school duration is 13 years.",
+    "Now, I need to calculate the total cost for 13 years.",
+    "Multiply the cost of one year, $40,000, by 13 years.",
+    "$40,000 * 13 = $520,000",
+    "The total cost for 13 years is $520,000."
+  ],
+  "solution": "520,000"
+}

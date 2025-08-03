@@ -1,0 +1,20 @@
+{
+  "query": "Kendra tracks the different species of birds they spot on their birdwatching trip. On Monday they visited 5 sites and saw an average of 7 birds at each site. On Tuesday, Kendra visited 5 sites and saw an average of 5 birds at each site. On Wednesday visited 10 sites and saw an average of 8 birds at each site. On average, how many different birds did Kendra see on each site?",
+  "steps": [
+    "First, I need to determine how many birds Kendra saw on each day.",
+    "On Monday, Kendra visited 5 sites with an average of 7 birds per site.",
+    "The total number of birds seen on Monday is 5 sites * 7 birds per site = 35 birds.",
+    "On Tuesday, Kendra visited 5 sites with an average of 5 birds per site.",
+    "The total number of birds seen on Tuesday is 5 sites * 5 birds per site = 25 birds.",
+    "On Wednesday, Kendra visited 10 sites with an average of 8 birds per site.",
+    "The total number of birds seen on Wednesday is 10 sites * 8 birds per site = 80 birds.",
+    "Now, I need to find the total number of birds Kendra saw during the three days.",
+    "The total number of birds is 35 (Monday) + 25 (Tuesday) + 80 (Wednesday) = 140 birds.",
+    "Next, I find the total number of sites visited over the three days.",
+    "The total number of sites is 5 (Monday) + 5 (Tuesday) + 10 (Wednesday) = 20 sites.",
+    "Finally, I calculate the average number of birds seen per site.",
+    "The average number of birds per site is the total number of birds divided by the total number of sites, which is 140 birds / 20 sites.",
+    "The average number of birds per site is 7."
+  ],
+  "solution": "7"
+}

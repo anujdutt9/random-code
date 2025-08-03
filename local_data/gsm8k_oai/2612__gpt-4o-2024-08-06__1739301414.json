@@ -1,0 +1,16 @@
+{
+  "query": "Janet buys 45-pound containers of cat litter for $21 each.  If her cat litter box holds 15 pounds of cat litter, and she changes out the litter weekly, how much will it cost, in dollars, for her to buy enough litter to last 210 days?",
+  "steps": [
+    "First, I need to determine how many days a 45-pound container of cat litter lasts when Janet changes 15 pounds weekly.",
+    "A week consists of 7 days, and every week, she uses 15 pounds of cat litter.",
+    "A 45-pound container will last for three weeks because 45 divided by 15 equals 3.",
+    "Three weeks is 3 multiplied by 7, which is 21 days.",
+    "Since 45 pounds last for 21 days, I need to determine how many 21-day periods fit into 210 days.",
+    "Dividing 210 days by 21-day periods gives 210 divided by 21, which equals 10.",
+    "This means Janet needs 10 containers of cat litter to last 210 days.",
+    "Now, I calculate the cost of purchasing these containers. Each container costs $21.",
+    "The total cost is 10 containers multiplied by $21 per container.",
+    "That equals $210."
+  ],
+  "solution": "210"
+}

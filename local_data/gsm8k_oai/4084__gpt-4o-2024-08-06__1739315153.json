@@ -1,0 +1,19 @@
+{
+  "query": "Rose bought her mother one dozen flowers. Two of the flowers are daisies. Three-fifths of the remaining flowers are tulips and the rest are sunflowers. How many sunflowers are there?",
+  "steps": [
+    "Rose bought a total of one dozen flowers.",
+    "One dozen is equal to 12 flowers.",
+    "Two of the flowers are daisies.",
+    "First, I'll subtract the 2 daisies from the total of 12 flowers to see how many flowers are left.",
+    "12 - 2 = 10 flowers are left.",
+    "Three-fifths of these remaining flowers are tulips.",
+    "To find how many flowers are tulips, I'll calculate three-fifths of 10.",
+    "Three-fifths of 10 is calculated as (3/5) * 10.",
+    "(3/5) * 10 = 6.",
+    "There are 6 tulips.",
+    "To find the number of sunflowers, I'll subtract the number of tulips from the remaining flowers.",
+    "10 - 6 = 4.",
+    "There are 4 sunflowers."
+  ],
+  "solution": "4"
+}

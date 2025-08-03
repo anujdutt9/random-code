@@ -1,0 +1,13 @@
+{
+  "query": "Mary's sheep can run 12 feet per second, and her sheepdog can run 20 feet per second. A sheep standing 160 feet away from the sheep dog bolts, and the dog runs after it. How many seconds does it take the dog to catch the sheep?",
+  "steps": [
+    "The first step is to determine the difference in speed between the sheepdog and the sheep. The sheepdog runs at 20 feet per second.",
+    "The sheep runs at 12 feet per second.",
+    "The difference in their speeds is 20 feet per second - 12 feet per second = 8 feet per second.",
+    "This means that the sheepdog gains 8 feet on the sheep every second.",
+    "Next, I determine the initial distance between the sheepdog and the sheep, which is given as 160 feet.",
+    "To find out how many seconds it takes for the dog to catch the sheep, I divide the distance by the rate at which the dog gains on the sheep.",
+    "This is calculated as 160 feet / 8 feet per second = 20 seconds."
+  ],
+  "solution": "20"
+}

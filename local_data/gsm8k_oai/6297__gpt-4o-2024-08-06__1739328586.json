@@ -1,0 +1,13 @@
+{
+  "query": "Jordan decides to start an exercise program when he weighs 250 pounds.  For the first 4 weeks, he loses 3 pounds a week.  After that, he loses 2 pounds a week for 8 weeks.  How much does Jordan now weigh?",
+  "steps": [
+    "Jordan starts at a weight of 250 pounds.",
+    "For the first 4 weeks, he loses 3 pounds per week.",
+    "In 4 weeks, he will lose 4 weeks * 3 pounds/week = 12 pounds.",
+    "After losing 12 pounds, Jordan's weight is 250 pounds - 12 pounds = 238 pounds.",
+    "For the next 8 weeks, he loses 2 pounds per week.",
+    "In 8 weeks, he will lose 8 weeks * 2 pounds/week = 16 pounds.",
+    "After losing 16 pounds in the next 8 weeks, his weight is 238 pounds - 16 pounds = 222 pounds."
+  ],
+  "solution": "222"
+}

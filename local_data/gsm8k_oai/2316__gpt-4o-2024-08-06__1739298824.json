@@ -1,0 +1,19 @@
+{
+  "query": "Mary brought 50 stickers to class. She gave 4 stickers to each of her 5 friends. She gave everyone else in class two stickers each. If she has 8 stickers left over, how many students are in the class, including Mary?",
+  "steps": [
+    "Mary brought 50 stickers to class.",
+    "She gave 4 stickers to each of her 5 friends.",
+    "Calculate the total number of stickers Mary gave to her 5 friends: 4 stickers/friend * 5 friends = 20 stickers.",
+    "Subtract the number of stickers given to her friends from the initial amount: 50 stickers - 20 stickers = 30 stickers left.",
+    "She has 8 stickers left over after giving stickers to everyone else.",
+    "Calculate how many stickers she gave to everyone else: 30 stickers - 8 stickers = 22 stickers were given to other students.",
+    "Everyone else, excluding her 5 friends, received 2 stickers each.",
+    "Let x be the number of other students in the class who received 2 stickers each.",
+    "Set up an equation based on the stickers given to other students: 2x = 22.",
+    "Solve for x: x = 22 / 2 = 11.",
+    "So there are 11 other students, excluding her friends.",
+    "The total number of students in the class, excluding Mary, is 5 friends + 11 others = 16 students.",
+    "Including Mary, the total number of students in the class is 16 students + 1 Mary = 17 students."
+  ],
+  "solution": "17"
+}

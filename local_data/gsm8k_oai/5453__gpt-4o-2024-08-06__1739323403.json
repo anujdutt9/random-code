@@ -1,0 +1,16 @@
+{
+  "query": "It takes Bryan 5 minutes to walk from his house to the bus station. Then he rides the bus for 20 minutes. After that, he walks 5 minutes from the bus station to his job. It takes the same amount of time in the morning and the evening. How many hours per year does Bryan spend traveling to and from work, if he works every day?",
+  "steps": [
+    "First, I'll determine the time Bryan spends traveling one way. He walks 5 minutes, rides the bus for 20 minutes, and walks another 5 minutes.",
+    "Adding up these times: 5 minutes + 20 minutes + 5 minutes = 30 minutes per one-way trip.",
+    "Since the travel time is the same in the morning and evening, Bryan spends 30 minutes going to work and 30 minutes coming back home.",
+    "Let's calculate the total minutes Bryan spends traveling per day. In both directions, he spends 30 minutes going and 30 minutes returning.",
+    "The total travel time per day is 30 minutes + 30 minutes = 60 minutes.",
+    "Now, I need to convert these daily travel minutes into hours to find out how many hours per day are spent traveling.",
+    "Since there are 60 minutes in an hour, 60 minutes/day is equivalent to 1 hour/day.",
+    "Next, I'll determine how many hours per year Bryan spends traveling. It's stated that he works every day.",
+    "There are 365 days in a year.",
+    "Bryan spends 1 hour/day traveling. Therefore, he spends 1 hour/day * 365 days/year = 365 hours/year traveling to and from work."
+  ],
+  "solution": "365"
+}

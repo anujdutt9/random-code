@@ -1,0 +1,15 @@
+{
+  "query": "Betsy won 5 games of Monopoly.  Helen won twice as many as Betsy and Susan won three times as many as Betsy.  Between them, how many games have they won?",
+  "steps": [
+    "Betsy won 5 games of Monopoly.",
+    "Helen won twice as many games as Betsy, which means she won 2 times 5 games.",
+    "Calculating Helen's wins: \\(2 \\times 5 = 10\\).",
+    "Susan won three times as many games as Betsy, which means she won 3 times 5 games.",
+    "Calculating Susan's wins: \\(3 \\times 5 = 15\\).",
+    "Now, I need to find the total number of wins by adding each person's wins together.",
+    "Betsy's wins: 5, Helen's wins: 10, Susan's wins: 15.",
+    "Total games won: \\(5 + 10 + 15\\).",
+    "Calculating the total: \\(5 + 10 + 15 = 30\\)."
+  ],
+  "solution": "30"
+}

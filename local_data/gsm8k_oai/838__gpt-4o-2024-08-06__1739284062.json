@@ -1,0 +1,15 @@
+{
+  "query": "A boat carrying 20 sheep, 10 cows and 14 dogs capsized.  3 of the sheep drowned.  Twice as many cows drowned as did sheep.  All of the dogs made it to shore.  How many total animals made it to the shore?",
+  "steps": [
+    "First, I need to determine how many sheep made it to the shore. I start with 20 sheep, and 3 drowned.",
+    "The number of sheep that made it to the shore is 20 - 3 = 17.",
+    "Next, I determine how many cows drowned. Twice as many cows drowned as sheep.",
+    "Since 3 sheep drowned, twice that amount is 3 * 2 = 6 cows drowned.",
+    "Initially, there were 10 cows. Therefore, the number of cows that made it to the shore is 10 - 6 = 4.",
+    "All of the dogs made it to the shore, so all 14 dogs were safe.",
+    "Now, I calculate the total number of animals that made it to the shore by adding the sheep, cows, and dogs.",
+    "The total number of animals that made it to the shore is 17 (sheep) + 4 (cows) + 14 (dogs).",
+    "Adding these numbers gives 17 + 4 + 14 = 35."
+  ],
+  "solution": "35"
+}

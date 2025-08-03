@@ -1,0 +1,19 @@
+{
+  "query": "Tom and Devin have been teaching for a total of 70 years. Devin has been teaching for 5 less than half the number of years that Tom has. How many years has Tom been teaching?",
+  "steps": [
+    "Let the number of years Tom has been teaching be T.",
+    "According to the problem, Devin has been teaching for 5 less than half the number of years that Tom has.",
+    "So we can express Devin's teaching years as \\( \\frac{T}{2} - 5 \\).",
+    "The total teaching years for both is given as 70.",
+    "So, Tom\u2019s teaching years plus Devin\u2019s teaching years is equal to 70, or \\( T + \\left(\\frac{T}{2} - 5\\right) = 70 \\).",
+    "Simplifying the equation: \\( T + \\frac{T}{2} - 5 = 70 \\).",
+    "Combine the terms involving T: \\( T + \\frac{T}{2} = \\frac{2T}{2} + \\frac{T}{2} = \\frac{3T}{2} \\).",
+    "So, the equation becomes \\( \\frac{3T}{2} - 5 = 70 \\).",
+    "To isolate \\( \\frac{3T}{2} \\), add 5 to both sides: \\( \\frac{3T}{2} = 75 \\).",
+    "Multiply both sides by 2 to clear the fraction: \\( 3T = 150 \\).",
+    "Divide both sides by 3 to solve for T: \\( T = 50 \\).",
+    "Check the solution: If Tom has been teaching for 50 years, then Devin has been teaching for \\( \\frac{50}{2} - 5 = 25 - 5 = 20 \\) years.",
+    "Add Tom's and Devin's teaching years: \\( 50 + 20 = 70 \\), which matches the total given in the problem."
+  ],
+  "solution": "50"
+}

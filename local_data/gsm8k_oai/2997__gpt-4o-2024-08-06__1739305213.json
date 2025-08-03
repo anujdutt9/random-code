@@ -1,0 +1,16 @@
+{
+  "query": "A YouTube video is 100 hours long. Lila decides to watch it at two times the average speed. Roger, her friend, also watch the same video at the average speed. If they both watched six of the same videos, what's the total number of hours they watched?",
+  "steps": [
+    "The original length of the YouTube video is 100 hours.",
+    "Lila watches the video at two times the average speed. This means she takes less time to watch the video.",
+    "If the original length of the video is 100 hours, watching it at 2x speed means Lila will take 100 / 2 = 50 hours to watch one video.",
+    "Lila watches six of these videos, and each takes 50 hours for her.",
+    "Therefore, the total time Lila spends watching all six videos is 6 * 50 = 300 hours.",
+    "Roger watches the video at the average speed, so he takes 100 hours to watch one video.",
+    "Roger also watches six of these videos.",
+    "Thus, the total time Roger spends watching all six videos is 6 * 100 = 600 hours.",
+    "Now, we need to find the total number of hours watched by both Lila and Roger combined.",
+    "Total hours watched by Lila and Roger is 300 (Lila) + 600 (Roger) = 900 hours."
+  ],
+  "solution": "900"
+}

@@ -1,0 +1,11 @@
+{
+  "query": "Hayden has a tank with a small hole in the bottom. The tank starts with 40 gallons of water. It loses 2 gallons of water per hour. Hayden does not add any water for the first two hours. He adds 1 gallon of water to the tank in hour three. He adds three gallons of water to the tank in the fourth hour. How much water is left in the tank at the end of the fourth hour?",
+  "steps": [
+    "The tank starts with 40 gallons of water.",
+    "In the first hour, the tank loses 2 gallons, so it has 40 - 2 = 38 gallons.",
+    "In the second hour, the tank loses another 2 gallons, so it has 38 - 2 = 36 gallons.",
+    "In the third hour, the tank loses 2 gallons but gains 1 gallon. Therefore, it has 36 - 2 + 1 = 35 gallons.",
+    "In the fourth hour, the tank loses 2 gallons but gains 3 gallons. Therefore, it has 35 - 2 + 3 = 36 gallons."
+  ],
+  "solution": "36"
+}

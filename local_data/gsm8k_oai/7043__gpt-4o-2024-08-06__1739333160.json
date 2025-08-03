@@ -1,0 +1,16 @@
+{
+  "query": "Stephanie is checking her household budget, and needs to calculate how much she has left to pay for her bills. Her electricity bill costs $60, and this is paid in full. Her gas bill was $40, and she has already paid three-quarters of this. She makes another payment of $5 towards her gas bill while checking her budget. Her water bill is $40, which she has paid half of, and her internet bill is $25, which she has made 4 payments of $5 towards. Overall, how many dollars does Stephanie still need to pay to finish paying her bills?",
+  "steps": [
+    "First, I will confirm what Stephanie has paid so far towards her electricity bill. The electricity bill costs $60, and she paid this in full. So there's nothing left to pay here.",
+    "Next, I will figure out how much of her gas bill she has paid. The gas bill is $40, and she has paid three-quarters of it. Three-quarters of $40 is calculated as \\(40 \\times \\frac{3}{4} = 30\\). So she initially paid $30.",
+    "Stephanie then makes another payment of $5 towards her gas bill. So, the total she has paid for the gas bill is now $30 + $5 = $35.",
+    "To find out how much she still owes, I subtract what she has paid from the total gas bill: $40 - $35 = $5. So she still needs to pay $5 for the gas bill.",
+    "Next, I'll calculate how much she has paid towards her water bill. Her water bill is $40, and she has paid half of this. Half of $40 is \\(40 \\times \\frac{1}{2} = 20\\). So she has paid $20 on the water bill.",
+    "To find out how much is left to pay for the water bill, I subtract the amount she has paid from the total: $40 - $20 = $20. So she still owes $20 on the water bill.",
+    "Now I will consider her internet bill, which is $25. She has made 4 payments of $5 each. This means she has paid \\(4 \\times 5 = 20\\) towards the internet bill.",
+    "To find out how much she still needs to pay for her internet bill, I subtract what she has paid from the total: $25 - $20 = $5. She still owes $5 on the internet bill.",
+    "Now, I will sum up the amounts that Stephanie still needs to pay for each bill. Gas bill: $5, Water bill: $20, Internet bill: $5.",
+    "Adding these amounts: $5 + $20 + $5 = $30."
+  ],
+  "solution": "30"
+}

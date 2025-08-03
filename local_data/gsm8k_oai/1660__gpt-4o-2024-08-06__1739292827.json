@@ -1,0 +1,14 @@
+{
+  "query": "There are 14 green papayas on the papaya tree.  On Friday, two of the fruits turned yellow.  On Sunday, twice as many fruits as on Friday turn yellow.  How many green papayas are left on the tree?",
+  "steps": [
+    "First, I need to understand the problem. Initially, there are 14 green papayas on the tree.",
+    "On Friday, 2 of these papayas turn yellow.",
+    "To find how many are left green after Friday, I subtract the 2 yellow papayas from the initial 14.",
+    "14 - 2 = 12 papayas are still green after Friday.",
+    "On Sunday, twice as many papayas as on Friday turn yellow.",
+    "Twice the number of papayas that turned yellow on Friday is 2 * 2 = 4 papayas.",
+    "I need to subtract these 4 papayas from the 12 green papayas remaining after Friday.",
+    "12 - 4 = 8 green papayas are left after Sunday."
+  ],
+  "solution": "8"
+}

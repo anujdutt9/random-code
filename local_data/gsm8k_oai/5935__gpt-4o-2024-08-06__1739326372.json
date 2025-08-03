@@ -1,0 +1,24 @@
+{
+  "query": "Kim drives 30 miles to her friend's house.  On the way back she has to take a detour that is 20% longer.  She spends 30 minutes at her friend's house.  She drives at a speed of 44 mph.  How long did she spend away from home?",
+  "steps": [
+    "First, I need to determine the distance Kim drove on her way to her friend's house. It was given as 30 miles.",
+    "Next, I need to find out the distance Kim drove on her way back home, which includes a detour that is 20% longer.",
+    "To find the length of the detour, I can calculate 20% of 30 miles.",
+    "20% of 30 miles is 0.2 * 30 = 6 miles.",
+    "The return trip distance, including the detour, is 30 miles + 6 miles = 36 miles.",
+    "Now, I need to calculate the time Kim spent driving to her friend's house using her speed of 44 mph.",
+    "Time taken to drive to her friend's house is distance divided by speed, which is 30 miles / 44 mph.",
+    "30 miles divided by 44 mph is 30/44 hours, simplifying this gives 15/22 hours.",
+    "Next, I need to calculate the time Kim spent driving back home, again using her speed of 44 mph.",
+    "Time taken to drive back is 36 miles divided by 44 mph.",
+    "36 miles divided by 44 mph is 36/44 hours, which simplifies to 9/11 hours.",
+    "I also have the information that Kim spent 30 minutes at her friend's house. I need to convert this to hours to be consistent.",
+    "30 minutes is 0.5 hours.",
+    "Now I will add all these times together to find the total time Kim spent away from home.",
+    "Adding these times: 15/22 hours (going) + 9/11 hours (returning) + 0.5 hours (at friend's house).",
+    "Converting all times to a common denominator, 15/22 is already simplified, 9/11 is equivalent to 18/22 when converted, and 0.5 hours is 11/22 when converted.",
+    "Adding them gives: (15/22) + (18/22) + (11/22) = 44/22.",
+    "44/22 simplifies to 2 hours."
+  ],
+  "solution": "2"
+}

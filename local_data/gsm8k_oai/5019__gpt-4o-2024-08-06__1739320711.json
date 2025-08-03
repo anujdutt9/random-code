@@ -1,0 +1,12 @@
+{
+  "query": "Sienna gave Bailey half of her suckers. Jen ate half and gave the rest to Molly. Molly ate 2 and gave the rest to Harmony. Harmony kept 3 and passed the remainder to Taylor. Taylor ate one and gave the last 5 to Callie. How many suckers did Jen eat?",
+  "steps": [
+    "First, I need to determine the number of suckers Callie received, which was 5.",
+    "Working backwards, since Taylor gave Callie the last 5 suckers after eating 1, Taylor must have had 6 suckers before giving them to Callie.",
+    "Harmony kept 3 suckers and then passed the rest to Taylor. Since Taylor received 6 suckers, Harmony had 6 plus 3, which is 9 suckers before handing over to Taylor.",
+    "Molly had 2 suckers herself before passing the rest to Harmony, who got 9 suckers. Therefore, Molly must have originally had 9 plus 2, which is 11 suckers.",
+    "Jen gave half of the suckers she had after eating to Molly, who ended up with 11 suckers. That means Jen must have given Molly 11 suckers explicitly. To have given 11 (which is half), Jen initially must have had 22 before splitting, where she ate half of them.",
+    "The question asks for how many suckers Jen ate, which is the half she consumed."
+  ],
+  "solution": "11"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "In Fred the Farmer's barn, there were 100 horses, 29 sheep, and 9 chickens. Brian bought half of the animals and sold them at the market. Jeremy then gifted Fred an additional 37 goats. If exactly half of the animals in the barn are male animals, how many male animals are there in the barn?",
+  "steps": [
+    "First, I will calculate the total number of animals in the barn initially.",
+    "Fred had 100 horses, 29 sheep, and 9 chickens.",
+    "I will add these numbers: 100 + 29 + 9 = 138 animals initially.",
+    "Brian bought half of the animals.",
+    "Half of 138 animals is 138 / 2 = 69 animals.",
+    "So, after Brian bought 69 animals, there were 138 - 69 = 69 animals left in the barn.",
+    "Jeremy gifted Fred 37 additional goats.",
+    "Now I need to add these 37 goats to the remaining animals in the barn.",
+    "69 remaining animals + 37 goats = 106 total animals in the barn now.",
+    "Half of the animals are male animals.",
+    "Therefore, half of 106 animals are male.",
+    "I calculate half of 106: 106 / 2 = 53."
+  ],
+  "solution": "53"
+}

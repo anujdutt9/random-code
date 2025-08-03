@@ -1,0 +1,21 @@
+{
+  "query": "Lorie has 2 pieces of $100 bills. He requested to change one piece of the $100 bills into $50 bills. Half of the remaining $100 bill is changed to $10 bills while the rest is changed to $5 bills. How many pieces of bills will she have?",
+  "steps": [
+    "Lorie initially has 2 pieces of $100 bills.",
+    "She decides to change one of the $100 bills into $50 bills.",
+    "A $100 bill is equivalent to two $50 bills.",
+    "After changing one $100 bill, Lorie has 2 pieces of $50 bills.",
+    "Now, Lorie has one $100 bill remaining.",
+    "She changes half of the remaining $100 bill into $10 bills.",
+    "Half of the $100 bill is $50, which can be converted into five $10 bills.",
+    "Lorie now has 5 pieces of $10 bills.",
+    "The remaining half of the $100 bill, which is $50, is changed into $5 bills.",
+    "$50 can be converted into ten $5 bills.",
+    "Lorie now has 10 pieces of $5 bills.",
+    "I need to calculate the total number of pieces of bills Lorie now has.",
+    "Lorie has 2 pieces of $50 bills, 5 pieces of $10 bills, and 10 pieces of $5 bills.",
+    "I will add these up to find the total number of pieces.",
+    "2 (from $50 bills) + 5 (from $10 bills) + 10 (from $5 bills) = 17 pieces."
+  ],
+  "solution": "17"
+}

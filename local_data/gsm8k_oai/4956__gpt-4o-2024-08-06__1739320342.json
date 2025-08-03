@@ -1,0 +1,20 @@
+{
+  "query": "Nathan wants to line the inside of a box with velvet. The box has two long sides that measure 8 inches by 6 inches, two short sides that measure 5 inches by six inches and a top and a bottom that each measure 40 square inches. How many square inches of velvet does Nathan need?",
+  "steps": [
+    "First, I need to calculate the area of the two long sides of the box.",
+    "Each long side measures 8 inches by 6 inches.",
+    "The area of one long side is 8 inches * 6 inches = 48 square inches.",
+    "Since there are two long sides, their total area is 2 * 48 square inches = 96 square inches.",
+    "Next, calculate the area of the two short sides of the box.",
+    "Each short side measures 5 inches by 6 inches.",
+    "The area of one short side is 5 inches * 6 inches = 30 square inches.",
+    "Since there are two short sides, their total area is 2 * 30 square inches = 60 square inches.",
+    "Now, calculate the total area of the top and bottom.",
+    "Each measures 40 square inches.",
+    "Since there is a top and a bottom, their total area is 2 * 40 square inches = 80 square inches.",
+    "Add all the areas to find the total square inches of velvet required: 96 + 60 + 80.",
+    "96 + 60 = 156",
+    "156 + 80 = 236"
+  ],
+  "solution": "236"
+}

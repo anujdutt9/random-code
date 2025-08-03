@@ -1,0 +1,20 @@
+{
+  "query": "Percius has a collection of marbles. 40% of them are clear. 20% are black, and the remainder are all the other colors. A friend of his asks if he can take five marbles. On average, how many marbles of other colors will his friend end up getting?",
+  "steps": [
+    "Percius has a collection of marbles. We don't know the exact number of marbles, but we know the percentages of different types of marbles.",
+    "40% of the marbles are clear.",
+    "20% of the marbles are black.",
+    "The marbles that are neither clear nor black form the remainder of the collection.",
+    "To find the percentage of marbles that are of other colors, we add the percentages of clear and black marbles and subtract from 100%.",
+    "Add 40% (clear) and 20% (black) to get 60%.",
+    "Subtract 60% from 100% to get 40%. So, 40% of the marbles are of other colors.",
+    "The friend takes 5 marbles at random from the collection.",
+    "We need to find the expected number of marbles of other colors that his friend ends up getting.",
+    "Since 40% of the marbles are of other colors, the probability that a single randomly selected marble is of another color is 0.4.",
+    "The expected value of a certain event happening (e.g., selecting a marble of another color) when repeated several times is the sum of the probabilities over those repetitions.",
+    "For 5 marbles, we calculate the expected number of marbles of other colors as 5 * 0.4.",
+    "Calculate 5 * 0.4 to get the expected number of marbles of other colors.",
+    "5 * 0.4 equals 2."
+  ],
+  "solution": "2"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "Phil has a coin collection he likes to add to.  He started with 50 state quarters his parents gave him.  Over the next year he doubled this.  The following year he collected 3 each month.  The year after that he collected 1 every third month.  The year after that he lost a quarter of them when he misplaced his collection.  How many did he have left after losing some?",
+  "steps": [
+    "Phil started with 50 state quarters.",
+    "Over the next year, he doubled this amount.",
+    "Doubling 50 state quarters gives him 100 state quarters.",
+    "In the following year, he collects 3 quarters each month.",
+    "There are 12 months in a year. So, he collects 3 * 12 = 36 quarters this year.",
+    "Adding these 36 quarters to the 100 he already has gives him 136 quarters.",
+    "The year after that, he collects 1 quarter every third month.",
+    "There are 12 months in the year, and every third month gives us four collections: months 3, 6, 9, and 12.",
+    "He collects 1 quarter each collection, so he gets 4 quarters this year.",
+    "Adding these 4 quarters to the 136 he already has gives him 140 quarters.",
+    "Next, he loses a quarter of his collection.",
+    "A quarter of 140 is 140 / 4 = 35.",
+    "He loses 35 quarters, so he has 140 - 35 quarters left."
+  ],
+  "solution": "105"
+}

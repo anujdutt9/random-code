@@ -1,0 +1,14 @@
+{
+  "query": "Krista started raising chickens. She has 10 hens who lay eggs. She sells the eggs for $3 a dozen. In four weeks, she sold $120 worth of eggs. If she sold all the eggs her hens laid, how many eggs does each hen lay a week?",
+  "steps": [
+    "First, I need to determine how many dozens of eggs Krista sold. She sold $120 worth of eggs at $3 per dozen.",
+    "To find the number of dozens of eggs sold, I divide the total revenue by the price per dozen: $120 \u00f7 $3 = 40 dozen.",
+    "Next, I need to convert dozens of eggs to individual eggs. There are 12 eggs in a dozen.",
+    "I multiply the number of dozens by 12 to find the total number of eggs: 40 dozen \u00d7 12 eggs/dozen = 480 eggs.",
+    "Now, I know that 480 eggs were laid and sold in 4 weeks.",
+    "To determine the average number of eggs each hen lays per week, I need to find out how many eggs were laid per week, then divide by the number of hens.",
+    "I divide the total number of eggs by the number of weeks: 480 eggs \u00f7 4 weeks = 120 eggs per week.",
+    "There are 10 hens laying eggs, so I divide the weekly total by the number of hens: 120 eggs per week \u00f7 10 hens = 12 eggs per hen per week."
+  ],
+  "solution": "12"
+}

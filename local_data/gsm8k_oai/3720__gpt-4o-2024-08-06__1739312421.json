@@ -1,0 +1,19 @@
+{
+  "query": "A baker sells pastries for $5 and works 7 days a week. On Monday he sold 2. Every day the number of sales increases by 1 compared to the previous day. On average, how many pastries does he sell on each day of the week?",
+  "steps": [
+    "First, identify the sales pattern. The baker sells 2 pastries on Monday.",
+    "Each subsequent day, the number of sales increases by 1.",
+    "On Tuesday, sales are 2 + 1 = 3.",
+    "On Wednesday, sales are 3 + 1 = 4.",
+    "On Thursday, sales are 4 + 1 = 5.",
+    "On Friday, sales are 5 + 1 = 6.",
+    "On Saturday, sales are 6 + 1 = 7.",
+    "On Sunday, sales are 7 + 1 = 8.",
+    "List the sales figures for each day: 2, 3, 4, 5, 6, 7, 8.",
+    "Add these numbers to find the total sales for the week: 2 + 3 + 4 + 5 + 6 + 7 + 8.",
+    "The total sales for the week is 35 pastries.",
+    "To find the average number of pastries sold per day, divide the total sales by the number of days in the week (7 days).",
+    "35 pastries \u00f7 7 days = 5 pastries per day."
+  ],
+  "solution": "5"
+}

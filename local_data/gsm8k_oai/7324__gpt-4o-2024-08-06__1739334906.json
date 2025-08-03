@@ -1,0 +1,16 @@
+{
+  "query": "This weekend's football game matched the Seattle Seahawks with the Denver Broncos. The final score was 37-23, with the Seattle Seahawks taking the win. If a touchdown is worth 7 points and a field goal is worth 3 points, how many touchdowns did the Seattle Seahawks score if they scored 3 field goals during the game?",
+  "steps": [
+    "I know the final score for the Seattle Seahawks is 37 points.",
+    "I'm told that a field goal is worth 3 points.",
+    "The Seattle Seahawks scored 3 field goals.",
+    "I'll calculate the total points from the field goals by multiplying the number of field goals (3) by the points per field goal (3).",
+    "3 field goals x 3 points each = 9 points from field goals.",
+    "To find the points scored from touchdowns, I'll subtract the field goal points from the total Seahawks points.",
+    "37 total points - 9 points from field goals = 28 points remaining.",
+    "I know that a touchdown is worth 7 points.",
+    "I'll divide the remaining points by the points per touchdown to find the number of touchdowns.",
+    "28 points \u00f7 7 points per touchdown = 4 touchdowns."
+  ],
+  "solution": "4"
+}

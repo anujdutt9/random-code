@@ -1,0 +1,14 @@
+{
+  "query": "Lolita has 54000 strawberry seeds. In each planting zone, 3123 seeds will be used. If she will accumulate 7 planting zones, how many strawberry seeds will remain?",
+  "steps": [
+    "I have a total of 54000 strawberry seeds.",
+    "In each planting zone, 3123 seeds will be used.",
+    "Lolita plans to accumulate 7 planting zones.",
+    "First, I need to calculate the total number of seeds used for the 7 planting zones.",
+    "Multiply the number of seeds per zone by the number of zones: 3123 seeds/zone * 7 zones.",
+    "3123 * 7 = 21861 seeds will be used for 7 planting zones.",
+    "Now, I need to subtract the total number of seeds used from the initial number of seeds.",
+    "54000 - 21861 = 32139 seeds will remain."
+  ],
+  "solution": "32139"
+}

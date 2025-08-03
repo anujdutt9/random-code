@@ -1,0 +1,17 @@
+{
+  "query": "There are 55 people at the track meet. 30 of them are boys, and the rest are girls. Three fifths of the girls have long hair, and the rest have short hair. How many girls have short hair?",
+  "steps": [
+    "First, I need to find out how many girls are at the track meet.",
+    "Since there are 55 people total and 30 of them are boys, I find the number of girls by subtracting: 55 - 30 = 25.",
+    "Now I know there are 25 girls at the track meet.",
+    "Three fifths of the girls have long hair. I need to calculate how many girls that is.",
+    "Three fifths of 25 is calculated by: \\((3/5) \\times 25 = (3 \\times 25)/5\\).",
+    "Multiplying 3 by 25 gives 75.",
+    "Dividing 75 by 5 gives 15.",
+    "So, 15 girls have long hair.",
+    "Now I need to determine how many girls have short hair.",
+    "Since 15 girls have long hair, I subtract this from the total number of girls: 25 - 15 = 10.",
+    "Thus, 10 girls have short hair."
+  ],
+  "solution": "10"
+}

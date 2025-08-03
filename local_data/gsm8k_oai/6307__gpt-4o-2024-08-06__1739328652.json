@@ -1,0 +1,12 @@
+{
+  "query": "Michael was watching a TV show, which was aired for 1.5 hours. During this time, there were 3 commercials, which lasted 10 minutes each. How long (in hours) was the TV show itself, not counting commercials?",
+  "steps": [
+    "The TV show aired for a total of 1.5 hours.",
+    "There were 3 commercials.",
+    "Each commercial lasted 10 minutes.",
+    "Calculate the total time for the commercials: 3 commercials \u00d7 10 minutes each = 30 minutes.",
+    "Convert 30 minutes to hours for easier subtraction: 30 minutes \u00f7 60 minutes per hour = 0.5 hours.",
+    "Subtract the total commercial time from the total airing time of the show: 1.5 hours - 0.5 hours = 1 hour."
+  ],
+  "solution": "1"
+}

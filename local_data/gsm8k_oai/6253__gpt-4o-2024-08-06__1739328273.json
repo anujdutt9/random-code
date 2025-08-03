@@ -1,0 +1,16 @@
+{
+  "query": "Dan can get to the center of a lollipop in 58 licks.  Micheal does it in 63 licks.  Sam & David each take 70 licks to get to the center of a lollipop while Lance only needs 39 licks.  What is the average amount of licks it takes to get to the center of a lollipop?",
+  "steps": [
+    "First, I need to list the number of licks each person takes to get to the center: Dan 58, Micheal 63, Sam 70, David 70, Lance 39.",
+    "Next, I will add all these numbers together to get the total number of licks.",
+    "58 + 63 = 121",
+    "121 + 70 = 191",
+    "191 + 70 = 261",
+    "261 + 39 = 300",
+    "Now I have the total number of licks: 300 licks.",
+    "There are 5 people (Dan, Micheal, Sam, David, Lance), so I need to divide the total number of licks by the number of people to find the average.",
+    "300 divided by 5 equals 60.",
+    "The average number of licks it takes to get to the center of a lollipop is 60."
+  ],
+  "solution": "60"
+}

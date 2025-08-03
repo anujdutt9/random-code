@@ -1,0 +1,14 @@
+{
+  "query": "Question: The delivery man was delivering a whole crate of shampoo, they went through a lot of it at the what?\n\nChoices:\nA: supermarket\nB: motel\nC: at hotel\nD: shampoo bottle\nE: hair salon",
+  "steps": [
+    "First, we analyze the context of the sentence. The delivery man is delivering a crate of shampoo, indicating that there is a high demand for shampoo in a particular setting.",
+    "Next, we consider the options provided. The option \"A: supermarket\" suggests a place where many different products, including shampoo, might be sold, but it doesn't specifically imply heavy use of shampoo.",
+    "The option \"B: motel\" could involve a certain amount of shampoo usage, but motels generally provide complimentary toiletries rather than having a high turnover of shampoo.",
+    "Next, \"C: at hotel\" is very similar to \"B,\" as hotels also provide toiletries to guests. However, hotels typically have a higher demand for amenities, including shampoo, especially if they have a lot of guests.",
+    "Turning to \"D: shampoo bottle,\" this is an irrelevant option. It refers to the packaging, not a location or context where shampoo is used heavily.",
+    "Finally, \"E: hair salon\" is a location where shampoo is used extensively, as salons perform hair washing and conditioning regularly as part of their services.",
+    "At this point, we have two strong candidates: \"E: hair salon\" and possibly \"C: at hotel.\" However, hair salons are typically more associated with high usage of shampoo compared to hotels, which are service-oriented but not as focused on shampoo use.",
+    "Thus, we conclude that \"E: hair salon\" is the setting where there is undoubtedly a lot of use of shampoo, making it the most suitable answer."
+  ],
+  "solution": "E"
+}

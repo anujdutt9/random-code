@@ -1,0 +1,15 @@
+{
+  "query": "Question: The producer didn't want to do the show live, what type of show was he looking for?\n\nChoices:\nA: animated\nB: podcast\nC: broadcast\nD: recorded\nE: neutral",
+  "steps": [
+    "The question states that the producer didn't want to do the show live. This indicates that the producer is looking for a format that allows for editing or pre-recording rather than something that is done in real-time.",
+    "Live shows are typically broadcasted as they happen, meaning they do not allow for modification once the show is in progress. Therefore, options that involve live performance such as \"broadcast\" (C) should be excluded unless they indicate pre-recorded segments.",
+    "The term 'animated' (A) typically refers to a specific style of content and does not relate directly to whether a show is live or pre-recorded.",
+    "A 'podcast' (B) is usually recorded and distributed digitally, but the format of a podcast varies widely, and it can lend itself to pre-recorded content since they can be edited before release.",
+    "'Recorded' (D) suggests that the show is captured and can be played later, which directly aligns with not wanting to do it live.",
+    "The option 'neutral' (E) does not specify a particular type of show and thus is not relevant to the distinction between live and recorded formats.",
+    "Given that we need a form of show that is not live, both 'podcast' and 'recorded' fit the request, but 'recorded' is more explicitly about the non-live nature of the show.",
+    "Now comparing the two remaining relevant options ('podcast' and 'recorded'), 'recorded' is broader and encompasses various forms including podcasts. However, the word 'recorded' directly aligns with the producer's desire to avoid live shows and implies that it will be edited before release.",
+    "Thus, the best option reflecting what the producer was looking for, by emphasizing the non-live aspect, is 'recorded' (D)."
+  ],
+  "solution": "D"
+}

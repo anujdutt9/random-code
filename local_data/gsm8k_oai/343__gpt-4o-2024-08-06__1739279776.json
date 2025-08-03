@@ -1,0 +1,14 @@
+{
+  "query": "Kim's TV uses 125 watts of electricity per hour.  She runs it for 4 hours a day.  If electricity cost 14 cents per kw/h how many cents does her TV cost to run for a week?",
+  "steps": [
+    "First, determine how many watts the TV uses per day. The TV uses 125 watts per hour, and Kim runs it for 4 hours a day.",
+    "Multiply 125 watts by 4 hours to find the daily usage in watts: 125 * 4 = 500 watts per day.",
+    "Now convert the daily usage from watts to kilowatts. There are 1000 watts in a kilowatt.",
+    "Divide the daily usage by 1000 to convert to kilowatts: 500 watts / 1000 = 0.5 kilowatts per day.",
+    "Next, calculate the weekly usage in kilowatt-hours. There are 7 days in a week.",
+    "Multiply the daily usage in kilowatts by 7: 0.5 kilowatts * 7 = 3.5 kilowatt-hours per week.",
+    "Now calculate the cost per week. Electricity costs 14 cents per kilowatt-hour.",
+    "Multiply the weekly kilowatt-hours by the cost per kilowatt-hour: 3.5 * 14 cents = 49 cents per week."
+  ],
+  "solution": "49"
+}

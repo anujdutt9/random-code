@@ -1,0 +1,22 @@
+{
+  "query": "In a class of 30 students, the teacher polls the students on their favorite subject. 1/5 of the students like Math, and 1/3 like English. 1/7 of the remaining students like Science. The rest don\u2019t have a favorite subject. How many students don\u2019t have a favorite subject?",
+  "steps": [
+    "First, calculate the number of students who like Math.",
+    "1/5 of the 30 students like Math.",
+    "1/5 * 30 = 6 students like Math.",
+    "Next, calculate the number of students who like English.",
+    "1/3 of the 30 students like English.",
+    "1/3 * 30 = 10 students like English.",
+    "Now, calculate the number of students who like both Math and English.",
+    "There is no indication of overlap, so assume students don\u2019t like more than one subject.",
+    "Calculate the number of students left after accounting for the Math and English enthusiasts.",
+    "30 - 6 (Math) - 10 (English) = 14 students remaining.",
+    "Now calculate the number of students who like Science.",
+    "1/7 of these remaining 14 students like Science.",
+    "1/7 * 14 = 2 students like Science.",
+    "Finally, calculate how many students don\u2019t have a favorite subject.",
+    "Subtract those who like Math, English, or Science from the total students.",
+    "30 - 6 (Math) - 10 (English) - 2 (Science) = 12 students don\u2019t have a favorite subject."
+  ],
+  "solution": "12"
+}

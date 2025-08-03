@@ -1,0 +1,17 @@
+{
+  "query": "The school decided to have a fundraiser to collect $750 for new basketball equipment. Families could donate $25, $50, or $100. Families who donated $25 got Bronze Status. Families who donated $50 got Silver Status. Families who donated $100 got Gold Status. With one day left in the fundraiser, the school has 10 Bronze Status families, 7 Silver Status Families and 1 Gold Status family. How much do they need to raise on the final day to reach their goal?",
+  "steps": [
+    "First, calculate the total amount raised by Bronze Status families. Each Bronze Status family donates $25 and there are 10 such families.",
+    "10 Bronze Status families \u00d7 $25 each = $250",
+    "Next, calculate the total amount raised by Silver Status families. Each Silver Status family donates $50 and there are 7 such families.",
+    "7 Silver Status families \u00d7 $50 each = $350",
+    "Then, calculate the total amount raised by the Gold Status family. There is 1 Gold Status family and they donate $100.",
+    "1 Gold Status family \u00d7 $100 = $100",
+    "Now, add up all the contributions to find the total amount raised so far.",
+    "$250 (Bronze) + $350 (Silver) + $100 (Gold) = $700",
+    "The school\u2019s goal is to raise $750.",
+    "To find out how much more they need to raise on the final day, subtract the amount already raised from the goal.",
+    "$750 (goal) - $700 (amount raised so far) = $50"
+  ],
+  "solution": "50"
+}

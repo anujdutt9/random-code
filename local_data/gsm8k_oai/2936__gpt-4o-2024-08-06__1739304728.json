@@ -1,0 +1,22 @@
+{
+  "query": "There are 516 cars in a parking lot. One-third are blue, one-half are red, and the rest are black. How many black cars are on the lot?",
+  "steps": [
+    "I need to determine how many cars are blue and how many are red first.",
+    "One-third of the cars are blue. So, I need to calculate 1/3 of 516.",
+    "1/3 * 516 = 516 / 3.",
+    "516 divided by 3 equals 172.",
+    "So, there are 172 blue cars.",
+    "Next, calculate how many cars are red.",
+    "One-half of the cars are red. So, I calculate 1/2 of 516.",
+    "1/2 * 516 = 516 / 2.",
+    "516 divided by 2 equals 258.",
+    "So, there are 258 red cars.",
+    "Now I know there are 172 blue cars and 258 red cars.",
+    "To find the number of black cars, subtract the number of blue and red cars from the total.",
+    "516 total cars - 172 blue cars - 258 red cars equals the number of black cars.",
+    "516 - 172 = 344.",
+    "344 - 258 = 86.",
+    "So, there are 86 black cars."
+  ],
+  "solution": "86"
+}

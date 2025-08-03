@@ -1,0 +1,16 @@
+{
+  "query": "Carolyn buys a silverware set with 6 knives, 12 forks, and three times as many spoons as knives. Then her friend trades her 10 knives for 6 spoons. What percentage of Carolyn's silverware is knives?",
+  "steps": [
+    "Carolyn starts with 6 knives.",
+    "Carolyn starts with 12 forks.",
+    "Carolyn has three times as many spoons as knives, so she has 3 * 6 = 18 spoons.",
+    "Her friend trades her 10 knives for 6 spoons. So Carolyn gets 10 more knives.",
+    "After the trade, Carolyn has 6 + 10 = 16 knives.",
+    "After the trade, Carolyn has 18 - 6 = 12 spoons.",
+    "Now let's total the pieces of silverware Carolyn has: knives (16) + forks (12) + spoons (12).",
+    "The total silverware is 16 + 12 + 12 = 40 pieces.",
+    "To find what percentage of Carolyn's silverware is knives, I need to calculate \\((16/40) * 100\\).",
+    "Calculating that gives \\( (16/40) * 100 = 40\\)%."
+  ],
+  "solution": "40"
+}

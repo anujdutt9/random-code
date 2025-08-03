@@ -1,0 +1,15 @@
+{
+  "query": "Mark has kangaroos and goats.  Kangaroos have two legs and goats have four legs.  If he has 23 kangaroos and three times as many goats as kangaroos what is the total number of legs of all his animals?",
+  "steps": [
+    "First, I need to understand the problem. We have kangaroos and goats. Kangaroos have 2 legs, and goats have 4 legs.",
+    "Mark has 23 kangaroos.",
+    "He has three times as many goats as kangaroos.",
+    "To find the number of goats, I multiply the number of kangaroos by 3. So, 23 kangaroos * 3 = 69 goats.",
+    "Now, I need to calculate the total number of legs for both kangaroos and goats.",
+    "For kangaroos, each has 2 legs. Therefore, the total number of legs for kangaroos is 23 * 2 = 46 legs.",
+    "For goats, each has 4 legs. Therefore, the total number of legs for goats is 69 * 4 = 276 legs.",
+    "Finally, to get the total number of legs of all animals, I need to add the legs of kangaroos and goats together.",
+    "Total legs = 46 (kangaroo legs) + 276 (goat legs) = 322 legs."
+  ],
+  "solution": "322"
+}

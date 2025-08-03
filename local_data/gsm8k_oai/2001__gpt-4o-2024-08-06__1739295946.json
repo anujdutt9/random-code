@@ -1,0 +1,16 @@
+{
+  "query": "Jenna is on a road trip. She drives for 2 hours at 60mph. She takes a bathroom break, and then she continues driving for 3 hours at 50 mph. She can drive for 30 miles on one gallon of gas. If one gallon of gas costs $2, how much money does she spend on gas for her trip?",
+  "steps": [
+    "First, I need to calculate the total distance Jenna travels during the trip.",
+    "For the first part of the trip, Jenna drives for 2 hours at 60 mph.",
+    "To find the distance she drives in the first part, multiply the speed by the time: distance = speed \u00d7 time = 60 mph \u00d7 2 hours = 120 miles.",
+    "Next, for the second part of the trip, Jenna drives for 3 hours at 50 mph.",
+    "To find the distance for the second part, multiply the speed by the time: distance = speed \u00d7 time = 50 mph \u00d7 3 hours = 150 miles.",
+    "Add the distances from both parts of the trip to find the total distance: 120 miles + 150 miles = 270 miles.",
+    "Now, calculate how many gallons of gas are needed for 270 miles.",
+    "Jenna can drive 30 miles on one gallon of gas. To find the total gallons needed, divide the total distance by the miles per gallon: total gallons = 270 miles / 30 miles per gallon = 9 gallons.",
+    "Next, calculate the total cost of the gas. One gallon of gas costs $2.",
+    "Multiply the number of gallons by the cost per gallon: total cost = 9 gallons \u00d7 $2 = $18."
+  ],
+  "solution": "18"
+}

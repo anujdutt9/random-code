@@ -1,0 +1,15 @@
+{
+  "query": "When Suzy the librarian sat at her desk on Wednesday morning, she had 98 books ready for checkout. The same day, 43 books were checked out. The following day, 23 books were returned, but 5 books were checked out. On Friday, 7 books were returned. How many books did Suzy have?",
+  "steps": [
+    "Suzy starts with 98 books available for checkout.",
+    "On Wednesday, 43 books are checked out.",
+    "After Wednesday's checkouts, Suzy has 98 - 43 = 55 books remaining.",
+    "On Thursday, 23 books are returned.",
+    "After the Thursday returns, Suzy has 55 + 23 = 78 books.",
+    "On Thursday, 5 more books are checked out.",
+    "After Thursday's checkouts, Suzy has 78 - 5 = 73 books remaining.",
+    "On Friday, 7 books are returned.",
+    "After Friday's returns, Suzy has 73 + 7 = 80 books."
+  ],
+  "solution": "80"
+}

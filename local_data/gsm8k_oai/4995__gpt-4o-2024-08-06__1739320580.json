@@ -1,0 +1,17 @@
+{
+  "query": "John buys 20 hours of music a month.  The average length of a song is 3 minutes.  He buys each song for $.50.  How much does he pay for music a year?",
+  "steps": [
+    "John buys 20 hours of music each month.",
+    "I need to find out how many songs that equates to each month.",
+    "Since there are 60 minutes in an hour, 20 hours of music is 20 x 60 = 1200 minutes of music.",
+    "Each song is 3 minutes long, so I need to divide the total minutes of music by the length of each song to find out how many songs he's buying each month.",
+    "1200 minutes divided by 3 minutes per song equals 400 songs per month.",
+    "John pays $0.50 for each song.",
+    "To find out how much he spends each month, I need to multiply the number of songs by the cost per song.",
+    "400 songs multiplied by $0.50 equals $200 per month.",
+    "Now I need to calculate how much he pays for music in a year.",
+    "There are 12 months in a year, so I need to multiply the monthly cost by 12.",
+    "$200 multiplied by 12 equals $2400 per year."
+  ],
+  "solution": "2400"
+}

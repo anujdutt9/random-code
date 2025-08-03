@@ -1,0 +1,18 @@
+{
+  "query": "Rita bought 5 short dresses, 3 pairs of pants and 4 jackets from a store that sells second-hand clothes. The dresses cost $20 each, the pants cost $12, the jackets cost $30 each, and she spent an additional $5 on transportation. If she had $400 initially, how much does she have now?",
+  "steps": [
+    "First, I need to calculate the total cost of the dresses. There are 5 dresses, and each costs $20.",
+    "Multiply 5 dresses by $20 per dress: 5 * 20 = $100.",
+    "Next, calculate the total cost of the pants. There are 3 pairs of pants, and each costs $12.",
+    "Multiply 3 pants by $12 per pair: 3 * 12 = $36.",
+    "Now, calculate the total cost of the jackets. There are 4 jackets, and each costs $30.",
+    "Multiply 4 jackets by $30 per jacket: 4 * 30 = $120.",
+    "Add the total costs of the dresses, pants, and jackets to find the total spending on clothes.",
+    "$100 (dresses) + $36 (pants) + $120 (jackets) = $256.",
+    "Add the transportation cost to the total spending on clothes. The transportation cost is $5.",
+    "$256 (clothes) + $5 (transportation) = $261 total expenditure.",
+    "Rita initially had $400. To find out how much she has now, subtract the total expenditure from her initial amount.",
+    "$400 - $261 = $139."
+  ],
+  "solution": "139"
+}

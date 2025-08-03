@@ -1,0 +1,14 @@
+{
+  "query": "Question: Where would you put a dead body if you do not want anyone to find it and you do not have a car?\n\nChoices:\nA: trunk\nB: corner of two streets\nC: police station\nD: basement\nE: funeral",
+  "steps": [
+    "The question asks about hiding a dead body without a car, which rules out options that require transportation to a distant location.",
+    "Option A, \"trunk,\" would require a vehicle to transport the body, thus it is not a viable choice without a car.",
+    "Option B, \"corner of two streets,\" is a public area and likely to be found quickly by passersby or surveillance, making it a poor choice.",
+    "Option C, \"police station,\" is not a hiding location at all; it is where law enforcement operates, making it the least likely choice.",
+    "Option D, \"basement,\" can be a private area of a house, which could possibly keep the body hidden from immediate public view.",
+    "Option E, \"funeral,\" indicates a service or observance and is not a location for hiding a body; it is where bodies are usually laid to rest.",
+    "Among the remaining options, the basement stands out as a secluded location where someone could hide a body for a longer period without immediate discovery.",
+    "Considering all choices and the goal of not being discovered, the basement is the most logical place."
+  ],
+  "solution": "D"
+}

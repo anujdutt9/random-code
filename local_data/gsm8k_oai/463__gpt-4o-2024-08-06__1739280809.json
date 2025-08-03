@@ -1,0 +1,18 @@
+{
+  "query": "It takes 30 minutes to make pizza dough and another 30 minutes in the oven for the pizza to cook. If one batch of pizza dough can make 3 pizzas but the oven can only fit 2 pizzas at a time, how many hours would it take for Camilla to finish making 12 pizzas?",
+  "steps": [
+    "First, I need to determine how many batches of dough Camilla needs to make 12 pizzas.",
+    "Since one batch makes 3 pizzas, Camilla needs 12 / 3 = 4 batches of dough.",
+    "Next, I calculate how long it takes to prepare the dough for 4 batches.",
+    "Each batch of dough takes 30 minutes, so 4 batches take 4 x 30 = 120 minutes to prepare.",
+    "Now, I'll calculate the total cooking time needed in the oven for 12 pizzas.",
+    "The oven can fit 2 pizzas at a time and each batch consists of 3 pizzas. This means she needs 6 rounds since 12 / 2 = 6 to cook all 12 pizzas in the oven.",
+    "Each round takes 30 minutes, so 6 rounds take 6 x 30 = 180 minutes.",
+    "To find the total time needed to finish making 12 pizzas, I add the time to prepare the dough and the total cooking time.",
+    "The total preparation time for the dough is 120 minutes and the total oven time is 180 minutes.",
+    "Adding these up gives 120 + 180 = 300 minutes.",
+    "To convert the total time from minutes to hours, I divide by 60.",
+    "300 minutes / 60 = 5 hours."
+  ],
+  "solution": "5"
+}

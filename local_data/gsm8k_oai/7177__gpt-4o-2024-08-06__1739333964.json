@@ -1,0 +1,19 @@
+{
+  "query": "5 geckos on the kitchen window eat 6 insects each. 3 lizards eat twice as much as the geckos.  How many total insects were eaten?",
+  "steps": [
+    "First, I need to determine how many insects each gecko eats.",
+    "Each gecko eats 6 insects.",
+    "Next, I calculate the total number of insects eaten by all the geckos together.",
+    "There are 5 geckos, each eating 6 insects.",
+    "5 geckos * 6 insects/gecko = 30 insects eaten by the geckos.",
+    "Now, I need to find out how many insects each lizard eats.",
+    "Each lizard eats twice as much as a gecko.",
+    "One gecko eats 6 insects, so one lizard eats 2 * 6 = 12 insects.",
+    "I need to calculate the total number of insects eaten by all the lizards together.",
+    "There are 3 lizards, each eating 12 insects.",
+    "3 lizards * 12 insects/lizard = 36 insects eaten by the lizards.",
+    "Finally, I sum up the insects eaten by the geckos and the lizards to get the total number of insects eaten.",
+    "30 insects (geckos) + 36 insects (lizards) = 66 insects."
+  ],
+  "solution": "66"
+}

@@ -1,0 +1,22 @@
+{
+  "query": "Bella has two times as many marbles as frisbees. She also has 20 more frisbees than deck cards. If she buys 2/5 times more of each item, what would be the total number of the items she will have if she currently has 60 marbles?",
+  "steps": [
+    "Let's start with the information provided. Bella has 60 marbles.",
+    "She has two times as many marbles as frisbees. So, if M is marbles, then F (frisbees) = M / 2.",
+    "Substitute M = 60 into the equation: F = 60 / 2 = 30.",
+    "Next, we are told Bella has 20 more frisbees than deck cards. If D is the number of deck cards, then F = D + 20.",
+    "Since F = 30, we can solve for D: 30 = D + 20.",
+    "Subtract 20 from both sides: D = 30 - 20 = 10.",
+    "Now we know the current number of marbles (M = 60), frisbees (F = 30), and deck cards (D = 10).",
+    "The problem then states she buys 2/5 times more of each item.",
+    "Calculate 2/5 of marbles: (2/5) * 60 = 24 more marbles.",
+    "Calculate the new total number of marbles: 60 + 24 = 84 marbles.",
+    "Calculate 2/5 of frisbees: (2/5) * 30 = 12 more frisbees.",
+    "Calculate the new total number of frisbees: 30 + 12 = 42 frisbees.",
+    "Calculate 2/5 of deck cards: (2/5) * 10 = 4 more deck cards.",
+    "Calculate the new total number of deck cards: 10 + 4 = 14 deck cards.",
+    "Now sum the new totals of each item: 84 marbles + 42 frisbees + 14 deck cards.",
+    "Calculate the sum: 84 + 42 + 14 = 140."
+  ],
+  "solution": "140"
+}

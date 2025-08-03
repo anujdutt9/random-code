@@ -1,0 +1,16 @@
+{
+  "query": "A classroom of 15 students turned in essays on Friday morning. The first 5 students each turned in essays with 2 pages. The next 5 students each turned in essays with 3 pages. The last 5 students each turned in essays with 1 page. What is the average page count per essay for the 15 students?",
+  "steps": [
+    "First, identify the count of pages contributed by the first group of students. There are 5 students in this group, and each turned in an essay with 2 pages.",
+    "Calculate the total pages for the first 5 students: 5 students * 2 pages/student = 10 pages.",
+    "Next, identify the count of pages contributed by the second group of students. There are 5 students in this group, and each turned in an essay with 3 pages.",
+    "Calculate the total pages for the second 5 students: 5 students * 3 pages/student = 15 pages.",
+    "Now, identify the count of pages contributed by the third group of students. There are 5 students in this group, and each turned in an essay with 1 page.",
+    "Calculate the total pages for the third 5 students: 5 students * 1 page/student = 5 pages.",
+    "Add the total pages from each group to find the overall total pages. 10 pages + 15 pages + 5 pages = 30 pages.",
+    "There are 15 students who turned in essays.",
+    "To find the average page count per essay, divide the total number of pages by the total number of essays. That means 30 pages / 15 students.",
+    "Calculate the average: 30 pages / 15 students = 2 pages per student."
+  ],
+  "solution": "2"
+}

@@ -1,0 +1,21 @@
+{
+  "query": "A truck driver has to spend $2 per gallon of gas. She can drive 10 miles per gallon. She drives at a rate of 30 miles per hour. If she is paid $.50 per mile, how much money does she make if she drives for 10 hours?",
+  "steps": [
+    "First, I need to calculate how many miles the truck driver can drive in 10 hours.",
+    "The truck driver's speed is 30 miles per hour.",
+    "If she drives for 10 hours, she will drive 30 miles/hour * 10 hours = 300 miles.",
+    "Next, let's find out how much she earns from driving 300 miles.",
+    "She is paid $0.50 per mile.",
+    "For 300 miles, she will earn 300 miles * $0.50/mile = $150.",
+    "Now, I'll calculate how much gas she uses to drive 300 miles.",
+    "She can drive 10 miles per gallon of gas.",
+    "For 300 miles, she will need 300 miles / 10 miles/gallon = 30 gallons of gas.",
+    "Next, I'll calculate the cost of the gas.",
+    "Gas costs $2 per gallon.",
+    "The cost for 30 gallons of gas will be 30 gallons * $2/gallon = $60.",
+    "Finally, I'll calculate her net earnings after subtracting the cost of gas.",
+    "Her earnings are $150, and the gas cost is $60.",
+    "Her net earnings will be $150 - $60 = $90."
+  ],
+  "solution": "90"
+}

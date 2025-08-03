@@ -1,0 +1,14 @@
+{
+  "query": "Tim sleeps 6 hours per day for 5 days a week and 10 hours a day for the other 2.  How much total sleep does he get?",
+  "steps": [
+    "First, I need to figure out how much sleep Tim gets in the 5 days when he sleeps 6 hours a day.",
+    "He sleeps 6 hours/day for 5 days.",
+    "6 hours/day * 5 days = 30 hours",
+    "Now, I need to figure out how much sleep Tim gets in the 2 days when he sleeps 10 hours a day.",
+    "He sleeps 10 hours/day for 2 days.",
+    "10 hours/day * 2 days = 20 hours",
+    "Now, I add the sleep hours from both periods together to get the total sleep for the week.",
+    "30 hours (for 5 days) + 20 hours (for 2 days) = 50 hours"
+  ],
+  "solution": "50"
+}

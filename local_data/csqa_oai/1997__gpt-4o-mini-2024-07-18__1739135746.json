@@ -1,0 +1,13 @@
+{
+  "query": "Question: Sarah drank from a water fountain, like many before her.  Where might she be?\n\nChoices:\nA: city\nB: garden\nC: public place\nD: home\nE: rome",
+  "steps": [
+    "The scenario describes Sarah drinking from a water fountain, which is a common feature in various environments.",
+    "I need to identify where water fountains are typically found. Common locations include parks, cities, and public spaces.",
+    "Since \"home\" typically does not have a water fountain, we can rule out option D.",
+    "Option E, \"rome,\" is too specific and does not generally apply as it might not be considered in all contexts of public fountains.",
+    "Choices A (\"city\") and B (\"garden\") are possibilities, but they are more restrictive compared to \"public place.\"",
+    "A public place encompasses a wide range of locations where many people gather, including cities, parks, and other community areas, all of which might have water fountains.",
+    "Since the term \"public place\" is broader than the other options, it is the most fitting answer for the context of Sarah drinking from a water fountain."
+  ],
+  "solution": "C"
+}

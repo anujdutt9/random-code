@@ -1,0 +1,18 @@
+{
+  "query": "A store sold a certain brand of jeans for $40. They only have few pairs of jeans left so they decided to give 10% discount on every two pairs of jeans bought by a customer at any one time. How much will a customer pay for 3 pairs of jeans?",
+  "steps": [
+    "The regular price for one pair of jeans is $40.",
+    "For 3 pairs of jeans, the total cost without any discounts would be 3 pairs \u00d7 $40 per pair.",
+    "3 pairs \u00d7 $40 per pair = $120.",
+    "The store offers a 10% discount if a customer buys 2 pairs of jeans.",
+    "If the customer buys 2 pairs, the cost before the discount would be 2 pairs \u00d7 $40 per pair = $80.",
+    "10% of $80 is $80 \u00d7 0.10 = $8.",
+    "The discount on 2 pairs is $8.",
+    "The discounted price for 2 pairs is $80 - $8 = $72.",
+    "The customer buys 3 pairs of jeans, so 1 pair will not receive a discount.",
+    "The cost for the undiscounted 1 pair is 1 pair \u00d7 $40 per pair = $40.",
+    "Add the discounted cost of the 2 pairs ($72) to the cost of the 1 pair ($40).",
+    "$72 + $40 = $112."
+  ],
+  "solution": "112"
+}

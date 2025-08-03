@@ -1,0 +1,16 @@
+{
+  "query": "Matt and Tom both walk up the stairs of the library. Matt goes up the stairs 20 steps per minute. Tom goes up the stairs 5 steps per minute more than Matt. If Matt has reached 220 steps above the entrance, how many steps will Tom have gone up by that time?",
+  "steps": [
+    "Matt walks up 20 steps per minute.",
+    "Tom walks 5 steps per minute more than Matt.",
+    "Therefore, Tom walks 20 + 5 = 25 steps per minute.",
+    "Matt has reached 220 steps.",
+    "To find out how long it took Matt to reach 220 steps, I divide the total steps by his walking rate.",
+    "220 steps / 20 steps per minute = 11 minutes.",
+    "It took Matt 11 minutes to reach 220 steps.",
+    "In those same 11 minutes, I need to find out how many steps Tom has walked.",
+    "Tom walks 25 steps per minute, so in 11 minutes he will have walked 25 steps/minute * 11 minutes.",
+    "25 * 11 = 275 steps."
+  ],
+  "solution": "275"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Vinny weighed 300 pounds then lost 20 pounds in the first month of his diet. He continued his diet but each month, he lost half as much weight as he had lost in the previous month. At the start of the fifth month of his diet, he worked harder to lose extra weight then decided to end his diet. If Vinny weighed 250.5 pounds at the end of his diet, how many pounds did he lose throughout the fifth month?",
+  "steps": [
+    "Vinny started at 300 pounds and lost 20 pounds in the first month.",
+    "After the first month, his weight was 300 - 20 = 280 pounds.",
+    "In the second month, Vinny lost half of what he lost in the first month: 20 / 2 = 10 pounds.",
+    "After the second month, his weight was 280 - 10 = 270 pounds.",
+    "In the third month, he lost half of what he lost in the second month: 10 / 2 = 5 pounds.",
+    "After the third month, his weight was 270 - 5 = 265 pounds.",
+    "In the fourth month, he lost half of what he lost in the third month: 5 / 2 = 2.5 pounds.",
+    "After the fourth month, his weight was 265 - 2.5 = 262.5 pounds.",
+    "At the end of the diet, at the end of the fifth month, he weighed 250.5 pounds.",
+    "To find out how much weight he lost in the fifth month, subtract his weight at the end of the fifth month from his weight at the start of the fifth month: 262.5 - 250.5.",
+    "262.5 - 250.5 = 12 pounds."
+  ],
+  "solution": "12"
+}

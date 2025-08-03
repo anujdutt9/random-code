@@ -1,0 +1,24 @@
+{
+  "query": "Bridgette has 2 dogs, 3 cats, and 4 birds. She gives the dogs a bath twice a month. She gives the cats a bath once a month. She gives the birds a bath once every 4 months. In a year, how many baths does she give?",
+  "steps": [
+    "First, I will calculate how many baths the dogs receive in a month.",
+    "Bridgette gives each dog a bath twice a month.",
+    "She has 2 dogs, so she gives a total of 2 dogs * 2 baths each = 4 baths to the dogs every month.",
+    "Next, I will calculate how many baths the dogs receive in a year.",
+    "There are 12 months in a year.",
+    "So, the dogs receive 4 baths a month * 12 months = 48 baths in a year.",
+    "Now, I will calculate how many baths the cats receive in a month.",
+    "Bridgette gives each cat a bath once a month.",
+    "She has 3 cats, so she gives a total of 3 cats * 1 bath each = 3 baths to the cats every month.",
+    "Next, I will calculate how many baths the cats receive in a year.",
+    "So, the cats receive 3 baths a month * 12 months = 36 baths in a year.",
+    "Now, I will calculate how many baths the birds receive in a year.",
+    "Bridgette gives each bird a bath once every 4 months.",
+    "There are 3 sets of 4 months in a year (12 months / 4 months per bath).",
+    "She has 4 birds, so she gives a total of 4 birds * 1 bath each = 4 baths every 4 months.",
+    "So, the birds receive 4 baths every set of 4 months * 3 sets = 12 baths in a year.",
+    "Finally, I will add up the number of baths given to the dogs, cats, and birds in a year.",
+    "48 baths (dogs) + 36 baths (cats) + 12 baths (birds) = 96 baths in total."
+  ],
+  "solution": "96"
+}

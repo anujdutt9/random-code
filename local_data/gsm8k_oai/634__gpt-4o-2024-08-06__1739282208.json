@@ -1,0 +1,20 @@
+{
+  "query": "Vaishali has 4 hats, each with three stripes.  She also has three hats with four stripes each, six hats with no stripes, and another two hats with 5 stripes each.  What is the combined total number of stripes Vaishali has on all of her hats?",
+  "steps": [
+    "First, I need to calculate the total number of stripes on the 4 hats, each with 3 stripes.",
+    "There are 4 hats with 3 stripes each, so I multiply 4 by 3.",
+    "4 times 3 is 12. So, there are 12 stripes on the 4 hats.",
+    "Next, I need to calculate the total number of stripes on the 3 hats, each with 4 stripes.",
+    "There are 3 hats with 4 stripes each, so I multiply 3 by 4.",
+    "3 times 4 is 12. So, there are 12 stripes on the 3 hats.",
+    "Next, I calculate the total number of stripes on the 6 hats with no stripes.",
+    "Since these hats have no stripes, I multiply 6 by 0.",
+    "6 times 0 is 0. So, there are 0 stripes on the 6 hats.",
+    "Next, I calculate the total number of stripes on the 2 hats, each with 5 stripes.",
+    "There are 2 hats with 5 stripes each, so I multiply 2 by 5.",
+    "2 times 5 is 10. So, there are 10 stripes on the 2 hats.",
+    "Now, I add together the total number of stripes from each group of hats: 12 (from the first group) + 12 (from the second group) + 0 (from the third group) + 10 (from the fourth group).",
+    "12 plus 12 is 24, plus 0 is 24, plus 10 is 34."
+  ],
+  "solution": "34"
+}

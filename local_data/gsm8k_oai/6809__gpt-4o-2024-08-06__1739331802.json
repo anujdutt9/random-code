@@ -1,0 +1,14 @@
+{
+  "query": "Jerry works as an independent contractor for a company that pays him $40 per task. If each task takes him two hours to complete and he works 10 hours a day for a whole week, calculate the total amount of money he would earn at the end of the week.",
+  "steps": [
+    "First, I need to calculate how many tasks Jerry can complete in one day.",
+    "Since each task takes 2 hours to complete and he works 10 hours a day, I divide 10 hours by 2 hours per task.",
+    "10 hours / 2 hours per task equals 5 tasks per day.",
+    "Next, I calculate how much Jerry earns per day by multiplying the number of tasks by the pay per task.",
+    "Jerry earns $40 per task, so I multiply 5 tasks by $40.",
+    "5 tasks * $40 per task equals $200 per day.",
+    "Jerry works for 7 days in a week (since the question states a \"whole week\"), so I multiply his daily earnings by 7.",
+    "$200 per day * 7 days equals $1400 for the week."
+  ],
+  "solution": "1400"
+}

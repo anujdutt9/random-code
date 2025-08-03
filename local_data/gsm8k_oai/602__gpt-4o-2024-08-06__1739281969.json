@@ -1,0 +1,16 @@
+{
+  "query": "A publishing house decides to create a contest for new writers and will award a total of $800 in prizes to the 18 novels with the most votes. First place will get $200, second place will get $150, third place $120 and the rest of the awards will be paid with the same amount of money. How much money will each writer earn from fourth place onwards?",
+  "steps": [
+    "First, I need to calculate the total amount of money that has already been allocated to the first, second, and third place winners.",
+    "First place receives $200, second place $150, and third place $120.",
+    "I add these amounts together to find the total allocated to the top three places: $200 + $150 + $120 = $470.",
+    "Now I need to find how much money is left for the remaining 15 writers (from fourth place onwards) by subtracting the total allocated to the top three places from the total prize money.",
+    "The total prize money is $800, and the amount allocated to the top three places is $470.",
+    "So, the remaining prize money for the other 15 writers is $800 - $470 = $330.",
+    "Each of the 15 writers from fourth place onwards will receive the same amount of money.",
+    "Therefore, I need to divide the remaining prize money, $330, by the number of writers, which is 15.",
+    "So, $330 \u00f7 15 = $22.",
+    "This means each of the writers from fourth place onwards will earn $22."
+  ],
+  "solution": "22"
+}

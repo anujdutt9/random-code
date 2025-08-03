@@ -1,0 +1,19 @@
+{
+  "query": "Ann is cutting fabric to make curtains. She cuts a 4 foot by 6 foot rectangle for the living room, and a 2 foot by 4 foot rectangle for the bedroom. If the bolt of fabric is 16 feet by 12 feet, how much fabric is left in square feet?",
+  "steps": [
+    "First, I need to find out how much fabric Ann used for the living room curtains.",
+    "The living room fabric is a rectangle measuring 4 feet by 6 feet.",
+    "To find the area of the living room fabric, multiply the length by the width: 4 feet * 6 feet = 24 square feet.",
+    "Next, I need to calculate the amount of fabric used for the bedroom curtains.",
+    "The bedroom fabric is a rectangle measuring 2 feet by 4 feet.",
+    "To find the area of the bedroom fabric, multiply the length by the width: 2 feet * 4 feet = 8 square feet.",
+    "Now, I have to determine the total amount of fabric used for both the living room and bedroom curtains.",
+    "Add the area of the living room fabric and the bedroom fabric together: 24 square feet + 8 square feet = 32 square feet.",
+    "Now, I need to determine the total amount of fabric on the bolt.",
+    "The fabric bolt is 16 feet by 12 feet.",
+    "To find the area of the entire bolt, multiply the length by the width: 16 feet * 12 feet = 192 square feet.",
+    "To find out how much fabric is left, subtract the total amount used from the total amount on the bolt.",
+    "Subtract the used fabric from the total fabric: 192 square feet - 32 square feet = 160 square feet."
+  ],
+  "solution": "160"
+}

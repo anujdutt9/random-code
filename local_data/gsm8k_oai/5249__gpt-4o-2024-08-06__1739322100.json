@@ -1,0 +1,20 @@
+{
+  "query": "Ginger likes to make cakes for every holiday for people.  She has 2 children, each of whom she bakes a cake for on their birthdays, Christmas, Easter, and Halloween.  She has a husband for whom she makes a cake on these same holidays, as well as on their anniversary and Valentine's Day. Lastly, she makes both her parents cakes as well, but only for their birthdays since they live far away.  How many cakes does she make in 10 years?",
+  "steps": [
+    "First, I need to find out how many cakes Ginger bakes for her children in a year.",
+    "There are 2 children, and she bakes them cakes for their birthdays, Christmas, Easter, and Halloween.",
+    "That's 4 occasions per child per year.",
+    "So, for both children, that's 2 children * 4 occasions = 8 cakes per year.",
+    "Next, I need to find out how many cakes she bakes for her husband in a year.",
+    "She bakes him a cake for his birthday, Christmas, Easter, Halloween, their anniversary, and Valentine's Day.",
+    "That's 6 occasions in a year.",
+    "Now, I need to find out how many cakes she bakes for her parents in a year.",
+    "She bakes each parent a cake only on their birthdays.",
+    "There are 2 parents, so that's 2 cakes per year.",
+    "Now, add up all the cakes she makes in a year for her children, husband, and parents.",
+    "She bakes 8 (children) + 6 (husband) + 2 (parents) = 16 cakes per year.",
+    "Finally, I need to calculate how many cakes she makes in total over 10 years.",
+    "Multiply the number of cakes per year by 10 years: 16 cakes/year * 10 years = 160 cakes."
+  ],
+  "solution": "160"
+}

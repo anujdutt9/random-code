@@ -1,0 +1,15 @@
+{
+  "query": "The length of a rectangle is four times its width. If the area is 100 m2. what is the length of the rectangle?",
+  "steps": [
+    "Let the width of the rectangle be \\( w \\).",
+    "The length of the rectangle is four times its width, so the length is \\( 4w \\).",
+    "The area of a rectangle is given by the formula: Area = length \u00d7 width.",
+    "Substitute the expressions for length and width into the area formula: Area = \\( 4w \\times w = 4w^2 \\).",
+    "We know the area is 100 m\u00b2, so set up the equation: \\( 4w^2 = 100 \\).",
+    "Solve for \\( w^2 \\) by dividing both sides of the equation by 4: \\( w^2 = \\frac{100}{4} = 25 \\).",
+    "Take the square root of both sides to solve for \\( w \\): \\( w = \\sqrt{25} = 5 \\).",
+    "The width of the rectangle is \\( w = 5 \\).",
+    "The length of the rectangle is \\( 4w = 4 \\times 5 = 20 \\)."
+  ],
+  "solution": "20"
+}

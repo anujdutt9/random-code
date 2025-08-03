@@ -1,0 +1,17 @@
+{
+  "query": "Bernie has a collection of 18 unique postcards. He decided to sell half his collection for $15 per postcard. After he has successfully sold his postcards he decided to spend all the earned money to buy new postcards for $5 each. How many postcards does Bernie have after all his transactions?",
+  "steps": [
+    "Bernie has 18 unique postcards initially.",
+    "He decides to sell half of his collection.",
+    "Half of 18 is 18/2 = 9 postcards.",
+    "Bernie sells 9 postcards for $15 per postcard.",
+    "The total amount of money he earns is 9 postcards * $15/postcard = $135.",
+    "Bernie decides to spend all the earned money to buy new postcards for $5 each.",
+    "The number of new postcards he can buy is $135 / $5 per postcard.",
+    "$135 / $5 = 27 postcards.",
+    "Initially, Bernie kept the postcards he didn't sell, which is 18 - 9 = 9 postcards.",
+    "Now, Bernie has the 9 postcards he didn't sell plus the 27 new postcards he bought.",
+    "Total number of postcards Bernie has now is 9 + 27 = 36 postcards."
+  ],
+  "solution": "36"
+}

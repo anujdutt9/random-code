@@ -1,0 +1,17 @@
+{
+  "query": "A movie theatre has 250 seats. The cost of a ticket is $6 for an adult and $4 for a child. The theatre is full and contains 188 children. What is the total ticket revenue for this movie session?",
+  "steps": [
+    "First, I need to determine how many adults are present in the theatre.",
+    "The theatre contains 250 seats and 188 children.",
+    "To find the number of adults, I subtract the number of children from the total number of seats: 250 - 188.",
+    "This calculation gives me 62 adults.",
+    "Next, I need to calculate the total ticket revenue from both children and adults.",
+    "First, I calculate the revenue from the children. Each child ticket costs $4, and there are 188 children.",
+    "The total revenue from children is 188 multiplied by 4, which equals 752.",
+    "Next, I calculate the revenue from the adults. Each adult ticket costs $6, and there are 62 adults.",
+    "The total revenue from adults is 62 multiplied by 6, which equals 372.",
+    "Finally, I add the revenue from children and the revenue from adults to find the total ticket revenue.",
+    "752 (from children) + 372 (from adults) equals 1124."
+  ],
+  "solution": "1124"
+}

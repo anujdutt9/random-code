@@ -1,0 +1,17 @@
+{
+  "query": "Nicole has 4 fish tanks. The first two tanks need 8 gallons of water each and the other two need 2 fewer gallons of water each than the first two tanks. If Nicole needs to change the water of the aquarium every week, how many gallons of water will she need in four weeks?",
+  "steps": [
+    "Nicole has 4 fish tanks.",
+    "The first two tanks need 8 gallons of water each.",
+    "The amount of water needed for the first two tanks is 2 tanks * 8 gallons/tank = 16 gallons.",
+    "The other two tanks need 2 fewer gallons of water than the first two tanks.",
+    "The amount of water needed for each of the other two tanks is 8 gallons - 2 gallons = 6 gallons.",
+    "The amount of water needed for the other two tanks is 2 tanks * 6 gallons/tank = 12 gallons.",
+    "The total amount of water Nicole needs for one complete water change is 16 gallons + 12 gallons = 28 gallons.",
+    "Nicole needs to change the water every week.",
+    "Nicole's tanks require 28 gallons per week.",
+    "She needs to do this for 4 weeks.",
+    "Total water needed for four weeks is 28 gallons/week * 4 weeks = 112 gallons."
+  ],
+  "solution": "112"
+}

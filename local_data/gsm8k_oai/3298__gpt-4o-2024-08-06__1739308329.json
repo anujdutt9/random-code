@@ -1,0 +1,18 @@
+{
+  "query": "Bill has played 200 games of poker and won 63% of them. If he plays 100 more games and loses 43 of them, what is his new win percentage?",
+  "steps": [
+    "Bill has currently played 200 games and won 63% of them.",
+    "To calculate the number of games Bill has won so far, multiply 200 by 63%.",
+    "0.63 * 200 = 126. So, Bill has won 126 games out of 200.",
+    "Bill will play 100 more games, which means the total number of games he will play is now 200 + 100.",
+    "200 + 100 = 300. So, Bill will have played a total of 300 games.",
+    "In the additional 100 games, Bill loses 43 games.",
+    "If Bill lost 43 games, he must have won 100 - 43 in those 100 additional games.",
+    "100 - 43 = 57. Bill won 57 out of the 100 additional games.",
+    "To find out the total number of games Bill won, add the games he initially won to the games he won in the additional set: 126 (initial wins) + 57 (additional wins).",
+    "126 + 57 = 183. Bill has won 183 games in total out of 300 games.",
+    "Now, calculate the new win percentage: (Number of wins / Total games) * 100%.",
+    "(183 / 300) * 100 = 61%."
+  ],
+  "solution": "61"
+}

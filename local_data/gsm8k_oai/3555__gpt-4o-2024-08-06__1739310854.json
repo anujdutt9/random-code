@@ -1,0 +1,12 @@
+{
+  "query": "Alex has 4 pens in the first week of a month. Every week her pen collection doubles. How many more pens will Alex have than Jane if Jane will have 16 pens after a month?",
+  "steps": [
+    "Initially, Alex has 4 pens in the first week.",
+    "In the second week, Alex's pen collection doubles: 4 pens * 2 = 8 pens.",
+    "In the third week, Alex's pen collection doubles again: 8 pens * 2 = 16 pens.",
+    "In the fourth week (after a month), Alex's pen collection doubles: 16 pens * 2 = 32 pens.",
+    "Jane will have 16 pens after a month.",
+    "To find how many more pens Alex will have than Jane, I need to subtract the number of Jane's pens from Alex's pens: 32 pens - 16 pens = 16 pens."
+  ],
+  "solution": "16"
+}

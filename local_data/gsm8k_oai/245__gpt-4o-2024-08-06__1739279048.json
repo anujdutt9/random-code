@@ -1,0 +1,16 @@
+{
+  "query": "There are 12 crates that each contain 150 oranges. There are 16 boxes that each hold 30 nectarines. How many pieces of fruit are in the crates and the boxes in total?",
+  "steps": [
+    "I need to find the total number of oranges and the total number of nectarines first.",
+    "Each crate contains 150 oranges, and there are 12 crates.",
+    "To find the total number of oranges, I will multiply the number of crates by the number of oranges per crate: 12 * 150.",
+    "12 * 150 equals 1800. So, there are 1800 oranges.",
+    "Now I need to calculate the total number of nectarines.",
+    "Each box contains 30 nectarines, and there are 16 boxes.",
+    "To find the total number of nectarines, I will multiply the number of boxes by the number of nectarines per box: 16 * 30.",
+    "16 * 30 equals 480. So, there are 480 nectarines.",
+    "Finally, I need to find the total number of pieces of fruit by adding the number of oranges and nectarines together.",
+    "1800 oranges + 480 nectarines equals 2280 pieces of fruit."
+  ],
+  "solution": "2280"
+}

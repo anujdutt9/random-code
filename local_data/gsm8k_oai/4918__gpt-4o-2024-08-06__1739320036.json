@@ -1,0 +1,12 @@
+{
+  "query": "In the final game of the basketball season, four players scored points.  Chandra scored twice as many points as did Akiko.  Akiko scored 4 more points than did Michiko, and Michiko scored half as many points as did Bailey.  If Bailey scored 14 points, how many points in total did the team score in the final game of the season?",
+  "steps": [
+    "First, I know that Bailey scored 14 points.",
+    "Next, I'm given that Michiko scored half as many points as Bailey. Since Bailey scored 14 points, Michiko scored 14 / 2 = 7 points.",
+    "Now, Akiko scored 4 more points than Michiko. Since Michiko scored 7 points, Akiko scored 7 + 4 = 11 points.",
+    "Chandra scored twice as many points as Akiko. Since Akiko scored 11 points, Chandra scored 11 * 2 = 22 points.",
+    "To find the total points scored by the team, I need to add together the points scored by each player: Bailey (14 points) + Michiko (7 points) + Akiko (11 points) + Chandra (22 points).",
+    "Calculate the total: 14 + 7 + 11 + 22 = 54."
+  ],
+  "solution": "54"
+}

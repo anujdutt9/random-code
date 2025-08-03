@@ -1,0 +1,18 @@
+{
+  "query": "Hazel put up a lemonade stand. She sold half her lemonade to a construction crew. She sold 18 cups to kids on bikes. She gave away half that amount to her friends. Then she drank the last cup of lemonade herself. How many cups of lemonade did Hazel make?",
+  "steps": [
+    "Let's start by defining the variables. Let \"L\" be the total number of cups of lemonade Hazel made.",
+    "Hazel sold half of her lemonade to a construction crew. This means she sold (1/2)L cups to them.",
+    "Next, she sold 18 cups to kids on bikes. So at this point, she has sold (1/2)L + 18 cups in total.",
+    "She then gave away half of the 18 cups to her friends. Therefore, she gave away 18/2 = 9 cups to her friends.",
+    "After giving away the cups to her friends, the total cups accounted for (sold and given away) is (1/2)L + 18 + 9.",
+    "Finally, she drank the last cup of lemonade herself. Adding this last cup means she has accounted for (1/2)L + 18 + 9 + 1 cups.",
+    "Let's sum up the cups accounted for: (1/2)L + 18 + 9 + 1 = (1/2)L + 28.",
+    "The total number of cups Hazel made is equal to the number of cups accounted for in all her activities. Thus, L = (1/2)L + 28.",
+    "To solve for L, let's subtract (1/2)L from both sides: L - (1/2)L = 28.",
+    "This simplifies to (1/2)L = 28.",
+    "To find L, multiply both sides by 2: L = 28 * 2.",
+    "After calculating, L = 56."
+  ],
+  "solution": "56"
+}

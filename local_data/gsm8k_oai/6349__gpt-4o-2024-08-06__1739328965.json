@@ -1,0 +1,22 @@
+{
+  "query": "Isabella has three times as many green houses as yellow houses. She also has 40 fewer yellow houses than red houses. If she has 90 green houses, how many of her houses are not yellow?",
+  "steps": [
+    "I know Isabella has three times as many green houses as yellow houses.",
+    "I'm told that Isabella has 90 green houses.",
+    "Since she has three times as many green houses as yellow houses, I can set up an equation: Let Y be the number of yellow houses. Then, 3Y = 90.",
+    "To find Y, I'll solve the equation 3Y = 90.",
+    "Dividing both sides of the equation by 3 gives Y = 30.",
+    "Now, Isabella has 30 yellow houses.",
+    "I know Isabella has 40 fewer yellow houses than red houses.",
+    "Let R be the number of red houses. Then, Y = R - 40.",
+    "Since Y = 30, substituting gives 30 = R - 40.",
+    "To find R, I'll add 40 to both sides of the equation, resulting in R = 70.",
+    "Isabella has 70 red houses.",
+    "Now, I want to find how many houses are not yellow.",
+    "Isabella has a total of three types of houses: green, yellow, and red.",
+    "The number of non-yellow houses would be the sum of green houses and red houses.",
+    "Isabella has 90 green houses and 70 red houses.",
+    "Adding the number of green and red houses gives 90 + 70 = 160."
+  ],
+  "solution": "160"
+}

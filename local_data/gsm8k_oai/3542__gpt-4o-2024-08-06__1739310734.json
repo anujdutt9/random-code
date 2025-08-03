@@ -1,0 +1,17 @@
+{
+  "query": "A book library charges fifty cents per day on any book borrowed by its members to read outside the library's premises. At the start of May, Celine borrowed three books from the library to read at home for her upcoming examinations. If she returned one book 20 days after borrowing it, and the other two stayed at her house until the end of May, calculate the total amount of money that she paid at the library for lending the three books.",
+  "steps": [
+    "First, I need to identify how many days each book was borrowed for.",
+    "Since Celine borrowed and returned all books in May, I will consider all days borrowed within this month.",
+    "Book 1 was borrowed for 20 days.",
+    "May has 31 days. Since the other two books are kept until the end of May, they were borrowed for 31 days each.",
+    "The library charges fifty cents per day per book. Therefore, for Book 1, the cost is 20 days multiplied by 0.50 dollars per day.",
+    "For Book 1: 20 days \u00d7 $0.50 = $10.00",
+    "For each of Books 2 and 3, the cost is 31 days multiplied by 0.50 dollars per day.",
+    "For each of Books 2 and 3: 31 days \u00d7 $0.50 = $15.50",
+    "Now I need to add up the charges for all three books to get the total cost.",
+    "Total cost = $10.00 + $15.50 + $15.50",
+    "Total cost = $41.00"
+  ],
+  "solution": "41"
+}

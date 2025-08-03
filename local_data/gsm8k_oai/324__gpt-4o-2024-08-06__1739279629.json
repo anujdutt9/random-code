@@ -1,0 +1,14 @@
+{
+  "query": "A building has four floors with ten rooms each. Legacy has to clean each room, and it takes her 6 hours to clean one room. If she earns $15 per hour of work, calculate the total amount of money she makes from cleaning all the floors in the building.",
+  "steps": [
+    "First, I need to determine the total number of rooms in the building.",
+    "There are four floors, and each floor has ten rooms.",
+    "To find the total number of rooms, I multiply the number of floors by the number of rooms per floor: 4 floors * 10 rooms per floor = 40 rooms.",
+    "Now, I need to calculate the total number of hours Legacy spends cleaning the entire building.",
+    "She takes 6 hours to clean one room, so for 40 rooms, she will need 40 rooms * 6 hours per room = 240 hours.",
+    "Next, I calculate how much she earns per hour.",
+    "She earns $15 per hour.",
+    "To find her total earnings, I multiply the total number of hours she works by her hourly wage: 240 hours * $15 per hour = $3,600."
+  ],
+  "solution": "3600"
+}

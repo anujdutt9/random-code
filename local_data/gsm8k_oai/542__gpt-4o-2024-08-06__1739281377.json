@@ -1,0 +1,18 @@
+{
+  "query": "Every day, Sara bakes 10 cakes and puts them in his refrigerator. He does this for 5 days. Carol then comes over and eats 12 of his cakes. If it takes 2 cans of frosting to frost a single cake, how many cans of frosting does Bob need to frost the remaining cakes?",
+  "steps": [
+    "First, I need to find out how many cakes Sara bakes in total over the 5 days.",
+    "Sara bakes 10 cakes each day.",
+    "She bakes for 5 days.",
+    "The total number of cakes baked is 10 cakes/day * 5 days = 50 cakes.",
+    "Next, I need to account for the cakes that Carol eats.",
+    "Carol eats 12 cakes.",
+    "I subtract the 12 cakes that Carol eats from the total of 50 cakes Sara has.",
+    "50 cakes - 12 cakes = 38 cakes remaining.",
+    "Now I need to determine how many cans of frosting are needed for the remaining cakes.",
+    "It takes 2 cans of frosting to frost a single cake.",
+    "Therefore, for 38 cakes, the number of frosting cans needed is 38 cakes * 2 cans/cake.",
+    "38 * 2 = 76 cans of frosting."
+  ],
+  "solution": "76"
+}

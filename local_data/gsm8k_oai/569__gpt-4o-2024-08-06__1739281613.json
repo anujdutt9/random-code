@@ -1,0 +1,22 @@
+{
+  "query": "At a gym, the blue weights are 2 pounds each, and the green weights are 3 pounds each. Harry put 4 blue weights and 5 green weights onto a metal bar. The bar itself weighs 2 pounds. What is the total amount of weight, in pounds, of Harry's custom creation?",
+  "steps": [
+    "First, I need to calculate the total weight of the blue weights.",
+    "There are 4 blue weights.",
+    "Each blue weight is 2 pounds.",
+    "To find the total weight of the blue weights, I multiply the number of blue weights by the weight of each blue weight: 4 * 2.",
+    "4 * 2 = 8 pounds.",
+    "Next, I calculate the total weight of the green weights.",
+    "There are 5 green weights.",
+    "Each green weight is 3 pounds.",
+    "To find the total weight of the green weights, I multiply the number of green weights by the weight of each green weight: 5 * 3.",
+    "5 * 3 = 15 pounds.",
+    "Now I calculate the total weight of the weights on the bar by adding the weight of the blue weights and the green weights together.",
+    "The total weight of the weights is 8 pounds (blue weights) + 15 pounds (green weights) = 23 pounds.",
+    "I also need to add the weight of the metal bar itself.",
+    "The weight of the metal bar is 2 pounds.",
+    "The total weight of Harry's custom creation is obtained by adding the weight of the weights and the weight of the bar: 23 + 2.",
+    "23 + 2 = 25 pounds."
+  ],
+  "solution": "25"
+}

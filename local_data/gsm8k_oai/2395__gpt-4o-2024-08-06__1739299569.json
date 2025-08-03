@@ -1,0 +1,15 @@
+{
+  "query": "A chef has served 58 adults, 35 fewer children than the number of adults, and twice as many seniors as children. What is the total number of guests served?",
+  "steps": [
+    "The chef has served 58 adults.",
+    "There are 35 fewer children than adults.",
+    "To find the number of children, subtract 35 from the number of adults, which is 58.",
+    "58 - 35 equals 23, so there are 23 children served.",
+    "The number of seniors is twice the number of children.",
+    "Calculate twice the number of children: 2 * 23 equals 46.",
+    "There are 46 seniors served.",
+    "Add the number of adults, children, and seniors to find the total number of guests.",
+    "58 adults + 23 children + 46 seniors equals 127."
+  ],
+  "solution": "127"
+}

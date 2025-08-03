@@ -1,0 +1,15 @@
+{
+  "query": "Sandy's goal is to drink 3 liters of water in a day. She drinks 500 milliliters of water every after 2 hours. After how many hours will she be able to drink a total of 3 liters of water?",
+  "steps": [
+    "First, I need to understand Sandy's total water consumption goal. She aims to drink 3 liters of water in a day.",
+    "I need to convert 3 liters into milliliters to ensure consistent units. 1 liter equals 1000 milliliters.",
+    "3 liters is equivalent to 3 \u00d7 1000 = 3000 milliliters.",
+    "I need to determine how much water Sandy drinks every 2 hours. I know she drinks 500 milliliters every 2 hours.",
+    "The question asks after how many hours she will reach her goal. To find this, I divide the total goal (3000 milliliters) by the amount she drinks every 2 hours (500 milliliters).",
+    "3000 milliliters \u00f7 500 milliliters per 2 hours = 6 intervals of 2 hours.",
+    "Now, I multiply the number of intervals (6) by the duration of each interval (2 hours).",
+    "6 \u00d7 2 hours = 12 hours.",
+    "Therefore, it will take Sandy 12 hours to drink a total of 3 liters of water."
+  ],
+  "solution": "12"
+}

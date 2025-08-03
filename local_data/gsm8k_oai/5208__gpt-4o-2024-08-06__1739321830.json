@@ -1,0 +1,16 @@
+{
+  "query": "A group of people pays $720 for admission tickets to an amusement park. The price of an adult ticket is $15, and a child ticket is $8. There are 25 more adults than children. How many children are in the group?",
+  "steps": [
+    "Let the number of children be \\( c \\).",
+    "The number of adults is \\( c + 25 \\) since there are 25 more adults than children.",
+    "The cost of all the children's tickets is \\( 8c \\) dollars, as each child ticket costs $8.",
+    "The cost of all the adults' tickets is \\( 15(c + 25) \\) dollars, as each adult ticket costs $15.",
+    "The total cost is given as $720.",
+    "The equation combining these costs is: \\( 8c + 15(c + 25) = 720 \\).",
+    "Let's simplify and solve this equation: First, distribute the 15: \n\\[ 8c + 15c + 375 = 720 \\].",
+    "Combine like terms: \n\\[ 23c + 375 = 720 \\].",
+    "Subtract 375 from both sides to isolate terms involving \\( c \\):\n\\[ 23c = 345 \\].",
+    "Divide both sides by 23 to solve for \\( c \\):\n\\[ c = 15 \\]."
+  ],
+  "solution": "15"
+}

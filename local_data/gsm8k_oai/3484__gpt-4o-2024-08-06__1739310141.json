@@ -1,0 +1,21 @@
+{
+  "query": "A party hall has 3 decorative light bulbs; a red light bulb which comes on every 2 seconds, a green one every 3 seconds and a blue one every 4 seconds. If they are put on at the same time, what is the shortest time after which the three bulbs will be on at the same time?",
+  "steps": [
+    "To find the shortest time after which the three bulbs will be on at the same time, I need to find the Least Common Multiple (LCM) of the three intervals: 2 seconds, 3 seconds, and 4 seconds.",
+    "First, I must understand what LCM is. The LCM is the smallest positive integer that is divisible by each of the given numbers.",
+    "I will start by finding the prime factorization of each number.",
+    "2 is already a prime number, so its prime factorization is 2.",
+    "3 is also a prime number, so its prime factorization is 3.",
+    "4 is not a prime number. The prime factorization of 4 is 2^2.",
+    "Now I will determine what the LCM should be by taking the highest power of all prime numbers that occur in the factorizations.",
+    "For the number 2, the highest power that appears is 2^2.",
+    "For the number 3, the highest power that appears is 3^1.",
+    "There are no other prime factors.",
+    "Therefore, the LCM is 2^2 * 3^1.",
+    "Calculate 2^2, which is 4.",
+    "Calculate 4 * 3, which is 12.",
+    "The LCM of 2, 3, and 4 is 12.",
+    "Thus, the shortest time after which the three bulbs will all be on at the same time is 12 seconds."
+  ],
+  "solution": "12"
+}

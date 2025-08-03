@@ -1,0 +1,20 @@
+{
+  "query": "Marco owns an ice cream truck.  His ice cream cones are $5 each.  If his expenses are 80% of total sales for the day, how many ice cream cones would he need to sell to make a $200 profit for the day?",
+  "steps": [
+    "To find out how many ice cream cones Marco needs to sell to make a $200 profit, I first need to determine the relationship between his expenses, sales, and profit.",
+    "Profit is the total sales minus the expenses. Based on the problem, expenses are 80% of total sales.",
+    "Let's denote the total sales as S. Then the expenses are 0.8S.",
+    "Profit can then be expressed as S - 0.8S.",
+    "Simplifying this, profit equals 0.2S.",
+    "Now, I set up the equation for profit: 0.2S = $200.",
+    "To find S, I divide both sides of the equation by 0.2.",
+    "S = $200 / 0.2",
+    "S = $1000",
+    "So, Marco needs $1000 in total sales to achieve a $200 profit.",
+    "Each ice cream cone is sold for $5.",
+    "To find how many cones need to be sold, I will divide total sales by the price per cone.",
+    "Number of cones = $1000 / $5",
+    "Number of cones = 200"
+  ],
+  "solution": "200"
+}

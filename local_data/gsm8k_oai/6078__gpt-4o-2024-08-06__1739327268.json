@@ -1,0 +1,19 @@
+{
+  "query": "Cyrus has been contracted to write a 500 page book.  On his first day, he writes 25 pages and twice that amount on the second day.  On the third day he is able to write twice the amount that he did on the second day.  On the fourth day, he gets writer's block and is only able to write 10 pages.  How many more pages does he need to write?",
+  "steps": [
+    "First, I need to determine how many pages Cyrus wrote each day.",
+    "On the first day, Cyrus writes 25 pages.",
+    "On the second day, he writes twice the amount he wrote on the first day, which is 2 * 25 = 50 pages.",
+    "On the third day, Cyrus writes twice the amount he wrote on the second day, which is 2 * 50 = 100 pages.",
+    "On the fourth day, due to writer\u2019s block, he only writes 10 pages.",
+    "Now, I need to find the total number of pages Cyrus has written so far.",
+    "Total pages written = pages from first day + second day + third day + fourth day = 25 + 50 + 100 + 10",
+    "Calculating the sum: 25 + 50 = 75",
+    "Adding the next amount: 75 + 100 = 175",
+    "Adding the last amount: 175 + 10 = 185",
+    "Cyrus has written a total of 185 pages.",
+    "The contract is for a 500-page book, so I need to find out how many more pages Cyrus needs to write.",
+    "To determine the remaining pages: 500 - 185 = 315"
+  ],
+  "solution": "315"
+}

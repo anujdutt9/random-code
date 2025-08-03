@@ -1,0 +1,13 @@
+{
+  "query": "John attends a protest for 4 days.  He then attends a second protest for 25% longer than the first.  How many days did he spend protesting?",
+  "steps": [
+    "John attends the first protest for 4 days.",
+    "He attends the second protest for 25% longer than the first protest.",
+    "To find 25% of the duration of the first protest, calculate 25% of 4 days.",
+    "25% of 4 days = (25/100) * 4 = 1 day.",
+    "The duration of the second protest is 4 days + 1 day = 5 days.",
+    "Now, add the durations of both protests to find the total.",
+    "Total days protesting = 4 days (first protest) + 5 days (second protest) = 9 days."
+  ],
+  "solution": "9"
+}

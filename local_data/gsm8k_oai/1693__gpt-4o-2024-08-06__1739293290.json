@@ -1,0 +1,15 @@
+{
+  "query": "Eden's mom is twice as old as Eden, who is twice as old as Devin. If Devin is 12 years old, what's the average age of the three?",
+  "steps": [
+    "Devin's age is 12 years.",
+    "Eden is twice as old as Devin.",
+    "Eden's age = 2 * 12 = 24 years.",
+    "Eden's mom is twice as old as Eden.",
+    "Eden's mom's age = 2 * 24 = 48 years.",
+    "Now, we have the ages: Devin = 12, Eden = 24, Eden's mom = 48.",
+    "To find the average age, we add up their ages and divide by 3.",
+    "Sum of their ages = 12 + 24 + 48 = 84 years.",
+    "Average age = 84 / 3 = 28 years."
+  ],
+  "solution": "28"
+}

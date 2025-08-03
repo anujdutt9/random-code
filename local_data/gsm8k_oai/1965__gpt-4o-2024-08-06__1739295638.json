@@ -1,0 +1,21 @@
+{
+  "query": "Grandma Molly created statues of turtles for her front lawn.  The first year, she created 4 statues and placed them on her lawn.  The second year, she quadrupled the number of statues on her front lawn.  In the third year, she added another 12 statues to the front lawn, but a hail storm broke 3 of the statues, which she threw away.  In the fourth year, she added twice as many new statues as had been broken the year before.  At the end of the four years, how many turtle statues were on her front lawn?",
+  "steps": [
+    "First, I will find out how many statues Grandma Molly had at the end of the first year. She created 4 statues and placed them on her lawn.",
+    "At the end of the first year, there were 4 statues on the lawn.",
+    "In the second year, she quadrupled the number of statues. I need to multiply the number of statues at the end of the first year by 4.",
+    "4 statues * 4 = 16 statues",
+    "At the end of the second year, there were 16 statues on the lawn.",
+    "In the third year, she added 12 more statues to the existing 16.",
+    "16 statues + 12 statues = 28 statues",
+    "A hail storm broke 3 of the statues, which she threw away.",
+    "28 statues - 3 statues = 25 statues",
+    "At the end of the third year, there were 25 statues on the lawn.",
+    "In the fourth year, she added twice as many new statues as had been broken the year before. She broke 3 statues the year before.",
+    "2 * 3 = 6 new statues",
+    "She adds these 6 new statues to the 25 existing ones.",
+    "25 statues + 6 statues = 31 statues",
+    "At the end of the fourth year, there were 31 statues on the lawn."
+  ],
+  "solution": "31"
+}

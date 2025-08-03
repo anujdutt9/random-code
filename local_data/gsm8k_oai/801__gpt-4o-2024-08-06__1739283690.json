@@ -1,0 +1,18 @@
+{
+  "query": "Alex gets paid $500 a week and 10% of his weekly income is deducted as tax. He also pays his weekly water bill for $55 and gives away another 10% of his weekly income as a tithe. How much money does Alex have left?",
+  "steps": [
+    "Alex's weekly income is $500.",
+    "10% of $500 is deducted as tax.",
+    "To find 10% of $500, calculate $500 * 0.10.",
+    "$500 * 0.10 = $50.",
+    "Alex pays $50 in tax.",
+    "Subtract the tax amount from Alex's income: $500 - $50 = $450.",
+    "Alex pays his weekly water bill of $55.",
+    "Subtract the water bill from the remaining income: $450 - $55 = $395.",
+    "Alex gives away 10% of his weekly income as a tithe.",
+    "We already calculated that 10% of $500 is $50.",
+    "Subtract the tithe from the remaining money: $395 - $50 = $345.",
+    "Alex has $345 left after paying taxes, the water bill, and the tithe."
+  ],
+  "solution": "345"
+}

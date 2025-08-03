@@ -1,0 +1,14 @@
+{
+  "query": "The local salon offers mani/pedis for $40.00.  They are running a Mother's day special and offering 25% off their regular rate.  Charlotte is treating herself, her daughter and 3 granddaughters to a spa day.  How much will Charlotte spend on 5 mani/pedis?",
+  "steps": [
+    "First, I need to determine the regular price for one mani/pedi, which is $40.00.",
+    "Next, I need to calculate the discount percentage, which is 25% off.",
+    "To find the discount amount, I multiply the regular price by the discount percentage: 40 * 0.25 = 10.",
+    "The discount amount is $10.00.",
+    "Now, I subtract the discount amount from the regular price to find the discounted price: 40 - 10 = 30.",
+    "The discounted price per mani/pedi is $30.00.",
+    "I need to calculate the total cost for 5 people.",
+    "I multiply the discounted price by the number of mani/pedis: 30 * 5 = 150."
+  ],
+  "solution": "150"
+}

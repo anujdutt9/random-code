@@ -1,0 +1,17 @@
+{
+  "query": "There are some kids in camp. Half of the kids are going to soccer camp, and 1/4 of the kids going to soccer camp are going to soccer camp in the morning. 750 kids are going to soccer camp in the afternoon. How many kids there in camp altogether?",
+  "steps": [
+    "Let's define the total number of kids in the camp as \\( x \\).",
+    "Half of the kids are going to soccer camp, so the number of kids going to soccer camp is \\( \\frac{x}{2} \\).",
+    "Out of the kids going to soccer camp, 1/4 are going in the morning. Thus, the number of kids going to soccer camp in the morning is \\( \\frac{1}{4} \\times \\frac{x}{2} = \\frac{x}{8} \\).",
+    "The kids going to soccer camp in the afternoon would then be the remainder of those going to soccer. So, the number going in the afternoon is \\( \\frac{x}{2} - \\frac{x}{8} \\).",
+    "Simplifying the number going in the afternoon: \\( \\frac{x}{2} - \\frac{x}{8} = \\frac{4x}{8} - \\frac{x}{8} = \\frac{3x}{8} \\).",
+    "We are told that 750 kids are going to soccer camp in the afternoon.",
+    "So, \\( \\frac{3x}{8} = 750 \\).",
+    "Solve for \\( x \\) by multiplying both sides of the equation by 8 to eliminate the fraction: \\( 3x = 750 \\times 8 \\).",
+    "Calculate \\( 750 \\times 8 \\), which equals 6000.",
+    "Now, divide both sides of the equation by 3 to find \\( x \\): \\( x = \\frac{6000}{3} \\).",
+    "Calculate \\( \\frac{6000}{3} \\), which equals 2000."
+  ],
+  "solution": "2000"
+}

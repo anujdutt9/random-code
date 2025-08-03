@@ -1,0 +1,13 @@
+{
+  "query": "Maryann can pick the lock on a cheap pair of handcuffs in 6 minutes and on an expensive pair of handcuffs in 8 minutes. If Maryann needs to rescue three of her friends who have expensive handcuffs on their hands and cheap handcuffs on their ankles, how long will it take for her to free all of them?",
+  "steps": [
+    "First, I need to determine the total time Maryann takes to pick both types of locks for each friend.",
+    "Maryann takes 6 minutes to pick the lock on a cheap pair of handcuffs.",
+    "She takes 8 minutes to pick the lock on an expensive pair of handcuffs.",
+    "For each friend, Maryann needs to pick one expensive handcuff and one cheap handcuff.",
+    "The total time to free each friend is 8 minutes (expensive) + 6 minutes (cheap) = 14 minutes.",
+    "There are 3 friends that need to be freed.",
+    "Therefore, the total time for Maryann to free all three friends is 3 friends x 14 minutes each = 42 minutes."
+  ],
+  "solution": "42"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "A farmer hires small trucks to transport his lemons to the markets. The load on a truck may not be more than 900 kilograms. One bag of lemons has a mass of 8 kilograms. If there are 100 bags of lemons, how many more kilograms can still be loaded into the truck?",
+  "steps": [
+    "First, I need to find out the total weight carried by the 100 bags of lemons.",
+    "Each bag has a mass of 8 kilograms.",
+    "So, the total weight of 100 bags is calculated by multiplying the number of bags by the mass of each bag.",
+    "100 bags * 8 kilograms per bag = 800 kilograms",
+    "The maximum load capacity of the truck is 900 kilograms.",
+    "To find out how much more can be loaded, I subtract the current load of 800 kilograms from the maximum capacity.",
+    "900 kilograms - 800 kilograms = 100 kilograms"
+  ],
+  "solution": "100"
+}

@@ -1,0 +1,29 @@
+{
+  "query": "Milo's parents tell him that he can win cash rewards for good grades. He will get $5 times the average grade he gets. He gets three 2s, four 3s, a 4, and a 5. How much cash does he get?",
+  "steps": [
+    "First, I need to find the total of all Milo's grades.",
+    "He gets three 2s, so that contributes \\(3 \\times 2 = 6\\) to his total.",
+    "He gets four 3s, so that contributes \\(4 \\times 3 = 12\\) to his total.",
+    "He gets one 4, so that contributes \\(1 \\times 4 = 4\\) to his total.",
+    "He gets one 5, so that also contributes \\(1 \\times 5 = 5\\) to his total.",
+    "Now, I need to sum up all these contributions to find the total sum of his grades: \\(6 + 12 + 4 + 5\\).",
+    "Calculating this gives \\(6 + 12 = 18\\).",
+    "\\(18 + 4 = 22\\).",
+    "Finally, \\(22 + 5 = 27\\).",
+    "So, the total sum of his grades is 27.",
+    "Next, I need to determine the total number of grades he received.",
+    "He has three 2s, four 3s, one 4, and one 5.",
+    "Therefore, the total number of grades is \\(3 + 4 + 1 + 1\\).",
+    "Calculating this gives \\(3 + 4 = 7\\).",
+    "\\(7 + 1 = 8\\).",
+    "Adding the last one, \\(8 + 1 = 9\\).",
+    "Thus, Milo received a total of 9 grades.",
+    "To find the average grade, I need to divide the total sum of the grades (27) by the number of grades (9).",
+    "\\(27 \\div 9 = 3\\).",
+    "So, the average grade is 3.",
+    "According to the cash reward plan, he will receive $5 times the average grade.",
+    "This means he will receive \\(5 \\times 3\\).",
+    "Calculating this gives \\(5 \\times 3 = 15\\)."
+  ],
+  "solution": "15"
+}

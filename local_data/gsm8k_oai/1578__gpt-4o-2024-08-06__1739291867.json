@@ -1,0 +1,18 @@
+{
+  "query": "Three plastic chairs cost as much as a portable table. Five plastic chairs cost $55. If Manny wants to buy one portable table and two chairs, how much will be left in his $100?",
+  "steps": [
+    "Three plastic chairs cost as much as one portable table.",
+    "Five plastic chairs cost $55, so the cost of one plastic chair is $55 divided by 5.",
+    "Calculating the cost of one plastic chair: $55 / 5 = $11.",
+    "Three plastic chairs cost 3 x $11 = $33.",
+    "Therefore, the cost of one portable table is $33.",
+    "Manny wants to buy one portable table and two chairs.",
+    "The cost for one portable table is $33.",
+    "The cost of two plastic chairs is 2 x $11 = $22.",
+    "The total cost for one portable table and two chairs is $33 + $22 = $55.",
+    "Manny starts with $100.",
+    "Subtracting the total cost from Manny's $100 gives: $100 - $55.",
+    "$100 - $55 = $45."
+  ],
+  "solution": "45"
+}

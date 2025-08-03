@@ -1,0 +1,15 @@
+{
+  "query": "Thomas is training at the gym to prepare for a competition. He trained for 5 hours every day for a month (30 days). If he continues to train for the next 12 days, how many hours will he spend on training in total?",
+  "steps": [
+    "Thomas trains for 5 hours every day.",
+    "He trained for 30 days in the first month.",
+    "To find out how many hours he trained in the first month, I need to multiply the number of days by the number of hours per day.",
+    "30 days * 5 hours/day = 150 hours",
+    "He plans to continue training for the next 12 days.",
+    "Similarly, I need to multiply the additional 12 days by the number of hours per day to get the total hours for these days.",
+    "12 days * 5 hours/day = 60 hours",
+    "To find the total hours he will have trained, I must add the hours trained in the first month to the hours planned for the next 12 days.",
+    "150 hours + 60 hours = 210 hours"
+  ],
+  "solution": "210"
+}

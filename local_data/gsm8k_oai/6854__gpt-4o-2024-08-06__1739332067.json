@@ -1,0 +1,18 @@
+{
+  "query": "A TV show has been going on for 14 years. Out of those 14 years, 8 seasons had 15 episodes, 4 seasons had 20 episodes, and 2 seasons had 12 episodes. What is the average number of episodes per year?",
+  "steps": [
+    "First, I need to calculate the total number of episodes over the 14 years.",
+    "I will start by calculating the total number of episodes in the 8 seasons with 15 episodes each.",
+    "8 seasons * 15 episodes/season = 120 episodes",
+    "Next, I calculate the total number of episodes in the 4 seasons with 20 episodes each.",
+    "4 seasons * 20 episodes/season = 80 episodes",
+    "Now, I calculate the total number of episodes in the 2 seasons with 12 episodes each.",
+    "2 seasons * 12 episodes/season = 24 episodes",
+    "Now I will sum up all the episodes from each type of season to find the total number of episodes across all 14 years.",
+    "120 episodes + 80 episodes + 24 episodes = 224 episodes",
+    "Now, I need to calculate the average number of episodes per year.",
+    "To find the average, I divide the total number of episodes by the total number of years.",
+    "224 episodes / 14 years = 16 episodes/year"
+  ],
+  "solution": "16"
+}

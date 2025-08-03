@@ -1,0 +1,25 @@
+{
+  "query": "Marcy is the lunch monitor in an elementary school cafeteria. She gives 5 time-outs for running, 1 less than five times that number of time-outs for throwing food, and 1/3 the number of food-throwing time-outs for swearing. If each time-out is 5 minutes, how much time do the students spend in time-out total?",
+  "steps": [
+    "First, I need to determine the number of time-outs given for throwing food.",
+    "Marcy gives 5 time-outs for running.",
+    "The number of time-outs for throwing food is 1 less than five times the number of time-outs for running.",
+    "Five times the number of running time-outs is 5 * 5 = 25.",
+    "1 less than 25 is 24.",
+    "So, Marcy gives 24 time-outs for throwing food.",
+    "Next, I need to calculate the number of time-outs given for swearing.",
+    "The number of time-outs for swearing is 1/3 the number of food-throwing time-outs.",
+    "1/3 of 24 is 24 / 3 = 8.",
+    "Marcy gives 8 time-outs for swearing.",
+    "Now, I'll calculate the total number of time-outs given by summing the individual time-out categories.",
+    "Total time-outs = time-outs for running + time-outs for throwing food + time-outs for swearing.",
+    "Total time-outs = 5 + 24 + 8.",
+    "5 + 24 = 29.",
+    "29 + 8 = 37.",
+    "The total number of time-outs is 37.",
+    "Each time-out is 5 minutes long.",
+    "The total time spent in time-out is 37 time-outs * 5 minutes per time-out.",
+    "37 * 5 = 185."
+  ],
+  "solution": "185"
+}

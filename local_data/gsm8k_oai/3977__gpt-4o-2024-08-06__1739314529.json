@@ -1,0 +1,16 @@
+{
+  "query": "Jane is sewing sequins onto her trapeze artist costume. She sews 6 rows of 8 blue sequins each, 5 rows of 12 purple sequins each, and 9 rows of 6 green sequins each. How many sequins does she add total?",
+  "steps": [
+    "Identify the task. Jane is sewing sequins in different quantities and colors, and I need to find the total number of sequins she adds.",
+    "First, calculate the number of blue sequins. There are 6 rows of 8 blue sequins each.",
+    "Multiply 6 rows by 8 sequins per row: 6 * 8 = 48 blue sequins.",
+    "Next, calculate the number of purple sequins. There are 5 rows of 12 purple sequins each.",
+    "Multiply 5 rows by 12 sequins per row: 5 * 12 = 60 purple sequins.",
+    "Now, calculate the number of green sequins. There are 9 rows of 6 green sequins each.",
+    "Multiply 9 rows by 6 sequins per row: 9 * 6 = 54 green sequins.",
+    "Add the number of blue, purple, and green sequins to find the total.",
+    "Total sequins = 48 (blue) + 60 (purple) + 54 (green).",
+    "Perform the addition: 48 + 60 + 54 = 162."
+  ],
+  "solution": "162"
+}

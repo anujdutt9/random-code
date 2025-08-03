@@ -1,0 +1,16 @@
+{
+  "query": "The central Texas countryside contains many toads that come out at night.  For every green toad, there are 25 brown toads, and one-quarter of the brown toads are spotted.  If there are 50 spotted brown toads per acre, how many green toads are there per acre?",
+  "steps": [
+    "I am given that for every green toad, there are 25 brown toads.",
+    "I am also given that one-quarter of the brown toads are spotted. This means out of every 25 brown toads, \\((1/4) \\times 25 = 6.25\\) brown toads are spotted.",
+    "This can't be a decimal in the real situation, so let's reconsider: If for every green toad there are 25 brown toads, then if there is a whole number of green toads, there must be a whole number of brown toads, and consequently, there must be a whole number of spotted brown toads.",
+    "Instead of thinking in decimals, if there are 25 brown toads per green toad, then 1 out of 4 brown toads is spotted, so \\(\\frac{25}{4} = 6.25\\), a fraction causes the same logic conundrum; we can't work with decimals when counting individual discrete items (like toads).",
+    "Alternatively, we can scale up to larger numbers which allow for logical consistency. So if there are 100 brown toads per acre, then \\(\\frac{1}{4}\\) of 100 is 25 spotted brown toads.",
+    "But the problem states there are actually 50 spotted brown toads per acre, so using the proportion of spotted to non-spotted, let's resolve this.",
+    "If 50 spotted brown toads correspond to how many brown toads total? If 1 out of every 4 brown toads are spotted, then the total number of brown toads = 4 \\(\\times\\) spotted brown toads = 4 \\(\\times\\) 50 = 200 brown toads.",
+    "I'm now working with the correct scale to find the relationship between green and total brown toads.",
+    "Since the problem states that for every green toad, there are 25 brown toads, I use the number of brown toads to compute:",
+    "Given 200 brown toads per acre, this implies there are \\(\\frac{200}{25} = 8\\) green toads per acre."
+  ],
+  "solution": "8"
+}

@@ -1,0 +1,24 @@
+{
+  "query": "Nurse Missy is attending to the needs of 12 patients in her hospital ward.  Most of her patients require standard care, but one-third of her patients have special dietary requirements, which increases the serving time by 20%.  At dinner time, she brings each patient their meal. It takes 5 minutes to serve each standard care patient.  How long does it take, in minutes, for Missy to serve dinner to all of her patients?",
+  "steps": [
+    "First, I need to figure out how many patients have special dietary requirements.",
+    "One-third of 12 patients have special dietary requirements.",
+    "Calculating one-third of 12: 12 / 3 = 4 patients with special dietary needs.",
+    "This means that 4 patients have special dietary requirements.",
+    "Now, I need to calculate how many patients receive standard care.",
+    "Missy has 12 total patients, and 4 have special dietary requirements.",
+    "So, the number of standard care patients is 12 - 4 = 8 patients.",
+    "Next, I'll calculate the serving time for standard care patients.",
+    "It takes 5 minutes to serve each standard care patient.",
+    "For 8 standard care patients, the total serving time is 8 x 5 = 40 minutes.",
+    "Now, I'll consider the time needed for the special dietary requirement patients.",
+    "For patients with special dietary needs, the serving time is increased by 20%.",
+    "The standard serving time is 5 minutes.",
+    "An increase of 20% on 5 minutes means additional time of 5 x 0.20 = 1 minute.",
+    "The total serving time per special dietary requirement patient is 5 + 1 = 6 minutes.",
+    "Calculating the total serving time for 4 special dietary requirement patients: 4 x 6 = 24 minutes.",
+    "Now I'll find the total time Missy spends serving all patients.",
+    "Adding the time for standard care and special requirements: 40 + 24 = 64 minutes."
+  ],
+  "solution": "64"
+}

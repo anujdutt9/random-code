@@ -1,0 +1,17 @@
+{
+  "query": "Jane sews 2 dresses a day for 7 days. Then she sews 3 dresses a day for the next 2 days. In the end, she adds 2 ribbons to each dress. How many ribbons does Jane use in total?",
+  "steps": [
+    "Jane sews 2 dresses a day for 7 days.",
+    "To find out the total number of dresses sewn in the first 7 days, I need to multiply 2 dresses per day by 7 days.",
+    "2 dresses/day * 7 days = 14 dresses",
+    "Next, Jane sews 3 dresses a day for the next 2 days.",
+    "To find out the total number of dresses sewn in these 2 days, I multiply 3 dresses per day by 2 days.",
+    "3 dresses/day * 2 days = 6 dresses",
+    "Now, I need to add the dresses sewn in the first 7 days and the next 2 days to get the total number of dresses.",
+    "14 dresses + 6 dresses = 20 dresses",
+    "Jane adds 2 ribbons to each dress.",
+    "To find out the total number of ribbons used, I multiply the total number of dresses by 2 ribbons per dress.",
+    "20 dresses * 2 ribbons/dress = 40 ribbons"
+  ],
+  "solution": "40"
+}

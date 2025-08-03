@@ -1,0 +1,20 @@
+{
+  "query": "Sara and Joe have a combined height of 120 inches. Joe is 6 inches more than double Sara's height. How tall is Joe?",
+  "steps": [
+    "Let's denote Sara's height as S inches.",
+    "Joe is 6 inches more than double Sara's height. So, Joe's height is 2S + 6 inches.",
+    "According to the problem, Sara's height plus Joe's height equals 120 inches.",
+    "Let's set up the equation: S + (2S + 6) = 120.",
+    "Simplify the equation: S + 2S + 6 = 120.",
+    "Combine like terms: 3S + 6 = 120.",
+    "To solve for S, subtract 6 from both sides: 3S = 114.",
+    "Divide both sides by 3 to solve for S: S = 38.",
+    "Now that we know Sara's height (S), let's find Joe's height.",
+    "Joe's height is 2S + 6.",
+    "Substitute S with 38 in the expression for Joe's height: 2(38) + 6.",
+    "Calculate 2 times 38: 76.",
+    "Now add 6 to 76: 76 + 6 = 82.",
+    "Joe's height is 82 inches."
+  ],
+  "solution": "82"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Josh and Anna were both born on August 17th, but in different years. To consolidate celebrations they also got married on August 17 when Josh turned 22. If today they're celebrating 30 years of marriage and their combined age is exactly 5 times what Josh's age was when they married, how old was Anna when they got married?",
+  "steps": [
+    "I know that Josh got married at the age of 22.",
+    "They have been married for 30 years.",
+    "Therefore, Josh's current age is 22 + 30 = 52 years old.",
+    "Their combined age today is 5 times what Josh's age was when they married.",
+    "Josh's age when they got married was 22.",
+    "Thus, their combined age today is 22 * 5 = 110 years.",
+    "With Josh currently being 52 years old, Anna's age today can be calculated as total combined age minus Josh's age: 110 - 52 = 58 years.",
+    "Anna's current age is 58 years.",
+    "To find out Anna's age when they got married, subtract the number of years they've been married from her current age: 58 - 30 = 28."
+  ],
+  "solution": "28"
+}

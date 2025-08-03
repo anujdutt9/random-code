@@ -1,0 +1,15 @@
+{
+  "query": "Jo reads at a steady pace. Her current book has 210 pages. Now, she is at page 90. An hour ago, she was at page 60. For how many hours will she be reading the book?",
+  "steps": [
+    "Jo is currently at page 90.",
+    "An hour ago, Jo was at page 60.",
+    "Jo read from page 60 to page 90 in one hour.",
+    "This means Jo reads 90 - 60 = 30 pages in one hour.",
+    "Jo's book has a total of 210 pages.",
+    "Jo is currently at page 90, so she has 210 - 90 = 120 pages left to read.",
+    "Jo's reading rate is 30 pages per hour.",
+    "To calculate the time she will take to read the remaining pages, divide the number of pages left by her reading rate.",
+    "120 pages left \u00f7 30 pages per hour = 4 hours."
+  ],
+  "solution": "4"
+}

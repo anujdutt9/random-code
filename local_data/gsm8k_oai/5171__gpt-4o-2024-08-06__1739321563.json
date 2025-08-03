@@ -1,0 +1,15 @@
+{
+  "query": "Abby is building 2 raised beds to grow vegetables.  The beds are both 8 feet long, 4 feet wide and 1 foot high.  Each bag of soil has 4 cubic feet.  How many bags of soil will she need?",
+  "steps": [
+    "First, I need to find the volume of one raised bed.",
+    "The formula for the volume of a rectangular prism is length \u00d7 width \u00d7 height.",
+    "The length of one raised bed is 8 feet, the width is 4 feet, and the height is 1 foot.",
+    "Multiplying these together gives me the volume of one raised bed: 8 \u00d7 4 \u00d7 1 = 32 cubic feet.",
+    "Now I need to find the total volume for both raised beds.",
+    "Since the volume of one raised bed is 32 cubic feet, for two raised beds, it's 32 cubic feet \u00d7 2 = 64 cubic feet.",
+    "Each bag of soil has 4 cubic feet, and I need a total of 64 cubic feet.",
+    "To find the number of bags needed, divide the total cubic feet by the volume of each bag: 64 cubic feet \u00f7 4 cubic feet/bag.",
+    "That calculation gives me 64 \u00f7 4 = 16 bags."
+  ],
+  "solution": "16"
+}

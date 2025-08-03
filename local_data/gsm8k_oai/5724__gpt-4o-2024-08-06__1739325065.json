@@ -1,0 +1,20 @@
+{
+  "query": "Jason has to drive home which is 120 miles away. If he drives at 60 miles per hour for 30 minutes, what speed does he have to average for the remainder of the drive to get there in exactly 1 hour 30 minutes?",
+  "steps": [
+    "Jason's total driving time to get home is 1 hour and 30 minutes.",
+    "1 hour and 30 minutes is the same as 1.5 hours.",
+    "He has already driven for 30 minutes, which is 0.5 hours.",
+    "This means he has 1.5 hours - 0.5 hours left to drive, which is 1.0 hour remaining.",
+    "During the first 30 minutes, Jason drives at 60 miles per hour.",
+    "To find out how far Jason has traveled in these 30 minutes, calculate: distance = speed \u00d7 time.",
+    "60 miles per hour \u00d7 0.5 hours = 30 miles.",
+    "This means Jason has already covered 30 miles.",
+    "The total distance to his home is 120 miles.",
+    "Therefore, the remaining distance to drive is 120 miles - 30 miles = 90 miles.",
+    "Jason needs to average a speed that will cover these 90 miles in 1 hour.",
+    "To find the necessary average speed, use the formula: speed = distance \u00f7 time.",
+    "The required average speed = 90 miles \u00f7 1 hour.",
+    "So the speed Jason needs to average for the remainder of the drive is 90 miles per hour."
+  ],
+  "solution": "90"
+}

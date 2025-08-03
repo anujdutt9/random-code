@@ -1,0 +1,20 @@
+{
+  "query": "Jane brings 75% as many pieces of bread as treats to feed the live pets at the zoo. Wanda brings half as many treats as Jane and three times as many pieces of bread as treats. If Wanda brings 90 pieces of bread, what is the total number of pieces of bread and treats that Wanda and Jane brought to the zoo?",
+  "steps": [
+    "Let's define the number of treats Jane brings as \\( J_T \\).",
+    "Jane brings 75% as many pieces of bread as treats, so the number of pieces of bread she brings is \\( 0.75 \\times J_T \\).",
+    "Wanda brings 90 pieces of bread.",
+    "Wanda brings three times as many pieces of bread as treats. Let's denote the number of treats Wanda brings as \\( W_T \\).",
+    "According to the problem, Wanda's pieces of bread (90) equals three times the number of treats she brings, so \\( 3 \\times W_T = 90 \\).",
+    "Solving for \\( W_T \\), we have \\( W_T = \\frac{90}{3} = 30 \\).",
+    "Wanda brings half as many treats as Jane, so \\( W_T = \\frac{1}{2} \\times J_T \\).",
+    "We know \\( W_T = 30 \\), and it is half the number of treats Jane brings. So, \\( J_T = 2 \\times 30 = 60 \\).",
+    "Substituting back, the number of pieces of bread Jane brings is \\( 0.75 \\times 60 = 45 \\).",
+    "Now let's calculate the total number of pieces of bread brought by both; Wanda brings 90 and Jane brings 45.",
+    "Total pieces of bread brought by Wanda and Jane are \\( 90 + 45 = 135 \\).",
+    "Let's calculate the total number of treats brought by both; Wanda brings 30 and Jane brings 60.",
+    "Total treats brought by Wanda and Jane are \\( 30 + 60 = 90 \\).",
+    "The total number of pieces of bread and treats that Wanda and Jane brought is \\( 135 + 90 = 225 \\)."
+  ],
+  "solution": "225"
+}

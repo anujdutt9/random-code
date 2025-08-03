@@ -1,0 +1,14 @@
+{
+  "query": "Jake earns thrice what Jacob does. If Jacob earns $6 per hour, how much does Jake earn in 5 days working 8 hours a day?",
+  "steps": [
+    "First, I need to determine how much Jacob earns per day. Jacob works 8 hours a day, earning $6 per hour.",
+    "Jacob earns 8 hours/day * $6/hour = $48 per day.",
+    "Next, I need to find out how much Jake earns per hour since he earns thrice what Jacob does.",
+    "If Jacob earns $6 per hour, then Jake earns 3 times $6, so Jake earns $6/hour * 3 = $18 per hour.",
+    "Now, I need to calculate how much Jake earns per day.",
+    "Jake works the same amount, which is 8 hours a day, so he earns 8 hours/day * $18/hour = $144 per day.",
+    "Finally, to find out how much Jake earns in 5 days, I multiply his daily earnings by the number of days.",
+    "Jake earns $144/day * 5 days = $720 in 5 days."
+  ],
+  "solution": "720"
+}

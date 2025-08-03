@@ -1,0 +1,14 @@
+{
+  "query": "How many shirts should Shenny pack for her next vacation if she's planning to use the same shirt when departing on Monday and returning on Sunday and two different shirts each other day?",
+  "steps": [
+    "First, I need to count the total number of days Shenny will be on vacation.",
+    "She is departing on Monday and returning on Sunday, so that's a total of 7 days.",
+    "On Monday, she will use the same shirt both for departing and returning on Sunday, which counts as 1 shirt.",
+    "For the other days (Tuesday to Saturday), she will use two different shirts each day.",
+    "There are 5 days from Tuesday to Saturday.",
+    "If she uses 2 different shirts each day for these 5 days, she will need 2 x 5 = 10 shirts.",
+    "Now I need to add the shirt she uses on both Monday and Sunday to the shirts needed for the other days.",
+    "1 shirt (for Monday and Sunday) + 10 shirts (for Tuesday to Saturday) = 11 shirts in total."
+  ],
+  "solution": "11"
+}

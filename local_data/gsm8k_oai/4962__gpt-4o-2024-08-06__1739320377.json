@@ -1,0 +1,13 @@
+{
+  "query": "Kendra wants enough shirts that she only has to do laundry once every two weeks. She wears one shirt to school for each of the five weekdays. Three days a week, she changes into a different shirt for an after-school club. On Saturday, she wears one shirt all day. On Sunday, she wears a different shirt to church than she does for the rest of the day. How many shirts does she need to be able to only do laundry once every two weeks?",
+  "steps": [
+    "Kendra wears one shirt to school every weekday, so that\u2019s 5 shirts.",
+    "On three of these weekdays, she changes into a different shirt for an after-school club, adding 3 more shirts.",
+    "On Saturday, she wears one shirt all day, which adds 1 more shirt.",
+    "On Sunday, she wears a different shirt to church in the morning, and changes into another shirt for the rest of the day, adding 2 more shirts.",
+    "For one week, she needs 5 (school) + 3 (club) + 1 (Saturday) + 2 (Sunday) = 11 shirts.",
+    "Since she wants to do laundry once every two weeks, she needs 2 times the number of shirts she needs in one week.",
+    "2 weeks\u2019 worth of shirts is 11 shirts per week times 2 weeks = 22 shirts."
+  ],
+  "solution": "22"
+}

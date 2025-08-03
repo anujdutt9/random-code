@@ -1,0 +1,19 @@
+{
+  "query": "In a compound, the number of cats is 20% less than the number of dogs. There are also twice as many frogs as the number of dogs in the compound. Calculate the total number of animals present in the compound if there are 160 frogs.",
+  "steps": [
+    "Let the number of dogs in the compound be represented by D.",
+    "According to the problem, there are twice as many frogs as dogs.",
+    "If there are 160 frogs, then the equation for frogs is 2D = 160.",
+    "Solving for D, we divide both sides by 2 to find the number of dogs: D = 160 / 2.",
+    "D = 80, so there are 80 dogs in the compound.",
+    "The number of cats is 20% less than the number of dogs.",
+    "20% of 80 dogs is 0.2 * 80 = 16.",
+    "The number of cats is 80 - 16 = 64.",
+    "Now I calculate the total number of animals: dogs + cats + frogs.",
+    "There are 80 dogs, 64 cats, and 160 frogs.",
+    "The total number of animals is 80 + 64 + 160.",
+    "80 + 64 = 144.",
+    "144 + 160 = 304."
+  ],
+  "solution": "304"
+}

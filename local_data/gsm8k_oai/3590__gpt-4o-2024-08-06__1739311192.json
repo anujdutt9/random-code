@@ -1,0 +1,15 @@
+{
+  "query": "Hallie borrows a book from the library. She reads the entire book in four days. She read 63 pages the first day. On the second day, she read twice the number of pages that she'd read on day one. On the third day, she read 10 mores pages than she read on day two. If the book is 354 pages long, how many pages did she read on the fourth day?",
+  "steps": [
+    "Start by understanding how many pages Hallie read on each day given in the problem.",
+    "On the first day, Hallie read 63 pages.",
+    "On the second day, Hallie read twice the pages she read on the first day.",
+    "Calculate the number of pages read on the second day: 2 * 63 = 126 pages.",
+    "On the third day, Hallie read 10 more pages than on the second day.",
+    "Calculate the number of pages read on the third day: 126 + 10 = 136 pages.",
+    "Add up the total number of pages Hallie read in the first three days: 63 (first day) + 126 (second day) + 136 (third day) = 325 pages.",
+    "The book is 354 pages long.",
+    "Calculate how many pages she read on the fourth day: 354 (total pages) - 325 (pages already read) = 29 pages."
+  ],
+  "solution": "29"
+}

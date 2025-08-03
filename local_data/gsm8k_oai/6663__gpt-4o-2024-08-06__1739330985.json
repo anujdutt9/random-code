@@ -1,0 +1,15 @@
+{
+  "query": "Wild Bill can shoot a pistol while riding his horse at full speed.  His horse runs at 20 feet per second, and a bullet fired from his gun flies at a speed of 400 feet per second.  But if he fires a gun while riding his horse, and the gun is aimed in the same direction that the horse is running, how much faster, in feet per second, is the bullet flying than if he fires the bullet in the opposite direction of what the horse was running?",
+  "steps": [
+    "First, I need to consider the speed of the bullet when fired in the same direction as the horse is running.",
+    "The speed of the horse is 20 feet per second.",
+    "The speed of the bullet relative to the ground when fired in the same direction as the horse is the speed of the bullet plus the speed of the horse.",
+    "Thus, the bullet's speed in the same direction as the horse is 400 feet per second + 20 feet per second = 420 feet per second.",
+    "Next, I need to consider the speed of the bullet when fired in the opposite direction of the horse.",
+    "If the bullet is fired in the opposite direction, its speed relative to the ground is the speed of the bullet minus the speed of the horse.",
+    "Therefore, the bullet's speed in the opposite direction is 400 feet per second - 20 feet per second = 380 feet per second.",
+    "Now, to find out how much faster the bullet is when fired in the same direction compared to when fired in the opposite direction, I need to subtract the speed of the bullet in the opposite direction from the speed when fired in the same direction.",
+    "So, 420 feet per second (same direction) - 380 feet per second (opposite direction) = 40 feet per second."
+  ],
+  "solution": "40"
+}

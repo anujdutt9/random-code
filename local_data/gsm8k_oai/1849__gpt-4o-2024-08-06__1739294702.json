@@ -1,0 +1,15 @@
+{
+  "query": "Jennifer wants to go to a museum. There is one 5 miles away from her home and one 15 miles away. If Jennifer goes to both museums on two separate days, how many miles total will she travel?",
+  "steps": [
+    "I need to calculate the total distance Jennifer will travel if she goes to both museums on different days.",
+    "First, I'll consider the distance to the museum that is 5 miles away.",
+    "If Jennifer travels to the 5-mile-away museum and returns home, she travels 5 miles each way.",
+    "The round trip to the first museum is 5 miles + 5 miles = 10 miles.",
+    "Next, I'll consider the distance to the museum that is 15 miles away.",
+    "If Jennifer travels to the 15-mile-away museum and returns home, she travels 15 miles each way.",
+    "The round trip to the second museum is 15 miles + 15 miles = 30 miles.",
+    "Now, I need to add the round trips for both museums to find the total distance traveled.",
+    "The total distance is 10 miles (first museum) + 30 miles (second museum) = 40 miles."
+  ],
+  "solution": "40"
+}

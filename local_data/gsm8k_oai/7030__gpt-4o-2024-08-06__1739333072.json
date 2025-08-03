@@ -1,0 +1,21 @@
+{
+  "query": "Sally was at a self-serve candy shop where you scoop candy from the bins and pay based on the weight. She scoops 32 cherry sours into a bag. Then she gets a scoop of lemon sours, and the ratio of cherry sours to lemon sours is 4:5. Then she gets a scoop of orange sours, and they make up 25% of the sours in the bag. How many sours does she have in total?",
+  "steps": [
+    "Sally initially scoops 32 cherry sours into the bag.",
+    "The ratio of cherry sours to lemon sours is 4:5.",
+    "To find the number of lemon sours, I set up the proportion 4/5 = 32/x, where x is the number of lemon sours.",
+    "Solving the proportion 4/5 = 32/x, I multiply both sides by x to get 4x = 160.",
+    "Next, I divide 160 by 4 to find x. So x = 40.",
+    "Sally has 40 lemon sours in the bag.",
+    "She then scoops some orange sours, and they make up 25% of the total sours in the bag.",
+    "Let the total number of sours be T.",
+    "Since orange sours are 25% of the total, the relationship is orange sours = 0.25T.",
+    "The total number of sours is the sum of the cherry, lemon, and orange sours.\n \nCherry sours = 32\nLemon sours = 40\nOrange sours = 0.25T\nTotal sours = 32 + 40 + 0.25T",
+    "This can be written as the equation: T = 32 + 40 + 0.25T.",
+    "Simplifying the equation: T - 0.25T = 72.",
+    "This is equivalent to 0.75T = 72.",
+    "Divide both sides by 0.75 to solve for T. T = 72 / 0.75.",
+    "Calculating 72 / 0.75 gives T = 96."
+  ],
+  "solution": "96"
+}

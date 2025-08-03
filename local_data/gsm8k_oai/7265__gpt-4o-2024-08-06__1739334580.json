@@ -1,0 +1,15 @@
+{
+  "query": "A bar of chocolate is made up of 60 pieces. If Michael takes half of the bar, Paige takes half of the remainder, and Mandy is left with what\u2019s left of the chocolate bar, how many pieces of chocolate will Mandy get?",
+  "steps": [
+    "The total number of pieces in the chocolate bar is 60.",
+    "Michael takes half of the bar, so he takes 60 / 2 pieces.",
+    "60 / 2 = 30, so Michael takes 30 pieces.",
+    "After Michael takes his share, there are 60 - 30 pieces left.",
+    "60 - 30 = 30, so there are 30 pieces remaining.",
+    "Paige takes half of the remaining 30 pieces.",
+    "30 / 2 = 15, so Paige takes 15 pieces.",
+    "After Paige takes her share, there are 30 - 15 pieces left.",
+    "30 - 15 = 15, so there are 15 pieces remaining for Mandy."
+  ],
+  "solution": "15"
+}

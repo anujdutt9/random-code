@@ -1,0 +1,16 @@
+{
+  "query": "A company has 100 employees. 60% of the employees drive to work. Of the employees who don't drive to work, half take public transportation.  How many employees use public transportation to get to work?",
+  "steps": [
+    "There are 100 employees in total at the company.",
+    "60% of the employees drive to work.",
+    "To find out how many employees drive to work, calculate 60% of 100.",
+    "60% of 100 is calculated as (60/100) * 100 = 60.",
+    "So, 60 employees drive to work.",
+    "To find out how many employees do not drive to work, subtract the number of employees who drive from the total number of employees.",
+    "100 - 60 = 40 employees do not drive to work.",
+    "According to the problem, half of the employees who do not drive take public transportation.",
+    "Calculate half of 40 to find out how many take public transportation.",
+    "Half of 40 is 40 / 2 = 20."
+  ],
+  "solution": "20"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "There are 40 more buyers in the grocery store today than yesterday. There were half the number of buyers yesterday as there were the day before, and the day before had 50 buyers. Nobody visited the store on more than one day. What's the total number of buyers who've visited the store in the three days?",
+  "steps": [
+    "Let's begin by identifying the number of buyers on the day before yesterday. The problem states that there were 50 buyers that day.",
+    "Next, we need to find out how many buyers visited the store yesterday. The problem says there were half the number of buyers yesterday as there were the day before yesterday.",
+    "Since there were 50 buyers the day before yesterday, yesterday should have had half of those, which is \\( \\frac{50}{2} = 25 \\) buyers.",
+    "Now, let's determine the number of buyers in the store today. The problem states there are 40 more buyers today than there were yesterday.",
+    "Since there were 25 buyers yesterday, today there should be \\( 25 + 40 = 65 \\) buyers.",
+    "Finally, we sum up the buyers from all three days to find the total number of buyers.",
+    "There were 50 buyers the day before yesterday, 25 buyers yesterday, and 65 buyers today.",
+    "Add them together to get the total: \\( 50 + 25 + 65 = 140 \\)."
+  ],
+  "solution": "140"
+}

@@ -1,0 +1,21 @@
+{
+  "query": "Five people are planning a party. Sonja will buy a loaf of French bread ($3 a loaf) and a platter of cold cuts ($23). Barbara will buy the soda ($1 per person) and two boxes of crackers ($2 per box). Mario and Rick will split the cost of two packages of Cheese Doodles ($3 per package). Danica will supply a package of paper plates for $4. How much more will Sonja spend than the rest of the office put together?",
+  "steps": [
+    "First, I need to calculate how much Sonja will spend. She buys a loaf of French bread for $3 and a platter of cold cuts for $23.",
+    "Sonja's total spending is $3 + $23 = $26.",
+    "Next, I should calculate how much Barbara will spend. She buys soda for everyone and two boxes of crackers.",
+    "Since there are five people, Barbara will spend $1 per person on soda, so $1 * 5 = $5.",
+    "Barbara also buys two boxes of crackers at $2 per box, which will be $2 * 2 = $4.",
+    "Barbara's total spending is $5 + $4 = $9.",
+    "Now, I need to calculate how much Mario and Rick collectively spend. They are splitting the cost of two packages of Cheese Doodles.",
+    "Each package of Cheese Doodles costs $3, and they buy two packages, so that's $3 * 2 = $6.",
+    "Mario and Rick's total spending is $6.",
+    "Next, I calculate how much Danica will spend. She buys a package of paper plates for $4.",
+    "Danica's total spending is $4.",
+    "Now, I determine the total spending of the rest of the office together (Barbara, Mario, Rick, and Danica).",
+    "Adding up all their spending: $9 (Barbara) + $6 (Mario and Rick) + $4 (Danica) = $19.",
+    "Finally, I find the difference between what Sonja spends and what the rest of the office spends together.",
+    "The difference is $26 (Sonja) - $19 (rest of the office) = $7."
+  ],
+  "solution": "7"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "At the polar bear club, Jerry and his three friends, Elaine, George, and Kramer, took turns jumping into a swimming pool filled with freezing-cold water.  Jerry was in the pool for 3 minutes before becoming too cold to remain in the cold water.  Elaine stayed in the pool for twice as long as Jerry.  George could only stay in the pool for one-third as long as Elaine.  And Kramer, who accidentally locked himself in the bathroom, could not find the pool.  What is the combined total of minutes that Jerry and his friends were in the cold water?",
+  "steps": [
+    "I start by determining how long Elaine was in the pool.",
+    "Elaine stayed in for twice as long as Jerry, who was in for 3 minutes.",
+    "So, Elaine was in the pool for 2 * 3 = 6 minutes.",
+    "Next, I calculate how long George was in the pool.",
+    "George stayed in for one-third the time that Elaine did.",
+    "So, George was in the pool for 6 / 3 = 2 minutes.",
+    "Kramer did not find the pool, so he was in the pool for 0 minutes.",
+    "I now add up the times each of them spent in the pool.",
+    "Jerry was in the pool for 3 minutes, Elaine for 6 minutes, George for 2 minutes, and Kramer for 0 minutes.",
+    "The combined total of minutes is 3 + 6 + 2 + 0 = 11 minutes."
+  ],
+  "solution": "11"
+}

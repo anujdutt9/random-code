@@ -1,0 +1,14 @@
+{
+  "query": "There are 192 soaps in a package. They put them in 2 big boxes. If each box contains 6 packages, how much soap do the 2 boxes contain in total?",
+  "steps": [
+    "First, I need to determine how many packages are in one box. The problem states each box contains 6 packages.",
+    "Now, I know there are 6 packages in one box.",
+    "To find out how many soaps are in one box, I need to multiply the number of soaps in one package by the number of packages in a box.",
+    "According to the problem, each package contains 192 soaps.",
+    "So, I will calculate the number of soaps in one box: 192 soaps/package * 6 packages/box = 1152 soaps/box.",
+    "Now I need to find the total number of soaps in the two boxes.",
+    "There are 1152 soaps in one box and there are 2 boxes.",
+    "So, I will multiply the number of soaps in one box by the number of boxes: 1152 soaps/box * 2 boxes = 2304 soaps."
+  ],
+  "solution": "2304"
+}

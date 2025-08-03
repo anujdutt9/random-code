@@ -1,0 +1,16 @@
+{
+  "query": "A small pizza has 6 slices, a medium pizza has 8 slices whereas a large pizza has 12 slices. How many slices of pizza will you have if you bought a total of 15 pizzas and you know you ordered 4 small pizzas and 5 medium pizzas?",
+  "steps": [
+    "First, I need to determine how many large pizzas were ordered. I ordered a total of 15 pizzas, and I know 4 of them were small and 5 of them were medium.",
+    "I subtract the number of small and medium pizzas from the total number of pizzas: 15 - 4 - 5 = 6 large pizzas.",
+    "Next, I calculate how many slices come from the small pizzas. Each small pizza has 6 slices, and I have 4 small pizzas.",
+    "Multiply the number of small pizzas by the number of slices per small pizza: 4 * 6 = 24 slices from small pizzas.",
+    "Now, I calculate how many slices come from the medium pizzas. Each medium pizza has 8 slices, and I have 5 medium pizzas.",
+    "Multiply the number of medium pizzas by the number of slices per medium pizza: 5 * 8 = 40 slices from medium pizzas.",
+    "Now, I calculate how many slices come from the large pizzas. Each large pizza has 12 slices, and I have 6 large pizzas.",
+    "Multiply the number of large pizzas by the number of slices per large pizza: 6 * 12 = 72 slices from large pizzas.",
+    "Finally, I add the slices from all three sizes of pizzas together: 24 (small) + 40 (medium) + 72 (large).",
+    "Calculate the total number of slices: 24 + 40 + 72 = 136 slices."
+  ],
+  "solution": "136"
+}

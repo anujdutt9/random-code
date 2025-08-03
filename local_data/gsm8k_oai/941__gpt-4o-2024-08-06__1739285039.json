@@ -1,0 +1,13 @@
+{
+  "query": "Jean has 3 grandchildren.  She buys each grandkid 2 cards a year and puts $80 in each card.  How much does she give away to grandchildren a year?",
+  "steps": [
+    "Jean has 3 grandchildren.",
+    "She buys each grandchild 2 cards a year.",
+    "Each card has $80 in it.",
+    "To find out how much money she gives each grandchild per year, I need to multiply the number of cards each grandchild receives by the amount of money in each card.",
+    "Each grandchild receives 2 cards, with $80 in each card, so each grandchild receives 2 * $80 = $160 per year.",
+    "Since there are 3 grandchildren, Jean gives away $160 to each grandchild.",
+    "Now, multiply the amount per grandchild by the number of grandchildren: $160 * 3 = $480."
+  ],
+  "solution": "480"
+}

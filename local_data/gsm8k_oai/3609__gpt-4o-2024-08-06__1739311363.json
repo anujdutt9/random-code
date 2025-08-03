@@ -1,0 +1,14 @@
+{
+  "query": "A school bus has 4 columns and 10 rows of seats. If the school has 6 buses, how many students can the buses accommodate?",
+  "steps": [
+    "First, I need to calculate how many seats are on one bus.",
+    "Each bus has 4 columns of seats and 10 rows.",
+    "To find the total number of seats on one bus, I multiply the number of columns by the number of rows: 4 columns * 10 rows.",
+    "Calculating 4 * 10 gives me 40 seats per bus.",
+    "Next, I need to find the total number of seats for all the buses combined.",
+    "There are 6 buses.",
+    "To find the total capacity, I multiply the number of seats per bus by the number of buses: 40 seats/bus * 6 buses.",
+    "Calculating 40 * 6 gives me 240 seats for all the buses."
+  ],
+  "solution": "240"
+}

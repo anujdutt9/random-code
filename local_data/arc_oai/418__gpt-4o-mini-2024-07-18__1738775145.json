@@ -1,0 +1,12 @@
+{
+  "query": "Question: Red is dominant to white for flower color in a particular plant. If a red flowered plant (RR) is crossed with a white flowered plant (rr), what color will the offspring be?\n\nChoices:\nA: 100% pink\nB: 100% red\nC: 50% white, 50% red\nD: 100% white",
+  "steps": [
+    "In this genetic cross, we are dealing with a dominant-recessive relationship where red (R) is dominant to white (r).",
+    "The red flowered plant has the genotype RR, meaning it carries two dominant alleles for red color.",
+    "The white flowered plant has the genotype rr, meaning it carries two recessive alleles for white color.",
+    "When we perform the cross RR (red) x rr (white), we can use a Punnett square to visualize the possible combinations of alleles in the offspring.",
+    "The offspring will inherit one allele from each parent. The red flowered plant contributes R alleles and the white flowered plant contributes r alleles.",
+    "Therefore, all offspring will have the genotype Rr, resulting in a phenotype of red flowers since R is dominant over r."
+  ],
+  "solution": "B"
+}

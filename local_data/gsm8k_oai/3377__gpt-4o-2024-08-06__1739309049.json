@@ -1,0 +1,16 @@
+{
+  "query": "Kyle goes to basketball practice every day for 2 hours. At practice he spends half of the time shooting and the rest of the time running and weight lifting. If he runs for twice the time he spends weightlifting, how much time in minutes does he spend lifting weight?",
+  "steps": [
+    "Kyle goes to basketball practice for 2 hours every day.",
+    "2 hours is equal to 2 * 60 = 120 minutes.",
+    "He spends half of this time shooting. So, time spent shooting = 120 / 2 = 60 minutes.",
+    "The remaining 60 minutes are spent running and weightlifting.",
+    "Let x be the time he spends weightlifting.",
+    "He spends twice as much time running as weightlifting, so running time = 2x.",
+    "The total time for running and weightlifting is 60 minutes, so we can write the equation: x + 2x = 60.",
+    "Combine like terms: 3x = 60.",
+    "Solve for x by dividing both sides by 3: x = 60 / 3.",
+    "x = 20."
+  ],
+  "solution": "20"
+}

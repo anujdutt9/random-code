@@ -1,0 +1,13 @@
+{
+  "query": "Alice wants 1000 folded paper cranes. She folds half by herself, and a friend folds a fifth of the remaining paper cranes for her. How many paper cranes does Alice still need to fold?",
+  "steps": [
+    "Alice wants 1000 folded paper cranes in total.",
+    "She folds half of the cranes by herself.",
+    "Half of 1000 is 1000 / 2 = 500. So, Alice folds 500 cranes.",
+    "The remaining number of cranes to be folded is 1000 - 500 = 500.",
+    "A friend folds a fifth of the remaining cranes for her.",
+    "A fifth of 500 is 500 / 5 = 100. So, the friend folds 100 cranes.",
+    "Now, the number of cranes left to be folded is 500 - 100 = 400."
+  ],
+  "solution": "400"
+}

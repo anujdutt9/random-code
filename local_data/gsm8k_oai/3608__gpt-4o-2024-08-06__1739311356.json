@@ -1,0 +1,16 @@
+{
+  "query": "A caf\u00e9 has a few orders to cook and also needs to makes sandwiches for a group of customers that arrived. 3 local offices have each ordered 10 bacon sandwiches and half of the group that has arrived have asked for 4 bacon sandwiches each. If the caf\u00e9 makes a total of 54 bacon sandwiches, how many customers are in the group of customers that arrived?",
+  "steps": [
+    "First, I need to find out how many bacon sandwiches have been ordered by the 3 local offices.",
+    "Each office ordered 10 bacon sandwiches. Therefore, 3 offices ordering 10 each amounts to 3 * 10 = 30 bacon sandwiches.",
+    "Next, I will calculate how many bacon sandwiches are needed for the group of customers that arrived.",
+    "The total number of bacon sandwiches made by the caf\u00e9 is 54. Out of these, 30 sandwiches were ordered by the 3 offices.",
+    "I will subtract the sandwiches ordered by the offices from the total sandwiches to find how many were made for the group.\n54 - 30 = 24 sandwiches were made for the group.",
+    "Half of the group asks for 4 bacon sandwiches each. Let x be the total number of customers in the group.",
+    "If half the group (x/2) asks for 4 sandwiches each, then the total sandwiches for them would be (x/2)*4 sandwiches.",
+    "Equating the sandwiches ordered by the group to their consumption, we have:\n(x/2) * 4 = 24.",
+    "To solve for x, simplify the equation: \n2x = 24.",
+    "Now, solve for x: \nx = 24 / 2 = 12 customers."
+  ],
+  "solution": "12"
+}

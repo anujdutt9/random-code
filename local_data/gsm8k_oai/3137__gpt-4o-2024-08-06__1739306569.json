@@ -1,0 +1,12 @@
+{
+  "query": "The math teacher would be happy if the class average test score was at least 85. There are 10 students in the class, 5 of which scored a 92 on the test and 4 of which scored an 80. What would the last student have to score to at least make the teacher happy?",
+  "steps": [
+    "First, I need to calculate the current total score for the 9 students.",
+    "There are 5 students who scored a 92. Multiplying 92 by 5 gives us 92 * 5 = 460.",
+    "There are 4 students who scored an 80. Multiplying 80 by 4 gives us 80 * 4 = 320.",
+    "Now, I add these two totals together to find the current total score for the 9 students: 460 + 320 = 780.",
+    "The teacher wants the class average to be at least 85. With 10 students, the total score needed is 10 * 85 = 850.",
+    "The total score needed for all 10 students is 850. The current total score for the 9 students is 780. Now, I need to find the score needed by the last student: 850 - 780 = 70."
+  ],
+  "solution": "70"
+}

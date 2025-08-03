@@ -1,0 +1,22 @@
+{
+  "query": "The dinner bill for 6 friends came to $150. Silas said he would pay for half of the bill and the remaining friends could split the rest of the bill and leave a 10% tip for the whole meal. How many dollars will one of the friends pay?",
+  "steps": [
+    "First, I need to determine how much Silas will pay if he is covering half of the bill.",
+    "The total bill is $150, so half of the bill is $150 / 2.",
+    "Calculating $150 / 2 gives me $75. So, Silas will pay $75.",
+    "Next, I subtract the amount Silas is paying from the total bill to find out how much the remaining cost is.",
+    "The remaining bill amount is $150 - $75, which equals $75.",
+    "Now, the remaining amount is $75, and the other 5 friends will split this remaining amount.",
+    "Without the tip, each of the 5 friends has to pay $75 / 5.",
+    "Dividing $75 by 5 equals $15, so each friend will initially pay $15 to cover the remaining bill.",
+    "Next, I calculate the 10% tip on the entire $150 bill.",
+    "To find 10% of $150, I multiply $150 by 0.10.",
+    "$150 multiplied by 0.10 equals $15.",
+    "The $15 tip also needs to be divided among the 5 friends.",
+    "So, each friend will pay an additional $15 / 5 for the tip.",
+    "Dividing $15 by 5 gives me $3. So, each friend will pay $3 additional as a tip.",
+    "Therefore, the total each friend pays is the initial $15 plus the $3 tip.",
+    "Adding $15 and $3 gives me $18."
+  ],
+  "solution": "18"
+}

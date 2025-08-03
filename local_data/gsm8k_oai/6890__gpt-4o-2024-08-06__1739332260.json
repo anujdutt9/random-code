@@ -1,0 +1,15 @@
+{
+  "query": "Christopher, Jameson, and June each bought a toy sword. June's sword is 5 inches longer than Jameson's sword. Jameson's sword is 3 inches longer than twice the length of Christopher's sword. Christopher's sword is 15 inches long. How many inches longer is June's sword than Christopher's sword?",
+  "steps": [
+    "First, I know the length of Christopher's sword is 15 inches.",
+    "Jameson's sword is 3 inches longer than twice the length of Christopher's sword.",
+    "Twice the length of Christopher's sword is 2 * 15 = 30 inches.",
+    "Adding 3 inches to this gives the length of Jameson's sword: 30 + 3 = 33 inches.",
+    "June's sword is 5 inches longer than Jameson's sword.",
+    "Adding 5 inches to the length of Jameson's sword gives the length of June's sword: 33 + 5 = 38 inches.",
+    "Now, I need to find how many inches longer June's sword is than Christopher's sword.",
+    "The length of June's sword is 38 inches, and the length of Christopher's sword is 15 inches.",
+    "Subtracting the length of Christopher's sword from June's sword gives: 38 - 15 = 23 inches."
+  ],
+  "solution": "23"
+}

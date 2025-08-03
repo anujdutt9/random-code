@@ -1,0 +1,12 @@
+{
+  "query": "There have been 15 \"Where's Waldo?\" books published. Each book has 30 puzzles to find Waldo. The average person takes 3 minutes to find Waldo in a puzzle. How long would it take to find every Waldo?",
+  "steps": [
+    "First, I need to calculate the total number of puzzles across all \"Where's Waldo?\" books.",
+    "There are 15 books, and each book contains 30 puzzles.",
+    "To find the total number of puzzles, I multiply the number of books by the number of puzzles per book: 15 books * 30 puzzles/book = 450 puzzles.",
+    "Next, I need to calculate how long it would take to solve all these puzzles.",
+    "The problem states that the average person takes 3 minutes to find Waldo in each puzzle.",
+    "I will multiply the total number of puzzles by the average time per puzzle to get the total time: 450 puzzles * 3 minutes/puzzle = 1350 minutes."
+  ],
+  "solution": "1350"
+}

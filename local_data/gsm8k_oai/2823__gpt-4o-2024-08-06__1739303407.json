@@ -1,0 +1,16 @@
+{
+  "query": "Merry had 50 boxes of apples on Saturday and 25 boxes on Sunday. There were 10 apples in each box. If she sold a total of 720 apples on Saturday and Sunday, how many boxes of apples are left?",
+  "steps": [
+    "Merry had 50 boxes of apples on Saturday.",
+    "Merry had 25 boxes of apples on Sunday.",
+    "Each box contains 10 apples.",
+    "On Saturday, Merry had 50 boxes with 10 apples each, so she had 50 * 10 = 500 apples.",
+    "On Sunday, Merry had 25 boxes with 10 apples each, so she had 25 * 10 = 250 apples.",
+    "In total, she had 500 apples on Saturday and 250 apples on Sunday.",
+    "The total number of apples for both days combined is 500 + 250 = 750 apples.",
+    "She sold a total of 720 apples on Saturday and Sunday.",
+    "To determine the number of apples left, subtract the number of apples sold from the total number of apples: 750 - 720 = 30 apples left.",
+    "Each box contains 10 apples, so the number of boxes left is 30 apples / 10 apples per box = 3 boxes."
+  ],
+  "solution": "3"
+}

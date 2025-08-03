@@ -1,0 +1,18 @@
+{
+  "query": "Janice opened an art book that she had found in the library and found 5 drawings on the first page. After opening the first ten pages, she realized that the number of drawings on each page increased by five after every page. How many drawings were in the first five pages?",
+  "steps": [
+    "Janice finds 5 drawings on the first page.",
+    "The number of drawings increases by 5 on each subsequent page.",
+    "On the second page, there will be 5 + 5 = 10 drawings.",
+    "On the third page, there will be 10 + 5 = 15 drawings.",
+    "On the fourth page, there will be 15 + 5 = 20 drawings.",
+    "On the fifth page, there will be 20 + 5 = 25 drawings.",
+    "To find the total number of drawings on the first five pages, we add the number of drawings on each page together.",
+    "Total drawings = 5 + 10 + 15 + 20 + 25.",
+    "Calculate the sum: 5 + 10 = 15.",
+    "15 + 15 = 30.",
+    "30 + 20 = 50.",
+    "50 + 25 = 75."
+  ],
+  "solution": "75"
+}

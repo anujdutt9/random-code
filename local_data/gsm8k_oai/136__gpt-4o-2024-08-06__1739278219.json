@@ -1,0 +1,15 @@
+{
+  "query": "Loraine makes wax sculptures of animals. Large animals take four sticks of wax and small animals take two sticks. She made three times as many small animals as large animals, and she used 12 sticks of wax for small animals. How many sticks of wax did Loraine use to make all the animals?",
+  "steps": [
+    "First, I need to determine how many small animals Loraine made. Each small animal takes 2 sticks of wax.",
+    "Loraine used 12 sticks of wax for small animals, and each small animal uses 2 sticks.",
+    "To find the number of small animals, I divide the total sticks used for small animals by the sticks per small animal: 12 sticks \u00f7 2 sticks/animal = 6 animals.",
+    "So, Loraine made 6 small animals.",
+    "Next, I know Loraine made three times as many small animals as large animals.",
+    "This means the number of large animals made is 6 small animals \u00f7 3 = 2 large animals.",
+    "Each large animal requires 4 sticks of wax.",
+    "Therefore, the total wax sticks used for large animals is 2 animals \u00d7 4 sticks/animal = 8 sticks.",
+    "Now, I add the wax used for small animals to the wax used for large animals to find the total wax used: 12 sticks (small animals) + 8 sticks (large animals) = 20 sticks."
+  ],
+  "solution": "20"
+}

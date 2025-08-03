@@ -1,0 +1,10 @@
+{
+  "query": "Question: Tall plants are dominant to short plants. What is the outcome if two short plants are crossed?\n\nChoices:\nA: all tall plants\nB: all short plants\nC: half tall plants, half short plants\nD: 1/4 tall plants, 1/3 short plants",
+  "steps": [
+    "Tall plants are represented by the dominant allele (T) and short plants by the recessive allele (t).",
+    "If two short plants are crossed, their genotypes would both be tt since they can only express the recessive trait.",
+    "When two homozygous recessive plants (tt x tt) are crossed, the resulting offspring will also be homozygous recessive (tt).",
+    "Therefore, all the offspring from this cross will be short plants because they inherit the recessive allele from both parents."
+  ],
+  "solution": "B"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "A football team shares a single water cooler during practice.  During practice, linemen get the first water break and will drink 8 ounces each.  Skill position players get the second water break and drink 6 ounces each.  The team has 12 linemen and 10 skill position players.  If the cooler holds 126 ounces of water, how many skill position players must wait for the cooler to be refilled before they can get a drink?",
+  "steps": [
+    "First, I need to calculate how much water the linemen will drink.",
+    "There are 12 linemen and each drinks 8 ounces of water.",
+    "12 linemen * 8 ounces/lineman = 96 ounces",
+    "Now, I subtract the water consumed by the linemen from the total water in the cooler.",
+    "126 ounces (total) - 96 ounces (linemen) = 30 ounces left",
+    "Next, I calculate the total amount of water the skill position players will need.",
+    "There are 10 skill position players, and each drinks 6 ounces.",
+    "10 players * 6 ounces/player = 60 ounces",
+    "The 30 ounces left in the cooler can support some of the skill position players.",
+    "Each skill position player drinks 6 ounces, so I divide the remaining water by 6 ounces/player.",
+    "30 ounces / 6 ounces per player = 5 players can drink",
+    "Now, I determine how many skill position players will have to wait.",
+    "10 total skill position players - 5 players who can drink = 5 players must wait"
+  ],
+  "solution": "5"
+}

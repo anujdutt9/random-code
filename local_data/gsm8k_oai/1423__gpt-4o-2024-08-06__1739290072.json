@@ -1,0 +1,10 @@
+{
+  "query": "Zack has traveled to twice the number of countries Patrick traveled to. Patrick traveled to three times the number of countries Joseph traveled to. Joseph traveled to half the number of countries George traveled to. If George traveled to 6 countries, how many countries did Zack travel to?",
+  "steps": [
+    "I need to start with how many countries George traveled to. I know George has traveled to 6 countries.",
+    "Now, I know Joseph traveled to half the number of countries George traveled to. Joseph traveled to 6 / 2 = 3 countries.",
+    "Patrick traveled to three times the number of countries Joseph traveled to. Since Joseph traveled to 3 countries, Patrick traveled to 3 * 3 = 9 countries.",
+    "Zack has traveled to twice the number of countries Patrick traveled to. Since Patrick traveled to 9 countries, Zack traveled to 2 * 9 = 18 countries."
+  ],
+  "solution": "18"
+}

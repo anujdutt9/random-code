@@ -1,0 +1,16 @@
+{
+  "query": "Jerry wakes up one morning and finds the thermostat set to 40 degrees. He set it to double the initial temperature. His dad notices, yells at Jerry, and reducing the temperature by 30 degrees. Later, Jerry's mother reduces the temperature by 30%, before his sister increases it by 24 degrees. What's the final temperature?",
+  "steps": [
+    "Jerry wakes up and finds the thermostat set to 40 degrees.",
+    "Jerry sets the thermostat to double the initial temperature.",
+    "Initial temperature is 40 degrees. Doubling it means 40 \u00d7 2 = 80 degrees.",
+    "Jerry's dad reduces the temperature by 30 degrees.",
+    "New temperature after dad's adjustment is 80 - 30 = 50 degrees.",
+    "Jerry's mother then reduces the temperature by 30%.",
+    "30% of 50 degrees is 0.30 \u00d7 50 = 15 degrees.",
+    "New temperature after mom's adjustment is 50 - 15 = 35 degrees.",
+    "Jerry's sister increases the temperature by 24 degrees.",
+    "Final temperature after sister's change is 35 + 24 = 59 degrees."
+  ],
+  "solution": "59"
+}

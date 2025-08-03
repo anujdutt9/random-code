@@ -1,0 +1,20 @@
+{
+  "query": "A shopping center sells T-shirts at $8 each, a sweater at $18,  and a jacket at $80. The jacket is on sale with a 10% discount. The sales tax is 5%.  Kevin wants to buy six T-shirts, four sweaters, and five jackets for his children. How much does Kevin have to pay for all the items, including the sales tax?",
+  "steps": [
+    "First, calculate the cost of the T-shirts without tax. Each T-shirt costs $8 and Kevin wants to buy six of them.",
+    "Multiply the cost of one T-shirt by the quantity: $8 * 6 = $48.",
+    "Next, calculate the cost of the sweaters without tax. Each sweater costs $18 and Kevin wants to buy four of them.",
+    "Multiply the cost of one sweater by the quantity: $18 * 4 = $72.",
+    "Calculate the cost of the jackets before any discounts and taxes. Each jacket costs $80, and Kevin wants to purchase five of them.",
+    "Multiply the cost of one jacket by the quantity: $80 * 5 = $400.",
+    "Now, apply the 10% discount on the total cost of the jackets.",
+    "Find 10% of $400: $400 * 0.10 = $40.",
+    "Subtract the discount from the initial total cost of the jackets: $400 - $40 = $360.",
+    "Next, calculate the total cost of all items before tax: add the cost of T-shirts, sweaters, and jackets after discounts.",
+    "Add $48 (T-shirts) + $72 (sweaters) + $360 (jackets) = $480.",
+    "Now, calculate the sales tax on the total cost of $480.",
+    "The sales tax is 5%: $480 * 0.05 = $24.",
+    "Finally, add the sales tax to the total cost: $480 + $24 = $504."
+  ],
+  "solution": "504"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Abigail has a report due tomorrow which needs to be 1000 words in length. Abigail can type 300 words in half an hour. If she has already written 200 words, how many more minutes will it take her to finish the report?",
+  "steps": [
+    "The report needs to be 1000 words in total.",
+    "Abigail has already written 200 words.",
+    "I need to calculate how many words are left to write.",
+    "1000 words (total needed) - 200 words (already written) = 800 words remaining.",
+    "Abigail can type 300 words in half an hour.",
+    "Half an hour is equivalent to 30 minutes.",
+    "So, 300 words / 30 minutes = 10 words per minute.",
+    "Now, we need to find out how many minutes are required to type 800 words.",
+    "800 words / 10 words per minute = 80 minutes."
+  ],
+  "solution": "80"
+}

@@ -1,0 +1,12 @@
+{
+  "query": "In a town, there are four primary schools. Two of them can teach 400 students at a time, and the other two 340 students at a time. How many students at a time in total, can these four primary schools teach?",
+  "steps": [
+    "First, I need to determine how many students the two schools that can accommodate 400 students each can teach together.",
+    "Each of these two schools can teach 400 students. So for two schools: 400 students/school \u00d7 2 schools = 800 students.",
+    "Next, I need to determine how many students the other two schools can teach. Each of these can accommodate 340 students.",
+    "Each of the two schools can teach 340 students. So for these two schools: 340 students/school \u00d7 2 schools = 680 students.",
+    "Now, I will sum the students from both groups of schools to find the total number of students all four schools can teach.",
+    "Total students = 800 students + 680 students = 1480 students."
+  ],
+  "solution": "1480"
+}

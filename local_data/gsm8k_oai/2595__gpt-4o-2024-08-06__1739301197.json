@@ -1,0 +1,19 @@
+{
+  "query": "Xavier plays football with his friends. During 15 minutes Xavier can score 2 goals on average. How many goals on average is Xavier able to score, when the match lasted for 2 hours?",
+  "steps": [
+    "First, I need to understand the relationship between the time Xavier plays and the number of goals he scores.",
+    "I know that Xavier scores 2 goals in 15 minutes on average.",
+    "I want to find out how many goals he would score in a longer period of time, specifically, 2 hours.",
+    "First, I should convert hours to minutes because the initial average rate is given in minutes.",
+    "There are 60 minutes in an hour, so 2 hours would be 2 x 60 minutes.",
+    "2 x 60 = 120 minutes.",
+    "Now I know that 2 hours is 120 minutes.",
+    "I need to determine how many 15-minute intervals are in 120 minutes.",
+    "To find the number of 15-minute intervals in 120 minutes, I divide 120 by 15.",
+    "120 \u00f7 15 = 8.",
+    "So, there are 8 intervals of 15 minutes in 120 minutes.",
+    "Since Xavier scores 2 goals in each 15-minute interval, I multiply the number of intervals by the number of goals per interval.",
+    "8 intervals x 2 goals per interval = 16 goals."
+  ],
+  "solution": "16"
+}

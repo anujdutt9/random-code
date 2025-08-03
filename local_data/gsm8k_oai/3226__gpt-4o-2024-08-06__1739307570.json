@@ -1,0 +1,19 @@
+{
+  "query": "Wade has a hot dog food truck.  He makes $2.00 in tips per customer.  On Friday he served 28 customers.  He served three times that amount of customers on Saturday.  On Sunday, he served 36 customers. How many dollars did he make in tips between the 3 days?",
+  "steps": [
+    "I know Wade makes $2.00 in tips per customer.",
+    "On Friday, Wade served 28 customers.",
+    "I will calculate Friday's tips by multiplying 28 customers by $2.00 in tips per customer.",
+    "28 customers * $2.00/customer = $56.00 in tips on Friday.",
+    "On Saturday, Wade served three times the amount of customers he served on Friday.",
+    "Three times 28 customers is 28 * 3 = 84 customers on Saturday.",
+    "I will calculate Saturday's tips by multiplying 84 customers by $2.00 in tips.",
+    "84 customers * $2.00/customer = $168.00 in tips on Saturday.",
+    "On Sunday, Wade served 36 customers.",
+    "I will calculate Sunday's tips by multiplying 36 customers by $2.00 in tips.",
+    "36 customers * $2.00/customer = $72.00 in tips on Sunday.",
+    "Now, I will add the tips from Friday, Saturday, and Sunday to find the total tips for the three days.",
+    "$56.00 (Friday) + $168.00 (Saturday) + $72.00 (Sunday) = $296.00 total tips."
+  ],
+  "solution": "296"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "In a northwestern town, it rained 4 inches per day during the first 15 days of November.  For the remainder of the month, the average daily rainfall was twice the amount observed during the first 15 days.  What is the total amount of rainfall for this town in November, in inches?",
+  "steps": [
+    "First, I need to determine the total number of inches of rain that fell during the first 15 days of November.",
+    "It rained 4 inches each day during the first 15 days. So, I will multiply 4 inches by 15 days.",
+    "4 inches/day * 15 days = 60 inches",
+    "Next, I need to calculate the average daily rainfall for the remainder of the month (November has 30 days, so there are 30 - 15 = 15 days remaining).",
+    "The problem states that the average daily rainfall during the remaining 15 days is twice the amount during the first 15 days, which means 2 * 4 inches = 8 inches per day.",
+    "Now, I'll calculate the total rainfall for the last 15 days: 8 inches/day * 15 days.",
+    "8 inches/day * 15 days = 120 inches",
+    "Finally, I'll sum the rainfall from the first and the last 15 days to find the total rainfall for November.",
+    "60 inches (first 15 days) + 120 inches (last 15 days) = 180 inches"
+  ],
+  "solution": "180"
+}

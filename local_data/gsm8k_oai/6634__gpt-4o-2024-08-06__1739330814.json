@@ -1,0 +1,18 @@
+{
+  "query": "If 60% of the students at school are girls and the number of boys is 300, how many girls are at the school?",
+  "steps": [
+    "I know that 60% of the students at the school are girls.",
+    "This implies that the remaining 40% of the students are boys.",
+    "I've been told that the number of boys in the school is 300.",
+    "Since boys represent 40% of the students, I can set up the equation: 0.40 * total_students = 300.",
+    "To find the total number of students, I need to solve the equation for total_students.",
+    "I'll divide both sides of the equation by 0.40 to isolate total_students: total_students = 300 / 0.40.",
+    "300 divided by 0.40 equals 750. So, there are 750 students in total.",
+    "Now, I know that 60% of those students are girls.",
+    "To find the number of girls, I calculate 60% of 750.",
+    "60% can be written as 0.60, so I multiply 750 by 0.60.",
+    "750 times 0.60 equals 450.",
+    "Therefore, the number of girls at the school is 450."
+  ],
+  "solution": "450"
+}

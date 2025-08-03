@@ -1,0 +1,19 @@
+{
+  "query": "While on vacation in New York, Greg went out for a lunch that cost $100. If sales tax in New York is 4% and he left a 6% tip, how much did Greg pay?",
+  "steps": [
+    "First, I need to calculate the sales tax on the lunch.",
+    "The sales tax rate is 4%.",
+    "To find the sales tax amount, I multiply the cost of the lunch by the sales tax rate: $100 * 0.04.",
+    "$100 * 0.04 = $4.",
+    "The sales tax is $4.",
+    "Next, I need to calculate the tip.",
+    "The tip rate is 6%.",
+    "To find the tip amount, I multiply the cost of the lunch by the tip rate: $100 * 0.06.",
+    "$100 * 0.06 = $6.",
+    "The tip amount is $6.",
+    "Now, I need to find the total amount Greg paid by adding the cost of the lunch, the sales tax, and the tip.",
+    "The cost of the lunch is $100, the sales tax is $4, and the tip is $6.",
+    "$100 + $4 + $6 = $110."
+  ],
+  "solution": "110"
+}

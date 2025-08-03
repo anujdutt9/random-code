@@ -1,0 +1,12 @@
+{
+  "query": "If 8 carpenters can make 50 chairs in 10 days, how many carpenters are needed to make 75 chairs in 10 days?",
+  "steps": [
+    "First, I want to determine how many chairs 1 carpenter can make in 10 days.",
+    "8 carpenters can make 50 chairs in 10 days, so 1 carpenter can make 50 / 8 = 6.25 chairs in 10 days.",
+    "Next, I want to determine how many carpenters are needed to make 75 chairs in 10 days.",
+    "If 1 carpenter can make 6.25 chairs in 10 days, then I need 75 / 6.25 carpenters to make 75 chairs.",
+    "Calculating 75 / 6.25 gives me 12 carpenters.",
+    "I have verified that each calculation is correct."
+  ],
+  "solution": "12"
+}

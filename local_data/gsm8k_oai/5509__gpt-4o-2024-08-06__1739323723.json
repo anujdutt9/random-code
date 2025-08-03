@@ -1,0 +1,13 @@
+{
+  "query": "A box of rainbow nerds contains 10 purple candies, 4 more yellow candies, and 2 fewer green candies than yellow candies. How many rainbow nerds are there in the box?",
+  "steps": [
+    "I start by identifying the number of purple candies in the box. It's given that there are 10 purple candies.",
+    "Next, I need to figure out how many yellow candies there are. The problem states that there are 4 more yellow candies than purple candies.",
+    "Since there are 10 purple candies, the number of yellow candies is 10 + 4 = 14.",
+    "Now, I need to find the number of green candies. The problem says there are 2 fewer green candies than yellow candies.",
+    "Since there are 14 yellow candies, the number of green candies is 14 - 2 = 12.",
+    "Now, I sum up the number of candies of each color to find the total number of rainbow nerds in the box.",
+    "The total number of candies is 10 (purple) + 14 (yellow) + 12 (green) = 36."
+  ],
+  "solution": "36"
+}

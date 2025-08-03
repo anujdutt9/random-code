@@ -1,0 +1,20 @@
+{
+  "query": "Joel is 5 years old and his dad is 32 years old.  How old will Joel be when his dad is twice as old as him?",
+  "steps": [
+    "Currently, Joel is 5 years old and his dad is 32 years old.",
+    "I need to find how many years it will take for Joel's age to be half of his dad's age.",
+    "Let's denote the number of years from now as \\( x \\).",
+    "In \\( x \\) years, Joel will be \\( 5 + x \\) years old.",
+    "In \\( x \\) years, Joel's dad will be \\( 32 + x \\) years old.",
+    "I want Joel's dad to be twice as old as Joel in \\( x \\) years, so I set up the equation: \\( 32 + x = 2(5 + x) \\).",
+    "Now, I'll solve the equation: \\( 32 + x = 10 + 2x \\).",
+    "Subtract \\( x \\) from both sides: \\( 32 = 10 + x \\).",
+    "Subtract 10 from both sides: \\( 32 - 10 = x \\).",
+    "Calculate \\( x \\): \\( x = 22 \\).",
+    "In 22 years, Joel will be \\( 5 + 22 = 27 \\) years old.",
+    "I should check my answer to confirm the dad's age: \\( 32 + 22 = 54 \\).",
+    "Checking if 54 is twice 27: \\( 54 = 2 \\times 27 \\).",
+    "Everything checks out, so Joel will be 27 years old."
+  ],
+  "solution": "27"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "There is a rectangle that is 4 inches wide. If the rectangle's perimeter is 30 inches, what is the area of the rectangle?",
+  "steps": [
+    "The formula for the perimeter of a rectangle is given by \\( P = 2 \\times (\\text{length} + \\text{width}) \\).",
+    "I know that the width of the rectangle is 4 inches, and the perimeter is 30 inches.",
+    "Substitute the known values into the perimeter formula: \\( 30 = 2 \\times (\\text{length} + 4) \\).",
+    "To solve for the length, I will first divide both sides of the equation by 2: \\( 15 = \\text{length} + 4 \\).",
+    "Next, I subtract 4 from both sides to isolate the length: \\( \\text{length} = 15 - 4 \\).",
+    "This gives \\( \\text{length} = 11 \\) inches.",
+    "Now that I have the dimensions of the rectangle, I can calculate the area.",
+    "The formula for the area of a rectangle is \\( \\text{Area} = \\text{length} \\times \\text{width} \\).",
+    "Substitute the known values into the area formula: \\( \\text{Area} = 11 \\times 4 \\).",
+    "Calculate the area: \\( \\text{Area} = 44 \\)."
+  ],
+  "solution": "44"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Jason is counting the number of cars that drive by his window. He counted four times as many green cars as red cars, and 6 more red cars than purple cars. If he counted 312 cars total, how many of them were purple?",
+  "steps": [
+    "Let's start by defining the variables. Let \\( r \\) represent the number of red cars. Then the number of green cars is \\( 4r \\), since there are four times as many green cars as red cars.",
+    "We are also told there are 6 more red cars than purple cars. So let \\( p \\) be the number of purple cars. Then \\( r = p + 6 \\).",
+    "We know the total number of cars counted by Jason is 312. So, the equation for the total number of cars is:\n\\[ r + 4r + p = 312 \\]\nwhich simplifies to:\n\\[ 5r + p = 312 \\]",
+    "We can substitute the expression for \\( p \\) from the equation \\( r = p + 6 \\). This gives us:\n\\[ p = r - 6 \\]",
+    "Now, we substitute \\( p = r - 6 \\) into the equation \\( 5r + p = 312 \\):\n\\[ 5r + (r - 6) = 312 \\]",
+    "Simplify the equation:\n\\[ 6r - 6 = 312 \\]",
+    "Add 6 to both sides to isolate the term with \\( r \\):\n\\[ 6r = 318 \\]",
+    "Divide both sides by 6 to solve for \\( r \\):\n\\[ r = 53 \\]",
+    "Now that we have the number of red cars, we need to find the number of purple cars. Recall \\( r = p + 6 \\), so:\n\\[ 53 = p + 6 \\]",
+    "Subtract 6 from both sides to solve for \\( p \\):\n\\[ p = 47 \\]"
+  ],
+  "solution": "47"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "John is working as an IT specialist. He repairs broken computers. One day he had to fix 20 computers. 20% of them were unfixable, and 40% of them needed to wait a few days for spare parts to come. The rest John was able to fix right away. How many computers John was able to fix right away?",
+  "steps": [
+    "John had to fix a total of 20 computers.",
+    "20% of the computers were unfixable. To find out how many this is, I calculate 20% of 20.",
+    "20% as a decimal is 0.20. So, 0.20 multiplied by 20 is 4 computers.",
+    "There were 4 unfixable computers.",
+    "40% of the computers needed to wait for spare parts. I will calculate 40% of 20.",
+    "40% as a decimal is 0.40. So, 0.40 multiplied by 20 is 8 computers.",
+    "There were 8 computers waiting for spare parts.",
+    "To find out how many computers John was able to fix right away, I subtract the unfixable and spare parts waiting computers from the total.",
+    "John had 20 total computers, 4 unfixable and 8 needing spare parts, so I do 20 - 4 - 8.",
+    "20 - 4 is 16.",
+    "16 - 8 is 8."
+  ],
+  "solution": "8"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "There are 11 males & 12 females in the orchestra and twice that number in the band. There are 12 males & 17 females in the choir. If each musician only participates in one group, how many musicians total are there in the orchestra, the band, and the choir?",
+  "steps": [
+    "First, determine the number of males in the orchestra. The problem states there are 11 males in the orchestra.",
+    "Next, determine the number of females in the orchestra. The problem states there are 12 females in the orchestra.",
+    "Calculate the total number of musicians in the orchestra by adding the number of males and females: 11 males + 12 females = 23 musicians in the orchestra.",
+    "The problem states that the band has twice the number of members as the orchestra. Since the orchestra has 23 musicians, the band must have 23 * 2 = 46 musicians.",
+    "Determine the number of males and females in the choir. The problem states there are 12 males and 17 females in the choir.",
+    "Calculate the total number of musicians in the choir by adding the number of males and females: 12 males + 17 females = 29 musicians in the choir.",
+    "Now, add the total number of musicians in the orchestra, the band, and the choir to find the overall total. The orchestra has 23 musicians, the band has 46 musicians, and the choir has 29 musicians.",
+    "Add these totals together: 23 + 46 + 29.",
+    "23 + 46 = 69.",
+    "69 + 29 = 98."
+  ],
+  "solution": "98"
+}

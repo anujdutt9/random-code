@@ -1,0 +1,15 @@
+{
+  "query": "Tim buys a book of esoteric words.  He learns 10 words from it a day.  In 2 years the book has increased the number of words he knows by 50%.  How many words did he know originally?",
+  "steps": [
+    "First, I will determine how many days there are in 2 years. Normally a year has 365 days, but 1 of these years could be a leap year, so there could be either 730 or 731 days total across the 2 years.",
+    "I will assume a common case of no leap year unless specified. So, two non-leap years have 730 days in total.",
+    "If Tim learns 10 words a day, I will calculate how many words he learns in 730 days by multiplying 10 words per day by 730 days.",
+    "10 words/day * 730 days = 7300 words.",
+    "According to the problem, the 7300 new words make up a 50% increase over the number of words he initially knew.",
+    "Let X represent the original number of words Tim knew. With a 50% increase, 0.5 * X equals the 7300 words he learned.",
+    "I will set up the equation: 0.5 * X = 7300.",
+    "To find X, I will solve the equation: X = 7300 / 0.5.",
+    "Divide 7300 by 0.5 to get X = 14600."
+  ],
+  "solution": "14600"
+}

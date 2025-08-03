@@ -1,0 +1,12 @@
+{
+  "query": "If 3 crows eat 30 worms in one hour, how many worms will 5 crows eat in 2 hours?",
+  "steps": [
+    "Let's find out how many worms one crow eats in one hour.",
+    "If 3 crows eat 30 worms in one hour, then each crow eats 30 / 3 = 10 worms in one hour.",
+    "Now, let's find out how many worms 5 crows eat in one hour.",
+    "If one crow eats 10 worms in one hour, then 5 crows will eat 5 * 10 = 50 worms in one hour.",
+    "Now, let's calculate how many worms 5 crows will eat in 2 hours.",
+    "If 5 crows eat 50 worms in one hour, in 2 hours they will eat 50 * 2 = 100 worms."
+  ],
+  "solution": "100"
+}

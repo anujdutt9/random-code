@@ -1,0 +1,22 @@
+{
+  "query": "Yolanda scored 345 points over the entire season. There were 15 games over the season. She averaged 4 free throws (worth one point), and 5 two-point baskets per game. How many three-point baskets did she average a game?",
+  "steps": [
+    "First, calculate the total number of points Yolanda scored from free throws over the season.",
+    "She averaged 4 free throws per game, and each free throw is worth 1 point.",
+    "4 free throws per game x 15 games = 60 points from free throws.",
+    "Next, calculate the total number of points Yolanda scored from two-point baskets over the season.",
+    "She averaged 5 two-point baskets per game, and each two-point basket is worth 2 points.",
+    "5 two-point baskets per game x 2 points = 10 points per game from two-point baskets.",
+    "10 points per game from two-point baskets x 15 games = 150 points from two-point baskets.",
+    "Now, calculate the total points scored from both free throws and two-point baskets.",
+    "60 points from free throws + 150 points from two-point baskets = 210 points.",
+    "Subtract the points scored from free throws and two-point baskets from the total points to find the points scored from three-point baskets.",
+    "345 total points - 210 points (free throws + two-point baskets) = 135 points from three-point baskets.",
+    "Determine the total number of three-point baskets made over the season.",
+    "Each three-point basket is worth 3 points.",
+    "135 points from three-point baskets \u00f7 3 points per basket = 45 three-point baskets.",
+    "To find how many three-point baskets Yolanda averaged per game, divide the total three-point baskets by the number of games.",
+    "45 three-point baskets \u00f7 15 games = 3 three-point baskets per game."
+  ],
+  "solution": "3"
+}

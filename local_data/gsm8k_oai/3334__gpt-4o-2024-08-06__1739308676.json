@@ -1,0 +1,21 @@
+{
+  "query": "On his farm, Mr. Mathews has goats and sheep in the ratio of 5:7. He decides to sell half of the goats at $40 each and 2/3 of the sheep at $30 each. How much money does he make from the sale of the animals if the total number of sheep and goats on the farm is 360?",
+  "steps": [
+    "First, I need to determine the number of goats and sheep based on their ratio. The ratio of goats to sheep is 5:7.",
+    "Let the number of goats be 5x and the number of sheep be 7x, where x is a common multiplier.",
+    "The total number of animals is 360, which gives the equation 5x + 7x = 360.",
+    "Combine the terms to get 12x = 360.",
+    "Solve for x by dividing both sides by 12, resulting in x = 360 / 12 = 30.",
+    "Now, substitute back to find the number of goats: 5x = 5 * 30 = 150.",
+    "Similarly, find the number of sheep: 7x = 7 * 30 = 210.",
+    "Next, calculate the number of goats sold. He sells half of the goats: 150 / 2 = 75 goats.",
+    "Since each goat is sold for $40, the total revenue from the goats is 75 * 40.",
+    "Calculate that amount: 75 * 40 = $3000.",
+    "Now, calculate the number of sheep sold. He sells 2/3 of the sheep: (2/3) * 210 = 140 sheep.",
+    "Since each sheep is sold for $30, the total revenue from the sheep is 140 * 30.",
+    "Calculate that amount: 140 * 30 = $4200.",
+    "Add the revenues from the goats and the sheep to find the total revenue from the sale of the animals: $3000 + $4200.",
+    "The total amount of money made is $7200."
+  ],
+  "solution": "7200"
+}

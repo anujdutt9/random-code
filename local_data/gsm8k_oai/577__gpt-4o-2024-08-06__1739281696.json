@@ -1,0 +1,18 @@
+{
+  "query": "At a roller derby, 4 teams are competing. Each team is made up of 10 members, and each member needs a pair of roller skates to compete in and another pair of skates as a backup. None of the skates have laces yet, so each member is offered 3 sets of laces per pair of skates. How many sets of laces have been handed out?",
+  "steps": [
+    "There are 4 teams competing in the roller derby.",
+    "Each team has 10 members.",
+    "To find the total number of members, I need to multiply the number of teams by the number of members per team.",
+    "4 teams * 10 members per team = 40 members in total.",
+    "Each member needs a pair of roller skates to compete in.",
+    "Each member also needs another pair of skates as a backup.",
+    "So each member requires 2 pairs of skates.",
+    "To find the total number of pairs of skates required for all members, I multiply the total number of members by the number of pairs each member needs.",
+    "40 members * 2 pairs per member = 80 pairs of skates in total.",
+    "Each pair of skates requires 3 sets of laces.",
+    "To find the total number of sets of laces, I multiply the total number of pairs of skates by the number of sets of laces per pair.",
+    "80 pairs of skates * 3 sets of laces per pair = 240 sets of laces."
+  ],
+  "solution": "240"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "There are 10 cars parked in a mall\u2019s parking lot, each with the same number of customers inside. Each customer only makes 1 purchase. If the sports store makes 20 sales and the music store makes 30 sales, how many customers are in each of the cars?",
+  "steps": [
+    "I need to find the total number of customers since each customer makes one purchase.",
+    "The sports store makes 20 sales, so there are 20 customers there.",
+    "The music store makes 30 sales, which means there are 30 customers there.",
+    "To find the total number of customers, I add the number from the sports store and the music store together.",
+    "20 (sports store sales) + 30 (music store sales) = 50 customers in total.",
+    "There are 10 cars, and each car has the same number of customers.",
+    "I need to find how many customers are in each car, so I divide the total number of customers by the number of cars.",
+    "50 customers \u00f7 10 cars = 5 customers per car."
+  ],
+  "solution": "5"
+}

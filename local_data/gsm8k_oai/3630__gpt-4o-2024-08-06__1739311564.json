@@ -1,0 +1,15 @@
+{
+  "query": "A construction company is building 2 apartment buildings with 12 floors each. The apartments are almost ready to sell but all of them need doors to be completed. Each floor has 6 apartments, and each apartment needs 7 doors in total. How many doors does the company need to buy?",
+  "steps": [
+    "First, I need to find out how many apartments there are in total.",
+    "Each building has 12 floors, and each floor has 6 apartments.",
+    "So, for one building: 12 floors * 6 apartments per floor = 72 apartments.",
+    "There are 2 buildings, so I multiply the number of apartments in one building by 2.",
+    "72 apartments per building * 2 buildings = 144 apartments in total.",
+    "Next, I need to find out how many doors each apartment needs.",
+    "Each apartment needs 7 doors.",
+    "So, for 144 apartments, I multiply the number of apartments by the number of doors per apartment.",
+    "144 apartments * 7 doors per apartment = 1008 doors."
+  ],
+  "solution": "1008"
+}

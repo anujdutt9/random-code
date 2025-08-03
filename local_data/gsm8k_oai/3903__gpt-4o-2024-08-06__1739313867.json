@@ -1,0 +1,14 @@
+{
+  "query": "For the first hour of work, Manolo can make face-masks at the rate of one every four minutes. Thereafter, he can make face-masks at the rate of one every six minutes. How many face-masks does Manola make in a four-hour shift?",
+  "steps": [
+    "First, I need to determine how many minutes are in the first hour. There are 60 minutes in one hour.",
+    "In the first hour, Manolo makes face-masks at a rate of one every four minutes. I will calculate how many face-masks he makes in 60 minutes.",
+    "To find out how many face-masks he makes in 60 minutes, I divide 60 by 4. \\(60 \\div 4 = 15\\). Thus, Manolo makes 15 face-masks in the first hour.",
+    "Next, I need to calculate how many minutes are in the remaining three hours of the shift. Since there are 60 minutes in each hour, three hours contain \\(3 \\times 60 = 180\\) minutes.",
+    "In the remaining three hours, Manolo makes face-masks at the rate of one every six minutes. I need to calculate how many face-masks he makes in 180 minutes.",
+    "To find out how many face-masks he makes in 180 minutes, I divide 180 by 6. \\(180 \\div 6 = 30\\). Therefore, Manolo makes 30 face-masks in the remaining three hours.",
+    "To find the total number of face-masks Manolo makes in the four-hour shift, I add the number of face-masks from the first hour and the number from the remaining three hours.",
+    "Manolo makes 15 face-masks in the first hour and 30 in the remaining three hours: \\(15 + 30 = 45\\)."
+  ],
+  "solution": "45"
+}

@@ -1,0 +1,12 @@
+{
+  "query": "Marites internet speed is 10 megabits per second and her monthly internet bill is $20. Marites is planning to upgrade her service and choosing between 20 Mbps and 30 Mbps. If the price of the 30 Mbps is twice the amount of her current monthly bill and the price of the 20 Mbps is $10 more than her current monthly bill, how much will she save per year if she chooses the 20 Mbps than 30 Mbps?",
+  "steps": [
+    "Marites's current internet bill is $20 per month.",
+    "The 30 Mbps plan costs twice her current monthly bill, so it will be 2 * $20 = $40 per month.",
+    "The 20 Mbps plan costs $10 more than her current monthly bill, so it will be $20 + $10 = $30 per month.",
+    "Now I need to calculate the annual cost for each plan. For the 30 Mbps plan, the annual cost is $40 per month * 12 months = $480.",
+    "For the 20 Mbps plan, the annual cost is $30 per month * 12 months = $360.",
+    "The savings per year by choosing the 20 Mbps plan over the 30 Mbps plan is $480 - $360 = $120."
+  ],
+  "solution": "120"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "John wants to start a zoo.  He has 15 snakes.  He has twice as many monkeys as he does snakes.  He has 5 fewer lions than he does monkeys.   John has 8 more pandas than he does lions.  John has 1/3 as many dogs as he does pandas.  How many total animals does John have?",
+  "steps": [
+    "John has 15 snakes.",
+    "John has twice as many monkeys as he does snakes, so he has 15 * 2 = 30 monkeys.",
+    "John has 5 fewer lions than he does monkeys, so he has 30 - 5 = 25 lions.",
+    "John has 8 more pandas than he does lions, so he has 25 + 8 = 33 pandas.",
+    "John has 1/3 as many dogs as he does pandas, so he has 33 / 3 = 11 dogs.",
+    "Now, let's calculate the total number of animals John has. \nHe has 15 snakes, 30 monkeys, 25 lions, 33 pandas, and 11 dogs.",
+    "Adding these together: 15 + 30 + 25 + 33 + 11 = 114."
+  ],
+  "solution": "114"
+}

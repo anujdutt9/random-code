@@ -1,0 +1,15 @@
+{
+  "query": "One pair of pants requires 8.5 feet of fabric. Nguyen needs to make 7 pairs of pants for the wedding. He has 3.5 yards of fabric. How many feet of fabric does Nguyen still need for the pants?",
+  "steps": [
+    "First, I need to calculate the total amount of fabric required for 7 pairs of pants. Since one pair requires 8.5 feet, I will multiply 8.5 feet by 7.",
+    "8.5 feet/pair * 7 pairs = 59.5 feet.",
+    "Nguyen requires a total of 59.5 feet of fabric for the 7 pairs of pants.",
+    "Next, I need to convert the available fabric (3.5 yards) into feet because the required fabric is given in feet. There are 3 feet in 1 yard.",
+    "3.5 yards * 3 feet/yard = 10.5 feet.",
+    "Nguyen has 10.5 feet of fabric.",
+    "Now, I need to find out how much more fabric Nguyen needs. I will subtract the amount of fabric he has from the total fabric required.",
+    "59.5 feet (required) - 10.5 feet (available) = 49 feet.",
+    "I have calculated that Nguyen still needs 49 feet of fabric."
+  ],
+  "solution": "49"
+}

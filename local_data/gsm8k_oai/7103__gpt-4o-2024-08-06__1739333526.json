@@ -1,0 +1,13 @@
+{
+  "query": "Harry decided to buy some balloons for his friend's birthday party. One balloon costs $0.5, and a pack of 10 balloons is cheaper and costs only $3. Finally, Harry wants to bring to the party exactly 14 balloons. How much did he need to pay for them?",
+  "steps": [
+    "Harry wants 14 balloons in total.",
+    "A pack of 10 balloons costs $3, which is cheaper compared to buying 10 individual balloons ($0.5 x 10 = $5).",
+    "If Harry buys one pack of 10 balloons, he still needs 14 - 10 = 4 more balloons.",
+    "The remaining 4 balloons can be bought individually. Each balloon costs $0.5.",
+    "Calculating the cost for 4 individual balloons: 4 x $0.5 = $2.",
+    "Now, let's calculate the total cost: $3 (for the pack) + $2 (for the 4 balloons) = $5.",
+    "Adding these costs will give us the final total Harry needs to pay for 14 balloons."
+  ],
+  "solution": "5"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "A taco truck is selling soft tacos for $2 and hard shell tacos for $5 during the lunch rush. The first group of customers is a family that buys four hard shell tacos and three soft tacos. The rest of the customers in the lunch rush only buy two soft tacos each. There were ten customers after the family. How many dollars did the taco truck make during the lunch rush?",
+  "steps": [
+    "First, I need to calculate how much money the family spent.",
+    "The family bought four hard shell tacos, each costing $5.",
+    "Calculate the cost of four hard shell tacos: 4 * $5 = $20.",
+    "The family also bought three soft tacos, each costing $2.",
+    "Calculate the cost of three soft tacos: 3 * $2 = $6.",
+    "Add the cost of hard shell tacos and soft tacos to find the total spent by the family: $20 + $6 = $26.",
+    "Next, I need to calculate how much money the other ten customers spent.",
+    "Each of these ten customers bought two soft tacos at $2 each.",
+    "Calculate the cost for one customer: 2 * $2 = $4.",
+    "Since there are ten customers, multiply the cost per customer by ten: 10 * $4 = $40.",
+    "Finally, add the money spent by the family and the other customers to find the total revenue.",
+    "Add $26 (family) and $40 (ten other customers) to find the total revenue: $26 + $40 = $66."
+  ],
+  "solution": "66"
+}

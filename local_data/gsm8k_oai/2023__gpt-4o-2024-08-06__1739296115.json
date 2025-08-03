@@ -1,0 +1,17 @@
+{
+  "query": "If Beth is 18 years old and her little sister is 5, in how many years would she be twice her sister's age?",
+  "steps": [
+    "Beth is currently 18 years old.",
+    "Her little sister is currently 5 years old.",
+    "I need to find in how many years Beth will be twice the age of her sister.",
+    "Let's assume that the number of years from now when Beth will be twice the age of her sister is \"x\" years.",
+    "In \"x\" years, Beth's age will be 18 + x.",
+    "In \"x\" years, her sister's age will be 5 + x.",
+    "I need the equation for when Beth's age is twice her sister's age: 18 + x = 2 * (5 + x).",
+    "Simplifying the equation: 18 + x = 10 + 2x.",
+    "Subtract x from both sides: 18 = 10 + x.",
+    "Subtract 10 from both sides: 8 = x.",
+    "In 8 years, Beth will be twice her sister's age."
+  ],
+  "solution": "8"
+}

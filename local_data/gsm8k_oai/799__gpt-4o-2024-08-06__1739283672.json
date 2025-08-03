@@ -1,0 +1,24 @@
+{
+  "query": "There is a very large room that has 4 tables, 1 sofa and 2 chairs that have 4 legs each.  There are also 3 tables with 3 legs each, 1 table with 1 leg, and 1 rocking chair with 2 legs.  How many legs are there in the room?",
+  "steps": [
+    "First, I will count the legs of the 4 tables that have 4 legs each.",
+    "4 tables times 4 legs each equals 16 legs.",
+    "Next, I will count the legs of the 1 sofa that has 4 legs.",
+    "1 sofa times 4 legs equals 4 legs.",
+    "Next, I will count the legs of the 2 chairs that have 4 legs each.",
+    "2 chairs times 4 legs each equals 8 legs.",
+    "Now, I will count the legs of the 3 tables that have 3 legs each.",
+    "3 tables times 3 legs each equals 9 legs.",
+    "Then, I will account for the 1 table with 1 leg.",
+    "1 table times 1 leg equals 1 leg.",
+    "Finally, I will count the legs of the 1 rocking chair that has 2 legs.",
+    "1 rocking chair times 2 legs equals 2 legs.",
+    "Now, I will add up all the legs: 16 (from the 4 tables with 4 legs) + 4 (from the sofa) + 8 (from the 2 chairs) + 9 (from the 3 tables with 3 legs) + 1 (from the table with 1 leg) + 2 (from the rocking chair).",
+    "16 + 4 = 20",
+    "20 + 8 = 28",
+    "28 + 9 = 37",
+    "37 + 1 = 38",
+    "38 + 2 = 40"
+  ],
+  "solution": "40"
+}

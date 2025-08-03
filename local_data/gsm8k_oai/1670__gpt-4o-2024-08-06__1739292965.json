@@ -1,0 +1,18 @@
+{
+  "query": "If a basket is capable of holding 40 fruit altogether, and there are 3 times as many apples as oranges, how many oranges are there?",
+  "steps": [
+    "I need to represent the number of oranges and apples using algebraic expressions.",
+    "Let the number of oranges be \\( x \\).",
+    "According to the problem, there are 3 times as many apples as oranges.",
+    "Thus, the number of apples can be represented as \\( 3x \\).",
+    "The total number of fruits in the basket is given as 40.",
+    "This can be represented with the equation: \\( x + 3x = 40 \\).",
+    "Simplifying the equation, I combine the terms: \\( 4x = 40 \\).",
+    "Now, I need to solve for \\( x \\), which represents the number of oranges.",
+    "Divide both sides of the equation by 4: \\( x = 40 / 4 \\).",
+    "I calculate \\( x = 10 \\).",
+    "Let me double-check: if there are 10 oranges, then there are \\( 3 \\times 10 = 30 \\) apples.",
+    "The total number of fruits is \\( 10 + 30 = 40 \\), which matches the problem's condition."
+  ],
+  "solution": "10"
+}

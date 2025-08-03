@@ -1,0 +1,16 @@
+{
+  "query": "Jennifer has ten pears, 20 oranges, and twice as many apples as pears. If she gives her sister two of each fruit, how many fruits does she have left?",
+  "steps": [
+    "Jennifer starts with ten pears.",
+    "Jennifer starts with 20 oranges.",
+    "Jennifer has twice as many apples as pears.",
+    "Twice as many apples as pears means she has 2 * 10 = 20 apples.",
+    "Initially, Jennifer has 10 pears + 20 oranges + 20 apples = 50 fruits in total.",
+    "Jennifer gives her sister two pears.",
+    "Jennifer gives her sister two oranges.",
+    "Jennifer gives her sister two apples.",
+    "In total, Jennifer gives her sister 2 + 2 + 2 = 6 fruits.",
+    "The number of fruits Jennifer has left is 50 - 6 = 44."
+  ],
+  "solution": "44"
+}

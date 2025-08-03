@@ -1,0 +1,22 @@
+{
+  "query": "Salem is 15 times the size of Leesburg. Leesburg has 58940 people. If 130000 people move out of Salem, and half of Salem's population is women, how many women live in Salem?",
+  "steps": [
+    "First, I need to determine the initial population of Salem.",
+    "Salem is 15 times the size of Leesburg.",
+    "Leesburg has a population of 58940.",
+    "To find the population of Salem, I multiply the population of Leesburg by 15.",
+    "Salem's initial population = 58940 * 15.",
+    "Calculating that gives: 58940 * 15 = 884100.",
+    "Now, I know the initial population of Salem is 884100.",
+    "130000 people move out of Salem.",
+    "To find the new population of Salem after people move out, I subtract 130000 from 884100.",
+    "New population of Salem = 884100 - 130000.",
+    "Calculating that gives: 884100 - 130000 = 754100.",
+    "The new population of Salem is 754100.",
+    "I know that half of Salem's population is women.",
+    "To find the number of women in Salem, I take half of the new population.",
+    "Number of women in Salem = 754100 / 2.",
+    "Calculating that gives: 754100 / 2 = 377050."
+  ],
+  "solution": "377050"
+}

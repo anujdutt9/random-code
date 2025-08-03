@@ -1,0 +1,16 @@
+{
+  "query": "Two runners are competing in a 10-mile race.  The first runs at an average pace of 8 minutes per mile, while the second runs at an average pace of 7 minutes per mile.  After 56 minutes, the second runner stops for a drink of water.  For how many minutes could the second runner remain stopped before the first runner catches up with him?",
+  "steps": [
+    "First, I need to determine how far each runner has traveled after 56 minutes.",
+    "The first runner runs at 8 minutes per mile, so in 56 minutes, they will have run 56 / 8 = 7 miles.",
+    "The second runner runs at 7 minutes per mile, so in 56 minutes, they will have run 56 / 7 = 8 miles.",
+    "At this point, the second runner has covered 8 miles and the first runner has covered 7 miles.",
+    "The difference in distance between the two runners after 56 minutes is 8 - 7 = 1 mile.",
+    "Now, I need to determine the rate at which the first runner is closing the gap.",
+    "The first runner's pace is 8 minutes per mile and the second runner's pace is 7 minutes per mile.",
+    "The first runner closes the gap at a speed of 1 mile per (8 - 7) = 1 minute.",
+    "This means that the first runner will take 8 minutes to cover 1 mile, which is the gap.",
+    "Therefore, the second runner can remain stopped for 8 minutes until the first runner catches up."
+  ],
+  "solution": "8"
+}

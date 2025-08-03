@@ -1,0 +1,22 @@
+{
+  "query": "40 kids are running a race. 10% of them pass the finish line in less than 6 minutes. Three times that number finish in less than 8 minutes. 1/6 of the remaining kids take more than 14 minutes. How many kids take more than 14 minutes?",
+  "steps": [
+    "First, I need to find out how many kids finish the race in less than 6 minutes.",
+    "10% of the 40 kids finish in less than 6 minutes.",
+    "10% of 40 is calculated as (10/100) * 40 = 4.",
+    "So, 4 kids pass the finish line in less than 6 minutes.",
+    "Next, I need to know how many kids finish in less than 8 minutes.",
+    "Three times the number of kids who finish in less than 6 minutes finish in less than 8 minutes.",
+    "Since 4 kids finish in less than 6 minutes, 3 times that number is 3 * 4 = 12.",
+    "So, 12 kids finish the race in less than 8 minutes.",
+    "Now I will calculate how many kids remain after the first two groups.",
+    "12 kids finish in less than 8 minutes, so 40 - 12 = 28 kids are remaining.",
+    "Next, I need to find how many of these remaining kids take more than 14 minutes.",
+    "1/6 of the remaining 28 kids take more than 14 minutes.",
+    "1/6 of 28 is calculated by 28 / 6.",
+    "28 / 6 = 4 with a remainder, but for counting kids we need a whole number.",
+    "1/6 of 28 is approximately 4.67, which implies rounding down since partial kids aren't possible, yielding 4 kids. However, if we are not explicitly told to round down, let's verify by considering the distribution and rounding to the whole number.",
+    "Thus, 4 kids take more than 14 minutes."
+  ],
+  "solution": "4"
+}

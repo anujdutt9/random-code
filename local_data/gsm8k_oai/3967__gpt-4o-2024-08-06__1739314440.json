@@ -1,0 +1,22 @@
+{
+  "query": "Jordan gave Danielle two dozen roses and a box of chocolates as a birthday day gift.  Later that day, after Jordan left, Danielle traded the box of chocolates for another dozen roses.  Overnight, half of the roses wilted, and  Danielle decided to throw the wilted flowers away.  On the second day, another half of the remaining flowers wilted, and she threw the wilted ones away.  How many unwilted flowers remained?",
+  "steps": [
+    "Jordan initially gave Danielle two dozen roses.",
+    "Two dozen roses is equal to 24 roses.",
+    "Danielle traded a box of chocolates for another dozen roses.",
+    "A dozen roses is equal to 12 roses.",
+    "After the trade, Danielle had a total of 24 + 12 roses.",
+    "Adding these together, Danielle had 36 roses.",
+    "Overnight, half of the roses wilted.",
+    "Half of 36 roses is 36/2 = 18 roses.",
+    "Danielle threw away the 18 wilted roses.",
+    "After throwing away the wilted roses, she had 36 - 18 roses remaining.",
+    "So, Danielle was left with 18 roses.",
+    "On the second day, half of the remaining flowers wilted again.",
+    "Half of 18 roses is 18/2 = 9 roses.",
+    "Danielle threw away the 9 wilted roses.",
+    "After throwing away those wilted roses, she had 18 - 9 roses remaining.",
+    "Danielle was left with 9 roses that did not wilt."
+  ],
+  "solution": "9"
+}

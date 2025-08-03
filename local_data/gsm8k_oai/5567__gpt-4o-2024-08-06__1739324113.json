@@ -1,0 +1,13 @@
+{
+  "query": "There were 8000 jelly beans in a certain barrel, and 10 people lined up to take some. The first six people each took twice as many jelly beans as each of the last four people took. If the last four people each took 400 jelly beans, how many jelly beans remained in the container?",
+  "steps": [
+    "First, determine how many jelly beans each of the last four people took. It is given that each took 400 jelly beans.",
+    "Calculate the total number of jelly beans taken by the last four people: 4 people * 400 jelly beans/person = 1600 jelly beans.",
+    "Each of the first six people took twice as many jelly beans as each of the last four people. So, each of the first six people took 2 * 400 = 800 jelly beans.",
+    "Calculate the total number of jelly beans taken by the first six people: 6 people * 800 jelly beans/person = 4800 jelly beans.",
+    "Now, find the total number of jelly beans taken by all 10 people by adding the jelly beans taken by the first six and the last four people: 4800 jelly beans + 1600 jelly beans = 6400 jelly beans.",
+    "The initial number of jelly beans in the barrel was 8000.",
+    "Calculate the number of jelly beans remaining in the container by subtracting the number of jelly beans taken from the initial number: 8000 jelly beans - 6400 jelly beans = 1600 jelly beans."
+  ],
+  "solution": "1600"
+}

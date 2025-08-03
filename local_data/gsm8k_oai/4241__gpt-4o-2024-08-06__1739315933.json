@@ -1,0 +1,19 @@
+{
+  "query": "Three friends Wolfgang, Ludo, and Michael, went to Walmart and bought marbles. Wolfgang bought 16 marbles, Ludo bought 1/4 times more marbles than Wolfgang, and Michael bought 2/3 times as many marbles as the number of marbles both Wolfgang and Ludo bought. If they combined their marbles and decided to share them equally, how many marbles did each get?",
+  "steps": [
+    "Wolfgang bought 16 marbles.",
+    "Ludo bought 1/4 times more marbles than Wolfgang.",
+    "To find how many marbles Ludo bought, calculate 1/4 of Wolfgang's marbles: 1/4 * 16 = 4.",
+    "Ludo bought 4 more marbles than Wolfgang, so Ludo bought 16 + 4 = 20 marbles.",
+    "Now, we need to calculate the total number of marbles bought by Wolfgang and Ludo. Wolfgang's marbles: 16, Ludo's marbles: 20.",
+    "Total marbles bought by Wolfgang and Ludo is 16 + 20 = 36 marbles.",
+    "Michael bought 2/3 times as many marbles as the number of marbles both Wolfgang and Ludo bought.",
+    "Calculate 2/3 of 36: (2/3) * 36 = 24.",
+    "Michael bought 24 marbles.",
+    "Now add up all the marbles: Wolfgang has 16, Ludo has 20, Michael has 24.",
+    "Total marbles = 16 + 20 + 24 = 60 marbles.",
+    "They decided to share them equally among the three friends.",
+    "Divide the total number of marbles by 3: 60 / 3 = 20."
+  ],
+  "solution": "20"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Question: A 72 W navigation unit on a commercial aircraft has a 24 V power supply and uses 3 A of electric current. What is the electrical resistance of the navigation unit?\n\nChoices:\nA: 4 ohms\nB: 8 ohms\nC: 13 ohms\nD: 22 ohms",
+  "steps": [
+    "First, recall the relationship between voltage (V), current (I), and resistance (R) in an electrical circuit, which is given by Ohm's law: V = I * R.",
+    "Given the problem, we have the values: V = 24 V and I = 3 A. We need to find the resistance R.",
+    "Rearranging Ohm's law to solve for R gives us R = V / I. Thus, we can substitute the known values into the equation: R = 24 V / 3 A.",
+    "Now, calculate R: R = 24 / 3 = 8 ohms."
+  ],
+  "solution": "B"
+}

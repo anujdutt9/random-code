@@ -1,0 +1,24 @@
+{
+  "query": "Kendra has 4 packs of pens. Tony has 2 packs of pens. There are 3 pens in each pack. If Kendra and Tony decide to keep two pens each and give the remaining pens to their friends one pen per friend, how many friends will they give pens to?",
+  "steps": [
+    "Kendra has 4 packs of pens, and there are 3 pens in each pack.",
+    "To find out how many pens Kendra has, I multiply 4 packs by 3 pens per pack.",
+    "4 packs * 3 pens per pack = 12 pens",
+    "Tony has 2 packs of pens, with 3 pens in each pack.",
+    "To find the total number of pens Tony has, I multiply 2 packs by 3 pens per pack.",
+    "2 packs * 3 pens per pack = 6 pens",
+    "Now, I need to find the total number of pens Kendra and Tony have together.",
+    "Kendra's pens (12) + Tony's pens (6) = 18 pens",
+    "Kendra decides to keep 2 pens.",
+    "To find out how many pens Kendra gives away, I subtract 2 pens from her total.",
+    "12 pens - 2 pens = 10 pens",
+    "Tony also decides to keep 2 pens.",
+    "To find out how many pens Tony gives away, I subtract 2 pens from his total.",
+    "6 pens - 2 pens = 4 pens",
+    "Now, I need to find the total number of pens given to friends.",
+    "Kendra's given pens (10) + Tony's given pens (4) = 14 pens",
+    "Each friend gets 1 pen.",
+    "The total number of friends who receive pens is equal to the total number of pens given away."
+  ],
+  "solution": "14"
+}

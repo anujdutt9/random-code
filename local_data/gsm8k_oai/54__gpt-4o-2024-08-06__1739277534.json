@@ -1,0 +1,13 @@
+{
+  "query": "Leah earned $28 working odd jobs around the neighborhood. She spent a seventh of it on a milkshake and put half of the rest in her savings account. She left the remaining money in her wallet. Her dog got ahold of her wallet and shredded all the money inside but $1. How many dollars did Leah lose?",
+  "steps": [
+    "Leah earned $28 from working.",
+    "She spent a seventh of her earnings on a milkshake. A seventh of $28 is 28 / 7 = $4.",
+    "After spending $4, Leah has $28 - $4 = $24 left.",
+    "She then put half of the remaining money into her savings account. Half of $24 is 24 / 2 = $12.",
+    "Leah put $12 in her savings account, so she has $24 - $12 = $12 left in her wallet.",
+    "Her dog shredded all the money left in her wallet except for $1.",
+    "Since she had $12 left in her wallet and $1 was not shredded, the amount of money she lost is $12 - $1 = $11."
+  ],
+  "solution": "11"
+}

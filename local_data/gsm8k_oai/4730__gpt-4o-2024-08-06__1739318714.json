@@ -1,0 +1,23 @@
+{
+  "query": "There are twice as many cows as dogs at a petting farm. If there are currently 184 cows at the farm, and the farm owner decides to sell 1/4 of the cows and 3/4 of the dogs, how many animals are remaining on the farm?",
+  "steps": [
+    "There are twice as many cows as dogs at the petting farm.",
+    "Let the number of dogs be \\(d\\).",
+    "According to the information given, the number of cows is \\(2d\\).",
+    "We're given that the number of cows is 184.",
+    "So, \\(2d = 184\\).",
+    "Divide 184 by 2 to find the number of dogs: \\(d = \\frac{184}{2}\\).",
+    "\\(d = 92\\). So, there are 92 dogs initially.",
+    "The owner decides to sell 1/4 of the cows.",
+    "Calculate 1/4 of 184: \\(\\frac{1}{4} \\times 184 = 46\\).",
+    "The owner sells 46 cows.",
+    "Calculate the remaining cows: \\(184 - 46 = 138\\).",
+    "The owner also decides to sell 3/4 of the dogs.",
+    "Calculate 3/4 of 92: \\(\\frac{3}{4} \\times 92 = 69\\).",
+    "The owner sells 69 dogs.",
+    "Calculate the remaining dogs: \\(92 - 69 = 23\\).",
+    "Now, calculate the total number of animals remaining.",
+    "Add the remaining cows and dogs: \\(138 + 23 = 161\\)."
+  ],
+  "solution": "161"
+}

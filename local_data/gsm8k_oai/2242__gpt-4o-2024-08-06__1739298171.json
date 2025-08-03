@@ -1,0 +1,13 @@
+{
+  "query": "Xavier runs three times as many miles as Katie, who runs 4 times as many miles as Cole. If Xavier runs 84 miles, how many miles does Cole run?",
+  "steps": [
+    "Let \\( C \\) be the number of miles Cole runs.",
+    "Since Katie runs 4 times as many miles as Cole, Katie runs \\( 4C \\) miles.",
+    "Xavier runs 3 times as many miles as Katie, so he runs \\( 3 \\times 4C = 12C \\) miles.",
+    "We know Xavier runs 84 miles.",
+    "Set up the equation \\( 12C = 84 \\) to find \\( C \\).",
+    "Divide both sides of the equation by 12: \\( C = \\frac{84}{12} \\).",
+    "Calculate \\( \\frac{84}{12} = 7 \\)."
+  ],
+  "solution": "7"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "During the hot dog eating contest, the 1st competitor ate 12 hot dogs in 3 minutes.  The 2nd competitor ate twice that amount and the 3rd competitor ate 25% less than the 2nd competitor.  How many hotdogs did the 3rd competitor eat?",
+  "steps": [
+    "The 1st competitor ate 12 hot dogs in 3 minutes.",
+    "The 2nd competitor ate twice that amount.",
+    "So, the 2nd competitor ate 12 * 2 = 24 hot dogs.",
+    "The 3rd competitor ate 25% less than the 2nd competitor.",
+    "To find 25% of the 2nd competitor's amount, calculate 25% of 24 hot dogs.",
+    "25% of 24 is (25/100) * 24 = 6 hot dogs.",
+    "Subtract this amount from the 2nd competitor's total: 24 - 6 = 18 hot dogs."
+  ],
+  "solution": "18"
+}

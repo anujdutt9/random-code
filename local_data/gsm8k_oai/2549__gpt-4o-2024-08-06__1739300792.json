@@ -1,0 +1,22 @@
+{
+  "query": "A blacksmith has 400kg of iron to make horseshoes for neighbouring farms and stables. There are 2 farms nearby, each of which has 2 horses. There are 2 stables nearby which all have 5 horses each. While the blacksmith is crafting, a riding school reaches out and asks for as many horseshoes as possible for their own horses. The blacksmith promises to give them however many horseshoes he has left when he has finished his orders for the farms and stables. If each horseshoe needs 2kg of iron, how many horses will get new horseshoes at the riding school?",
+  "steps": [
+    "First, I need to determine how many horses are at the two farms. Each of the farms has 2 horses.",
+    "Calculate the total number of horses at the farms: 2 farms \u00d7 2 horses = 4 horses.",
+    "Next, determine how many horses are in the two stables. Each of the stables has 5 horses.",
+    "Calculate the total number of horses at the stables: 2 stables \u00d7 5 horses = 10 horses.",
+    "To find the total number of horses that require horseshoes from the farms and stables, I need to add the number of horses from both farms and stables.",
+    "Add the horses from the farms and the stables: 4 horses (farms) + 10 horses (stables) = 14 horses.",
+    "Each horse needs 4 horseshoes. Therefore, calculate the total number of horseshoes needed for 14 horses.",
+    "Multiply the total number of horses by the number of shoes each horse requires: 14 horses \u00d7 4 horseshoes = 56 horseshoes.",
+    "Each horseshoe needs 2 kg of iron. Calculate how much iron is needed for 56 horseshoes.",
+    "Multiply the number of horseshoes by the weight of iron needed per horseshoe: 56 horseshoes \u00d7 2 kg/horseshoe = 112 kg of iron.",
+    "The blacksmith initially has 400 kg of iron. Subtract the iron used for the farms and stables from the total iron available.",
+    "Calculate the remaining iron: 400 kg - 112 kg = 288 kg of iron.",
+    "The riding school wants as many horseshoes as possible with the remaining iron. Determine how many horseshoes can be made with 288 kg of iron.",
+    "Divide the remaining iron by the amount needed for one horseshoe: 288 kg \u00f7 2 kg/horseshoe = 144 horseshoes.",
+    "Each horse requires 4 horseshoes. Calculate how many horses can be accommodated with 144 horseshoes.",
+    "Divide the number of horseshoes by the number of shoes per horse: 144 horseshoes \u00f7 4 horseshoes/horse = 36 horses."
+  ],
+  "solution": "36"
+}

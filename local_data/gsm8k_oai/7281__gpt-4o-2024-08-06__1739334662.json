@@ -1,0 +1,15 @@
+{
+  "query": "Sean played cricket for 50 minutes each day for 14 days. Indira also played cricket. Together they played cricket for 1512 minutes. How many minutes did Indira play cricket?",
+  "steps": [
+    "First, I need to calculate the total minutes Sean played cricket over the 14 days.",
+    "Sean played for 50 minutes each day for 14 days.",
+    "To find the total minutes Sean played, I multiply 50 minutes by 14 days.",
+    "50 minutes/day * 14 days = 700 minutes",
+    "Sean played cricket for a total of 700 minutes.",
+    "Now, I know that Sean and Indira together played for 1512 minutes.",
+    "To find out how many minutes Indira played, I need to subtract the minutes Sean played from the total minutes they played together.",
+    "1512 minutes - 700 minutes = 812 minutes",
+    "Indira played cricket for a total of 812 minutes."
+  ],
+  "solution": "812"
+}

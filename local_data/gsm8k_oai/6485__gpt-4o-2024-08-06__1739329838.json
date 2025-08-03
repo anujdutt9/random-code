@@ -1,0 +1,12 @@
+{
+  "query": "My age is five times that of my son. Next year, my son will be eight years old. How old am I now?",
+  "steps": [
+    "I know that currently, my son's age is one year less than it will be next year.",
+    "Next year, my son will be 8 years old.",
+    "So, currently, my son is 8 - 1 = 7 years old.",
+    "My current age is five times my son's current age.",
+    "So, my current age = 5 * 7.",
+    "Calculating the product, my current age is 35."
+  ],
+  "solution": "35"
+}

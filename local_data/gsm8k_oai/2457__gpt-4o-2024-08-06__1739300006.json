@@ -1,0 +1,17 @@
+{
+  "query": "A colony of bees can contain up to 80000 individuals. In winter they are more exposed to death, and if the winter is really cold the bees can begin to die slowly. If the colony starts to lose 1200 bees per day, how many days will pass until the number of bees in the colony reaches a fourth of its initial number?",
+  "steps": [
+    "First, I need to find out what a fourth of the colony's initial number is.",
+    "The initial number of bees is 80,000.",
+    "A fourth of 80,000 is calculated by dividing 80,000 by 4.",
+    "80,000 divided by 4 equals 20,000.",
+    "This means the colony needs to reduce to 20,000 bees.",
+    "I need to find out how many bees the colony must lose to get from 80,000 to 20,000.",
+    "The colony needs to lose 80,000 - 20,000 bees, which equals 60,000 bees.",
+    "Bees are lost at a rate of 1,200 bees per day.",
+    "To find how many days it will take to lose 60,000 bees at a rate of 1,200 bees per day, I need to divide 60,000 by 1,200.",
+    "60,000 divided by 1,200 equals 50.",
+    "So, it will take 50 days for the number of bees in the colony to reach 20,000."
+  ],
+  "solution": "50"
+}

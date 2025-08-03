@@ -1,0 +1,23 @@
+{
+  "query": "Mark buys a loaf of bread for $4.20 and some cheese for $2.05. He gives the cashier $7.00. If the cashier only has 1 quarter and 1 dime in his till, plus a bunch of nickels, how many nickels does Mark get in his change?",
+  "steps": [
+    "First, we need to calculate the total cost of the items Mark buys.",
+    "The total cost of the bread and cheese is $4.20 + $2.05.",
+    "Adding those amounts gives $6.25.",
+    "Now we need to determine how much change Mark should receive from the cashier.",
+    "Mark gave the cashier $7.00.",
+    "The change he should get back is $7.00 - $6.25.",
+    "Subtracting gives $0.75 as the change Mark should receive.",
+    "The cashier has 1 quarter, which is $0.25.",
+    "The cashier also has 1 dime, which is $0.10.",
+    "The total of the quarter and the dime is $0.25 + $0.10 = $0.35.",
+    "Mark needs to receive a total of $0.75 in change.",
+    "He receives $0.35 from the quarter and the dime.",
+    "We need to find out how much more he needs in the form of nickels.",
+    "Subtract the amount given from the total change needed: $0.75 - $0.35 = $0.40.",
+    "Nickels are worth $0.05 each.",
+    "To find how many nickels are needed to make up $0.40, divide $0.40 by $0.05.",
+    "$0.40 \u00f7 $0.05 = 8."
+  ],
+  "solution": "8"
+}

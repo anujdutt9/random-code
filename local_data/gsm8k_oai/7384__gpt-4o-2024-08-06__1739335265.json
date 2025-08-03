@@ -1,0 +1,15 @@
+{
+  "query": "In twenty years, Ramon will be twice as old as Loui today. If Loui is currently 23 years old, how old is Ramon now?",
+  "steps": [
+    "Loui's current age is 23 years.",
+    "I need to find Loui's age in twenty years.",
+    "Loui's age in twenty years will be 23 + 20 = 43 years.",
+    "According to the problem, in twenty years, Ramon will be twice as old as Loui's current age.",
+    "Loui's current age is 23, so twice Loui's current age is 2 * 23 = 46.",
+    "In twenty years, Ramon will be 46 years old.",
+    "Now I need to find Ramon's current age.",
+    "If Ramon will be 46 years old in twenty years, I need to subtract 20 years from 46 to find his current age.",
+    "46 - 20 = 26"
+  ],
+  "solution": "26"
+}

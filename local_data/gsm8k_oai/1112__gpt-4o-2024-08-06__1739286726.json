@@ -1,0 +1,14 @@
+{
+  "query": "42 raspberries, blackberries, and blueberries were picked in total. If half of all the berries had been raspberries, and a third of the berries were blackberries, how many of them were blueberries?",
+  "steps": [
+    "Let's start by determining the number of raspberries. Half of the berries were raspberries.",
+    "Calculate half of 42 to find the number of raspberries: \\( \\frac{42}{2} = 21 \\).",
+    "Next, determine the number of blackberries. A third of the berries were blackberries.",
+    "Calculate a third of 42 to find the number of blackberries: \\( \\frac{42}{3} = 14 \\).",
+    "Now, let's calculate the total number of raspberries and blackberries together.",
+    "Add the number of raspberries and blackberries: 21 raspberries + 14 blackberries = 35.",
+    "To find the number of blueberries, subtract the sum of raspberries and blackberries from the total number of berries.",
+    "Calculate the number of blueberries: 42 total berries - 35 (raspberries + blackberries) = 7."
+  ],
+  "solution": "7"
+}

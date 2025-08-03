@@ -1,0 +1,15 @@
+{
+  "query": "There are 40 students in a class. If 1/10 are absent, 3/4 of the students who are present are in the classroom, and the rest are in the canteen, how many students are in the canteen?",
+  "steps": [
+    "The total number of students in the class is 40.",
+    "1/10 of the students are absent. To find this, calculate 1/10 of 40.",
+    "1/10 of 40 is 4. So, 4 students are absent.",
+    "Subtract the number of absent students from the total number of students to find how many are present.",
+    "40 - 4 = 36, so 36 students are present.",
+    "3/4 of the present students are in the classroom. To find this, calculate 3/4 of 36.",
+    "3/4 of 36 is 27. So, 27 students are in the classroom.",
+    "Subtract the number of students in the classroom from the number of present students to find how many are in the canteen.",
+    "36 - 27 = 9, so 9 students are in the canteen."
+  ],
+  "solution": "9"
+}

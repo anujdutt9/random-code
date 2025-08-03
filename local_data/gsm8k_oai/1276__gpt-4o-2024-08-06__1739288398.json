@@ -1,0 +1,13 @@
+{
+  "query": "Kaylin is five years younger than Sarah, who is twice as old as Eli, who is nine years older than Freyja. If Freyja is ten years old, how old is Kaylin?",
+  "steps": [
+    "I start with the given information. Freyja is 10 years old.",
+    "Next, I move to Eli's age. Eli is 9 years older than Freyja.",
+    "I calculate Eli's age: 10 (Freyja's age) + 9 = 19.",
+    "Now, I determine Sarah's age. Sarah is twice as old as Eli.",
+    "I calculate Sarah's age: 19 (Eli's age) \u00d7 2 = 38.",
+    "Finally, I find Kaylin's age. Kaylin is 5 years younger than Sarah.",
+    "I calculate Kaylin's age: 38 (Sarah's age) - 5 = 33."
+  ],
+  "solution": "33"
+}

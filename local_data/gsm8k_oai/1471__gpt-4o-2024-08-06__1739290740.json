@@ -1,0 +1,16 @@
+{
+  "query": "Karen's class fund contains only $10 and $20 bills,  which amount to $120. The number of $10 bills is twice as many $20 bills. How many $20 bills do they have in their fund?",
+  "steps": [
+    "Let's use variables to represent the number of bills. Let the number of $20 bills be \\( x \\).",
+    "The number of $10 bills is twice the number of $20 bills. So, the number of $10 bills is \\( 2x \\).",
+    "The total value from the $20 bills is \\( 20 \\times x = 20x \\) dollars.",
+    "The total value from the $10 bills is \\( 10 \\times 2x = 20x \\) dollars.",
+    "The total amount of money in the fund is the sum of the values from the $10 and $20 bills, which is \\( 20x + 20x = 40x \\).",
+    "According to the problem, the total amount of money is $120.",
+    "We set up the equation: \\( 40x = 120 \\).",
+    "To find \\( x \\), divide both sides by 40: \\( x = \\frac{120}{40} \\).",
+    "Simplify \\(\\frac{120}{40}\\): \\( x = 3 \\).",
+    "Thus, the number of $20 bills is 3."
+  ],
+  "solution": "3"
+}

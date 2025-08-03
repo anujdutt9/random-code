@@ -1,0 +1,16 @@
+{
+  "query": "Marcus is having a water balloon party. He has 100 balloons. Each balloon holds 3 ounces of water. He can buy 50 ounces of water for $2.5 a bottle. If he walks into the store with 2 $10 bills, how much change will he have after he buys all the water he needs?",
+  "steps": [
+    "Marcus needs to fill 100 balloons.",
+    "Each balloon holds 3 ounces of water.",
+    "So, he needs 100 balloons * 3 ounces/balloon = 300 ounces of water.",
+    "Water is sold in bottles that contain 50 ounces each.",
+    "Marcus needs to determine how many bottles of water are required to get at least 300 ounces.",
+    "300 ounces / 50 ounces per bottle = 6 bottles are needed.",
+    "Each bottle costs $2.5.",
+    "So, the total cost for 6 bottles is 6 bottles * $2.5/bottle = $15.",
+    "Marcus walks into the store with 2 $10 bills, which equals $20.",
+    "Marcus spends $15 on water, so his change is $20 - $15 = $5."
+  ],
+  "solution": "5"
+}

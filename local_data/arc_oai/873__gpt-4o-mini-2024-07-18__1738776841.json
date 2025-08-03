@@ -1,0 +1,10 @@
+{
+  "query": "Question: Approximately how many times does the Moon revolve around Earth during one revolution of Earth around the Sun?\n\nChoices:\nA: 1\nB: 12\nC: 28\nD: 365",
+  "steps": [
+    "First, we need to determine how long it takes for the Moon to complete one full orbit around Earth, which is approximately 27.3 days.",
+    "Next, we consider how long it takes for Earth to complete one full orbit around the Sun, which is approximately 365.25 days (one year).",
+    "To find out how many times the Moon revolves around Earth in one year, we divide the number of days it takes for Earth to orbit the Sun by the number of days it takes for the Moon to orbit Earth: 365.25 days / 27.3 days.",
+    "Carrying out this calculation gives us approximately 13.4, which we can round to 12 for approximation purposes."
+  ],
+  "solution": "B"
+}

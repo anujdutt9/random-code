@@ -1,0 +1,23 @@
+{
+  "query": "Maria is a saleswoman at a flower shop. On the first day, she sold 30 tulips and 20 roses. The next day, she doubled the previous day's sales. On the third day, she sold only 10% of the tulips sold on the second day and 16 roses. The price of one tulip is $2 and one rose is $3. How much did Maria earn over these three days?",
+  "steps": [
+    "First, I need to calculate the number of tulips and roses sold on each day.",
+    "On the first day, Maria sold 30 tulips and 20 roses.",
+    "On the second day, she doubled her sales, so she sold \\(2 \\times 30 = 60\\) tulips and \\(2 \\times 20 = 40\\) roses.",
+    "On the third day, she sold 10% of the tulips she sold on the second day, which is \\(0.1 \\times 60 = 6\\) tulips.",
+    "She also sold 16 roses on the third day.",
+    "Now, I'll calculate the earnings from tulips for each day.",
+    "On the first day, her earnings from tulips were \\(30 \\times 2 = 60\\) dollars.",
+    "On the second day, her earnings from tulips were \\(60 \\times 2 = 120\\) dollars.",
+    "On the third day, her earnings from tulips were \\(6 \\times 2 = 12\\) dollars.",
+    "Now, I'll calculate the earnings from roses for each day.",
+    "On the first day, her earnings from roses were \\(20 \\times 3 = 60\\) dollars.",
+    "On the second day, her earnings from roses were \\(40 \\times 3 = 120\\) dollars.",
+    "On the third day, her earnings from roses were \\(16 \\times 3 = 48\\) dollars.",
+    "I'll now add up all the earnings to find the total amount earned over the three days.",
+    "Total earnings from tulips are \\(60 + 120 + 12 = 192\\) dollars.",
+    "Total earnings from roses are \\(60 + 120 + 48 = 228\\) dollars.",
+    "Adding these together gives the total earnings: \\(192 + 228 = 420\\) dollars."
+  ],
+  "solution": "420"
+}

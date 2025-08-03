@@ -1,0 +1,16 @@
+{
+  "query": "Deborah has four letters to mail. Standard postage is $1.08 per letter, with an additional charge for international mail. Deborah is mailing two letters internationally, and she is paying $4.60 to mail four letters. How many cents is the additional charge per letter for international shipping?",
+  "steps": [
+    "Deborah is mailing 4 letters in total.",
+    "The cost for each domestic letter is $1.08.",
+    "Deborah is mailing 2 letters domestically and 2 internationally.",
+    "The total cost for 2 domestic letters would be 2 * $1.08 = $2.16.",
+    "The total cost Deborah paid for mailing all the letters is $4.60.",
+    "To find the cost paid for the international letters, subtract the cost of the domestic letters from the total cost: $4.60 - $2.16 = $2.44.",
+    "The cost of mailing the 2 international letters is $2.44, so the cost per international letter is $2.44 / 2 = $1.22.",
+    "We know that the standard cost per letter (domestic) is $1.08.",
+    "The additional charge for international shipping per letter is $1.22 - $1.08 = $0.14.",
+    "We need to express this additional charge in cents. $0.14 is equal to 14 cents."
+  ],
+  "solution": "14"
+}

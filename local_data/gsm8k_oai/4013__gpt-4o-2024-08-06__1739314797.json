@@ -1,0 +1,22 @@
+{
+  "query": "Kate saved $27 in March. She saved $13 in April and $28 in May. Then Kate spent $49 on a keyboard and $5 on a mouse. How much money does Kate have left?",
+  "steps": [
+    "First, I need to calculate the total amount of money Kate saved.",
+    "Kate saved $27 in March.",
+    "Kate saved $13 in April.",
+    "Kate saved $28 in May.",
+    "To find the total savings, I add these amounts together: $27 + $13 + $28.",
+    "First, I add $27 and $13 to get $40.",
+    "Then I add $40 and $28 to get $68.",
+    "Kate has saved a total of $68.",
+    "Next, I need to calculate the total amount Kate spent.",
+    "Kate spent $49 on a keyboard.",
+    "She also spent $5 on a mouse.",
+    "To find the total spending, I add these expenses: $49 + $5.",
+    "Adding these gives me a total spending of $54.",
+    "To find out how much money Kate has left, I subtract her total spending from her total savings.",
+    "I subtract $54 from $68.",
+    "The result of $68 - $54 is $14."
+  ],
+  "solution": "14"
+}

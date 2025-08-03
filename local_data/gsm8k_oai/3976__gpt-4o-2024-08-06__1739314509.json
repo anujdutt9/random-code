@@ -1,0 +1,13 @@
+{
+  "query": "Jess and her family play Jenga, a game made up of 54 stacked blocks in which each player removes one block in turns until the stack falls. The 5 players, including Jess, play 5 rounds in which each player removes one block. In the sixth round, Jess's father goes first. He removes a block, causing the tower to almost fall. Next, Jess tries to remove another block knocking down the tower. How many blocks did the tower have before Jess's turn?",
+  "steps": [
+    "The Jenga tower starts with 54 blocks.",
+    "There are 5 players, and they play for 5 complete rounds where each player removes one block per round.",
+    "In one complete round with 5 players, 5 blocks are removed in total.",
+    "After 5 rounds, since each round has 5 turns, a total of 5 x 5 = 25 blocks have been removed.",
+    "Starting with 54 blocks and removing 25 blocks from 5 complete rounds leaves the tower with 54 - 25 = 29 blocks.",
+    "In the sixth round, Jess's father removes 1 more block.",
+    "After Jess's father's turn, 1 more block is removed, so 29 - 1 = 28 blocks are left before Jess's turn."
+  ],
+  "solution": "28"
+}

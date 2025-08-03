@@ -1,0 +1,17 @@
+{
+  "query": "A long wire is cut into three smaller pieces in the ratio of 7:3:2. If the shortest piece is 16 cm, how long was the entire wire before it was cut?",
+  "steps": [
+    "The wire is divided into three smaller pieces in a ratio of 7:3:2.",
+    "If the shortest piece is 16 cm, that corresponds to the last part of the ratio, which is 2.",
+    "To find the length of each part of the ratio, the shortest piece is 16 cm and represents the \"2\" in the ratio 7:3:2.",
+    "Let's find the unit length for each part of the ratio: 16 cm / 2 = 8 cm per unit.",
+    "Using the unit length, calculate the lengths of the other pieces.",
+    "For the piece that represents \"3\" in the ratio: 3 * 8 cm = 24 cm.",
+    "For the piece that represents \"7\" in the ratio: 7 * 8 cm = 56 cm.",
+    "Now add the lengths of all three pieces to find the total length of the original wire.",
+    "Original wire length = shortest piece + middle piece + longest piece.",
+    "Original wire length = 16 cm + 24 cm + 56 cm.",
+    "Original wire length = 96 cm."
+  ],
+  "solution": "96"
+}

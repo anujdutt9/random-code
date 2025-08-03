@@ -1,0 +1,14 @@
+{
+  "query": "John worked 8 hours a day every day from the 3rd to the 8th, including the 3rd and not including the 8th.  How many hours did he work?",
+  "steps": [
+    "First, I need to understand the total number of days John worked.",
+    "John started working on the 3rd and worked up until the 8th, but did not include the 8th.",
+    "This means he worked from the 3rd through the 7th.",
+    "Let's count the days: 3rd, 4th, 5th, 6th, 7th.",
+    "That is a total of 5 days.",
+    "John worked 8 hours per day.",
+    "To find the total hours, I need to multiply the number of days by the hours per day.",
+    "So, \\(5 \\text{ days} \\times 8 \\text{ hours/day} = 40 \\text{ hours}\\)."
+  ],
+  "solution": "40"
+}

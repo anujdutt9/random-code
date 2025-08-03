@@ -1,0 +1,17 @@
+{
+  "query": "A pet shop has 2 puppies and some kittens. A puppy costs $20, and a kitten costs $15. If the stock is worth $100, how many kittens does the pet shop have?",
+  "steps": [
+    "First, I'll determine the total cost of the puppies.",
+    "There are 2 puppies each costing $20.",
+    "So, the total cost of the puppies is 2 * $20 = $40.",
+    "Now, I'll find out how much the kittens contribute to the total stock value.",
+    "The total stock value is $100.",
+    "Subtracting the cost of the puppies, the remaining value for kittens is $100 - $40 = $60.",
+    "Each kitten costs $15.",
+    "I'll calculate how many kittens can be bought for $60.",
+    "Number of kittens = $60 / $15 per kitten.",
+    "$60 divided by $15 equals 4.",
+    "Thus, there are 4 kittens in the shop."
+  ],
+  "solution": "4"
+}

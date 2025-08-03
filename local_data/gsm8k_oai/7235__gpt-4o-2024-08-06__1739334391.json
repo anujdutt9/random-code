@@ -1,0 +1,19 @@
+{
+  "query": "Jenny is older than Charlie by five years, while Charlie is older than Bobby by three years. How old will Charlie be when Jenny becomes twice as old as Bobby?",
+  "steps": [
+    "To find out how old Charlie will be when Jenny becomes twice as old as Bobby, first, I need to establish their current ages in terms of Bobby's age. Let's say Bobby is B years old.",
+    "Since Charlie is older than Bobby by 3 years, Charlie's current age is B + 3 years.",
+    "Jenny is older than Charlie by 5 years. Therefore, Jenny's current age is the age of Charlie plus 5 years, which is (B + 3) + 5 = B + 8 years.",
+    "Now, I need to set up the condition when Jenny becomes twice as old as Bobby. That means:\nJenny's age = 2 * Bobby's age.",
+    "Substitute Jenny's current age and Bobby's age into the condition:\nB + 8 = 2 * B.",
+    "Solve the equation B + 8 = 2B to find Bobby's current age.",
+    "Subtract B from both sides:\n8 = B.",
+    "Therefore, Bobby is currently 8 years old.",
+    "Using Bobby's current age, calculate Charlie's age: B + 3 = 8 + 3 = 11.",
+    "Charlie is currently 11 years old.",
+    "Since we want to find out how old Charlie will be when Jenny becomes twice as old as Bobby, I need to double-check the current ages: \nIf Bobby is 8, then Jenny should be 16 to be twice Bobby's current age.",
+    "On reevaluating, since Jenny (Bobby + 8) equals Jenny twice Bobby (2 * 8), Bobby's age holds, making Charlie's corresponding age 11.",
+    "Therefore, Charlie will be 11 years old when Jenny is twice Bobby's age."
+  ],
+  "solution": "11"
+}

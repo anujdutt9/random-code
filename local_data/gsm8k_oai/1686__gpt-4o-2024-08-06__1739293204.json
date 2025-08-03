@@ -1,0 +1,12 @@
+{
+  "query": "Every day, Bob logs 10 hours of work in his office. If he works for five days a week, calculate the total number of hours he logs in a month.",
+  "steps": [
+    "Bob works 10 hours each day.",
+    "He works for 5 days in a week.",
+    "To find weekly hours, multiply the number of days he works by the hours per day: 5 days * 10 hours/day = 50 hours/week.",
+    "Now, I need to calculate the total hours for a month.",
+    "Assume there are approximately 4 weeks in a month.",
+    "Multiply the weekly hours by 4 weeks: 50 hours/week * 4 weeks = 200 hours/month."
+  ],
+  "solution": "200"
+}

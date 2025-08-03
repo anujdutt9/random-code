@@ -1,0 +1,13 @@
+{
+  "query": "Ron is part of a book club that allows each member to take a turn picking a new book every week. The club is made up of three couples and five single people along with Ron and his wife. How many times a year does Ron get to pick a new book?",
+  "steps": [
+    "First, I want to determine how many people are in the book club.",
+    "The club consists of three couples. Since each couple consists of two people, they make up 3 * 2 = 6 people.",
+    "Additionally, there are five single people in the club.",
+    "Ron and his wife are also part of the club, adding 2 more people.",
+    "To find the total number of members, I add up the people: 6 (from the couples) + 5 (single people) + 2 (Ron and his wife) = 13 people in total.",
+    "The club picks a new book every week, which means 52 book selections a year.",
+    "Since there are 13 people rotating turns to pick a book, each person gets to pick 52 / 13 = 4 times per year."
+  ],
+  "solution": "4"
+}

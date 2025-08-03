@@ -1,0 +1,19 @@
+{
+  "query": "The class has to guess how many jellybeans are in a jar the teacher brought in. He lets 4 students make their guesses. The first thinks it contains 100 jellybeans. The second says there are 8 times as many. The third guesses 200 less than the third. The fourth takes the average of the first three guesses, and then adds 25 to it. How many jellybeans did the fourth student guess?",
+  "steps": [
+    "The first student guesses that there are 100 jellybeans.",
+    "The second student guesses 8 times the number of jellybeans the first student guessed.",
+    "Calculating the second student's guess: 8 times 100 is 800.",
+    "The third student guesses 200 less than the second student's guess.",
+    "Calculating the third student's guess: 800 minus 200 is 600.",
+    "Now, we need to find the average of the first three guesses.",
+    "First, sum the first three guesses: 100 + 800 + 600.",
+    "100 + 800 is 900.",
+    "900 + 600 is 1500.",
+    "Divide the total by 3 to find the average: 1500 divided by 3.",
+    "1500 divided by 3 is 500.",
+    "The fourth student adds 25 to the average.",
+    "500 plus 25 is 525."
+  ],
+  "solution": "525"
+}

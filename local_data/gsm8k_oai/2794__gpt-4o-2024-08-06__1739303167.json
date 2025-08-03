@@ -1,0 +1,18 @@
+{
+  "query": "John repairs 5 cars.  3 of the cars take 40 minutes each to repair.  The remaining ones take 50% longer each to repair.  He makes $20 per hour repairing cars.  How much money does he make?",
+  "steps": [
+    "John repairs 5 cars in total.",
+    "Out of these, 3 cars take 40 minutes each to repair.",
+    "40 minutes is 2/3 of an hour.",
+    "For these 3 cars, the total time taken is 3 cars * 40 minutes per car = 120 minutes.",
+    "120 minutes equals 120/60 = 2 hours.",
+    "The other 2 cars take 50% longer than 40 minutes each.",
+    "50% of 40 minutes is 20 minutes, so each of these cars takes 40 + 20 = 60 minutes to repair.",
+    "60 minutes is equal to 1 hour.",
+    "For these 2 cars, the total time taken is 2 cars * 1 hour per car = 2 hours.",
+    "The total time John spends repairing all the cars is 2 hours (for the first 3 cars) + 2 hours (for the last 2 cars) = 4 hours.",
+    "John makes $20 per hour.",
+    "For 4 hours of work, he makes 4 hours * $20 per hour = $80."
+  ],
+  "solution": "80"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "The teacher agrees to order pizza for the class. For every student in the class, she will buy 2 pieces of cheese and 1 piece of onion and they will eat exactly that amount. A large pizza has 18 slices. She orders 6 total pizzas and there are 8 pieces of cheese and 4 pieces of onion leftover. How many students are in the class?",
+  "steps": [
+    "Let's begin by determining the total number of pizza slices the teacher orders. She orders 6 pizzas, and each large pizza has 18 slices.",
+    "Calculate the total number of slices: 6 pizzas * 18 slices per pizza = 108 slices.",
+    "Now let's figure out how many slices are supposed to be distributed to the students.",
+    "The teacher bought 108 slices and there are 8 cheese and 4 onion slices leftover. That means 8 + 4 = 12 slices were leftover.",
+    "Subtract the leftover slices from the total slices: 108 slices - 12 slices = 96 slices.",
+    "We need to determine how these 96 slices were allocated to the students, given each student receives 2 pieces of cheese and 1 piece of onion.",
+    "For each student, the teacher provides 2 cheese + 1 onion = 3 slices in total.",
+    "Now, divide the total number of slices by the slices per student to find how many students were accounted for.",
+    "Calculate the number of students: 96 slices / 3 slices per student = 32 students."
+  ],
+  "solution": "32"
+}

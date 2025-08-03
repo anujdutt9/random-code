@@ -1,0 +1,18 @@
+{
+  "query": "The batting cage sells golf balls by the dozen. They charge $30 for 3 dozen. Dan buys 5 dozen, Gus buys 2 dozen, and Chris buys 48 golf balls. How many golf balls do they purchase in total, assuming 12 golf balls are 1 dozen?",
+  "steps": [
+    "I know that 1 dozen is equal to 12 golf balls.",
+    "Dan buys 5 dozen golf balls.",
+    "5 dozen is calculated as 5 times 12 golf balls per dozen.",
+    "5 times 12 equals 60. So, Dan buys 60 golf balls.",
+    "Gus buys 2 dozen golf balls.",
+    "2 dozen is calculated as 2 times 12 golf balls per dozen.",
+    "2 times 12 equals 24. So, Gus buys 24 golf balls.",
+    "Chris buys 48 golf balls directly, so I don't need to convert dozens for him.",
+    "Now I need to find the total number of golf balls purchased by Dan, Gus, and Chris.",
+    "I will add the number of golf balls bought by Dan, Gus, and Chris. That's 60 plus 24 plus 48.",
+    "Adding 60 and 24 gives 84.",
+    "Adding 84 and 48 gives 132."
+  ],
+  "solution": "132"
+}

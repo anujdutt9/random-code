@@ -1,0 +1,17 @@
+{
+  "query": "Viggo's age was 10 years more than twice his younger brother's age when his brother was 2. If his younger brother is currently 10 years old, what's the sum of theirs ages?",
+  "steps": [
+    "First, I need to find Viggo's younger brother's age when he was 2 years old.",
+    "Since his brother is currently 10 years old, that means 8 years ago his brother was 2 years old (10 - 2 = 8).",
+    "Next, I need to calculate Viggo's age 8 years ago.",
+    "According to the problem, Viggo's age was 10 years more than twice his younger brother's age when his brother was 2.",
+    "Twice the brother's age when the brother was 2 years old would be 2 * 2 = 4.",
+    "Therefore, at that time, Viggo's age was 4 + 10 = 14 years old.",
+    "Now, I need to find Viggo's current age.",
+    "If Viggo was 14 years old 8 years ago, then his current age is 14 + 8 = 22 years old.",
+    "Finally, I need to calculate the sum of Viggo's and his brother's current ages.",
+    "The brother is 10 years old and Viggo is 22 years old.",
+    "The sum of their ages is 10 + 22 = 32."
+  ],
+  "solution": "32"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "An elementary school teacher is making Halloween goodie bags for her class.  She wants the bags to be personalized, so she surveys her students asking whether they'd like a vampire-themed bag or a pumpkin-themed bag.  Of her 25 students, 11 indicate they want the vampire-themed bag and 14 indicate they want the pumpkin-themed bag.  The store the teacher shops at sells packs of 5 of each theme at a price of $3 per package, as well as individual bags of each theme at a price of $1 each.  What is the least amount of money the teacher can spend on the bags if she buys every student the theme they requested?",
+  "steps": [
+    "First, I need to determine how many vampire-themed and pumpkin-themed bags are needed. According to the survey, 11 students want a vampire-themed bag and 14 students want a pumpkin-themed bag.",
+    "Now, I will calculate the number of vampire-themed packs needed. Each pack contains 5 bags, and I need to cover 11 students. Dividing 11 by 5, I get 2 whole packs with some students remaining who need individual bags. This is because 2 packs will cover 10 students.",
+    "Since 10 of the 11 students are covered by 2 packs, I still need 1 more individual vampire-themed bag for the remaining student.",
+    "Next, I\u2019ll calculate the number of pumpkin-themed packs needed. Each pack contains 5 bags, and 14 students need one. Dividing 14 by 5, I get 2 whole packs as well, covering 10 students.",
+    "Since 2 packs cover 10 students, I need 4 more individual pumpkin-themed bags to cover the remaining students.",
+    "Now I will calculate the total cost for vampire-themed bags. Two packs cost 2 * $3 = $6, and one individual bag costs $1. Therefore, the total for vampire bags is $6 + $1 = $7.",
+    "For pumpkin-themed bags, two packs cost 2 * $3 = $6, and 4 individual bags cost 4 * $1 = $4. Therefore, the total for pumpkin bags is $6 + $4 = $10.",
+    "Finally, I will add the total cost for vampire bags and pumpkin bags. The cost is $7 (vampire) + $10 (pumpkin) = $17."
+  ],
+  "solution": "17"
+}

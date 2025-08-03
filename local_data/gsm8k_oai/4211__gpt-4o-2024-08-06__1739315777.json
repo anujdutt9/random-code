@@ -1,0 +1,14 @@
+{
+  "query": "The average number of fruits per basket in five baskets is 25. If basket A contains 15 apples, B has 30 mangoes, C has 20 peaches, D has 25 pears and E has some bananas, how many bananas are in basket E?",
+  "steps": [
+    "The problem states that the average number of fruits per basket in five baskets is 25.",
+    "To find the total number of fruits across all five baskets, we multiply the average number of fruits per basket (25) by the number of baskets (5).",
+    "25 (average) x 5 (baskets) = 125 total fruits.",
+    "Now, we need to determine how many fruits are already accounted for in baskets A, B, C, and D.",
+    "Basket A has 15 apples. + Basket B has 30 mangoes. + Basket C has 20 peaches. + Basket D has 25 pears.",
+    "15 + 30 + 20 + 25 = 90 fruits in baskets A, B, C, and D combined.",
+    "To find out how many bananas are in basket E, we subtract the number of fruits in baskets A, B, C, and D from the total number of fruits across all baskets.",
+    "125 total fruits - 90 fruits in A, B, C, and D = 35 bananas in basket E."
+  ],
+  "solution": "35"
+}

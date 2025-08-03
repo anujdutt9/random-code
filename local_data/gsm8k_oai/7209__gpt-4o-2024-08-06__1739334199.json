@@ -1,0 +1,24 @@
+{
+  "query": "The price of candy bars is twice the cost of caramel, and the cost of cotton candy is half the price of 4 candy bars. If the price of 1 caramel is $3, how much do 6 candy bars, 3 caramel, and 1 cotton candy cost together?",
+  "steps": [
+    "First, I need to find the price of one candy bar. I know the candy bar price is twice the cost of a caramel.",
+    "The cost of one caramel is $3.",
+    "Therefore, the price of one candy bar is 2 times $3.",
+    "This means the price of one candy bar is $6.",
+    "Next, I need to find the price of cotton candy, which is half the price of 4 candy bars.",
+    "First, calculate the price of 4 candy bars: 4 times $6.",
+    "4 candy bars cost $24.",
+    "Cotton candy is half this price, so it is $24 divided by 2.",
+    "The price of 1 cotton candy is $12.",
+    "Now, I need to calculate the total cost of 6 candy bars, 3 caramels, and 1 cotton candy.",
+    "The cost of 6 candy bars is 6 times $6.",
+    "6 candy bars cost $36.",
+    "The cost of 3 caramels is 3 times $3.",
+    "3 caramels cost $9.",
+    "The cost of 1 cotton candy, as previously calculated, is $12.",
+    "Now, I add the costs together: $36 (6 candy bars) + $9 (3 caramels) + $12 (1 cotton candy).",
+    "The total cost is $36 + $9 + $12.",
+    "Therefore, the total cost is $57."
+  ],
+  "solution": "57"
+}

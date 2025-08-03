@@ -1,0 +1,13 @@
+{
+  "query": "On Sunday Alice bought 4 pints of strawberry ice cream. The next day she went back and bought three times that number of pints. On Tuesday she bought one-third of the number of pints she bought the day before. On Wednesday she returned half of the pints she bought the day before because they were expired. How many pints of ice cream did she have on Wednesday?",
+  "steps": [
+    "Alice bought 4 pints of strawberry ice cream on Sunday.",
+    "The next day, Monday, she bought three times that number. So she bought 3 * 4 = 12 pints on Monday.",
+    "On Tuesday, she bought one-third of the number of pints she bought on Monday. One-third of 12 is 12 / 3 = 4 pints.",
+    "On Wednesday, she returned half of the pints she bought on Tuesday. Half of 4 pints is 4 / 2 = 2 pints.",
+    "To find out how many pints she had on Wednesday, we need to consider the total she bought and adjust for returns.",
+    "On Wednesday, she had the pints from Sunday (4 pints), Monday (12 pints), and Tuesday (4 pints), minus the 2 pints she returned on Wednesday.",
+    "Total pints on Wednesday is 4 (Sunday) + 12 (Monday) + 4 (Tuesday) - 2 (returned on Wednesday) = 18 pints."
+  ],
+  "solution": "18"
+}

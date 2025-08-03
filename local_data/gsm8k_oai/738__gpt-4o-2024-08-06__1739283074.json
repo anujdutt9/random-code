@@ -1,0 +1,14 @@
+{
+  "query": "Tom Sawyer has tricked his friends into whitewashing Aunt Polly's 100-foot fence. His first friend, Ben, whitewashed 10 feet. His second friend Billy whitewashed a fifth of the remaining fence. A third friend, Johnny, whitewashed a third of the fence that was left after that. How much of the fence still needs to be whitewashed?",
+  "steps": [
+    "The total length of the fence is 100 feet.",
+    "Ben whitewashed 10 feet, reducing the remaining length of the fence to 100 - 10 = 90 feet.",
+    "Billy then whitewashed a fifth of the remaining 90 feet.",
+    "A fifth of 90 feet is calculated as 90 / 5 = 18 feet.",
+    "After Billy whitewashed 18 feet, the remaining length of the fence is 90 - 18 = 72 feet.",
+    "Johnny whitewashed a third of the remaining 72 feet.",
+    "A third of 72 feet is calculated as 72 / 3 = 24 feet.",
+    "After Johnny whitewashed 24 feet, the final remaining length of the fence is 72 - 24 = 48 feet."
+  ],
+  "solution": "48"
+}

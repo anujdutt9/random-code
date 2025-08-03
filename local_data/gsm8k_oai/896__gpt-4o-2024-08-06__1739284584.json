@@ -1,0 +1,22 @@
+{
+  "query": "The math questions in a contest are divided into three rounds: easy, average, and hard. There are corresponding points given for each round. That is 2, 3, and 5 points for every correct answer in the easy, average, and hard rounds, respectively. Suppose Kim got 6 correct answers in the easy; 2 correct answers in the average; and 4 correct answers in the difficult round, what are her total points in the contest?",
+  "steps": [
+    "First, I need to calculate the total points Kim earned from the easy round.",
+    "In the easy round, Kim got 6 correct answers.",
+    "Each correct answer in the easy round gives 2 points.",
+    "Calculating the points from the easy round: 6 correct answers * 2 points per answer = 12 points.",
+    "Next, I will calculate the total points Kim earned from the average round.",
+    "In the average round, Kim got 2 correct answers.",
+    "Each correct answer in the average round gives 3 points.",
+    "Calculating the points from the average round: 2 correct answers * 3 points per answer = 6 points.",
+    "Now, I will calculate the total points Kim earned from the hard round.",
+    "In the hard round, Kim got 4 correct answers.",
+    "Each correct answer in the hard round gives 5 points.",
+    "Calculating the points from the hard round: 4 correct answers * 5 points per answer = 20 points.",
+    "Finally, I will sum all the points from each round to get Kim's total points in the contest.",
+    "Total points = points from easy round + points from average round + points from hard round.",
+    "Total points = 12 points (easy) + 6 points (average) + 20 points (hard).",
+    "Total points = 38 points."
+  ],
+  "solution": "38"
+}

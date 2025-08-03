@@ -1,0 +1,14 @@
+{
+  "query": "The kids in Ms. Swanson's class have an average of 5 zits each. The kids in Mr. Jones' class have an average of six zits each. If there are 25 kids in Ms. Swanson's class and 32 in Mr. Jones' class, how many more zits are there in Mr. Jones' class than in Ms. Swanson's?",
+  "steps": [
+    "First, I need to calculate the total number of zits in Ms. Swanson's class.",
+    "The average number of zits per kid in Ms. Swanson's class is 5, and there are 25 kids in the class.",
+    "To find the total number of zits in Ms. Swanson's class, I multiply the average number of zits by the number of kids: 5 * 25 = 125.",
+    "Next, I need to calculate the total number of zits in Mr. Jones' class.",
+    "The average number of zits per kid in Mr. Jones' class is 6, and there are 32 kids in the class.",
+    "To find the total number of zits in Mr. Jones' class, I multiply the average number of zits by the number of kids: 6 * 32 = 192.",
+    "Now, I need to find how many more zits there are in Mr. Jones' class than in Ms. Swanson's class.",
+    "I subtract the total number of zits in Ms. Swanson's class from the total number in Mr. Jones' class: 192 - 125 = 67."
+  ],
+  "solution": "67"
+}

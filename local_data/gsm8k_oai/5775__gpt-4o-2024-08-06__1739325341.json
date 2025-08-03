@@ -1,0 +1,15 @@
+{
+  "query": "There are 30 spaces for each vehicle in a parking lot. A caravan takes up a total of 2 spaces of parking space. How many vehicles can still park if there are 3 caravans currently parking?",
+  "steps": [
+    "I know each caravan takes up 2 spaces.",
+    "There are currently 3 caravans parked.",
+    "To find out how many spaces 3 caravans take up, I multiply the number of caravans by the number of spaces each caravan occupies.",
+    "3 caravans * 2 spaces per caravan = 6 spaces occupied by caravans.",
+    "The parking lot has a total of 30 spaces.",
+    "To find out how many spaces are available, I subtract the spaces occupied by the caravans from the total spaces.",
+    "30 total spaces - 6 occupied spaces = 24 available spaces.",
+    "Each vehicle takes up 1 space.",
+    "Therefore, the number of vehicles that can still park is equal to the number of available spaces."
+  ],
+  "solution": "24"
+}

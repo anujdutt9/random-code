@@ -1,0 +1,22 @@
+{
+  "query": "Brian is taping up some boxes. Each box needs three pieces of tape, one as long as the long side and two as long as the short side. If Brian tapes up 5 boxes that measure 15 inches by 30 inches and 2 boxes that measure 40 inches square, how much tape does he need?",
+  "steps": [
+    "I have two sets of boxes to consider, the first set is 5 boxes measuring 15 inches by 30 inches.",
+    "For each of these boxes, I need one piece of tape as long as the long side, which is 30 inches.",
+    "Additionally, I need two pieces of tape as long as the short side, which is 15 inches, for each of these boxes.",
+    "The total tape needed for one box of the first set is 1 * 30 inches + 2 * 15 inches.",
+    "Calculating that gives me 30 + 30 = 60 inches per box.",
+    "Since there are 5 such boxes, I need 5 * 60 inches of tape for this first type of box.",
+    "5 * 60 inches equals 300 inches.",
+    "The second set is 2 boxes that measure 40 inches square.",
+    "For each of these boxes, I need one piece of tape as long as one side of the square, which is 40 inches.",
+    "Additionally, I need two more pieces of tape as long as another side of the square, also 40 inches each.",
+    "The total tape needed for one box of the second set is 1 * 40 inches + 2 * 40 inches.",
+    "Calculating that gives me 40 + 80 = 120 inches per box.",
+    "Since there are 2 such boxes, I need 2 * 120 inches of tape for this second type of box.",
+    "2 * 120 inches equals 240 inches.",
+    "Now, I add the total tape needed for both sets of boxes: 300 inches + 240 inches.",
+    "The total amount of tape needed is 300 + 240 = 540 inches."
+  ],
+  "solution": "540"
+}

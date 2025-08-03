@@ -1,0 +1,13 @@
+{
+  "query": "A group of security guards were hired for the night shift at a factory. The four guards agreed to a rotating schedule to cover the nine hours of the night shift. The first guard would take three hours since they were still awake, the last guard would wake up early and take two hours, and the middle two guards would split the remaining hours. How many hours will each middle guard take?",
+  "steps": [
+    "The total duration of the night shift is 9 hours.",
+    "The first guard takes 3 hours of the shift.",
+    "The last guard takes 2 hours of the shift.",
+    "Calculate the total hours covered by the first and last guard: 3 hours + 2 hours = 5 hours.",
+    "Subtract the hours covered by the first and last guard from the total shift duration: 9 hours - 5 hours = 4 hours.",
+    "The remaining hours, 4 hours, need to be split equally between the two middle guards.",
+    "Divide the 4 remaining hours by the 2 middle guards: 4 hours \u00f7 2 = 2 hours."
+  ],
+  "solution": "2"
+}

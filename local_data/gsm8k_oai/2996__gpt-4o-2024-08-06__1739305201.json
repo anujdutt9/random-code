@@ -1,0 +1,14 @@
+{
+  "query": "Dream's car consumes 4 gallons of gas per mile. If she drives 400 miles today and 200 more miles tomorrow than today, how many gallons of gas will the car consume?",
+  "steps": [
+    "First, I need to calculate the total miles Dream will drive over the two days.",
+    "She drives 400 miles today.",
+    "Tomorrow, she drives 200 miles more than today, which is 400 + 200 = 600 miles.",
+    "Now, I calculate the total miles for both days together: 400 miles + 600 miles = 1000 miles.",
+    "Next, I need to find out how many gallons of gas the car consumes per mile.",
+    "It is given that the car consumes 4 gallons of gas per mile.",
+    "Now, I calculate the total gallons of gas needed for 1000 miles by multiplying the miles by the gas consumption rate: 1000 miles * 4 gallons/mile.",
+    "So, 1000 miles * 4 gallons/mile = 4000 gallons."
+  ],
+  "solution": "4000"
+}

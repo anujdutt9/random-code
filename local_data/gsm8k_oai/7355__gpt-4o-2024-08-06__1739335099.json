@@ -1,0 +1,18 @@
+{
+  "query": "Minnie is making a playlist of songs for a party she will be throwing. She wants the playlist to be an hour long. She has added 16 three-minute songs to the playlist. How many four-minute songs does she have to add to make sure the playlist is an hour long?",
+  "steps": [
+    "First, I need to understand what the total duration of the playlist should be in minutes. Since an hour is 60 minutes, Minnie wants a 60-minute long playlist.",
+    "Next, I need to calculate the current total duration of the playlist with the 16 three-minute songs.",
+    "To find the current total duration of the playlist, I multiply the number of three-minute songs (16) by the duration of each song (3 minutes).",
+    "16 songs * 3 minutes per song = 48 minutes.",
+    "The playlist is currently 48 minutes long.",
+    "I need to find out how many more minutes are needed to reach 60 minutes.",
+    "60 minutes (target duration) - 48 minutes (current duration) = 12 minutes.",
+    "The playlist needs an additional 12 minutes to reach the desired length.",
+    "Now, I need to find out how many four-minute songs are needed to add up to 12 minutes.",
+    "I divide the additional minutes needed (12) by the duration of each additional song (4 minutes).",
+    "12 minutes / 4 minutes per song = 3 songs.",
+    "Minnie needs to add 3 four-minute songs to the playlist."
+  ],
+  "solution": "3"
+}

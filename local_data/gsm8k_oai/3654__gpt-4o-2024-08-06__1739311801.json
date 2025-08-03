@@ -1,0 +1,17 @@
+{
+  "query": "Philip has a farm with animals. He has 20 cows, 50% more ducks. Philip also has as many pigs as one-fifth of ducks and cows in total. How many animals does Philip have on his farm?",
+  "steps": [
+    "Philip has 20 cows on his farm.",
+    "He also has 50% more ducks than cows. To find out how many ducks he has, I calculate 50% of 20.",
+    "50% of 20 is 10.",
+    "Since he has 50% more ducks than cows, he has 20 + 10 = 30 ducks.",
+    "Next, I need to calculate the total number of cows and ducks.",
+    "The total number of cows and ducks is 20 cows + 30 ducks = 50.",
+    "Philip has as many pigs as one-fifth of the total number of ducks and cows.",
+    "One-fifth of 50 is 50 / 5 = 10.",
+    "So, Philip has 10 pigs.",
+    "To find the total number of animals on the farm, I have to sum the number of cows, ducks, and pigs.",
+    "The total number of animals is 20 cows + 30 ducks + 10 pigs = 60 animals."
+  ],
+  "solution": "60"
+}

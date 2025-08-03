@@ -1,0 +1,18 @@
+{
+  "query": "Donna can watch 8 episodes each day during weekdays. On each weekend day, she can watch three times the number of episodes she can watch on the weekdays. How many episodes can she watch in a week?",
+  "steps": [
+    "First, I need to determine how many episodes Donna can watch on weekdays.",
+    "There are 5 weekdays in a week.",
+    "Donna can watch 8 episodes each weekday. So, I calculate 8 episodes/day * 5 days.",
+    "8 episodes/day * 5 days = 40 episodes during weekdays.",
+    "Next, I calculate how many episodes Donna can watch on a weekend day.",
+    "She can watch three times the number of weekday episodes on each weekend day.",
+    "Donna can watch 8 episodes on a weekday, so on a weekend day, she can watch 8 * 3 = 24 episodes.",
+    "There are 2 weekend days in a week.",
+    "I calculate the total episodes she can watch on the weekend as 24 episodes/day * 2 days.",
+    "24 episodes/day * 2 days = 48 episodes during the weekend.",
+    "Finally, I add the episodes she watches during weekdays and the weekend to get the weekly total.",
+    "40 episodes (weekdays) + 48 episodes (weekend) = 88 episodes in a week."
+  ],
+  "solution": "88"
+}

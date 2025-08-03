@@ -1,0 +1,16 @@
+{
+  "query": "A store decides to shut down and sell all of its inventory.  They have 2000 different items which would normally retail for $50.  They are offering an 80% discount and manage to sell 90% of the items.  They owed $15000 to their creditors.  How much money do they have left after the sale?",
+  "steps": [
+    "First, calculate the sale price of each item after the 80% discount.",
+    "An 80% discount on a $50 item means the price is reduced by 80% of $50.",
+    "80% of $50 is calculated as 0.80 * $50 = $40.",
+    "Therefore, the sale price of each item is $50 - $40 = $10.",
+    "Next, determine how many items were sold. They sold 90% of the 2000 items.",
+    "90% of 2000 is calculated as 0.90 * 2000 = 1800 items.",
+    "Now, calculate the total revenue from selling the 1800 items at $10 each.",
+    "The revenue is 1800 items * $10/item = $18,000.",
+    "Subtract the $15,000 owed to creditors from the revenue to find out how much money is left.",
+    "$18,000 - $15,000 = $3,000."
+  ],
+  "solution": "3000"
+}

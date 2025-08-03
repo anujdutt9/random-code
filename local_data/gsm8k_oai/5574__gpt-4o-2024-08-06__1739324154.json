@@ -1,0 +1,13 @@
+{
+  "query": "Mike wants to be the best goalkeeper on his soccer team. He practices for 3 hours every weekday, on Saturdays he practices for 5 hours, and he takes Sundays off. How many hours will he practice from now until the next game, if his team has a game in 3 weeks?",
+  "steps": [
+    "First, determine how many weekdays there are in 3 weeks. There are 5 weekdays in a week.",
+    "Multiply the 5 weekdays by 3 weeks to find out the total number of weekdays: 5 weekdays/week * 3 weeks = 15 weekdays.",
+    "Mike practices for 3 hours on each weekday. Multiply the number of weekdays by the number of practice hours per weekday: 15 weekdays * 3 hours/weekday = 45 hours.",
+    "Next, determine how many Saturdays there are in 3 weeks. There is 1 Saturday per week.",
+    "Multiply the 1 Saturday by 3 weeks to find out the total number of Saturdays: 1 Saturday/week * 3 weeks = 3 Saturdays.",
+    "Mike practices for 5 hours on each Saturday. Multiply the number of Saturdays by the number of practice hours per Saturday: 3 Saturdays * 5 hours/Saturday = 15 hours.",
+    "Add the total weekday practice hours to the total Saturday practice hours to find the total practice hours over 3 weeks: 45 hours (weekdays) + 15 hours (Saturdays) = 60 hours."
+  ],
+  "solution": "60"
+}

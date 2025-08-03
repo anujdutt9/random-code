@@ -1,0 +1,18 @@
+{
+  "query": "A 1165 cm long rope is cut into 154 pieces. 150 of the pieces are equally sized and the remaining pieces are 100mm each. Find the length of each of the equal pieces in millimeters.",
+  "steps": [
+    "First, I need to understand the problem. There is a 1165 cm long rope.",
+    "The rope is cut into 154 pieces.",
+    "150 pieces are equally sized, and 4 pieces are 100 mm each.",
+    "First, I'll convert the length of the rope from centimeters to millimeters.",
+    "1165 cm is equivalent to 1165 * 10 mm, which equals 11650 mm.",
+    "I know that 4 pieces are each 100 mm long. So, the total length of these pieces is 4 * 100 mm, which equals 400 mm.",
+    "Next, I need to find the length of the rope that is divided into the remaining 150 equal pieces.",
+    "I subtract the total length of the 4 pieces from the total length of the rope: 11650 mm - 400 mm = 11250 mm.",
+    "This 11250 mm of rope is divided into 150 equal pieces.",
+    "To find the length of each equal piece, I divide the remaining length by the number of equal pieces: 11250 mm / 150.",
+    "Perform the division: 11250 mm / 150 = 75 mm.",
+    "So, each of the 150 equal pieces is 75 mm long."
+  ],
+  "solution": "75"
+}

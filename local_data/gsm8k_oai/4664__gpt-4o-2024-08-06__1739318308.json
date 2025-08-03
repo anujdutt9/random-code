@@ -1,0 +1,14 @@
+{
+  "query": "Phill had some friends over for pizza.  He opens the pizza box and discovers it hasn't been sliced.  Phill cuts the pizza in half, and then cuts both halves in half, and then cuts each slice in half again.  Phill then passes out 1 slice to 3 of his friends and 2 slices to 2 of his friends.  How many slices of pizza are left for Phill?",
+  "steps": [
+    "Phill starts with a whole pizza that hasn't been sliced yet. He then makes the first cut to divide it into 2 equal halves.",
+    "After the first cut, Phill cuts each half again, which means the pizza is divided into 4 quarters or slices (2 slices per each original half).",
+    "Phill continues to cut each of the 4 slices in half again, resulting in 8 equal slices of pizza (since each of the 4 slices is divided into 2 slices).",
+    "Phill gives out 1 slice each to 3 of his friends. This means he has distributed 3 slices.",
+    "Phill then gives 2 slices each to 2 other friends. This totals 4 more slices given out.",
+    "Summing up the slices given out, Phill has distributed 3 + 4 = 7 slices of pizza to his friends.",
+    "Originally, Phill had 8 slices of pizza. After distributing 7 slices to his friends, he calculates how many slices remain.",
+    "Subtracting the 7 slices distributed from the 8 slices he originally had: 8 - 7 = 1."
+  ],
+  "solution": "1"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Amy, Jeremy, and Chris have a combined age of 132.  Amy is 1/3 the age of Jeremy, and Chris is twice as old as Amy.  How old is Jeremy?",
+  "steps": [
+    "Let J represent Jeremy's age, A represent Amy's age, and C represent Chris's age.",
+    "We know that the combined age of Amy, Jeremy, and Chris is 132. Therefore, we can write: A + J + C = 132.",
+    "It is given that Amy is 1/3 the age of Jeremy. So, A = J/3.",
+    "It is also given that Chris is twice as old as Amy. So, C = 2A.",
+    "First, we can substitute the expression for A into the equation for C. Since A = J/3, then C = 2(J/3) = 2J/3.",
+    "We now have three equations:\n1. A + J + C = 132\n2. A = J/3\n3. C = 2J/3",
+    "Substituting A = J/3 and C = 2J/3 into the first equation gives: J/3 + J + 2J/3 = 132.",
+    "Simplify the left side of the equation: J/3 + 2J/3 = 3J/3 = J. Thus, J + J = 2J.",
+    "The equation becomes: 2J = 132.",
+    "Solving for J, we divide both sides of the equation by 2, giving: J = 66."
+  ],
+  "solution": "66"
+}

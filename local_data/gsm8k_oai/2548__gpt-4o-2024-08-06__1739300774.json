@@ -1,0 +1,24 @@
+{
+  "query": "A busy port has 4 cruise ships and twice as many cargo ships. The number of sailboats is 6 more than the cargo ships and seven times more than fishing boats. How many vessels are there on the water?",
+  "steps": [
+    "First, determine the number of cargo ships based on the number of cruise ships.",
+    "There are 4 cruise ships.",
+    "The problem states that there are twice as many cargo ships as cruise ships.",
+    "So, the number of cargo ships is 4 * 2 = 8.",
+    "Next, determine the number of sailboats.",
+    "The problem states that the number of sailboats is 6 more than the number of cargo ships.",
+    "So, the number of sailboats is 8 + 6 = 14.",
+    "Now, determine the number of fishing boats.",
+    "The problem states that the number of sailboats is seven times more than the fishing boats.",
+    "So, if S is the number of fishing boats, then 14 = 7 * S.",
+    "Divide both sides by 7 to find S: S = 14 / 7 = 2.",
+    "Now, add up all the vessels: cruise ships, cargo ships, sailboats, and fishing boats.",
+    "Cruise ships: 4.",
+    "Cargo ships: 8.",
+    "Sailboats: 14.",
+    "Fishing boats: 2.",
+    "Total vessels = 4 + 8 + 14 + 2.",
+    "Calculate the total: 4 + 8 = 12, 12 + 14 = 26, 26 + 2 = 28."
+  ],
+  "solution": "28"
+}

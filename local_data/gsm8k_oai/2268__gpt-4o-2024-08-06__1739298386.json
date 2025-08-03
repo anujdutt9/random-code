@@ -1,0 +1,18 @@
+{
+  "query": "Kevin has a shoebox filled with toads.  Every day, Kevin feeds each toad 3 worms.  It takes Kevin 15 minutes to find each worm.  If it takes Kevin 6 hours to find enough worms to feed all of his toads, how many toads does Kevin have in his shoebox?",
+  "steps": [
+    "I first need to determine how many minutes Kevin spends searching for worms every day.",
+    "Kevin spends 6 hours per day finding worms, and there are 60 minutes in an hour.",
+    "6 hours multiplied by 60 minutes per hour equals 360 minutes.",
+    "Therefore, Kevin spends 360 minutes finding worms every day.",
+    "Next, I need to find out how many worms Kevin finds in 360 minutes.",
+    "Since it takes Kevin 15 minutes to find one worm, I divide 360 minutes by 15 minutes per worm.",
+    "360 divided by 15 equals 24 worms.",
+    "Kevin finds 24 worms each day.",
+    "Each toad requires 3 worms daily.",
+    "To find out how many toads are present, I divide the total number of worms by the number of worms each toad requires.",
+    "24 worms divided by 3 worms per toad equals 8 toads.",
+    "Therefore, Kevin has 8 toads in the shoebox."
+  ],
+  "solution": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "query": "An apple tree has three times as many apples as the number of plums on a plum tree. If Damien picks 3/5 of the fruits from the trees, calculate the total number of plums and apples remaining on the tree if there were 180 apples on the apple tree before Damien picked any of the fruits.",
+  "steps": [
+    "I understand that there is an apple tree and a plum tree, and the number of apples is three times the number of plums.",
+    "The number of apples is given as 180.",
+    "Let the number of plums be \\( x \\).",
+    "Given that the number of apples (180) is three times the number of plums, we establish the equation: \\( 3x = 180 \\).",
+    "To find the number of plums, solve for \\( x \\) by dividing both sides of the equation by 3. So, \\( x = 180 / 3 \\).",
+    "Calculating \\( 180 / 3 \\) gives \\( x = 60 \\).",
+    "Therefore, there are 60 plums on the plum tree.",
+    "Now, calculate the total number of fruits before any are picked. There are 180 apples and 60 plums.",
+    "The total number of fruits is \\( 180 + 60 = 240 \\).",
+    "Damien picks 3/5 of the fruits.",
+    "To find the number of fruits picked, calculate \\( 240 \\times \\frac{3}{5} \\).",
+    "Calculating \\( 240 \\times \\frac{3}{5} = 240 \\times 0.6 \\).",
+    "Multiplying gives \\( 240 \\times 0.6 = 144 \\).",
+    "Damien picks 144 fruits.",
+    "We need the number of fruits remaining, so subtract the number of fruits picked from the total number of fruits: \\( 240 - 144 \\).",
+    "Calculating \\( 240 - 144 \\) gives 96.",
+    "Thus, there are 96 fruits remaining on the trees, including both apples and plums."
+  ],
+  "solution": "96"
+}

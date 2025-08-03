@@ -1,0 +1,16 @@
+{
+  "query": "If the normal hours of operation of Jean's business are 4 pm to 10p every day Monday through Friday, and from 6 pm to 10 pm on weekends, how many hours is the business open in a week?",
+  "steps": [
+    "First, calculate the number of hours Jean's business is open Monday through Friday.",
+    "From 4 pm to 10 pm is a duration of 6 hours each day.",
+    "Since there are 5 weekdays, multiply 6 hours by 5 days.",
+    "6 hours/day * 5 days = 30 hours.",
+    "Next, calculate the hours for the weekends.",
+    "From 6 pm to 10 pm is a duration of 4 hours each day.",
+    "Since there are 2 weekend days, multiply 4 hours by 2 days.",
+    "4 hours/day * 2 days = 8 hours.",
+    "Add the weekday and weekend hours to find the total weekly hours of operation.",
+    "30 hours (weekdays) + 8 hours (weekends) = 38 hours."
+  ],
+  "solution": "38"
+}

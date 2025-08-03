@@ -1,0 +1,14 @@
+{
+  "query": "In a basketball game, Tobee scored 4 points. Jay scored 6 more than Tobee and Sean scored 2 less than the points of Tobee and Jay together. If Tobee, Jay, and Sean are on the same team, how many points did they score for their team?",
+  "steps": [
+    "First, I determine how many points Tobee scored. Tobee scored 4 points.",
+    "Next, I calculate how many points Jay scored. Jay scored 6 more than Tobee, so I add 6 to Tobee's score: 4 + 6 = 10.",
+    "Now, I need to figure out how many points Sean scored. Sean scored 2 less than the combined points of Tobee and Jay.",
+    "First, I calculate the combined points of Tobee and Jay: 4 (Tobee) + 10 (Jay) = 14.",
+    "Since Sean scored 2 less than this combined total, I subtract 2 from 14: 14 - 2 = 12.",
+    "Now, I have the points for each player: Tobee scored 4, Jay scored 10, and Sean scored 12.",
+    "The final step is to add all their points together to find the total score for the team: 4 + 10 + 12.",
+    "Calculating this addition gives: 4 + 10 = 14, then 14 + 12 = 26."
+  ],
+  "solution": "26"
+}

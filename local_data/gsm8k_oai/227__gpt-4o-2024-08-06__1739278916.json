@@ -1,0 +1,15 @@
+{
+  "query": "Ian won $100 in the lottery.  He decided to use the money to pay off debts. He paid $20 to Colin. He then paid twice as much to Helen, as he had paid to Colin. Then finally, he paid half as much to Benedict, as he had paid to Helen.  How much money, in dollars, does he have left after paying off debts?",
+  "steps": [
+    "Ian won a total of $100.",
+    "He paid $20 to Colin.",
+    "Next, he paid twice as much to Helen as he paid to Colin. Since he paid $20 to Colin, he paid 2 times $20, which is $40 to Helen.",
+    "He then paid half as much to Benedict as he paid to Helen. Since he paid $40 to Helen, half of that amount is $40 / 2 = $20, which he paid to Benedict.",
+    "Now I need to calculate the total amount he has paid to Colin, Helen, and Benedict.",
+    "The total paid is $20 (Colin) + $40 (Helen) + $20 (Benedict) = $80.",
+    "He initially had $100, and he has paid off a total of $80.",
+    "Therefore, the remaining amount he has left is $100 - $80.",
+    "Calculating that gives $100 - $80 = $20."
+  ],
+  "solution": "20"
+}

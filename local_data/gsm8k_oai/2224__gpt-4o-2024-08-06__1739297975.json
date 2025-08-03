@@ -1,0 +1,19 @@
+{
+  "query": "Samuel is arranging his grandma\u2019s teacups. They are stored in boxes and inside the boxes, they are stacked 5 rows high with 4 cups in each row. Of the 26 boxes in her attic, 6 of the boxes contain pans, half of the remaining boxes contain decorations, and the rest of the boxes contain her teacups. Samuel breaks 2 of the cups every time he picks up one of the boxes. By the time Samuel has taken all of the teacups out of the boxes, how many teacups are left?",
+  "steps": [
+    "First, we need to determine how many boxes in total contain teacups.",
+    "There are a total of 26 boxes.",
+    "6 of these boxes contain pans.",
+    "So, the remaining boxes are 26 - 6 = 20 boxes.",
+    "Half of these remaining boxes contain decorations.",
+    "Half of 20 is 20 / 2 = 10 boxes.",
+    "Therefore, the number of boxes containing teacups is 20 - 10 = 10 boxes.",
+    "Each box has teacups arranged, stacked 5 rows high with 4 cups in each row.",
+    "The number of teacups in each box is 5 rows * 4 cups/row = 20 cups.",
+    "So, total number of teacups is 10 boxes * 20 cups/box = 200 teacups.",
+    "Samuel breaks 2 teacups each time he picks up one box.",
+    "Since there are 10 boxes of teacups, he will break 2 * 10 = 20 teacups in total.",
+    "After breaking the teacups, the number of remaining teacups is 200 - 20 = 180 teacups."
+  ],
+  "solution": "180"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Peggy is moving and is looking to get rid of her record collection. Sammy says that he will buy all of them for 4 dollars each. Bryan is only interested in half of the records but will offer 6 dollars each for the half that he is interested in and 1 dollar each for the remaining half that he is not interested in with the hopes that he can resell them in bulk later. If Peggy has 200 records, what is the difference in profit between Sammy versus Bryan's deal?",
+  "steps": [
+    "First, calculate the total value of the offer by Sammy. Sammy is offering 4 dollars for each record.",
+    "Peggy has 200 records.",
+    "Multiply the number of records by the offer per record from Sammy: 200 records x 4 dollars = 800 dollars.",
+    "Next, consider Bryan's offer. He is only interested in half of the records. Half of 200 records is 100 records.",
+    "Bryan offers 6 dollars each for the 100 records he is interested in.",
+    "Calculate this part of Bryan's offer: 100 records x 6 dollars = 600 dollars.",
+    "Bryan is offering 1 dollar each for the remaining 100 records.",
+    "Calculate this part of Bryan's offer: 100 records x 1 dollar = 100 dollars.",
+    "Now, sum up Bryan's total offer: 600 dollars + 100 dollars = 700 dollars.",
+    "Now, we need to find the difference in profit between Sammy's and Bryan's deals.",
+    "Subtract Bryan's total offer from Sammy's total offer: 800 dollars - 700 dollars = 100 dollars."
+  ],
+  "solution": "100"
+}

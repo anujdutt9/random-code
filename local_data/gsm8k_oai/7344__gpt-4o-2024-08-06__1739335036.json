@@ -1,0 +1,16 @@
+{
+  "query": "The cheerleading coach is ordering new uniforms. There are 4 cheerleaders who need a size 2, a certain number who need a size 6, and half that number who need a size 12. If there are 19 cheerleaders total, how many cheerleaders need a size 6?",
+  "steps": [
+    "I know there are 4 cheerleaders who need a size 2.",
+    "Let's say the number of cheerleaders who need a size 6 is denoted by x.",
+    "According to the problem, half of the cheerleaders who need a size 6 also need a size 12. So, the number of cheerleaders who need a size 12 is x/2.",
+    "The total number of cheerleaders is given as 19.",
+    "The cheerleaders wearing sizes 2, 6, and 12 together equal this total: 4 + x + x/2 = 19.",
+    "First, simplify the equation by eliminating the fraction by multiplying through by 2: 2(4) + 2(x) + x = 2(19).",
+    "This simplifies to: 8 + 2x + x = 38.",
+    "Combine the terms with x: 3x + 8 = 38.",
+    "Subtract 8 from both sides to isolate terms with x: 3x = 30.",
+    "Divide both sides by 3 to solve for x: x = 10."
+  ],
+  "solution": "10"
+}

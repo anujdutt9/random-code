@@ -1,0 +1,17 @@
+{
+  "query": "The length of the straight part of a river is three times shorter than the crooked part. If the river is 80 miles long, how long is the straight part of the river?",
+  "steps": [
+    "Let's define the length of the crooked part of the river as \\( x \\) miles.",
+    "The straight part of the river is described as being \"three times shorter\" than the crooked part. This is a bit unclear, but it probably means that the straight part is one-third the length of the crooked part.",
+    "Thus, the length of the straight part is \\( \\frac{x}{3} \\) miles.",
+    "The total length of the river is given as 80 miles. Therefore, we can write the equation for the total length as:\n\\[ x + \\frac{x}{3} = 80 \\]",
+    "To solve for \\( x \\), combine the terms on the left. Obtain a common denominator:\n\\[ \\frac{3x}{3} + \\frac{x}{3} = 80 \\]",
+    "\\[ \\frac{3x + x}{3} = 80 \\]",
+    "\\[ \\frac{4x}{3} = 80 \\]",
+    "Multiply both sides by 3 to solve for \\( 4x \\):\n\\[ 4x = 240 \\]",
+    "Divide both sides by 4 to solve for \\( x \\):\n\\[ x = 60 \\]",
+    "The length of the crooked part of the river is 60 miles.",
+    "The length of the straight part is \\( \\frac{x}{3} = \\frac{60}{3} = 20 \\) miles."
+  ],
+  "solution": "20"
+}

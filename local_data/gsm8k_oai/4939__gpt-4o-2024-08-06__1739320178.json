@@ -1,0 +1,19 @@
+{
+  "query": "Five percent of the 300 senior students got a full merit college scholarship and ten percent of them got a half merit scholarship. How many senior students did not get any scholarships?",
+  "steps": [
+    "First, I need to calculate how many students got a full merit college scholarship.",
+    "Five percent of the 300 senior students got a full merit college scholarship.",
+    "I calculate 5% of 300 by multiplying 300 by 0.05.",
+    "300 * 0.05 = 15 students got a full merit college scholarship.",
+    "Next, I need to calculate how many students got a half merit scholarship.",
+    "Ten percent of the 300 senior students got a half merit scholarship.",
+    "I calculate 10% of 300 by multiplying 300 by 0.10.",
+    "300 * 0.10 = 30 students got a half merit scholarship.",
+    "Now, I will find out the total number of students who received any scholarships (full or half).",
+    "Total students with scholarships = students with full scholarships + students with half scholarships.",
+    "15 (full scholarships) + 30 (half scholarships) = 45 students.",
+    "To find the number of students who did not get any scholarships, I subtract the number of students with scholarships from the total number of senior students.",
+    "300 total students - 45 students with scholarships = 255 students."
+  ],
+  "solution": "255"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Carter has a 14-hour road trip.  He wants to stop every 2 hours to stretch his legs.  He also wants to make 2 additional stops for food and 3 additional stops for gas.  If each pit stop takes 20 minutes, how many hours will his road trip become?",
+  "steps": [
+    "Carter's road trip duration is initially 14 hours.",
+    "He wants to stop every 2 hours to stretch his legs.",
+    "In a 14-hour trip, if he stops every 2 hours, the number of stretching stops will be 14 / 2 = 7.",
+    "He also wants to make an additional 2 stops for food and 3 additional stops for gas.",
+    "The total number of stops will be the sum of stretching stops, food stops, and gas stops which is 7 + 2 + 3 = 12.",
+    "Each stop takes 20 minutes.",
+    "To find the total time added by stops, multiply the number of stops by the duration of each stop: 12 * 20 minutes = 240 minutes.",
+    "Convert 240 minutes into hours by dividing by 60: 240 / 60 = 4 hours.",
+    "Add the additional hours from stops to the original duration of the trip: 14 hours + 4 hours = 18 hours."
+  ],
+  "solution": "18"
+}

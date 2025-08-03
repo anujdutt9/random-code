@@ -1,0 +1,19 @@
+{
+  "query": "Nida has 50 chocolates in which some are in 3 filled boxes and 5 pieces are not in a box. Her friend brought 25 pieces of chocolates. If all chocolates must be placed in a box, how many more boxes do they need?",
+  "steps": [
+    "Nida initially has 50 chocolates.",
+    "5 chocolates are not in a box.",
+    "So, chocolates in boxes = 50 - 5 = 45.",
+    "Her friend brought 25 more chocolates.",
+    "Total chocolates now = 50 + 25 = 75.",
+    "5 are already unboxed, plus the 25 new ones are also unboxed, so 5 + 25 = 30 chocolates are unboxed.",
+    "Chocolates already in boxes = 75 - 30 = 45.",
+    "There are 3 filled boxes, and they contain 45 chocolates.",
+    "Assume, each of the 3 filled boxes contains equal numbers of chocolates.",
+    "So, each box contains 45 / 3 = 15 chocolates.",
+    "Each new box will also hold the same amount, i.e., 15 chocolates.",
+    "Chocolates to be placed in boxes = 30.",
+    "Number of boxes required = 30 / 15 = 2."
+  ],
+  "solution": "2"
+}

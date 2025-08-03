@@ -1,0 +1,19 @@
+{
+  "query": "It is the rainy season in central Texas.  It rained for 7 hours on Monday at a rate of 1 inch per hour.  On Tuesday, it rained for 4 hours at a rate of 2 inches per hour, and on Wednesday, it rained for 2 hours at a rate of twice that of the previous day.  What is the total combined rainfall, in inches, for these three days?",
+  "steps": [
+    "First, I need to calculate the amount of rain that fell on Monday.",
+    "It rained for 7 hours on Monday at a rate of 1 inch per hour.",
+    "The total rainfall on Monday is 7 hours * 1 inch/hour = 7 inches.",
+    "Next, I calculate the amount of rain that fell on Tuesday.",
+    "It rained for 4 hours on Tuesday at a rate of 2 inches per hour.",
+    "The total rainfall on Tuesday is 4 hours * 2 inches/hour = 8 inches.",
+    "Now, I will determine the amount of rain that fell on Wednesday.",
+    "On Wednesday, it rained for 2 hours at a rate of twice that of the previous day.",
+    "Twice the Tuesday rate is 2 inches/hour * 2 = 4 inches/hour.",
+    "The total rainfall on Wednesday is 2 hours * 4 inches/hour = 8 inches.",
+    "Now, I sum up the rainfall amounts for all three days.",
+    "Total rainfall = 7 inches (Monday) + 8 inches (Tuesday) + 8 inches (Wednesday).",
+    "The total combined rainfall for the three days is 7 + 8 + 8 = 23 inches."
+  ],
+  "solution": "23"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "There are 10 bags with 30 oranges each on a truck. A total of 50 pieces of oranges are rotten. Thirty pieces of oranges will be kept for making orange juice and the rest will be sold. How many pieces of oranges will be sold?",
+  "steps": [
+    "First, I need to determine the total number of oranges on the truck.",
+    "There are 10 bags with 30 oranges each.",
+    "10 bags * 30 oranges per bag = 300 oranges in total.",
+    "Next, I need to account for the rotten oranges.",
+    "A total of 50 oranges are rotten.",
+    "Thus, the number of good oranges is 300 total oranges - 50 rotten oranges = 250 good oranges.",
+    "Now, I need to subtract the 30 oranges that will be kept for making orange juice.",
+    "250 good oranges - 30 oranges kept for juice = 220 oranges.",
+    "These 220 oranges are the ones that will be sold."
+  ],
+  "solution": "220"
+}

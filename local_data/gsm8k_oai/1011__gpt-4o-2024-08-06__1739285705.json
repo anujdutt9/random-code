@@ -1,0 +1,18 @@
+{
+  "query": "A carpenter is building a house. He needs 80 woodblocks to build it. If he has 8 logs that can make five woodblocks each, how many logs does the carpenter still need?",
+  "steps": [
+    "First, I determine how many woodblocks the carpenter can make from the logs he already has.",
+    "The carpenter has 8 logs.",
+    "Each log can create 5 woodblocks.",
+    "Multiply the number of logs by the number of woodblocks each can make: 8 logs * 5 woodblocks per log = 40 woodblocks.",
+    "The carpenter can currently make 40 woodblocks.",
+    "Next, I calculate how many more woodblocks are needed by subtracting the woodblocks he can already make from the total required.",
+    "He needs a total of 80 woodblocks.",
+    "Subtract the 40 woodblocks he can make from the 80 woodblocks he needs: 80 - 40 = 40 woodblocks still required.",
+    "Now, I need to figure out how many more logs are needed to make the remaining woodblocks.",
+    "Since each log can make 5 woodblocks, I divide the number of additional woodblocks needed by the number of woodblocks each log can make.",
+    "40 additional woodblocks are needed, and each log makes 5 woodblocks: 40 woodblocks / 5 woodblocks per log = 8 logs.",
+    "So, the carpenter needs 8 more logs."
+  ],
+  "solution": "8"
+}

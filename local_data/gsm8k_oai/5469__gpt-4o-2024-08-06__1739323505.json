@@ -1,0 +1,16 @@
+{
+  "query": "Robby doesn't like the color brown and will not eat the brown M&M's.  On his first bag, he sets aside  9 brown M&M's.  On the second bag, he sets aside 12.  On his third & fourth bag, there are 8 brown M&M's that he doesn't eat. On his fifth bag, there are only 3 brown M&M's that he doesn't eat.  What's the average number of brown M&M's in a bag?",
+  "steps": [
+    "First, I note that I need to find the average number of brown M&M's per bag.",
+    "I have the number of brown M&M's for each bag: 9 for the first, 12 for the second, 8 for the third and fourth (each), and 3 for the fifth.",
+    "First, I'll sum the total number of brown M&M's he set aside from all bags.",
+    "9 + 12 + 8 + 8 + 3 = 40",
+    "Next, I need to count the number of bags.",
+    "There are a total of 5 bags: first, second, third, fourth, and fifth bags.",
+    "Now, I calculate the average by dividing the total number of brown M&M's by the total number of bags.",
+    "The total number of brown M&M's is 40, and the number of bags is 5.",
+    "Average = 40 / 5",
+    "The result of 40 divided by 5 is 8."
+  ],
+  "solution": "8"
+}

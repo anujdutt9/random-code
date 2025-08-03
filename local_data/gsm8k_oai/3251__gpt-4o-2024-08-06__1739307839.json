@@ -1,0 +1,16 @@
+{
+  "query": "To keep himself busy in class, Michael makes rubber-band balls. He makes two sizes, large and small. A small ball uses 50 rubber bands. A large ball requires 300 rubber bands. Michael brought a 5,000 pack to class and already made 22 small balls. How many large balls can he make with the remaining rubber bands?",
+  "steps": [
+    "First, I need to determine how many rubber bands Michael has used to make the small balls.",
+    "Michael made 22 small balls. Each small ball uses 50 rubber bands.",
+    "I will calculate the total number of rubber bands used for the small balls: 22 small balls * 50 rubber bands/ball = 1,100 rubber bands.",
+    "Now, I should determine how many rubber bands are remaining.",
+    "Michael started with a 5,000 pack of rubber bands. He used 1,100 for the small balls.",
+    "To find the remaining rubber bands: 5,000 - 1,100 = 3,900 rubber bands are left.",
+    "Next, I need to figure out how many large balls Michael can make with the remaining rubber bands.",
+    "Each large ball requires 300 rubber bands.",
+    "I will calculate the number of large balls Michael can make: 3,900 rubber bands / 300 rubber bands/large ball = 13 large balls.",
+    "The division results in a whole number, so there's no need for adjustments."
+  ],
+  "solution": "13"
+}

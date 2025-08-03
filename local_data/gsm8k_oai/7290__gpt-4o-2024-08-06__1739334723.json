@@ -1,0 +1,12 @@
+{
+  "query": "A building has 300 units. Half the units are residential and the other half are split evenly between offices and restaurants. How many restaurants are there in the building?",
+  "steps": [
+    "The building has a total of 300 units.",
+    "Half of the units are residential. So, the number of residential units is 300 divided by 2.",
+    "300 divided by 2 equals 150. So, there are 150 residential units.",
+    "The other half of the units are split evenly between offices and restaurants. So, there are 150 units split between offices and restaurants.",
+    "Since the 150 units are split evenly between offices and restaurants, we divide 150 by 2 to determine the number of restaurant units.",
+    "150 divided by 2 equals 75."
+  ],
+  "solution": "75"
+}

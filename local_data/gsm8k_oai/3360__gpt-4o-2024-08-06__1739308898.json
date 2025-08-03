@@ -1,0 +1,15 @@
+{
+  "query": "At the zoo, there are 5 different types of animals. Seeing each animal type takes around 6 minutes. How much time would it take to see each animal type if the zoo decided to import 4 new species?",
+  "steps": [
+    "Currently, there are 5 different types of animals at the zoo.",
+    "Each animal type takes about 6 minutes to be seen.",
+    "So, for 5 types of animals, the total time needed is 5 types * 6 minutes/type.",
+    "Calculating that gives 5 * 6 = 30 minutes.",
+    "The zoo is planning to import 4 new species, which will increase the total number of animal types.",
+    "The new total number of animal types will be 5 original + 4 new = 9 types.",
+    "Seeing each of these 9 types takes 6 minutes per type.",
+    "So, the total time needed to see all animal types is 9 types * 6 minutes/type.",
+    "Calculating that gives 9 * 6 = 54 minutes."
+  ],
+  "solution": "54"
+}

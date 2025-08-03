@@ -1,0 +1,19 @@
+{
+  "query": "There were 80 people at a football game on Saturday. On Monday, 20 fewer people were at the football game. On Wednesday, 50 more people were at the game than on Monday. On Friday, there were the same number of people as on Saturday and Monday combined. If their expected total audience at the football game for a week is 350, how many more people attended the games than they had expected?",
+  "steps": [
+    "First, I need to determine the number of people who attended each game day.",
+    "On Saturday, 80 people attended the football game.",
+    "On Monday, there were 20 fewer people than Saturday. So, Monday's attendance was 80 - 20 = 60 people.",
+    "On Wednesday, 50 more people were there than on Monday. So, Wednesday's attendance was 60 + 50 = 110 people.",
+    "On Friday, there were the same number of people as the sum of Saturday's and Monday's attendance. So, Friday's attendance was 80 (Saturday) + 60 (Monday) = 140 people.",
+    "Now I calculate the total attendance for the week by adding the attendance for each day: 80 (Saturday) + 60 (Monday) + 110 (Wednesday) + 140 (Friday).",
+    "80 + 60 = 140",
+    "140 + 110 = 250",
+    "250 + 140 = 390",
+    "The total number of people who attended the games during the week is 390.",
+    "Their expected total audience for the week was 350 people.",
+    "I subtract the expected audience from the actual audience to find how many more people attended than expected: 390 - 350.",
+    "390 - 350 = 40"
+  ],
+  "solution": "40"
+}

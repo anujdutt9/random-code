@@ -1,0 +1,17 @@
+{
+  "query": "A store gives a 10% discount for the amount of the sell that was over $1000.  John buys 7 items that each cost $200.  What does his order cost after the discount?",
+  "steps": [
+    "First, I need to calculate the total cost of the 7 items without any discounts.",
+    "Each item costs $200. Since John buys 7 items, I multiply 7 by 200 to find the total cost.",
+    "7 items * $200/item = $1400",
+    "Now, I need to apply the discount. The discount applies only to the amount over $1000.",
+    "I determine how much of the total cost is over $1000.",
+    "$1400 total cost - $1000 = $400 amount over $1000",
+    "The store gives a 10% discount on this $400 amount.",
+    "10% of $400 is calculated by multiplying 400 by 0.10.",
+    "$400 * 0.10 = $40 discount",
+    "To find the final cost after the discount, I subtract the discount from the total cost.",
+    "$1400 total cost - $40 discount = $1360"
+  ],
+  "solution": "1360"
+}

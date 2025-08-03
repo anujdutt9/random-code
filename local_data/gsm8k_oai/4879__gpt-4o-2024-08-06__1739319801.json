@@ -1,0 +1,20 @@
+{
+  "query": "Aliens and Martians have different numbers of limbs. Aliens have three arms and eight legs, while Martians have half as many legs and twice as many arms. How many more limbs will five aliens have than five Martians?",
+  "steps": [
+    "First, I need to determine how many arms and legs an alien has.",
+    "Aliens have three arms and eight legs.",
+    "Total number of limbs for one alien = 3 arms + 8 legs = 11 limbs.",
+    "Now, I need to figure out how many arms and legs a Martian has.",
+    "Martians have half as many legs as aliens and twice as many arms.",
+    "Half of 8 legs (for aliens) = 4 legs for Martians.",
+    "Twice the number of arms (3 arms for aliens) = 6 arms for Martians.",
+    "Total number of limbs for one Martian = 6 arms + 4 legs = 10 limbs.",
+    "Now, I calculate the total number of limbs for five aliens.",
+    "For five aliens: 5 aliens * 11 limbs per alien = 55 limbs.",
+    "Next, I calculate the total number of limbs for five Martians.",
+    "For five Martians: 5 Martians * 10 limbs per Martian = 50 limbs.",
+    "Finally, I find the difference in the number of limbs between five aliens and five Martians.",
+    "Difference = 55 limbs (for aliens) - 50 limbs (for Martians) = 5 more limbs."
+  ],
+  "solution": "5"
+}

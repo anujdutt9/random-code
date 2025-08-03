@@ -1,0 +1,14 @@
+{
+  "query": "Josh has 100 feet of rope.  He cuts the rope in half, and then takes one of the halves and cuts it in half again.  He grabs one of the remaining pieces and cuts it into fifths.  He's stuck holding one length of the rope he's most recently cut.  How long is it?",
+  "steps": [
+    "Josh starts with 100 feet of rope.",
+    "He cuts the rope in half, which means he now has two pieces, each 50 feet long.",
+    "He takes one of those 50-foot pieces and cuts it in half again, resulting in two pieces each 25 feet long.",
+    "He takes one of the 25-foot pieces and cuts it into fifths.",
+    "To divide 25 feet into five equal pieces, I need to calculate 25 divided by 5.",
+    "25 divided by 5 equals 5.",
+    "Each of the five pieces is 5 feet long.",
+    "Josh is holding one of those 5-foot lengths."
+  ],
+  "solution": "5"
+}

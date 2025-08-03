@@ -1,0 +1,17 @@
+{
+  "query": "Anna has 3 times as many toys as Mandy and 2 fewer toys than Amanda. If they have 142 toys all together, how many toys does Mandy have?",
+  "steps": [
+    "Let's define the number of toys Mandy has as M.",
+    "Since Anna has 3 times as many toys as Mandy, Anna has 3M toys.",
+    "Anna has 2 fewer toys than Amanda, so if Amanda has A toys, then A = 3M + 2.",
+    "The total number of toys for all three of them is 142.",
+    "So, M (Mandy's toys) + 3M (Anna's toys) + A (Amanda's toys) = 142.",
+    "Substitute A with 3M + 2 in the equation: M + 3M + (3M + 2) = 142.",
+    "Combine the terms: M + 3M + 3M + 2 = 142.",
+    "This simplifies to 7M + 2 = 142.",
+    "Subtract 2 from both sides to get 7M = 140.",
+    "Divide both sides by 7 to solve for M: M = 140 / 7.",
+    "140 divided by 7 is 20."
+  ],
+  "solution": "20"
+}

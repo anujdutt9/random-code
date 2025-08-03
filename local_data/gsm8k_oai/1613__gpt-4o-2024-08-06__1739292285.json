@@ -1,0 +1,19 @@
+{
+  "query": "John is a door-to-door salesman.  He visits 50 houses a day.  20% of them buy something from them.  Of those that buy something half buy a $50 set of knives and the other half buy a $150 set of knives.  How much does he sell a week when he works 5 days a week?",
+  "steps": [
+    "John visits 50 houses a day.",
+    "20% of the houses he visits buy something from him.",
+    "20% of 50 is calculated as: (20/100) * 50 = 10.",
+    "So, 10 houses buy something from John each day.",
+    "Half of these buyers purchase a $50 set of knives.",
+    "Half of 10 is: 10/2 = 5.",
+    "So, 5 houses buy the $50 set of knives.",
+    "The revenue from the $50 knives is: 5 * $50 = $250.",
+    "The remaining 5 houses buy the $150 set of knives.",
+    "The revenue from the $150 knives is: 5 * $150 = $750.",
+    "The total sales per day is the sum of sales from the $50 knives and the $150 knives: $250 + $750 = $1000.",
+    "John works 5 days a week.",
+    "The total sales in a week is: 5 * $1000 = $5000."
+  ],
+  "solution": "5000"
+}

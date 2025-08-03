@@ -1,0 +1,13 @@
+{
+  "query": "Matt rode his bike away from the house, he rode a total of 1000 feet.  Along the way, he passed a stop sign that was 350 feet away from his house.  He continued his ride and passed a second sign.  After passing the second sign he road an additional 275 feet.  How many feet are between the first and second signs?",
+  "steps": [
+    "Matt rode a total of 1000 feet from his house.",
+    "The first stop sign is 350 feet away from his house.",
+    "The second sign is some distance x feet away from the first stop sign.",
+    "After passing the second sign, Matt rode an additional 275 feet.",
+    "The total distance Matt rode past the second sign can be calculated as follows:\n1000 feet (total distance) - 350 feet (to the first stop sign) - 275 feet (after the second sign) = distance between the first and second sign.",
+    "This calculation gives: 1000 - 350 - 275 = 375 feet.",
+    "Therefore, the distance between the first and second signs is 375 feet."
+  ],
+  "solution": "375"
+}

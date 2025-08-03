@@ -1,0 +1,17 @@
+{
+  "query": "Grandpa Lou enjoys watching movies on the Hallmark channel, where every movie lasts 90 minutes.  If, on Tuesday, he watched several full-length movies on the Hallmark channel for a total of 4 hours and 30 minutes, and then on Wednesday he watched on the same channel twice as many movies as he did on Tuesday.  What is the maximum number of full-length movies Grandpa could have watched during these two days?",
+  "steps": [
+    "First, I need to determine how many movies Grandpa watched on Tuesday. Each movie is 90 minutes long.",
+    "Grandpa watched a total of 4 hours and 30 minutes of movies on Tuesday. I need to convert this time to minutes.",
+    "4 hours is equal to 240 minutes (since 4 x 60 = 240).",
+    "So, 4 hours and 30 minutes is equal to 240 minutes + 30 minutes = 270 minutes.",
+    "Now, I need to calculate how many full movies, each lasting 90 minutes, fit into 270 minutes.",
+    "To find this, I divide the total minutes (270) by the length of one movie (90 minutes).",
+    "270 \u00f7 90 = 3. So, Grandpa watched 3 movies on Tuesday.",
+    "On Wednesday, he watched twice as many movies as he did on Tuesday.",
+    "So, on Wednesday, he watched 3 movies x 2 = 6 movies.",
+    "To find the total number of movies watched over these two days, I add the number of movies watched on Tuesday and Wednesday.",
+    "3 movies on Tuesday + 6 movies on Wednesday = 9 movies in total."
+  ],
+  "solution": "9"
+}

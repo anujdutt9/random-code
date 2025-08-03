@@ -1,0 +1,22 @@
+{
+  "query": "Carson is going to spend 4 hours at a carnival. The wait for the roller coaster is 30 minutes, the wait for the tilt-a-whirl is 60 minutes, and the wait for the giant slide is 15 minutes. If Carson rides the roller coaster 4 times and the tilt-a-whirl once, how many times can he ride the giant slide? (Wait times include the time actually spent on the ride.)",
+  "steps": [
+    "Carson has 4 hours to spend at the carnival.",
+    "4 hours is equivalent to 240 minutes.",
+    "Carson rides the roller coaster 4 times.",
+    "The wait for the roller coaster is 30 minutes each time.",
+    "Total time spent on the roller coaster is 4 times 30 minutes.",
+    "Calculating: 4 x 30 minutes = 120 minutes.",
+    "Next, Carson rides the tilt-a-whirl once.",
+    "The wait for the tilt-a-whirl is 60 minutes.",
+    "Adding the time for the roller coaster and the tilt-a-whirl: 120 minutes + 60 minutes.",
+    "Calculating: 120 + 60 = 180 minutes.",
+    "Carson has spent 180 minutes on the roller coaster and tilt-a-whirl.",
+    "Subtract the spent time from total available time: 240 minutes - 180 minutes.",
+    "Calculating: 240 - 180 = 60 minutes left.",
+    "The wait for the giant slide is 15 minutes each time.",
+    "To find out how many times he can ride the giant slide, divide the remaining time by the giant slide's wait time: 60 minutes / 15 minutes per ride.",
+    "Calculating: 60 / 15 = 4 times."
+  ],
+  "solution": "4"
+}

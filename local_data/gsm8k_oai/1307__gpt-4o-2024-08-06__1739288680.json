@@ -1,0 +1,16 @@
+{
+  "query": "Sarah's age is equal to three times Mark's age minus 4. Mark is four years older than Billy. Billy is half Ana's age. If Ana will be 15 in 3 years, how old is Sarah?",
+  "steps": [
+    "First, I need to determine Ana's current age. If Ana will be 15 in 3 years, I subtract 3 from 15.",
+    "Ana is currently 12 years old.",
+    "Billy's age is half of Ana's age. So, I divide 12 by 2 to find Billy's age.",
+    "Billy is currently 6 years old.",
+    "Mark is four years older than Billy. So I add 4 to Billy's age.",
+    "Mark is currently 10 years old.",
+    "Sarah's age is equal to three times Mark's age minus 4. So I calculate 3 times Mark's current age.",
+    "3 times Mark's age is 3 * 10, which equals 30.",
+    "Now I subtract 4 from 30 to find Sarah's age.",
+    "Sarah is 26 years old."
+  ],
+  "solution": "26"
+}

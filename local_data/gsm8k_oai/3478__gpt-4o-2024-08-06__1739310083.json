@@ -1,0 +1,12 @@
+{
+  "query": "Pat is buying supplies for S'mores. He and his friends will each eat 3 S'mores. There are 8 of them in total. It costs $3 in supplies to make 4 S'mores. How much will it cost to buy all the supplies?",
+  "steps": [
+    "I start by determining the total number of S'mores needed. There are 8 people and each will eat 3 S'mores.",
+    "I multiply 8 by 3 to find the total number of S'mores needed: \\( 8 \\times 3 = 24 \\).",
+    "Next, I need to determine how many sets of 4 S'mores are needed. Since each set costs $3, I will divide the total S'mores by 4 to find the number of sets.",
+    "I divide 24 by 4 to find the number of sets of S'mores: \\( 24 \\div 4 = 6 \\).",
+    "Now, I calculate the total cost by multiplying the number of sets of S'mores by the cost per set, which is $3.",
+    "I multiply 6 (sets) by $3 (cost per set): \\( 6 \\times 3 = 18 \\)."
+  ],
+  "solution": "18"
+}

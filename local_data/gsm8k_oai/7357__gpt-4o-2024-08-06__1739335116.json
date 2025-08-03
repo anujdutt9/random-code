@@ -1,0 +1,23 @@
+{
+  "query": "Jason is making sand art. He wants to fill a rectangular patch 6 inches by 7 inches with blue sand, and a square path 5 inches by 5 inches with red sand. If it takes 3 grams of sand to fill one square inch, how many grams of sand does Jason need?",
+  "steps": [
+    "First, I need to calculate the area of the rectangular patch that Jason wants to fill with blue sand.",
+    "The dimensions of the rectangular patch are 6 inches by 7 inches.",
+    "The area of a rectangle is calculated by multiplying its length by its width.",
+    "So, the area of the rectangular patch is 6 inches * 7 inches = 42 square inches.",
+    "Next, I need to calculate the area of the square path that Jason wants to fill with red sand.",
+    "The dimensions of the square path are 5 inches by 5 inches.",
+    "The area of a square is calculated by squaring the length of one of its sides.",
+    "So, the area of the square path is 5 inches * 5 inches = 25 square inches.",
+    "Now, I need to find out how many grams of sand are needed in total.",
+    "It takes 3 grams of sand to fill one square inch.",
+    "First, I calculate the amount of sand needed for the rectangular patch: 42 square inches * 3 grams/square inch.",
+    "For the rectangular patch, Jason needs 42 * 3 = 126 grams of sand.",
+    "Now, I calculate the amount of sand needed for the square path: 25 square inches * 3 grams/square inch.",
+    "For the square path, Jason needs 25 * 3 = 75 grams of sand.",
+    "Finally, I add the amount of sand needed for both the rectangular patch and the square path.",
+    "Jason needs 126 grams (rectangular patch) + 75 grams (square path) of sand in total.",
+    "The total amount of sand Jason needs is 126 + 75 = 201 grams."
+  ],
+  "solution": "201"
+}

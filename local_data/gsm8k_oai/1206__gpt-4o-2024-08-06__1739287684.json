@@ -1,0 +1,15 @@
+{
+  "query": "When Spencer jumps rope, he jumps 4 times per minute. He jumps for 10 minutes each session and does 2 sessions each day. How many jumps will Spencer do in 5 days?",
+  "steps": [
+    "First, I need to determine how many jumps Spencer makes in one session.",
+    "Spencer jumps 4 times per minute.",
+    "Each session lasts for 10 minutes.",
+    "To find the number of jumps per session, I multiply the jumps per minute by the number of minutes per session: 4 jumps/minute * 10 minutes = 40 jumps.",
+    "Now, I need to find out how many jumps Spencer does in a day.",
+    "Spencer does 2 sessions each day.",
+    "The total number of jumps per day is the number of jumps per session times the number of sessions: 40 jumps/session * 2 sessions = 80 jumps.",
+    "Next, I calculate the total number of jumps Spencer will do in 5 days.",
+    "I multiply the number of jumps per day by the number of days: 80 jumps/day * 5 days = 400 jumps."
+  ],
+  "solution": "400"
+}

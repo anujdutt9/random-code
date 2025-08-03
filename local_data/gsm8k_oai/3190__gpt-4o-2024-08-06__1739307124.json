@@ -1,0 +1,18 @@
+{
+  "query": "Neil charges $5.00 to trim up each boxwood.  He charges $15.00 to trim it into a fancy shape.  The customer wants the entire 30 boxwood hedge trimmed up.  He has also asked for 4 specific boxwoods shaped into spheres.  How much will Neil charge?",
+  "steps": [
+    "I need to figure out how much Neil will charge for trimming each boxwood in the hedge.",
+    "Neil charges $5.00 to trim each boxwood.",
+    "There are 30 boxwoods in the hedge.",
+    "The cost to trim the entire hedge of 30 boxwoods will be 30 boxwoods multiplied by $5.00 per boxwood.",
+    "30 boxwoods x $5.00 per boxwood = $150.00.",
+    "Now, I need to calculate the cost for shaping 4 specific boxwoods into spheres.",
+    "Neil charges $15.00 to shape each boxwood into a fancy shape.",
+    "To shape 4 specific boxwoods into spheres, it will cost 4 boxwoods multiplied by $15.00 per boxwood.",
+    "4 boxwoods x $15.00 per boxwood = $60.00.",
+    "I need to add the cost of trimming the entire hedge with the cost of shaping the 4 boxwoods.",
+    "The cost of trimming is $150.00, and the cost of shaping is $60.00.",
+    "The total charge will be $150.00 + $60.00 = $210.00."
+  ],
+  "solution": "210"
+}

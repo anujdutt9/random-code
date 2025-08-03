@@ -1,0 +1,18 @@
+{
+  "query": "Simon, Gerry, and Micky want to have a race with handmade miniature rafts. Simon's raft needs 36 sticks, Gerry's raft needs two-thirds of the number of sticks that Simon needs, and Micky's raft needs 9 sticks more than Simon and Gerry's rafts combined. How many sticks do the three boys need to collect in total?",
+  "steps": [
+    "First, I need to determine how many sticks Gerry needs for his raft. It is stated that Gerry needs two-thirds of the number of sticks that Simon needs.",
+    "Simon's raft requires 36 sticks, so I calculate two-thirds of 36.",
+    "Two-thirds of 36 is calculated as (2/3) * 36 = 24.",
+    "Now, I know that Gerry needs 24 sticks for his raft.",
+    "Next, I need to find out how many sticks Micky's raft requires. Micky needs 9 more sticks than the sum of Simon's and Gerry's sticks.",
+    "First, I calculate the sum of Simon's and Gerry's sticks: 36 (Simon's) + 24 (Gerry's) = 60.",
+    "Now, I add 9 sticks to this sum for Micky's requirement, as Micky needs 9 more sticks than Simon and Gerry's combined count: 60 + 9 = 69.",
+    "Micky needs 69 sticks for his raft.",
+    "Now, I have the number of sticks each of them needs: Simon needs 36 sticks, Gerry needs 24 sticks, and Micky needs 69 sticks.",
+    "To find the total number of sticks required for all three rafts, I add up the sticks for Simon, Gerry, and Micky: 36 + 24 + 69.",
+    "Calculating the sum gives me 36 + 24 + 69 = 129.",
+    "Thus, the three boys need to collect a total of 129 sticks."
+  ],
+  "solution": "129"
+}

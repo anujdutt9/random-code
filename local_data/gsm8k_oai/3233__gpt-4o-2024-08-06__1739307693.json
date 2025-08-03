@@ -1,0 +1,28 @@
+{
+  "query": "Parker wants to find out what the average percentage of kernels that pop in a bag is. In the first bag he makes, 60 kernels pop and the bag has 75 kernels. In the second bag, 42 kernels pop and there are 50 in the bag. In the final bag, 82 kernels pop and the bag has 100 kernels.",
+  "steps": [
+    "First, I need to find the percentage of popped kernels for each bag.",
+    "For the first bag: The number of popped kernels is 60 and the total number of kernels is 75.",
+    "The percentage of popped kernels for the first bag is (60/75) * 100.",
+    "60 divided by 75 is 0.8.",
+    "0.8 multiplied by 100 is 80%.",
+    "So, the percentage for the first bag is 80%.",
+    "Now, I will calculate the percentage for the second bag.",
+    "For the second bag: The number of popped kernels is 42 and the total is 50.",
+    "The percentage of popped kernels is (42/50) * 100.",
+    "42 divided by 50 is 0.84.",
+    "0.84 multiplied by 100 is 84%.",
+    "So, the percentage for the second bag is 84%.",
+    "Next, I will calculate the percentage for the third bag.",
+    "For the third bag: The number of popped kernels is 82 and the total is 100.",
+    "The percentage of popped kernels is (82/100) * 100.",
+    "82 divided by 100 is 0.82.",
+    "0.82 multiplied by 100 is 82%.",
+    "So, the percentage for the third bag is 82%.",
+    "Now, I have all three percentages: 80%, 84%, and 82%.",
+    "To find the average percentage, I will add these three percentages and then divide by 3.",
+    "80 + 84 + 82 is 246.",
+    "246 divided by 3 is 82."
+  ],
+  "solution": "82"
+}

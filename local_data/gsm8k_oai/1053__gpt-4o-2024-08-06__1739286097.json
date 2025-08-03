@@ -1,0 +1,13 @@
+{
+  "query": "Jane plans on reading a novel she borrows from her friend. She reads twice a day, once in the morning and once in the evening. In the morning she reads 5 pages and in the evening she reads 10 pages. If she reads at this rate for a week, how many pages will she read?",
+  "steps": [
+    "Jane reads 5 pages in the morning.",
+    "Jane reads 10 pages in the evening.",
+    "In one day, Jane reads a total of 5 pages + 10 pages = 15 pages.",
+    "A week consists of 7 days.",
+    "Jane reads 15 pages each day for 7 days.",
+    "To find the total number of pages read in a week, multiply the pages read in a day by the number of days: 15 pages/day * 7 days.",
+    "Calculating this gives: 15 * 7 = 105 pages."
+  ],
+  "solution": "105"
+}

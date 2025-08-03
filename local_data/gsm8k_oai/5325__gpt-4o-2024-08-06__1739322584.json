@@ -1,0 +1,18 @@
+{
+  "query": "After five years, Ron will be four times as old as Maurice. If Ron's age now is 43, how old is Maurice now?",
+  "steps": [
+    "First, I need to determine Ron's age in five years.",
+    "Since Ron's current age is 43, in five years he will be 43 + 5 = 48 years old.",
+    "According to the problem, Ron's age in five years will be four times Maurice's age at that time.",
+    "Let Maurice's current age be M.",
+    "In five years, Maurice's age will be M + 5.",
+    "Ron\u2019s age in five years (48) should equal four times Maurice\u2019s age at that time (M + 5).",
+    "Set up the equation: 48 = 4 * (M + 5).",
+    "To solve for M, first divide both sides of the equation by 4: 48 / 4 = M + 5.",
+    "This simplifies to 12 = M + 5.",
+    "Subtract 5 from both sides to solve for M: 12 - 5 = M.",
+    "This yields M = 7.",
+    "Thus, Maurice is currently 7 years old."
+  ],
+  "solution": "7"
+}

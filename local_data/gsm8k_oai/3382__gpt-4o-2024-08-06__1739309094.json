@@ -1,0 +1,15 @@
+{
+  "query": "Andrew works in a company that provides a generous vacation allotment: for every 10 days worked, you get 1 vacation day. If last year Andrew worked 300 days and took 5 days off in March and twice as many in September, how many more vacation days can Andrew still take?",
+  "steps": [
+    "Andrew worked 300 days last year.",
+    "For every 10 days worked, Andrew earns 1 vacation day.",
+    "To find out how many vacation days Andrew earned, divide the total days worked by 10.",
+    "300 days / 10 = 30 vacation days earned.",
+    "Andrew took 5 vacation days in March.",
+    "He took twice as many days in September, which is 5 * 2 = 10 days.",
+    "Total vacation days taken = 5 days (March) + 10 days (September) = 15 days.",
+    "Subtract the vacation days taken from the vacation days earned to find out how many more he can take.",
+    "30 days earned - 15 days taken = 15 vacation days remaining."
+  ],
+  "solution": "15"
+}

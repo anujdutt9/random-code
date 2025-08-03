@@ -1,0 +1,25 @@
+{
+  "query": "Stoney Hollow Middle School is taking a field trip to the zoo. There are 109 fifth graders, 115 sixth graders, and 118 seventh graders. There are 4 teachers and 2 parents from each grade coming along to chaperone on the trip. There are 72 seats on each school bus. How many buses are needed for the field trip?",
+  "steps": [
+    "First, I need to determine the total number of students going on the trip.",
+    "There are 109 fifth graders, 115 sixth graders, and 118 seventh graders.",
+    "I will calculate the total number of students by adding these numbers together: 109 + 115 + 118.",
+    "109 + 115 = 224.",
+    "224 + 118 = 342. So there are 342 students total.",
+    "Next, I need to calculate the total number of chaperones (teachers and parents) going on the trip.",
+    "There are 4 teachers in total.",
+    "There are 2 parents coming from each grade, so there are 3 grades in total: fifth, sixth, and seventh.",
+    "There are 2 parents per grade \u00d7 3 grades = 6 total parents.",
+    "Now, add the number of teachers and parents: 4 teachers + 6 parents = 10 chaperones.",
+    "Now I determine the total number of people going on the trip, including students and chaperones.",
+    "There are 342 students and 10 chaperones.",
+    "Add these numbers: 342 + 10 = 352 people in total.",
+    "Each bus has 72 seats.",
+    "To find out how many buses are needed, divide the total number of people (352) by the number of seats on each bus (72).",
+    "352 \u00f7 72 = 4 buses with a remainder. I need to check the division.",
+    "Divide 352 by 72: 352 divided by 72 is approximately 4.8889, which means it doesn't divide evenly.",
+    "Since I can\u2019t have a fraction of a bus, and each bus can only hold 72 people, I need to round 4.8889 up to the next whole number.",
+    "Rounding 4.8889 up gives us 5 buses."
+  ],
+  "solution": "5"
+}

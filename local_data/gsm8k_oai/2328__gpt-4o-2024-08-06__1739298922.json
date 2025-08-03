@@ -1,0 +1,15 @@
+{
+  "query": "I bought a pair of shoes for $51. The shoes were already marked 75% off. What is the original price of the shoes?",
+  "steps": [
+    "I know that the shoes are purchased at 75% off the original price.",
+    "This means that the price paid is 25% of the original price because 100% - 75% = 25%.",
+    "I paid $51 for the shoes, which is 25% of the original price.",
+    "To find the original price, I can set up the equation: 0.25 * original price = $51.",
+    "To find the original price, I need to divide $51 by 0.25.",
+    "Calculating $51 / 0.25 gives me $204.",
+    "I double-check the division calculation to ensure there\u2019s no mistake.",
+    "Yes, dividing 51 by 0.25 results in 204.",
+    "The original price of the shoes is $204."
+  ],
+  "solution": "204"
+}

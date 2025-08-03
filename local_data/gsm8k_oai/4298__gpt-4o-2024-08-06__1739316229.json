@@ -1,0 +1,29 @@
+{
+  "query": "Peter carried $500 to the market.  He bought 6 kilos of potatoes for $2 per kilo, 9 kilos of tomato for $3 per kilo, 5 kilos of cucumbers for $4 per kilo, and 3 kilos of bananas for $5 per kilo.  How much is Peter\u2019s remaining money?",
+  "steps": [
+    "First, I need to calculate the total cost of the potatoes.",
+    "The cost per kilo of potatoes is $2.",
+    "Peter bought 6 kilos of potatoes.",
+    "So, the total cost for potatoes is 6 kilos * $2/kilo = $12.",
+    "Next, I calculate the total cost of tomatoes.",
+    "The cost per kilo of tomatoes is $3.",
+    "Peter bought 9 kilos of tomatoes.",
+    "So, the total cost for tomatoes is 9 kilos * $3/kilo = $27.",
+    "Now, I calculate the total cost of cucumbers.",
+    "The cost per kilo of cucumbers is $4.",
+    "Peter bought 5 kilos of cucumbers.",
+    "So, the total cost for cucumbers is 5 kilos * $4/kilo = $20.",
+    "Next, I calculate the total cost of bananas.",
+    "The cost per kilo of bananas is $5.",
+    "Peter bought 3 kilos of bananas.",
+    "So, the total cost for bananas is 3 kilos * $5/kilo = $15.",
+    "Now, I will sum up all the costs to find the total expenditure.",
+    "The total cost for potatoes, tomatoes, cucumbers, and bananas is $12 + $27 + $20 + $15.",
+    "Adding those together gives a total expenditure of $12 + $27 + $20 + $15 = $74.",
+    "Peter carried $500 to the market.",
+    "To find out how much money Peter has left, I subtract the total expenditure from the initial amount he carried.",
+    "So, Peter's remaining money is $500 - $74.",
+    "Calculating this gives $500 - $74 = $426."
+  ],
+  "solution": "426"
+}

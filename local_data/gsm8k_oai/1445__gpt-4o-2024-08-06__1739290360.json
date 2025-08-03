@@ -1,0 +1,20 @@
+{
+  "query": "Jenny wants to read 3 books in the next 10 days. She can read 100 words per hour. If the first book has 200 words, the second book has 400 words, and the third book has 300 words, how many minutes per day, on average, should she spend reading?",
+  "steps": [
+    "Jenny has 3 books with a total number of words that she needs to read.",
+    "The first book has 200 words.",
+    "The second book has 400 words.",
+    "The third book has 300 words.",
+    "The total number of words across all three books is 200 + 400 + 300.",
+    "Calculating the total number of words: 200 + 400 + 300 = 900 words.",
+    "Jenny can read 100 words per hour.",
+    "To find out how many hours Jenny needs to spend reading, I need to divide the total number of words by the number of words she can read per hour.",
+    "Calculating hours needed: 900 words \u00f7 100 words/hour = 9 hours.",
+    "Jenny has 10 days to read all 3 books.",
+    "To find out how many hours per day she needs to read, I divide the total hours needed by the number of days she has.",
+    "Calculating hours per day: 9 hours \u00f7 10 days = 0.9 hours per day.",
+    "To convert hours per day to minutes per day, I multiply the number of hours per day by 60 (since there are 60 minutes in an hour).",
+    "Calculating minutes per day: 0.9 hours/day \u00d7 60 minutes/hour = 54 minutes/day."
+  ],
+  "solution": "54"
+}

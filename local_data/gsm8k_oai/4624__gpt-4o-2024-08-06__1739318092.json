@@ -1,0 +1,15 @@
+{
+  "query": "Farmer Randy has 1700 acres of cotton he needs to have planted in 5 days.  With a crew of 2 tractors working for 2 days and then a crew of 7 tractors working for another 3 days, how many acres of cotton per day does each tractor need to plant to meet their planting deadline?",
+  "steps": [
+    "First, I need to calculate the total tractor-days available over the 5-day planting period.",
+    "For the first 2 days, there is a crew of 2 tractors working.",
+    "This means there are 2 tractors x 2 days = 4 tractor-days for the first crew's contribution.",
+    "For the next 3 days, there is a crew of 7 tractors working.",
+    "This means there are 7 tractors x 3 days = 21 tractor-days for the second crew's contribution.",
+    "Adding up the tractor-days for both crews: 4 tractor-days + 21 tractor-days = 25 total tractor-days available.",
+    "The total acreage that needs to be planted is 1700 acres.",
+    "To find how many acres each tractor needs to plant per day, I divide the total acreage by the total tractor-days.",
+    "1700 acres \u00f7 25 tractor-days = 68 acres per tractor per day."
+  ],
+  "solution": "68"
+}

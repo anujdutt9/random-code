@@ -1,0 +1,18 @@
+{
+  "query": "Yvonne and Janna were writing their 1000-word pair research paper. Yvonne was able to write 400 words while Janna wrote 150 more words than Yvonne. When they edited their paper, they removed 20 words and added twice as many words as they removed. How many more words should they add to reach the research paper requirement?",
+  "steps": [
+    "First, let's determine how many words Yvonne wrote. Yvonne wrote 400 words.",
+    "Now, let's calculate how many words Janna wrote. Janna wrote 150 more words than Yvonne.",
+    "Janna's word count is 400 (Yvonne's words) + 150 = 550 words.",
+    "Next, I will add Yvonne's and Janna's word counts to get the initial total word count of the paper.",
+    "Total initial word count = 400 (Yvonne's words) + 550 (Janna's words) = 950 words.",
+    "Now let's account for the editing process. They removed 20 words from the paper.",
+    "Word count after removal = 950 - 20 = 930 words.",
+    "They added twice as many words as they removed. Since they removed 20 words, they added 20 * 2 = 40 words.",
+    "Word count after adding = 930 + 40 = 970 words.",
+    "The final word count is 970 words. However, the requirement is to have a 1000-word research paper.",
+    "To find out how many more words they need to add, subtract the current word count from the required word count.",
+    "1000 (required words) - 970 (current words) = 30 words."
+  ],
+  "solution": "30"
+}

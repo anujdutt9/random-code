@@ -1,0 +1,17 @@
+{
+  "query": "Grant spends $200.00 a year to have the newspaper delivered daily to his house.  Juanita buys the newspaper daily.  Monday through Saturday, she spends $0.50 and on Sunday she spends $2.00.  How much more money does Juanita spend buying the newspaper yearly than Grant?",
+  "steps": [
+    "First, I need to calculate how much Juanita spends on newspapers from Monday through Saturday each week.",
+    "From Monday to Saturday, there are 6 days, and she spends $0.50 each day.",
+    "Multiply the daily cost by the number of days: $0.50 * 6 = $3.00 per week.",
+    "Next, I need to calculate how much Juanita spends on newspapers on Sundays each week.",
+    "She spends $2.00 on Sundays.",
+    "Add the amount she spends from Monday through Saturday to the amount she spends on Sunday: $3.00 + $2.00 = $5.00 per week.",
+    "Now I need to calculate how much Juanita spends in a year. There are 52 weeks in a year.",
+    "Multiply the weekly cost by the number of weeks: $5.00 * 52 = $260.00 per year.",
+    "Now I will calculate how much more Juanita spends than Grant in a year.",
+    "Grant spends $200.00 a year.",
+    "Subtract Grant's yearly spending from Juanita's yearly spending: $260.00 - $200.00 = $60.00."
+  ],
+  "solution": "60"
+}

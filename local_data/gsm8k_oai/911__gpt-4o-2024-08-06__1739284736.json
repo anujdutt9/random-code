@@ -1,0 +1,17 @@
+{
+  "query": "It took an alligator named Paul 4 hours to walk from his home at the River Nile to the Nile Delta.  On the return journey, Paul traveled with six other alligators, the journey taking 2 more hours than Paul took to walk to the Nile Delta, to reach their home at the River Nile. What's the combined time the alligators walked?",
+  "steps": [
+    "First, determine how many hours it took Paul to walk from his home to the Nile Delta.",
+    "Paul took 4 hours to walk to the Nile Delta.",
+    "Next, determine how long the return journey took for the alligators.",
+    "The return journey took 2 more hours than the initial journey. So, 4 hours + 2 hours = 6 hours.",
+    "Now, calculate the total combined time the alligators walked for both journeys.",
+    "The combined time is simply the time Paul took for each journey since there was only one alligator on the journey to the Nile Delta, and seven on the return journey.",
+    "For the first journey, Paul walked for 4 hours, and for the return journey, Paul and the six other alligators walked for 6 hours each.",
+    "Calculate the total time for the outbound journey: 1 alligator * 4 hours = 4 hours.",
+    "Calculate the total time for the return journey: 7 alligators * 6 hours = 42 hours.",
+    "Add the time from both journeys to find the combined walking time for all journeys.",
+    "4 hours + 42 hours = 46 hours."
+  ],
+  "solution": "46"
+}

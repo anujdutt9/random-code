@@ -1,0 +1,18 @@
+{
+  "query": "Luke takes a 70-minute bus to work every day. His coworker Paula takes 3/5 of this time to arrive by bus at work. If Luke takes a bike ride back home every day, 5 times slower than the bus, and Paula takes the bus back home, calculate the total amount of time, in minutes, they take traveling from home to work and back each day.",
+  "steps": [
+    "I need to find the time it takes for Paula to reach work. This is 3/5 of the time Luke takes.",
+    "Luke takes 70 minutes to arrive by bus, so Paula takes 3/5 * 70.",
+    "Calculate Paula's time: 3/5 * 70 = 42 minutes.",
+    "Now calculate Luke's return time, using the bike, which is 5 times slower than the bus.",
+    "If Luke's bus ride is 70 minutes, then the bike ride back is 5 * 70.",
+    "Compute Luke's bike time: 5 * 70 = 350 minutes.",
+    "Paula takes the bus back, so her return time is the same as her time to work, which is 42 minutes.",
+    "Now add up the total time for each of them per day.",
+    "Luke's total time: 70 minutes (to work) + 350 minutes (back home) = 420 minutes.",
+    "Paula's total time: 42 minutes (to work) + 42 minutes (back home) = 84 minutes.",
+    "Add Luke and Paula's total times together to get their total daily commuting time.",
+    "Total time: 420 minutes (Luke) + 84 minutes (Paula) = 504 minutes."
+  ],
+  "solution": "504"
+}

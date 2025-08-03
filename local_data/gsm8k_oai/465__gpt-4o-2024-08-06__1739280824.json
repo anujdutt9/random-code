@@ -1,0 +1,15 @@
+{
+  "query": "A man is returning home from work and trying to decide which route to take.  His first route option includes 3 stoplights.  This route will take him 10 minutes if all three lights are green, but each light that is red will add 3 minutes to the trip.  The second route does not include any stoplights and takes 14 minutes.  If the man chooses the first route, how much longer will his trip be if all 3 stoplights are red?",
+  "steps": [
+    "First, I need to determine how long the first route would take if all three stoplights are red.",
+    "If the first route takes 10 minutes with all green lights, I need to account for each red light.",
+    "Each red light adds an additional 3 minutes to the trip.",
+    "There are 3 stoplights, and if all are red, the additional time needed will be 3 minutes \u00d7 3 stoplights = 9 minutes.",
+    "So, the trip on the first route with all lights red would take 10 minutes + 9 minutes = 19 minutes.",
+    "Now, I need to check the time it takes for the second route.",
+    "The second route takes 14 minutes and has no stoplights.",
+    "Now, I need to compare the time difference if the first route has all red lights.",
+    "The time difference between the first route with all red lights (19 minutes) and the second route (14 minutes) is 19 minutes - 14 minutes."
+  ],
+  "solution": "5"
+}

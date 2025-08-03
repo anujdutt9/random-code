@@ -1,0 +1,19 @@
+{
+  "query": "A monitor is 21 inches by 12 inches.  There are 100 dots per inch.  How many total pixels are there?",
+  "steps": [
+    "The monitor has dimensions of 21 inches by 12 inches.",
+    "It is mentioned that there are 100 dots per inch on the monitor.",
+    "First, I'll calculate the number of dots along the width of the monitor.",
+    "The width of the monitor is 21 inches.",
+    "Since there are 100 dots per inch, the total number of dots along the width is 21 inches multiplied by 100 dots per inch.",
+    "21 inches * 100 dots/inch = 2100 dots along the width.",
+    "Next, I'll calculate the number of dots along the height of the monitor.",
+    "The height of the monitor is 12 inches.",
+    "Similarly, there are 100 dots per inch along the height as well.",
+    "12 inches * 100 dots/inch = 1200 dots along the height.",
+    "Now, to find the total number of pixels on the monitor, I need to multiply the number of dots along the width by the number of dots along the height.",
+    "Total pixels = 2100 pixels (width) * 1200 pixels (height).",
+    "Multiplying these values gives 2100 * 1200 = 2,520,000 pixels."
+  ],
+  "solution": "2,520,000"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Fran baked 50 red macaroons and 40 green macarons. How many macaroons will remain if Fran ate 15 green macaroons and twice as many red macaroons as green macaroons?",
+  "steps": [
+    "Fran baked 50 red macaroons initially.",
+    "Fran also baked 40 green macaroons initially.",
+    "The problem states that Fran ate 15 green macaroons.",
+    "Thus, the number of green macaroons Fran ate is 15.",
+    "The problem also states that Fran ate twice as many red macaroons as she did green macaroons.",
+    "Since Fran ate 15 green macaroons, she must have eaten 2 * 15 = 30 red macaroons.",
+    "Next, we calculate how many red macaroons remain after Fran ate some.",
+    "Initially, there were 50 red macaroons.",
+    "After eating 30, the number of red macaroons remaining is 50 - 30 = 20.",
+    "Now, we calculate how many green macaroons remain after Fran ate 15.",
+    "Initially, there were 40 green macaroons.",
+    "After eating 15, the number of green macaroons remaining is 40 - 15 = 25.",
+    "To find the total number of macaroons remaining, we add the remaining red and green macaroons together.",
+    "The remaining macaroons are 20 red + 25 green = 45 macaroons."
+  ],
+  "solution": "45"
+}

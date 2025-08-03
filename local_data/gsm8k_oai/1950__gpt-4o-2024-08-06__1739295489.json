@@ -1,0 +1,24 @@
+{
+  "query": "Frank goes to the store to buy some food. He buys 5 chocolate bars and 2 bags of chips. He hands the cashier $20 and gets $4 back as change. If the chocolate bars each cost $2, how much did each bag of chips cost?",
+  "steps": [
+    "First, I calculate the total cost of the chocolate bars.",
+    "Each chocolate bar costs $2.",
+    "Frank buys 5 chocolate bars.",
+    "The total cost of the chocolate bars is 5 bars * $2/bar.",
+    "5 * 2 = 10.",
+    "The chocolate bars cost $10 in total.",
+    "Next, I need to find the total cost of the purchase.",
+    "Frank gave the cashier $20 and got $4 back, so he spent $20 - $4.",
+    "20 - 4 = 16.",
+    "Frank spent a total of $16 at the store.",
+    "Now, I subtract the cost of the chocolate bars from the total cost to find the cost of the chips.",
+    "The total amount spent is $16, and the chocolate bars cost $10.",
+    "16 - 10 = 6.",
+    "The total cost of the 2 bags of chips is $6.",
+    "Finally, I need to calculate the cost per bag of chips.",
+    "There are 2 bags of chips, costing $6 in total.",
+    "So, each bag of chips costs $6 / 2.",
+    "6 / 2 = 3."
+  ],
+  "solution": "3"
+}

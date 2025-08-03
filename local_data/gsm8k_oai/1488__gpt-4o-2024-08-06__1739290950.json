@@ -1,0 +1,17 @@
+{
+  "query": "Bella, Monica, and Rachel are friends who like jewelry. Bella has 10 earrings, which is 25% of Monica's earrings, and Monica has twice as many earrings as Rachel. How many earrings do all of the friends have?",
+  "steps": [
+    "Bella has 10 earrings.",
+    "Bella's 10 earrings are 25% of Monica's earrings.",
+    "To find the total number of Monica's earrings, we need to figure out what 100% is if 25% is equal to 10 earrings.",
+    "If 25% corresponds to 10 earrings, then Monica's total number of earrings is 10 divided by 25%, which is the same as multiplying by 4 (since 100% / 25% = 4).",
+    "Monica has 10 * 4 = 40 earrings.",
+    "Monica has twice as many earrings as Rachel.",
+    "Since Monica has 40 earrings, we divide this by 2 to find Rachel's number of earrings.",
+    "Rachel has 40 / 2 = 20 earrings.",
+    "Now, we add together the total number of earrings Bella, Monica, and Rachel have.",
+    "Bella has 10 earrings, Monica has 40 earrings, and Rachel has 20 earrings.",
+    "10 + 40 + 20 = 70"
+  ],
+  "solution": "70"
+}

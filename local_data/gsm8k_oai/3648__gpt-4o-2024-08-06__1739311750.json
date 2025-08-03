@@ -1,0 +1,14 @@
+{
+  "query": "Carla is dividing up chores for her two kids, Anna and Billy. She wants each of them to spend the same number of minutes working. Sweeping takes 3 minutes per room, washing the dishes takes 2 minutes per dish, and doing laundry takes 9 minutes per load. If Anna does the sweeping for 10 rooms and Billy does two loads of laundry, how many dishes should Billy wash so they spend the same amount of time doing chores?",
+  "steps": [
+    "First, I need to calculate the amount of time Anna spends sweeping 10 rooms.",
+    "Each room takes 3 minutes to sweep, so for 10 rooms it is 10 * 3 = 30 minutes.",
+    "Next, I need to calculate the amount of time Billy spends doing laundry for 2 loads.",
+    "Each load of laundry takes 9 minutes, so for 2 loads it is 2 * 9 = 18 minutes.",
+    "Now, I know Billy spends 18 minutes on laundry and needs to spend a total of 30 minutes to match Anna's time.",
+    "I need to find out how many dishes Billy should wash to make up the remaining time.",
+    "Billy needs an additional 30 - 18 = 12 minutes.",
+    "Washing one dish takes 2 minutes, so to find the number of dishes he needs to wash, I calculate 12 / 2 = 6 dishes."
+  ],
+  "solution": "6"
+}

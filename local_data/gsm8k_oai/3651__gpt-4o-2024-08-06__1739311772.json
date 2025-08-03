@@ -1,0 +1,13 @@
+{
+  "query": "Steve has 25 socks. He has 4 pairs of socks that match, and all the others don't match. How many mismatching socks does Steve have altogether?",
+  "steps": [
+    "First, determine how many socks are in the matching pairs.",
+    "There are 4 pairs of matching socks.",
+    "Each pair has 2 socks.",
+    "Calculate the total number of matching socks: 4 pairs * 2 socks per pair = 8 socks.",
+    "Now, calculate the total number of mismatching socks by subtracting the number of matching socks from the total number of socks.",
+    "Steve has 25 socks in total.",
+    "Subtract the 8 matching socks from the total: 25 - 8 = 17."
+  ],
+  "solution": "17"
+}

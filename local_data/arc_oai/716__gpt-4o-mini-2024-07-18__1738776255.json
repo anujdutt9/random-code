@@ -1,0 +1,11 @@
+{
+  "query": "Question: A solution with a pH of 2 can be increased to a pH above 7 by adding\n\nChoices:\nA: an acid.\nB: water.\nC: a base.\nD: hydrogen.",
+  "steps": [
+    "A solution with a pH of 2 is highly acidic.",
+    "To increase the pH above 7, which is neutral, a substance that neutralizes or reacts with the acidity must be added.",
+    "Adding an acid (choice A) would further lower the pH, and adding hydrogen (choice D) does not neutralize acidity. Therefore, these options would not help achieve the goal.",
+    "Adding water (choice B) dilutes the solution but may not be sufficient to raise the pH above 7.",
+    "Adding a base (choice C) will neutralize the acid, resulting in an increase in pH. A strong enough base can raise the pH above 7."
+  ],
+  "solution": "C"
+}

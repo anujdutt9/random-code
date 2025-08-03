@@ -1,0 +1,12 @@
+{
+  "query": "At the beginning of the day, Principal Kumar instructed Harold to raise the flag up the flagpole.  The flagpole is 60 feet long, and when fully raised, the flag sits on the very top of the flagpole.  Later that morning, Vice-principal Zizi instructed Harold to lower the flag to half-mast.  So, Harold lowered the flag halfway down the pole.   Later, Principal Kumar told Harold to raise the flag to the top of the pole once again, and Harold did just that.  At the end of the day, Vice-principal Zizi instructed Harold to completely lower the flag, take it off of the pole, and put it away for the evening.  Over the course of the day, how far, in feet, had the flag moved up and down the pole?",
+  "steps": [
+    "First, Harold raised the flag from the ground to the top of the 60-foot flagpole. This means he raised it 60 feet.",
+    "Later, he was instructed to lower the flag to half-mast. Half-mast is half of 60 feet, so he lowered it 30 feet.",
+    "After that, Harold raised the flag back to the top of the pole. Since the flag was at half-mast (30 feet) and he raised it to full mast (60 feet), he raised it 30 feet.",
+    "Finally, Harold lowered the flag from the top of the pole (60 feet) back down to the bottom (0 feet), lowering it 60 feet.",
+    "To find the total distance the flag moved up and down the pole, I'll add the distances from each movement: 60 feet up + 30 feet down + 30 feet up + 60 feet down.",
+    "60 + 30 + 30 + 60 equals 180 feet."
+  ],
+  "solution": "180"
+}

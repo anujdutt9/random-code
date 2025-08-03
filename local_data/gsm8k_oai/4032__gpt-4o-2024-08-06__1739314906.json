@@ -1,0 +1,13 @@
+{
+  "query": "Paul is working at a university. He is part of a big project, which involves 70 scientists in total. Half of them are from Europe and one-fifth are from Canada. The rest are from the USA. How many scientists in this project are from the USA?",
+  "steps": [
+    "First, I determine how many scientists are from Europe.",
+    "Since half of the scientists are from Europe, I calculate 70 / 2 = 35.",
+    "Next, I determine how many scientists are from Canada.",
+    "One-fifth of the scientists are from Canada, so I calculate 70 / 5 = 14.",
+    "Now, I calculate how many scientists are from the USA.",
+    "To find the number of scientists from the USA, I start by adding the number of scientists from Europe and Canada: 35 + 14 = 49.",
+    "Then, I subtract this total from the total number of scientists to find the number from the USA: 70 - 49 = 21."
+  ],
+  "solution": "21"
+}

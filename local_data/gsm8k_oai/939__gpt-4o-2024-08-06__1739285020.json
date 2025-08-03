@@ -1,0 +1,26 @@
+{
+  "query": "There are 20 students in the class. Half of them play basketball. Two-fifths play volleyball and one-tenth play both basketball and volleyball.  How many students in this class do not play either game?",
+  "steps": [
+    "First, I will find out how many students play basketball.",
+    "There are 20 students, and half of them play basketball.",
+    "Half of 20 is 20/2 = 10.",
+    "So, 10 students play basketball.",
+    "Next, I will find out how many students play volleyball.",
+    "Two-fifths of the students play volleyball.",
+    "Two-fifths of 20 is (2/5) * 20 = 8.",
+    "So, 8 students play volleyball.",
+    "Now I will determine how many students play both basketball and volleyball.",
+    "One-tenth of the students play both basketball and volleyball.",
+    "One-tenth of 20 is 20/10 = 2.",
+    "So, 2 students play both basketball and volleyball.",
+    "I will use the principle of inclusion-exclusion to find how many students play either basketball or volleyball, or both.",
+    "Number of students playing either sport = (students who play basketball) + (students who play volleyball) - (students who play both).",
+    "This can be calculated as 10 + 8 - 2 = 16.",
+    "Now, I will find how many students do not play either basketball or volleyball.",
+    "Total number of students in the class is 20.",
+    "Number of students who play either sport is 16.",
+    "Students who do not play either sport = Total students - Students who play either sport.",
+    "So, the number of students who do not play either game = 20 - 16 = 4."
+  ],
+  "solution": "4"
+}

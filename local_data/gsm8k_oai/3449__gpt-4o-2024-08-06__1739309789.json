@@ -1,0 +1,14 @@
+{
+  "query": "An apple tree can fill 20 baskets. Each basket can be filled with 15 apples. How many apples can you get from 10 trees?",
+  "steps": [
+    "First, I know that one apple tree can fill 20 baskets.",
+    "Each basket contains 15 apples.",
+    "To find out how many apples one tree can produce, I multiply the number of baskets one tree can fill by the number of apples in each basket.",
+    "I calculate that as 20 baskets * 15 apples per basket = 300 apples per tree.",
+    "Now, I want to find out how many apples can be produced by 10 trees.",
+    "I need to multiply the number of apples one tree can produce by the number of trees.",
+    "So, I calculate 300 apples per tree * 10 trees.",
+    "300 * 10 gives me 3000."
+  ],
+  "solution": "3000"
+}

@@ -1,0 +1,25 @@
+{
+  "query": "When three friends sold their video games, Ryan, the first of the three friends, received $50 more than Jason from his sales. Jason received 30% more money than Zachary from selling his video games. If Zachary sold 40 games at $5 each, calculate the total amount of money the three friends received together from the sale of the video games.",
+  "steps": [
+    "First, I need to determine how much money Zachary received from selling his video games.",
+    "Zachary sold 40 games at $5 each.",
+    "The amount of money Zachary received is 40 games * $5/game.",
+    "Calculating Zachary's earnings: 40 * 5 = $200.",
+    "Next, I need to find out how much money Jason received.",
+    "Jason received 30% more money than Zachary.",
+    "To calculate 30% more than Zachary's $200, I first find 30% of $200.",
+    "30% of $200 is calculated as $200 * 0.30.",
+    "Calculating 30% of $200: 200 * 0.30 = $60.",
+    "Therefore, Jason received $200 + $60.",
+    "Adding Jason's earnings: 200 + 60 = $260.",
+    "Now, I need to determine how much money Ryan received.",
+    "Ryan received $50 more than Jason.",
+    "Adding $50 to Jason's earnings gives Ryan's earnings as $260 + $50.",
+    "Calculating Ryan's earnings: 260 + 50 = $310.",
+    "Finally, I calculate the total amount of money the three friends received together.",
+    "The total is Zachary's earnings + Jason's earnings + Ryan's earnings.",
+    "Adding together: $200 + $260 + $310.",
+    "Calculating the total: 200 + 260 + 310 = $770."
+  ],
+  "solution": "770"
+}

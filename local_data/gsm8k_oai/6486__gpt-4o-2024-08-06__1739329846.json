@@ -1,0 +1,19 @@
+{
+  "query": "Janet has to drive 30 miles east from home to see her dermatologist and 50 miles west from home to see her gynecologist. If she has appointments with both doctors on the same day, how many gallons of gas does she use driving to both appointments and back home again, if her car gets 20 miles per gallon?",
+  "steps": [
+    "First, I need to determine the total distance Janet will drive today.",
+    "She drives 30 miles east to the dermatologist and then 50 miles west to the gynecologist.",
+    "Since she starts from home, she first drives 30 miles away.",
+    "Then she drives 30 miles back to start to return home.",
+    "The roundtrip distance to the dermatologist is 60 miles (30 miles each way).",
+    "Next, she has to go 50 miles west to see her gynecologist from home.",
+    "And then return again to home at 50 miles.",
+    "The roundtrip distance for the gynecologist visit is 100 miles (50 miles each way).",
+    "Therefore, the total driving distance for both appointments is 60 miles (to the dermatologist and back) plus 100 miles (to the gynecologist and back).",
+    "I add these distances together: 60 + 100 = 160 miles in total.",
+    "Next, I need to figure out how many gallons of gas Janet uses to drive 160 miles.",
+    "Her car gets 20 miles per gallon.",
+    "I divide the total distance by the car's miles per gallon: 160 miles / 20 miles per gallon = 8 gallons."
+  ],
+  "solution": "8"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Monica was saving money for her future. Every week he put $15 into her moneybox. After the moneybox got full, which took 60 weeks, Monica took all the money out and took it to the bank, and she started saving money again. She repeated this whole process 5 times. How much money did Monica take to the bank in total?",
+  "steps": [
+    "Monica puts $15 into her moneybox every week.",
+    "She continues putting money into the moneybox for 60 weeks before taking it to the bank.",
+    "First, I'll calculate how much money she saves in one full cycle of 60 weeks.",
+    "In one week, she saves $15. So in 60 weeks, she would save 15 * 60 dollars.",
+    "Perform the multiplication: 15 * 60 = 900.",
+    "So, Monica saves $900 in each cycle of 60 weeks.",
+    "She repeats this process 5 times.",
+    "Now I'll calculate the total amount of money she takes to the bank over the 5 cycles.",
+    "Multiply the amount saved in one cycle by the number of cycles: 900 * 5.",
+    "Perform the multiplication: 900 * 5 = 4500.",
+    "Monica takes a total of $4500 to the bank over the 5 cycles."
+  ],
+  "solution": "4500"
+}

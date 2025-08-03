@@ -1,0 +1,13 @@
+{
+  "query": "Audrey is 7 years older than Heracles. In 3 years, Audrey will be twice as old as Heracles is now. How old is Heracles now?",
+  "steps": [
+    "Let Heracles' current age be \\( x \\).",
+    "Since Audrey is 7 years older than Heracles, her current age is \\( x + 7 \\).",
+    "According to the problem, in 3 years, Audrey will be twice as old as Heracles is now.",
+    "In 3 years, Audrey's age will be \\( (x + 7) + 3 = x + 10 \\).",
+    "We know this future age of Audrey will be twice Heracles' current age, so we set up the equation: \\( x + 10 = 2x \\).",
+    "Solving the equation \\( x + 10 = 2x \\), we subtract \\( x \\) from both sides to get \\( 10 = x \\).",
+    "Therefore, Heracles is 10 years old."
+  ],
+  "solution": "10"
+}

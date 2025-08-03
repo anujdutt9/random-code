@@ -1,0 +1,14 @@
+{
+  "query": "John buys 2 dozen cookies.  He eats 3.  How many cookies does he have left?",
+  "steps": [
+    "First, I need to determine how many cookies John initially bought.",
+    "A dozen is 12, so 2 dozen is 2 x 12.",
+    "2 x 12 is 24.",
+    "John initially bought 24 cookies.",
+    "Next, John eats 3 cookies.",
+    "I need to subtract the 3 cookies he ate from the 24 cookies he initially bought.",
+    "24 - 3 is 21.",
+    "So, after eating 3 cookies, John has 21 cookies left."
+  ],
+  "solution": "21"
+}

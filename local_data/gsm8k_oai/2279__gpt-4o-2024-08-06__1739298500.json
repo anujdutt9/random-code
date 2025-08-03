@@ -1,0 +1,15 @@
+{
+  "query": "Austin has 10 pairs of dress shoes he needs to polish over the weekend.  If he has polished 45% of individual shoes, how many more shoes does he need to polish?",
+  "steps": [
+    "Austin has 10 pairs of shoes.",
+    "Each pair consists of 2 shoes.",
+    "This means there are a total of 10 pairs * 2 shoes per pair = 20 shoes.",
+    "Austin has polished 45% of the 20 shoes.",
+    "I need to calculate 45% of 20 to find out how many shoes he has already polished.",
+    "45% of 20 is (45 / 100) * 20 = 9 shoes.",
+    "So Austin has already polished 9 shoes.",
+    "To find how many shoes he still needs to polish, subtract the polished shoes from the total.",
+    "20 total shoes - 9 polished shoes = 11 shoes left to polish."
+  ],
+  "solution": "11"
+}

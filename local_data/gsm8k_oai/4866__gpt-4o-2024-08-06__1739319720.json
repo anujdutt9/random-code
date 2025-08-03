@@ -1,0 +1,19 @@
+{
+  "query": "The number of female students in the school hall is 4 times as many as the number of male students. If there are 29 male students, and there are 29 benches in the hall, at least how many students can sit on each bench for them to all fit in the hall?",
+  "steps": [
+    "First, I need to determine the total number of female students.",
+    "The number of female students is 4 times the number of male students.",
+    "There are 29 male students.",
+    "So, the number of female students is 4 times 29.",
+    "Calculating 4 times 29 gives 116 female students.",
+    "Next, I will calculate the total number of students in the hall by adding the number of male and female students.",
+    "The total number of students is 29 male students plus 116 female students.",
+    "Adding these together gives 29 + 116 = 145 total students.",
+    "There are 29 benches in the hall.",
+    "To find out the minimum number of students who can sit on each bench, I need to divide the total number of students by the number of benches.",
+    "Dividing 145 students by 29 benches gives 145 / 29.",
+    "Calculating this division gives 5 students per bench.",
+    "Since 145 divided by 29 exactly equals 5, no students are left without a seat."
+  ],
+  "solution": "5"
+}

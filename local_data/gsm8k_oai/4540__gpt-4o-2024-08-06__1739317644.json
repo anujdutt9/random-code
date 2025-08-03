@@ -1,0 +1,15 @@
+{
+  "query": "Tracy feeds each of her two dogs 1.5 cups of food per meal. She feeds her dogs thrice a day. How many pounds of food do her two dogs consume if 1 pound is equal to 2.25 cups?",
+  "steps": [
+    "First, I need to determine how many cups of food one dog consumes in a day.",
+    "Each dog is fed 1.5 cups of food per meal and there are 3 meals per day.",
+    "So, one dog eats 1.5 cups/meal * 3 meals/day = 4.5 cups/day.",
+    "Tracy has two dogs, so I need to calculate the total cups for both dogs.",
+    "Each dog eats 4.5 cups/day, so two dogs would eat 4.5 cups/day/dog * 2 dogs = 9 cups/day.",
+    "Now, I need to convert the total cups of food consumed by both dogs into pounds.",
+    "1 pound of food is equal to 2.25 cups.",
+    "To find the number of pounds, I divide the total number of cups by the number of cups per pound.",
+    "So, 9 cups/day \u00f7 2.25 cups/pound = 4 pounds/day."
+  ],
+  "solution": "4"
+}

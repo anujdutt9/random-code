@@ -1,0 +1,560 @@
+gsm8k-oai:
+  HuggingFaceTB/SmolLM2-360M-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 5
+    add_question: true
+    n_contrastive_samples: 200
+    extraction_method: last_token
+    how: last
+    c_keys: 0.0
+    c_values: 1.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      n_contrastive_samples: 300
+      append_special_token: true
+
+  meta-llama/Llama-3.2-1B-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 5
+    add_question: true
+    n_contrastive_samples: 100
+    extraction_method: last_token
+    how: last
+    c_keys: 0.0
+    c_values: 1.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      n_contrastive_samples: 200
+
+  meta-llama/Llama-3.2-3B-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 5
+    add_question: true
+    n_contrastive_samples: 100
+    extraction_method: last_token
+    how: last
+    c_keys: 0.0
+    c_values: 1.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      n_contrastive_samples: 200
+
+  Qwen/Qwen2-0.5B-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 5
+    add_question: true
+    n_contrastive_samples: 100
+    extraction_method: last_token
+    how: last
+    c_keys: 0.0
+    c_values: 3.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      n_contrastive_samples: 200
+      c_values: 1.0
+
+  meta-llama/Llama-3.1-8B-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 5
+    add_question: true
+    n_contrastive_samples: 100
+    extraction_method: last_token
+    how: last
+    c_keys: 0.0
+    c_values: 2.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      n_contrastive_samples: 200
+
+  microsoft/Phi-4-mini-instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 5
+    add_question: true
+    n_contrastive_samples: 100
+    extraction_method: last_token
+    how: last
+    c_keys: 0.0
+    c_values: 1.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      n_contrastive_samples: 200
+
+### ------------------------------------------------------------------------------------ ###
+
+csqa-oai:
+  meta-llama/Llama-3.2-1B-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 5
+    add_question: true
+    n_contrastive_samples: 100
+    extraction_method: last_token
+    how: last
+    append_special_token: true
+    c_keys: 0.0
+    c_values: 10.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+
+  meta-llama/Llama-3.2-3B-Instruct:                     # meta-llama/Llama-3.2-3B-Instruct
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 10
+    add_question: true
+    n_contrastive_samples: 300
+    extraction_method: last_token
+    how: last
+    append_special_token: true
+    c_keys: 0.0
+    c_values: 4.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      n_contrastive_samples: 400
+      num_fewshot_examples: 10
+      c_values: 6.0
+
+  HuggingFaceTB/SmolLM2-360M-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 12
+    add_question: true
+    n_contrastive_samples: 400
+    extraction_method: last_token
+    how: last
+    append_special_token: true
+    c_keys: 0.0
+    c_values: 6.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      num_fewshot_examples: 10
+      n_contrastive_samples: 300
+
+
+  Qwen/Qwen2-0.5B-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 10
+    add_question: true
+    n_contrastive_samples: 200
+    extraction_method: last_token
+    how: last
+    append_special_token: true
+    c_keys: 0.2
+    c_values: 4.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+
+  meta-llama/Llama-3.1-8B-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 5
+    add_question: true
+    n_contrastive_samples: 100
+    extraction_method: last_token
+    how: last
+    append_special_token: true
+    c_keys: 0.0
+    c_values: 10.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+
+  microsoft/Phi-4-mini-instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 5
+    add_question: true
+    n_contrastive_samples: 100
+    extraction_method: last_token
+    how: last
+    append_special_token: true
+    c_keys: 0.0
+    c_values: 10.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+
+
+### ------------------------------------------------------------------------------------ ###
+
+arc-oai:
+  meta-llama/Llama-3.2-3B-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 10
+    add_question: true
+    n_contrastive_samples: 400
+    extraction_method: last_token
+    how: last
+    append_special_token: true
+    c_keys: 0.0
+    c_values: 6.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      n_contrastive_samples: 200
+
+  meta-llama/Llama-3.2-1B-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 10
+    add_question: true
+    n_contrastive_samples: 200
+    extraction_method: last_token
+    how: last
+    append_special_token: true
+    c_keys: 0.0
+    c_values: 6.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      c_values: 8.0
+
+  HuggingFaceTB/SmolLM2-360M-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 10
+    add_question: true
+    n_contrastive_samples: 300
+    extraction_method: last_token
+    how: last
+    append_special_token: true
+    c_keys: 0.0
+    c_values: 6.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      c_values: 4.0
+
+  Qwen/Qwen2-0.5B-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 10
+    add_question: true
+    n_contrastive_samples: 400
+    extraction_method: last_token
+    how: last
+    append_special_token: true
+    c_keys: 0.0
+    c_values: 10.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      c_values: 8.0
+      n_contrastive_samples: 200
+
+  meta-llama/Llama-3.1-8B-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 10
+    add_question: true
+    n_contrastive_samples: 200
+    extraction_method: last_token
+    how: last
+    append_special_token: true
+    c_keys: 0.0
+    c_values: 6.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      c_values: 8.0
+
+  microsoft/Phi-4-mini-instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 10
+    add_question: true
+    n_contrastive_samples: 200
+    extraction_method: last_token
+    how: last
+    append_special_token: true
+    c_keys: 0.0
+    c_values: 6.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      c_values: 8.0
+
+
+piqa-oai:
+  ### ------------------------------------------------------------------------------------ ###
+  meta-llama/Llama-3.2-1B-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 10
+    add_question: true
+    n_contrastive_samples: 200
+    extraction_method: last_token
+    how: last
+    append_special_token: true
+    c_keys: 0.0
+    c_values: 6.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      c_values: 8.0
+
+  meta-llama/Llama-3.2-3B-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 10
+    add_question: true
+    n_contrastive_samples: 200
+    extraction_method: last_token
+    how: last
+    append_special_token: true
+    c_keys: 0.0
+    c_values: 10.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      n_contrastive_samples: 300
+      c_values: 6.0
+
+  HuggingFaceTB/SmolLM2-360M-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 10
+    add_question: true
+    n_contrastive_samples: 200
+    extraction_method: last_token
+    how: last
+    append_special_token: true
+    c_keys: 0.0
+    c_values: 6.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      c_values: 10.0
+
+  Qwen/Qwen2-0.5B-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 10
+    add_question: true
+    n_contrastive_samples: 200
+    extraction_method: last_token
+    how: last
+    append_special_token: true
+    c_keys: 0.0
+    c_values: 8.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      c_values: 10.0
+
+  meta-llama/Llama-3.1-8B-Instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 10
+    add_question: true
+    n_contrastive_samples: 200
+    extraction_method: last_token
+    how: last
+    append_special_token: true
+    c_keys: 0.0
+    c_values: 6.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      c_values: 8.0
+
+  microsoft/Phi-4-mini-instruct:
+    batch_size: 32
+    extraction_batch_size: 1
+    num_fewshot_examples: 10
+    add_question: true
+    n_contrastive_samples: 200
+    extraction_method: last_token
+    how: last
+    append_special_token: true
+    c_keys: 0.0
+    c_values: 6.0
+    layers_ids_keys: 1
+    layers_ids_values: 1
+    encoding_method: instruct
+    max_new_tokens: 768
+    add_generation_prompt: true
+    sample_selection_method: distance
+    # Add prefix
+    prefix:
+      append_prefix_to_prompt: true
+      add_prefix: true
+      c_values: 8.0

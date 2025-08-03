@@ -1,0 +1,19 @@
+{
+  "query": "How many apples did two men and three women buy at a certain store if the two men each bought 30 apples, 20 less than the number of apples bought by each woman?",
+  "steps": [
+    "First, I need to determine how many apples each woman bought.",
+    "The problem states that each man bought 30 apples and each woman bought 20 more apples than each man.",
+    "If each man bought 30 apples, then each woman bought 30 + 20 apples.",
+    "Therefore, each woman bought 50 apples.",
+    "Now, I need to calculate the total number of apples bought by the two men.",
+    "Each man bought 30 apples, and there are two men.",
+    "Therefore, the total number of apples bought by the two men is 2 * 30 = 60 apples.",
+    "Next, I need to calculate the total number of apples bought by the three women.",
+    "Each woman bought 50 apples, and there are three women.",
+    "Therefore, the total number of apples bought by the three women is 3 * 50 = 150 apples.",
+    "Finally, I should add the total number of apples bought by the men and the women to find the overall total.",
+    "The total number of apples bought is 60 (from the men) + 150 (from the women).",
+    "This sum is 210 apples."
+  ],
+  "solution": "210"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Bob wants to build a pyramid out of legos with 3 levels where the bottom level has 7 legos per side and each level has one less lego per side than the level below it. How many legos total will he need?",
+  "steps": [
+    "Bob's pyramid has 3 levels.",
+    "The bottom level has 7 legos per side.",
+    "A lego pyramid level is typically in the shape of a square. Therefore, the bottom level can be thought of as a 7 by 7 square.",
+    "To determine the total number of legos needed for the bottom level, calculate the area of this square: 7 x 7 = 49 legos.",
+    "The second level has one less lego per side; thus, it forms a 6 by 6 square.",
+    "Calculate the total number of legos needed for the second level: 6 x 6 = 36 legos.",
+    "The top level has one less lego per side than the second level, forming a 5 by 5 square.",
+    "Calculate the total number of legos needed for the top level: 5 x 5 = 25 legos.",
+    "To find the total number of legos Bob needs for the entire pyramid, sum the total legos from all three levels.",
+    "Add the number of legos: 49 (bottom level) + 36 (second level) + 25 (top level) = 110 legos."
+  ],
+  "solution": "110"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Frankie's parents let him have many pets. He has six more snakes than he has cats. He has one less parrot than cats. Six of his pets have four legs. He has 2 dogs. How many pets does he have in total?",
+  "steps": [
+    "Let's denote the number of cats as C.",
+    "Frankie has six more snakes than he has cats. Thus, the number of snakes is C + 6.",
+    "He has one less parrot than cats. Thus, the number of parrots is C - 1.",
+    "He has 2 dogs. Dogs have four legs, and since there are 2 dogs, they contribute 2 * 4 = 8 legs.",
+    "Six of his pets have four legs. We've accounted for some of these legs already with the dogs.",
+    "To find the remaining four-legged animals, we consider that the 2 dogs contribute 8 legs, but there should be 6 four-legged pets contributing 6 * 4 = 24 legs in total.",
+    "Therefore, the additional 16 legs (24 total legs from 6 four-legged pets minus the 8 legs from the dogs) must come from cats.",
+    "Each cat has 4 legs, so if we divide the 16 extra legs by 4, we find there are 4 cats.",
+    "Now, we know there are 4 cats, 2 dogs already. We previously found that the number of snakes is C + 6 = 4 + 6 = 10 snakes.",
+    "Similarly, the number of parrots is C - 1 = 4 - 1 = 3 parrots.",
+    "Now we add all the pets together: 4 cats + 2 dogs + 10 snakes + 3 parrots.",
+    "Calculating this sum gives us 4 + 2 + 10 + 3 = 19 pets total."
+  ],
+  "solution": "19"
+}

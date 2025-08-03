@@ -1,0 +1,14 @@
+{
+  "query": "During one day, there are 4 boat trips through the lake. The boat can take up to 12 people during one trip. How many people can the boat transport in 2 days?",
+  "steps": [
+    "First, I need to calculate how many people the boat can transport in a single day.",
+    "There are 4 trips each day.",
+    "Each trip can take 12 people.",
+    "To find out the total number of people transported in one day, I multiply the number of trips (4) by the number of people per trip (12).",
+    "4 trips \u00d7 12 people/trip = 48 people can be transported in one day.",
+    "Now, I need to calculate the total number of people that can be transported in 2 days.",
+    "I multiply the number of people transported in one day (48) by 2 days.",
+    "48 people/day \u00d7 2 days = 96 people."
+  ],
+  "solution": "96"
+}

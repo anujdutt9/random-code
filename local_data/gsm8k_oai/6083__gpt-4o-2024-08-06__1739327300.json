@@ -1,0 +1,18 @@
+{
+  "query": "Ronald is rolling a die and won't stop rolling until the average of all his rolls is a 3. He rolls a 1, a 3, a 2, a 4, a 3, a 5, a 3, a 4, a 4 and a 2. What does he need to roll on the next roll to be able to stop?",
+  "steps": [
+    "First, I need to list all the rolls Ronald has already made: 1, 3, 2, 4, 3, 5, 3, 4, 4, and 2.",
+    "Next, I will calculate the sum of these rolls.",
+    "Adding up the numbers: 1 + 3 + 2 + 4 + 3 + 5 + 3 + 4 + 4 + 2 = 31.",
+    "I count the number of rolls he made. There are 10 rolls in total.",
+    "The current average of his rolls is calculated by dividing the sum of the rolls by the number of rolls.",
+    "The current average is 31 divided by 10, which is 3.1.",
+    "He wants the average to be exactly 3 in order to stop.",
+    "Suppose he rolls x in his next roll. The new sum would be 31 + x and the total number of rolls would be 11.",
+    "We set up the equation for the average to be 3: (31 + x) / 11 = 3.",
+    "Multiplying both sides by 11 to eliminate the denominator, we get: 31 + x = 33.",
+    "Solving for x, we subtract 31 from both sides to get: x = 33 - 31.",
+    "x = 2."
+  ],
+  "solution": "2"
+}

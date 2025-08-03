@@ -1,0 +1,16 @@
+{
+  "query": "Building A has 4 floors, which is 9 less than Building B. Building C has six less than five times as many floors as Building B. How many floors does Building C have?",
+  "steps": [
+    "First, I need to find out how many floors Building B has.",
+    "Building A has 4 floors, which is 9 less than Building B.",
+    "So, to find the number of floors in Building B, I need to add 9 to the number of floors in Building A: 4 + 9.",
+    "4 + 9 equals 13. Therefore, Building B has 13 floors.",
+    "Now, I need to determine the number of floors in Building C.",
+    "Building C has six less than five times as many floors as Building B.",
+    "First, calculate five times the number of floors in Building B: 5 * 13.",
+    "5 * 13 equals 65.",
+    "Now, subtract 6 from 65 to find the number of floors in Building C: 65 - 6.",
+    "65 - 6 equals 59. Therefore, Building C has 59 floors."
+  ],
+  "solution": "59"
+}

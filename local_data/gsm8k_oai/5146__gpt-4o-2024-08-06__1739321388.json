@@ -1,0 +1,20 @@
+{
+  "query": "The bagels cost $2.25 each, or a dozen for $24. How much is saved, per bagel, in cents, by buying a dozen at a time?",
+  "steps": [
+    "First, I need to find the cost of buying one bagel at the price of $2.25 each.",
+    "Next, I'll calculate the total cost for a dozen bagels if bought individually.",
+    "So, 12 bagels at $2.25 each would cost 12 * $2.25.",
+    "Calculating that, 12 * $2.25 = $27.00.",
+    "Now, I will consider the price of a dozen bagels when purchased all at once, which is $24.",
+    "To find out how much is saved by buying a dozen, I'll subtract the cost of a dozen bagels at the dozen price from the cost of buying the dozen individually.",
+    "That is, $27.00 - $24.00 = $3.00.",
+    "The total savings for buying a dozen is $3.00.",
+    "Next, I need to find the savings per bagel when buying a dozen.",
+    "Since there are 12 bagels in a dozen, I'll divide the $3.00 savings by 12 to find the savings per bagel.",
+    "$3.00 divided by 12 equals $0.25.",
+    "The savings per bagel is $0.25.",
+    "Finally, I'll convert the savings from dollars to cents since the answer is required in cents.",
+    "$0.25 is equal to 25 cents."
+  ],
+  "solution": "25"
+}

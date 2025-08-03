@@ -1,0 +1,18 @@
+{
+  "query": "Derek has $40. He spends $14 on lunch for himself, $11 for lunch for his dad, and $5 on more lunch for himself. His brother Dave has $50 and only spends $7 on lunch for his mom. How much more money does Dave have left than Derek?",
+  "steps": [
+    "Derek starts with $40.",
+    "Derek spends $14 on lunch for himself.",
+    "After spending $14, Derek has $40 - $14 = $26 left.",
+    "Derek spends another $11 on lunch for his dad.",
+    "After spending $11, Derek has $26 - $11 = $15 left.",
+    "Derek spends another $5 on lunch for himself.",
+    "After spending $5, Derek has $15 - $5 = $10 left.",
+    "Dave starts with $50.",
+    "Dave spends $7 on lunch for his mom.",
+    "After spending $7, Dave has $50 - $7 = $43 left.",
+    "To find how much more money Dave has than Derek, subtract Derek's remaining money from Dave's.",
+    "Dave has $43 and Derek has $10, so $43 - $10 = $33."
+  ],
+  "solution": "33"
+}

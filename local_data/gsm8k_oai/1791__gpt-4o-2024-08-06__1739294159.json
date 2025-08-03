@@ -1,0 +1,12 @@
+{
+  "query": "At a convention, 16 of 36 delegates arrived with pre-printed name badges. Half of the remaining delegates made their own, hand-written name badges. How many delegates were not wearing name badges?",
+  "steps": [
+    "First, find out how many delegates did not arrive with pre-printed name badges.",
+    "Subtract the number of delegates with pre-printed name badges from the total number of delegates: 36 - 16 = 20.",
+    "Next, calculate how many of these remaining delegates made their own badges.",
+    "Half of these remaining 20 delegates made their own badges: 20 / 2 = 10.",
+    "Now, figure out how many delegates did not have any badges at all.",
+    "Subtract the number of delegates who made their own badges from the number of delegates without pre-printed badges: 20 - 10 = 10."
+  ],
+  "solution": "10"
+}

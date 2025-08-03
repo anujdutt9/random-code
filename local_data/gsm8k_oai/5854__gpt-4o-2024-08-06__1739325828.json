@@ -1,0 +1,25 @@
+{
+  "query": "A gold coin is worth 50 dollars and a silver coin is worth 25 dollars. If you have 3 gold coins, 5 silver coins, and 30 dollars cash, how much money do you have in dollars?",
+  "steps": [
+    "First, I consider the value of the gold coins.",
+    "Each gold coin is worth 50 dollars.",
+    "I have 3 gold coins.",
+    "The total value of the gold coins is 3 gold coins times 50 dollars per gold coin.",
+    "3 times 50 is 150.",
+    "So, the value of the gold coins is 150 dollars.",
+    "Next, I consider the value of the silver coins.",
+    "Each silver coin is worth 25 dollars.",
+    "I have 5 silver coins.",
+    "The total value of the silver coins is 5 silver coins times 25 dollars per silver coin.",
+    "5 times 25 is 125.",
+    "So, the value of the silver coins is 125 dollars.",
+    "Now, I have to add the values of the gold coins, silver coins, and cash.",
+    "I have 150 dollars from the gold coins.",
+    "I have 125 dollars from the silver coins.",
+    "I have 30 dollars in cash.",
+    "I sum these amounts: 150 dollars plus 125 dollars plus 30 dollars.",
+    "150 plus 125 is 275.",
+    "275 plus 30 is 305."
+  ],
+  "solution": "305"
+}

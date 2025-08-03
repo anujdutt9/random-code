@@ -1,0 +1,16 @@
+{
+  "query": "Alice had 10 dozens of watermelons. She sold 40% of it yesterday and 1/4 of the remaining today, How many watermelons are left to be sold tomorrow?",
+  "steps": [
+    "First, I need to calculate how many watermelons Alice initially had. Since she had 10 dozens, I multiply 10 by 12 to convert dozens to individual watermelons.",
+    "10 dozens * 12 watermelons per dozen = 120 watermelons.",
+    "Next, Alice sold 40% of these watermelons yesterday. To find out how many she sold, I calculate 40% of 120.",
+    "40% of 120 is calculated as (40/100) * 120 = 48 watermelons sold yesterday.",
+    "Now, I need to find out how many watermelons were left after yesterday's sale by subtracting the number sold from the initial total.",
+    "120 watermelons - 48 watermelons = 72 watermelons remaining after yesterday.",
+    "Today, Alice sold 1/4 of the remaining watermelons. I need to find 1/4 of 72.",
+    "1/4 of 72 is calculated as 72 * (1/4) = 18 watermelons sold today.",
+    "Now, I need to find out how many watermelons are left after today's sale by subtracting the number sold today from the remaining amount after yesterday.",
+    "72 watermelons - 18 watermelons = 54 watermelons left."
+  ],
+  "solution": "54"
+}

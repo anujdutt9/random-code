@@ -1,0 +1,13 @@
+{
+  "query": "John books 3 nights at a hotel room for $250 a night.  He has a $100 discount.  How much does he pay?",
+  "steps": [
+    "John books the hotel room for 3 nights.",
+    "The cost per night is $250.",
+    "To find the total cost without the discount, I need to multiply the number of nights by the cost per night.",
+    "3 nights * $250 per night = $750.",
+    "John has a $100 discount.",
+    "To find the total cost after applying the discount, I need to subtract the discount from the total cost.",
+    "$750 - $100 = $650."
+  ],
+  "solution": "650"
+}

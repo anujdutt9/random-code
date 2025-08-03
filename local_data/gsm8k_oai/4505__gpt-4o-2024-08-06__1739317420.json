@@ -1,0 +1,16 @@
+{
+  "query": "Unrest leads to 30 days of protest in 21 different cities.  In each city, there are 10 arrests per day.  The average person spends 4 days in jail before trial and then spends half of a 2-week sentence.  How many combined weeks of jail time are there?",
+  "steps": [
+    "First, I need to determine the total number of arrest-days. Given there are 21 cities and each city has 10 arrests per day.",
+    "So in one day across all cities, there are \\(21 \\times 10 = 210\\) arrests.",
+    "Since the protest lasts for 30 days, the total number of arrests is \\(210 \\times 30 = 6300\\) arrests.",
+    "Each person spends 4 days in jail before trial.",
+    "After trial, they spend half of a 2-week sentence. Half of a 2-week sentence is \\(0.5 \\times 14 = 7\\) days.",
+    "Therefore, the total time each person spends in jail is \\(4 + 7 = 11\\) days.",
+    "To find out the total jail time for all arrested persons, multiply the number of days by the total number of arrests: \\(6300 \\times 11\\).",
+    "So the total jail days are \\(6300 \\times 11 = 69300\\) days.",
+    "Convert jail days into weeks. There are 7 days in a week, so the total number of weeks is \\(69300 \\div 7\\).",
+    "Calculating the total number of weeks: \\(69300 \\div 7 = 9900\\) weeks."
+  ],
+  "solution": "9900"
+}

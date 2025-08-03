@@ -1,0 +1,15 @@
+{
+  "query": "Lisa and Carly go shopping together. Lisa spends $40 on t-shirts then spends half of this amount on jeans and twice this amount on coats. Carly spends only a quarter as much as Lisa on t-shirts but spends 3 times as much on jeans and a quarter of the amount Lisa spent on coats. In dollars, how much did Lisa and Carly spend in total?",
+  "steps": [
+    "Lisa spends $40 on t-shirts. So, the amount Lisa spent on t-shirts is $40.",
+    "Lisa spends half of the $40 on jeans. So, Lisa spends $40 / 2 = $20 on jeans.",
+    "Lisa spends twice the $40 amount on coats. So, Lisa spends 2 * $40 = $80 on coats.",
+    "Now calculate the total amount Lisa spent: $40 (t-shirts) + $20 (jeans) + $80 (coats) = $140.",
+    "Carly spends a quarter of what Lisa spent on t-shirts. So, Carly spends $40 / 4 = $10 on t-shirts.",
+    "Carly spends 3 times what Lisa spent on jeans. Lisa spent $20 on jeans, so Carly spends 3 * $20 = $60 on jeans.",
+    "Carly spends a quarter of what Lisa spent on coats. So, Carly spends $80 / 4 = $20 on coats.",
+    "Now calculate the total amount Carly spent: $10 (t-shirts) + $60 (jeans) + $20 (coats) = $90.",
+    "Now, calculate the total amount both Lisa and Carly spent together: $140 (Lisa) + $90 (Carly) = $230."
+  ],
+  "solution": "230"
+}

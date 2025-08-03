@@ -1,0 +1,15 @@
+{
+  "query": "A seminar is offered to a school for their teachers. The regular seminar fee is $150 but they offer a 5% discount if they register 2 days before the scheduled seminar. The school registered 10 teachers for the seminar a week before the schedule and it also released a $10 food allowance for each of the teachers. How much did the school spend in all?",
+  "steps": [
+    "Start by calculating the discount on the seminar fee.",
+    "The regular seminar fee is $150. There is a 5% discount if they register 2 days prior, which they did.",
+    "Calculate 5% of $150: 0.05 * $150 = $7.50.",
+    "Subtract this discount from the regular fee: $150 - $7.50 = $142.50 per teacher.",
+    "They registered 10 teachers. Calculate the total seminar fee for 10 teachers: $142.50 * 10 = $1,425.",
+    "Now calculate the food allowance for all teachers.",
+    "The food allowance is $10 per teacher. For 10 teachers, it is $10 * 10 = $100.",
+    "Now add the total seminar fee and the total food allowance to find the total cost.",
+    "Total cost = seminar fee for all teachers + food allowance for all teachers = $1,425 + $100 = $1,525."
+  ],
+  "solution": "1525"
+}

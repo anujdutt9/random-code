@@ -1,0 +1,20 @@
+{
+  "query": "Jose is a collector of fine wines.  His private cellar currently holds 2400 bottles of imported wine and half as many bottles of domestic wine as imported wine.  If Jose holds a party and the guests drink one-third of all his wine, how many bottles will remain in his cellar?",
+  "steps": [
+    "First, I need to determine the number of domestic wine bottles in Jose's cellar.",
+    "The problem states that Jose has half as many bottles of domestic wine as imported wine.",
+    "Jose has 2400 bottles of imported wine.",
+    "Half of 2400 is 2400 / 2 = 1200.",
+    "So, Jose has 1200 bottles of domestic wine.",
+    "Now, I will calculate the total number of wine bottles Jose has in his cellar.",
+    "The total number of wine bottles is the number of imported wine bottles plus the number of domestic wine bottles.",
+    "The total is 2400 (imported) + 1200 (domestic) = 3600 bottles.",
+    "Next, I will determine how many bottles are consumed at the party.",
+    "The guests drink one-third of all his wine.",
+    "To find out how much one-third of the total wine is, I calculate 3600 / 3.",
+    "3600 / 3 = 1200 bottles are consumed.",
+    "Finally, I subtract the number of consumed bottles from the total number of bottles to find out how many remain.",
+    "The remaining bottles after the party are 3600 - 1200 = 2400 bottles."
+  ],
+  "solution": "2400"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "I went to the music shop and there were CDs of The Life Journey for $100, A Day a Life for $50, and When You Rescind for $85 on display. If I bought 3 of each CD to share with my friends, what's the total amount of money I spent in the shop?",
+  "steps": [
+    "First, I need to find the total cost for each type of CD.",
+    "The Life Journey CDs cost $100 each. If I bought 3 of them, the total cost for these CDs is 3 * $100.",
+    "3 * $100 equals $300.",
+    "Next, I calculate the total cost for A Day a Life CDs. These are priced at $50 each, and I bought 3 of them.",
+    "3 * $50 equals $150.",
+    "Next, I calculate the total expense for When You Rescind CDs. These cost $85 each and I bought 3 of them as well.",
+    "3 * $85 equals $255.",
+    "Now, I sum the total costs for each type of CD.",
+    "$300 (The Life Journey) + $150 (A Day a Life) + $255 (When You Rescind).",
+    "$300 + $150 equals $450.",
+    "$450 + $255 equals $705."
+  ],
+  "solution": "705"
+}

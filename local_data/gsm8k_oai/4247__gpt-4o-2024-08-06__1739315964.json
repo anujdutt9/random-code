@@ -1,0 +1,19 @@
+{
+  "query": "Patricia is making a highlight film about her basketball team. She recorded video of every player and plans to put it all together in a longer movie. She has 130 seconds of the point guard, 145 seconds of the shooting guard, 85 seconds of the small forward, 60 seconds of the power forward, and 180 seconds of the center. How on average, how many minutes does each player get?",
+  "steps": [
+    "First, I need to find the total time Patricia has recorded for all the players.",
+    "Add the times: 130 + 145 + 85 + 60 + 180.",
+    "130 + 145 = 275",
+    "275 + 85 = 360",
+    "360 + 60 = 420",
+    "420 + 180 = 600",
+    "The total time elapsed in seconds is 600.",
+    "There are five players: point guard, shooting guard, small forward, power forward, and center.",
+    "To find the average, divide the total time by the number of players: 600 seconds / 5 players.",
+    "600 / 5 = 120",
+    "So, on average, each player has 120 seconds.",
+    "Convert seconds to minutes. There are 60 seconds in a minute.",
+    "120 seconds / 60 = 2 minutes"
+  ],
+  "solution": "2"
+}

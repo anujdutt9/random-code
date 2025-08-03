@@ -1,0 +1,26 @@
+{
+  "query": "Iggy is training for a marathon. On Monday, he runs 3 miles. On Tuesday, he runs 4 miles. On Wednesday, he runs 6 miles. On Thursday, he runs 8 miles. On Friday, he runs 3 miles. Iggy runs at a pace of 1 mile in 10 minutes. What is the total number of hours that Iggy spends running from Monday to Friday?",
+  "steps": [
+    "First, I need to find the total miles Iggy runs over the week.",
+    "Iggy runs 3 miles on Monday.",
+    "He runs 4 miles on Tuesday.",
+    "He runs 6 miles on Wednesday.",
+    "He runs 8 miles on Thursday.",
+    "He runs 3 miles on Friday.",
+    "To find the total miles, I need to add these up: 3 + 4 + 6 + 8 + 3.",
+    "3 + 4 = 7",
+    "7 + 6 = 13",
+    "13 + 8 = 21",
+    "21 + 3 = 24",
+    "Iggy runs a total of 24 miles from Monday to Friday.",
+    "Next, I need to calculate the total time he spends running.",
+    "He runs at a pace of 1 mile in 10 minutes.",
+    "To find the total time in minutes, I multiply the total miles by the time per mile: 24 miles * 10 minutes/mile.",
+    "24 * 10 = 240",
+    "Iggy spends a total of 240 minutes running.",
+    "I need to convert the total time from minutes to hours.",
+    "There are 60 minutes in an hour.",
+    "240 minutes / 60 minutes/hour = 4 hours"
+  ],
+  "solution": "4"
+}

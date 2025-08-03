@@ -1,0 +1,19 @@
+{
+  "query": "Jake has 3 snakes.  Each of them lays 2 eggs.  Most of the baby snakes sell for $250 but one super rare one costs 4 times as much.  How much did he get from selling the snakes?",
+  "steps": [
+    "First, I need to calculate the total number of eggs laid by the snakes.",
+    "Jake has 3 snakes, and each one lays 2 eggs.",
+    "3 snakes x 2 eggs per snake = 6 eggs in total.",
+    "Next, I determine how many baby snakes sell for $250 and how many are rare and sell for 4 times as much.",
+    "Most of the baby snakes sell for $250, and only one is super rare.",
+    "Therefore, 5 baby snakes sell for $250 each, and 1 baby snake is rare.",
+    "I will calculate the earnings from the regular baby snakes first.",
+    "5 baby snakes x $250 each = $1250 from regular baby snakes.",
+    "Now, I calculate the price of the super rare baby snake.",
+    "The super rare snake sells for 4 times the price of a regular snake.",
+    "4 x $250 = $1000 for the super rare snake.",
+    "I need to add the earnings from the regular snakes and the rare snake together.",
+    "$1250 (regular) + $1000 (rare) = $2250 in total earnings."
+  ],
+  "solution": "2250"
+}

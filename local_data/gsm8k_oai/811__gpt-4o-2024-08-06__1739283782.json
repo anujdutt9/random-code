@@ -1,0 +1,13 @@
+{
+  "query": "Steve owns a lake shop that sells fish. He has a stock of 200 fish. He sells 50 fish and because his refrigerators stop working a third of the remaining fish become spoiled. A new stock of 200 more fish arrives. How many fish does he have in stock now?",
+  "steps": [
+    "Steve starts with a stock of 200 fish.",
+    "He sells 50 fish, so 200 - 50 = 150 fish remain.",
+    "A third of the remaining 150 fish become spoiled. To find a third, I divide 150 by 3.",
+    "150 divided by 3 equals 50, so 50 fish are spoiled.",
+    "The number of fish that remain after spoilage is 150 - 50 = 100 fish.",
+    "A new stock of 200 fish arrives.",
+    "Adding the new fish to the remaining fish: 100 + 200 = 300 fish."
+  ],
+  "solution": "300"
+}

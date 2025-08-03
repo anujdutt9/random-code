@@ -1,0 +1,16 @@
+{
+  "query": "A deep-sea monster rises from the waters once every hundred years to feast on a ship and sate its hunger. Over three hundred years, it has consumed 847 people. Ships have been built larger over time, so each new ship has twice as many people as the last ship. How many people were on the ship the monster ate in the first hundred years?",
+  "steps": [
+    "The monster rises once every hundred years; therefore, it has attacked a ship three times over three hundred years.",
+    "Let the number of people on the ship in the first hundred years be \\( x \\).",
+    "According to the problem, each new ship has twice as many people as the last.",
+    "Thus, the number of people on the ship in the second hundred years would be \\( 2x \\).",
+    "Similarly, the number of people on the ship in the third hundred years would be \\( 4x \\).",
+    "We are told that the total number of people consumed is 847.",
+    "So, the equation that represents the total number of people consumed is: \\( x + 2x + 4x = 847 \\).",
+    "Simplifying the equation, we get: \\( 7x = 847 \\).",
+    "To find \\( x \\), divide both sides by 7: \\( x = 847 / 7 \\).",
+    "Calculate the division: \\( 847 \\div 7 = 121 \\)."
+  ],
+  "solution": "121"
+}

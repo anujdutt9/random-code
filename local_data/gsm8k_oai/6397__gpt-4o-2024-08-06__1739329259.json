@@ -1,0 +1,16 @@
+{
+  "query": "Casey is trying to decide which employee she wants to hire. One employee works for $20 an hour. The other employee works for $22 an hour, but Casey would also get a $6/hour subsidy from the government for hiring a disabled worker. How much money per week would Casey save by hiring the cheaper employee, if they both work 40 hours per week?",
+  "steps": [
+    "I need to calculate the effective hourly wage for each employee first.",
+    "The first employee's wage is simply $20 per hour.",
+    "The second employee's nominal wage is $22 per hour, but with a $6 subsidy, the effective cost to Casey is $22 - $6 = $16 per hour.",
+    "So, the first employee costs $20/hour and the second employee costs $16/hour.",
+    "I need to find out the weekly cost for both employees if they each work 40 hours per week.",
+    "For the first employee: 40 hours * $20/hour = $800 per week.",
+    "For the second employee: 40 hours * $16/hour = $640 per week.",
+    "Now, I need to calculate the difference in weekly cost between the two employees.",
+    "$800 - $640 = $160.",
+    "Casey would save $160 per week by hiring the cheaper employee."
+  ],
+  "solution": "160"
+}

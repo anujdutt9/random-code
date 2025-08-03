@@ -1,0 +1,17 @@
+{
+  "query": "There are enough provisions in a castle to feed 300 people for 90 days. After 30 days, 100 people leave the castle. How many more days are left until all the food runs out?",
+  "steps": [
+    "The castle can initially sustain 300 people for 90 days.",
+    "Let's calculate the total amount of \"person-days\" of food available initially.",
+    "300 people x 90 days = 27,000 person-days worth of food.",
+    "Now, consider the 30 days during which all 300 people were eating.",
+    "300 people x 30 days = 9,000 person-days of food consumed in those 30 days.",
+    "Subtract the consumed person-days from the total.",
+    "27,000 person-days - 9,000 person-days = 18,000 person-days remaining.",
+    "After 30 days, 100 people leave, so there are 200 people remaining in the castle.",
+    "Now, I need to find out how many days the remaining 18,000 person-days can sustain 200 people.",
+    "Divide the remaining person-days by the number of people.",
+    "18,000 person-days / 200 people = 90 days."
+  ],
+  "solution": "90"
+}

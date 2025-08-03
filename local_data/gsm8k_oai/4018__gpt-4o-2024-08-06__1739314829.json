@@ -1,0 +1,31 @@
+{
+  "query": "Two friends, Hubert and Ian, are planning to have a pizza party. One box of pizza is worth $14, and a can of soda is worth $1.80. Hubert orders eight boxes of pizza and ten cans of soda. Ian buys ten boxes of pizza and fifteen cans of soda. How much do they spend in all?",
+  "steps": [
+    "First, I need to calculate the cost of the pizza that Hubert orders.",
+    "Hubert orders 8 boxes of pizza, and each box is $14.",
+    "I need to multiply the number of boxes (8) by the cost of each box ($14).",
+    "8 * 14 = $112",
+    "Next, I calculate the cost of the soda that Hubert orders.",
+    "Hubert orders 10 cans of soda, and each can is $1.80.",
+    "I need to multiply the number of cans (10) by the cost of each can ($1.80).",
+    "10 * 1.80 = $18.00",
+    "Now I need to calculate the total cost of what Hubert spent.",
+    "I add the cost of the pizzas ($112) and the cost of the sodas ($18.00).",
+    "112 + 18 = $130",
+    "Now I need to calculate the cost of the pizza that Ian orders.",
+    "Ian orders 10 boxes of pizza, and each box is $14.",
+    "I need to multiply the number of boxes (10) by the cost of each box ($14).",
+    "10 * 14 = $140",
+    "Next, I calculate the cost of the soda that Ian orders.",
+    "Ian orders 15 cans of soda, and each can is $1.80.",
+    "I need to multiply the number of cans (15) by the cost of each can ($1.80).",
+    "15 * 1.80 = $27.00",
+    "Now I need to calculate the total cost of what Ian spent.",
+    "I add the cost of the pizzas ($140) and the cost of the sodas ($27.00).",
+    "140 + 27 = $167",
+    "Finally, I need to add the total amounts spent by Hubert and Ian to get the overall amount they spent together.",
+    "Add Hubert's total ($130) and Ian's total ($167).",
+    "130 + 167 = $297"
+  ],
+  "solution": "297"
+}

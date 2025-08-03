@@ -1,0 +1,20 @@
+{
+  "query": "Gunther needs to clean his apartment.  It takes him 45 minutes to vacuum the carpets, 60 minutes to dust the furniture, 30 minutes to mop the floors in his kitchen, and 5 minutes to brush each cat, and he has three cats.  If he has 3 hours of free time available, and he uses this time to clean his apartment, how many minutes of free time will he have left after he cleans the apartment?",
+  "steps": [
+    "First, I need to add up all the time that Gunther spends cleaning his apartment.",
+    "He spends 45 minutes vacuuming the carpets.",
+    "He spends 60 minutes dusting the furniture.",
+    "He spends 30 minutes mopping the floors in the kitchen.",
+    "He brushes each of his 3 cats for 5 minutes each, so that's 3 x 5 = 15 minutes.",
+    "Now I need to add up these times: 45 + 60 + 30 + 15.",
+    "First, add 45 and 60 to get 105 minutes.",
+    "Then, add the 30 minutes for mopping to 105 minutes, for a total of 135 minutes.",
+    "Finally, add the 15 minutes for brushing the cats, bringing the total cleaning time to 150 minutes.",
+    "Gunther has 3 hours of free time available.",
+    "There are 60 minutes in an hour, so 3 hours is 3 x 60 = 180 minutes.",
+    "Gunther spends 150 minutes of his 180-minute free time cleaning.",
+    "To find out how many minutes of free time he has left, I subtract the cleaning time from his total free time: 180 - 150.",
+    "180 - 150 equals 30 minutes."
+  ],
+  "solution": "30"
+}

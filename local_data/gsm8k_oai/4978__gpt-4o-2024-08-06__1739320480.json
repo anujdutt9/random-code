@@ -1,0 +1,11 @@
+{
+  "query": "Bob is going to plant corn in part of his garden. The rows are 120 feet long, and each seed needs its own dedicated space of 18 inches to its right. How many seeds can Bob plant in each row?",
+  "steps": [
+    "First, I need to determine how many inches long each row is, since the spacing for seeds is given in inches.",
+    "There are 12 inches in a foot, so a 120 feet long row is 120 feet * 12 inches/foot = 1440 inches.",
+    "Each seed requires a space of 18 inches to the right.",
+    "To find out how many seeds can be planted in one row, I will divide the total inches available by the space required for one seed.",
+    "1440 inches / 18 inches/seed = 80 seeds."
+  ],
+  "solution": "80"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "A baseball team has averaged 15 hits per game over their first 5 games. There are 11 players on the team. Their best player has 25 total hits. If the other players continue their average over the next 6 games, how many hits will each player average across the 6 games in total?",
+  "steps": [
+    "First, I need to calculate the total number of hits the team had over the first 5 games. They averaged 15 hits per game.",
+    "The total number of hits over the 5 games is 15 hits/game * 5 games = 75 hits.",
+    "Next, I need to know how many hits the other players had in these 5 games. The best player had 25 hits, so I subtract those from the total.",
+    "The other players had 75 total hits - 25 hits by the best player = 50 hits.",
+    "Now, I need to calculate the average number of hits for the other players over the 5 games. There are 10 other players (11 players total minus the best player).",
+    "The average hits per player among the 10 other players over 5 games is 50 hits / 10 players = 5 hits/player.",
+    "Assuming the other players continue at this same average rate of 5 hits per player over 5 games, I now need to find the total hits per player over the next 6 games.",
+    "For 6 games, each of the other 10 players will average 5 hits/player over 5 games * (6 games/5 games) = 6 hits/player over 6 games."
+  ],
+  "solution": "6"
+}

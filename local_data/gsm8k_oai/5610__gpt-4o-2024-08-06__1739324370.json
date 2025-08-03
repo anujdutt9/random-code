@@ -1,0 +1,18 @@
+{
+  "query": "Rick has just celebrated his 15th birthday. His oldest brother is twice his age, and his middle brother is a third of the oldest brother\u2019s age. The smallest brother is half the middle brother\u2019s age. If the youngest brother is 2 years younger than the smallest brother, how old, in years, is the youngest brother?",
+  "steps": [
+    "Rick is 15 years old.",
+    "Rick's oldest brother is twice Rick's age.",
+    "Twice Rick's age is 15 * 2 = 30.",
+    "The oldest brother is 30 years old.",
+    "The middle brother is a third of the oldest brother's age.",
+    "A third of 30 is 30 / 3 = 10.",
+    "The middle brother is 10 years old.",
+    "The smallest brother is half the middle brother's age.",
+    "Half of 10 is 10 / 2 = 5.",
+    "The smallest brother is 5 years old.",
+    "The youngest brother is 2 years younger than the smallest brother.",
+    "The smallest brother is 5 years old, so the youngest brother is 5 - 2 = 3."
+  ],
+  "solution": "3"
+}

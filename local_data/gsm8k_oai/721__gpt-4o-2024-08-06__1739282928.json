@@ -1,0 +1,16 @@
+{
+  "query": "An electronic shop offers smartphones for $300 each, personal computers for $500 more than smartphones, and advanced tablets for the sum of the prices of a smartphone and personal computer. How much do you have to pay to buy one of each of the three mentioned products?",
+  "steps": [
+    "First, I need to determine the price of a personal computer. A personal computer is priced at $500 more than a smartphone.",
+    "The price of a smartphone is $300.",
+    "Therefore, the price of a personal computer is $300 + $500.",
+    "$300 + $500 equals $800.",
+    "Now, I need to find the price of an advanced tablet. It is priced at the sum of the prices of a smartphone and a personal computer.",
+    "The price of an advanced tablet is $300 (smartphone) + $800 (personal computer).",
+    "$300 + $800 equals $1100.",
+    "To find the total cost, I need to add the price of one smartphone, one personal computer, and one advanced tablet.",
+    "The total cost is $300 (smartphone) + $800 (personal computer) + $1100 (advanced tablet).",
+    "$300 + $800 + $1100 equals $2200."
+  ],
+  "solution": "2200"
+}

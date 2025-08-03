@@ -1,0 +1,16 @@
+{
+  "query": "Maria's test scores are 80, 70, and 90. What score does she need to get on a fourth test so that her average score for the four tests is exactly 85?",
+  "steps": [
+    "Maria's average score needs to be 85 after four tests.",
+    "To find the total score needed for an average of 85 across four tests, I need to multiply 85 by 4.",
+    "85 multiplied by 4 equals 340.",
+    "Maria's current three test scores are 80, 70, and 90.",
+    "Add the scores of the first three tests: 80 + 70 + 90.",
+    "80 plus 70 equals 150.",
+    "150 plus 90 equals 240.",
+    "Maria's total score for the first three tests is 240.",
+    "To find the score needed on the fourth test, I subtract the sum of the first three test scores from the total score needed for all four tests.",
+    "340 minus 240 equals 100."
+  ],
+  "solution": "100"
+}

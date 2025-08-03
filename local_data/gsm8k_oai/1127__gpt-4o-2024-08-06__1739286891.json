@@ -1,0 +1,16 @@
+{
+  "query": "Mason is cleaning out all the junk in his attic. 20% of the items are useful, 10% are valuable heirlooms, and 70% are junk. If Marcus's attic has 8 useful items in it, how many junk items does it have?",
+  "steps": [
+    "I know that 20% of the items in Marcus's attic are useful.",
+    "I know there are 8 useful items in the attic.",
+    "Since 20% of the items are useful, 8 items represent 20% of the total number of items.",
+    "To find the total number of items, I can set up an equation: 0.20 * Total_Items = 8.",
+    "I'll solve for Total_Items by dividing both sides of the equation by 0.20: Total_Items = 8 / 0.20.",
+    "Perform the division: Total_Items = 40.",
+    "Now, I know there are 40 items in the attic.",
+    "70% of the items are junk.",
+    "To find the number of junk items, calculate 70% of 40: 0.70 * 40.",
+    "Perform the multiplication: Number of Junk_Items = 28."
+  ],
+  "solution": "28"
+}

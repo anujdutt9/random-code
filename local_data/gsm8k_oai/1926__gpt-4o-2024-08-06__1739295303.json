@@ -1,0 +1,19 @@
+{
+  "query": "James buys 10 boxes of Capri-sun.  Each box has 6 pouches in it.  If he paid $12 how many cents does each pouch cost?",
+  "steps": [
+    "James buys 10 boxes of Capri-sun.",
+    "Each box has 6 pouches in it.",
+    "First, I need to find the total number of pouches James bought.",
+    "To do that, I multiply the number of boxes by the number of pouches per box: 10 boxes * 6 pouches/box.",
+    "10 * 6 = 60 pouches.",
+    "James paid $12 for these pouches.",
+    "I need to find out how many cents $12 is.",
+    "Since $1 is 100 cents, $12 is 12 * 100 cents.",
+    "12 * 100 = 1200 cents.",
+    "I now have 60 pouches and 1200 cents.",
+    "To find out how many cents each pouch costs, I divide the total cents by the total number of pouches: 1200 cents / 60 pouches.",
+    "1200 / 60 = 20.",
+    "Each pouch costs 20 cents."
+  ],
+  "solution": "20"
+}

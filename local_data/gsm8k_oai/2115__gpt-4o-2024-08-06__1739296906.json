@@ -1,0 +1,13 @@
+{
+  "query": "For his birthday, Aku invited 4 friends. His mother bought 3 packages of cookies each containing 25 cookies. After playing football, the children came to eat and celebrate Aku's 10th birthday, each eating an equal number of all the cookies. Calculate the number of cookies that each child will eat.",
+  "steps": [
+    "First, I need to find out the total number of cookies.",
+    "Each package contains 25 cookies and Aku's mother bought 3 packages.",
+    "To find the total cookies, multiply the number of cookies per package by the number of packages: 25 cookies/package * 3 packages = 75 cookies.",
+    "Now I need to find out how many people will eat the cookies. Aku invited 4 friends.",
+    "Including Aku, there are 5 children in total (Aku + 4 friends).",
+    "Each child eats an equal number of cookies, so I need to divide the total cookies by the number of children.",
+    "Divide 75 cookies by 5 children to find out how many cookies each child will eat: 75 / 5 = 15 cookies."
+  ],
+  "solution": "15"
+}

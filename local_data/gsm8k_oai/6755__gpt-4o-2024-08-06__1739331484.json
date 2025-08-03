@@ -1,0 +1,26 @@
+{
+  "query": "Alexander draws 9 pictures for an exhibition at a gallery. 5 new galleries also want Alexander to draw for them, so he draws pictures for their exhibitions too. Each of these new galleries receives the same amount of pictures. For each picture, Alexander needs 4 pencils. For each exhibition, he needs another 2 pencils for signing his signature on the pictures. If Alexander uses 88 pencils on drawing and signing his pictures for all of the exhibitions, how many paintings are at each of the 5 new galleries?",
+  "steps": [
+    "First, I need to find out the total number of pictures that Alexander has drawn.",
+    "He draws 9 pictures for the initial exhibition.",
+    "Plus, he draws additional pictures for 5 new galleries.",
+    "Let \\( x \\) be the number of pictures drawn for each of the new galleries.",
+    "Thus, total pictures for new galleries is \\( 5x \\).",
+    "Total pictures drawn by Alexander is \\( 9 + 5x \\).",
+    "Now, I calculate the number of pencils used for drawing.",
+    "Each picture requires 4 pencils, so pencils for drawing is \\( 4 \\times (9 + 5x) \\).",
+    "Now, I calculate the number of pencils used for signing.",
+    "He signs each exhibition which requires 2 pencils per exhibition.",
+    "He has 1 initial exhibition and 5 new exhibitions.",
+    "Total number of exhibitions is \\( 1 + 5 = 6 \\).",
+    "Pencils needed for signing is \\( 2 \\times 6 \\).",
+    "Total pencils for signing is 12.",
+    "Total pencils used is formulated as \\( 4 \\times (9 + 5x) + 12 = 88 \\).",
+    "First, simplify the equation: \\( 36 + 20x + 12 = 88 \\).",
+    "Combine constants: \\( 48 + 20x = 88 \\).",
+    "Subtract 48 from both sides: \\( 20x = 40 \\).",
+    "Divide both sides by 20: \\( x = 2 \\).",
+    "So, each of the 5 new galleries receive 2 paintings."
+  ],
+  "solution": "2"
+}

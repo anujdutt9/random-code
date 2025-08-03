@@ -1,0 +1,19 @@
+{
+  "query": "Lucca bought 200 pieces of bread. Lucca ate 1/4 of the pieces of bread in one day, and 2/5 of the remaining pieces the next day. If he ate half of the remaining pieces on the third day, calculate how many pieces of bread are remaining.",
+  "steps": [
+    "Lucca bought 200 pieces of bread initially.",
+    "On the first day, Lucca ate 1/4 of 200 pieces of bread.",
+    "To find out how many pieces he ate on the first day, calculate 1/4 of 200.",
+    "1/4 of 200 is 200 / 4 = 50 pieces.",
+    "After the first day, the remaining pieces are 200 - 50 = 150 pieces.",
+    "On the second day, Lucca ate 2/5 of the remaining 150 pieces.",
+    "To find out how many pieces he ate on the second day, calculate 2/5 of 150.",
+    "2/5 of 150 is (2 * 150) / 5 = 300 / 5 = 60 pieces.",
+    "After the second day, the remaining pieces are 150 - 60 = 90 pieces.",
+    "On the third day, Lucca ate half of the remaining 90 pieces.",
+    "To calculate how many pieces he ate on the third day, find 1/2 of 90.",
+    "1/2 of 90 is 90 / 2 = 45 pieces.",
+    "After the third day, the remaining pieces are 90 - 45 = 45 pieces."
+  ],
+  "solution": "45"
+}

@@ -1,0 +1,12 @@
+{
+  "query": "Max was doing homework in three different subjects. It took him 20 minutes to finish tasks from biology and two times more time to finish history. Geography took him the most time, three times more than history. How much time did Max spend on doing his homework?",
+  "steps": [
+    "First, I need to identify how much time Max spent on each subject: biology, history, and geography.",
+    "I know that it took Max 20 minutes to finish his biology homework.",
+    "The time taken for history is two times the biology time. So, history took 2 * 20 = 40 minutes.",
+    "The time taken for geography is three times the history time. So, geography took 3 * 40 = 120 minutes.",
+    "Now, to find the total time spent on all subjects, I need to add the times for biology, history, and geography.",
+    "Total time is 20 (biology) + 40 (history) + 120 (geography) = 180 minutes."
+  ],
+  "solution": "180"
+}

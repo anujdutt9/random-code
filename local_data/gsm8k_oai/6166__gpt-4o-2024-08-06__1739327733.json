@@ -1,0 +1,14 @@
+{
+  "query": "Two hedgehogs found three baskets, each with 900 strawberries. The hedgehogs then each ate an equal number of strawberries. If 2/9 of the strawberries were remaining out of all the strawberries that were there, calculate the total number of strawberries that each hedgehog ate.",
+  "steps": [
+    "First, determine the total number of strawberries initially. Each basket has 900 strawberries, and there are three baskets.",
+    "Multiply the number of baskets by the number of strawberries in each basket: 3 baskets \u00d7 900 strawberries/basket = 2700 strawberries.",
+    "According to the problem, 2/9 of the strawberries were remaining after the hedgehogs ate their share.",
+    "Calculate the number of remaining strawberries by finding 2/9 of 2700.",
+    "(2/9) \u00d7 2700 = 600 strawberries remaining.",
+    "Now, calculate the number of strawberries eaten by subtracting the remaining strawberries from the initial total: 2700 - 600 = 2100 strawberries eaten.",
+    "The problem states that two hedgehogs ate these strawberries equally.",
+    "Divide the total number of strawberries eaten (2100) by 2 to find out how many strawberries each hedgehog ate: 2100 \u00f7 2 = 1050."
+  ],
+  "solution": "1050"
+}

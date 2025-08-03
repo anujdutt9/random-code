@@ -1,0 +1,18 @@
+{
+  "query": "Shane prepares sandwiches for the Boy Scouts. He buys 2 packages of sliced bread containing 20 slices each, and he also buys 2 packages of sliced ham containing 8 slices each. Shane will make as many sandwiches as he can according to the ham he has. How many slices of bread will he have leftover?",
+  "steps": [
+    "First, I need to determine the total number of slices of bread Shane bought.",
+    "Shane bought 2 packages of sliced bread, with each package containing 20 slices.",
+    "To find out the total number of slices of bread, I multiply the number of packages by the number of slices per package: 2 packages * 20 slices/package = 40 slices of bread.",
+    "Next, I need to determine the total number of slices of ham Shane bought.",
+    "Shane bought 2 packages of sliced ham, with each package containing 8 slices.",
+    "To find out the total number of slices of ham, I multiply the number of packages by the number of slices per package: 2 packages * 8 slices/package = 16 slices of ham.",
+    "Each sandwich requires 1 slice of ham, meaning Shane can make as many sandwiches as he has slices of ham.",
+    "Since Shane has 16 slices of ham, he can make 16 sandwiches.",
+    "Each sandwich requires 2 slices of bread, so I need to calculate the number of slices of bread used in making the sandwiches: 16 sandwiches * 2 slices of bread/sandwich = 32 slices of bread used.",
+    "Now, I need to find out how many slices of bread Shane will have leftover.",
+    "Shane started with 40 slices of bread, and he used 32 slices of bread for the sandwiches.",
+    "To find the leftover slices, I subtract the number of used slices from the initial number of slices: 40 slices - 32 slices = 8 slices of bread leftover."
+  ],
+  "solution": "8"
+}

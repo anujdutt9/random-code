@@ -1,0 +1,23 @@
+{
+  "query": "Carol spends five hours filling up her pool. During the first hour, the pool fills at a rate of 8 gallons of water per hour. For the next two hours, the pool fills at 10 gallons of water per hour. For the fourth hour, the pool fills at a rate of 14 gallons of water per hour. During the fifth hour, the pool develops a leak and loses 8 gallons of water. At the end of five hours, how many gallons of water are still left in the pool?",
+  "steps": [
+    "First, I need to calculate the amount of water added during each hour.",
+    "In the first hour, the pool fills at 8 gallons per hour.",
+    "That means 8 gallons are added in the first hour.",
+    "For the next two hours, the pool fills at 10 gallons per hour.",
+    "So, in the second hour, 10 gallons are added.",
+    "In the third hour, another 10 gallons are added.",
+    "For the fourth hour, the pool fills at 14 gallons per hour.",
+    "That means 14 gallons are added in the fourth hour.",
+    "During the fifth hour, there is a leak that results in a loss of 8 gallons.",
+    "Now I need to sum up all the gallons added to the pool and subtract the amount lost due to the leak.",
+    "First hour: 8 gallons.",
+    "Second hour: 10 gallons.",
+    "Third hour: 10 gallons.",
+    "Fourth hour: 14 gallons.",
+    "The total amount of water added in five hours without considering the leak is 8 + 10 + 10 + 14 = 42 gallons.",
+    "Now, subtract the 8 gallons lost in the fifth hour due to the leak.",
+    "42 gallons - 8 gallons = 34 gallons remaining in the pool."
+  ],
+  "solution": "34"
+}

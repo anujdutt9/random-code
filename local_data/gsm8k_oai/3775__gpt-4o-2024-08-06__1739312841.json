@@ -1,0 +1,17 @@
+{
+  "query": "Greg's PPO algorithm obtained 90% of the possible reward on the CoinRun environment. CoinRun's maximum reward is half as much as the maximum ProcGen reward of 240. How much reward did Greg's PPO algorithm get?",
+  "steps": [
+    "I need to determine the maximum reward on the CoinRun environment first.",
+    "I know that the CoinRun's maximum reward is half of the maximum ProcGen reward.",
+    "The maximum ProcGen reward is given as 240.",
+    "To find CoinRun's maximum reward, I calculate 240 divided by 2.",
+    "240 divided by 2 equals 120.",
+    "So, the maximum reward for CoinRun is 120.",
+    "Greg's PPO algorithm obtained 90% of the possible reward on CoinRun.",
+    "To find 90% of the maximum reward, I need to calculate 90% of 120.",
+    "90% can be written as 0.9 in decimal form.",
+    "I multiply 120 by 0.9 to find the reward Greg's PPO algorithm got.",
+    "120 times 0.9 equals 108."
+  ],
+  "solution": "108"
+}

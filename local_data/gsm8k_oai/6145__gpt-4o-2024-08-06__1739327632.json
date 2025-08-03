@@ -1,0 +1,11 @@
+{
+  "query": "A machine at the soda factory can usually fill a barrel of soda in 3 minutes. However this morning a leak went unnoticed and it took 5 minutes to fill one barrel. If the leak remains undetected, how much longer will it take to fill 12 barrels of soda than on a normal day when the machine works fine?",
+  "steps": [
+    "First, calculate the total time to fill one barrel on a normal day when the machine works fine. This is given as 3 minutes per barrel.",
+    "Calculate the total time to fill 12 barrels on a normal day. Multiply 12 barrels by 3 minutes per barrel: 12 * 3 = 36 minutes.",
+    "Now, calculate the total time to fill one barrel with the leak. This is given as 5 minutes per barrel.",
+    "Calculate the total time to fill 12 barrels when there is a leak. Multiply 12 barrels by 5 minutes per barrel: 12 * 5 = 60 minutes.",
+    "Determine the additional time it takes to fill 12 barrels due to the leak. Subtract the normal filling time (36 minutes) from the leaking filling time (60 minutes): 60 - 36 = 24 minutes."
+  ],
+  "solution": "24"
+}

@@ -1,0 +1,21 @@
+{
+  "query": "Andy works in the pro shop at a tennis resort, where he earns $9 an hour. In addition to this, he gets paid $15 for each racquet he restrings, $10 for changing out the grommets on a racquet, and $1 for painting a stencil on the racquet strings. How much does he earn (before taxes) during an 8-hour shift if he strings 7 racquets, changes 2 sets of grommets, and paints 5 stencils?",
+  "steps": [
+    "First, calculate Andy's earnings from his hourly wage.",
+    "He earns $9 per hour and works an 8-hour shift.",
+    "Multiply the hourly rate by the number of hours: 9 * 8 = $72.",
+    "Next, calculate how much he earns from restringing racquets.",
+    "He is paid $15 per racquet, and he strings 7 racquets.",
+    "Multiply the number of racquets by the pay per racquet: 15 * 7 = $105.",
+    "Now, calculate his earnings from changing grommets.",
+    "He earns $10 for each set of grommets changed, and he changes 2 sets.",
+    "Multiply the number of grommet changes by the pay per change: 10 * 2 = $20.",
+    "Then, calculate his earnings from painting stencils.",
+    "He earns $1 for each stencil he paints, and he paints 5 stencils.",
+    "Multiply the number of stencils by the pay per stencil: 1 * 5 = $5.",
+    "Add all these earnings together to find his total earnings for the shift.",
+    "Add the hourly earnings ($72), racquet restringing earnings ($105), grommet changing earnings ($20), and stencil painting earnings ($5).",
+    "72 + 105 + 20 + 5 = $202."
+  ],
+  "solution": "202"
+}

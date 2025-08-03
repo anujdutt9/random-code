@@ -1,0 +1,12 @@
+{
+  "query": "There are 50 oysters on the rocks at La Push Park and 72 crabs by the beach. Eric, who loves walking by the beach, makes a note of this and goes home. The next day, he realizes only half the number of Oysters were on the rocks, and only 2/3 the number of crabs as the previous day are on the beach. How many oysters and crabs did he count in total in the two days?",
+  "steps": [
+    "First, I note the initial number of oysters and crabs. There are 50 oysters and 72 crabs on the first day.",
+    "On the second day, Eric counts half the number of oysters compared to the first day, so he sees 50 / 2 = 25 oysters.",
+    "On the second day, Eric counts 2/3 the number of crabs compared to the first day, so he sees 72 * (2/3) = 48 crabs.",
+    "Now, I calculate the total number of oysters counted over the two days. On the first day, he counted 50 oysters, and on the second day, 25 oysters. So, 50 + 25 = 75 oysters.",
+    "Next, I calculate the total number of crabs counted over the two days. On the first day, he counted 72 crabs, and on the second day, 48 crabs. So, 72 + 48 = 120 crabs.",
+    "The overall total of oysters and crabs counted over the two days is 75 oysters + 120 crabs."
+  ],
+  "solution": "195"
+}

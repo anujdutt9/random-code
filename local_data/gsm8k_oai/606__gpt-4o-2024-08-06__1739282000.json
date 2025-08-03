@@ -1,0 +1,21 @@
+{
+  "query": "In a big box, there are marbles in 4 colors. Inside, there are 20 red marbles.  There are three times more green marbles than red.  Yellow marbles make up 20% of the green marbles. How many marbles are of a different color if the total of all marbles in the box is three times more than the number of green marbles?",
+  "steps": [
+    "First, I need to determine the number of green marbles. There are three times more green marbles than red marbles.",
+    "The problem states there are 20 red marbles.",
+    "So, the number of green marbles is 3 times 20.",
+    "3 times 20 is 60, so there are 60 green marbles.",
+    "Next, I need to find the number of yellow marbles, which make up 20% of the green marbles.",
+    "To find 20% of the 60 green marbles, I multiply 60 by 0.20.",
+    "0.20 multiplied by 60 is 12. So, there are 12 yellow marbles.",
+    "The total number of marbles in the box is three times more than the number of green marbles.",
+    "This means the total number of marbles is 3 times 60, which equals 180 marbles.",
+    "Now I need to determine the number of marbles of a different color (other than red, green, or yellow).",
+    "Currently, I have accounted for 20 red, 60 green, and 12 yellow marbles.",
+    "I add 20, 60, and 12 to find the total number of red, green, and yellow marbles.",
+    "20 plus 60 plus 12 equals 92 marbles.",
+    "Therefore, the number of marbles of a different color is the total number of marbles minus the number of red, green, and yellow marbles.",
+    "180 minus 92 equals 88."
+  ],
+  "solution": "88"
+}

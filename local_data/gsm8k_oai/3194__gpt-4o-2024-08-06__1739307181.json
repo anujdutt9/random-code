@@ -1,0 +1,22 @@
+{
+  "query": "At a birthday party, 30% of the guests are married, 50% are single, and the rest are children. If there are 1000 guests, how many more married people are there than children?",
+  "steps": [
+    "First, I will determine the number of married guests. Since 30% of the guests are married and there are 1000 guests in total, I calculate 30% of 1000.",
+    "30% of 1000 is calculated as 0.30 * 1000.",
+    "0.30 * 1000 equals 300.",
+    "Therefore, there are 300 married guests.",
+    "Next, I will determine the number of single guests. Since 50% of the guests are single, I will calculate 50% of 1000.",
+    "50% of 1000 is calculated as 0.50 * 1000.",
+    "0.50 * 1000 equals 500.",
+    "Therefore, there are 500 single guests.",
+    "Now, I will determine the number of children guests. Since the total percentage must add up to 100%, the percentage accounted for married and single guests is 30% + 50% = 80%.",
+    "The percentage of guests that are children is 100% - 80% = 20%.",
+    "Now, I need to calculate 20% of 1000 to find the number of children.",
+    "20% of 1000 is calculated as 0.20 * 1000.",
+    "0.20 * 1000 equals 200.",
+    "Therefore, there are 200 children.",
+    "To find out how many more married people there are than children, I subtract the number of children from the number of married guests.",
+    "300 (married guests) - 200 (children) equals 100."
+  ],
+  "solution": "100"
+}

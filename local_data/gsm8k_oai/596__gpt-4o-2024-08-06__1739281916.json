@@ -1,0 +1,22 @@
+{
+  "query": "Bianca worked for 12.5 hours last weekend. Celeste worked for twice that amount of time and McClain worked 8.5 hours less than Celeste. How many minutes did the 3 people work in total?",
+  "steps": [
+    "First, I need to find out how many hours Celeste worked.",
+    "Celeste worked for twice the amount of time Bianca did.",
+    "Bianca worked for 12.5 hours, so Celeste worked for 2 * 12.5 hours.",
+    "Calculating Celeste's hours: 2 * 12.5 = 25 hours.",
+    "Now, I need to find out how many hours McClain worked.",
+    "McClain worked 8.5 hours less than Celeste.",
+    "Celeste worked for 25 hours, so McClain worked for 25 - 8.5 hours.",
+    "Calculating McClain's hours: 25 - 8.5 = 16.5 hours.",
+    "Now, I need to find the total number of hours all three people worked.",
+    "Bianca worked for 12.5 hours, Celeste worked for 25 hours, and McClain worked for 16.5 hours.",
+    "Total hours = 12.5 + 25 + 16.5",
+    "Calculating total hours: 12.5 + 25 + 16.5 = 54 hours.",
+    "Now, I need to convert the total hours into minutes.",
+    "There are 60 minutes in an hour.",
+    "Multiply the total hours by 60 to get the total minutes.",
+    "54 hours * 60 minutes/hour = 3240 minutes."
+  ],
+  "solution": "3240"
+}

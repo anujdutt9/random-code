@@ -1,0 +1,17 @@
+{
+  "query": "5/8 of shoppers at All Goods Available store prefer to avoid the check-out line on weekends and instead go through the express lane. If the number of shoppers in the store is 480, calculate the number of shoppers who pay at the check-out lane.",
+  "steps": [
+    "First, I need to understand the problem. There are 480 shoppers total.",
+    "Out of these shoppers, 5/8 prefer to use the express lane.",
+    "To find the number of shoppers who use the express lane, I multiply the total number of shoppers by 5/8.",
+    "The calculation is: 480 * (5/8).",
+    "First, divide 480 by 8, which equals 60.",
+    "Then, multiply 60 by 5 to get 300.",
+    "This means 300 shoppers use the express lane.",
+    "To find the number of shoppers who use the check-out lane, I subtract the number of express lane users from the total number of shoppers.",
+    "The calculation is: 480 - 300.",
+    "When I subtract 300 from 480, I get 180.",
+    "This means 180 shoppers pay at the check-out lane."
+  ],
+  "solution": "180"
+}

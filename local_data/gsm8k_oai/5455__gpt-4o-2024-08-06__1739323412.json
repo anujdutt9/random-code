@@ -1,0 +1,15 @@
+{
+  "query": "Hank gave his wife, Delphine, a box of 24 chocolates for Valentine's Day.  On the first day, Delphine ate 4 chocolates.  On the second day, she ate 3 less than twice as many chocolates as she ate the first day.  On the third day, she ate two less than the number she ate on the first day.  And on the fourth day, she ate one less than she ate the previous day.  On the fifth day, how many chocolates remained uneaten?",
+  "steps": [
+    "Hank initially gave Delphine 24 chocolates.",
+    "On the first day, Delphine ate 4 chocolates.",
+    "After the first day, 24 - 4 = 20 chocolates remained.",
+    "On the second day, Delphine ate 3 less than twice the number of chocolates she ate on the first day, which is 2 * 4 - 3 = 8 - 3 = 5 chocolates.",
+    "After the second day, 20 - 5 = 15 chocolates remained.",
+    "On the third day, Delphine ate 2 less than the number she ate on the first day, which is 4 - 2 = 2 chocolates.",
+    "After the third day, 15 - 2 = 13 chocolates remained.",
+    "On the fourth day, Delphine ate 1 less than she ate on the previous day (third day), which is 2 - 1 = 1 chocolate.",
+    "After the fourth day, 13 - 1 = 12 chocolates remained."
+  ],
+  "solution": "12"
+}

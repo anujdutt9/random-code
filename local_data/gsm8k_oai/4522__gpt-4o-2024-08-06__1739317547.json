@@ -1,0 +1,14 @@
+{
+  "query": "Tim owns rental properties.  He decides to replace all the locks and needs to get 3 keys per lock.  He owns two apartment complexes which each have 12 apartments.  How many keys does he need to make?",
+  "steps": [
+    "First, I need to determine how many apartments Tim has in total.",
+    "He owns two apartment complexes and each has 12 apartments.",
+    "Therefore, the total number of apartments is 2 complexes * 12 apartments per complex.",
+    "2 * 12 equals 24. So, Tim has 24 apartments in total.",
+    "Next, I need to calculate how many keys are needed per apartment.",
+    "Tim wants 3 keys per lock for each apartment.",
+    "Now, I multiply the total number of apartments by the number of keys needed per apartment.",
+    "24 apartments * 3 keys per apartment equals 72."
+  ],
+  "solution": "72"
+}

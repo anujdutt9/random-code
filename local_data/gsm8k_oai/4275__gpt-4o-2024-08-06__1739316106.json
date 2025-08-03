@@ -1,0 +1,15 @@
+{
+  "query": "Scott, Mary, and Ken committed to raising $4,000 for their local children\u2019s cancer hospital. Right now, Mary\u2019s collection is five times what Ken has, but three times Scott\u2019s funds. If Ken has $600, by how much have the three exceeded their goal?",
+  "steps": [
+    "I know that Ken has $600.",
+    "Mary\u2019s collection is five times what Ken has. So, I need to multiply $600 by 5.",
+    "$600 multiplied by 5 equals $3,000.",
+    "Now, I understand that Mary's collection is also three times Scott\u2019s funds. I can find Scott's funds by dividing Mary\u2019s funds by 3.",
+    "$3,000 divided by 3 equals $1,000. So, Scott has $1,000.",
+    "Now, I need to calculate the total amount collected by Scott, Mary, and Ken.",
+    "Adding Ken's $600, Mary's $3,000, and Scott's $1,000 gives me a total collection of $4,600.",
+    "The goal was to raise $4,000. Now, I'll find how much they have exceeded the goal by subtracting $4,000 from $4,600.",
+    "$4,600 minus $4,000 equals $600."
+  ],
+  "solution": "600"
+}

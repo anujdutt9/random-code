@@ -1,0 +1,19 @@
+{
+  "query": "Kristin can run three times faster than Sarith. If Kristin runs 12 times around the adult football field and Sarith runs at the same time around the children's football field that is half the distance as the other field, how many laps did Sarith go around the children's football field?",
+  "steps": [
+    "Let's define some variables to make this clearer. Let the distance around the adult football field be \\(d\\).",
+    "If Kristin runs 12 laps around the adult football field, the total distance she runs is \\(12d\\).",
+    "Kristin can run three times faster than Sarith, which means Sarith's speed is one-third of Kristin's speed.",
+    "Let \\(v\\) be Kristin's speed, then Sarith's speed is \\(\\frac{v}{3}\\).",
+    "Since both run for the same amount of time, let's denote this time as \\(t\\).",
+    "The distance that Kristin runs can also be expressed in terms of speed and time: \\(12d = v \\cdot t\\).",
+    "Given Sarith's speed, the distance Sarith runs is \\(\\frac{v}{3} \\cdot t\\).",
+    "We know the children's football field is half the distance of the adult football field, so the distance around the children's field is \\(\\frac{d}{2}\\).",
+    "Now, let's convert the distance Sarith runs into laps around the children's field.",
+    "Sarith's distance in terms of laps around the children's field: \\(\\text{laps} = \\frac{\\frac{v}{3} \\cdot t}{\\frac{d}{2}}\\).",
+    "Substitute \\(v \\cdot t = 12d\\) from Kristin's distance: \\(\\text{laps} = \\frac{\\frac{1}{3} \\cdot 12d}{\\frac{d}{2}}\\).",
+    "Simplifying \\(\\text{laps} = \\frac{4d}{\\frac{d}{2}}\\).",
+    "\\(\\text{laps} = \\frac{4d \\cdot 2}{d} = 8\\)."
+  ],
+  "solution": "8"
+}

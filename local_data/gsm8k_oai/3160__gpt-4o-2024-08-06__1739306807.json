@@ -1,0 +1,15 @@
+{
+  "query": "James had two browsers on his computer. In each browser, he opened three windows, each with ten tabs. What's the total number of tabs he opened in all the browsers together?",
+  "steps": [
+    "First, I need to determine the number of windows James opened in one browser.",
+    "James opened three windows in each browser.",
+    "Now, I need to find out how many tabs he opened in each window.",
+    "James opened ten tabs in each window.",
+    "To find the total number of tabs in one browser, I multiply the number of windows by the number of tabs per window: 3 windows * 10 tabs per window.",
+    "3 windows * 10 tabs per window equals 30 tabs in one browser.",
+    "James has two browsers, and each opened browser has 30 tabs.",
+    "To find the total number of tabs across both browsers, I multiply the number of tabs per browser by the number of browsers: 2 browsers * 30 tabs per browser.",
+    "2 browsers * 30 tabs per browser equals 60 tabs in total."
+  ],
+  "solution": "60"
+}

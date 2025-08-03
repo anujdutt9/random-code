@@ -1,0 +1,11 @@
+{
+  "query": "Holly needs to take 2 insulin pills per day, 3 blood pressure pills per day, and twice as many anticonvulsants as blood pressure pills each day. How many pills does Holly take in a week?",
+  "steps": [
+    "First, determine the number of insulin pills Holly takes each day. She takes 2 insulin pills per day.",
+    "Next, calculate the number of blood pressure pills Holly takes each day. She takes 3 blood pressure pills per day.",
+    "Determine how many anticonvulsant pills Holly takes each day. She takes twice as many anticonvulsants as blood pressure pills, so that is 2 * 3 = 6 anticonvulsant pills per day.",
+    "Now, calculate the total number of pills Holly takes per day by adding together the number of each type of pill: 2 insulin pills + 3 blood pressure pills + 6 anticonvulsant pills = 11 pills per day.",
+    "Calculate the total number of pills Holly takes in a week. Since there are 7 days in a week, multiply the daily total by 7: 11 pills/day * 7 days/week = 77 pills/week."
+  ],
+  "solution": "77"
+}

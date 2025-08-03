@@ -1,0 +1,16 @@
+{
+  "query": "Isabel loves to run in the forest and she does it within a circuit that is 365 meters long. She runs the circuit 7 times in the morning and runs it 3 times in the afternoon. How many meters does Isabel run during a week?",
+  "steps": [
+    "First, I need to find out how many meters Isabel runs in a single day.",
+    "In the morning, she runs 7 circuits and each circuit is 365 meters long. So, I will calculate the total distance she runs in the morning by multiplying 7 by 365.",
+    "7 circuits \u00d7 365 meters per circuit = 2555 meters.",
+    "Next, I calculate the distance she runs in the afternoon. She runs 3 circuits and each circuit is 365 meters long. So, I multiply 3 by 365.",
+    "3 circuits \u00d7 365 meters per circuit = 1095 meters.",
+    "Now, I add the two results to find out the total distance she runs in a single day.",
+    "2555 meters (morning) + 1095 meters (afternoon) = 3650 meters.",
+    "Isabel runs every day, so I need to calculate the distance she runs in a week, which is 7 days.",
+    "I multiply the total distance she runs in a day by 7 to find the weekly distance.",
+    "3650 meters per day \u00d7 7 days = 25550 meters."
+  ],
+  "solution": "25550"
+}

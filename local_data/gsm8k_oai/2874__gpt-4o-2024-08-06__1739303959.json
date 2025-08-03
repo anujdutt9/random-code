@@ -1,0 +1,16 @@
+{
+  "query": "Jason sent 220 text messages on Monday, half as many text messages on Tuesday, and 50 text messages each day Wednesday through Friday. How many text messages did he send on average during those five days?",
+  "steps": [
+    "First, I need to find the number of text messages Jason sent on each day.",
+    "On Monday, he sent 220 messages.",
+    "On Tuesday, he sent half as many messages as on Monday, so that would be 220 / 2 = 110 messages.",
+    "From Wednesday to Friday, he sent 50 messages each day.",
+    "The total number of messages on Wednesday, Thursday, and Friday together is 50 + 50 + 50 = 150 messages.",
+    "Now, I will find the total number of messages sent from Monday to Friday.",
+    "Adding them up: 220 (Monday) + 110 (Tuesday) + 150 (Wednesday to Friday) = 480 messages.",
+    "To find the average number of messages sent per day, I will divide the total messages by the number of days.",
+    "There are 5 days in total (Monday through Friday).",
+    "The average is therefore 480 / 5 = 96 messages per day."
+  ],
+  "solution": "96"
+}

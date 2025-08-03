@@ -1,0 +1,14 @@
+{
+  "query": "On an American flag, the first stripe is red and half of the remaining stripes are also red. Each flag has 13 stripes.  John buys 10 flags.  How many red stripes are there?",
+  "steps": [
+    "Start by understanding the details of a single American flag. It has a total of 13 stripes.",
+    "The first stripe on the flag is red.",
+    "There are 12 remaining stripes after the first one.",
+    "Half of the remaining 12 stripes are red. Calculate half of 12, which is 6.",
+    "Include the first red stripe to the total. So, the total number of red stripes on one flag is 1 (first stripe) + 6 (half of the remaining), which equals 7.",
+    "Now consider John buying 10 flags.",
+    "Each flag has 7 red stripes, so calculate the total number of red stripes in 10 flags by multiplying 7 (red stripes per flag) by 10 (number of flags).",
+    "7 multiplied by 10 equals 70."
+  ],
+  "solution": "70"
+}

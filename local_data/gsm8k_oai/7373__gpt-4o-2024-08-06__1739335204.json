@@ -1,0 +1,17 @@
+{
+  "query": "Hank reads the newspaper every morning, 5 days a week for 30 minutes.  He reads part of a novel every evening, 5 days a week, for 1 hour.  He doubles his reading time on Saturday and Sundays.  How many minutes does Hank spend reading in 1 week?",
+  "steps": [
+    "First, calculate the weekday newspaper reading time. Hank reads the newspaper 5 days a week for 30 minutes each day.",
+    "Multiply 30 minutes by 5 days to determine the total time spent reading the newspaper during the weekdays: 30 minutes/day * 5 days = 150 minutes.",
+    "Next, calculate the weekday novel reading time. Hank reads a novel 5 days a week for 60 minutes each day.",
+    "Multiply 60 minutes by 5 days to determine the total time spent reading the novel during weekdays: 60 minutes/day * 5 days = 300 minutes.",
+    "Calculate the weekend newspaper reading time. Hank doubles his newspaper reading time on Saturday and Sunday, so he reads for 30 * 2 = 60 minutes each on Saturday and Sunday.",
+    "Since there are 2 weekend days, multiply the weekend newspaper reading time by 2: 60 minutes/day * 2 days = 120 minutes.",
+    "Calculate the weekend novel reading time. Hank doubles his novel reading time on Saturday and Sunday, so he reads for 60 * 2 = 120 minutes each on Saturday and Sunday.",
+    "Since there are 2 weekend days, multiply the weekend novel reading time by 2: 120 minutes/day * 2 days = 240 minutes.",
+    "Add up all the weekday reading times: 150 minutes (newspaper) + 300 minutes (novel) = 450 minutes.",
+    "Add up all the weekend reading times: 120 minutes (newspaper) + 240 minutes (novel) = 360 minutes.",
+    "Add the total weekday reading time to the total weekend reading time to find the total weekly reading time: 450 minutes + 360 minutes = 810 minutes."
+  ],
+  "solution": "810"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Janet buys a multi-flavor pack of cheese sticks. 15 of the sticks are cheddar, 30 are mozzarella, and 45 are pepperjack. If Janet picks a cheese stick at random, what is the percentage chance it will be pepperjack?",
+  "steps": [
+    "First, I need to determine the total number of cheese sticks in the pack.",
+    "There are 15 cheddar sticks, 30 mozzarella sticks, and 45 pepperjack sticks.",
+    "I add these numbers together to find the total: 15 + 30 + 45.",
+    "15 + 30 equals 45.",
+    "45 + 45 equals 90.",
+    "So, there are 90 cheese sticks in total.",
+    "Now, I need to find the probability of picking a pepperjack cheese stick.",
+    "There are 45 pepperjack cheese sticks.",
+    "The probability of picking a pepperjack cheese stick is the number of pepperjack sticks divided by the total number of sticks, which is 45/90.",
+    "To convert this probability to a percentage, I multiply by 100.",
+    "45 divided by 90 is 0.5.",
+    "0.5 multiplied by 100 equals 50."
+  ],
+  "solution": "50"
+}

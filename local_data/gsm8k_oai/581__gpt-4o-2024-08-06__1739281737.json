@@ -1,0 +1,17 @@
+{
+  "query": "In ten years, I'll be twice my brother's age. The sum of our ages will then be 45 years old. How old am I now?",
+  "steps": [
+    "Let's define the present ages of myself and my brother as variables. Let my current age be \\( x \\) and my brother's current age be \\( y \\).",
+    "We are given that in ten years, I will be twice my brother's age. That can be expressed as an equation: \n\n\\[ x + 10 = 2(y + 10) \\]",
+    "Additionally, in ten years, the sum of our ages will be 45. This can be expressed as:\n\n\\[ (x + 10) + (y + 10) = 45 \\]",
+    "Simplify the equation for the sum of our ages:\n\n\\[ x + 10 + y + 10 = 45 \\]\n\n\\[ x + y + 20 = 45 \\]\n\nSubtract 20 from both sides:\n\n\\[ x + y = 25 \\]",
+    "Now, simplify the first equation, \\( x + 10 = 2(y + 10) \\):\n\n\\[ x + 10 = 2y + 20 \\]\n\nSubtract 10 from both sides:\n\n\\[ x = 2y + 10 \\]",
+    "We now have a system of two equations:\n\n1. \\( x + y = 25 \\)\n2. \\( x = 2y + 10 \\)\n\nSubstitute the second equation in place of \\( x \\) in the first equation:\n\n\\[ 2y + 10 + y = 25 \\]",
+    "Combine like terms:\n\n\\[ 3y + 10 = 25 \\]",
+    "Subtract 10 from both sides:\n\n\\[ 3y = 15 \\]",
+    "Divide by 3 to solve for \\( y \\):\n\n\\[ y = 5 \\]",
+    "Now that we know \\( y = 5 \\), use this value to find \\( x \\) using the equation \\( x + y = 25 \\):\n\n\\[ x + 5 = 25 \\]\n\nSubtract 5 from both sides:\n\n\\[ x = 20 \\]",
+    "I am currently 20 years old."
+  ],
+  "solution": "20"
+}

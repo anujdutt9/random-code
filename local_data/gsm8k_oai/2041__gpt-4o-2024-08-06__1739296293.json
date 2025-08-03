@@ -1,0 +1,21 @@
+{
+  "query": "Tony has a bucket that holds 2 pounds of sand. He has a sandbox out back that is two feet deep, four feet wide, and 5 feet long. A cubic foot of sand weighs 3 pounds. Because it's hot outside, he wants to make sure he stays hydrated, so every 4 trips he takes he drinks 3 ounces of bottled water. A 15 ounce bottle of water costs $2. He has $10 with him. How much change will he have after he buys all the water he needs?",
+  "steps": [
+    "First, I need to calculate the volume of the sandbox. The volume is given by multiplying the depth, width, and length.",
+    "The sandbox is 2 feet deep, 4 feet wide, and 5 feet long.",
+    "Volume = 2 feet x 4 feet x 5 feet = 40 cubic feet.",
+    "Each cubic foot of sand weighs 3 pounds. I need to find the total weight of the sand in the sandbox.",
+    "Total weight of sand = 40 cubic feet x 3 pounds per cubic foot = 120 pounds.",
+    "Tony's bucket holds 2 pounds of sand. I need to calculate how many trips he must take to empty the sandbox.",
+    "Number of trips = Total weight of sand / Weight per trip = 120 pounds / 2 pounds per trip = 60 trips.",
+    "Tony drinks 3 ounces of water every 4 trips. I need to calculate how much water he will need for 60 trips.",
+    "Number of 4-trip intervals = 60 trips / 4 trips per interval = 15 intervals.",
+    "Total water needed = 15 intervals x 3 ounces per interval = 45 ounces.",
+    "A 15-ounce bottle of water costs $2. I need to calculate how many bottles of water Tony needs.",
+    "Number of bottles needed = Total ounces needed / Ounces per bottle = 45 ounces / 15 ounces per bottle = 3 bottles.",
+    "Total cost of water = 3 bottles x $2 per bottle = $6.",
+    "Tony has $10 with him. I calculate the change he will have after buying the water.",
+    "Change = Total money - Total cost of water = $10 - $6 = $4."
+  ],
+  "solution": "4"
+}

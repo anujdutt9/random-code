@@ -1,0 +1,16 @@
+{
+  "query": "Trevor buys three bouquets of carnations. The first included 9 carnations, and the second included 14 carnations. If the average number of carnations in the bouquets is 12, how many carnations were in the third bouquet?",
+  "steps": [
+    "First, I need to find the total number of bouquets Trevor buys. He buys three bouquets.",
+    "The first bouquet contains 9 carnations.",
+    "The second bouquet contains 14 carnations.",
+    "The problem states that the average number of carnations in the bouquets is 12.",
+    "I need to find out the total number of carnations across all bouquets in order to calculate the average.",
+    "The formula to find the total number of carnations is: Total carnations = Average number of carnations * Number of bouquets.",
+    "Substituting the known values into the formula: Total carnations = 12 carnations/bouquet * 3 bouquets = 36 carnations.",
+    "I have already accounted for the carnations in the first and second bouquets: 9 + 14 = 23 carnations.",
+    "To find the number of carnations in the third bouquet, I subtract the total number of carnations in the first and second bouquets from the overall total.",
+    "36 carnations (total) - 23 carnations (first and second bouquets) = 13 carnations."
+  ],
+  "solution": "13"
+}

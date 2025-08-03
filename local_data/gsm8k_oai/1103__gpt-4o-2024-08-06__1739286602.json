@@ -1,0 +1,16 @@
+{
+  "query": "Martha is making centerpieces for her Thanksgiving dinner. There are six centerpieces, and each centerpiece uses 8 roses, twice as many orchids as roses, and a certain number of lilies. If Martha wants to spend $2700 total, and each flower costs $15, how many lilies will she put in each centerpiece?",
+  "steps": [
+    "First, I need to understand the individual components of each centerpiece: 8 roses and twice as many orchids. If each rose is paired with twice as many orchids, that means each centerpiece uses 8 roses and 16 orchids.",
+    "Now, let's calculate the total number of roses for all six centerpieces. Since each centerpiece uses 8 roses, for 6 centerpieces, she needs 8 x 6 = 48 roses.",
+    "Next, calculate the total number of orchids. Each centerpiece uses 16 orchids, so for 6 centerpieces, she needs 16 x 6 = 96 orchids.",
+    "Now, I need to determine the cost for these roses and orchids. Each flower costs $15.",
+    "First, calculate the total cost for the 48 roses. At $15 each, the roses will cost 48 x 15 = $720.",
+    "Next, calculate the cost for the 96 orchids. At $15 each, the orchids will cost 96 x 15 = $1440.",
+    "Now, add these costs together to determine the total spending on roses and orchids. $720 + $1440 = $2160.",
+    "Martha's total budget is $2700, and she has spent $2160 on roses and orchids. Now, subtract these amounts to find out how much she can spend on lilies: $2700 - $2160 = $540.",
+    "Next, determine how many lilies she can buy with the remaining $540. Since each lily also costs $15, the number of lilies Martha can buy is $540 / $15 = 36 lilies.",
+    "Finally, distribute the lilies evenly across the 6 centerpieces. 36 lilies divided by 6 centerpieces equals 36 / 6 = 6 lilies per centerpiece."
+  ],
+  "solution": "6"
+}

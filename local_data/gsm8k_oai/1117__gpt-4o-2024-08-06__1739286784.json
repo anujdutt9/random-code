@@ -1,0 +1,21 @@
+{
+  "query": "The age of Gladys is equal to twice the sum of the ages of Billy and Lucas. Billy is 3 times younger than Gladys who is 30 years old now. How old will Lucas be three years from now?",
+  "steps": [
+    "Gladys is currently 30 years old.",
+    "Billy is 3 times younger than Gladys.",
+    "Being 3 times younger means Billy's age is Gladys's age divided by 3.",
+    "So, Billy's current age is 30 divided by 3.",
+    "Billy is 10 years old now.",
+    "The age of Gladys is equal to twice the sum of the ages of Billy and Lucas.",
+    "Let Lucas's current age be L.",
+    "According to the problem, 30 = 2 * (10 + L).",
+    "Simplify the equation: 30 = 20 + 2L.",
+    "Subtract 20 from both sides: 10 = 2L.",
+    "Divide both sides by 2 to solve for L: L = 5.",
+    "Lucas is currently 5 years old.",
+    "The problem asks for Lucas's age three years from now.",
+    "Three years from now, Lucas will be 5 + 3.",
+    "Lucas will be 8 years old in three years."
+  ],
+  "solution": "8"
+}

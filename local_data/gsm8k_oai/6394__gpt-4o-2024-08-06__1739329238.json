@@ -1,0 +1,13 @@
+{
+  "query": "Of the 100 soccer balls that Nova went to inflate, 40 percent had holes in them and could not inflate, while 20% of the remaining balls were overinflated and exploded. How many balls were inflated successfully and could be used?",
+  "steps": [
+    "There are 100 soccer balls in total that Nova went to inflate.",
+    "40% of these balls had holes and could not be inflated.",
+    "Calculate the number of balls with holes: 40% of 100 is 40 balls.",
+    "Subtract the balls with holes from the total: 100 - 40 = 60 balls that can be inflated.",
+    "20% of these 60 remaining balls were overinflated and exploded.",
+    "Calculate the number of overinflated and exploded balls: 20% of 60 is 0.2 * 60 = 12 balls.",
+    "Subtract the exploded balls from the remaining inflatable balls: 60 - 12 = 48 balls."
+  ],
+  "solution": "48"
+}

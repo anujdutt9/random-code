@@ -1,0 +1,15 @@
+{
+  "query": "Lloyd is building a house of cards. He owns 16 decks of cards that have 52 cards each. If each layer of his house of cards has the same exact number of cards, how many cards are there per layer if his house is 32 layers tall?",
+  "steps": [
+    "First, I need to determine how many total cards Lloyd has.",
+    "Lloyd has 16 decks of cards.",
+    "Each deck contains 52 cards.",
+    "So, I calculate the total number of cards by multiplying the number of decks by the number of cards per deck: 16 decks * 52 cards/deck.",
+    "Calculating 16 * 52 gives me 832 cards in total.",
+    "Now, I need to find out how many cards there are per layer in the house of cards.",
+    "The house has a total of 32 layers.",
+    "I will divide the total number of cards, 832, by the number of layers, 32, to find out how many cards are in each layer.",
+    "Calculating 832 / 32 gives me 26 cards per layer."
+  ],
+  "solution": "26"
+}

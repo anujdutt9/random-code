@@ -1,0 +1,19 @@
+{
+  "query": "Mrs. Carlton gives out penalty points whenever her students misbehave. They get 5 points for interrupting, 10 points for insulting their classmates, and 25 points for throwing things. If they get 100 points, they have to go to the office. Jerry already interrupted twice and insulted his classmates 4 times. How many times can he throw things before he gets sent to the office?",
+  "steps": [
+    "First, I need to determine how many penalty points Jerry has already accumulated from his current behavior.",
+    "Jerry interrupted twice, and each interruption carries a penalty of 5 points. So the penalty for interrupting is 2 times 5 points.",
+    "2 times 5 equals 10 points from interrupting.",
+    "Jerry insulted his classmates 4 times, and each insult carries a penalty of 10 points. So the penalty for insulting is 4 times 10 points.",
+    "4 times 10 equals 40 points from insulting.",
+    "Now, I need to add the points from both types of behavior to find Jerry's total penalty points at this point.",
+    "10 points from interrupting plus 40 points from insulting equals 50 total penalty points.",
+    "Jerry will be sent to the office if he reaches 100 penalty points. He already has 50 points, so I need to determine how many more points he can accumulate before reaching 100.",
+    "100 points required to be sent to the office minus 50 points already accumulated equals 50 points that Jerry can still accrue.",
+    "Each time Jerry throws something, he receives 25 points.",
+    "To find out how many times Jerry can throw things before reaching 100 points, I divide the remaining 50 points by the 25 penalty points per throw.",
+    "50 divided by 25 equals 2.",
+    "Jerry can throw things 2 more times before reaching 100 penalty points."
+  ],
+  "solution": "2"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Clara is climbing to the top of a historical tower with stone stairs. Each level has eight huge steps in the stairs. Every step is made up of three massive blocks of stone. By the time she reaches the top, she has climbed past 96 blocks of stone. How many levels are there in the tower?",
+  "steps": [
+    "First, I need to figure out how many blocks of stone are on each level.",
+    "Each level has eight steps.",
+    "Each step is made up of three blocks of stone.",
+    "To find the total number of blocks per level, I multiply the number of steps per level by the number of blocks per step: \\(8 \\times 3\\).",
+    "Calculating \\(8 \\times 3\\), I get 24 blocks of stone per level.",
+    "Now, I need to determine how many levels there are when Clara climbs past 96 blocks of stone.",
+    "To find the number of levels, I divide the total number of blocks (96) by the number of blocks per level (24).",
+    "Calculating \\(96 \\div 24\\), I get 4.",
+    "This result means there are 4 levels in the tower that Clara has climbed."
+  ],
+  "solution": "4"
+}

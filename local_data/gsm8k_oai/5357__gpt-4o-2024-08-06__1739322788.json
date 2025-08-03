@@ -1,0 +1,21 @@
+{
+  "query": "Tom is playing a game and gets 10 points for killing an enemy.  If he kills at least 100 enemies he gets a 50% bonus to his score.  What was his total score if he killed 150 enemies?",
+  "steps": [
+    "I am given that Tom gets 10 points for each enemy he kills.",
+    "Tom killed 150 enemies.",
+    "First, I need to calculate the score without the bonus.",
+    "I will multiply the number of enemies killed by the points per enemy.",
+    "150 enemies multiplied by 10 points each equals 1500 points.",
+    "I need to determine if Tom gets a bonus.",
+    "He gets a bonus if he kills at least 100 enemies.",
+    "Tom killed 150 enemies, which is more than 100.",
+    "He qualifies for the 50% bonus.",
+    "To calculate the bonus, I take 50% of the original score.",
+    "50% of 1500 is calculated by multiplying 1500 by 0.5.",
+    "1500 multiplied by 0.5 is 750.",
+    "Now, I need to add the bonus to the original score to get the total score.",
+    "The total score is 1500 plus 750.",
+    "1500 plus 750 equals 2250."
+  ],
+  "solution": "2250"
+}

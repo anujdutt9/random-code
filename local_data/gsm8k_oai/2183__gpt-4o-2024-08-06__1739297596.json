@@ -1,0 +1,22 @@
+{
+  "query": "Andrew installed hardwood flooring in his house. His bedroom took eight wooden planks, his living room took twenty planks, and his kitchen took eleven planks. The guest bedroom took two fewer planks than Andrew\u2019s bedroom, and each of his two hallways took four planks. He accidentally ruined three planks in each bedroom by dragging furniture over them and had to replace them. He ended up with six leftover planks at the end. How many wooden planks did Andrew buy to start with?",
+  "steps": [
+    "First, I need to figure out how many wooden planks he used in the guest bedroom.",
+    "The guest bedroom took two fewer planks than Andrew's bedroom, which used eight planks.",
+    "So, the guest bedroom took 8 - 2 = 6 planks.",
+    "Next, I need to calculate the total planks used initially in all rooms before any replacements or leftovers.",
+    "The rooms and their plank usage: bedroom = 8 planks, living room = 20 planks, kitchen = 11 planks, guest bedroom = 6 planks, and each hallway = 4 planks.",
+    "There are two hallways, so they together used 4 x 2 = 8 planks.",
+    "Now, let's add up all the planks used initially across these areas.",
+    "Initial total used planks = bedroom (8) + living room (20) + kitchen (11) + guest bedroom (6) + hallways (8) = 53 planks.",
+    "Now, consider the planks ruined and replaced.",
+    "He ruined and replaced 3 planks in each bedroom.",
+    "There are two bedrooms: the main bedroom and the guest bedroom.",
+    "The number of planks replaced = 3 planks per bedroom x 2 bedrooms = 6 planks.",
+    "Total planks used after replacing the ruined planks = initial used (53) + ruined/replaced (6) = 59 planks.",
+    "Lastly, consider the leftover planks.",
+    "Andrew ended up with 6 leftover planks.",
+    "So, the total planks Andrew initially bought = total used (59) + leftovers (6) = 65 planks."
+  ],
+  "solution": "65"
+}

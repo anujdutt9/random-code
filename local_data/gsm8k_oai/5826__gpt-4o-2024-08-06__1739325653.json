@@ -1,0 +1,12 @@
+{
+  "query": "A dog runs through a field and is joined by a group of 4 cats. 2 rabbits join each cat and 3 hares join each rabbit. How many animals are running through the field?",
+  "steps": [
+    "First, I start with the number of dogs running through the field. There is 1 dog.",
+    "Next, I consider the group of cats that join the dog. There are 4 cats.",
+    "Now, I calculate the number of rabbits. Since 2 rabbits join each cat and there are 4 cats, the total number of rabbits is 4 cats \u00d7 2 rabbits/cat = 8 rabbits.",
+    "Next, I calculate the number of hares. Since 3 hares join each rabbit and there are 8 rabbits, the total number of hares is 8 rabbits \u00d7 3 hares/rabbit = 24 hares.",
+    "Now, I sum up all the animals: 1 dog + 4 cats + 8 rabbits + 24 hares.",
+    "1 + 4 + 8 + 24 = 37."
+  ],
+  "solution": "37"
+}

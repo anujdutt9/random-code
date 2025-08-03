@@ -1,0 +1,14 @@
+{
+  "query": "A group of 300 athletes spent Saturday night at Ultimate Fitness Camp. The next morning, for 4 hours straight, they left the camp at a rate of 28 athletes per hour. Over the next 7 hours, a new group of athletes trickled into the camp at a rate of 15 athletes per hour. Immediately thereafter, the camp gate was shut and everyone went to bed. What is the difference in the total number of athletes in the camp over the two nights?",
+  "steps": [
+    "The problem starts with 300 athletes at the camp on Saturday night.",
+    "On Sunday morning, athletes leave at a rate of 28 athletes per hour for 4 hours.",
+    "28 athletes per hour leaving for 4 hours means that 28 * 4 = 112 athletes leave.",
+    "Subtract the 112 athletes who left from the original 300 athletes: 300 - 112 = 188 athletes remain after 4 hours.",
+    "During the next 7 hours, new athletes arrive at a rate of 15 athletes per hour.",
+    "15 athletes per hour arriving for 7 hours means that 15 * 7 = 105 athletes arrive.",
+    "Add the 105 arriving athletes to the 188 remaining athletes: 188 + 105 = 293 athletes are at the camp after 7 more hours.",
+    "Subtract the number of athletes on Saturday night from the number on Sunday night to find the difference: 300 - 293 = 7."
+  ],
+  "solution": "7"
+}

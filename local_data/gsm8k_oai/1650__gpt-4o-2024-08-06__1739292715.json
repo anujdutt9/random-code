@@ -1,0 +1,14 @@
+{
+  "query": "Edna made cookies for all of her neighbors and left the cookies outside for them to take. She made 150 cookies so her 15 neighbors could get 10 cookies each. However, the neighbor who arrived last told Edna there were only 8 cookies left. Edna thinks it was Sarah who took too many cookies. If all the other neighbors took the correct amount of cookies, how many cookies did Sarah take?",
+  "steps": [
+    "Edna made 150 cookies in total.",
+    "The intention was for each of the 15 neighbors to take 10 cookies each, so the total number of cookies they were expected to take is 15 neighbors * 10 cookies/neighbor = 150 cookies.",
+    "The last neighbor found only 8 cookies left.",
+    "If only 8 cookies were left, that means 150 - 8 = 142 cookies had been taken by the time the last neighbor arrived.",
+    "If all the neighbors except one took the correct amount, 14 neighbors each took 10 cookies, totaling 14 * 10 = 140 cookies.",
+    "The 15th neighbor, whom Edna suspects is Sarah, took the remaining cookies, which is the difference between the total taken (142 cookies) and what the 14 neighbors took (140 cookies).",
+    "Sarah, therefore, took 142 - 140 = 2 extra cookies on top of her share of 10 cookies.",
+    "To find the total number of cookies Sarah took, we add the 2 extra cookies to her share: 10 + 2 = 12 cookies."
+  ],
+  "solution": "12"
+}

@@ -1,0 +1,21 @@
+{
+  "query": "Gerald is a furniture maker. He has 672 pieces of wood and he wants to make some tables and chairs. It takes 12 pieces of wood to make a table and 8 pieces of wood to make a chair. How many chairs can he make if he makes 24 tables?",
+  "steps": [
+    "First, I need to calculate how many pieces of wood are used to make 24 tables.",
+    "Each table takes 12 pieces of wood.",
+    "So, for 24 tables, the wood used is 24 tables * 12 pieces of wood per table.",
+    "24 * 12 is 288.",
+    "Gerald uses 288 pieces of wood to make 24 tables.",
+    "Now, I need to find out how much wood Gerald has left after making the tables.",
+    "He started with 672 pieces of wood.",
+    "After making the tables, he has 672 - 288 pieces of wood left.",
+    "672 - 288 is 384.",
+    "Gerald has 384 pieces of wood remaining.",
+    "Next, I need to calculate how many chairs he can make with the remaining wood.",
+    "Each chair takes 8 pieces of wood.",
+    "To find out how many chairs can be made, divide the remaining wood by the number of pieces needed per chair.",
+    "384 pieces of wood / 8 pieces per chair is the calculation required.",
+    "384 \u00f7 8 equals 48."
+  ],
+  "solution": "48"
+}

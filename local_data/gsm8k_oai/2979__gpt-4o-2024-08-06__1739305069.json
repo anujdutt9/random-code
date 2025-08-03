@@ -1,0 +1,16 @@
+{
+  "query": "Barbeck has two times as many guitars as Steve, but Davey has three times as many guitars as Barbeck. If there are 27 guitars altogether, how many guitars does Davey have?",
+  "steps": [
+    "First, define variables for the number of guitars each person has. Let S be the number of guitars Steve has. Then Barbeck has 2S guitars because he has two times as many as Steve.",
+    "Davey has three times as many guitars as Barbeck, so Davey has 3 * (2S) guitars. This simplifies to 6S guitars for Davey.",
+    "Now, express the total number of guitars in terms of S. Steve has S guitars, Barbeck has 2S guitars, and Davey has 6S guitars.",
+    "The equation for the total number of guitars is S (from Steve) + 2S (from Barbeck) + 6S (from Davey) = 27.",
+    "Combine the terms on the left side of the equation: S + 2S + 6S = 9S.",
+    "Now the equation is 9S = 27.",
+    "Solve for S by dividing both sides by 9: S = 27 / 9.",
+    "This simplifies to S = 3. So, Steve has 3 guitars.",
+    "Barbeck has 2S guitars, which is 2 * 3 = 6 guitars.",
+    "Davey has 6S guitars, which is 6 * 3 = 18 guitars."
+  ],
+  "solution": "18"
+}

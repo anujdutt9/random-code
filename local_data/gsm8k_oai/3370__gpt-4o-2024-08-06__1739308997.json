@@ -1,0 +1,17 @@
+{
+  "query": "A watermelon stand sold 46 watermelons. Seventeen customers bought one melon, three customers bought three melons, and the rest bought two melons. How many customers bought two watermelons?",
+  "steps": [
+    "First, I know that 17 customers each bought one watermelon.",
+    "So, 17 customers account for 17 watermelons sold.",
+    "Next, I know that three customers each bought three watermelons.",
+    "So, these three customers account for 3 \u00d7 3 = 9 watermelons sold.",
+    "To find out how many watermelons were bought by customers purchasing two melons each, I need to subtract the watermelons sold to the one-melon and three-melon customers from the total sold.",
+    "The total number of watermelons sold is 46.",
+    "Watermelons bought by one-melon customers and three-melon customers combined is 17 + 9 = 26.",
+    "So, the number of watermelons bought by the customers who bought two melons each is 46 - 26 = 20.",
+    "Now, I need to find out how many customers this accounts for.",
+    "Each of these customers bought two watermelons.",
+    "So, 20 watermelons were bought by 20 / 2 = 10 customers."
+  ],
+  "solution": "10"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "Ann, Becky, and Julia are working at a pharmacy, every day for 8 hours. Each of them is providing service to 7 customers per hour. One day Julia had to finish her work earlier, so she was working only for 6 hours. How many customers did all three of these women serve that day in total?",
+  "steps": [
+    "First, I need to determine how many hours Ann and Becky worked that day. They both worked the full 8 hours.",
+    "Ann serves 7 customers per hour. Therefore, in 8 hours, Ann serves 8 * 7 = 56 customers.",
+    "Similarly, Becky serves 7 customers per hour. In 8 hours, Becky serves 8 * 7 = 56 customers.",
+    "Now, I need to calculate how many customers Julia served. She worked for 6 hours instead of 8.",
+    "Julia also serves 7 customers per hour. Therefore, in 6 hours, Julia serves 6 * 7 = 42 customers.",
+    "Next, I'll add up the totals for all three: 56 customers from Ann, 56 customers from Becky, and 42 customers from Julia.",
+    "The total number of customers served by Ann, Becky, and Julia is 56 + 56 + 42.",
+    "Calculating the sum, 56 + 56 equals 112, and 112 + 42 equals 154."
+  ],
+  "solution": "154"
+}

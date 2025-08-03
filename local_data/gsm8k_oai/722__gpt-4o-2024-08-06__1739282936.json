@@ -1,0 +1,19 @@
+{
+  "query": "Coral is reading a book that is 600 pages long.  She reads half of it in the first week, and 30 percent of the remaining pages the second week. How many pages must she read the third week in order to finish the book?",
+  "steps": [
+    "First, determine how many pages Coral reads in the first week.",
+    "She reads half of the book in the first week.",
+    "The book is 600 pages long; half of 600 is 300.",
+    "So, Coral reads 300 pages in the first week.",
+    "Next, calculate how many pages remain after the first week.",
+    "Total pages minus pages read in the first week: 600 - 300 = 300 pages remain.",
+    "Now, determine how many pages she reads in the second week.",
+    "She reads 30 percent of the remaining pages in the second week.",
+    "30 percent of 300 pages is calculated as (30/100) * 300 = 90 pages.",
+    "So, Coral reads 90 pages in the second week.",
+    "Now, calculate how many pages remain after the second week.",
+    "Remaining pages minus pages read in the second week: 300 - 90 = 210 pages remain.",
+    "These 210 pages are what Coral must read in the third week to finish the book."
+  ],
+  "solution": "210"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "5,000 people live in a small town. 2,000 males live in that town and the rest of the population are females. Thirty percent of the female population wears glasses. How many females wear glasses?",
+  "steps": [
+    "The total population of the town is 5,000.",
+    "There are 2,000 males in the town.",
+    "To find the number of females, I subtract the number of males from the total population: 5,000 - 2,000.",
+    "5,000 - 2,000 equals 3,000. So, there are 3,000 females in the town.",
+    "Thirty percent of the female population wears glasses.",
+    "To find 30% of the female population, I calculate 30/100 * 3,000.",
+    "30/100 equals 0.3.",
+    "Next, I multiply 0.3 by 3,000.",
+    "0.3 * 3,000 equals 900."
+  ],
+  "solution": "900"
+}

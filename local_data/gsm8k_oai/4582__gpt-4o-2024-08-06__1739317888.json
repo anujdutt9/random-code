@@ -1,0 +1,18 @@
+{
+  "query": "Robie filled some plastic boxes with hockey cards. There were 10 cards in each box but 5 cards were not placed in a box. He gave away 2 boxes to his friends and he has 5 boxes with him. How many cards did Robie have in the beginning?",
+  "steps": [
+    "I need to find out the total number of hockey cards Robie had at the beginning.",
+    "First, I know from the problem statement that Robie has 5 boxes left with him.",
+    "Each of these boxes holds 10 cards.",
+    "Therefore, the 5 boxes he still has account for 5 boxes * 10 cards/box = 50 cards.",
+    "Robie also gave away 2 boxes.",
+    "Each of these 2 boxes also contained 10 cards.",
+    "So the 2 boxes he gave away contained 2 boxes * 10 cards/box = 20 cards.",
+    "I now know the number of cards that were in all the boxes together.",
+    "Robie has kept 50 cards and gave away 20 cards, so the total number of cards that were placed in boxes is 50 + 20 = 70 cards.",
+    "According to the problem, there were also 5 cards that were not placed in any box.",
+    "So to find the total number of cards Robie started with, I need to add these 5 unboxed cards to the 70 boxed cards.",
+    "Therefore, the total number of cards Robie had in the beginning is 70 + 5 = 75 cards."
+  ],
+  "solution": "75"
+}

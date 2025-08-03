@@ -1,0 +1,15 @@
+{
+  "query": "Aunt Gemma has four dogs. She feeds them with dog food twice a day. Each dog can consume 250 grams of food per meal. If aunt Gemma bought 2 sacks of dog food, each weighing 50 kilograms, how many days will those food last?",
+  "steps": [
+    "Aunt Gemma has four dogs.",
+    "Each dog consumes 250 grams of food per meal.",
+    "There are two meals each day.",
+    "Therefore, each dog consumes 250 grams/meal * 2 meals/day = 500 grams per day.",
+    "All four dogs together consume 500 grams/day/dog * 4 dogs = 2000 grams or 2 kilograms per day.",
+    "Aunt Gemma bought 2 sacks of dog food, each weighing 50 kilograms.",
+    "Total weight of the dog food is 2 sacks * 50 kilograms/sack = 100 kilograms.",
+    "To find out how many days the dog food will last, we divide the total weight of the food by the daily consumption by all dogs.",
+    "The total number of days the food will last is 100 kilograms / 2 kilograms per day = 50 days."
+  ],
+  "solution": "50"
+}

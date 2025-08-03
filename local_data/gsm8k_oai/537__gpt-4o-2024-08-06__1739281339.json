@@ -1,0 +1,20 @@
+{
+  "query": "A shipping boat's crew consisted of 17 sailors, with five inexperienced sailors. Each experienced sailor was paid 1/5 times more than the inexperienced sailors. If the inexperienced sailors were paid $10 per hour for a 60-hour workweek, calculate the total combined monthly earnings of the experienced sailors.",
+  "steps": [
+    "There are 17 sailors in total.",
+    "Out of these, 5 sailors are inexperienced.",
+    "Therefore, the number of experienced sailors is 17 - 5 = 12.",
+    "Each inexperienced sailor is paid $10 per hour.",
+    "The workweek consists of 60 hours.",
+    "The weekly earnings of an inexperienced sailor are 60 hours * $10/hour = $600.",
+    "Each experienced sailor is paid 1/5 times more than an inexperienced sailor.",
+    "1/5 of $10 is $2, so experienced sailors earn $10 + $2 = $12 per hour.",
+    "The weekly earnings of an experienced sailor are 60 * $12 = $720.",
+    "We need the monthly earnings, so we calculate for 4 weeks.",
+    "The monthly earnings of an experienced sailor are 4 weeks * $720/week = $2880.",
+    "There are 12 experienced sailors.",
+    "The total monthly earnings for all experienced sailors is 12 * $2880.",
+    "Calculating 12 * $2880 gives $34,560."
+  ],
+  "solution": "34560"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Miss Grayson's class raised $50 for their field trip. Aside from that, each of her students contributed $5 each. There are 20 students in her class, and the cost of the trip is $7 for each student. After all the field trip costs were paid, how much is left in Miss Grayson's class fund?",
+  "steps": [
+    "First, I need to find out how much money the students contributed in total.",
+    "Each student contributed $5, and there are 20 students in the class.",
+    "The total contribution from students is 20 students * $5 per student = $100.",
+    "Now, I add the $50 that was already raised to the total student contributions.",
+    "$50 (already raised) + $100 (contribution from students) = $150 total in the class fund.",
+    "Next, I need to calculate the total cost for the field trip.",
+    "The cost is $7 per student, and there are 20 students.",
+    "The total cost for the field trip is 20 students * $7 per student = $140.",
+    "I subtract the total field trip costs from the total class fund to find out how much is left.",
+    "$150 (total class fund) - $140 (total field trip cost) = $10 left in the class fund."
+  ],
+  "solution": "10"
+}

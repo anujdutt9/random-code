@@ -1,0 +1,18 @@
+{
+  "query": "Tamara is 3 times Kim's height less 4 inches. Tamara and Kim have a combined height of 92 inches. How many inches tall is Tamara?",
+  "steps": [
+    "Let's use algebra to solve this. Let's denote Kim's height as \\( K \\).",
+    "According to the problem, Tamara's height is 3 times Kim's height minus 4 inches. So, Tamara's height will be \\( 3K - 4 \\).",
+    "The combined height of Tamara and Kim is 92 inches, as stated in the problem.",
+    "We can create the equation \\( K + (3K - 4) = 92 \\).",
+    "Let's simplify the equation: \\( K + 3K - 4 = 92 \\).",
+    "Combine the like terms: \\( 4K - 4 = 92 \\).",
+    "Add 4 to both sides of the equation to eliminate the -4: \\( 4K = 96 \\).",
+    "Divide both sides by 4 to solve for \\( K \\): \\( K = 24 \\).",
+    "Now that we have Kim's height, substitute \\( K = 24 \\) back into the expression for Tamara's height: \\( 3K - 4 \\).",
+    "Calculate \\( 3(24) - 4 \\).",
+    "Calculate \\( 3 \\times 24 \\) first, which equals 72.",
+    "Subtract 4 from 72, which gives 68."
+  ],
+  "solution": "68"
+}

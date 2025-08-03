@@ -1,0 +1,16 @@
+{
+  "query": "Michael has $42. His brother has $17. Michael gives away half the money to his brother. His brother then buys 3 dollars worth of candy. How much money, in dollars, did his brother have in the end?",
+  "steps": [
+    "Michael starts with $42.",
+    "His brother starts with $17.",
+    "Michael gives half of his $42 to his brother.",
+    "Half of $42 is $21.",
+    "So Michael gives $21 to his brother.",
+    "Add this $21 to his brother's initial $17.",
+    "$17 + $21 = $38",
+    "His brother then spends $3 on candy.",
+    "Subtract the $3 spent on candy from his brother's $38.",
+    "$38 - $3 = $35"
+  ],
+  "solution": "35"
+}

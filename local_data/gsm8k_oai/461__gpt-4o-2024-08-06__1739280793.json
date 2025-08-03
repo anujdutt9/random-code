@@ -1,0 +1,20 @@
+{
+  "query": "Clarissa is responsible for getting 10 copies of a manuscript printed and having each copy bound.  The printers charge $0.05 per page to copy it and $5.00 per manuscript to have it bound.  If the manuscript is 400 pages, how much will it cost to have it copied and bound 10 times?",
+  "steps": [
+    "First, I need to calculate the cost of copying one 400-page manuscript.",
+    "The cost per page for copying is $0.05.",
+    "To find the cost for one manuscript, multiply the number of pages by the cost per page: 400 pages * $0.05 per page.",
+    "400 * 0.05 = 20",
+    "It costs $20 to copy one manuscript.",
+    "Next, I calculate the cost of binding one manuscript.",
+    "The binding cost per manuscript is $5.00.",
+    "Now, find the total cost to copy and bind one manuscript by adding the copying cost and binding cost: $20 (copying) + $5 (binding).",
+    "20 + 5 = 25",
+    "It costs $25 to copy and bind one manuscript.",
+    "Now, I need to find the total cost for 10 manuscripts.",
+    "Multiply the cost for one manuscript by the number of manuscripts: 25 * 10",
+    "25 * 10 = 250",
+    "The total cost to have 10 manuscripts copied and bound is $250."
+  ],
+  "solution": "250"
+}

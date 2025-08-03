@@ -1,0 +1,19 @@
+{
+  "query": "Jon drinks a bottle of water that is 16 ounces every 4 hours for the 16 hours he is awake.  Twice a day he also drinks a bottle that is 25% larger than those bottles.  How much fluid does he drink a week?",
+  "steps": [
+    "Jon drinks a 16-ounce bottle of water every 4 hours.",
+    "He is awake for 16 hours a day.",
+    "16 hours divided by 4 hours per bottle means he drinks 4 bottles per day.",
+    "Each of these bottles is 16 ounces.",
+    "4 bottles per day times 16 ounces equals 64 ounces from regular bottles.",
+    "Twice a day, Jon drinks a bottle 25% larger than the regular 16-ounce bottle.",
+    "25% of 16 ounces is 0.25 * 16 = 4 ounces.",
+    "Therefore, each of these larger bottles is 16 + 4 = 20 ounces.",
+    "Jon drinks 2 larger bottles per day.",
+    "2 bottles per day times 20 ounces equals 40 ounces from larger bottles.",
+    "Total daily intake = 64 ounces (regular) + 40 ounces (larger) = 104 ounces.",
+    "There are 7 days in a week.",
+    "So, in a week, Jon drinks 104 ounces per day times 7 days = 728 ounces."
+  ],
+  "solution": "728"
+}

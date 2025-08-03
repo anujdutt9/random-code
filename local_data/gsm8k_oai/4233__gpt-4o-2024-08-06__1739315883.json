@@ -1,0 +1,18 @@
+{
+  "query": "James makes potatoes for a group.  Each person eats 1.5 pounds of potatoes.  He makes potatoes for 40 people.  A 20-pound bag of potatoes costs $5.  How much does it cost?",
+  "steps": [
+    "First, I need to figure out the total amount of potatoes needed for 40 people.",
+    "Each person eats 1.5 pounds of potatoes.",
+    "So, the total pounds of potatoes needed is 40 people * 1.5 pounds/person.",
+    "Calculating 40 * 1.5 gives 60 pounds of potatoes.",
+    "Next, I need to determine how many 20-pound bags of potatoes are needed to provide 60 pounds.",
+    "One 20-pound bag of potatoes provides 20 pounds.",
+    "I divide 60 pounds by 20 pounds/bag to find the number of bags needed.",
+    "60 \u00f7 20 = 3 bags.",
+    "Now, I need to calculate the cost for 3 bags.",
+    "The cost of one 20-pound bag is $5.",
+    "So, for 3 bags, the cost will be 3 * $5.",
+    "3 * $5 = $15."
+  ],
+  "solution": "15"
+}

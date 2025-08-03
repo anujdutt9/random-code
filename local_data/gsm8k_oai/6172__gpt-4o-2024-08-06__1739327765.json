@@ -1,0 +1,14 @@
+{
+  "query": "Jimmy has 18 cards. Jimmy gives three cards to Bob. If Jimmy gives Mary twice as many cards as he gave to Bob, how many cards does Jimmy have left?",
+  "steps": [
+    "Jimmy starts with 18 cards.",
+    "Jimmy gives 3 cards to Bob.",
+    "To find out how many cards Jimmy has left after giving cards to Bob, I subtract the 3 cards given from the original 18 cards.",
+    "18 - 3 = 15 cards remaining after giving cards to Bob.",
+    "Now, Jimmy gives Mary twice as many cards as he gave Bob.",
+    "He gave 3 cards to Bob, so 3 * 2 = 6 cards are given to Mary.",
+    "To find out how many cards Jimmy has left after giving cards to both Bob and Mary, I subtract the 6 cards given to Mary from the 15 cards remaining.",
+    "15 - 6 = 9 cards remaining."
+  ],
+  "solution": "9"
+}

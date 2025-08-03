@@ -1,0 +1,15 @@
+{
+  "query": "John buys 3 boxes of burritos.  He gives away a 3rd of them to his friend.  Each box has 20 burritos.  He eats 3 burritos per day for 10 days.  How many burritos does he have left?",
+  "steps": [
+    "John buys 3 boxes of burritos.",
+    "Each box contains 20 burritos.",
+    "To find out the total number of burritos he initially has, I multiply the number of boxes by the number of burritos per box: 3 boxes * 20 burritos/box = 60 burritos.",
+    "John gives away a third of his burritos to his friend.",
+    "To find out how many burritos he gives away, I calculate a third of the total burritos: \\( \\frac{1}{3} \\times 60 = 20 \\) burritos.",
+    "Subtract the burritos he gives away from the total he initially had: 60 burritos - 20 burritos = 40 burritos remaining.",
+    "Now, John eats 3 burritos per day for 10 days.",
+    "I calculate the total number of burritos he eats over 10 days: 3 burritos/day * 10 days = 30 burritos.",
+    "Subtract the number of burritos he eats from the number he had left after giving some to his friend: 40 burritos - 30 burritos = 10 burritos."
+  ],
+  "solution": "10"
+}

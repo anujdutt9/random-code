@@ -1,0 +1,18 @@
+{
+  "query": "Frank has 7 one-dollar bills, 4 five-dollar bills, 2 ten-dollar bills, and 1 twenty-dollar bill. He goes to buy peanuts, which cost $3 a pound. He buys what he wants and has $4 in change. He plans to eat the peanuts all in one week. How many pounds does he eat on average per day?",
+  "steps": [
+    "First, calculate the total amount of money Frank has initially.",
+    "Frank has 7 one-dollar bills. That amounts to 7 * 1 = 7 dollars.",
+    "Frank has 4 five-dollar bills. That amounts to 4 * 5 = 20 dollars.",
+    "Frank has 2 ten-dollar bills. That amounts to 2 * 10 = 20 dollars.",
+    "Frank has 1 twenty-dollar bill. That amounts to 1 * 20 = 20 dollars.",
+    "Add all of Frank's money together: 7 + 20 + 20 + 20 = 67 dollars.",
+    "Frank ends up with 4 dollars in change after buying peanuts.",
+    "To find out how much he spent, subtract the change from the initial amount: 67 - 4 = 63 dollars.",
+    "Peanuts cost 3 dollars per pound.",
+    "Determine how many pounds of peanuts Frank bought by dividing the total amount spent by the cost per pound: 63 / 3 = 21 pounds.",
+    "Frank plans to eat the peanuts over one week, which has 7 days.",
+    "Calculate the average amount of peanuts he eats per day by dividing the total pounds by the number of days: 21 / 7 = 3 pounds per day."
+  ],
+  "solution": "3"
+}

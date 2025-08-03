@@ -1,0 +1,22 @@
+{
+  "query": "Aren\u2019s flight from New York to Hawaii will take 11 hours 20 minutes.  He spends 2 hours reading, 4 hours watching two movies, 30 minutes eating his dinner, 40 minutes listening to the radio, and 1 hour 10 minutes playing games.  How many hours does he have left to take a nap?",
+  "steps": [
+    "First, I need to find out the total amount of time Aren has spent doing various activities on the flight.",
+    "He spends 2 hours reading.",
+    "He spends 4 hours watching two movies.",
+    "He spends 30 minutes eating his dinner.",
+    "He spends 40 minutes listening to the radio.",
+    "He spends 1 hour 10 minutes playing games.",
+    "Now, I'll calculate the total sum of these times.",
+    "Adding the hours first, he spends 2 + 4 + 1 = 7 hours.",
+    "Now, let's add the minutes: 30 minutes + 40 minutes + 10 minutes = 80 minutes.",
+    "80 minutes is equivalent to 1 hour and 20 minutes.",
+    "Now combine the total hours and minutes: 7 hours + 1 hour and 20 minutes = 8 hours and 20 minutes.",
+    "The total time of the flight is 11 hours and 20 minutes.",
+    "To find the nap time, I subtract the time spent on activities from the total flight time: 11 hours 20 minutes - 8 hours 20 minutes.",
+    "Subtracting hours: 11 - 8 = 3 hours.",
+    "Subtracting minutes: 20 minutes - 20 minutes = 0 minutes.",
+    "Aren has 3 hours left to take a nap."
+  ],
+  "solution": "3"
+}

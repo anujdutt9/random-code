@@ -1,0 +1,18 @@
+{
+  "query": "Rachel is stuffing envelopes. She has eight hours to complete the task, and there are 1,500 envelopes. In the first hour, Rachel stuffs 135 envelopes. The second hour she stuffs 141 envelopes. How many envelopes will Rachel need to stuff per hour to finish the job?",
+  "steps": [
+    "Rachel has already stuffed 135 envelopes in the first hour.",
+    "In the second hour, Rachel stuffs 141 envelopes.",
+    "Now, let's calculate the total number of envelopes she has stuffed in the first two hours.",
+    "135 envelopes (first hour) + 141 envelopes (second hour) = 276 envelopes.",
+    "Rachel has a total of 1,500 envelopes to stuff.",
+    "Subtract the number of envelopes already stuffed from the total to find out how many are left.",
+    "1,500 total envelopes - 276 already stuffed envelopes = 1,224 envelopes left.",
+    "Rachel has 8 hours in total to finish the task, but has already used 2 hours.",
+    "8 total hours - 2 hours used = 6 hours remaining.",
+    "We need to find out how many envelopes per hour Rachel needs to stuff with the remaining 1,224 envelopes in the remaining 6 hours.",
+    "Divide the remaining number of envelopes by the number of remaining hours.",
+    "1,224 envelopes \u00f7 6 hours = 204 envelopes per hour."
+  ],
+  "solution": "204"
+}

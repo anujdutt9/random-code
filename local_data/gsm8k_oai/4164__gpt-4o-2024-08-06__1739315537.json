@@ -1,0 +1,20 @@
+{
+  "query": "One kilogram of tomatoes is 20% cheaper than one kilogram of cucumbers. One kilogram of cucumbers costs $5. What is the price of two kilograms of tomatoes and three kilograms of cucumbers?",
+  "steps": [
+    "First, I need to find the price of one kilogram of tomatoes.",
+    "I'm given that one kilogram of cucumbers costs $5.",
+    "Tomatoes are 20% cheaper than cucumbers.",
+    "To find 20% of the price of cucumbers, I'll calculate 20% of $5.",
+    "Calculate 20% of $5: \\( 0.20 \\times 5 = 1 \\).",
+    "This means tomatoes are $1 cheaper per kilogram than cucumbers.",
+    "Subtract $1 from the price of cucumbers to find the price of tomatoes: \\( 5 - 1 = 4 \\).",
+    "Thus, the price of one kilogram of tomatoes is $4.",
+    "Next, I'll find the cost of two kilograms of tomatoes.",
+    "The cost for two kilograms of tomatoes is: \\( 2 \\times 4 = 8 \\).",
+    "Now, I'll find the cost of three kilograms of cucumbers.",
+    "The cost for three kilograms of cucumbers is: \\( 3 \\times 5 = 15 \\).",
+    "Finally, I'll add the costs of two kilograms of tomatoes and three kilograms of cucumbers to get the total cost.",
+    "Add $8 (tomatoes) and $15 (cucumbers): \\( 8 + 15 = 23 \\)."
+  ],
+  "solution": "23"
+}

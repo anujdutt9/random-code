@@ -1,0 +1,13 @@
+{
+  "query": "Megan is delivering meals on wheels. Out of her 30 clients, 7 need vegan meals, 8 need kosher meals, and three people need meals that are both vegan and kosher. How many meals does Megan deliver that are neither kosher nor vegan?",
+  "steps": [
+    "First, I need to understand the groups involved: 7 clients need vegan meals, 8 need kosher meals, and 3 need both vegan and kosher meals.",
+    "I will use the inclusion-exclusion principle to find the number of people who need either vegan or kosher meals.",
+    "According to the inclusion-exclusion principle: the number of clients needing vegan or kosher meals = (number needing vegan meals) + (number needing kosher meals) - (number needing both vegan and kosher meals).",
+    "Substitute the known values into the equation: 7 (vegan) + 8 (kosher) - 3 (both vegan and kosher) = 12.",
+    "So, 12 clients need either vegan or kosher meals.",
+    "Megan has a total of 30 clients. I need to subtract the number of clients who need either vegan or kosher meals from the total number of clients to find how many meals are neither.",
+    "30 (total clients) - 12 (either vegan or kosher) = 18."
+  ],
+  "solution": "18"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Luca went to a sandwich shop for lunch. The sandwich he bought was normally $8, but he had a coupon for a quarter of the price off. He then upgraded it with sliced avocado for an extra dollar. After adding a drink and a $3 salad, his total lunch bill was $12. How many dollars did Luca pay for his drink?",
+  "steps": [
+    "The original price of the sandwich was $8.",
+    "Luca had a coupon for a quarter of the price off. A quarter of $8 is $8 * 0.25 = $2.",
+    "With the coupon, Luca's sandwich costs $8 - $2 = $6.",
+    "Luca added sliced avocado to the sandwich for an extra $1.",
+    "The new cost of the sandwich with avocado is $6 + $1 = $7.",
+    "Luca also added a drink and a $3 salad to his order.",
+    "His total lunch bill was $12.",
+    "We know the cost of the sandwich with avocado is $7, and the salad is $3.",
+    "Adding the costs of the sandwich and the salad gives $7 + $3 = $10.",
+    "The drink cost can be found by subtracting the total for the sandwich and salad from the total bill: $12 - $10 = $2."
+  ],
+  "solution": "2"
+}

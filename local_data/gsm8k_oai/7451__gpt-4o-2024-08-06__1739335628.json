@@ -1,0 +1,20 @@
+{
+  "query": "A factory decides to stop making cars and start making motorcycles instead. When it made cars, per month, it cost $100 for materials, they could make 4 cars, and they sold each car for $50. Now that they make motorcycles it costs $250 for materials, but they sell 8 of them for $50 each. How much more profit do they make per month selling motorcycles instead of cars?",
+  "steps": [
+    "First, I need to calculate the total revenue from selling cars.",
+    "They sell each car for $50 and make 4 cars per month.",
+    "The total revenue from selling cars is 4 cars * $50 = $200.",
+    "Next, I need to calculate the total cost of making cars.",
+    "The cost for materials when making cars is $100.",
+    "The total profit from selling cars is revenue - cost = $200 - $100 = $100.",
+    "Now, I need to calculate the total revenue from selling motorcycles.",
+    "They sell each motorcycle for $50 and make 8 motorcycles per month.",
+    "The total revenue from selling motorcycles is 8 motorcycles * $50 = $400.",
+    "Next, I need to calculate the total cost of making motorcycles.",
+    "The cost for materials when making motorcycles is $250.",
+    "The total profit from selling motorcycles is revenue - cost = $400 - $250 = $150.",
+    "Now, I need to find out how much more profit they make by selling motorcycles instead of cars.",
+    "The increase in profit is motorcycle profit - car profit = $150 - $100 = $50."
+  ],
+  "solution": "50"
+}

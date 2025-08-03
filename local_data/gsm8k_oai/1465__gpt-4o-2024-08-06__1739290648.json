@@ -1,0 +1,17 @@
+{
+  "query": "Jack goes up three flights of stairs, then down six flights of stairs. If each flight of stairs has 12 steps that each each 8 inches high, how many feet further down is Jack than when he started?",
+  "steps": [
+    "First, calculate how many steps Jack moves up when going up three flights of stairs.",
+    "Three flights of stairs multiplied by 12 steps per flight equals 36 steps up.",
+    "Next, calculate how many steps Jack moves down when going down six flights of stairs.",
+    "Six flights of stairs multiplied by 12 steps per flight equals 72 steps down.",
+    "Now, find the total net movement in steps by subtracting the steps Jack goes up from the steps he goes down.",
+    "72 steps down minus 36 steps up equals 36 steps down.",
+    "Each step is 8 inches high, so calculate the total vertical distance in inches.",
+    "36 steps down multiplied by 8 inches per step equals 288 inches down.",
+    "Convert the total vertical distance from inches to feet.",
+    "There are 12 inches in a foot, so divide 288 inches by 12.",
+    "288 divided by 12 equals 24 feet."
+  ],
+  "solution": "24"
+}

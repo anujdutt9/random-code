@@ -1,0 +1,19 @@
+{
+  "query": "In Rodrigo's classroom in the morning there are red chairs, yellow chairs, and blue chairs. There are 4 red chairs. There are 2 times as many yellow chairs as red chairs, and there are 2 fewer blue chairs than yellow chairs. In the afternoon, Lisa borrows 3 chairs.  How many chairs are left in Rodrigo's classroom?",
+  "steps": [
+    "First, I need to determine how many yellow chairs there are. It says there are 2 times as many yellow chairs as red chairs.",
+    "There are 4 red chairs.",
+    "If there are 2 times as many yellow chairs as red chairs, then the number of yellow chairs is 2 * 4.",
+    "2 * 4 = 8, so there are 8 yellow chairs.",
+    "Next, I need to determine how many blue chairs there are. It says there are 2 fewer blue chairs than yellow chairs.",
+    "Since there are 8 yellow chairs, the number of blue chairs is 8 - 2.",
+    "8 - 2 = 6, so there are 6 blue chairs.",
+    "Now, I have the total number of chairs in the morning: red chairs, yellow chairs, and blue chairs.",
+    "Red chairs: 4, Yellow chairs: 8, Blue chairs: 6",
+    "The total number of chairs is 4 + 8 + 6.",
+    "4 + 8 + 6 = 18, so there are 18 chairs in total in the morning.",
+    "In the afternoon, Lisa borrows 3 chairs, so I need to subtract 3 from the total.",
+    "18 - 3 = 15"
+  ],
+  "solution": "15"
+}

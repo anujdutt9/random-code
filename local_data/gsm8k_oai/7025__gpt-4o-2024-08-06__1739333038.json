@@ -1,0 +1,19 @@
+{
+  "query": "Voldemort had his dinner and ate a piece of cake that has 110 calories. He also ate 1 pack of chips that contained 310 calories and drank a 500 ml bottle of coke that has 215 calories. His caloric intake for breakfast and lunch is 560 and 780 calories, respectively. If he has a 2500 calorie intake limit per day, how many calories can he still take?",
+  "steps": [
+    "First, I'll calculate the total caloric intake from the dinner.",
+    "The cake has 110 calories.",
+    "The chips have 310 calories.",
+    "The coke has 215 calories.",
+    "Adding these together, the caloric intake from dinner is 110 + 310 + 215 = 635 calories.",
+    "Next, I'll add the caloric intake from breakfast and lunch.",
+    "Breakfast has 560 calories and lunch has 780 calories.",
+    "Adding these, the total caloric intake from breakfast and lunch is 560 + 780 = 1340 calories.",
+    "Now, I'll find the total caloric intake for the whole day so far.",
+    "The intake from breakfast, lunch, and dinner is 1340 + 635 = 1975 calories.",
+    "Voldemort's daily calorie intake limit is 2500 calories.",
+    "To find out how many calories he can still take, I'll subtract the total caloric intake from the limit.",
+    "2500 - 1975 = 525 calories"
+  ],
+  "solution": "525"
+}

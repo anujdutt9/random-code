@@ -1,0 +1,12 @@
+{
+  "query": "A bicycle shop owner adds 3 bikes to her stock every week. After 1 month, she had sold 18 bikes but still had 45 bikes in stock. How many bikes did she have originally?",
+  "steps": [
+    "First, I need to determine how many weeks there are in a month. Typically, a month is about 4 weeks long.",
+    "The bicycle shop owner adds 3 bikes to her stock each week. So, in 4 weeks, she adds 3 bikes/week * 4 weeks = 12 bikes.",
+    "After 1 month, she had sold 18 bikes and still had 45 bikes in stock.",
+    "If she sold 18 bikes, I should add these sold bikes to the current stock to see how many bikes she had at the end of the month before selling these 18 bikes. 45 bikes + 18 bikes = 63 bikes.",
+    "At the beginning of the month, she added 12 additional bikes to her original stock over the 4 weeks. I should subtract these 12 bikes that were added to calculate how many bikes she originally had.",
+    "63 bikes (total before sale) - 12 bikes (added during the month) = 51 bikes."
+  ],
+  "solution": "51"
+}

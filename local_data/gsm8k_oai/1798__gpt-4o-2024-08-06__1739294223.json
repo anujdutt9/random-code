@@ -1,0 +1,18 @@
+{
+  "query": "John injures his shoulder while lifting weights.  After the injury, his bench press goes down 80%.  After a bit of training, he manages to triple the weight he can bench.  If he started with a 500-pound bench press, what is it now?",
+  "steps": [
+    "John initially has a 500-pound bench press.",
+    "Due to the injury, his bench press goes down 80%.",
+    "To calculate the 80% reduction, I need to find 80% of 500 pounds.",
+    "80% of 500 pounds is 0.8 * 500 = 400 pounds.",
+    "After the injury, his bench press is reduced by 400 pounds.",
+    "To find his new bench press weight, I subtract 400 pounds from 500 pounds.",
+    "500 - 400 = 100 pounds.",
+    "John's bench press is reduced to 100 pounds after the injury.",
+    "After some training, John manages to triple the weight he can bench.",
+    "To find the new bench press weight after tripling, I multiply 100 pounds by 3.",
+    "100 * 3 = 300 pounds.",
+    "John's bench press is now 300 pounds after tripling the post-injury weight."
+  ],
+  "solution": "300"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "Sue works in a factory and every 30 minutes, a machine she oversees produces 30 cans of soda. How many cans of soda can one machine produce in 8 hours?",
+  "steps": [
+    "First, I need to know how many 30-minute intervals are there in 8 hours.",
+    "There are 60 minutes in an hour, so 8 hours is 8 * 60 = 480 minutes.",
+    "Next, I'll divide the total minutes by the length of each interval: 480 minutes / 30 minutes per interval.",
+    "480 / 30 = 16. So, there are 16 intervals of 30 minutes in 8 hours.",
+    "Each 30-minute interval results in 30 cans of soda being produced.",
+    "Therefore, I'll calculate the total number of cans produced in 16 intervals by multiplying the number of intervals by the number of cans per interval: 16 * 30.",
+    "16 * 30 = 480."
+  ],
+  "solution": "480"
+}

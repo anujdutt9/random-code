@@ -1,0 +1,15 @@
+{
+  "query": "The sum of the ages of two friends, Alma and Melina, is twice the total number of points Alma scored in a test. If Melina is three times as old as Alma, and she is 60, calculate Alma's score in the test?",
+  "steps": [
+    "I start by defining variables for what I need to find. Let \\( A \\) be Alma's age, \\( M \\) be Melina's age, and \\( S \\) be Alma's score in the test.",
+    "According to the problem, Melina's age is three times Alma's age. So, I have the equation \\( M = 3A \\).",
+    "I know Melina's age. It is given as 60. So, \\( M = 60 \\).",
+    "Since \\( M = 3A \\), substituting the value of \\( M \\) gives \\( 60 = 3A \\).",
+    "I solve for Alma's age by dividing both sides of the equation by 3, resulting in \\( A = 20 \\).",
+    "The problem states that the sum of Alma's and Melina\u2019s ages is twice the number of points Alma scored in the test. Translating this into an equation gives \\( A + M = 2S \\).",
+    "I substitute the known values \\( A = 20 \\) and \\( M = 60 \\) into this equation, resulting in \\( 20 + 60 = 2S \\).",
+    "Simplifying the left side gives \\( 80 = 2S \\).",
+    "Solving for \\( S \\), I divide both sides by 2 to get \\( S = 40 \\)."
+  ],
+  "solution": "40"
+}

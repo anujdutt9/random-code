@@ -1,0 +1,11 @@
+{
+  "query": "My dog was born when I was 15 years old. Two years from now, my dog will turn 4 years old. How old am I now?",
+  "steps": [
+    "My dog will turn 4 years old in two years.",
+    "Currently, my dog is 4 - 2 = 2 years old.",
+    "My dog was born when I was 15 years old.",
+    "Since the dog is currently 2 years old, it has been 2 years since the dog was born.",
+    "If I was 15 years old when the dog was born 2 years ago, I must be 15 + 2 = 17 years old now."
+  ],
+  "solution": "17"
+}

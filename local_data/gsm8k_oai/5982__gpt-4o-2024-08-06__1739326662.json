@@ -1,0 +1,14 @@
+{
+  "query": "Ralph watches TV for 4 hours a day from Monday to Friday, and 6 hours a day on Saturday and Sunday. How many hours does Ralph spend watching TV in one week?",
+  "steps": [
+    "First, I need to calculate the total hours Ralph spends watching TV from Monday to Friday.",
+    "He watches TV for 4 hours each day during these five days.",
+    "Multiplying the number of hours per day by the number of weekdays: 4 hours/day * 5 days = 20 hours.",
+    "Next, I need to calculate the total hours Ralph spends watching TV on Saturday and Sunday.",
+    "He watches TV for 6 hours each day during the weekend.",
+    "Multiplying the number of hours per day by the number of weekend days: 6 hours/day * 2 days = 12 hours.",
+    "Finally, I add the hours from the weekdays and the weekend to find the total hours for the week.",
+    "20 hours (Monday to Friday) + 12 hours (Saturday and Sunday) = 32 hours."
+  ],
+  "solution": "32"
+}

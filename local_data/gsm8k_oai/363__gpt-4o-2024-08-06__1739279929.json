@@ -1,0 +1,19 @@
+{
+  "query": "Tony paid $7 for 2 dozen apples and 1 bunch of bananas. Arnold paid $5 for 1 dozen apples and 1 bunch of bananas. How much does a bunch of bananas cost?",
+  "steps": [
+    "Let's introduce variables to represent the costs. Let \"A\" represent the cost of 1 dozen apples, and \"B\" represent the cost of 1 bunch of bananas.",
+    "We have two people: Tony and Arnold.",
+    "Tony paid $7 for 2 dozen apples and 1 bunch of bananas. This gives us the equation: 2A + B = 7.",
+    "Arnold paid $5 for 1 dozen apples and 1 bunch of bananas. This gives us another equation: A + B = 5.",
+    "We now have a system of two equations with two variables:\n1) 2A + B = 7\n2) A + B = 5",
+    "To find the value of B, let's eliminate one of the variables by subtracting the second equation from the first.",
+    "Subtract the second equation from the first: (2A + B) - (A + B) = 7 - 5",
+    "This simplifies to: A = 2",
+    "Now we know that A, the cost of 1 dozen apples, is $2.",
+    "Substitute A = 2 into the second equation: A + B = 5.",
+    "The equation becomes: 2 + B = 5.",
+    "Subtract 2 from both sides to solve for B: B = 5 - 2.",
+    "This simplifies to: B = 3."
+  ],
+  "solution": "3"
+}

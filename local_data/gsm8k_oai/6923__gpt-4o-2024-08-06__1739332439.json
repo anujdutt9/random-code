@@ -1,0 +1,16 @@
+{
+  "query": "Amy is building 2 3 ft long by 3 ft wide garden beds and 2 4ft long by 3 ft wide garden beds.  What is the total sq ft of growing space that she will have?",
+  "steps": [
+    "First, I need to calculate the area of one 3 ft by 3 ft garden bed.",
+    "I calculate the area by multiplying the length by the width: 3 ft * 3 ft = 9 sq ft.",
+    "Amy has 2 garden beds that are each 3 ft long by 3 ft wide, so I need to multiply the area of one bed by 2.",
+    "I multiply 9 sq ft * 2 = 18 sq ft.",
+    "Next, I need to calculate the area of one 4 ft by 3 ft garden bed.",
+    "I calculate the area by multiplying the length by the width: 4 ft * 3 ft = 12 sq ft.",
+    "Amy also has 2 garden beds that are each 4 ft long by 3 ft wide, so I need to multiply the area of one of these beds by 2.",
+    "I multiply 12 sq ft * 2 = 24 sq ft.",
+    "Finally, I add the total area of the 3 ft by 3 ft beds and the 4 ft by 3 ft beds together to get the total growing space.",
+    "18 sq ft + 24 sq ft = 42 sq ft."
+  ],
+  "solution": "42"
+}

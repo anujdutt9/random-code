@@ -1,0 +1,16 @@
+{
+  "query": "Gumball was counting his water intake for the previous week. He checked his list and saw that he had drank 60 liters of water for the week. He drank nine liters of water on Monday, Thursday and Saturday and 8 liters of water on Tuesday, Friday and Sunday. Unfortunately, no data was input on Wednesday. How many liters of water did he drink on Wednesday?",
+  "steps": [
+    "First, I'll list the days and how much water Gumball drank: Monday = 9 liters, Thursday = 9 liters, Saturday = 9 liters, Tuesday = 8 liters, Friday = 8 liters, Sunday = 8 liters. Wednesday is unknown.",
+    "Now I'll add up the water consumed on the days where I have data: 9 (Monday) + 9 (Thursday) + 9 (Saturday) + 8 (Tuesday) + 8 (Friday) + 8 (Sunday).",
+    "First calculate: 9 + 9 = 18.",
+    "Next add the Saturday value: 18 + 9 = 27.",
+    "Now add the water consumed from Tuesday: 27 + 8 = 35.",
+    "Add the water consumed on Friday: 35 + 8 = 43.",
+    "Finally, add Sunday's consumption: 43 + 8 = 51.",
+    "The total amount of water consumed from Monday to Sunday, excluding Wednesday, equals 51 liters.",
+    "Given that the total water intake for the entire week was 60 liters, I will subtract the known total from 60 to find out how much water Gumball drank on Wednesday: 60 - 51.",
+    "Compute the difference: 60 - 51 = 9."
+  ],
+  "solution": "9"
+}

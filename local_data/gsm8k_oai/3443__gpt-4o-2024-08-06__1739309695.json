@@ -1,0 +1,18 @@
+{
+  "query": "Hannah is trying to figure out how much she'll get paid this week. She makes $30/hour and works 18 hours per week. Her pay is docked $5 each time she's late. If she was late 3 times this week, how much does she get paid?",
+  "steps": [
+    "Hannah earns $30 for each hour she works.",
+    "She works 18 hours in a week.",
+    "To find her total earnings before any deductions, I need to multiply her hourly wage by the number of hours she worked: 30 * 18.",
+    "30 multiplied by 18 equals 540.",
+    "Hannah's earnings before any docking are $540.",
+    "Each time she is late, she gets docked $5.",
+    "She was late 3 times this week.",
+    "To find the total amount she gets docked, I need to multiply the number of times she was late by the dock penalty: 3 * 5.",
+    "3 multiplied by 5 equals 15.",
+    "Hannah's total docking for being late is $15.",
+    "To find her final pay, I need to subtract the total docking from her earnings before any deductions: 540 - 15.",
+    "540 minus 15 equals 525."
+  ],
+  "solution": "525"
+}

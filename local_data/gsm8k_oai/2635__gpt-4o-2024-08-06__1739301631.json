@@ -1,0 +1,16 @@
+{
+  "query": "John and his two brothers decide to split the cost of an apartment.  It is 40% more expensive than John's old apartment which costs $1200 per month.  How much does John save per year by splitting the apartment compared to living alone?",
+  "steps": [
+    "First, I need to find out how much the new apartment costs per month.",
+    "The new apartment is 40% more expensive than John's old apartment, which costs $1200 per month.",
+    "40% of $1200 is $1200 * 0.40 = $480.",
+    "The cost of the new apartment per month is $1200 + $480 = $1680.",
+    "Next, I need to find out John's share of the rent for the new apartment. Since there are three brothers, they each pay an equal share.",
+    "John's share is $1680 / 3 = $560 per month.",
+    "Now, I need to calculate the monthly savings for John by comparing his old apartment cost to his share of the new apartment.",
+    "John's monthly savings is $1200 (old cost) - $560 (new share) = $640.",
+    "Finally, I need to calculate John's annual savings by multiplying the monthly savings by 12 months.",
+    "John's annual savings is $640 per month * 12 months = $7680."
+  ],
+  "solution": "7680"
+}

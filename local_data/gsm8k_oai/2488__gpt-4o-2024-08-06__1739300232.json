@@ -1,0 +1,23 @@
+{
+  "query": "Timothy and Theresa go to the movies very often. Timothy went to the movies 7 more times in 2010 that he did in 2009. In 2009, Timothy went to the movies 24 times.\u00a0In 2010 Theresa went to see twice as many movies as Timothy did, but in 2009, she only saw half as many as he did. How many movies did Timothy and Theresa go on in both 2009 and 2010?",
+  "steps": [
+    "In 2009, Timothy went to the movies 24 times.",
+    "It is given that Timothy went to the movies 7 more times in 2010 than in 2009.",
+    "To find out how many times Timothy went to the movies in 2010, I should add 7 to the 24 times he went in 2009.",
+    "24 (times in 2009) + 7 = 31. Therefore, Timothy went to the movies 31 times in 2010.",
+    "In 2009, Theresa went to see half as many movies as Timothy. Timothy saw 24 movies in 2009.",
+    "To find out how many times Theresa went to the movies in 2009, I should calculate half of 24.",
+    "Half of 24 is 24 / 2 = 12. Therefore, Theresa went to the movies 12 times in 2009.",
+    "In 2010, Theresa went to see twice as many movies as Timothy did in 2010.",
+    "So, I need to calculate twice the number of movies Timothy saw in 2010, which is 31.",
+    "Twice of 31 is 31 * 2 = 62. Therefore, Theresa went to the movies 62 times in 2010.",
+    "Now, I need to calculate the total number of times Timothy and Theresa went to the movies in both 2009 and 2010.",
+    "First, I'll calculate their combined total for 2009. Timothy went 24 times, and Theresa went 12 times in 2009.",
+    "24 + 12 = 36. So, in 2009, they went to the movies 36 times together.",
+    "Next, I'll calculate their combined total for 2010. Timothy went 31 times, and Theresa went 62 times in 2010.",
+    "31 + 62 = 93. So, in 2010, they went to the movies 93 times together.",
+    "Finally, I'll add the totals from 2009 and 2010 to find how many movies Timothy and Theresa went on in both years.",
+    "36 (from 2009) + 93 (from 2010) = 129."
+  ],
+  "solution": "129"
+}

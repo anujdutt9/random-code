@@ -1,0 +1,16 @@
+{
+  "query": "Leah bought 3 boxes of birdseed. When she went to put them away, she discovered that she already had 5 boxes in the pantry. Her parrot eats 100 grams of seeds each week and her cockatiel eats 50 grams of seeds in a week. If each box of birdseed contains 225 grams, for how many weeks can she feed her birds without going back to the store?",
+  "steps": [
+    "Leah originally had 5 boxes of birdseed in the pantry.",
+    "She bought 3 additional boxes.",
+    "The total number of boxes she has now is 5 + 3 = 8 boxes.",
+    "Each box contains 225 grams of birdseed.",
+    "The total grams of seeds available is 8 boxes * 225 grams/box = 1800 grams.",
+    "The parrot eats 100 grams of seeds each week.",
+    "The cockatiel eats 50 grams of seeds each week.",
+    "The total consumption of seeds by the birds per week is 100 grams + 50 grams = 150 grams.",
+    "To find out how many weeks Leah can feed her birds, divide the total grams of seeds by the total weekly consumption: 1800 grams / 150 grams/week.",
+    "1800 / 150 equals 12 weeks."
+  ],
+  "solution": "12"
+}

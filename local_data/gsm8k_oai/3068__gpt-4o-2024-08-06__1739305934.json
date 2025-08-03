@@ -1,0 +1,17 @@
+{
+  "query": "A store is selling mobile phones. This store contains 20 units of phones but the owner found out that there were 5 defective units. After he got rid of the defective units, he started to sell the rest of his units to customer A who bought 3 units, customer B who bought a certain amount of units, and customer C who bought 7 units. In the end, all non-defective units were sold. How many units were sold to Customer B?",
+  "steps": [
+    "First, determine the total number of non-defective phones by subtracting the defective units from the total units.",
+    "There are 20 units in total and 5 defective units.",
+    "20 units - 5 defective units = 15 non-defective units.",
+    "Now I know there are 15 non-defective units available for sale.",
+    "Customer A bought 3 units.",
+    "Customer C bought 7 units.",
+    "To find out how many units Customer B bought, I need to find the remainder after accounting for the units sold to customers A and C.",
+    "Subtract the units sold to customers A and C from the total non-defective units.",
+    "3 units (Customer A) + 7 units (Customer C) = 10 units.",
+    "15 non-defective units - 10 units = 5 units.",
+    "Customer B bought 5 units."
+  ],
+  "solution": "5"
+}

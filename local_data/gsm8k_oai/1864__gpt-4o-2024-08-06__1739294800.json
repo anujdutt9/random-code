@@ -1,0 +1,14 @@
+{
+  "query": "In 5 years, Raven will be 4 times as old as Phoebe. If Phoebe is currently 10 years old, how old is Raven?",
+  "steps": [
+    "Phoebe is currently 10 years old.",
+    "In 5 years, Phoebe will be 10 + 5 = 15 years old.",
+    "In 5 years, Raven will be 4 times as old as Phoebe, who will then be 15 years old.",
+    "4 times 15 is 60.",
+    "Therefore, in 5 years, Raven will be 60 years old.",
+    "To find Raven's current age, we need to subtract the 5 years from Raven's future age.",
+    "60 - 5 = 55.",
+    "Therefore, Raven is currently 55 years old."
+  ],
+  "solution": "55"
+}

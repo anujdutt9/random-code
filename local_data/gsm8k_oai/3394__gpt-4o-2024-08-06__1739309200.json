@@ -1,0 +1,18 @@
+{
+  "query": "The government donated tons of sand to four Cities. City A received 16 1/2 tons of sand, City B received 26 tons of sand, and City C received 24 1/2 tons of sand. The supplier lost the data for City D; however, they know the total for all four cities was 95 tons. How many tons of sand did City D receive?",
+  "steps": [
+    "First, I need to understand the total amount of sand donated to all four cities, which is known to be 95 tons.",
+    "City A received 16 1/2 tons of sand, which can be expressed as 16.5 tons.",
+    "City B received 26 tons of sand.",
+    "City C received 24 1/2 tons of sand, which is equivalent to 24.5 tons.",
+    "Now, I need to add the amounts of sand received by City A, City B, and City C in order to find the total amount received by these three cities.",
+    "Let's calculate: 16.5 tons (City A) + 26 tons (City B) + 24.5 tons (City C).",
+    "First, I add 16.5 and 26, which equals 42.5.",
+    "Next, I add 42.5 and 24.5, which equals 67.",
+    "The total amount of sand received by City A, City B, and City C is 67 tons.",
+    "To find how much sand City D received, I subtract the total received by the other cities from the overall total.",
+    "Thus, I calculate: 95 tons (total for all cities) - 67 tons (total for City A, B, and C).",
+    "95 - 67 equals 28 tons."
+  ],
+  "solution": "28"
+}

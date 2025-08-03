@@ -1,0 +1,22 @@
+{
+  "query": "Hortense loves daisies and sunflowers.  She planted 25 daisy seeds and 25 sunflower seeds in her flower bed.  If 60% of the daisy seeds germinate, and 80% of the sunflower seeds germinate, and 80% of the resulting plants produce flowers, how many plants will she grow that produce flowers?",
+  "steps": [
+    "Hortense planted 25 daisy seeds.",
+    "According to the problem, 60% of these daisy seeds germinate.",
+    "To find the number of daisy seeds that germinate, I will calculate 60% of 25.",
+    "60% of 25 is calculated as 0.6 * 25 = 15.",
+    "So, 15 daisy seeds germinate.",
+    "Next, Hortense planted 25 sunflower seeds.",
+    "80% of these sunflower seeds germinate.",
+    "To find the number of sunflower seeds that germinate, I will calculate 80% of 25.",
+    "80% of 25 is calculated as 0.8 * 25 = 20.",
+    "So, 20 sunflower seeds germinate.",
+    "Now, I know 15 daisy plants and 20 sunflower plants germinate.",
+    "According to the problem, 80% of the resulting plants produce flowers.",
+    "First, I'll find the total number of plants that germinated by adding the daisy and sunflower germinated plants together: 15 + 20 = 35 plants.",
+    "I now need to calculate the number of these 35 plants that produce flowers, which is 80% of 35.",
+    "80% of 35 is calculated as 0.8 * 35 = 28.",
+    "Therefore, 28 plants will produce flowers."
+  ],
+  "solution": "28"
+}

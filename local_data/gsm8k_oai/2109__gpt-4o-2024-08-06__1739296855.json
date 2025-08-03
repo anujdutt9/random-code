@@ -1,0 +1,21 @@
+{
+  "query": "A mountain range has 200 active volcanoes. In a particular year, 20% of the volcanoes exploded in the first two months, 40% of the remaining exploded by the half of the year, and at the end of the year, another 50% of the volcanoes that hadn't already erupted also exploded. How many mountains are still intact at the end of the year?",
+  "steps": [
+    "First, I need to determine how many volcanoes exploded in the first two months. There are 200 active volcanoes, and 20% of them exploded.",
+    "20% of 200 is calculated as 0.2 * 200 = 40.",
+    "So, 40 volcanoes exploded in the first two months.",
+    "Next, I need to find out how many volcanoes remained after the first two months. This would be the total number of volcanoes minus those that exploded.",
+    "200 - 40 = 160 volcanoes remained after the first two months.",
+    "Of these remaining 160 volcanoes, 40% exploded by the half of the year.",
+    "40% of 160 is calculated as 0.4 * 160 = 64.",
+    "So, 64 more volcanoes exploded by the half of the year.",
+    "Now, I need to find out how many volcanoes are left that have not exploded by midyear.",
+    "160 - 64 = 96 volcanoes remained after midyear.",
+    "Finally, of these 96 remaining volcanoes, another 50% exploded by the end of the year.",
+    "50% of 96 is calculated as 0.5 * 96 = 48.",
+    "So, 48 more volcanoes exploded by the end of the year.",
+    "Now, I need to find out how many volcanoes are still intact after the entire year.",
+    "96 - 48 = 48 volcanoes remained intact after the end of the year."
+  ],
+  "solution": "48"
+}

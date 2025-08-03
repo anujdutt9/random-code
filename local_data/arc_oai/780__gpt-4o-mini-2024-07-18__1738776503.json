@@ -1,0 +1,11 @@
+{
+  "query": "Question: A perpetual motion machine is a theoretical device which, once started, continues to operate without any additional input of energy. Which statement describes why a perpetual motion machine is impossible to design?\n\nChoices:\nA: Energy can be converted into mass.\nB: Friction reduces the efficiency in a system.\nC: The amount of energy in a system remains constant.\nD: Potential energy can be converted into kinetic energy.",
+  "steps": [
+    "A perpetual motion machine violates the laws of thermodynamics, specifically the first and second laws. The first law, which is the law of conservation of energy, states that energy cannot be created or destroyed, only converted from one form to another.",
+    "A perpetual motion machine would require that energy be created continuously from nothing, contradicting the first law. Thus, it cannot operate indefinitely without an external energy source.",
+    "The second law of thermodynamics states that in an isolated system, processes occur in the direction of increased entropy, meaning that energy conversions are not 100% efficient and some energy is always lost as waste (often as heat).",
+    "Among the answer choices, option B highlights the issue of efficiency being reduced due to friction, which is a significant factor leading to energy loss in any mechanical system, thus making perpetual motion impossible.",
+    "While option C mentions the conservation of energy, which is a fundamental reason for the impossibility of perpetual motion, it misses the critical distillation that reasoning about efficiency losses brings."
+  ],
+  "solution": "B"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Tony tries to drink more water, so he has been tracking how much water he drinks. Yesterday, he drank 48 ounces of water, which is 4% less than what he drank two days ago. How much water did Tony drink two days ago?",
+  "steps": [
+    "Tony drank 48 ounces of water yesterday.",
+    "This amount is 4% less than what he drank two days ago.",
+    "Let's calculate how much water he drank two days ago.",
+    "If 48 ounces is 4% less than the amount two days ago, it means two days ago he drank 100% of the water, and yesterday he drank 96% of that amount.",
+    "Let's denote the amount of water he drank two days ago as x.",
+    "So, 96% of x is equal to 48 ounces.",
+    "We can write the equation as \\(0.96 \\times x = 48\\).",
+    "To find x, we need to divide 48 by 0.96.",
+    "Performing the division gives us \\(x = \\frac{48}{0.96}\\).",
+    "Calculating \\(\\frac{48}{0.96}\\) results in 50.",
+    "Therefore, Tony drank 50 ounces of water two days ago."
+  ],
+  "solution": "50"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "Jerry is writing a script for a skit with three characters. The first character has eight more lines than the second character. The third character only has two lines. The second character has six more than three times the number of lines the third character has. How many lines does the first character in Jerry\u2019s skit script have?",
+  "steps": [
+    "First, I need to define variables for the numbers of lines each character has. Let me use L1 for the first character, L2 for the second character, and L3 for the third character.",
+    "I know that the third character, L3, has 2 lines. So L3 = 2.",
+    "The problem states that the second character has six more than three times the number of lines the third character has. I need to write an equation to represent this: L2 = 3 * L3 + 6.",
+    "Substituting L3 = 2 into the equation for L2 gives L2 = 3 * 2 + 6.",
+    "Calculating this, L2 = 6 + 6 = 12. So, the second character has 12 lines.",
+    "The first character has eight more lines than the second character. So, the equation for the first character is L1 = L2 + 8.",
+    "Substituting L2 = 12 into the equation for L1 gives L1 = 12 + 8.",
+    "Calculating this, L1 = 20."
+  ],
+  "solution": "20"
+}

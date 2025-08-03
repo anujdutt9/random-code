@@ -1,0 +1,24 @@
+{
+  "query": "Tirzah has a lot of purses and handbags; in total she has 26 purses and 24 handbags. Half the purses and 1/4 the handbags are fake. If the rest are authentic, how many purses and handbags in total are genuine?",
+  "steps": [
+    "I need to find out how many purses are fake.",
+    "Tirzah has 26 purses in total.",
+    "Half of the purses are fake.",
+    "Calculate how many fake purses there are: 26 divided by 2 equals 13.",
+    "So, there are 13 fake purses.",
+    "Next, I need to find out how many handbags are fake.",
+    "Tirzah has 24 handbags in total.",
+    "1/4 of the handbags are fake.",
+    "Calculate how many fake handbags there are: 1/4 of 24 equals 6.",
+    "So, there are 6 fake handbags.",
+    "Now, I need to find out how many purses are genuine.",
+    "Subtract the number of fake purses from the total number of purses: 26 minus 13 equals 13.",
+    "So, there are 13 genuine purses.",
+    "Now, I need to find out how many handbags are genuine.",
+    "Subtract the number of fake handbags from the total number of handbags: 24 minus 6 equals 18.",
+    "So, there are 18 genuine handbags.",
+    "Finally, I need to find out the total number of genuine purses and handbags.",
+    "Add the number of genuine purses and genuine handbags: 13 plus 18 equals 31."
+  ],
+  "solution": "31"
+}

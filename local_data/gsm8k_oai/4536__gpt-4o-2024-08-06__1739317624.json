@@ -1,0 +1,19 @@
+{
+  "query": "Every Sunday John is allowed to watch cartoons. However, for every 10 minutes of cartoons, he has to do 8 minutes of chores. If he watches cartoons for 2 hours, how many minutes of chores does he have to do?",
+  "steps": [
+    "John watches cartoons every Sunday.",
+    "He watches cartoons for 2 hours.",
+    "We need to convert 2 hours into minutes, as the chores are in minutes.",
+    "There are 60 minutes in an hour.",
+    "So, 2 hours equals 2 * 60 minutes.",
+    "2 * 60 equals 120 minutes.",
+    "John watches cartoons for 120 minutes.",
+    "For every 10 minutes of cartoons, he has to do 8 minutes of chores.",
+    "We need to find out how many 10-minute intervals there are in 120 minutes.",
+    "120 minutes divided by 10 minutes per interval equals 12 intervals.",
+    "For each interval, he does 8 minutes of chores.",
+    "So, we multiply 12 intervals by 8 minutes of chores per interval.",
+    "12 times 8 equals 96."
+  ],
+  "solution": "96"
+}

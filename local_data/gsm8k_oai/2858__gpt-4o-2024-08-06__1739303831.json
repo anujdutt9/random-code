@@ -1,0 +1,20 @@
+{
+  "query": "My mother celebrated her birthday with a total of 60 guests. Half of the guests are women, 15 are men, and the rest are children. In the middle of the celebration, 1/3 of the men and 5 children left. How many people stayed and enjoyed the birthday celebration?",
+  "steps": [
+    "First, I need to find out how many women were at the celebration. Since half of the guests are women, I calculate half of 60.",
+    "60 divided by 2 equals 30. So, there are 30 women at the celebration.",
+    "It is stated that there are 15 men at the celebration.",
+    "I need to determine how many children were there initially. I start by adding the number of women (30) and men (15) together to know how many of these adults are present at the celebration.",
+    "30 plus 15 equals 45. So, there are 45 adults at the celebration.",
+    "To find out how many children there are, I subtract the number of adults (45) from the total number of guests (60).",
+    "60 minus 45 equals 15. So, there are 15 children at the celebration initially.",
+    "Next, I find out how many men left the celebration. It is given that 1/3 of the men left.",
+    "1/3 of 15 men equals 5. So, 5 men left the celebration.",
+    "In addition, 5 children left the celebration.",
+    "I calculate the total number of guests who left by adding the 5 men and the 5 children who left.",
+    "5 plus 5 equals 10. So, 10 guests left the celebration.",
+    "Finally, I calculate how many people remained at the celebration. I subtract the number of people who left (10) from the initial total number of guests (60).",
+    "60 minus 10 equals 50. So, 50 people stayed and enjoyed the birthday celebration."
+  ],
+  "solution": "50"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Yasmin deposited a $50 birthday check from her grandmother in her bank account. The check was worth a quarter of her new balance after the check money is added. How many dollars were in her account before she deposited the check?",
+  "steps": [
+    "First, I need to understand what is being asked: Yasmin deposited a check that was a quarter of her new balance. I need to find her original balance before depositing the check.",
+    "Let's call Yasmin's original balance before the deposit \"x\".",
+    "The check was worth $50, so after depositing the check, her new balance was \"x + 50\".",
+    "The problem states that the check amount $50 is equal to a quarter of her new balance.",
+    "I can set up the equation: \\( 50 = \\frac{1}{4} \\times (x + 50) \\).",
+    "To eliminate the fraction, I will multiply both sides of the equation by 4: \\( 4 \\times 50 = x + 50 \\).",
+    "This simplifies to: \\( 200 = x + 50 \\).",
+    "I will now solve for x by subtracting 50 from both sides: \\( 200 - 50 = x \\).",
+    "This simplifies to: \\( x = 150 \\).",
+    "To ensure my calculations are correct, I'll check: If the original balance was $150, the new balance after depositing the check would be \\( 150 + 50 = 200 \\). A quarter of 200 is indeed 50, which matches the check's amount."
+  ],
+  "solution": "150"
+}

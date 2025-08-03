@@ -1,0 +1,14 @@
+{
+  "query": "The fifth grade class at Rosa Parks Elementary School is holding a food drive. Half the students in Ms. Perez's class collected 12 cans each, two students didn't collect any, and the remaining 13 students students each collected 4 cans. If Ms. Perez's class has 30 students, how many cans did they collect total?",
+  "steps": [
+    "First, I need to determine how many students collected 12 cans each. Since half the students in Ms. Perez's class collected 12 cans, I divide the total number of students by 2.",
+    "Ms. Perez's class has 30 students, so dividing by 2 gives 15 students who collected 12 cans each.",
+    "Next, I calculate the total number of cans collected by these 15 students. If each collected 12 cans, then 15 students multiplied by 12 cans equals 180 cans.",
+    "I know that 2 students didn't collect any cans. Therefore, they contribute 0 cans to the total tally.",
+    "The problem states there are 13 remaining students. Since I already accounted for the 15 students who collected 12 cans, adding the 2 students who didn't collect any, these 13 must be the remaining students.",
+    "These 13 remaining students collected 4 cans each. So, I multiply 13 students by 4 cans to find that group collected 52 cans.",
+    "The total number of cans collected is the sum of the cans collected by all groups: 180 cans from the first group, 0 from the students who didn't collect, and 52 from the last group.",
+    "Adding them together: 180 + 0 + 52 equals 232."
+  ],
+  "solution": "232"
+}

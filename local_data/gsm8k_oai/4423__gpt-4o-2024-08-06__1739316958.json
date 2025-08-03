@@ -1,0 +1,20 @@
+{
+  "query": "Monica and Michelle are combining their money to throw a party. Monica brings $15. Michelle brings $12. The cake costs 15 dollars, and soda is $3 a bottle. Each bottle of soda has 12 servings and they buy as many bottles of soda as they can afford. If there are 8 total guests, how many servings of soda does each get?",
+  "steps": [
+    "First, I need to add the money that Monica and Michelle are bringing.",
+    "Monica brings $15 and Michelle brings $12.",
+    "$15 + $12 = $27 total combined money.",
+    "Next, I subtract the cost of the cake from their total money.",
+    "The cake costs $15.",
+    "$27 - $15 = $12 remaining for soda.",
+    "Each bottle of soda costs $3.",
+    "To find out how many bottles of soda they can buy, I divide the remaining money by the cost per bottle.",
+    "$12 \u00f7 $3 = 4 bottles of soda.",
+    "Each bottle provides 12 servings.",
+    "4 bottles \u00d7 12 servings per bottle = 48 total servings of soda.",
+    "There are 8 guests.",
+    "To find how many servings each guest gets, I divide the total servings by the number of guests.",
+    "48 servings \u00f7 8 guests = 6 servings per guest."
+  ],
+  "solution": "6"
+}

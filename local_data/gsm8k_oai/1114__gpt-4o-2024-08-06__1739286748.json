@@ -1,0 +1,17 @@
+{
+  "query": "Jeff makes 10 donuts each day for 12 days. Jeff eats one of the donuts each day. Chris then comes over and eats 8 donuts. If 10 donuts fit in each box, how many boxes can Jeff fill with his donuts?",
+  "steps": [
+    "Jeff makes 10 donuts each day.",
+    "He does this for 12 days.",
+    "So, the total number of donuts Jeff makes is 10 donuts/day * 12 days = 120 donuts.",
+    "Jeff eats 1 donut each day.",
+    "So, in 12 days, Jeff eats 1 donut/day * 12 days = 12 donuts.",
+    "The number of donuts left after Jeff eats is 120 donuts - 12 donuts = 108 donuts.",
+    "Chris then eats 8 donuts.",
+    "So the number of donuts left after Chris eats is 108 donuts - 8 donuts = 100 donuts.",
+    "10 donuts fit in each box.",
+    "I need to find out how many boxes can be filled with 100 donuts.",
+    "I divide the total number of donuts by the number of donuts that fit in each box: 100 donuts \u00f7 10 donuts/box = 10 boxes."
+  ],
+  "solution": "10"
+}

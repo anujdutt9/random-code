@@ -1,0 +1,19 @@
+{
+  "query": "Out of the 120 people who attended the party, 1/3 are men while half are women. The rest are children. How many children attended the party?",
+  "steps": [
+    "I start by identifying the total number of people at the party, which is given as 120.",
+    "Next, I find how many of the attendees are men. It is given that 1/3 of the attendees are men.",
+    "To find the number of men, I calculate 1/3 of 120.",
+    "1/3 of 120 is calculated as 120 / 3, which equals 40.",
+    "So, there are 40 men at the party.",
+    "Next, I need to determine how many are women. It is given that half of the attendees are women.",
+    "To find the number of women, I calculate 1/2 of 120.",
+    "1/2 of 120 equals 60.",
+    "So, there are 60 women at the party.",
+    "At this point, I know there are 40 men and 60 women at the party. I add these numbers to find the total number of men and women.",
+    "40 (men) + 60 (women) equals 100.",
+    "To find the number of children, I subtract the combined number of men and women from the total number of attendees.",
+    "120 (total attendees) - 100 (men and women) equals 20."
+  ],
+  "solution": "20"
+}

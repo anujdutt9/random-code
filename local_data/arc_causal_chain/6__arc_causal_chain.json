@@ -1,0 +1,9 @@
+{
+    "id": 6,
+    "query": "Question: How do coal and the sun compare as sources of energy?\n\nChoices:\nA: Coal is renewable, and the sun is renewable.\nB: Coal is renewable, and the sun is nonrenewable.\nC: Coal is nonrenewable, and the sun is renewable.\nD: Coal is nonrenewable, and the sun is nonrenewable.",
+    "solution": "C",
+    "style_name": "form_3_causal_chain",
+    "steps": [
+        "If coal takes millions of years to form, then it is nonrenewable. If the sun produces energy continuously, then it is renewable. Therefore, coal is nonrenewable and the sun is renewable."
+    ]
+}

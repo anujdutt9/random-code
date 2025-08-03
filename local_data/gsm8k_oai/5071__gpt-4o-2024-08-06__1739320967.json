@@ -1,0 +1,15 @@
+{
+  "query": "A football club has a balance of $100 million. The club then sells 2 of its players at $10 million each, and buys 4 more at $15 million each. How much money is left in the club register in millions of dollars?",
+  "steps": [
+    "The club starts with a balance of $100 million.",
+    "The club sells 2 players at $10 million each.",
+    "2 players sold at $10 million each equals $20 million.",
+    "Add the $20 million from selling the players to the initial $100 million balance.",
+    "$100 million + $20 million = $120 million.",
+    "The club then buys 4 players at $15 million each.",
+    "4 players bought at $15 million each equals $60 million.",
+    "Subtract the $60 million spent on buying players from the current balance of $120 million.",
+    "$120 million - $60 million = $60 million."
+  ],
+  "solution": "60"
+}

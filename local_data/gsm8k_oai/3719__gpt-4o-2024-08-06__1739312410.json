@@ -1,0 +1,15 @@
+{
+  "query": "Georgia is working on a math test with 75 problems on it. After 20 minutes she has completed 10 problems. After another 20 minutes, she has completed twice as many problems. She has 40 minutes to complete the rest of the test. How many problems does she have left to solve?",
+  "steps": [
+    "Georgia initially completed 10 problems in the first 20 minutes.",
+    "After another 20 minutes, she completed twice as many problems as she did in the first 20 minutes.",
+    "Twice as many as 10 problems is 20 problems.",
+    "So, in the next 20 minutes, Georgia completed 20 additional problems.",
+    "In total, she completed 10 + 20 = 30 problems in the first 40 minutes.",
+    "The test has 75 problems in total.",
+    "Georgia has already completed 30 problems.",
+    "To find out how many problems are left, subtract the number of completed problems from the total.",
+    "75 - 30 = 45 problems are left to solve."
+  ],
+  "solution": "45"
+}

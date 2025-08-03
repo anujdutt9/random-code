@@ -1,0 +1,15 @@
+{
+  "query": "Sunnyvale School was having a picnic. They wanted to make fruit punch. They had 4.5 liters of orange punch. They had twice as much cherry punch as orange punch and 1.5 liters less of apple juice than cherry punch. When they combined all of the fruit juices together, how many liters of fruit punch did they have?",
+  "steps": [
+    "The amount of orange punch is given as 4.5 liters.",
+    "The amount of cherry punch is twice the amount of orange punch. So, I need to calculate 2 times 4.5 liters.",
+    "2 times 4.5 liters is 9 liters. Therefore, they have 9 liters of cherry punch.",
+    "The amount of apple juice is 1.5 liters less than the cherry punch. So, I need to subtract 1.5 liters from 9 liters.",
+    "9 liters minus 1.5 liters is 7.5 liters. Hence, they have 7.5 liters of apple juice.",
+    "To find the total amount of fruit punch, I need to add up all the different punches: orange, cherry, and apple.",
+    "The total amount is 4.5 liters (orange punch) + 9 liters (cherry punch) + 7.5 liters (apple juice).",
+    "4.5 liters + 9 liters is 13.5 liters.",
+    "13.5 liters + 7.5 liters is 21 liters."
+  ],
+  "solution": "21"
+}

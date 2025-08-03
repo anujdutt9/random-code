@@ -1,0 +1,15 @@
+{
+  "query": "Cody was reading through his favorite book series.  The series was 54 books in total.  If Cody read 6 books the first week, and 3 books the second week and then 9 books every week after that.  How many weeks did it take Cody to read his series?",
+  "steps": [
+    "Cody read 6 books in the first week.",
+    "Cody read 3 books in the second week.",
+    "In total, after the first two weeks, Cody read 6 + 3 = 9 books.",
+    "The series has 54 books in total. So, Cody still needs to read 54 - 9 = 45 books.",
+    "Cody reads 9 books each week after the first two weeks.",
+    "To determine how many additional weeks it takes to read the remaining 45 books, I divide 45 by 9.",
+    "45 \u00f7 9 = 5, so it takes Cody 5 more weeks to read the remaining books.",
+    "Cody spent 2 weeks to read the first 9 books.",
+    "Adding the 5 additional weeks, Cody took 2 + 5 = 7 weeks in total."
+  ],
+  "solution": "7"
+}

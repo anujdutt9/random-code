@@ -1,0 +1,16 @@
+{
+  "query": "Sam memorized six more digits of pi than Carlos memorized. Mina memorized six times as many digits of pi as Carlos memorized. If Mina memorized 24 digits of pi, how many digits did Sam memorize?",
+  "steps": [
+    "First, I need to find out how many digits of pi Carlos memorized.",
+    "Mina memorized 24 digits, and this is six times the number of digits Carlos memorized.",
+    "Let C be the number of digits Carlos memorized. So \\( 6 \\times C = 24 \\).",
+    "I will solve for C by dividing both sides by 6: \\( C = 24 / 6 \\).",
+    "Performing the division gives \\( C = 4 \\). So, Carlos memorized 4 digits of pi.",
+    "Now, I need to find out how many digits Sam memorized.",
+    "According to the problem, Sam memorized six more digits than Carlos.",
+    "Since Carlos memorized 4 digits, Sam memorized \\( 4 + 6 \\) digits.",
+    "Adding these values gives \\( 4 + 6 = 10 \\).",
+    "Thus, Sam memorized 10 digits of pi."
+  ],
+  "solution": "10"
+}

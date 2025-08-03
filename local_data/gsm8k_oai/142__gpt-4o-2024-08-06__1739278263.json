@@ -1,0 +1,15 @@
+{
+  "query": "A cleaning company produces two sanitizer sprays. One spray kills 50% of germs, and another spray kills 25% of germs. However, 5% of the germs they kill are the same ones. What percentage of germs would be left after using both sanitizer sprays together?",
+  "steps": [
+    "First, I need to consider what percentage of germs is killed by each spray.",
+    "The first spray kills 50% of the germs.",
+    "The second spray kills 25% of the germs.",
+    "5% of the germs are killed by both sprays concurrently. This means there is an overlap when using both sprays.",
+    "To find the total percentage of germs killed by using both sprays, I can use the principle of inclusion-exclusion.",
+    "Using the principle of inclusion-exclusion, I calculate the total percentage of germs killed by adding the percentage of germs killed by each spray and then subtracting the percentage of overlapping germs.",
+    "The total percentage of germs killed by both sprays is 50% + 25% - 5% = 70%.",
+    "Now, I need to find out the percentage of germs that remain.",
+    "If 70% of the germs are killed, then 100% - 70% = 30% of the germs are left."
+  ],
+  "solution": "30"
+}

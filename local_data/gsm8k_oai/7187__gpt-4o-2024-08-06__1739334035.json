@@ -1,0 +1,19 @@
+{
+  "query": "There are several cookies in the jar. Taking 1 cookie away would leave half as many in the jar as if 5 were added. How many cookies are in the jar?",
+  "steps": [
+    "Let the initial number of cookies in the jar be \\( x \\).",
+    "If I take 1 cookie away, the number of cookies will be \\( x - 1 \\).",
+    "If I add 5 cookies instead, the number of cookies will be \\( x + 5 \\).",
+    "According to the problem, taking 1 cookie away results in half the number of cookies as adding 5 cookies.",
+    "This means \\( x - 1 = \\frac{1}{2} (x + 5) \\).",
+    "Now, I will solve the equation. First, multiply both sides by 2 to get rid of the fraction:\n\\[ 2(x - 1) = x + 5 \\]",
+    "Distribute the 2 on the left side:\n\\[ 2x - 2 = x + 5 \\]",
+    "Subtract \\( x \\) from both sides to start isolating \\( x \\):\n\\[ 2x - x - 2 = 5 \\]",
+    "Simplify the equation:\n\\[ x - 2 = 5 \\]",
+    "Add 2 to both sides to solve for \\( x \\):\n\\[ x = 7 \\]",
+    "To verify, if there are 7 cookies and I take away 1, there should be 6 cookies left.",
+    "If I instead add 5 to the initial amount, there would be \\( 7 + 5 = 12 \\) cookies.",
+    "Taking away 1 cookie results in 6 cookies, and this is indeed half of 12, which verifies that the calculations are correct."
+  ],
+  "solution": "7"
+}

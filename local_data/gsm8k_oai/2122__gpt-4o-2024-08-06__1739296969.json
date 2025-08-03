@@ -1,0 +1,16 @@
+{
+  "query": "A salon has the same amount of customers every day. Each customer needs 1 can of hairspray during the styling and is also given 1 can of hairspray to take home. The salon also buys an extra 5 cans of hairspray each day to ensure there is never a shortage. If the salon buys 33 cans of hairspray every day, how many customers do they have each day?",
+  "steps": [
+    "Let's start by defining the variables. Let C represent the number of customers the salon has each day.",
+    "Each customer needs 1 can of hairspray during the styling.",
+    "Each customer is given 1 can of hairspray to take home.",
+    "This means each customer requires 2 cans of hairspray in total each day.",
+    "The salon buys an additional 5 cans of hairspray each day to prevent any shortage.",
+    "The salon buys a total of 33 cans of hairspray each day.",
+    "The equation representing the total number of cans needed is 2C + 5 = 33.",
+    "Subtract 5 from both sides of the equation to isolate the term with C: 2C = 28.",
+    "Divide both sides by 2 to solve for C: C = 14.",
+    "Therefore, the salon has 14 customers each day."
+  ],
+  "solution": "14"
+}

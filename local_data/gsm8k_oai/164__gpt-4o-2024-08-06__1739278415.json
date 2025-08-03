@@ -1,0 +1,14 @@
+{
+  "query": "On Monday Buddy has 30 baseball cards. On Tuesday Buddy loses half of them. On Wednesday Buddy buys 12 baseball cards. On Thursday he buys a third of what he had on Tuesday. How many baseball cards does he have on Thursday?",
+  "steps": [
+    "On Monday, Buddy has 30 baseball cards.",
+    "On Tuesday, Buddy loses half of the baseball cards. Half of 30 is 30/2 = 15.",
+    "Thus, on Tuesday, Buddy has 15 baseball cards.",
+    "On Wednesday, Buddy buys 12 more baseball cards.",
+    "Adding the 12 new cards to his Tuesday total, 15 + 12 = 27 baseball cards.",
+    "On Thursday, he buys a third of what he had on Tuesday. He had 15 baseball cards on Tuesday.",
+    "A third of 15 is 15/3 = 5.",
+    "Adding these 5 cards to his Wednesday total gives 27 + 5 = 32 baseball cards."
+  ],
+  "solution": "32"
+}

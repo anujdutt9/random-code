@@ -1,0 +1,15 @@
+{
+  "query": "Darcie is 4 years old. She is 1/6 as old as her mother and her mother is 4/5 as old as her father. How old is her father?",
+  "steps": [
+    "Darcie is 4 years old and is 1/6 as old as her mother.",
+    "Let M represent the age of Darcie's mother.",
+    "Since Darcie is 1/6 as old as her mother, M = 6 * 4.",
+    "Calculating, M = 24. Darcie's mother is 24 years old.",
+    "Her mother is 4/5 as old as her father.",
+    "Let F represent the age of Darcie's father.",
+    "Since Darcie's mother is 4/5 as old as her father, 24 = (4/5) * F.",
+    "To solve for F, multiply both sides by 5/4 to get F alone: F = 24 * (5/4).",
+    "Calculating, F = 24 * 1.25 = 30."
+  ],
+  "solution": "30"
+}

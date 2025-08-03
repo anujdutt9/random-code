@@ -1,0 +1,16 @@
+{
+  "query": "Bryan bought three different bottles of milk. The bottles contain the following volumes of milk: 2 liters, 750 milliliters, 250 milliliters. How many liters of milk did Bryan buy in total?",
+  "steps": [
+    "First, I need to understand the total amount of milk Bryan bought.",
+    "Bryan has three bottles: one with 2 liters, one with 750 milliliters, and one with 250 milliliters.",
+    "To make it easier to add, I'll convert all volumes to the same unit. I will use liters for consistency.",
+    "The first bottle is already in liters: 2 liters.",
+    "The second bottle is 750 milliliters. To convert milliliters to liters, I divide by 1000. So, 750 milliliters is 750 / 1000 = 0.75 liters.",
+    "The third bottle is 250 milliliters. Using the same conversion, 250 milliliters is 250 / 1000 = 0.25 liters.",
+    "Now I have all three quantities in liters: 2 liters, 0.75 liters, and 0.25 liters.",
+    "Next, I will add these amounts together: 2 + 0.75 + 0.25.",
+    "Adding 0.75 and 0.25 gives me 1 liter.",
+    "Then, adding this 1 liter to the 2 liters gives me a total of 3 liters."
+  ],
+  "solution": "3"
+}

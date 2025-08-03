@@ -1,0 +1,12 @@
+{
+  "query": "A school library has 120 books.  Each student needs 5 books for their classes.  The library was able to help 4 students on the first day of school, 5 students on the second day and 6 students on the third day.  How many students can the library help out on the fourth day of school?",
+  "steps": [
+    "First, calculate the total number of books given out on the first day. \nEach student needs 5 books, and 4 students were helped on the first day. \n4 students * 5 books per student = 20 books.",
+    "Calculate the total number of books given out on the second day.\n5 students were helped on the second day.\n5 students * 5 books per student = 25 books.",
+    "Calculate the total number of books given out on the third day.\n6 students were helped on the third day.\n6 students * 5 books per student = 30 books.",
+    "Calculate the total number of books given out over the three days.\nAdd the number of books given out on each day: 20 books (first day) + 25 books (second day) + 30 books (third day) = 75 books.",
+    "Calculate the remaining number of books in the library after the first three days.\nThe library started with 120 books.\n120 books - 75 books given out = 45 books remain.",
+    "Determine how many students can be helped on the fourth day with the remaining books. \nEach student still requires 5 books. \n45 books remaining / 5 books per student = 9 students."
+  ],
+  "solution": "9"
+}

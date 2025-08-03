@@ -1,0 +1,18 @@
+{
+  "query": "Last night Kannon had 3 apples, a banana, and 4 oranges for dinner. Today she is planning to have 4 more apples than last night, 10 times as many bananas as she ate last night, and twice as many oranges as apples she'll have today. How many fruits would she have eaten so far in the two meals?",
+  "steps": [
+    "First, calculate how many apples Kannon plans to eat today. She plans to have 4 more apples than last night.",
+    "Last night, Kannon had 3 apples. So, today she plans to eat 3 + 4 = 7 apples.",
+    "Next, calculate how many bananas Kannon plans to eat today. She plans to have 10 times as many bananas as last night.",
+    "Last night, Kannon ate 1 banana. So, today she plans to eat 10 * 1 = 10 bananas.",
+    "Then, calculate how many oranges Kannon plans to eat today. She plans to have twice as many oranges as apples she'll have today.",
+    "Today, she plans to eat 7 apples. Therefore, she plans to eat 7 * 2 = 14 oranges.",
+    "Now, calculate the total number of fruits she had last night. Last night, she had 3 apples, 1 banana, and 4 oranges.",
+    "Total fruits last night = 3 apples + 1 banana + 4 oranges = 8 fruits.",
+    "Calculate the total number of fruits she plans to eat today. Today, she plans to eat 7 apples, 10 bananas, and 14 oranges.",
+    "Total fruits today = 7 apples + 10 bananas + 14 oranges = 31 fruits.",
+    "Finally, calculate the total number of fruits she would have eaten over the two meals.",
+    "Total fruits in two meals = 8 fruits (last night) + 31 fruits (today) = 39 fruits."
+  ],
+  "solution": "39"
+}

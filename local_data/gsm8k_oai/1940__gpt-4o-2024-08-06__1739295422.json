@@ -1,0 +1,15 @@
+{
+  "query": "At the pet shop, there were 3 birds, 5 dogs, 4 snakes, and 1 spider for sale. How many legs were there in total?",
+  "steps": [
+    "First, I need to calculate the total number of legs for each type of animal.",
+    "Birds typically have 2 legs. There are 3 birds, so I will multiply 3 by 2.",
+    "3 birds * 2 legs each = 6 legs from birds.",
+    "Dogs typically have 4 legs. There are 5 dogs, so I will multiply 5 by 4.",
+    "5 dogs * 4 legs each = 20 legs from dogs.",
+    "Snakes do not have legs, so we can add 0 legs for the 4 snakes.",
+    "There is 1 spider, and spiders typically have 8 legs, so 1 spider * 8 legs = 8 legs from the spider.",
+    "Now, I will add together the legs from all the animals: 6 legs (birds) + 20 legs (dogs) + 0 legs (snakes) + 8 legs (spider).",
+    "6 + 20 + 0 + 8 = 34."
+  ],
+  "solution": "34"
+}

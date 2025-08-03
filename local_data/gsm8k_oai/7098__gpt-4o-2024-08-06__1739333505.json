@@ -1,0 +1,16 @@
+{
+  "query": "Gertrude the chicken has 10 fleas.  The other chicken, Maud has 5 times the amount of fleas as Olive.  The final chicken, Olive has half the amount of flees as Gertrude.  How many fleas are there?",
+  "steps": [
+    "Gertrude the chicken has 10 fleas.",
+    "Olive has half the amount of fleas as Gertrude.",
+    "Half of 10 is 5, so Olive has 5 fleas.",
+    "Maud has 5 times the amount of fleas as Olive.",
+    "Olive has 5 fleas, so we calculate 5 times 5.",
+    "5 times 5 equals 25, so Maud has 25 fleas.",
+    "Now, I need to calculate the total number of fleas on all the chickens.",
+    "Adding the fleas: Gertrude has 10, Olive has 5, and Maud has 25.",
+    "10 + 5 equals 15.",
+    "15 + 25 equals 40."
+  ],
+  "solution": "40"
+}

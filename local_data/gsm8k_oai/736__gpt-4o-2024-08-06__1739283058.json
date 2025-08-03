@@ -1,0 +1,20 @@
+{
+  "query": "At the Delicious Delhi restaurant, Hilary bought three samosas at $2 each and four orders of pakoras, at $3 each, and a mango lassi, for $2. She left a 25% tip. How much did the meal cost Hilary, with tax, in dollars?",
+  "steps": [
+    "First, I need to calculate the cost of the samosas. Hilary bought three samosas and each costs $2.",
+    "The cost of the samosas is 3 * $2 = $6.",
+    "Next, I will calculate the cost of the pakoras. Hilary bought four orders of pakoras at $3 each.",
+    "The cost of the pakoras is 4 * $3 = $12.",
+    "Next, I need to calculate the cost of the mango lassi. Hilary bought one mango lassi for $2.",
+    "The cost of the mango lassi is $2.",
+    "Now I will sum the costs to find the total cost before the tip.",
+    "Total cost before tip = $6 (samosas) + $12 (pakoras) + $2 (mango lassi) = $20.",
+    "Hilary left a 25% tip on the total cost.",
+    "To calculate the tip, I need to find 25% of $20.",
+    "25% of $20 is (25/100) * $20 = $5.",
+    "Now I will add the tip to the total cost to find the total amount paid.",
+    "Total cost with tip = $20 + $5 = $25.",
+    "Hilary's meal cost $25 with the tip included."
+  ],
+  "solution": "25"
+}

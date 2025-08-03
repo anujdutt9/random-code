@@ -1,0 +1,26 @@
+{
+  "query": "Susie has 572 beans in the jar. One-fourth of them are red and one-third of the remaining beans are white. Then half of the remaining are green beans. How many green beans are there?",
+  "steps": [
+    "First, I'll calculate how many beans are red.",
+    "Since one-fourth of the beans are red, I need to divide 572 by 4.",
+    "572 \u00f7 4 = 143",
+    "So there are 143 red beans.",
+    "Next, I'll find out how many beans are remaining after removing the red beans.",
+    "I'll subtract the number of red beans from the total number of beans.",
+    "572 - 143 = 429",
+    "There are 429 beans remaining after removing the red beans.",
+    "Now, I need to find out how many beans are white.",
+    "Since one-third of the remaining beans are white, I need to divide 429 by 3.",
+    "429 \u00f7 3 = 143",
+    "So there are 143 white beans.",
+    "Next, I'll find out how many beans are remaining after removing the white beans.",
+    "I'll subtract the number of white beans from the remaining beans.",
+    "429 - 143 = 286",
+    "There are 286 beans remaining after removing the white beans.",
+    "Now, I need to determine how many beans are green.",
+    "Since half of the remaining beans are green, I will divide 286 by 2.",
+    "286 \u00f7 2 = 143",
+    "So there are 143 green beans."
+  ],
+  "solution": "143"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Jace drives 60 miles per hour. If Jace drives for 4 hours straight, take a 30-minute break, and then drives for another 9 hours straight, how many miles will he travel?",
+  "steps": [
+    "First, I need to calculate the distance Jace travels in the first part of his trip before taking a break.",
+    "Jace drives at a speed of 60 miles per hour for 4 hours straight.",
+    "To find the distance traveled in this first leg of the trip, I multiply the speed by the time: 60 miles/hour * 4 hours.",
+    "60 * 4 = 240 miles. Jace travels 240 miles in the first part of his trip.",
+    "Next, Jace takes a 30-minute break. The break time does not add any distance to his travel, so I just note it here for completeness and move on.",
+    "After the break, Jace drives for another 9 hours straight.",
+    "Again, I calculate the distance by multiplying the speed by the time: 60 miles/hour * 9 hours.",
+    "60 * 9 = 540 miles. Jace travels 540 miles in the second part of his trip.",
+    "Now, I need to find the total distance Jace travels by adding both parts together.",
+    "240 miles (first part) + 540 miles (second part) = 780 miles."
+  ],
+  "solution": "780"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Jake trips over his dog 40% percent of mornings. 25% of the time he trips, he drops his coffee. What percentage of mornings does he NOT drop his coffee?",
+  "steps": [
+    "I am asked to find the percentage of mornings Jake does not drop his coffee.",
+    "First, I need to determine how often Jake drops his coffee.",
+    "I know that Jake trips over his dog 40% of mornings.",
+    "When he trips, 25% of the time, he drops his coffee.",
+    "I will calculate the percentage of mornings Jake drops his coffee by multiplying the probability of tripping by the probability of dropping the coffee when he trips.",
+    "0.40 (probability of tripping) * 0.25 (probability of dropping coffee when tripping) = 0.10",
+    "This means Jake drops his coffee on 10% of mornings.",
+    "Now, I need to find the percentage of mornings Jake does not drop his coffee.",
+    "If Jake drops his coffee on 10% of mornings, he does not drop it on 100% - 10% of mornings.",
+    "100% - 10% = 90%"
+  ],
+  "solution": "90"
+}

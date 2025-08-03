@@ -1,0 +1,13 @@
+{
+  "query": "A dog barks 30 times per minute.  If 2 dogs bark 30 times per minute, how many times will they have barked after 10 minutes?",
+  "steps": [
+    "I need to find the barking frequency of one dog first.",
+    "One dog barks 30 times per minute.",
+    "Next, I need to determine the barking frequency of two dogs.",
+    "If 2 dogs bark 30 times each per minute, their total barking frequency is 30 + 30 = 60 times per minute.",
+    "Now I need to calculate the total number of barks in 10 minutes.",
+    "If they bark 60 times per minute, in 10 minutes they will bark 60 * 10 times.",
+    "I calculate 60 * 10 = 600."
+  ],
+  "solution": "600"
+}

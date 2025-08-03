@@ -1,0 +1,13 @@
+{
+  "query": "Alan bought a $2000 phone online. John bought it 2% more expensive in a local store. How much did John spend on his phone?",
+  "steps": [
+    "Alan's phone cost $2000.",
+    "John bought his phone for 2% more than Alan.",
+    "To find 2% of Alan's $2000 phone, calculate: 2/100 x $2000.",
+    "2% of $2000 is $40.",
+    "John's phone cost is Alan's phone cost plus the additional 2%.",
+    "Adding $40 to Alan's $2000 phone price gives John's phone cost: $2000 + $40.",
+    "Therefore, John spent $2040 on his phone."
+  ],
+  "solution": "2040"
+}

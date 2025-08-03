@@ -1,0 +1,16 @@
+{
+  "query": "Hannah bought a new washing machine for $100 and a dryer that costs $30 less. Hannah got a 10% discount for buying two appliances. How much did Hannah pay for the two appliances after the discount?",
+  "steps": [
+    "First, I need to determine the cost of the dryer. It's given that the dryer costs $30 less than the washing machine.",
+    "The washing machine cost $100.",
+    "The dryer costs $100 - $30 = $70.",
+    "Next, I will calculate the total cost of both appliances before the discount.",
+    "The total cost before discount is $100 (washing machine) + $70 (dryer) = $170.",
+    "Hannah received a 10% discount.",
+    "To calculate 10% of the total cost, I will multiply $170 by 0.10.",
+    "10% of $170 is $170 * 0.10 = $17.",
+    "Now, I need to subtract the discount from the total cost to find the final amount paid.",
+    "The amount paid after the discount is $170 - $17 = $153."
+  ],
+  "solution": "153"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "Mrs. Young makes bonnets for kids in the orphanage. On Monday, she made 10 bonnets, on Tuesday and Wednesday combined she made twice more than on Monday, while on Thursday she made 5 more than on Monday, and on Friday she made 5 less than on Thursday. Then, she divided up the bonnets evenly and sent them to 5 orphanages. How many bonnets did Mrs. Young send to each orphanage?",
+  "steps": [
+    "First, I need to determine how many bonnets Mrs. Young made each day.",
+    "On Monday, she made 10 bonnets.",
+    "On Tuesday and Wednesday combined, she made twice the amount she made on Monday.",
+    "Twice 10 bonnets is 20 bonnets.",
+    "On Thursday, she made 5 more bonnets than on Monday.",
+    "5 more than 10 bonnets is 15 bonnets for Thursday.",
+    "On Friday, she made 5 less than what she made on Thursday.",
+    "5 less than 15 bonnets is 10 bonnets for Friday.",
+    "Now, let's sum up all the bonnets she made throughout the week: Monday: 10, Tuesday & Wednesday: 20, Thursday: 15, and Friday: 10.",
+    "10 + 20 + 15 + 10 = 55 bonnets in total for the week.",
+    "She divided the 55 bonnets evenly across 5 orphanages.",
+    "To find out how many bonnets each orphanage received, I will divide the total number of bonnets by the number of orphanages.",
+    "55 bonnets \u00f7 5 orphanages = 11 bonnets per orphanage."
+  ],
+  "solution": "11"
+}

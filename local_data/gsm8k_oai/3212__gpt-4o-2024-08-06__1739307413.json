@@ -1,0 +1,14 @@
+{
+  "query": "A new condo development has 23 floors. Regular floors have 12 units, whereas penthouse floors have only 2 units. If the top 2 floors are assigned for penthouse units, how many units does this condo have in total?",
+  "steps": [
+    "First, I need to determine how many regular floors there are. Since the top 2 floors are for penthouse units, I subtract 2 from the total number of floors.",
+    "23 floors total minus 2 penthouse floors equals 21 regular floors.",
+    "Now, I calculate the number of units on the regular floors. Each regular floor has 12 units.",
+    "21 regular floors multiplied by 12 units per regular floor equals 252 units in regular floors.",
+    "Next, I calculate the number of units on the penthouse floors. Each penthouse floor has 2 units.",
+    "2 penthouse floors multiplied by 2 units per penthouse floor equals 4 units in penthouse floors.",
+    "Now, I add the number of units from the regular floors and the penthouse floors to find the total number of units.",
+    "252 units from regular floors plus 4 units from penthouse floors equals 256 total units."
+  ],
+  "solution": "256"
+}

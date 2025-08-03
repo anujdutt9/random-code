@@ -1,0 +1,16 @@
+{
+  "query": "10 people attended class on Monday, 15 on Tuesday, and 10 on each day from Wednesday through Friday. What was the average number of people who attended class each day?",
+  "steps": [
+    "First, I need to find the total number of people who attended class over all the days.",
+    "On Monday, 10 people attended.",
+    "On Tuesday, 15 people attended.",
+    "From Wednesday to Friday, 10 people attended each day.",
+    "So, for three days from Wednesday to Friday, a total of 3 days * 10 people = 30 people attended.",
+    "Now, I add up the total attendance for all five days: 10 (Monday) + 15 (Tuesday) + 30 (Wednesday to Friday).",
+    "10 + 15 + 30 equals 55.",
+    "The total number of days is 5.",
+    "To find the average, I need to divide the total number of people by the number of days.",
+    "55 divided by 5 equals 11."
+  ],
+  "solution": "11"
+}

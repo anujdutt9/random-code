@@ -1,0 +1,16 @@
+{
+  "query": "Aubrie has four cards with the labels W, X, Y, Z printed on them. W is tagged with the number 200, X is tagged with half the number W is tagged with, Y is tagged with the total of X and W's tags and Z is tagged with the number 400. Calculate the total of all the tagged numbers.",
+  "steps": [
+    "First, I need to determine the number that is tagged to each card.",
+    "I know W is tagged with the number 200.",
+    "X is tagged with half the number W is tagged with, which means X = 200 / 2.",
+    "Calculating, X = 100.",
+    "Y is tagged with the total of X and W's tags, so Y = 200 + 100.",
+    "Calculating, Y = 300.",
+    "Z is tagged with the number 400.",
+    "Now that I know all the tags: W = 200, X = 100, Y = 300, Z = 400, I can calculate the total.",
+    "The total is W + X + Y + Z = 200 + 100 + 300 + 400.",
+    "Adding these gives 1000."
+  ],
+  "solution": "1000"
+}

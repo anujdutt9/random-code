@@ -1,0 +1,17 @@
+{
+  "query": "Sam spends sixty minutes studying Science, eighty minutes in Math, and forty minutes in Literature.  How many hours does Sam spend studying the three subjects?",
+  "steps": [
+    "First, I need to find the total time Sam spends studying all three subjects in minutes.",
+    "Sam spends 60 minutes on Science.",
+    "Sam spends 80 minutes on Math.",
+    "Sam spends 40 minutes on Literature.",
+    "To find the total time spent studying in minutes, I need to add all these times together: 60 + 80 + 40.",
+    "60 + 80 = 140",
+    "140 + 40 = 180",
+    "Sam spends a total of 180 minutes studying.",
+    "Now, I need to convert the total time spent from minutes to hours. There are 60 minutes in an hour.",
+    "To convert minutes to hours, divide the total minutes by 60: 180 \u00f7 60.",
+    "180 \u00f7 60 = 3"
+  ],
+  "solution": "3"
+}

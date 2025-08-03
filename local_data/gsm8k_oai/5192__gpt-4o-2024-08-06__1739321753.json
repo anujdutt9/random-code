@@ -1,0 +1,21 @@
+{
+  "query": "Martha gets prize points every time she shops at her local grocery store. She gets 50 points per $10 spent, plus a 250 point bonus if she spends more than $100. Martha buys 3 pounds of beef for $11 each, 8 pounds of fruits and vegetables for $4/pound, 3 jars of spices for $6 each, and other groceries totaling $37. How many points does Martha get?",
+  "steps": [
+    "First, I need to calculate the total cost of the beef. Martha buys 3 pounds of beef at $11 each.",
+    "The cost of the beef is 3 pounds * $11/pound = $33.",
+    "Next, I calculate the cost of the fruits and vegetables. Martha buys 8 pounds at $4 per pound.",
+    "The cost of the fruits and vegetables is 8 pounds * $4/pound = $32.",
+    "Now, I calculate the cost of the spices. Martha buys 3 jars at $6 each.",
+    "The cost of the spices is 3 jars * $6/jar = $18.",
+    "Martha also buys other groceries that cost $37.",
+    "Now, I need to find the total amount Martha spent at the store.",
+    "The total cost is $33 (beef) + $32 (fruits and vegetables) + $18 (spices) + $37 (other groceries).",
+    "The total amount Martha spent is $33 + $32 + $18 + $37 = $120.",
+    "For every $10 spent, Martha earns 50 points. I need to calculate how many $10 are there in $120.",
+    "$120 divided by $10 is 12. So, Martha earns 12 * 50 points.",
+    "Martha earns 12 * 50 = 600 points from her spending.",
+    "Since Martha spent more than $100, she gets an additional 250 point bonus.",
+    "Therefore, the total points Martha earns is 600 + 250 = 850 points."
+  ],
+  "solution": "850"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "There are 34 kids signed up to compete in the talent show. There are 22 more girls than boys signed up to compete. How many girls are signed up to compete in the talent show?",
+  "steps": [
+    "I start by letting the number of boys signed up be represented as \"B\".",
+    "Since there are 22 more girls than boys, I can represent the number of girls signed up as \"B + 22\".",
+    "The total number of kids signed up is 34, which includes both boys and girls. So, the equation is: B + (B + 22) = 34.",
+    "I simplify the equation: 2B + 22 = 34.",
+    "I subtract 22 from both sides to isolate the terms with B: 2B = 34 - 22.",
+    "Simplifying the right side gives: 2B = 12.",
+    "I divide both sides by 2 to solve for B, giving: B = 6.",
+    "I substitute B = 6 back into the expression for the number of girls, which is G = B + 22.",
+    "Substituting B = 6 gives me G = 6 + 22.",
+    "Calculating this gives G = 28."
+  ],
+  "solution": "28"
+}

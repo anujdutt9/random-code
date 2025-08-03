@@ -1,0 +1,20 @@
+{
+  "query": "On a trip to visit the local museum, Mr. Gordon has taken 2/5 times more girls than boys. If their bus has a driver and an assistant, and the total number of boys on the trip is 50, calculate the total number of people on the bus considering the teacher also drives together with the students on the bus.",
+  "steps": [
+    "First, I need to determine the number of girls on the trip. The problem states that Mr. Gordon has taken 2/5 times more girls than boys.",
+    "The number of boys is given as 50.",
+    "2/5 of 50 boys is calculated by multiplying 50 by 2/5.",
+    "50 * (2/5) = 20. Therefore, there are 20 more girls than boys.",
+    "Now, I calculate the total number of girls by adding these additional 20 girls to the number of boys.",
+    "Number of girls = 50 (number of boys) + 20 (additional girls) = 70 girls.",
+    "Now, I calculate the total number of students, which is the sum of the number of boys and girls.",
+    "Total students = 50 boys + 70 girls = 120 students.",
+    "Now, I add the bus driver, the assistant, and Mr. Gordon who drives together with the students.",
+    "The bus has a driver and an assistant, so I add 2 people for them.",
+    "Including Mr. Gordon, I add one more person to the total.",
+    "Total number of additional people (driver, assistant, and Mr. Gordon) = 3 people.",
+    "Finally, calculate the total number of people on the bus by adding the number of students and the additional people.",
+    "Total number of people = Total students + Additional people = 120 students + 3 people = 123 people."
+  ],
+  "solution": "123"
+}

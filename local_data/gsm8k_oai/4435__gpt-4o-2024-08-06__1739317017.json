@@ -1,0 +1,15 @@
+{
+  "query": "Steve bought $25 worth of groceries. He bought a gallon of milk for $3, two boxes of cereal for $3.5 each, 4 bananas for $.25 each, four apples that cost $.5 each and a number of boxes of cookies. The cookies cost twice as much per box as the gallon of milk. How many boxes of cookies did he get?",
+  "steps": [
+    "I know that Steve spent $25 in total on groceries.",
+    "He bought a gallon of milk for $3.",
+    "He bought two boxes of cereal, and each box cost $3.5. Therefore, the cereal cost a total of 2 * $3.5 = $7.",
+    "He bought 4 bananas, each costing $0.25. So, the bananas cost a total of 4 * $0.25 = $1.",
+    "He bought four apples, each costing $0.5. So, the apples cost a total of 4 * $0.5 = $2.",
+    "Now let's calculate the total cost of the milk, cereal, bananas, and apples: $3 (milk) + $7 (cereal) + $1 (bananas) + $2 (apples) = $13.",
+    "Since the total cost was $25 and he spent $13 on milk, cereal, bananas, and apples, the remaining amount spent on cookies is $25 - $13 = $12.",
+    "The cookies cost twice as much per box as the gallon of milk. This means each box of cookies costs 2 * $3 = $6.",
+    "To find the number of boxes of cookies he bought, divide the total money spent on cookies by the cost per box: $12 \u00f7 $6 = 2."
+  ],
+  "solution": "2"
+}

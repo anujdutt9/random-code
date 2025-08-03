@@ -1,0 +1,17 @@
+{
+  "query": "Tracy set up a booth at an art fair. 20 people came to look at her art. Four of those customers bought two paintings each. The next 12 of those customers bought one painting each. The last 4 customers bought four paintings each.  How many paintings did Tracy sell at the art fair?",
+  "steps": [
+    "First, I will calculate the number of paintings bought by the first group of customers.",
+    "The first group consists of 4 customers and each bought 2 paintings.",
+    "4 customers x 2 paintings per customer = 8 paintings.",
+    "Next, I will calculate the number of paintings bought by the second group of customers.",
+    "The second group consists of 12 customers and each bought 1 painting.",
+    "12 customers x 1 painting per customer = 12 paintings.",
+    "Lastly, I will calculate the number of paintings bought by the third group of customers.",
+    "The third group consists of 4 customers and each bought 4 paintings.",
+    "4 customers x 4 paintings per customer = 16 paintings.",
+    "Now, I will add the paintings sold to each group to find the total number of paintings sold.",
+    "8 paintings (first group) + 12 paintings (second group) + 16 paintings (third group) = 36 paintings."
+  ],
+  "solution": "36"
+}

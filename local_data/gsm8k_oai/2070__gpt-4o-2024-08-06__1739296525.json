@@ -1,0 +1,12 @@
+{
+  "query": "Bob ordered 80 packs of Greek yogurt from Costco to use for the month. However, when the delivery arrived, he realized 40% of the packs were expired. He decided to return those packs. If each pack was $12, how much was Bob refunded for the expired product?",
+  "steps": [
+    "First, I need to determine how many packs were expired. Bob ordered 80 packs, and 40% of them were expired.",
+    "To find 40% of 80, I can multiply 80 by 0.40.",
+    "40% of 80 is 80 * 0.40 = 32 packs that were expired.",
+    "Now, I need to calculate the refund based on the number of expired packs. Each pack costs $12.",
+    "The total refund is 32 packs * $12 per pack.",
+    "Finally, 32 * $12 = $384."
+  ],
+  "solution": "384"
+}

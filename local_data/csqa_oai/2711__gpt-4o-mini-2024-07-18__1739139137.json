@@ -1,0 +1,14 @@
+{
+  "query": "Question: What does a computer have to do before a program can exist?\n\nChoices:\nA: write code\nB: executable file\nC: compile\nD: think logically\nE: get frustrated",
+  "steps": [
+    "The question is asking about the prerequisites for a program to exist on a computer.",
+    "Programs are typically written in a higher-level programming language that needs to be converted into machine code which the computer can understand and execute.",
+    "Writing the code (Choice A) is indeed the first step in creating a program, but it is not sufficient for the program to exist in a form that the computer can execute.",
+    "An executable file (Choice B) is the result of the compilation process and indicates that the program is ready to run, not a prerequisite for its existence.",
+    "Compilation (Choice C) is the process of converting the written code into an executable form. Without this step, the code cannot be run by the computer.",
+    "\"Thinking logically\" (Choice D) does not directly relate to the technical steps required for a program to exist; it's more of a mental skill required by the programmer.",
+    "\"Getting frustrated\" (Choice E) is not a necessary step in the technical process of program creation and does not contribute to the existence of a program.",
+    "Given that \"compile\" is the process required to convert written code into a form that can be executed by a computer, it is the correct prerequisite for a program to exist."
+  ],
+  "solution": "C"
+}

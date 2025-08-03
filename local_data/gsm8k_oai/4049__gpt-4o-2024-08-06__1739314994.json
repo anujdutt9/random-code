@@ -1,0 +1,23 @@
+{
+  "query": "Ethan is reading a sci-fi book that has 360 pages. He read 40 pages on Saturday morning and another 10 pages at night. The next day he read twice the total pages as on Saturday. How many pages does he have left to read?",
+  "steps": [
+    "First, I need to calculate the total number of pages Ethan read on Saturday.",
+    "On Saturday morning, Ethan read 40 pages.",
+    "On Saturday night, he read another 10 pages.",
+    "So, the total pages read on Saturday is 40 + 10.",
+    "40 + 10 equals 50 pages read on Saturday.",
+    "Next, I need to determine how many pages Ethan read on the next day.",
+    "He read twice the pages on the next day compared to Saturday.",
+    "Twice the pages he read on Saturday is 2 * 50.",
+    "2 * 50 equals 100 pages read on the next day.",
+    "Now I calculate the total number of pages read so far.",
+    "On Saturday he read 50 pages and on the next day he read 100 pages.",
+    "The total pages read is 50 + 100.",
+    "50 + 100 equals 150 pages read in total.",
+    "Ethan's book has 360 pages in total.",
+    "To find out how many pages he has left to read, I need to subtract the pages he read from the total pages of the book.",
+    "So, 360 (total pages) minus 150 (pages read) gives us the pages left to read.",
+    "360 - 150 equals 210 pages left to read."
+  ],
+  "solution": "210"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Hamza has several empty buckets of different sizes, holding either 3, 5, or 6 liters. She fills the 5-liter bucket and pours as much as she can into the 3-liter bucket. Then, she pours the remainder into the 6-liter bucket. How much more water, in liters, can she put into the 6-liter bucket, without overflowing?",
+  "steps": [
+    "Hamza has a 5-liter bucket that is initially full.",
+    "She pours the water from the 5-liter bucket into the 3-liter bucket.",
+    "The 3-liter bucket can hold 3 liters, so she pours 3 liters into it.",
+    "After pouring 3 liters into the 3-liter bucket, there are 2 liters left in the 5-liter bucket.",
+    "Hamza then pours the remaining 2 liters from the 5-liter bucket into the 6-liter bucket.",
+    "Now, the 6-liter bucket contains 2 liters of water.",
+    "To find out how much more water the 6-liter bucket can hold without overflowing, we calculate the difference between its total capacity and the current amount of water in it.",
+    "The capacity of the 6-liter bucket is 6 liters, and it currently has 2 liters of water in it.",
+    "The 6-liter bucket can therefore hold 6 - 2 = 4 more liters of water."
+  ],
+  "solution": "4"
+}

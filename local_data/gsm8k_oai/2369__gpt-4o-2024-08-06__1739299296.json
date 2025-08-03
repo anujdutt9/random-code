@@ -1,0 +1,17 @@
+{
+  "query": "Jason has a carriage house that he rents out.  He\u2019s charging $50.00 per day or $500.00 for 14 days.  Eric wants to rent the house for 20 days.  How much will it cost him?",
+  "steps": [
+    "First, I need to calculate the cost of renting the house at the daily rate for 20 days. The daily rate is $50.00.",
+    "I will multiply the daily rate by the number of days Eric wants to rent: $50.00 x 20 days.",
+    "50 x 20 equals 1000. So, renting the house at the daily rate for 20 days would cost $1000.",
+    "Now I should consider if renting for 14 days and then extending is cheaper. Renting for 14 days at the special rate is $500.",
+    "If Eric rents for 14 days at $500, he will need to rent for an additional 6 days at the daily rate of $50.00 after the 14 days.",
+    "The cost for these additional 6 days at $50 per day is 6 x 50.",
+    "6 x 50 equals 300. So, the cost for 6 additional days would be $300.",
+    "Adding the 14-day special rate ($500) and the cost for the 6 extra days ($300) gives $500 + $300.",
+    "$500 + $300 equals $800.",
+    "Comparing the two options: \n- Renting at the daily rate for 20 days costs $1000.\n- Renting for 14 days at the special rate ($500) plus an additional 6 days at the daily rate costs $800.",
+    "The second option is cheaper at $800."
+  ],
+  "solution": "800"
+}

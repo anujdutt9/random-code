@@ -1,0 +1,23 @@
+{
+  "query": "There are 3/5 times as many people living in Boise as the number living in Seattle. There are 4000 more people in Lake View than the population in Seattle. If Lake View's population is 24000, calculate the total population of the three cities.",
+  "steps": [
+    "I need to relate the populations of the three cities: Boise, Seattle, and Lake View.",
+    "Let's start by letting the population of Seattle be \\( S \\).",
+    "Boise has \\(\\frac{3}{5}\\) times as many people as Seattle, so its population is \\(\\frac{3}{5}S\\).",
+    "Lake View has 4000 more people than Seattle, so Lake View's population is \\( S + 4000 \\).",
+    "We're given that Lake View's population is 24000.",
+    "Therefore, \\( S + 4000 = 24000 \\).",
+    "I will now solve this equation for \\( S \\).",
+    "Subtract 4000 from both sides: \\( S = 24000 - 4000 \\).",
+    "Calculate: \\( S = 20000 \\).",
+    "Seattle's population \\( S \\) is therefore 20000.",
+    "Now, calculate Boise's population using \\(\\frac{3}{5}S = \\frac{3}{5} \\times 20000 \\).",
+    "\\(\\frac{3}{5} \\times 20000 = 12000\\).",
+    "Boise's population is 12000.",
+    "Lake View's population is given as 24000.",
+    "To find the total population of all three cities, add the populations: \\( 20000 + 12000 + 24000 \\).",
+    "Calculate: \\( 20000 + 12000 = 32000 \\).",
+    "Next, \\( 32000 + 24000 = 56000 \\)."
+  ],
+  "solution": "56000"
+}

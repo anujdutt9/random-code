@@ -1,0 +1,21 @@
+{
+  "query": "A fifth-grade class went on a field trip to the zoo, and their class of 10 students merged with another class with the same amount of students. 5 parents offered to be a chaperone, and 2 of the teachers from both classes will be there too. When the school day was over, the students could choose to go home and 10 of them left. Two of the chaperones were parents in that group, so they left as well. How many individuals were left at the zoo?",
+  "steps": [
+    "First, I need to determine the total number of students from both classes.",
+    "The total number of students in the first class is 10.",
+    "Since each class has the same amount of students, the second class also has 10 students.",
+    "Adding them together, there are 10 + 10 = 20 students in total.",
+    "Next, I need to account for the chaperones and teachers.",
+    "There are 5 parents who offered to be chaperones.",
+    "Additionally, there are 2 teachers from both classes.",
+    "Adding these numbers together, the total number of adults (chaperones and teachers) is 5 + 2 = 7.",
+    "Now, calculate the total number of individuals (students plus adults) initially at the zoo.",
+    "Total individuals initially at the zoo = Total students + Total adults = 20 + 7 = 27.",
+    "When the school day was over, 10 students went home.",
+    "Also, 2 of the chaperones who were parents of these students left as well.",
+    "Calculating how many individuals left: 10 students + 2 chaperones = 12 people left.",
+    "I subtract the number of individuals who left from the total initial number of individuals.",
+    "27 (initial total) - 12 (individuals who left) = 15 individuals left at the zoo."
+  ],
+  "solution": "15"
+}

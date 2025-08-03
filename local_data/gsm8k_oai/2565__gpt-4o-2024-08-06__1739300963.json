@@ -1,0 +1,18 @@
+{
+  "query": "John climbs up 9 flights of stairs.  Each flight is 10 feet.  If each step is 18 inches, how many steps does he climb up?",
+  "steps": [
+    "First, I need to determine the total height John climbs in feet.",
+    "John climbs 9 flights of stairs.",
+    "Each flight is 10 feet high.",
+    "I multiply 9 flights by 10 feet per flight to find the total height climbed in feet: 9 x 10 = 90 feet.",
+    "Next, I need to convert the total height from feet to inches because each step is measured in inches.",
+    "There are 12 inches in one foot.",
+    "I multiply 90 feet by 12 inches per foot to convert the total height to inches: 90 x 12 = 1080 inches.",
+    "Now, I need to determine how many steps John climbs.",
+    "Each step is 18 inches high.",
+    "I divide the total height in inches (1080 inches) by the height of each step (18 inches) to find the total number of steps: 1080 \u00f7 18.",
+    "1080 \u00f7 18 = 60.",
+    "John climbs a total of 60 steps."
+  ],
+  "solution": "60"
+}

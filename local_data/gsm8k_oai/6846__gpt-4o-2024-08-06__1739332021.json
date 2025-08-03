@@ -1,0 +1,21 @@
+{
+  "query": "Isabella has $45 more than Sam but only $15 more than Giselle. If Giselle has $120, calculate the total amount of money each shopper will receive if Isabella, Sam, and Giselle donate the money to three shoppers at their local town's supermarket who then decides to share it equally.",
+  "steps": [
+    "First, I know Giselle has $120.",
+    "Isabella has $15 more than Giselle.",
+    "So, I add $15 to Giselle's $120 to find Isabella's total.",
+    "$120 + $15 = $135",
+    "Isabella has $135.",
+    "I also know Isabella has $45 more than Sam.",
+    "I subtract $45 from Isabella's total to find Sam's total.",
+    "$135 - $45 = $90",
+    "Sam has $90.",
+    "Next, I find the total amount of money they all have together.",
+    "I add Giselle's $120, Isabella's $135, and Sam's $90.",
+    "$120 + $135 + $90 = $345",
+    "There are three shoppers who will share the total amount equally.",
+    "I divide $345 by 3 to find the amount each shopper receives.",
+    "$345 \u00f7 3 = $115"
+  ],
+  "solution": "115"
+}

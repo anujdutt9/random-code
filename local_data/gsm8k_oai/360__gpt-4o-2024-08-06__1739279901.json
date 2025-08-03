@@ -1,0 +1,17 @@
+{
+  "query": "Sonja makes her own peanut butter with peanuts and oil in a blender. She uses a ratio of two ounces of oil to smooth out every eight ounces of peanuts. Her last batch of peanut butter weighed 20 ounces. How many ounces of oil did she use?",
+  "steps": [
+    "Identify the ratio of oil to peanuts. The ratio given is 2 ounces of oil for every 8 ounces of peanuts.",
+    "Determine the total weight of the peanut butter Sonja made, which is 20 ounces.",
+    "Recognize that the total weight of the peanut butter is the sum of the weight of the peanuts and the weight of the oil.",
+    "Let x represent the ounces of oil used in the peanut butter. The corresponding weight of peanuts would then be 20 - x ounces (since total weight is 20 ounces).",
+    "Use the given ratio to establish a relationship: x/2 = (20 - x)/8, because 2 ounces of oil correspond to 8 ounces of peanuts.",
+    "Cross-multiply to solve for x: 8x = 2(20 - x).",
+    "Expand the equation: 8x = 40 - 2x.",
+    "Add 2x to both sides to combine like terms: 10x = 40.",
+    "Divide both sides by 10 to isolate x: x = 4.",
+    "Verify the solution by checking the distribution according to the given ratio. With 4 ounces of oil, the peanuts would be 20 - 4 = 16 ounces.",
+    "Confirm that 4 ounces of oil and 16 ounces of peanuts maintain the original ratio (2 ounces of oil to 8 ounces of peanuts). Simplify the ratio 4/16, which equals 2/8, confirming the solution is consistent with the original ratio."
+  ],
+  "solution": "4"
+}

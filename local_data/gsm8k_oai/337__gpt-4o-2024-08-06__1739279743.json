@@ -1,0 +1,16 @@
+{
+  "query": "At a gathering, it was reported that 26 people took wine, 22 people took soda, and 17 people took both drinks. If each person could have taken one or more drinks regardless of what was reported, how many people altogether were at the gathering?",
+  "steps": [
+    "First, I've been provided with the number of people who took wine, which is 26.",
+    "Next, the number of people who took soda is given as 22.",
+    "It is also reported that 17 people took both wine and soda.",
+    "This situation calls for using the principle of Inclusion-Exclusion to determine the total number of people.",
+    "According to the Inclusion-Exclusion principle, the formula to find the number of people who took at least one of the drinks is: total = (number of people who took wine) + (number of people who took soda) - (number of people who took both).",
+    "Plugging in the numbers: total = 26 + 22 - 17.",
+    "First, I add the number of people who took wine and soda: 26 + 22 = 48.",
+    "Next, I subtract the number of people who took both drinks: 48 - 17.",
+    "Now, perform the subtraction: 48 - 17 = 31.",
+    "Therefore, the total number of people at the gathering is 31."
+  ],
+  "solution": "31"
+}

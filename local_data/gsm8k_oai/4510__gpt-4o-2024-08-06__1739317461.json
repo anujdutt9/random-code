@@ -1,0 +1,16 @@
+{
+  "query": "Mark is 18 years old. He has a little brother, John, who is 10 years younger. If John and Mark's parents are currently 5 times older than John, how old were they when Mark was born?",
+  "steps": [
+    "Mark is 18 years old.",
+    "John is 10 years younger than Mark.",
+    "Therefore, John is 18 - 10 = 8 years old.",
+    "John and Mark's parents are currently 5 times older than John.",
+    "5 times John's age means 5 * 8 = 40 years old.",
+    "The parents are 40 years old now.",
+    "We need to find how old the parents were when Mark was born.",
+    "Mark is 18 years old now, so he was born 18 years ago.",
+    "To find the age of the parents when Mark was born, we subtract 18 years from their current age.",
+    "40 - 18 = 22 years old."
+  ],
+  "solution": "22"
+}

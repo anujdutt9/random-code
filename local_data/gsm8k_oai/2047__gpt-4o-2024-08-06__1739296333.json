@@ -1,0 +1,13 @@
+{
+  "query": "John buys a vacuum cleaner for $250 and a dishwasher for $450.  She has a $75 off coupon.  How much did he spend?",
+  "steps": [
+    "John buys a vacuum cleaner for $250.",
+    "John also buys a dishwasher for $450.",
+    "First, I should add the cost of the vacuum cleaner and the dishwasher.",
+    "$250 + $450 equals $700.",
+    "John has a $75 off coupon.",
+    "I should subtract the $75 coupon from the total cost.",
+    "$700 - $75 equals $625."
+  ],
+  "solution": "625"
+}

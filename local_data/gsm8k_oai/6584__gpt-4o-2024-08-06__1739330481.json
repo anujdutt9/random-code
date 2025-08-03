@@ -1,0 +1,19 @@
+{
+  "query": "In a shopping mall, one T-shirt costs $20 each; a pair of pants costs $80; a pair of shoes costs $150. All items will get a 10% discount. How much does Eugene have to pay if he buys four T-shirts, three pairs of pants, and two pairs of shoes?",
+  "steps": [
+    "I need to determine the total cost before any discounts are applied.",
+    "First, calculate the cost of four T-shirts at $20 each.",
+    "4 T-shirts x $20 per T-shirt = $80.",
+    "Next, calculate the cost of three pairs of pants at $80 each.",
+    "3 pairs of pants x $80 per pair = $240.",
+    "Then, calculate the cost of two pairs of shoes at $150 each.",
+    "2 pairs of shoes x $150 per pair = $300.",
+    "Now, add up all the costs before the discount: T-shirts for $80, pants for $240, and shoes for $300.",
+    "$80 + $240 + $300 = $620.",
+    "Apply the 10% discount to the total amount.",
+    "10% of $620 is calculated as $620 x 0.10 = $62.",
+    "Subtract the discount from the original total cost.",
+    "$620 - $62 = $558."
+  ],
+  "solution": "558"
+}

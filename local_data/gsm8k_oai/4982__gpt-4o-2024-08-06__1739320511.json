@@ -1,0 +1,20 @@
+{
+  "query": "Lee had $10 and his friend had $8. They went to a restaurant where they ordered chicken wings for $6 and a chicken salad for $4. They also got 2 sodas for $1.00 each. The tax came to $3. How much change should they have received in total?",
+  "steps": [
+    "First, I will calculate the total amount Lee and his friend had together.",
+    "Lee had $10, and his friend had $8.",
+    "Together, they had $10 + $8 = $18.",
+    "Now, I'll calculate the total cost of the items they purchased at the restaurant.",
+    "The chicken wings cost $6.",
+    "The chicken salad cost $4.",
+    "The 2 sodas cost $1.00 each, so 2 sodas together cost $2.00.",
+    "Adding these costs together: $6 (chicken wings) + $4 (chicken salad) + $2 (sodas) = $12.",
+    "Now, consider the tax of $3.",
+    "Add the tax to the cost of the items: $12 (items) + $3 (tax) = $15.",
+    "The total cost at the restaurant was $15.",
+    "Now, subtract the total cost from the total amount Lee and his friend had.",
+    "They had $18 initially and spent $15 on the meal including tax.",
+    "The change they should receive is $18 - $15 = $3."
+  ],
+  "solution": "3"
+}

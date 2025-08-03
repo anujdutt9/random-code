@@ -1,0 +1,14 @@
+{
+  "query": "Rafael works 10 hours on Monday and 8 hours on Tuesday on his delivery job. With 20 hours left to work in the week, how much money does Rafael make if he is paid $20 per hour?",
+  "steps": [
+    "Rafael works 10 hours on Monday.",
+    "Rafael works 8 hours on Tuesday.",
+    "Add Monday's hours and Tuesday's hours: 10 + 8 = 18 hours.",
+    "Rafael has worked 18 hours from Monday to Tuesday.",
+    "Rafael has 20 hours left to work in the week.",
+    "Add the worked hours and remaining hours: 18 + 20 = 38 total hours for the week.",
+    "Rafael is paid $20 per hour.",
+    "Multiply the total hours by the hourly rate: 38 hours * $20/hour = $760."
+  ],
+  "solution": "760"
+}

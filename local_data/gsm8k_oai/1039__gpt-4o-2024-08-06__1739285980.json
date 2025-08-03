@@ -1,0 +1,17 @@
+{
+  "query": "In a block of flats, there are 120 apartments. 85% of them have at least 1 resident, while 60% of the apartments have at least two residents. How many apartments have only one resident?",
+  "steps": [
+    "First, I need to calculate the total number of apartments that have at least one resident.",
+    "There are 120 apartments in total. 85% of them have at least one resident.",
+    "To find 85% of 120, I calculate 0.85 * 120.",
+    "0.85 * 120 = 102 apartments have at least one resident.",
+    "Next, I need to find the total number of apartments that have at least two residents.",
+    "I am told that 60% of the apartments have at least two residents.",
+    "To find 60% of 120, I calculate 0.60 * 120.",
+    "0.60 * 120 = 72 apartments have at least two residents.",
+    "To find the number of apartments with only one resident, I subtract the number of apartments with at least two residents from the number of apartments with at least one resident.",
+    "102 apartments have at least one resident, and 72 have at least two residents.",
+    "102 - 72 = 30 apartments have only one resident."
+  ],
+  "solution": "30"
+}

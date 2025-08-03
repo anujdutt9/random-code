@@ -1,0 +1,17 @@
+{
+  "query": "Bill is a painter who is hired to paint a client\u2019s house. The house has three bedrooms, and twice as many other rooms as bedrooms. The client wants each bedroom painted a different color, and the other rooms painted white. Each room takes 2 gallons of paint. Color paint comes in 1-gallon paint cans, and white paint comes in 3-gallon cans. How many cans of paint will Bill need for the whole house?",
+  "steps": [
+    "The house has three bedrooms.",
+    "There are twice as many other rooms as bedrooms. Thus, the number of other rooms is 2 * 3 = 6.",
+    "Each room takes 2 gallons of paint.",
+    "The bedrooms require colored paint, and there are 3 bedrooms each needing a different color.",
+    "Each bedroom needs 2 gallons of colored paint, so the total gallons of color paint needed is 3 bedrooms * 2 gallons/bedroom = 6 gallons.",
+    "Color paint comes in 1-gallon cans, so Bill will need 6 cans of color paint.",
+    "The 6 other rooms are to be painted white, with each room requiring 2 gallons of paint.",
+    "The total gallons of white paint needed is 6 rooms * 2 gallons/room = 12 gallons.",
+    "White paint comes in 3-gallon cans. To find out the number of cans required, divide the total gallons by the capacity of each can: 12 gallons / 3 gallons/can = 4 cans.",
+    "Bill needs 6 cans of color paint and 4 cans of white paint.",
+    "The total number of cans needed is 6 cans of color paint + 4 cans of white paint = 10 cans."
+  ],
+  "solution": "10"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "A spiral notebook costs $15, and a personal planner costs $10. How much would it cost in total to buy 4 spiral notebooks and 8 personal planners at a 20% discount?",
+  "steps": [
+    "First, I need to calculate the total cost of 4 spiral notebooks without any discount. One spiral notebook costs $15.",
+    "4 spiral notebooks would cost 4 \u00d7 $15 = $60.",
+    "Next, I need to calculate the total cost of 8 personal planners without any discount. One personal planner costs $10.",
+    "8 personal planners would cost 8 \u00d7 $10 = $80.",
+    "Now, I need to find the total cost of both the spiral notebooks and personal planners before applying any discount.",
+    "Total cost before discount is $60 (notebooks) + $80 (planners) = $140.",
+    "There is a 20% discount on the total purchase. I need to calculate 20% of $140.",
+    "20% of $140 is 0.20 \u00d7 $140 = $28.",
+    "I need to subtract the discount from the total cost to find the discounted total cost.",
+    "The total cost after 20% discount is $140 - $28 = $112."
+  ],
+  "solution": "112"
+}

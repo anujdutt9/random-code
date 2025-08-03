@@ -1,0 +1,19 @@
+{
+  "query": "If the sum of two numbers is 33, and if the second number is twice the first number, what is the second number?",
+  "steps": [
+    "I need to express the two numbers in terms of algebraic expressions.",
+    "Let's call the first number x.",
+    "According to the problem, the second number is twice the first number.",
+    "Therefore, the second number can be expressed as 2x.",
+    "The problem states that the sum of the two numbers is 33.",
+    "Therefore, I can set up the equation x + 2x = 33.",
+    "Combining the terms on the left side, I get 3x = 33.",
+    "To find x, I need to divide both sides of the equation by 3.",
+    "After dividing, I get x = 11.",
+    "Now that I know the value of the first number (x), I can find the value of the second number.",
+    "The second number is 2x, which means 2 times 11.",
+    "Calculating this gives me 2 * 11 = 22.",
+    "Therefore, the second number is 22."
+  ],
+  "solution": "22"
+}

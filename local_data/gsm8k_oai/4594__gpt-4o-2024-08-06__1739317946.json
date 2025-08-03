@@ -1,0 +1,15 @@
+{
+  "query": "A company is hosting a seminar. So far, 30 attendees from company A have been registered; company B has twice the number of attendees of company A; company C has 10 more attendees than company A; company D has 5 fewer attendees than company C. If a total of 185 attendees have registered, how many attendees who registered are not from either company A, B, C or D?",
+  "steps": [
+    "First, determine the number of attendees from each company.",
+    "Start by identifying the number of attendees for company A. We know this number is 30.",
+    "Next, calculate the number of attendees from company B. Company B has twice the number of attendees as company A, so B has 2 * 30 = 60 attendees.",
+    "Determine the number of attendees for company C. Company C has 10 more attendees than company A, so C has 30 + 10 = 40 attendees.",
+    "Now find the number of attendees from company D. Company D has 5 fewer attendees than company C, so D has 40 - 5 = 35 attendees.",
+    "Sum the number of attendees from companies A, B, C, and D to find the total number of attendees from these companies: 30 (A) + 60 (B) + 40 (C) + 35 (D).",
+    "Calculate this total: 30 + 60 = 90; 90 + 40 = 130; 130 + 35 = 165.",
+    "The total number of registered attendees is 185, so subtract the attendees from companies A, B, C, and D to find the number of attendees who are not from these companies.",
+    "185 - 165 = 20 attendees are not from company A, B, C, or D."
+  ],
+  "solution": "20"
+}

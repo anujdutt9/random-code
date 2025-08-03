@@ -1,0 +1,13 @@
+{
+  "query": "Ziggy is a club DJ. Typically, Ziggy gets 30 song requests every night. Half the songs requested are electropop. A third of that amount are requests for dance music. Five song requests are rock music, and song requests for oldies are three less in number than rock requests. Ziggy plays a DJ\u2019s choice song half the number of times he plays an oldie. Ziggy also sometimes gets rap song requests. Typically, how many rap songs does Ziggy get requested every night?",
+  "steps": [
+    "First, determine the number of electropop requests. Since half of the 30 song requests are electropop, that is 30 / 2 = 15 requests.",
+    "Next, determine the number of dance requests. A third of the electropop requests are dance music requests. So, 15 / 3 = 5 dance music requests.",
+    "We know there are 5 rock music requests each night.",
+    "Next, find the number of oldies requests. There are 3 less oldies requests compared to rock requests. Since there are 5 rock requests, that means 5 - 3 = 2 oldies requests.",
+    "Determine the number of DJ\u2019s choice songs. Ziggy plays a DJ\u2019s choice song half the number of times he plays an oldie. Since there are 2 oldies requests, there are 2 / 2 = 1 DJ's choice song request.",
+    "Now, add up all the known requests: Electropop (15) + Dance (5) + Rock (5) + Oldies (2) + DJ's choice (1) = 28 known requests.",
+    "The total number of song requests per night is 30. To find the number of rap song requests, subtract the number of known requests from the total requests. So, 30 - 28 = 2 rap song requests."
+  ],
+  "solution": "2"
+}

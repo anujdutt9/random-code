@@ -1,0 +1,20 @@
+{
+  "query": "In a community of 50 families, 15 families own 2 dogs, 20 families own 1 dog, while the remaining families own 2 cats each. How many dogs and cats are there in all?",
+  "steps": [
+    "First, I need to determine how many families own pets. There are 50 families in total.",
+    "I know that 15 families own 2 dogs each.",
+    "Also, 20 families own 1 dog each.",
+    "The remaining families must own cats.",
+    "To find the number of remaining families, subtract families owning dogs from total families: 50 - 15 - 20 = 15 families own cats.",
+    "These 15 families own 2 cats each.",
+    "Now, I'll calculate the total number of dogs.",
+    "15 families own 2 dogs each, so they have 15 * 2 = 30 dogs.",
+    "20 families own 1 dog each, contributing 20 dogs.",
+    "Adding up all the dogs, there are 30 + 20 = 50 dogs in total.",
+    "Next, I'll calculate the total number of cats.",
+    "15 families own 2 cats each, resulting in 15 * 2 = 30 cats.",
+    "Finally, I will add the number of dogs and cats together to find the total number of pets.",
+    "Adding dogs and cats, there are 50 + 30 = 80 pets in total."
+  ],
+  "solution": "80"
+}

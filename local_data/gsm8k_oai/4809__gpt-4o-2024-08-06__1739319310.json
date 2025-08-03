@@ -1,0 +1,13 @@
+{
+  "query": "Jerry owes a loan shark $200. The loan shark charges Jerry 10% interest compounded monthly. (This means that every month the loan shark adds Jerry's interest amount to his loan, and the next month Jerry has to pay 10% on the new total). If Jerry doesn't make any payments, how much (in dollars) does the loan shark charge in interest the second month?",
+  "steps": [
+    "Jerry owes $200 initially.",
+    "The interest rate is 10% compounded monthly.",
+    "In the first month, Jerry is charged 10% interest on the $200.",
+    "10% of $200 is $20.",
+    "After the first month, Jerry owes $200 + $20 = $220.",
+    "In the second month, Jerry is charged 10% interest on the new amount of $220.",
+    "10% of $220 is $22."
+  ],
+  "solution": "22"
+}

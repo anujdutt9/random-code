@@ -1,0 +1,21 @@
+{
+  "query": "On the planet Popton, there are two races of beings: the Hoopits and Neglarts.  Each Hoopit has 3 toes on each of their 4 hands, while each Neglart only has 2 toes on each of their 5 hands. If a Popton automated driverless school bus always carries 7 Hoopit students and 8 Neglart students, how many toes are on the Popton school bus?",
+  "steps": [
+    "First, I need to find out how many toes one Hoopit has. Each Hoopit has 4 hands.",
+    "Each hand of a Hoopit has 3 toes.",
+    "Therefore, one Hoopit has 4 hands \u00d7 3 toes per hand = 12 toes.",
+    "Now, I need to find out how many toes one Neglart has. Each Neglart has 5 hands.",
+    "Each hand of a Neglart has 2 toes.",
+    "Therefore, one Neglart has 5 hands \u00d7 2 toes per hand = 10 toes.",
+    "Now, let's find the number of Hoopits on the bus: 7 Hoopits.",
+    "Each Hoopit has 12 toes, and there are 7 Hoopits.",
+    "The total number of toes from Hoopits is 7 Hoopits \u00d7 12 toes per Hoopit = 84 toes.",
+    "Next, I find the number of Neglarts on the bus: 8 Neglarts.",
+    "Each Neglart has 10 toes, and there are 8 Neglarts.",
+    "The total number of toes from Neglarts is 8 Neglarts \u00d7 10 toes per Neglart = 80 toes.",
+    "Now, I need to add the total number of toes from Hoopits and Neglarts to find the total number of toes on the bus.",
+    "Total toes on the bus = 84 toes from Hoopits + 80 toes from Neglarts.",
+    "84 + 80 is 164."
+  ],
+  "solution": "164"
+}

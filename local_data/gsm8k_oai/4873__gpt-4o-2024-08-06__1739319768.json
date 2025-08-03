@@ -1,0 +1,15 @@
+{
+  "query": "Erik's dog can run 24 miles per hour. It is chasing a rabbit that can run 15 miles per hour. The rabbit has a head start of .6 miles. How many minutes does it take for the dog to catch up to the rabbit?",
+  "steps": [
+    "First, I need to determine the relative speed of the dog compared to the rabbit.",
+    "The dog runs at 24 miles per hour, while the rabbit runs at 15 miles per hour.",
+    "The relative speed of the dog compared to the rabbit is 24 - 15 = 9 miles per hour.",
+    "Now, I need to calculate how long it will take for the dog to cover the head start distance of 0.6 miles at this relative speed.",
+    "The time it takes to cover a distance at a given speed can be calculated using the formula: time = distance / speed.",
+    "Using this formula, the time it takes for the dog to catch up is 0.6 miles divided by 9 miles per hour.",
+    "0.6 / 9 = 0.0667 hours.",
+    "To convert hours into minutes, I need to multiply the time in hours by 60.",
+    "0.0667 hours * 60 minutes/hour = 4 minutes."
+  ],
+  "solution": "4"
+}

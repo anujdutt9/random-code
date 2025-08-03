@@ -1,0 +1,13 @@
+{
+  "query": "Mark has 12 candy bars in total between Mars bars, Snickers, and Butterfingers.  He has 3 Snickers and 2 Mars bars.  How many Butterfingers does he have?",
+  "steps": [
+    "Mark has a total of 12 candy bars.",
+    "He has 3 Snickers.",
+    "He has 2 Mars bars.",
+    "To find out how many Butterfingers he has, I need to first add the number of Snickers and Mars bars.",
+    "3 Snickers + 2 Mars bars = 5 candy bars.",
+    "Now, I subtract the total number of Snickers and Mars bars from the total number of candy bars to find the number of Butterfingers.",
+    "12 total candy bars - 5 candy bars (Snickers and Mars bars) = 7 Butterfingers."
+  ],
+  "solution": "7"
+}

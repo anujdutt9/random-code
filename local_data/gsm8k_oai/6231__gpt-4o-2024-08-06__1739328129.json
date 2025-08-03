@@ -1,0 +1,21 @@
+{
+  "query": "Ms. Warren ran at 6 mph for 20 minutes. After the run, she walked at 2 mph for 30 minutes. How many miles did she run and walk in total?",
+  "steps": [
+    "I need to calculate the distance Ms. Warren ran first, using the formula: distance = speed \u00d7 time.",
+    "She was running at a speed of 6 mph for 20 minutes.",
+    "I must convert the running time from minutes to hours because the speed is in miles per hour.",
+    "20 minutes is equal to 20/60 hours, which simplifies to 1/3 of an hour.",
+    "The distance she ran is 6 mph \u00d7 1/3 hours.",
+    "Calculating that gives a distance of 2 miles for running.",
+    "Next, I calculate the distance she walked.",
+    "She was walking at a speed of 2 mph for 30 minutes.",
+    "Similarly, convert the walking time from minutes to hours.",
+    "30 minutes is equal to 30/60 hours, which simplifies to 1/2 hour.",
+    "The distance she walked is 2 mph \u00d7 1/2 hours.",
+    "Calculating that gives a distance of 1 mile for walking.",
+    "Now, add the distances from running and walking to get the total distance.",
+    "The total distance is 2 miles (running) + 1 mile (walking).",
+    "The calculation results in a total distance of 3 miles."
+  ],
+  "solution": "3"
+}

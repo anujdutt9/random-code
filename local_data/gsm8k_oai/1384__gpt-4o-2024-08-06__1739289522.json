@@ -1,0 +1,13 @@
+{
+  "query": "Bill is stocking the kitchenware section of the Walmart. He needs to stack 60 pots. On each shelf, he can stack five pots vertically and three sets of vertically stacked pots side-by-side. How many shelves does he need to stock all the pots?",
+  "steps": [
+    "First, I need to understand how many pots can fit on one shelf. Bill can stack 5 pots vertically.",
+    "He can place 3 sets of these vertically stacked pots side-by-side on one shelf.",
+    "Therefore, each shelf can hold 5 pots per set x 3 sets = 15 pots.",
+    "Bill needs to stock 60 pots in total.",
+    "I need to calculate how many such shelves, each holding 15 pots, Bill needs to store all 60 pots.",
+    "60 pots \u00f7 15 pots per shelf = 4 shelves.",
+    "Since 60 divided by 15 is exactly 4, there are no leftover pots."
+  ],
+  "solution": "4"
+}

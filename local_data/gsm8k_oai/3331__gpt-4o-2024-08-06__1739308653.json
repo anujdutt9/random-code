@@ -1,0 +1,18 @@
+{
+  "query": "Hasan is packing up his apartment because he\u2019s moving across the country for a new job. He needs to ship several boxes to his new home. The movers have asked that Hasan avoid putting more than a certain weight in pounds in any cardboard box. The moving company has helpfully provided Hasan with a digital scale that will alert him if a package is too heavy. Hasan is in the kitchen, and he fills a cardboard box with 38 dinner plates. When he checks the box, the scale reports his box is too heavy. Hasan knows each of his plates weighs 10 ounces. He removes a single plate from the box and checks the movers\u2019 scale again. The scale reports his box is still too heavy. Hasan repeats the process again and again. When he has removed enough plates, the movers\u2019 scale shows the box is now an acceptable weight for shipping. Hasan deduces that each shipping box can hold 20 pounds before the scale says the box is too heavy.  How many plates did Hasan need to remove from the shipping box?",
+  "steps": [
+    "I will start by understanding the weight limit and the weight of each plate. The weight limit per box is 20 pounds.",
+    "I need to convert the pounds into ounces to match the weight units of the plates. There are 16 ounces in a pound.",
+    "20 pounds is equal to 20 x 16 ounces.",
+    "20 x 16 = 320 ounces. So, the box can hold up to 320 ounces.",
+    "Each plate weighs 10 ounces. Hasan initially packed 38 plates in the box.",
+    "The weight of 38 plates is 38 plates x 10 ounces per plate.",
+    "38 x 10 = 380 ounces. The initial weight of the plates in the box is 380 ounces.",
+    "I need to calculate how many ounces over the weight limit the box was.",
+    "380 ounces (initial weight) - 320 ounces (maximum weight limit) = 60 ounces over the limit.",
+    "I need to find out how many plates weighing 10 ounces each should be removed to reduce the weight by at least 60 ounces.",
+    "To find out how many plates to remove, I will divide the excess weight by the weight of one plate.",
+    "60 ounces / 10 ounces per plate = 6 plates."
+  ],
+  "solution": "6"
+}

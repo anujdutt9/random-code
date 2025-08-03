@@ -1,0 +1,12 @@
+{
+  "query": "Question: What can you do to a door but not to a jar?\n\nChoices:\nA: found at shower\nB: opened\nC: found up store\nD: closed\nE: locked",
+  "steps": [
+    "First, let's analyze the abilities we have with a door. Typically, doors can be opened, closed, and locked.",
+    "Next, consider what we can do with a jar. Jars can also be opened and closed, but they typically cannot be locked in the same way a door can.",
+    "Now, let's look at the choices provided. The action of \"opened\" (B) can be applied to both a door and a jar. The action of \"closed\" (D) can also apply to both.",
+    "The action \"locked\" (E) specifically applies to doors and does not generally apply to jars. Jars do not have a mechanism to be locked like a door.",
+    "The other two choices \"found at shower\" (A) and \"found up store\" (C) do not relate to actions toward a door or a jar. So they can be discarded as options.",
+    "Given the analysis, the only option that is an action exclusively applicable to a door but not to a jar is \"locked.\""
+  ],
+  "solution": "E"
+}

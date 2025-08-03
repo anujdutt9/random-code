@@ -1,0 +1,15 @@
+{
+  "query": "Julie runs the school newspaper. In preparation for printing the next issue of The School News, she bought two boxes of standard paper, each containing 5 packages, with 250 sheets of paper per package.  If this issue of The School News uses 25 sheets of paper to print one newspaper, how many newspapers can Julie print with the paper that she purchased?",
+  "steps": [
+    "First, I need to calculate how many sheets of paper are in one box. There are 5 packages per box, and each package has 250 sheets.",
+    "I multiply 5 packages per box by 250 sheets per package.",
+    "5 * 250 = 1250 sheets of paper per box.",
+    "Now, I need to determine the total number of boxes Julie bought. The problem states that she bought two boxes.",
+    "Next, I multiply the number of sheets per box by the number of boxes to get the total number of sheets of paper Julie has.",
+    "1250 sheets per box * 2 boxes = 2500 sheets.",
+    "Now, I need to calculate how many newspapers can be printed with these 2500 sheets. Each newspaper uses 25 sheets of paper.",
+    "I divide the total number of sheets by the number of sheets required per newspaper.",
+    "2500 sheets / 25 sheets per newspaper = 100 newspapers."
+  ],
+  "solution": "100"
+}

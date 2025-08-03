@@ -1,0 +1,20 @@
+{
+  "query": "Lulu has $65 in her piggy bank. She spent $5 on ice cream. She then spent half of the remainder of the money on a t-shirt. Afterwards, she went to the bank and deposited a fifth of her remaining money. How much cash was Lulu left with?",
+  "steps": [
+    "Lulu starts with $65.",
+    "Lulu spends $5 on ice cream.",
+    "After spending $5, Lulu has $65 - $5 left.",
+    "$65 - $5 is $60.",
+    "Lulu now spends half of her remaining money on a t-shirt.",
+    "Half of $60 is calculated as $60 / 2.",
+    "$60 / 2 is $30.",
+    "After spending $30 on a t-shirt, Lulu has $60 - $30 left.",
+    "$60 - $30 is $30.",
+    "Lulu then deposits a fifth of her remaining money in the bank.",
+    "A fifth of $30 is calculated as $30 / 5.",
+    "$30 / 5 is $6.",
+    "After depositing $6 in the bank, Lulu has $30 - $6 left.",
+    "$30 - $6 is $24."
+  ],
+  "solution": "24"
+}

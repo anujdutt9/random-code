@@ -1,0 +1,12 @@
+{
+  "query": "A clerk can process 25 forms per hour. If 2400 forms must be processed in an 8-hour day, how many clerks must you hire for that day?",
+  "steps": [
+    "First, determine how many forms one clerk can process in a single day. A clerk can process 25 forms per hour.",
+    "Since there are 8 hours in a workday, calculate the total forms a clerk can process in a day: 25 forms/hour \u00d7 8 hours = 200 forms/day.",
+    "Now, determine how many clerks are needed to process all 2400 forms in one day.",
+    "Divide the total number of forms by the number of forms one clerk can process in a day: 2400 forms \u00f7 200 forms/clerks.",
+    "Calculate 2400 \u00f7 200. This equals 12.",
+    "Therefore, 12 clerks are required to process 2400 forms in an 8-hour workday."
+  ],
+  "solution": "12"
+}

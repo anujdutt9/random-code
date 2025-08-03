@@ -1,0 +1,17 @@
+{
+  "query": "Jeremy decides to take Tylenol because of the pain he is experiencing. He decides to take 1000 mg every 6 hours for 2 weeks.  How many pills do they take if they are each 500 mg?",
+  "steps": [
+    "Jeremy decides to take 1000 mg of Tylenol every 6 hours.",
+    "Each pill is 500 mg.",
+    "To get a dose of 1000 mg, Jeremy needs to take 2 pills (since 500 mg + 500 mg = 1000 mg).",
+    "Jeremy takes 1000 mg (or 2 pills) every 6 hours.",
+    "There are 24 hours in a day.",
+    "To find out how many doses he takes per day, divide 24 hours by 6 hours: 24 / 6 = 4 doses per day.",
+    "Since each dose consists of 2 pills, Jeremy takes 4 x 2 = 8 pills per day.",
+    "Jeremy plans to take Tylenol for 2 weeks.",
+    "There are 7 days in a week.",
+    "Thus, 2 weeks have 2 x 7 = 14 days.",
+    "If Jeremy takes 8 pills each day, then over 14 days he takes 14 x 8 = 112 pills."
+  ],
+  "solution": "112"
+}

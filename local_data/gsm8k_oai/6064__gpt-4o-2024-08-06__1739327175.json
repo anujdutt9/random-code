@@ -1,0 +1,15 @@
+{
+  "query": "All of the beads in Sue's necklace are either purple, blue, or green. If Sue has 7 purple beads, twice as many blue beads as purple beads, and 11 more green beads than blue beads, how many beads are in the necklace?",
+  "steps": [
+    "First, I need to figure out the number of blue beads. The problem states that there are twice as many blue beads as purple beads.",
+    "Sue has 7 purple beads.",
+    "Since there are twice as many blue beads as purple beads, I calculate: 2 * 7 = 14 blue beads.",
+    "Next, I need to find out how many green beads Sue has.",
+    "The problem states that Sue has 11 more green beads than blue beads.",
+    "I know there are 14 blue beads, so to find the green beads, I calculate: 14 + 11 = 25 green beads.",
+    "Now, I have the count of all types of beads: 7 purple beads, 14 blue beads, and 25 green beads.",
+    "To find the total number of beads, I add up all the beads: 7 + 14 + 25.",
+    "Adding these numbers together: 7 + 14 = 21, then 21 + 25 = 46."
+  ],
+  "solution": "46"
+}

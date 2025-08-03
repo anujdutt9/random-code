@@ -1,0 +1,16 @@
+{
+  "query": "Jim has 2 rows of 4 trees to start.  When he turns 10 he decides to plant a new row of trees every year on his birthday.  On his 15th birthday after he doubles the number of trees he has.  How many trees does he have?",
+  "steps": [
+    "Jim starts with 2 rows of 4 trees each.",
+    "The initial number of trees is 2 rows * 4 trees/row = 8 trees.",
+    "Jim starts planting a new row of trees every year at the age of 10.",
+    "From ages 10 to 14, Jim plants one new row of 4 trees per year.",
+    "I need to calculate the number of rows added from age 10 to 14. That is 14 - 10 + 1 = 5 additional rows.",
+    "Each new row contains 4 trees.",
+    "The total number of trees added from these new rows is 5 rows * 4 trees/row = 20 trees.",
+    "Adding the initial trees, Jim has 8 + 20 = 28 trees before his 15th birthday.",
+    "On his 15th birthday, Jim doubles the number of trees he has.",
+    "Doubling 28 trees, Jim has 28 * 2 = 56 trees."
+  ],
+  "solution": "56"
+}

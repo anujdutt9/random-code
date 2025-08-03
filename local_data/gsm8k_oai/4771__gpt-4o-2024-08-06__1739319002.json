@@ -1,0 +1,17 @@
+{
+  "query": "John rents a car to visit his family.  It cost $150 to rent the car.  He also had to buy 8 gallons of gas to fill it up and gas is $3.50 per gallon.  The final expense is $.50 per mile.  If he drove 320 miles how much did it cost?",
+  "steps": [
+    "First, I need to calculate the cost of the gas John bought. He bought 8 gallons of gas, each costing $3.50.",
+    "The cost of the gas is 8 gallons multiplied by $3.50 per gallon.",
+    "8 gallons * $3.50/gallon = $28",
+    "Next, I need to calculate the cost of driving 320 miles at a rate of $0.50 per mile.",
+    "The cost of driving is 320 miles multiplied by $0.50 per mile.",
+    "320 miles * $0.50/mile = $160",
+    "Now, I need to add up all the costs: the car rental, the gas, and the per mile cost.",
+    "The car rental cost is $150, the gas cost is $28, and the driving cost is $160.",
+    "I add these amounts together: $150 + $28 + $160.",
+    "$150 + $28 = $178",
+    "$178 + $160 = $338"
+  ],
+  "solution": "338"
+}

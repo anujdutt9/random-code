@@ -1,0 +1,15 @@
+{
+  "query": "Jane runs 3 kilometers in two hours. What is her speed in meters per minute?",
+  "steps": [
+    "First, I need to convert the distance from kilometers to meters.",
+    "There are 1,000 meters in a kilometer.",
+    "So, 3 kilometers is equal to 3 * 1,000 = 3,000 meters.",
+    "Next, I need to convert the time from hours to minutes.",
+    "There are 60 minutes in an hour.",
+    "So, 2 hours is equal to 2 * 60 = 120 minutes.",
+    "Now, I have the distance in meters and the time in minutes: 3,000 meters and 120 minutes.",
+    "To find the speed in meters per minute, I need to divide the total distance in meters by the total time in minutes.",
+    "3,000 meters divided by 120 minutes equals 25 meters per minute."
+  ],
+  "solution": "25"
+}

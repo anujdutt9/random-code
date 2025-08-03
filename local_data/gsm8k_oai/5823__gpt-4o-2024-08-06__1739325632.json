@@ -1,0 +1,13 @@
+{
+  "query": "The faucet in Betsy's bathroom is broken. Every minute it drips about 10 times. What amount of water is wasted during one hour if each drop contains 0.05 mL?",
+  "steps": [
+    "First, I need to determine how many drops there are in one hour.",
+    "Since there are 10 drips per minute, I'll multiply 10 drips by the number of minutes in one hour, which is 60.",
+    "10 drips/minute \u00d7 60 minutes = 600 drips in one hour.",
+    "Next, I need to calculate the total amount of water wasted in one hour.",
+    "I know each drop contains 0.05 mL.",
+    "I'll multiply the number of drops by the amount of water in each drop to get the total volume of water wasted.",
+    "600 drips \u00d7 0.05 mL/drip = 30 mL."
+  ],
+  "solution": "30"
+}

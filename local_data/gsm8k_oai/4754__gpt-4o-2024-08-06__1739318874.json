@@ -1,0 +1,15 @@
+{
+  "query": "Mickey's number is greater than Jayden's number by exactly 20. If Jayden's number is 40 less than Coraline's number, and Coraline's number is 80, calculate the total of the numbers they have.",
+  "steps": [
+    "I need to start by identifying the numbers given in the problem.",
+    "Coraline's number is stated to be 80.",
+    "Jayden's number is 40 less than Coraline's number.",
+    "I calculate Jayden's number by subtracting 40 from Coraline's number: Jayden's number = 80 - 40 = 40.",
+    "Mickey's number is greater than Jayden's number by 20.",
+    "I calculate Mickey's number by adding 20 to Jayden's number: Mickey's number = 40 + 20 = 60.",
+    "Now, I find the total of Mickey's, Jayden's, and Coraline's numbers.",
+    "The total is Mickey's number + Jayden's number + Coraline's number = 60 + 40 + 80.",
+    "I perform the addition: 60 + 40 = 100, and then 100 + 80 = 180."
+  ],
+  "solution": "180"
+}

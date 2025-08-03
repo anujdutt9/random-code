@@ -1,0 +1,17 @@
+{
+  "query": "John buys a chair. He then buys a table that is 3 times the price of the chair. Then, he buys a couch that is 5 times the price of the table. If John paid $380 for all these items, what is the price of the couch?",
+  "steps": [
+    "Let the price of the chair be \\( x \\).",
+    "The price of the table is 3 times the price of the chair, which is \\( 3x \\).",
+    "The price of the couch is 5 times the price of the table, which is \\( 5 \\times 3x = 15x \\).",
+    "The total cost of the chair, table, and couch is \\( x + 3x + 15x \\).",
+    "Simplifying, we get \\( x + 3x + 15x = 19x \\).",
+    "According to the problem, this total is $380. So, \\( 19x = 380 \\).",
+    "To find \\( x \\), divide both sides by 19: \\( x = 380 / 19 \\).",
+    "Calculate \\( 380 / 19 \\).",
+    "\\( 380 / 19 = 20 \\), so the price of the chair \\( x \\) is $20.",
+    "The table, being 3 times the price of the chair, costs \\( 3 \\times 20 = 60 \\).",
+    "The couch, being 5 times the price of the table, costs \\( 5 \\times 60 = 300 \\)."
+  ],
+  "solution": "300"
+}

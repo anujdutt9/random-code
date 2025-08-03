@@ -1,0 +1,15 @@
+{
+  "query": "Dan is digging graves for a family killed by COVID-19. If it takes Dan 3 hours to dig an adult grave and 2 hours to dig a child's grave, how long does it take him to dig 5 adult graves and one child's grave?",
+  "steps": [
+    "First, I identify the task required: Dan needs to dig 5 adult graves and 1 child's grave.",
+    "Next, I need to determine the time it takes to dig each type of grave. I am given that it takes Dan 3 hours to dig an adult grave.",
+    "Since there are 5 adult graves to dig, I multiply the time it takes for one adult grave (3 hours) by the number of adult graves (5).",
+    "3 hours x 5 graves = 15 hours",
+    "Now I need to determine the time it takes to dig a child's grave. I am given that it takes Dan 2 hours to dig a child's grave.",
+    "There is only 1 child's grave to dig, so the total time for digging the child's grave is simply 2 hours x 1 grave.",
+    "2 hours x 1 = 2 hours",
+    "Finally, I add the total time for the adult graves and the child grave to find the total time required.",
+    "15 hours (adult graves) + 2 hours (child's grave) = 17 hours"
+  ],
+  "solution": "17"
+}

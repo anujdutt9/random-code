@@ -1,0 +1,20 @@
+{
+  "query": "Susan is making jewelry with a repeating pattern that has 3 green beads, 5 purple beads, and twice as many red beads as green beads. If the pattern repeats three times per bracelet and 5 times per necklace, how many beads does she need to make 1 bracelets and 10 necklaces?",
+  "steps": [
+    "First, I need to figure out how many red beads there are in one pattern. The problem states there are twice as many red beads as green beads.",
+    "There are 3 green beads in one pattern.",
+    "Twice the number of green beads is 3 * 2 = 6 red beads.",
+    "Now, I will count the total number of beads in one complete pattern.",
+    "The pattern contains 3 green beads, 5 purple beads, and 6 red beads.",
+    "Adding them gives a total of 3 + 5 + 6 = 14 beads in one pattern.",
+    "The problem states that the pattern repeats three times in one bracelet.",
+    "Therefore, one bracelet needs 14 * 3 = 42 beads.",
+    "Next, I need to find out the number of beads for one necklace.",
+    "The pattern repeats five times in one necklace.",
+    "Hence, one necklace requires 14 * 5 = 70 beads.",
+    "Now I will calculate the total for 1 bracelet and 10 necklaces.",
+    "The total beads for 10 necklaces is 10 * 70 = 700 beads.",
+    "Adding the beads needed for the bracelet and the necklaces gives 42 + 700 = 742 beads."
+  ],
+  "solution": "742"
+}

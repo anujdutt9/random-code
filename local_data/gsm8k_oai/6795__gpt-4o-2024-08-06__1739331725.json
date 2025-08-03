@@ -1,0 +1,15 @@
+{
+  "query": "Stephanie is planning dinners to cook for the week and needs to figure out how much of each ingredient she should buy at the grocery store. She is making three recipes that call for lower sodium soy sauce as a main ingredient. One bottle of lower sodium soy sauce holds 16 ounces. There are 8 ounces in 1 cup. The first recipe Stephanie is going to cook calls for 2 cups of lower sodium soy sauce. The second recipe calls for 1 cup. The third recipe calls for 3 cups. If Stephanie can only buy 1 whole bottle of soy sauce no matter how much she needs exactly, how many bottles of lower sodium soy sauce should Stephanie buy to allow for all three recipes?",
+  "steps": [
+    "First, I need to determine the total amount of soy sauce Stephanie needs in ounces.",
+    "The first recipe calls for 2 cups of soy sauce. Since there are 8 ounces in 1 cup, 2 cups would be 2 * 8 = 16 ounces.",
+    "The second recipe calls for 1 cup of soy sauce, which is 1 * 8 = 8 ounces.",
+    "The third recipe calls for 3 cups of soy sauce, which is 3 * 8 = 24 ounces.",
+    "Now, I will add the ounces from all three recipes to find the total amount of soy sauce required.",
+    "16 ounces (first recipe) + 8 ounces (second recipe) + 24 ounces (third recipe) equals 48 ounces in total.",
+    "I know each bottle of soy sauce contains 16 ounces.",
+    "I will now calculate how many 16-ounce bottles are needed to make up 48 ounces.",
+    "48 ounces divided by 16 ounces per bottle equals 3 bottles."
+  ],
+  "solution": "3"
+}

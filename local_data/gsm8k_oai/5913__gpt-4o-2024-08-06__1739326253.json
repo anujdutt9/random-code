@@ -1,0 +1,22 @@
+{
+  "query": "Julia had to make 6 cakes for the party. Each cake takes 12 minutes to mix and needs 9 more minutes to bake than mix. Then it takes 6 more minutes to cool and decorate than to bake. How many hours will it take to make all 6 cakes?",
+  "steps": [
+    "First, I need to calculate how much time it takes to mix one cake.",
+    "Each cake takes 12 minutes to mix.",
+    "Next, I need to calculate how much time it takes to bake one cake.",
+    "The baking time is 9 more minutes than the mixing time.",
+    "The mixing time is 12 minutes, so the baking time is 12 + 9 = 21 minutes.",
+    "Now, I need to calculate how much time it takes to cool and decorate one cake.",
+    "The cooling and decorating time is 6 more minutes than the baking time.",
+    "The baking time is 21 minutes, so the cooling and decorating time is 21 + 6 = 27 minutes.",
+    "Now, I need to find out the total time for making one cake.",
+    "The total time for one cake is the sum of the mixing, baking, and cooling/decorating times.",
+    "That is 12 (mixing) + 21 (baking) + 27 (cooling/decorating) = 60 minutes.",
+    "Now, I need to calculate the total time for making all 6 cakes.",
+    "The time for one cake is 60 minutes, so for 6 cakes it is 60 * 6 = 360 minutes.",
+    "Finally, I need to convert the total time from minutes to hours.",
+    "There are 60 minutes in an hour, so I divide 360 minutes by 60.",
+    "360 divided by 60 equals 6."
+  ],
+  "solution": "6"
+}

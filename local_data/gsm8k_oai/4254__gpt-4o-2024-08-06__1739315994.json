@@ -1,0 +1,14 @@
+{
+  "query": "If Tony normally has a temperature of 95 degrees, and he comes down with a sickness that raises his temperature by 10 degrees, how many degrees above the threshold of fever is his temperature if a fever is anything over 100 degrees?",
+  "steps": [
+    "First, I need to determine Tony's new temperature after his sickness raise.",
+    "Tony's normal temperature is 95 degrees.",
+    "The sickness raises his temperature by 10 degrees.",
+    "Add the increase to his normal temperature: 95 degrees + 10 degrees = 105 degrees.",
+    "Next, I need to find out how much 105 degrees is above the fever threshold.",
+    "The fever threshold is anything over 100 degrees.",
+    "Subtract the fever threshold from Tony's new temperature: 105 degrees - 100 degrees = 5 degrees.",
+    "Tony's temperature is 5 degrees above the fever threshold."
+  ],
+  "solution": "5"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "John decides to get gym memberships so he can get in shape.  The gym close to his house is close but doesn't have everything he wants so he gets two different gym memberships.  The cheap one costs $10 a month and has a sign-up fee of $50.  The second gym is 3 times more expensive and it has a sign-up fee of 4 months membership.  How much total did he pay in the first year for gym membership?",
+  "steps": [
+    "First, I need to calculate the cost of the cheap gym for one year.",
+    "The monthly cost of the cheap gym is $10.",
+    "The annual cost is $10/month * 12 months = $120.",
+    "The sign-up fee for the cheap gym is $50.",
+    "The total cost for the cheap gym in the first year is $120 (annual cost) + $50 (sign-up fee) = $170.",
+    "Next, I calculate the cost of the more expensive gym.",
+    "The monthly cost of the expensive gym is 3 times the cheap gym's cost, so it is $10 * 3 = $30.",
+    "The annual cost of the expensive gym is $30/month * 12 months = $360.",
+    "The sign-up fee for the expensive gym is equivalent to 4 months of membership.",
+    "Four months of membership at the expensive gym costs $30/month * 4 months = $120.",
+    "The total cost for the expensive gym in the first year is $360 (annual cost) + $120 (sign-up fee) = $480.",
+    "Now, I add the total cost of both gym memberships for the first year.",
+    "The total cost is $170 (cheap gym) + $480 (expensive gym) = $650."
+  ],
+  "solution": "650"
+}

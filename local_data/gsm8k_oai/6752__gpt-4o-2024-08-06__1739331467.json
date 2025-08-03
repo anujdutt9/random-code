@@ -1,0 +1,17 @@
+{
+  "query": "Cassandra bought four dozen Granny Smith apples and used them to make four apple pies.  She cut each pie into 6 large pieces.  How many apples are in each slice of pie?",
+  "steps": [
+    "First, I need to understand the total number of apples Cassandra bought. She bought four dozen Granny Smith apples.",
+    "A dozen equals 12, so four dozen apples is 4 times 12.",
+    "Calculating 4 times 12 gives me 48 apples in total.",
+    "Next, these 48 apples were used to make four apple pies. I need to determine how many apples were used per pie.",
+    "To find out how many apples were used in each pie, I divide the total number of apples, which is 48, by the number of pies, which is 4.",
+    "48 apples divided by 4 pies equals 12 apples per pie.",
+    "Each pie is then cut into 6 large pieces.",
+    "I need to determine how many apples are in each slice of pie.",
+    "To get the number of apples per slice, I divide the number of apples per pie by the number of slices per pie.",
+    "There are 12 apples per pie and 6 slices in each pie, so I divide 12 apples by 6 slices.",
+    "12 divided by 6 equals 2."
+  ],
+  "solution": "2"
+}

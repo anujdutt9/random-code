@@ -1,0 +1,21 @@
+{
+  "query": "A bag was originally priced at $500. A week after, the price was reduced by 5%. Since the bag was still not sold, the selling price was reduced by 4% a month after. How much was the total reduction from the original selling price?",
+  "steps": [
+    "The original price of the bag was $500.",
+    "First, the price was reduced by 5%.",
+    "To find the price reduction, I calculate 5% of $500.",
+    "5% of $500 is $500 \u00d7 0.05 = $25.",
+    "Subtracting this reduction from the original price gives the first reduced price.",
+    "First reduced price = $500 - $25 = $475.",
+    "A month later, the price was reduced by another 4%.",
+    "Now I calculate 4% of the first reduced price, which is $475.",
+    "4% of $475 is $475 \u00d7 0.04 = $19.",
+    "Subtracting this reduction from the first reduced price gives the final selling price.",
+    "Final selling price = $475 - $19 = $456.",
+    "Now, I need to find the total reduction from the original price.",
+    "The total reduction is the original price minus the final selling price.",
+    "Total reduction = $500 - $456 = $44.",
+    "The total reduction from the original selling price is $44."
+  ],
+  "solution": "44"
+}

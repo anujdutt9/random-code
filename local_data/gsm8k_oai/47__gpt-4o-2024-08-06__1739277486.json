@@ -1,0 +1,20 @@
+{
+  "query": "The file, 90 megabytes in size, downloads at the rate of 5 megabytes per second for its first 60 megabytes, and then 10 megabytes per second thereafter. How long, in seconds, does it take to download entirely?",
+  "steps": [
+    "The total file size is 90 megabytes.",
+    "The download rate for the first 60 megabytes is 5 megabytes per second.",
+    "I need to calculate how many seconds it takes to download the first 60 megabytes at 5 megabytes per second.",
+    "To find the time for the first 60 megabytes, I use the formula: time = size / rate.",
+    "Time for the first 60 megabytes = 60 megabytes / 5 megabytes per second.",
+    "Time for the first 60 megabytes = 12 seconds.",
+    "Next, I need to calculate the time for the remaining 30 megabytes.",
+    "The download rate for the remaining 30 megabytes is 10 megabytes per second.",
+    "Time for the remaining 30 megabytes = 30 megabytes / 10 megabytes per second.",
+    "Time for the remaining 30 megabytes = 3 seconds.",
+    "Now I add the two times together to find the total download time.",
+    "Total time = Time for the first 60 megabytes + Time for the remaining 30 megabytes.",
+    "Total time = 12 seconds + 3 seconds.",
+    "Total time = 15 seconds."
+  ],
+  "solution": "15"
+}

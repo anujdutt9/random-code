@@ -1,0 +1,15 @@
+{
+  "query": "Andy had a platter of chocolate cookies. He ate 3 of them then gave his little brother 5 because he was behaving. He then handed the platter to his basketball team of eight members. The first player to arrive took 1, the second player to arrive took 3, the third player took 5, and so on. When the last player took his share, the platter was empty. How many chocolate cookies did Andy have from start with?",
+  "steps": [
+    "Let's start by calculating the total number of cookies Andy gave to his basketball team. The number of cookies taken by each team member forms an arithmetic sequence with the first term \\(a = 1\\) and a common difference of \\(d = 2\\).",
+    "There are eight members in the basketball team, so the sequence is 1, 3, 5, 7, 9, 11, 13, 15.",
+    "To find the sum of this arithmetic sequence, we can use the formula for the sum of an arithmetic sequence: \\[ S_n = \\frac{n}{2} \\times (a + l) \\] where \\(n\\) is the number of terms, \\(a\\) is the first term, and \\(l\\) is the last term.",
+    "Here, \\(n = 8\\), \\(a = 1\\), and \\(l = 15\\).",
+    "Plug these values into the formula: \\[ S_8 = \\frac{8}{2} \\times (1 + 15) \\]",
+    "Calculate the sum: \\[ S_8 = 4 \\times 16 = 64 \\]",
+    "The basketball team ate 64 cookies in total.",
+    "Andy ate 3 cookies himself and gave 5 cookies to his little brother. So in total, Andy consumed or gave away \\(3 + 5 = 8\\) cookies before giving them to the team.",
+    "Thus, the total number of cookies Andy had initially is the sum of the cookies eaten or given away and those consumed by the team: \\(64 + 8 = 72\\)."
+  ],
+  "solution": "72"
+}

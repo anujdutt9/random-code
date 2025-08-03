@@ -1,0 +1,12 @@
+{
+  "query": "Sara is 6 inches taller than her brother Joe. Joe is 3 inches taller than his friend Roy. If Roy is 36 inches tall, how tall is Sara?",
+  "steps": [
+    "We know that Roy is 36 inches tall.",
+    "Joe is 3 inches taller than Roy. Thus, Joe's height is 36 inches + 3 inches.",
+    "Joe's height is 39 inches.",
+    "Sara is 6 inches taller than Joe. So, we need to add 6 inches to Joe's height to find Sara's height.",
+    "Sara's height is 39 inches + 6 inches.",
+    "Sara's height is 45 inches."
+  ],
+  "solution": "45"
+}

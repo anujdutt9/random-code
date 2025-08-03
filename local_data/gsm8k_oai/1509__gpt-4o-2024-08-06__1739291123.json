@@ -1,0 +1,14 @@
+{
+  "query": "John was 66 inches tall.  He had a growth spurt and grew 2 inches per month for 3 months.  How tall is he in feet?",
+  "steps": [
+    "John's initial height is given as 66 inches.",
+    "He then grows 2 inches per month.",
+    "This growth occurs over 3 months.",
+    "The total growth over the 3 months is 2 inches/month * 3 months = 6 inches.",
+    "Adding the growth to the initial height gives 66 inches + 6 inches = 72 inches.",
+    "Now, I need to convert John's height from inches to feet.",
+    "There are 12 inches in a foot.",
+    "To convert from inches to feet, divide the total inches by 12. So, 72 inches / 12 inches/foot = 6 feet."
+  ],
+  "solution": "6"
+}

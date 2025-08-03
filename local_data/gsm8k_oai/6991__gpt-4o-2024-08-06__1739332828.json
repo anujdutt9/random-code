@@ -1,0 +1,16 @@
+{
+  "query": "Luke started working on a 1000-piece jigsaw puzzle. The first day he worked on it, he put together 10% of the pieces. On the second day, he put together another 20% of the remaining pieces from the first day. On the third day, he put together 30% of the remaining pieces from the previous day. How many pieces does he have left to complete after the third day?",
+  "steps": [
+    "Luke's puzzle has 1000 pieces in total.",
+    "On the first day, he completed 10% of the pieces.",
+    "10% of 1000 pieces is 0.10 * 1000 = 100 pieces.",
+    "After the first day, 1000 - 100 = 900 pieces remain.",
+    "On the second day, he completed 20% of the remaining 900 pieces.",
+    "20% of 900 pieces is 0.20 * 900 = 180 pieces.",
+    "After the second day, 900 - 180 = 720 pieces remain.",
+    "On the third day, he completed 30% of the remaining 720 pieces.",
+    "30% of 720 pieces is 0.30 * 720 = 216 pieces.",
+    "After the third day, 720 - 216 = 504 pieces remain."
+  ],
+  "solution": "504"
+}

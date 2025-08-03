@@ -1,0 +1,23 @@
+{
+  "query": "Jean is wanted on 3 counts of arson, 2 burglary charges, and six times as many petty larceny as burglary charges. If each arson count has a 36-month sentence, each burglary charge is 18 months and each petty larceny charge is 1/3rd as long as a burglary charge, how many months in jail is Jean facing?",
+  "steps": [
+    "First, I need to determine the total number of charges for each category.",
+    "The number of arson charges is already given: 3 counts.",
+    "The number of burglary charges is also given: 2 charges.",
+    "The problem states there are six times as many petty larceny charges as burglary charges.",
+    "Since there are 2 burglary charges, the number of petty larceny charges is 6 times 2, which is 12.",
+    "Next, I'll calculate the total jail time for each type of charge.",
+    "Each arson count carries a 36-month sentence. With 3 arson counts, the total months for arson is 3 multiplied by 36.",
+    "3 times 36 is 108 months for arson charges.",
+    "Each burglary charge has an 18-month sentence. For 2 burglary charges, I multiply 2 by 18.",
+    "2 times 18 is 36 months for burglary charges.",
+    "Each petty larceny charge carries 1/3 of the sentence of a burglary charge, so each petty larceny charge is 1/3 of 18 months.",
+    "1/3 of 18 is 6 months for each petty larceny charge.",
+    "There are 12 petty larceny charges, so I need to multiply 12 by 6 to get the total months for petty larceny charges.",
+    "12 times 6 is 72 months for petty larceny charges.",
+    "The total months in jail is the sum of months for all types of charges: 108 months for arson, 36 months for burglary, and 72 months for petty larceny.",
+    "Adding these together: 108 + 36 + 72.",
+    "108 plus 36 equals 144, and adding 72 gives a total of 216 months."
+  ],
+  "solution": "216"
+}

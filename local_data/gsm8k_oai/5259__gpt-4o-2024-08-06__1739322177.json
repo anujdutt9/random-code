@@ -1,0 +1,15 @@
+{
+  "query": "I caught 4 fewer fish than the number in my tank and added them to my fish tank. If the tank has 20 fish right now, how many did I add?",
+  "steps": [
+    "Let's call the number of fish I initially had in the tank \"T\".",
+    "I caught 4 fewer fish than the number I had in the tank; so the number of fish I caught is \"T - 4\".",
+    "According to the problem, after adding the caught fish, I now have 20 fish in total in the tank.",
+    "So the equation becomes T + (T - 4) = 20.",
+    "Combine like terms: 2T - 4 = 20.",
+    "Add 4 to both sides to isolate the term with T: 2T = 24.",
+    "Divide both sides by 2 to solve for T: T = 12.",
+    "This means I initially had 12 fish in the tank.",
+    "The number of fish I caught and added to the tank is T - 4, which is 12 - 4 = 8."
+  ],
+  "solution": "8"
+}

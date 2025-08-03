@@ -1,0 +1,16 @@
+{
+  "query": "Annalise was sent by her mother to the store to buy 10 boxes of Kleenex Ultra Soft Facial Tissues. If each box has 20 packs of tissues and each pack contain 100 tissues sold at five cents each, calculate the total amount of money Annalise spent to buy the ten boxes.",
+  "steps": [
+    "First, I need to find the total number of packs of tissues Annalise bought.",
+    "Annalise bought 10 boxes, and each box contains 20 packs.",
+    "So, the total number of packs is 10 boxes * 20 packs/box = 200 packs.",
+    "Next, I calculate the total number of tissues Annalise bought.",
+    "Each pack contains 100 tissues.",
+    "So, the total number of tissues is 200 packs * 100 tissues/pack = 20,000 tissues.",
+    "Now, I need to find out the total cost for all the tissues, considering each tissue sells for five cents.",
+    "The cost per tissue is $0.05.",
+    "Therefore, the total cost is 20,000 tissues * $0.05/tissue.",
+    "This calculation results in $1,000."
+  ],
+  "solution": "1000"
+}

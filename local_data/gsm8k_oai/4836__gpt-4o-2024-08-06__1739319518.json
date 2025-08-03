@@ -1,0 +1,13 @@
+{
+  "query": "Jon runs a website where he gets paid for every person who visits.  He gets paid $0.10 for every person who visits.  Each hour he gets 50 visits.  His website operates 24 hours a day.  How many dollars does he make in a 30 day month?",
+  "steps": [
+    "First, I need to find out how many visits Jon's website gets in one hour. According to the problem, Jon gets 50 visits each hour.",
+    "Since the website operates 24 hours a day, I need to calculate the number of visits in one day. To do this, I'll multiply the number of visits per hour by the number of hours in a day: 50 visits/hour \u00d7 24 hours/day.",
+    "50 visits/hour \u00d7 24 hours/day = 1200 visits/day.",
+    "Next, I need to find out how many visits Jon's website gets in a 30-day month. I'll do this by multiplying the number of visits per day by the number of days in the month: 1200 visits/day \u00d7 30 days.",
+    "1200 visits/day \u00d7 30 days = 36,000 visits/month.",
+    "Jon gets paid $0.10 for every visit. To find out how much he makes in a 30-day month, I'll multiply the total number of visits in the month by the payment per visit: 36,000 visits \u00d7 $0.10/visit.",
+    "36,000 visits \u00d7 $0.10/visit = $3600."
+  ],
+  "solution": "3600"
+}

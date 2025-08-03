@@ -1,0 +1,19 @@
+{
+  "query": "Mark wants to build a pyramid of soda cases that's four levels tall. Each level of the pyramid has a square base where each side is one case longer than the level above it. The top level is just one case. How many cases of soda does Mark need?",
+  "steps": [
+    "I need to understand how the pyramid is constructed, level by level.",
+    "The pyramid is 4 levels tall. The top level (level 1) is a 1x1 square, which means it has 1 case.",
+    "The second level is one case longer on each side than the level above, which makes it a 2x2 square.",
+    "This means the second level has 2 * 2 = 4 cases.",
+    "The third level is one case longer on each side than the level above, making it a 3x3 square.",
+    "The third level therefore has 3 * 3 = 9 cases.",
+    "The fourth and bottom level is one case longer on each side than the level above, making it a 4x4 square.",
+    "The fourth level consequently has 4 * 4 = 16 cases.",
+    "Now, I need to add up the cases from all levels to find out how many Mark needs in total.",
+    "Add the cases from each level: 1 (first level) + 4 (second level) + 9 (third level) + 16 (fourth level).",
+    "1 + 4 = 5",
+    "5 + 9 = 14",
+    "14 + 16 = 30"
+  ],
+  "solution": "30"
+}

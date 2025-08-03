@@ -1,0 +1,24 @@
+{
+  "query": "Mary went to the store to buy fruit. Apples cost $1, oranges cost $2, and bananas cost $3. For every 5 fruits that customers buy, the store offers a $1 discount. Mary buys 5 apples, 3 oranges, and 2 bananas. How much will she pay?",
+  "steps": [
+    "First, I will calculate the cost of the apples.",
+    "Mary buys 5 apples and each apple costs $1.",
+    "The total cost for apples is 5 apples * $1/apple = $5.",
+    "Next, I will calculate the cost of the oranges.",
+    "Mary buys 3 oranges and each orange costs $2.",
+    "The total cost for oranges is 3 oranges * $2/orange = $6.",
+    "Now, I will calculate the cost of the bananas.",
+    "Mary buys 2 bananas and each banana costs $3.",
+    "The total cost for bananas is 2 bananas * $3/banana = $6.",
+    "Next, I will calculate the total cost before applying any discounts.",
+    "The total cost before discount is $5 (apples) + $6 (oranges) + $6 (bananas) = $17.",
+    "Now, I will determine the discount.",
+    "Mary buys 5 + 3 + 2 = 10 fruits in total.",
+    "For every 5 fruits bought, there is a $1 discount.",
+    "Mary buys 10 fruits, so she qualifies for 10/5 = 2 discounts.",
+    "The total discount amount is 2 discounts * $1/discount = $2.",
+    "Now I will subtract the discount from the total cost.",
+    "The final amount Mary will pay is $17 (total cost) - $2 (discount) = $15."
+  ],
+  "solution": "15"
+}

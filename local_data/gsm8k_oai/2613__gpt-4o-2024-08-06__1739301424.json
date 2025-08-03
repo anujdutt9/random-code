@@ -1,0 +1,19 @@
+{
+  "query": "Tony has $87. He needs to buy some cheese, which costs $7 a pound and a pound of beef that costs $5 a pound. After buying the beef and his cheese, he has $61 left. How many pounds of cheese did he buy?",
+  "steps": [
+    "First, I need to figure out how much money Tony spends in total.",
+    "Tony started with $87 and ended up with $61.",
+    "So, the total amount Tony spent is $87 - $61.",
+    "Calculating that gives us $87 - $61 = $26.",
+    "Now I know Tony spent $26 in total for cheese and beef.",
+    "The beef costs $5 per pound. He buys 1 pound of beef because he's only referred to as purchasing a single pound.",
+    "So the cost for the beef is $5.",
+    "Now I need to subtract the cost of the beef from the total spent to find how much he spent on cheese.",
+    "The money spent on cheese is $26 (total spent) - $5 (one pound of beef) = $21.",
+    "The cheese costs $7 per pound.",
+    "To find out how many pounds of cheese Tony bought, I will divide the amount he spent on cheese by the cost per pound.",
+    "I calculate $21 (money spent on cheese) \u00f7 $7 (cost per pound of cheese).",
+    "This results in 3 pounds."
+  ],
+  "solution": "3"
+}

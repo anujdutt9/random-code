@@ -1,0 +1,19 @@
+{
+  "query": "Bob, Tom, Sally, and Jerry had dinner at their favorite pizzeria. They decide to share 2 pizzas. Bob ate half of a pizza on his own. Tom ate one-third of a pizza. Sally wasn't very hungry and only ate one-sixth of a pizza, and Jerry ate a quarter of a pizza. If each pizza is cut into 12 slices, how many slices were left over?",
+  "steps": [
+    "First, I need to understand how much pizza each person ate in slices, since each pizza is divided into 12 slices.",
+    "Bob ate half of a pizza. Since each pizza has 12 slices, half a pizza is 12 / 2 = 6 slices.",
+    "Tom ate one-third of a pizza. One-third of a pizza is 12 / 3 = 4 slices.",
+    "Sally ate one-sixth of a pizza. One-sixth of a pizza is 12 / 6 = 2 slices.",
+    "Jerry ate one-quarter of a pizza. A quarter of a pizza is 12 / 4 = 3 slices.",
+    "Now, I'll sum up the slices that each person ate: Bob's 6 slices + Tom's 4 slices + Sally's 2 slices + Jerry's 3 slices.",
+    "6 + 4 = 10",
+    "10 + 2 = 12",
+    "12 + 3 = 15",
+    "They ate a total of 15 slices.",
+    "There were 2 pizzas in total, giving 2 * 12 = 24 slices.",
+    "To find out how many slices were left over, I subtract the slices eaten from the total slices available.",
+    "24 - 15 = 9"
+  ],
+  "solution": "9"
+}

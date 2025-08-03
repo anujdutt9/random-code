@@ -1,0 +1,16 @@
+{
+  "query": "A loaf of bread was sliced into 15. Ten friends bought 4 loaves of bread. If they all eat all 4 loaves equally, how many slices of bread did each of them eat?",
+  "steps": [
+    "First, I need to determine the total number of slices from one loaf of bread.",
+    "I know that each loaf of bread is sliced into 15 slices.",
+    "There are 4 loaves of bread in total.",
+    "To find the total number of slices from all the loaves, I multiply the number of slices per loaf by the number of loaves.",
+    "15 slices/loaf * 4 loaves = 60 slices in total.",
+    "Next, I need to determine how many friends are sharing these slices.",
+    "There are 10 friends who are sharing the loaves.",
+    "Each friend gets an equal number of slices.",
+    "To find how many slices each friend gets, I divide the total number of slices by the number of friends.",
+    "60 slices / 10 friends = 6 slices per friend."
+  ],
+  "solution": "6"
+}

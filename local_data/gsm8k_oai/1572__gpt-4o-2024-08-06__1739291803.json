@@ -1,0 +1,18 @@
+{
+  "query": "Barbara got a great deal on a new chest of drawers, but she has to take a lot of paper out of the drawers to be able to use it. She found 3 bundles of colored paper, 2 bunches of white paper, and 5 heaps of scrap paper. If a bunch holds 4 sheets of paper, a bundle holds 2 sheets of paper, and a heap holds 20 sheets of paper, how many sheets of paper did Barbara remove from the chest of drawers?",
+  "steps": [
+    "I need to calculate the total number of sheets of paper Barbara removed from the chest.",
+    "First, I will calculate the total number of sheets in the colored paper bundles.",
+    "There are 3 bundles of colored paper, and each bundle holds 2 sheets of paper.",
+    "So, the total number of sheets of colored paper is 3 bundles \u00d7 2 sheets/bundle = 6 sheets.",
+    "Next, I will calculate the total number of sheets in the bunches of white paper.",
+    "There are 2 bunches of white paper, and each bunch holds 4 sheets of paper.",
+    "So, the total number of sheets of white paper is 2 bunches \u00d7 4 sheets/bunch = 8 sheets.",
+    "Now, I will calculate the total number of sheets in the heaps of scrap paper.",
+    "There are 5 heaps of scrap paper, and each heap holds 20 sheets of paper.",
+    "So, the total number of sheets of scrap paper is 5 heaps \u00d7 20 sheets/heap = 100 sheets.",
+    "Finally, I will add all the sheets together to find the total number of sheets Barbara removed.",
+    "The total is 6 sheets (colored) + 8 sheets (white) + 100 sheets (scrap) = 114 sheets."
+  ],
+  "solution": "114"
+}

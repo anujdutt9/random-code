@@ -1,0 +1,21 @@
+{
+  "query": "Mary has a mystery book library. She started with 72 mystery books at the beginning of the year. She joined a book club that sent her 1 book each month of the year. She went to a bookstore halfway through the year and bought 5 more books, then bought 2 books at yard sales later. Her daughter gave her another book for her birthday, and her mother gave her a series of 4 books when Mary visited her. She donated 12 books she didn't want to read again to a charity shop and sold 3 to a used book store. How many books did she have at the end of the year?",
+  "steps": [
+    "Mary started with 72 mystery books.",
+    "The book club sent her 1 book each month. There are 12 months in a year, so she received 12 books.",
+    "I will add those 12 books to her initial 72 books. 72 + 12 = 84.",
+    "She bought 5 more books halfway through the year at a bookstore.",
+    "I will add those 5 books to her current total. 84 + 5 = 89.",
+    "She bought 2 books at yard sales later.",
+    "I will add those 2 books to the total. 89 + 2 = 91.",
+    "Her daughter gave her another book for her birthday.",
+    "I will add that 1 book to her total. 91 + 1 = 92.",
+    "Her mother gave her a series of 4 books when she visited.",
+    "I will add those 4 books to her total. 92 + 4 = 96.",
+    "She donated 12 books she didn't want to read again.",
+    "I will subtract those 12 books from her total. 96 - 12 = 84.",
+    "She sold 3 books to a used book store.",
+    "I will subtract those 3 books from her total. 84 - 3 = 81."
+  ],
+  "solution": "81"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "A performing magician has a disappearing act where he makes a random member of his audience disappear and reappear. Unfortunately, one-tenth of the time, the audience member never reappears. However, one-fifth of the time, two people reappear instead of only one. If the magician has put on 100 performances of the act this year, how many people have reappeared?",
+  "steps": [
+    "First, I need to calculate the expected outcomes from the magician's performances.",
+    "The question states that he performed the act 100 times.",
+    "Out of these 100 performances, one-tenth of the time, the audience member never reappears.",
+    "This means that in 100 / 10 = 10 performances, no one reappeared.",
+    "One-fifth of the time, two people reappear instead of only one.",
+    "This means that in 100 / 5 = 20 performances, two people reappeared.",
+    "For the remaining performances where these two conditions do not apply, one person reappears.",
+    "Since 10 performances had no reappearance and 20 had two people reappear, that leaves 100 - 10 - 20 = 70 performances where one person reappeared.",
+    "Now, I calculate the total number of people who reappeared:",
+    "In the 10 performances where no one reappeared, 0 people reappeared.",
+    "In the 20 performances where two people reappeared, 20 * 2 = 40 people reappeared.",
+    "In the 70 performances where one person reappeared, 70 * 1 = 70 people reappeared.",
+    "Adding these up gives 0 + 40 + 70 = 110 people reappeared in total."
+  ],
+  "solution": "110"
+}

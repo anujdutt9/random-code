@@ -1,0 +1,24 @@
+{
+  "query": "Mr. Callen bought 10 paintings at $40 each and 8 wooden toys at $20 each from the crafts store to resell at a profit. However, when he sold the items, the selling price of a painting was 10% less and the selling price of a hat 15% less. Calculate the total loss Mr. Callen made from the sale of the items.",
+  "steps": [
+    "First, I need to find the total cost of the paintings that Mr. Callen bought. He bought 10 paintings at $40 each.",
+    "Calculating the total cost of the paintings: 10 paintings * $40 each = $400.",
+    "Next, I will find the total cost of the wooden toys. He bought 8 wooden toys at $20 each.",
+    "Calculating the total cost of the wooden toys: 8 toys * $20 each = $160.",
+    "Now I can find the total cost of all the items he bought by adding the cost of the paintings and the wooden toys together.",
+    "Total cost = $400 (paintings) + $160 (toys) = $560.",
+    "Next, I will calculate the selling price of the paintings. The selling price of a painting was 10% less than the cost price.",
+    "10% less of $40 is calculated as: $40 * 0.10 = $4.",
+    "The selling price of each painting: $40 - $4 = $36.",
+    "Now, I will calculate the total selling price of the 10 paintings: 10 paintings * $36 each = $360.",
+    "Next, I will calculate the selling price of the wooden toys. The selling price of a toy was 15% less than the cost price.",
+    "15% less of $20 is calculated as: $20 * 0.15 = $3.",
+    "The selling price of each wooden toy: $20 - $3 = $17.",
+    "Now, I will calculate the total selling price of the 8 wooden toys: 8 toys * $17 each = $136.",
+    "Now, I can find the total selling price of all the items by adding the selling price of paintings and wooden toys together.",
+    "Total selling price = $360 (paintings) + $136 (toys) = $496.",
+    "Finally, I will calculate the total loss by subtracting the total selling price from the total cost price.",
+    "Total loss = $560 (total cost) - $496 (total selling price) = $64."
+  ],
+  "solution": "64"
+}

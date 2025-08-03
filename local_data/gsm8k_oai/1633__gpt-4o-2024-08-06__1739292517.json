@@ -1,0 +1,13 @@
+{
+  "query": "Erwin eats 2 chocolates on weekdays and 1 chocolate on weekends. He ate 24 chocolates in total. How many weeks did it take to finish all the chocolate?",
+  "steps": [
+    "First, I need to determine how many chocolates Erwin eats in one week.",
+    "Erwin eats 2 chocolates each day on weekdays, so for 5 weekdays, he eats 2 * 5 = 10 chocolates.",
+    "On weekends, Erwin eats 1 chocolate each day, so for 2 weekend days, he eats 1 * 2 = 2 chocolates.",
+    "Thus, in one full week, Erwin eats a total of 10 + 2 = 12 chocolates.",
+    "I know Erwin ate a total of 24 chocolates. I need to find out how many full weeks it takes for him to eat 24 chocolates.",
+    "To find the number of weeks, I divide the total chocolates eaten by the chocolates eaten per week: 24 / 12 = 2.",
+    "So, it took Erwin 2 weeks to eat 24 chocolates."
+  ],
+  "solution": "2"
+}

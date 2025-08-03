@@ -1,0 +1,14 @@
+{
+  "query": "The sewers in Middleton can handle 240,000 gallons of run-off. Each hour of rain produces 1000 gallons of runoff. How many days of rain can the sewers handle before they overflow?",
+  "steps": [
+    "First, I understand that the problem involves calculating how many days worth of rain the sewers can handle.",
+    "The sewers can handle a total of 240,000 gallons of runoff.",
+    "Each hour of rain produces 1,000 gallons of runoff.",
+    "To find the total hours of rain the sewers can manage, I need to divide the total capacity of the sewers by the runoff produced per hour.",
+    "240,000 gallons divided by 1,000 gallons per hour equals 240 hours of rain.",
+    "There are 24 hours in a day.",
+    "To find the number of days, I divide the total hours of rain by the number of hours in a day.",
+    "240 hours divided by 24 hours per day equals 10 days."
+  ],
+  "solution": "10"
+}

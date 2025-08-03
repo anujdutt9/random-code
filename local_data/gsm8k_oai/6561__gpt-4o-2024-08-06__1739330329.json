@@ -1,0 +1,15 @@
+{
+  "query": "Bob buys 50 feet of rope.  He uses a 5th of it to make a small piece of art.  He takes the rest and gives half of it to the friend.  After that, he cuts 2-foot sections.  How many sections does he get?",
+  "steps": [
+    "Bob buys 50 feet of rope initially.",
+    "He uses a 5th of it for a piece of art.",
+    "A 5th of 50 feet is 50 / 5 = 10 feet.",
+    "After using 10 feet, he has 50 - 10 = 40 feet left.",
+    "Bob gives half of the remaining 40 feet to his friend.",
+    "Half of 40 feet is 40 / 2 = 20 feet.",
+    "After giving away 20 feet, Bob has 20 feet left.",
+    "Bob cuts the remaining 20 feet into 2-foot sections.",
+    "The number of 2-foot sections in 20 feet is 20 / 2 = 10 sections."
+  ],
+  "solution": "10"
+}

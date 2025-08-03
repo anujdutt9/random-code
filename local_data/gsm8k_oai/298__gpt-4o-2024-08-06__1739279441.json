@@ -1,0 +1,17 @@
+{
+  "query": "There were sweets on the table. Jack came and took half of all the candies and 4 more candies. Then Paul came and took the remaining 7 sweets. How many sweets were on the table at first?",
+  "steps": [
+    "Paul took the remaining 7 sweets, so there were 7 sweets left on the table after Jack took his share.",
+    "Let's denote the total number of sweets on the table initially as \\( x \\).",
+    "According to the problem, Jack took half of the sweets plus 4 more.",
+    "If Jack took half of all the candies and 4 more, then the number of sweets he took can be represented as \\(\\frac{x}{2} + 4\\).",
+    "After Jack took his share, there were 7 sweets left on the table, which Paul took.",
+    "So, the equation representing this is: \\(\\frac{x}{2} + 4 + 7 = x\\).",
+    "Simplify the equation: \\( \\frac{x}{2} + 11 = x \\).",
+    "Rearrange the equation to solve for \\( x \\): \\( x - \\frac{x}{2} = 11 \\).",
+    "This simplifies to \\( \\frac{x}{2} = 11 \\).",
+    "Multiply both sides by 2 to solve for \\( x \\): \\( x = 22 \\).",
+    "I've concluded that the initial number of sweets on the table was 22."
+  ],
+  "solution": "22"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "The Science museum sells dinosaur models for $100 each. A certain school bought 2 models for the kindergarten library and also bought twice as many for the elementary library. Since the school bought more than 5 models, there was a 5% reduction in price for each model. How much did the school pay in all?",
+  "steps": [
+    "The school initially buys 2 dinosaur models for the kindergarten library.",
+    "They buy twice as many models for the elementary library, so they buy 2 * 2 = 4 models for the elementary library.",
+    "In total, the school buys 2 models for the kindergarten library + 4 models for the elementary library = 6 models.",
+    "Since the school buys more than 5 models, they receive a 5% reduction in price for each model.",
+    "The original price per model is $100, and the discount is 5%.",
+    "5% of $100 is calculated as (5/100) * $100 = $5.",
+    "The price per model after the discount is $100 - $5 = $95.",
+    "The total cost for 6 models at the discounted price is 6 models * $95 per model.",
+    "6 * $95 = $570."
+  ],
+  "solution": "570"
+}

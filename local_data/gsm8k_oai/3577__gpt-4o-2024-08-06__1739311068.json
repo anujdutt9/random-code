@@ -1,0 +1,17 @@
+{
+  "query": "The town is having a race to see who can run around the town square 7 times the fastest. The town square is 3/4 of a mile long. The winner finishes the race in 42 minutes. Last year's winner finished in 47.25 minutes. How many minutes on average faster did this year's winner run one mile of the race compared to last year?",
+  "steps": [
+    "First, I need to calculate the total distance of the race. Each lap around the town square is 3/4 of a mile, and the race involves running around the square 7 times.",
+    "The total distance is 7 laps * 3/4 mile per lap. This is 7 * 0.75 miles.",
+    "7 * 0.75 is equal to 5.25 miles.",
+    "Now, I need to find the average speed in minutes per mile for this year's winner. The winner completed the race in 42 minutes.",
+    "The average speed for this year is 42 minutes / 5.25 miles.",
+    "42 / 5.25 is 8 minutes per mile. This is the average speed of this year's winner.",
+    "Next, I'll calculate the average speed in minutes per mile for last year's winner. The total race time was 47.25 minutes.",
+    "The average speed for last year is 47.25 minutes / 5.25 miles.",
+    "47.25 / 5.25 = 9 minutes per mile. This is the average speed of last year's winner.",
+    "To find the average difference per mile between this year's and last year's winners, I subtract this year's average speed from last year's average speed.",
+    "9 minutes per mile (last year) - 8 minutes per mile (this year) = 1 minute per mile."
+  ],
+  "solution": "1"
+}

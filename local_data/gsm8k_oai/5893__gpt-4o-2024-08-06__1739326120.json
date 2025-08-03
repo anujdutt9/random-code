@@ -1,0 +1,17 @@
+{
+  "query": "Mary, Jess, and Christina want to decorate a party room with balloons. Each person inflates balloons at different speeds, and they only have 30 minutes to inflate as many balloons as possible. Mary inflates 10 balloons per minute, Jess inflates 7 balloons per minute and Christina came 15 minutes late and was the slowest one inflating 4 balloons per minute. How many balloons can they inflate before running out of time?",
+  "steps": [
+    "First, I need to calculate how many minutes each person has to inflate balloons.",
+    "Mary has 30 minutes.",
+    "Jess also has 30 minutes.",
+    "Christina arrives 15 minutes late, so she has 30 - 15 = 15 minutes.",
+    "Next, I will calculate how many balloons each person can inflate.",
+    "Mary inflates 10 balloons per minute. So, in 30 minutes, she inflates 10 * 30 = 300 balloons.",
+    "Jess inflates 7 balloons per minute. So, in 30 minutes, she inflates 7 * 30 = 210 balloons.",
+    "Christina inflates 4 balloons per minute. So, in 15 minutes, she inflates 4 * 15 = 60 balloons.",
+    "Now I will add up all the balloons each person inflated.",
+    "Mary inflates 300 balloons, Jess inflates 210 balloons, and Christina inflates 60 balloons.",
+    "In total, they inflate 300 + 210 + 60 = 570 balloons."
+  ],
+  "solution": "570"
+}

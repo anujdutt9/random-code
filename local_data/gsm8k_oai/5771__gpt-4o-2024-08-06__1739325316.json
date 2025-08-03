@@ -1,0 +1,14 @@
+{
+  "query": "James buys 10 shirts and half as many pants.  The shirts cost $6 each and the pants cost $8 each.  How much did everything cost?",
+  "steps": [
+    "James buys 10 shirts.",
+    "He buys half as many pants as shirts, so he buys 10 / 2 = 5 pants.",
+    "Each shirt costs $6.",
+    "The total cost for shirts is 10 shirts * $6/shirt = $60.",
+    "Each pair of pants costs $8.",
+    "The total cost for pants is 5 pants * $8/pair = $40.",
+    "The total cost for everything is the cost of shirts plus the cost of pants.",
+    "So, the total expenditure is $60 (shirts) + $40 (pants) = $100."
+  ],
+  "solution": "100"
+}

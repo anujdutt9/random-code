@@ -1,0 +1,18 @@
+{
+  "query": "In a 50-question test with two marks for each question, Meghan learned that she scored 20 marks less than her friend Jose, who scored 40 more marks than their friend Alisson. Calculate the total score for the three in the test combined if Jose got 5 questions wrong?",
+  "steps": [
+    "First, I need to find out how many marks each friend scored.",
+    "Let's start with Alisson. We don't know his score directly, but we can find out by working backwards.",
+    "Jose scored 40 more marks than Alisson. We know Jose's score in terms of how many questions he got right.",
+    "Jose got 5 questions wrong out of 50, so he got 45 questions right.",
+    "There are 2 marks per question, so Jose scored 45 * 2 = 90 marks.",
+    "With Jose scoring 90 marks, he has scored 40 more marks than Alisson.",
+    "Therefore, Alisson scored 90 - 40 = 50 marks.",
+    "Meghan scored 20 marks less than Jose.",
+    "With Jose scoring 90 marks, Meghan scored 90 - 20 = 70 marks.",
+    "Now that we have each score, we can calculate the total score for all three friends.",
+    "Alisson scored 50 marks, Jose scored 90 marks, and Meghan scored 70 marks.",
+    "Adding them together gives 50 + 90 + 70 = 210 marks in total."
+  ],
+  "solution": "210"
+}

@@ -1,0 +1,23 @@
+{
+  "query": "There are 6 people going on an airplane trip.  They each have 5 bags of luggage.  Each of their bags weighs the maximum weight allowed, 50 pounds.  The airplane can hold a total luggage weight of 6000 pounds.  How many more bags at maximum weight can the plane hold?",
+  "steps": [
+    "First, I need to find out how many bags are there in total for the 6 people.",
+    "Each of the 6 people has 5 bags.",
+    "So, I calculate the total number of bags by multiplying 6 people by 5 bags each.",
+    "6 * 5 = 30 bags in total.",
+    "Next, I determine the total weight of these 30 bags.",
+    "Each bag weighs 50 pounds.",
+    "So, I multiply the total number of bags (30) by the weight of each bag (50 pounds).",
+    "30 * 50 = 1500 pounds",
+    "Now, I determine how much total luggage weight the airplane can hold.",
+    "The airplane can hold up to 6000 pounds of luggage.",
+    "I need to find out how much remaining capacity the airplane has for more luggage.",
+    "I subtract the total weight of the existing luggage (1500 pounds) from the airplane's total capacity (6000 pounds).",
+    "6000 - 1500 = 4500 pounds",
+    "I need to find out how many additional bags of the maximum weight can fit into the remaining capacity.",
+    "Each additional bag also weighs 50 pounds.",
+    "I divide the remaining capacity (4500 pounds) by the weight of one bag (50 pounds) to find out how many more bags can be added.",
+    "4500 / 50 = 90"
+  ],
+  "solution": "90"
+}

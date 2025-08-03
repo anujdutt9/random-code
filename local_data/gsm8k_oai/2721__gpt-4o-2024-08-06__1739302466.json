@@ -1,0 +1,16 @@
+{
+  "query": "Every time she goes to the store, Felicity gets a lollipop. After she finishes them, she uses the sticks to build a fort. The fort needs 400 sticks to finish it. Her family goes to the store three times a week and she always goes. If the fort is 60% complete, how many weeks has Felicity been collecting lollipops for?",
+  "steps": [
+    "First, I need to determine how many lollipop sticks Felicity needs in total to complete the fort. The fort requires 400 sticks to be finished.",
+    "Since the fort is 60% complete, Felicity has already collected 60% of the sticks needed.",
+    "To find out how many sticks have been collected, I calculate 60% of 400.",
+    "60% of 400 is given by (60/100) * 400 = 240 sticks.",
+    "Felicity has already collected 240 sticks.",
+    "Next, I need to determine how many times Felicity has been to the store, as she gets one lollipop (and hence one stick) each time.",
+    "Felicity goes to the store three times a week.",
+    "To find how many weeks she has been collecting, I divide the number of sticks collected by the number of visits she makes per week.",
+    "The number of weeks is calculated as the total sticks collected divided by sticks collected per week: 240 sticks / 3 sticks per week.",
+    "Performing the division, 240 / 3 = 80 weeks."
+  ],
+  "solution": "80"
+}

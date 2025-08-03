@@ -1,0 +1,22 @@
+{
+  "query": "Jonah bought 6 pineapples for $3 each. Each pineapple could be cut into 12 pineapple rings. He sold 4 pineapple rings for $5 each. How much profit did Jonah make?",
+  "steps": [
+    "First, I need to find out how much Jonah spent on buying the pineapples.",
+    "Jonah bought 6 pineapples and each pineapple cost $3.",
+    "The total cost for the pineapples is 6 pineapples * $3 each = $18.",
+    "Next, I need to find out how many pineapple rings Jonah got from the 6 pineapples.",
+    "Each pineapple is cut into 12 rings.",
+    "So, the total number of pineapple rings is 6 pineapples * 12 rings each = 72 rings.",
+    "Now, let's find out how much Jonah earned by selling the pineapple rings.",
+    "He sold 4 pineapple rings for $5.",
+    "I need to determine how many groups of 4 rings can be made from 72 rings.",
+    "The number of groups of 4 rings is 72 rings / 4 rings per group = 18 groups.",
+    "Now, I will calculate the total revenue from selling the rings.",
+    "He sold each group of 4 rings for $5, so the total revenue from all groups is 18 groups * $5 = $90.",
+    "Finally, I need to calculate the profit Jonah made.",
+    "The profit is the total revenue minus the cost of the pineapples.",
+    "The cost was $18, and the revenue was $90.",
+    "Therefore, the profit is $90 - $18 = $72."
+  ],
+  "solution": "72"
+}

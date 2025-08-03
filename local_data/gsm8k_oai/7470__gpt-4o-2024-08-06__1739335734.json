@@ -1,0 +1,17 @@
+{
+  "query": "Colin can skip at six times the speed that Brandon can.  Brandon can skip at one-third the speed that Tony can.  And Tony can skip at twice the speed that Bruce can.  At what speed, in miles per hour, can Colin skip if Bruce skips at 1 mile per hour?",
+  "steps": [
+    "Bruce skips at 1 mile per hour.",
+    "Tony skips at twice the speed of Bruce.",
+    "Therefore, Tony skips at 2 miles per hour.",
+    "Brandon skips at one-third the speed of Tony.",
+    "Therefore, Brandon skips at \\(\\frac{1}{3} \\times 2\\) miles per hour.",
+    "Calculate \\(\\frac{1}{3} \\times 2 = \\frac{2}{3}\\).",
+    "So, Brandon skips at \\(\\frac{2}{3}\\) miles per hour.",
+    "Colin skips at six times the speed of Brandon.",
+    "Therefore, Colin skips at \\(6 \\times \\frac{2}{3}\\) miles per hour.",
+    "Calculate \\(6 \\times \\frac{2}{3} = 4\\).",
+    "Colin skips at 4 miles per hour."
+  ],
+  "solution": "4"
+}

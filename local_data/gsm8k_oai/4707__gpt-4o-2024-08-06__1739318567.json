@@ -1,0 +1,18 @@
+{
+  "query": "For every white duck at the lake there are 5 fish.  For every black duck there are 10 fish and for every multicolor duck there are 12 fish.  Currently there are 3 white ducks, 7 black ducks and 6 multicolored ducks.  How many fish are in the lake?",
+  "steps": [
+    "To solve the problem, I first need to calculate the number of fish associated with the white ducks. Each white duck corresponds to 5 fish.",
+    "There are 3 white ducks, and for each white duck, there are 5 fish. So, I multiply 3 ducks by 5 fish per duck.",
+    "3 white ducks * 5 fish = 15 fish.",
+    "Next, I need to calculate the number of fish associated with the black ducks. Each black duck corresponds to 10 fish.",
+    "There are 7 black ducks, and each duck corresponds to 10 fish. So, I multiply 7 ducks by 10 fish per duck.",
+    "7 black ducks * 10 fish = 70 fish.",
+    "Now, I calculate the number of fish associated with the multicolored ducks. Each multicolored duck corresponds to 12 fish.",
+    "There are 6 multicolored ducks, and each duck corresponds to 12 fish. So, I multiply 6 ducks by 12 fish per duck.",
+    "6 multicolored ducks * 12 fish = 72 fish.",
+    "To find the total number of fish in the lake, I need to add the number of fish from all the ducks together.",
+    "Total fish = 15 fish (white ducks) + 70 fish (black ducks) + 72 fish (multicolor ducks).",
+    "Total fish = 157 fish."
+  ],
+  "solution": "157"
+}

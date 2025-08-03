@@ -1,0 +1,16 @@
+{
+  "query": "The total for the sum and product of Elvie's age and Arielle's age are 131. If Elvie's age is 10, how old is Arielle?",
+  "steps": [
+    "I need to express the problem mathematically. Let E be Elvie's age and A be Arielle's age.",
+    "According to the problem, E + A + E * A = 131.",
+    "I'm given that Elvie's age (E) is 10.",
+    "Substituting E = 10 into the equation, I get 10 + A + 10 * A = 131.",
+    "Simplifying, this becomes A + 10A + 10 = 131.",
+    "Combining like terms (A + 10A = 11A), I get 11A + 10 = 131.",
+    "Subtract 10 from both sides to isolate the terms with A: 11A = 121.",
+    "Divide both sides by 11 to find A: A = 121 / 11.",
+    "Performing the division, 121 \u00f7 11 = 11.",
+    "Arielle's age (A) is 11."
+  ],
+  "solution": "11"
+}

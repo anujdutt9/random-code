@@ -1,0 +1,14 @@
+{
+  "query": "There are 13 3-year-olds, 20 4-year-olds, 15 5-year-olds, and 22 six-year-olds at a particular Sunday school. If the 3 and 4-year-olds are in one class and the 5 and 6-year-olds are in another class, what is the average class size?",
+  "steps": [
+    "First, I need to calculate the number of children in each class.",
+    "The first class is for 3 and 4-year-olds. So, I add the number of 3-year-olds and 4-year-olds: 13 + 20 = 33 children.",
+    "The second class is for 5 and 6-year-olds. So, I add the number of 5-year-olds and 6-year-olds: 15 + 22 = 37 children.",
+    "Now, I need to find the total number of children across both classes.",
+    "The total number of children is 33 + 37 = 70 children.",
+    "To find the average class size, I divide the total number of children by the number of classes.",
+    "There are 2 classes. Thus, the average class size is 70 divided by 2.",
+    "70 \u00f7 2 = 35."
+  ],
+  "solution": "35"
+}

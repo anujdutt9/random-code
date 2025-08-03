@@ -1,0 +1,15 @@
+{
+  "query": "Harry is traveling home on the bus. He has already been sat on the bus for 15 minutes, and he knows the rest of the journey will take another 25 minutes. The walk from the bus stop to his house will take half the amount of time the bus journey took. In total, how many minutes will Harry have spent traveling?",
+  "steps": [
+    "Harry has already been on the bus for 15 minutes.",
+    "The rest of the bus journey will take another 25 minutes.",
+    "To calculate the total time on the bus, I need to add the time already spent on the bus to the remaining time: 15 minutes + 25 minutes.",
+    "15 minutes + 25 minutes = 40 minutes on the bus.",
+    "The time spent walking from the bus stop to Harry's house is half the time of the entire bus journey.",
+    "The entire bus journey took 40 minutes, so the walking time is 40 minutes / 2.",
+    "40 minutes / 2 = 20 minutes walking.",
+    "To find out the total travel time, I need to add the bus journey time to the walking time: 40 minutes + 20 minutes.",
+    "40 minutes + 20 minutes = 60 minutes total travel time."
+  ],
+  "solution": "60"
+}

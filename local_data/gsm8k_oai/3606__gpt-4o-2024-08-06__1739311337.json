@@ -1,0 +1,31 @@
+{
+  "query": "In a school with 800 students, 5/8 of the students are girls. Seven-tenths of the girls and two-fifths of the boys are in the primary grades, while the rest are middle schoolers. How many middle schoolers are there?",
+  "steps": [
+    "First, I need to find out how many students are girls.",
+    "The problem states that 5/8 of the students are girls.",
+    "So, I calculate 5/8 of 800: \\((5/8) \\times 800\\).",
+    "This is \\(5 \\times 100 = 500\\).",
+    "There are 500 girls in the school.",
+    "Now, I need to find out how many students are boys.",
+    "Since there are 800 students in total, and 500 are girls, the number of boys is \\(800 - 500\\).",
+    "This is \\(300\\) boys.",
+    "Next, I need to figure out how many girls are in primary grades.",
+    "The problem states that seven-tenths of the girls are in the primary grades.",
+    "So, I calculate \\(7/10\\) of 500: \\((7/10) \\times 500\\).",
+    "This is \\(350\\).",
+    "Thus, 350 girls are in the primary grades.",
+    "Next, I need to determine how many boys are in primary grades.",
+    "The problem states that two-fifths of the boys are in the primary grades.",
+    "So, I calculate \\(2/5\\) of 300: \\((2/5) \\times 300\\).",
+    "This is \\(120\\).",
+    "Thus, 120 boys are in the primary grades.",
+    "Now, I calculate the total number of primary grade students.",
+    "There are 350 girls and 120 boys in the primary grades.",
+    "Adding these together: \\(350 + 120 = 470\\).",
+    "There are 470 students in the primary grades.",
+    "Finally, I calculate the number of middle schoolers.",
+    "There are 800 students in total, and 470 are in the primary grades.",
+    "Subtracting gives \\(800 - 470 = 330\\)."
+  ],
+  "solution": "330"
+}

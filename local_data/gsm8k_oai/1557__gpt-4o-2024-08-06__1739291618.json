@@ -1,0 +1,12 @@
+{
+  "query": "Jenna's doctor tells her that she should tan no more than 200 minutes a month. If she tans 30 minutes a day, two days a week for the first two weeks of the month, how many minutes can she tan in the last two weeks of the month?",
+  "steps": [
+    "Jenna tans 30 minutes each day she tans.",
+    "She tans two days a week for the first two weeks.",
+    "First, calculate the total number of tanning sessions in the first two weeks: 2 days/week * 2 weeks = 4 sessions.",
+    "Multiply the number of sessions by the number of minutes per session: 4 sessions * 30 minutes/session = 120 minutes.",
+    "Jenna's doctor recommends no more than 200 minutes of tanning per month.",
+    "Calculate the remaining minutes she can tan: 200 minutes - 120 minutes = 80 minutes."
+  ],
+  "solution": "80"
+}

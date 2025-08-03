@@ -1,0 +1,14 @@
+{
+  "query": "Rodney and Todd are rowing down a river that is 50 yards wide at one end. If the river's width increases from this end uniformly by 2 yards every 10 meters along, and they row along the river at a rate of 5 m/s, how long (in seconds) will it take them to get to the point where the river is 80 yards wide?",
+  "steps": [
+    "First, I need to convert the width increase from yards to meters since the rowing rate is given in meters per second. There are 0.9144 meters in a yard.",
+    "To find out how much the width increases in meters for an increase of 30 yards (from 50 yards to 80 yards), I multiply 30 yards by 0.9144 meters/yard.",
+    "\\( 30 \\times 0.9144 = 27.432 \\) meters. This means the width of the river increases by 27.432 meters.",
+    "The rate of width increase is 2 yards every 10 meters along the river. Converting 2 yards to meters: \n\\( 2 \\times 0.9144 = 1.8288 \\) meters.",
+    "Now I need to calculate how far they need to row along the river to achieve this width increase. The river increases by 1.8288 meters every 10 meters.",
+    "I need to find the distance along the river required for the width to increase by 27.432 meters. Using proportional reasoning: \n\\[\n\\frac{1.8288}{10} = \\frac{27.432}{x}\n\\]",
+    "Solving for \\( x \\) gives:\n\\( x = \\frac{27.432 \\times 10}{1.8288} = 150 \\) meters.",
+    "Rodney and Todd row at a speed of 5 meters per second. The time it takes to row 150 meters is found by dividing the distance by their rowing speed:\n\\[\n\\frac{150}{5} = 30 \\text{ seconds}\n\\]"
+  ],
+  "solution": "30"
+}

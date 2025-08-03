@@ -1,0 +1,13 @@
+{
+  "query": "Cathy has $12 left in her wallet. Her dad sent her $25 for her weekly consumption while her mom sent her twice the amount her dad sent her. How much money does Cathy have now?",
+  "steps": [
+    "Cathy has $12 initially.",
+    "Her dad sent her $25.",
+    "Her mom sent her twice the amount her dad sent her.",
+    "Twice the amount her dad sent is 2 * $25 = $50.",
+    "Now, I need to add all the amounts together: Cathy's initial $12, the $25 from her dad, and the $50 from her mom.",
+    "$12 + $25 = $37",
+    "$37 + $50 = $87"
+  ],
+  "solution": "87"
+}

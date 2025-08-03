@@ -1,0 +1,20 @@
+{
+  "query": "In a week, Mortdecai collects 8 dozen  eggs every Tuesday and Thursday, and he delivers 3 dozen  eggs to the market and 5 dozen eggs to the mall. He then uses 4 dozen eggs to make a pie every Saturday. Mortdecai donates the remaining eggs to the charity by Sunday. How many  eggs does he donate to the charity?",
+  "steps": [
+    "First, I need to determine how many eggs Mortdecai collects in a week. Each dozen refers to 12 eggs.",
+    "Mortdecai collects 8 dozen eggs every Tuesday and another 8 dozen every Thursday.",
+    "8 dozen eggs equals 8 x 12, which is 96 eggs. So, he collects 96 eggs on Tuesday and 96 eggs on Thursday.",
+    "In total, that makes 96 + 96 = 192 eggs that Mortdecai collects each week.",
+    "Next, I need to determine how many eggs Mortdecai delivers to the market and the mall.",
+    "He delivers 3 dozen eggs to the market and 5 dozen eggs to the mall.",
+    "3 dozen equals 3 x 12 = 36 eggs. And 5 dozen equals 5 x 12 = 60 eggs.",
+    "Altogether, 36 eggs to the market and 60 eggs to the mall equals 36 + 60 = 96 eggs delivered.",
+    "Now, I need to account for how many eggs Mortdecai uses for the pie.",
+    "Mortdecai uses 4 dozen eggs for a pie each Saturday.",
+    "4 dozen equals 4 x 12 = 48 eggs used.",
+    "I need to calculate the total eggs used or delivered before donation: 96 eggs delivered + 48 eggs used for the pie = 144 eggs.",
+    "Finally, I need to determine how many eggs are left for charity by subtracting 144 eggs (used and delivered) from 192 eggs (collected).",
+    "192 - 144 = 48 eggs left for charity."
+  ],
+  "solution": "48"
+}

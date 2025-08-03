@@ -1,0 +1,13 @@
+{
+  "query": "The total number of years in a century is the same as the number of marbles Gideon has. If he gives 3/4 of the marbles to his sister and multiples the number of remaining marbles by 2, he gets his age five years from now. How old is Gideon now?",
+  "steps": [
+    "First, determine how many marbles Gideon has. A century has 100 years, so Gideon has 100 marbles.",
+    "Gideon gives 3/4 of his marbles to his sister. Calculate 3/4 of 100 marbles: \\( \\frac{3}{4} \\times 100 = 75 \\).",
+    "After giving 75 marbles to his sister, Gideon has \\( 100 - 75 = 25 \\) marbles remaining.",
+    "Next, Gideon multiplies the 25 remaining marbles by 2. Calculate: \\( 25 \\times 2 = 50 \\).",
+    "The result, 50, is Gideon's age five years from now.",
+    "Determine Gideon's current age by subtracting 5 from 50: \\( 50 - 5 = 45 \\).",
+    "Thus, Gideon is currently 45 years old."
+  ],
+  "solution": "45"
+}

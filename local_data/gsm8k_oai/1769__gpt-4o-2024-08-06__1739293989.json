@@ -1,0 +1,14 @@
+{
+  "query": "Miss Molly surveyed her class of 30 students about their favorite color. Half of the class answered green, one-third of the girls answered pink, and the rest of the class answered yellow. If there are 18 girls in the class, how many students like yellow best?",
+  "steps": [
+    "First, I need to determine how many students out of the 30 chose green as their favorite color.",
+    "Half of the class chose green, so I calculate: 30 / 2 = 15 students chose green.",
+    "Next, I need to find out how many girls chose pink.",
+    "There are 18 girls in the class. One-third of the girls chose pink, so I calculate: 18 / 3 = 6 girls chose pink.",
+    "Now, I need to find the total number of students who chose either green or pink.",
+    "Adding the students who chose green and the girls who chose pink gives me: 15 + 6 = 21 students chose either green or pink.",
+    "To find out how many students chose yellow, I subtract the number of students who chose green or pink from the total number of students in the class.",
+    "30 (total students) - 21 (students who chose green or pink) = 9 students chose yellow."
+  ],
+  "solution": "9"
+}

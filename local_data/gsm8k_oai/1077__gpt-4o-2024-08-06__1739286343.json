@@ -1,0 +1,16 @@
+{
+  "query": "Louie obtained 80% on a math quiz. He had 5 mistakes. How many items were there on the math quiz?",
+  "steps": [
+    "Louie obtained 80% on the quiz.",
+    "This means he answered 80% of the questions correctly.",
+    "Let the total number of questions in the quiz be \\( x \\).",
+    "If Louie got 80% correct, he got 20% incorrect.",
+    "He made 5 mistakes.",
+    "These 5 mistakes are the 20% of the total quiz questions.",
+    "So, 20% of \\( x \\) is equal to 5.",
+    "We can write this as the equation: \\( 0.2x = 5 \\).",
+    "Solving for \\( x \\), divide both sides by 0.2: \\( x = \\frac{5}{0.2} \\).",
+    "Calculate \\( \\frac{5}{0.2} \\) which is equal to 25."
+  ],
+  "solution": "25"
+}

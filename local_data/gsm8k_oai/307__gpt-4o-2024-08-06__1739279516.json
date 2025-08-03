@@ -1,0 +1,17 @@
+{
+  "query": "There are 110 calories in a serving of cheese.  Rick buys the large blocks that have 16 servings per block.  If Rick has already eaten 5 servings of cheese, how many calories are remaining in the block?",
+  "steps": [
+    "First, I need to determine the total number of calories in the whole block of cheese.",
+    "There are 110 calories per serving.",
+    "The block contains 16 servings.",
+    "To find the total calories in the block, I multiply 110 calories by 16 servings.",
+    "110 calories/serving * 16 servings = 1760 calories.",
+    "Now, I need to calculate how many calories Rick has eaten from the block.",
+    "Rick has eaten 5 servings.",
+    "To find the calories Rick has eaten, I multiply 110 calories by 5 servings.",
+    "110 calories/serving * 5 servings = 550 calories.",
+    "Now, to find the remaining calories in the block, I subtract the calories Rick has eaten from the total calories of the block.",
+    "1760 calories - 550 calories = 1210 calories."
+  ],
+  "solution": "1210"
+}

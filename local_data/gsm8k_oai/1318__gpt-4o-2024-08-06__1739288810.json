@@ -1,0 +1,12 @@
+{
+  "query": "If Ruby is 2 centimeters shorter than Pablo.  Pablo is 70 centimeters taller than Charlene.  Janet is 62 centimeters tall and Charlene is twice that tall.  How tall is Ruby?",
+  "steps": [
+    "First, let's determine how tall Charlene is. Janet is 62 centimeters tall and Charlene is twice that height.",
+    "Calculating Charlene's height: 2 x 62 = 124 centimeters.",
+    "Next, let's find out how tall Pablo is. We know Pablo is 70 centimeters taller than Charlene.",
+    "Calculating Pablo's height: 124 + 70 = 194 centimeters.",
+    "Now we need to find out Ruby's height. We know Ruby is 2 centimeters shorter than Pablo.",
+    "Calculating Ruby's height: 194 - 2 = 192 centimeters."
+  ],
+  "solution": "192"
+}

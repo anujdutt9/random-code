@@ -1,0 +1,13 @@
+{
+  "query": "One dress requires 5.5 yards of fabric. Amare needs to make 4 dresses for the wedding and she has 7 feet of fabric. How many feet of fabric does Amare still need for the dresses?",
+  "steps": [
+    "First, I need to determine the total amount of fabric required for making 4 dresses. Each dress requires 5.5 yards of fabric.",
+    "I multiply the fabric needed for one dress by the total number of dresses. Thus, 5.5 yards/dress * 4 dresses = 22 yards.",
+    "Now, I need to convert 22 yards into feet because the fabric Amare already has is measured in feet. One yard is equal to 3 feet.",
+    "I multiply 22 yards by 3 to convert it to feet. So, 22 yards * 3 feet/yard = 66 feet.",
+    "Amare already has 7 feet of fabric. I need to subtract this from the total fabric required.",
+    "I subtract 7 feet from 66 feet to find out how many more feet of fabric are needed. 66 feet - 7 feet = 59 feet.",
+    "I've calculated that Amare needs an additional 59 feet of fabric to make the dresses."
+  ],
+  "solution": "59"
+}

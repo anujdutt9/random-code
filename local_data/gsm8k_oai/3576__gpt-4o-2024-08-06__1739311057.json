@@ -1,0 +1,19 @@
+{
+  "query": "Billy and Margaret are competing with each other to see who can swim 10 laps the fastest. Billy swims his first 5 laps in 2 minutes, swims the next 3 laps in 4 minutes, swims the next lap in 1 minute, then swims his final lap. Margaret finishes swimming all of her laps in 10 minutes. Billy wins the competition by finishing his laps 30 seconds before Margaret does. In seconds, how long did it take Billy to swim his final lap?",
+  "steps": [
+    "First, I need to convert Margaret's time into seconds since I am asked for Billy's time in seconds.",
+    "Margaret finishes all her laps in 10 minutes.",
+    "10 minutes is equivalent to 10 x 60 = 600 seconds.",
+    "I know that Billy wins by 30 seconds before Margaret finishes.",
+    "Therefore, Billy finishes in 600 - 30 = 570 seconds.",
+    "Next, I need to determine the time it took for Billy to swim his first 9 laps.",
+    "Billy swims his first 5 laps in 2 minutes (which is 2 x 60 = 120 seconds).",
+    "He swims the next 3 laps in 4 minutes (which is 4 x 60 = 240 seconds).",
+    "Billy takes 1 minute to swim the next lap (which is 1 x 60 = 60 seconds).",
+    "The total time for the first 9 laps is 120 + 240 + 60 = 420 seconds.",
+    "Billy's total time is 570 seconds.",
+    "I need to find the time it took for Billy to swim his final lap.",
+    "Billy's final lap took 570 - 420 = 150 seconds."
+  ],
+  "solution": "150"
+}

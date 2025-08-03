@@ -1,0 +1,15 @@
+{
+  "query": "A neighborhood association decided to plant a tree on every street. There are eighteen streets in the neighborhood. The association wanted every other tree to be a fruit tree, and they agreed to plant equal numbers of plum, pear, and apricot trees. How many of each kind of tree will they plant?",
+  "steps": [
+    "First, I know there are eighteen streets, and they will plant a tree on each street.",
+    "So, we need to plant 18 trees total.",
+    "The association wants every other tree to be a fruit tree.",
+    "This means half of the trees planted will be fruit trees, so they will plant 18 / 2 = 9 fruit trees.",
+    "The remaining trees are not specified as fruit trees, but will account for the other 9 trees.",
+    "For the fruit trees, they are to be split equally among plum, pear, and apricot trees.",
+    "There are 3 types of fruit trees.",
+    "Since we need 9 fruit trees in total, to plant them equally, we divide 9 by 3.",
+    "9 fruit trees divided by 3 types of trees equals 3 trees of each type."
+  ],
+  "solution": "3"
+}

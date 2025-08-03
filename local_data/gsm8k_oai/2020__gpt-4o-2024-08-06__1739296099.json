@@ -1,0 +1,15 @@
+{
+  "query": "Bob can shuck 10 oysters in 5 minutes.  How many oysters can he shuck in 2 hours?",
+  "steps": [
+    "Bob can shuck 10 oysters in 5 minutes.",
+    "First, I need to find out how many 5-minute intervals are in 2 hours.",
+    "There are 60 minutes in an hour.",
+    "So, 2 hours is 2 x 60 = 120 minutes.",
+    "Now, I divide 120 minutes by 5 minutes per interval.",
+    "120 \u00f7 5 = 24 intervals of 5 minutes in 120 minutes.",
+    "Bob shucks 10 oysters in each 5-minute interval.",
+    "I multiply the number of intervals by the number of oysters he shucks per interval.",
+    "24 x 10 = 240."
+  ],
+  "solution": "240"
+}

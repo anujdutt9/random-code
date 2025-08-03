@@ -1,0 +1,19 @@
+{
+  "query": "Eliza buys 200 ornamental rings to sell in their local shop, twice the number of the remaining stock. After selling 3/4 of the total stock, her mother buys 300 more ornamental rings, and after three days, sells 150. What's the total number of ornamental rings remaining in the store?",
+  "steps": [
+    "Eliza buys 200 ornamental rings initially.",
+    "These 200 rings are said to be twice the number of the remaining stock.",
+    "Let's represent the remaining stock before buying the additional rings as X.",
+    "Therefore, 200 = 2 * X.",
+    "Solving for X, we find X = 100.",
+    "This means before buying 200 rings, Eliza had 100 rings remaining.",
+    "After purchasing 200 rings, Eliza's total stock becomes 200 + 100 = 300 rings.",
+    "Eliza then sells 3/4 of the total stock, which is 3/4 * 300 = 225 rings.",
+    "After selling 225 rings, the remaining stock is 300 - 225 = 75 rings.",
+    "Then, Eliza's mother buys 300 additional rings for the store.",
+    "The new total stock becomes 75 + 300 = 375 rings.",
+    "Over the next three days, Eliza's mother sells 150 rings.",
+    "After selling these 150 rings, the remaining stock is 375 - 150 = 225 rings."
+  ],
+  "solution": "225"
+}

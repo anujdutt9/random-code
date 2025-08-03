@@ -1,0 +1,18 @@
+{
+  "query": "Faye had $20. Today, her mother gave her twice as much as her money. If she bought ten cupcakes at $1.50 each and five boxes of cookies at $3 per box, how much money did she have left?",
+  "steps": [
+    "Faye initially had $20.",
+    "Her mother gave her twice as much as her current money, which is twice $20.",
+    "Twice $20 is $40.",
+    "So, Faye's total money after receiving from her mother is $20 + $40 = $60.",
+    "She bought ten cupcakes at $1.50 each.",
+    "The cost of ten cupcakes is 10 * $1.50 = $15.",
+    "She also bought five boxes of cookies at $3 per box.",
+    "The cost of five boxes of cookies is 5 * $3 = $15.",
+    "The total amount spent is the cost of cupcakes plus the cost of cookies.",
+    "The total amount spent is $15 + $15 = $30.",
+    "The money she has left is her total money minus the total amount spent.",
+    "The money left is $60 - $30 = $30."
+  ],
+  "solution": "30"
+}

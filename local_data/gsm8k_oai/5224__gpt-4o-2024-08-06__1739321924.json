@@ -1,0 +1,14 @@
+{
+  "query": "Hammond carves life-sized statues out of marble. His latest set of four statues started with an 80-pound block of marble. The first statue he carved weighed 10 pounds. The second statue weighed 18. The remaining two statues weighed the same amount. The marble he discarded after carving it off the statues weighed 22 pounds. How much did each of the remaining statues Hammond carved weigh?",
+  "steps": [
+    "I start by noting the total initial weight of the marble block, which is 80 pounds.",
+    "The first statue weighs 10 pounds and the second weighs 18 pounds. Together they weigh 10 + 18 = 28 pounds.",
+    "The weight of marble discarded after carving is 22 pounds.",
+    "I need to find out the weight of the two identical statues. So, I first calculate the total weight used up in carving the statues.",
+    "The total weight used includes the sculptures and discarded marble, which is 28 (from the first two statues) + 22 (discarded) = 50 pounds.",
+    "Subtract the total used weight from the original block weight to find the weight of the remaining two statues: 80 (original) - 50 = 30 pounds for the two remaining statues combined.",
+    "Since the two remaining statues weigh the same, I divide 30 by 2.",
+    "30 divided by 2 gives 15 pounds for each of the remaining statues."
+  ],
+  "solution": "15"
+}

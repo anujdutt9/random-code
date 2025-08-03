@@ -1,0 +1,17 @@
+{
+  "query": "Victoria had $500. She went to the market and bought 2 packets of rice each at $20, 3 packets of wheat flour each at $25, and 1 soda at $150. What was her remaining balance?",
+  "steps": [
+    "Victoria started with $500.",
+    "She bought 2 packets of rice, each costing $20.",
+    "The total cost for 2 packets of rice is 2 * $20 = $40.",
+    "She also bought 3 packets of wheat flour, each costing $25.",
+    "The total cost for 3 packets of wheat flour is 3 * $25 = $75.",
+    "Additionally, she bought 1 soda for $150.",
+    "Now, let's calculate the total expenditure: $40 (rice) + $75 (wheat flour) + $150 (soda).",
+    "The total expenditure is $40 + $75 + $150 = $265.",
+    "Victoria's remaining balance is her initial amount minus the total expenditure.",
+    "The remaining balance is $500 - $265.",
+    "This gives us a remaining balance of $235."
+  ],
+  "solution": "235"
+}

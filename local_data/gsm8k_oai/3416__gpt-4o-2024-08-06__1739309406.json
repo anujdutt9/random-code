@@ -1,0 +1,20 @@
+{
+  "query": "September's temperature fluctuated severely in 1 week.  They started off with 40 degrees on Sunday then hit 50 on Monday, 65 on Tuesday, 36 on Wednesday, 82 on Thursday, 72 on Friday and ended the week at 26 on Saturday.  What was the average temperature for that week?",
+  "steps": [
+    "To find the average temperature for the week, I need to sum up all the daily temperatures.",
+    "The temperatures for each day are: Sunday: 40, Monday: 50, Tuesday: 65, Wednesday: 36, Thursday: 82, Friday: 72, Saturday: 26.",
+    "I will add these temperatures together: 40 + 50 + 65 + 36 + 82 + 72 + 26.",
+    "First, add 40 and 50 to get 90.",
+    "Next, add 65 to 90 to get 155.",
+    "Now, add 36 to 155 to get 191.",
+    "Add 82 to 191 to get 273.",
+    "Add 72 to 273 to get 345.",
+    "Finally, add 26 to 345 to get 371.",
+    "The sum of all the temperatures for the week is 371 degrees.",
+    "To find the average, I need to divide the sum of the temperatures by the number of days in the week.",
+    "There are 7 days in the week.",
+    "Divide 371 by 7 to calculate the average.",
+    "371 divided by 7 is approximately 53."
+  ],
+  "solution": "53"
+}

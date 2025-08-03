@@ -1,0 +1,21 @@
+{
+  "query": "If Patty's dress was $10 more than Ida's dress, and Ida's dress was $30 more than Jean's dress, and Jean's dress was $10 less than Pauline's dress, and lastly Pauline's dress was $30, how much did all the ladies spend on dressed put together?",
+  "steps": [
+    "Let's start by finding out the cost of each individual's dress, beginning with Pauline, since her dress cost is directly given.",
+    "Pauline's dress cost = $30.",
+    "Jean's dress cost is $10 less than Pauline's dress.",
+    "Jean's dress cost = $30 (Pauline's) - $10 = $20.",
+    "Ida's dress cost is $30 more than Jean's dress.",
+    "Ida's dress cost = $20 (Jean's) + $30 = $50.",
+    "Patty's dress cost is $10 more than Ida's dress.",
+    "Patty's dress cost = $50 (Ida's) + $10 = $60.",
+    "Now, I'll add up the costs of all the dresses.",
+    "Pauline's dress cost = $30",
+    "Jean's dress cost = $20",
+    "Ida's dress cost = $50",
+    "Patty's dress cost = $60",
+    "Total dress cost = $30 + $20 + $50 + $60",
+    "Total dress cost = $160"
+  ],
+  "solution": "160"
+}

@@ -1,0 +1,22 @@
+#!/bin/bash
+
+#SBATCH --partition=gpu_h100
+#SBATCH --gpus=1
+#SBATCH --job-name={JOB_NAME}
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=16
+#SBATCH --time={TIME}
+#SBATCH --output=jobs/outputs/{TASK}/{MODEL_NAME}/{EXPERIMENT_NAME}_%A_%a.out
+#SBATCH --array=0-{N}
+
+# <Any code you need to set up your environment>
+
+cd $HOME/cache-steering/
+# <Activete environment here, e.g. source activate cache-steering>
+
+# Read value from file based on SLURM_ARRAY_TASK_ID
+VALUE=$(sed -n "$((SLURM_ARRAY_TASK_ID+1))p" jobs/generated/ablations/{PARAM}_values.txt)
+
+srun python eval_steering.py --model {MODEL} \
+                            --task {TASK} \
+                            --{PARAM} $VALUE{EXTRA_FLAGS}

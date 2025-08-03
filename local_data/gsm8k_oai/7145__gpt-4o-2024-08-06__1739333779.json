@@ -1,0 +1,18 @@
+{
+  "query": "Mark constructs a cube of pure gold.  The cube is 6 cm on each side.  The density of gold is 19 grams per cubic centimeter.  He buys the gold for $60 per gram.  He sells it for 1.5 times its gold value.  What was the profit?",
+  "steps": [
+    "I need to find the volume of the cube first. The formula for the volume of a cube is side length cubed.",
+    "The side length of the cube is 6 cm, so the volume is \\(6^3\\) cubic centimeters.",
+    "Calculating \\(6^3\\), I get \\(6 \\times 6 \\times 6 = 216\\) cubic centimeters.",
+    "The volume of the cube is 216 cubic centimeters.",
+    "Given the density of gold is 19 grams per cubic centimeter, I can find the mass of the gold cube by multiplying the density by the volume.",
+    "The mass of the cube is \\(216 \\, \\text{cm}^3 \\times 19 \\, \\text{g/cm}^3 = 4104\\) grams.",
+    "Next, I'll find the cost Mark paid for the gold. He buys the gold for $60 per gram.",
+    "The cost is \\(4104 \\, \\text{g} \\times 60 \\, \\text{\\$/g} = 246240\\) dollars.",
+    "Mark sells the gold for 1.5 times its gold value, so I need to calculate 1.5 times the initial cost.",
+    "The selling price is \\(1.5 \\times 246240 = 369360\\) dollars.",
+    "To find the profit, subtract the cost from the selling price.",
+    "The profit is \\(369360 - 246240 = 123120\\) dollars."
+  ],
+  "solution": "123120"
+}

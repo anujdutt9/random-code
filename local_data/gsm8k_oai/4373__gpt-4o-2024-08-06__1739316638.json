@@ -1,0 +1,24 @@
+{
+  "query": "Lucille made an agreement with her mom that she would earn six cents for every weed she pulled in her mom's garden. There are eleven weeds in the flower bed, fourteen in the vegetable patch, and thirty-two in the grass around the fruit trees. Lucille weeded the flower bed, the vegetable patch, and half the grass before she took a break. She bought a soda for 99 cents on her break with some of her earnings. How many cents does Lucille have left?",
+  "steps": [
+    "First, I need to calculate the total number of weeds Lucille pulled before she took her break.",
+    "There are 11 weeds in the flower bed, and Lucille pulled all of them.",
+    "There are 14 weeds in the vegetable patch, and Lucille pulled all of them too.",
+    "There are 32 weeds in the grass around the fruit trees, but Lucille only pulled half of them.",
+    "Half of 32 weeds is 16 weeds.",
+    "Now, let's add the number of weeds Lucille pulled.",
+    "She pulled 11 (flower bed) + 14 (vegetable patch) + 16 (half the grass).",
+    "11 + 14 = 25",
+    "25 + 16 = 41",
+    "Lucille pulled a total of 41 weeds.",
+    "Next, I need to calculate how much Lucille earned for pulling these weeds.",
+    "Lucille earns 6 cents for every weed she pulls.",
+    "I need to multiply the total number of weeds pulled by the earning rate per weed.",
+    "41 weeds * 6 cents per weed = 246 cents",
+    "Lucille earned a total of 246 cents before her break.",
+    "Lucille spent 99 cents on a soda during her break.",
+    "Subtract the amount spent on the soda from her total earnings.",
+    "246 cents (earned) - 99 cents (spent) = 147 cents"
+  ],
+  "solution": "147"
+}

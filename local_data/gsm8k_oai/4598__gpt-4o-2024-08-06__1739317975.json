@@ -1,0 +1,20 @@
+{
+  "query": "Juan bought T-shirts for his employees. He bought shirts for men and women. Women's t-shirts are $5 cheaper than men's t-shirts of the same color. His company has 2 sectors, one in white t-shirts and the other in black t-shirts. He paid $20 for white men's t-shirts and $18 for black men's t-shirts. The 2 sectors have the same number of men and women, with a total of 40 employees. How much did he spend total on buying t-shirts?",
+  "steps": [
+    "First, I want to determine the number of employees in each sector. The problem states that the company is divided into 2 sectors with equal numbers of men and women, making a total of 40 employees.",
+    "Given the equal division, each sector consists of 20 employees.",
+    "Each sector has the same number of men and women. Therefore, in each sector, there are 10 men and 10 women.",
+    "Next, I need to calculate the cost of t-shirts for the white t-shirt sector (20 employees).",
+    "Juan paid $20 for each white men's t-shirt. There are 10 men in this sector, so the cost for white men\u2019s t-shirts is 10 men * $20 = $200.",
+    "Women's t-shirts are $5 cheaper than men's t-shirts. Therefore, each white women's t-shirt costs $20 - $5 = $15.",
+    "For the 10 women in this sector, the cost for white women\u2019s t-shirts is 10 women * $15 = $150.",
+    "Now, I will calculate the total cost for the white t-shirt sector: $200 (men) + $150 (women) = $350.",
+    "Next, I\u2019ll calculate the cost of t-shirts for the black t-shirt sector (the other 20 employees).",
+    "The black men's t-shirts cost $18 each. There are 10 men in this sector, so the cost for black men\u2019s t-shirts is 10 men * $18 = $180.",
+    "Each black women's t-shirt is $5 cheaper than a black men's t-shirt, so it costs $18 - $5 = $13.",
+    "For the 10 women in this sector, the cost for black women\u2019s t-shirts is 10 women * $13 = $130.",
+    "Now, calculate the total cost for the black t-shirt sector: $180 (men) + $130 (women) = $310.",
+    "To find the total amount Juan spent on all t-shirts, I add the costs of both sectors: $350 (white t-shirts) + $310 (black t-shirts) = $660."
+  ],
+  "solution": "660"
+}

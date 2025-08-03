@@ -1,0 +1,15 @@
+{
+  "query": "Nina made a two-layer cake and a dozen cupcakes for her friend\u2019s birthday party. Each layer of cake takes the same amount of sugar to make as a dozen cupcakes. Nina used 720 grams of sugar to bake everything. How many grams of sugar are in one cupcake?",
+  "steps": [
+    "Each layer of the cake takes the same amount of sugar as a dozen cupcakes.",
+    "Nina made a two-layer cake, so she used sugar for two layers.",
+    "Since each layer is equivalent to a dozen cupcakes in terms of sugar, the two layers combined require sugar equivalent to two dozens of cupcakes.",
+    "Nina also made one dozen cupcakes separately.",
+    "In total, the amount of sugar used is equivalent to three dozens of cupcakes (two dozen for the layers and one dozen for the cupcakes).",
+    "Three dozens equal 36 cupcakes because 12 cupcakes make one dozen.",
+    "Nina used 720 grams of sugar for a total of sugar equivalent to 36 cupcakes.",
+    "To find the sugar per cupcake, we divide the total sugar used by the number of cupcake equivalents (36).",
+    "720 grams of sugar divided by 36 cupcakes gives 20 grams of sugar per cupcake."
+  ],
+  "solution": "20"
+}

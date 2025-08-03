@@ -1,0 +1,17 @@
+{
+  "query": "Tom decides to renovate a house.  There are 3 bedrooms and each bedroom takes 4 hours to renovate.  The kitchen takes 50% longer than each bedroom.  The living room took twice as much time as everything else combined.  How long did everything take?",
+  "steps": [
+    "First, I determine how long it takes to renovate the bedrooms. There are 3 bedrooms, each taking 4 hours.",
+    "To find the total time for the bedrooms, I multiply the number of bedrooms by the time per bedroom: 3 bedrooms * 4 hours/bedroom = 12 hours.",
+    "Next, I find out how long it takes to renovate the kitchen. The problem states that the kitchen takes 50% longer than a bedroom.",
+    "50% of 4 hours is 4 * 0.5 = 2 hours.",
+    "Therefore, the kitchen takes 4 hours + 2 hours = 6 hours to renovate.",
+    "Now, I need to find the total time spent on the bedrooms and the kitchen.",
+    "The combined time for the bedrooms and kitchen is 12 hours (bedrooms) + 6 hours (kitchen) = 18 hours.",
+    "The living room renovation took twice as long as the combined time of the bedrooms and kitchen.",
+    "18 hours (bedrooms and kitchen) * 2 = 36 hours for the living room.",
+    "Finally, I add up the time for all the renovations.",
+    "12 hours (bedrooms) + 6 hours (kitchen) + 36 hours (living room) = 54 hours total."
+  ],
+  "solution": "54"
+}

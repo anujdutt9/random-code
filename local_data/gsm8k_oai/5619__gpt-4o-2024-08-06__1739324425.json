@@ -1,0 +1,24 @@
+{
+  "query": "Jack is counting out his register at the end of his shift in the shop. His till has 2 $100 bills, 1 $50 bill, 5 $20 bills, 3 $10 bills, 7 $5 bills, 27 $1 bills, and a certain amount of change in coins. If he is supposed to leave $300 in notes as well as all the coins in the till and turn the rest in to the main office, how much money will he be handing in?",
+  "steps": [
+    "I first need to calculate the total amount in notes that Jack has.",
+    "Starting with the $100 bills: 2 x $100 = $200.",
+    "Next, calculate the amount for the $50 bill: 1 x $50 = $50.",
+    "The $20 bills amount to: 5 x $20 = $100.",
+    "For the $10 bills: 3 x $10 = $30.",
+    "Calculating for the $5 bills: 7 x $5 = $35.",
+    "Finally, for the $1 bills: 27 x $1 = $27.",
+    "Now, I need to add all these amounts together to find the total in notes.",
+    "Total amount in notes = $200 + $50 + $100 + $30 + $35 + $27.",
+    "First, adding $200 + $50 = $250.",
+    "Then, adding $250 + $100 = $350.",
+    "Next, adding $350 + $30 = $380.",
+    "Adding $380 + $35 = $415.",
+    "Finally, adding $415 + $27 = $442.",
+    "Jack's till has $442 in notes.",
+    "He needs to leave $300 in notes in the till.",
+    "So, the amount he will hand in is the total notes minus $300.",
+    "$442 - $300 = $142."
+  ],
+  "solution": "142"
+}

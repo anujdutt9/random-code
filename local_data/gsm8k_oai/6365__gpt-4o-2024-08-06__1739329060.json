@@ -1,0 +1,19 @@
+{
+  "query": "Two trains left the station at the same time, but took different tracks to their destination. One took a track that was 200 miles long and it went 50 MPH. The other took the other track that was 240 miles long and it went 80 MPH. How much time did it take them on average? (Round to the nearest integer.)",
+  "steps": [
+    "First, I will calculate the time it took for the first train to reach its destination.",
+    "The first train took a track that was 200 miles long and traveled at 50 MPH.",
+    "Time is calculated by dividing distance by speed: Time = Distance / Speed.",
+    "For the first train: Time = 200 miles / 50 MPH = 4 hours.",
+    "Next, I will calculate the time it took for the second train to reach its destination.",
+    "The second train took a track that was 240 miles long and traveled at 80 MPH.",
+    "Again, using the formula Time = Distance / Speed for the second train: Time = 240 miles / 80 MPH = 3 hours.",
+    "Now, I will calculate the average of the two travel times.",
+    "The times were 4 hours for the first train and 3 hours for the second train.",
+    "To find the average time, I add the two times together and then divide by the number of trains.",
+    "Average time = (4 hours + 3 hours) / 2 = 7 hours / 2 = 3.5 hours.",
+    "Finally, I need to round 3.5 to the nearest integer.",
+    "3.5 rounded to the nearest integer is 4."
+  ],
+  "solution": "4"
+}

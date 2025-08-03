@@ -1,0 +1,20 @@
+{
+  "query": "Joel is picking peppers from his garden. He picks 7 on Sunday, 12 on Monday, 14 on Tuesday, 12 on Wednesday, 5 on Thursday, 18 on Friday and 12 on Saturday. He knows that in his garden 20% of the peppers are hot and the rest are not. How many non-hot peppers did he pick?",
+  "steps": [
+    "First, I need to calculate the total number of peppers Joel picked throughout the week.",
+    "I'll add the number of peppers picked each day: 7 on Sunday, 12 on Monday, 14 on Tuesday, 12 on Wednesday, 5 on Thursday, 18 on Friday, and 12 on Saturday.",
+    "7 + 12 = 19",
+    "19 + 14 = 33",
+    "33 + 12 = 45",
+    "45 + 5 = 50",
+    "50 + 18 = 68",
+    "68 + 12 = 80",
+    "Joel picked a total of 80 peppers. Next, I'll calculate how many of these are hot peppers.",
+    "20% of the total peppers are hot. To find out how many, multiply 80 by 0.20.",
+    "80 * 0.20 = 16",
+    "So, Joel picked 16 hot peppers. Now, I need to find out how many peppers are non-hot.",
+    "Subtract the number of hot peppers from the total number of peppers to find the non-hot peppers.",
+    "80 - 16 = 64"
+  ],
+  "solution": "64"
+}

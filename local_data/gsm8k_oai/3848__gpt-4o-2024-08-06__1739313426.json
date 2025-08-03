@@ -1,0 +1,15 @@
+{
+  "query": "James buys 20 coins of a cryptocurrency at $15 each.  The value of the coins increases by 2/3.  He sells coins to recoup his original investment.  How many coins did he sell?",
+  "steps": [
+    "James buys 20 coins at $15 each.",
+    "The total cost of the coins is 20 coins * $15 = $300.",
+    "The value of the coins increases by 2/3.",
+    "2/3 of $15 is calculated as (2/3) * $15.",
+    "(2/3) * $15 = $10.",
+    "The new value of each coin is $15 + $10 = $25.",
+    "To recoup his original investment, James needs to make back $300.",
+    "At the new value of $25 per coin, we calculate how many coins he needs to sell to get $300.",
+    "$300 divided by $25 per coin = 12 coins."
+  ],
+  "solution": "12"
+}

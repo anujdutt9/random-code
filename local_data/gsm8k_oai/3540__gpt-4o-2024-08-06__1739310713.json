@@ -1,0 +1,17 @@
+{
+  "query": "Baseball season opened up with the Chicago Cubs at home at Wrigley Field. They scored 2 home runs in the third inning, 1 home run in the fifth inning and 2 more home runs in the eighth inning. Their opponents, the Cardinals, scored 1 home run in the second inning and 1 home run in the fifth inning. How many more home runs did the Chicago Cubs score than the Cardinals in the game?",
+  "steps": [
+    "First, I need to determine the total number of home runs scored by the Chicago Cubs.",
+    "The Cubs scored 2 home runs in the third inning.",
+    "The Cubs scored 1 home run in the fifth inning.",
+    "The Cubs scored 2 more home runs in the eighth inning.",
+    "Adding those together, the Cubs scored 2 + 1 + 2 = 5 home runs in total.",
+    "Next, I need to determine the total number of home runs scored by the Cardinals.",
+    "The Cardinals scored 1 home run in the second inning.",
+    "The Cardinals scored 1 more home run in the fifth inning.",
+    "Adding those together, the Cardinals scored 1 + 1 = 2 home runs in total.",
+    "Now, I need to determine how many more home runs the Cubs scored compared to the Cardinals.",
+    "I subtract the total home runs scored by the Cardinals from the total home runs scored by the Cubs: 5 - 2 = 3."
+  ],
+  "solution": "3"
+}

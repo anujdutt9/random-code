@@ -1,0 +1,16 @@
+{
+  "query": "Jane runs a small farm.  She has 10 chickens that lay 6 eggs each per week. She can sell the eggs for $2/dozen.  How much money will she make in 2 weeks if she sells all her eggs?",
+  "steps": [
+    "Jane has 10 chickens.",
+    "Each chicken lays 6 eggs per week.",
+    "I need to find out how many eggs are laid by 10 chickens in one week.",
+    "10 chickens * 6 eggs per chicken = 60 eggs per week.",
+    "Now I need to find out how many eggs are laid in 2 weeks.",
+    "60 eggs per week * 2 weeks = 120 eggs.",
+    "Eggs are sold for $2 per dozen. I need to find out how many dozens are in 120 eggs.",
+    "120 eggs \u00f7 12 eggs per dozen = 10 dozen.",
+    "Now I need to calculate the total money earned from selling 10 dozen eggs.",
+    "10 dozen * $2 per dozen = $20."
+  ],
+  "solution": "20"
+}

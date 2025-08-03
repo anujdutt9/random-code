@@ -1,0 +1,15 @@
+{
+  "query": "Linda bought two coloring books at $4 each, 4 packs of peanuts at $1.50 each pack, and one stuffed animal. She gave the cashier $25 and got no change. How much does a stuffed animal cost?",
+  "steps": [
+    "First, I need to calculate the total cost of the coloring books. Linda bought two coloring books at $4 each.",
+    "So, the cost of the coloring books is 2 books * $4 per book = $8.",
+    "Next, I need to calculate the total cost of the packs of peanuts. Linda bought 4 packs at $1.50 each.",
+    "So, the cost of the packs of peanuts is 4 packs * $1.50 per pack = $6.",
+    "Now, I can find the combined cost of the coloring books and the packs of peanuts together.",
+    "The combined cost is $8 (coloring books) + $6 (peanuts) = $14.",
+    "Linda gave the cashier $25 and received no change, which means the total cost of all items she bought is $25.",
+    "To find the cost of the stuffed animal, I subtract the combined cost of the coloring books and peanuts from the total amount she spent.",
+    "So, the cost of the stuffed animal is $25 - $14 = $11."
+  ],
+  "solution": "11"
+}

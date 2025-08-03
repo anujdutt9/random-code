@@ -1,0 +1,13 @@
+{
+  "query": "Jack and Jill race up the hill to see who gets there fastest. Jack ran up the first half of the hill in 19 seconds. He finished running up the hill 7 seconds before Jill did. If Jill finished the race in 32 seconds, how long did it take Jack to run up the second half of the hill?",
+  "steps": [
+    "Jack finished the race 7 seconds before Jill.",
+    "Jill finished the race in 32 seconds.",
+    "Since Jack finished 7 seconds before Jill, we subtract 7 seconds from Jill's time to find Jack's total time.",
+    "32 seconds - 7 seconds equals 25 seconds.",
+    "Jack took 19 seconds to run the first half of the hill.",
+    "To find out how long it took Jack to run the second half, we subtract the time for the first half from his total time.",
+    "25 seconds (Jack's total time) - 19 seconds (first half) equals 6 seconds."
+  ],
+  "solution": "6"
+}

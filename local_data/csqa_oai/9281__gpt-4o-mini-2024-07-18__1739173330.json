@@ -1,0 +1,14 @@
+{
+  "query": "Question: I don't have internet connection, who do I call?\n\nChoices:\nA: 911\nB: computer network\nC: company\nD: electrical circuit\nE: airport",
+  "steps": [
+    "The question is about what to do when there is no internet connection.",
+    "The first choice, 911, is for emergencies and is not appropriate for an internet issue.",
+    "The second choice, computer network, is not a person or entity you can call; it refers to a system.",
+    "The third choice, company, likely refers to an Internet Service Provider (ISP) or other tech support services, which would be appropriate to contact for internet issues.",
+    "The fourth choice, electrical circuit, refers to hardware and would not be a valid option to call for help.",
+    "The fifth choice, airport, is unrelated to internet service and does not provide assistance for connectivity issues.",
+    "Evaluating all options, the only reasonable choice for assistance with an internet connection problem is to call the company that provides the internet service.",
+    "Thus, the best answer is to contact the company that handles internet services."
+  ],
+  "solution": "C"
+}

@@ -1,0 +1,12 @@
+{
+  "query": "George had $100. He bought a shirt for $24 and he also bought a pair of socks. Then he had $65 left. How much is a pair of socks?",
+  "steps": [
+    "George started with $100.",
+    "He bought a shirt for $24, so I need to subtract $24 from $100 to see how much money he had after buying the shirt.",
+    "$100 - $24 = $76. So after buying the shirt, George had $76 left.",
+    "After buying the pair of socks, George had $65 left.",
+    "To find out how much the pair of socks cost, I need to calculate how much money was spent on the socks. This can be done by subtracting the amount of money left after buying the socks ($65) from the amount he had after buying the shirt ($76).",
+    "$76 - $65 = $11. So, George spent $11 on the pair of socks."
+  ],
+  "solution": "11"
+}

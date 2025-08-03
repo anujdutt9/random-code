@@ -1,0 +1,15 @@
+{
+  "query": "Andrew's father buys a package of 100 masks. Andrew lives with his 2 parents and 2 siblings. All members of Andrew's family change masks every 4 days. How many days will it take to finish the pack of masks?",
+  "steps": [
+    "First, I need to determine how many people are in Andrew's family. Andrew lives with his 2 parents and 2 siblings.",
+    "Counting all of them, Andrew's family has 1 (Andrew) + 2 (parents) + 2 (siblings) = 5 members.",
+    "Each family member changes masks every 4 days. I need to find out how many masks each person uses.",
+    "Over the course of 4 days, each person uses 1 mask.",
+    "The number of masks used by the whole family in one cycle of 4 days is 5 members \u00d7 1 mask each = 5 masks.",
+    "Next, I need to determine how many complete 4-day cycles the 100 masks will last.",
+    "100 masks \u00f7 5 masks per cycle = 20 cycles.",
+    "Each cycle is 4 days long.",
+    "The total number of days the masks will last is 20 cycles \u00d7 4 days per cycle."
+  ],
+  "solution": "80"
+}

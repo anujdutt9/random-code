@@ -1,0 +1,16 @@
+{
+  "query": "Aimee does a poll around her neighborhood and makes sure to get answers from 50% men and 50% women. She finds that 35% of women are in favor of shortening the school day by 30 minutes. 39 women in her poll opposed this idea. How many people did she poll?",
+  "steps": [
+    "Aimee conducted a poll with an equal number of men and women, so the women make up 50% of the total people polled.",
+    "We know that 35% of women in the poll are in favor of shortening the school day by 30 minutes.",
+    "This implies that 65% of the women are opposed to this idea, as 100% - 35% = 65%.",
+    "Aimee found that 39 women opposed the idea of shortening the school day by 30 minutes.",
+    "Since 65% of the women are opposed, this 65% corresponds to the 39 women.",
+    "Let's find the total number of women. We can set up the equation: 0.65 * W = 39, where W is the total number of women.",
+    "Solve for W by dividing 39 by 0.65: W = 39 / 0.65.",
+    "Calculating this gives W = 60.",
+    "Therefore, there are 60 women in the poll. Since the poll consists of equal numbers of men and women, there are also 60 men.",
+    "Thus, the total number of people Aimee polled is 60 women + 60 men."
+  ],
+  "solution": "120"
+}

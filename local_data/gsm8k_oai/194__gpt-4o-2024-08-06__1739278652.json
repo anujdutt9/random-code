@@ -1,0 +1,20 @@
+{
+  "query": "Mr. Grey is purchasing gifts for his family. So far he has purchased 3 polo shirts for $26 each; 2 necklaces for $83 each; and 1 computer game for $90. Since Mr. Grey purchased all those using his credit card, he received a $12 rebate. What is the total cost of the gifts after the rebate?",
+  "steps": [
+    "First, I need to calculate the total cost of the 3 polo shirts.",
+    "Each polo shirt costs $26, so for 3 shirts the total is 3 * $26.",
+    "Calculating this gives: 3 * $26 = $78.",
+    "Next, I will calculate the total cost of the 2 necklaces.",
+    "Each necklace costs $83, so for 2 necklaces the total is 2 * $83.",
+    "Calculating this gives: 2 * $83 = $166.",
+    "Now, I consider the cost of the computer game.",
+    "The computer game costs $90.",
+    "I will now add up all these costs: cost of shirts, necklaces, and the game.",
+    "Total without rebate is $78 (shirts) + $166 (necklaces) + $90 (game).",
+    "Calculating this gives: $78 + $166 + $90 = $334.",
+    "Next, I need to account for the $12 rebate.",
+    "The total cost after applying the rebate is $334 - $12.",
+    "Calculating this gives: $334 - $12 = $322."
+  ],
+  "solution": "322"
+}

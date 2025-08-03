@@ -1,0 +1,14 @@
+{
+  "query": "Faith's neighborhood, with a total of 20 homes, decided to install solar panels. Each home needed 10 panels capable of providing their power needs. The supplier of the panels brought 50 panels less than the required amount. The neighbors agreed to only install the panels up to where they'd be finished. How many homes had their panels installed?",
+  "steps": [
+    "First, let me calculate the total number of panels required for all the homes. There are 20 homes and each requires 10 panels.",
+    "Total panels required = 20 homes * 10 panels/home = 200 panels.",
+    "The supplier brought 50 panels less than the required amount.",
+    "Thus, the supplier brought = 200 panels - 50 panels = 150 panels.",
+    "Now, let's see how many full homes can have their panels installed with the 150 panels available.",
+    "Each home requires 10 panels. So, the number of homes that can have panels installed is 150 panels / 10 panels/home.",
+    "150 panels divided by 10 panels per home equals 15 homes.",
+    "Therefore, 15 homes can have their panels fully installed."
+  ],
+  "solution": "15"
+}

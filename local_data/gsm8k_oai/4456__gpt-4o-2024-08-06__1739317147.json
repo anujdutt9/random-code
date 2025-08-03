@@ -1,0 +1,12 @@
+{
+  "query": "Each class uses 200 sheets of paper per day. The school uses a total of 9000 sheets of paper every week. If there are 5 days of school days, how many classes are there in the school?",
+  "steps": [
+    "First, I need to determine how many sheets of paper the school uses in one day.",
+    "Since the school uses a total of 9000 sheets of paper every week, and there are 5 school days in a week, I will divide 9000 by 5.",
+    "9000 sheets per week \u00f7 5 days per week = 1800 sheets per day.",
+    "Next, I need to find out how many classes are there. I know each class uses 200 sheets of paper per day.",
+    "I will divide the total number of sheets used per day by the number of sheets each class uses.",
+    "1800 sheets per day \u00f7 200 sheets per class = 9 classes."
+  ],
+  "solution": "9"
+}

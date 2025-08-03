@@ -1,0 +1,14 @@
+{
+  "query": "Betty is saving money for a new wallet which costs $100. Betty has only half of the money she needs. Her parents decided to give her $15 for that purpose, and her grandparents twice as much as her parents. How much more money does Betty need to buy the wallet?",
+  "steps": [
+    "Betty needs $100 in total to buy the wallet.",
+    "Currently, Betty has half of the money she needs, so she has $100 / 2 = $50.",
+    "Betty's parents are giving her an additional $15.",
+    "Betty's grandparents are giving her twice as much as her parents, so they are giving her 2 * $15 = $30.",
+    "Calculate the total amount of money Betty will have after receiving money from her parents and grandparents by adding what she currently has, her parents' contribution, and her grandparents' contribution: $50 + $15 + $30.",
+    "The total amount is $50 + $15 + $30 = $95.",
+    "Determine how much more money Betty needs by subtracting the total amount she will have from the cost of the wallet: $100 - $95.",
+    "The difference is $100 - $95 = $5."
+  ],
+  "solution": "5"
+}

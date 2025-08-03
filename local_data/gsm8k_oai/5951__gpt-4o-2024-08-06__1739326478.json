@@ -1,0 +1,26 @@
+{
+  "query": "Cora started reading a 158-page book on Monday, and she decided she wanted to finish it by the end of Friday. She read 23 pages on Monday, 38 pages on Tuesday, and 61 pages on Wednesday. She knows she will have time to read twice as much on Friday as she does on Thursday. How many pages does she have to read on Thursday to finish the book in time?",
+  "steps": [
+    "First, I need to determine how many pages Cora has read by the end of Wednesday.",
+    "Cora read 23 pages on Monday.",
+    "She read 38 pages on Tuesday.",
+    "She read 61 pages on Wednesday.",
+    "To find the total pages read by Wednesday, I sum these values: 23 + 38 + 61.",
+    "23 + 38 = 61",
+    "61 + 61 = 122",
+    "So, Cora has read 122 pages by the end of Wednesday.",
+    "The book is 158 pages long, so I need to find out how many pages are left to read.",
+    "I subtract the pages already read from the total pages: 158 - 122.",
+    "158 - 122 = 36",
+    "There are 36 pages left for Cora to read to finish the book.",
+    "Cora plans to read some pages on Thursday and twice as many on Friday.",
+    "If she reads x pages on Thursday, she will read 2x pages on Friday.",
+    "The total pages read on Thursday and Friday must equal 36.",
+    "So, the equation is x + 2x = 36.",
+    "Combine like terms: 3x = 36.",
+    "Solve for x by dividing both sides by 3: x = 36 / 3.",
+    "36 / 3 = 12",
+    "Therefore, Cora needs to read 12 pages on Thursday."
+  ],
+  "solution": "12"
+}

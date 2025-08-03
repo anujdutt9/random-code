@@ -1,0 +1,13 @@
+{
+  "query": "In a forest, there are three anthills. In the first anthill, there are 100 ants, and in each next anthill, there are 20% fewer ants than in the previous one. How many ants are in the third anthill?",
+  "steps": [
+    "First, I know that in the first anthill there are 100 ants.",
+    "I need to find the number of ants in the second anthill, which is 20% fewer than in the first anthill.",
+    "20% of 100 ants is 20 ants.",
+    "So, there are 100 - 20 = 80 ants in the second anthill.",
+    "Next, I need to find the number of ants in the third anthill, which is again 20% fewer than in the second anthill.",
+    "20% of 80 ants is 16 ants.",
+    "So, there are 80 - 16 = 64 ants in the third anthill."
+  ],
+  "solution": "64"
+}

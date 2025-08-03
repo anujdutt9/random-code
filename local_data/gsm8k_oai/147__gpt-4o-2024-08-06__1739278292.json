@@ -1,0 +1,14 @@
+{
+  "query": "Mary has 5 green crayons and 8 blue crayons of different shades. If she gives out 3 green crayons and 1 blue crayon to Becky, how many crayons does she have left?",
+  "steps": [
+    "Mary starts with 5 green crayons.",
+    "She also starts with 8 blue crayons.",
+    "In total, Mary has 5 green + 8 blue = 13 crayons initially.",
+    "Mary gives away 3 green crayons to Becky.",
+    "After giving away 3 green crayons, Mary has 5 - 3 = 2 green crayons left.",
+    "Mary also gives away 1 blue crayon to Becky.",
+    "After giving away 1 blue crayon, Mary has 8 - 1 = 7 blue crayons left.",
+    "Now, we add up the crayons left with Mary: 2 green + 7 blue = 9 crayons."
+  ],
+  "solution": "9"
+}

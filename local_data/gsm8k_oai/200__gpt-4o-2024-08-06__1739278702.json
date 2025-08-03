@@ -1,0 +1,20 @@
+{
+  "query": "Sansa is a famous artist, she can draw a portrait and sell it according to its size. She sells an 8-inch portrait for $5, and a 16-inch portrait for twice the price of the 8-inch portrait. If she sells three 8-inch portraits and five 16-inch portraits per day, how many does she earns every 3 days?",
+  "steps": [
+    "First, I need to calculate the price of the 16-inch portrait.",
+    "Sansa sells an 8-inch portrait for $5.",
+    "She sells a 16-inch portrait for twice the price of the 8-inch portrait.",
+    "Twice the price of an 8-inch portrait is $5 x 2 = $10.",
+    "So, a 16-inch portrait sells for $10.",
+    "Next, I calculate Sansa's earnings in one day.",
+    "She sells three 8-inch portraits per day.",
+    "The earnings from three 8-inch portraits are 3 x $5 = $15.",
+    "She also sells five 16-inch portraits per day.",
+    "The earnings from five 16-inch portraits are 5 x $10 = $50.",
+    "Now, I add the earnings from the 8-inch and 16-inch portraits to find the total daily earnings.",
+    "Total earnings per day = $15 + $50 = $65.",
+    "I need to find out how much she earns every 3 days.",
+    "Multiply daily earnings by 3: $65 x 3 = $195."
+  ],
+  "solution": "195"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "There's a sale at your favorite \"Any item $10\" retailer. If you buy 1 shirt you pay $10. If you buy 2, you get the second one at a 50% discount. If you buy 3, you get the third one at a 60% discount. How much money did you save if you bought 3 shirts?",
+  "steps": [
+    "I need to calculate the total cost first to find out how much I saved.",
+    "The cost of the first shirt is $10.",
+    "The cost of the second shirt with the discount is 50% off, so:\nThe discount is 50% of $10, which is $5.",
+    "The cost for the second shirt is $10 - $5 = $5.",
+    "The cost of the third shirt with the discount is 60% off, so:\nThe discount is 60% of $10, which is $6.",
+    "The cost for the third shirt is $10 - $6 = $4.",
+    "Now, I calculate the total cost without discounts for 3 shirts: \n$10 + $10 + $10 = $30",
+    "Next, I calculate the total cost I pay with discounts:\n$10 (first shirt) + $5 (second shirt) + $4 (third shirt) = $19",
+    "To find out how much money I saved, I subtract the cost with discounts from the cost without discounts:\n$30 (without discounts) - $19 (with discounts) = $11"
+  ],
+  "solution": "11"
+}

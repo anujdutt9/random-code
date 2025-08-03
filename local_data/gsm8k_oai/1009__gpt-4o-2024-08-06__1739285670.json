@@ -1,0 +1,20 @@
+{
+  "query": "Lagoon island is populated by alligators. Half the alligators are male. The rest are female. Among the females, 40% are juveniles. There are 15 adult females. How many male alligators are there?",
+  "steps": [
+    "I need to figure out how many female alligators there are in total.",
+    "I know that 40% of the female alligators are juveniles.",
+    "The rest, which is 60% of the female alligators, are adults.",
+    "I am given that there are 15 adult females.",
+    "15 adult females represent 60% of the total female alligators.",
+    "Let \\( x \\) be the total number of female alligators.",
+    "Since 60% of \\( x \\) is 15, I can set up the equation: \\( 0.6x = 15 \\).",
+    "Now, I solve for \\( x \\) by dividing both sides of the equation by 0.6.",
+    "\\( x = \\frac{15}{0.6} \\).",
+    "\\( x = 25 \\).",
+    "So, there are 25 female alligators in total.",
+    "I know that half of the alligators in total are male.",
+    "Let \\( y \\) be the total number of alligators.",
+    "Since half are female and half are male, the number of male alligators is also 25."
+  ],
+  "solution": "25"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Exactly two-fifths of NBA players who signed up for a test are aged between 25 and 35 years. If three-eighths of them are older than 35, and a total of 1000 players signed up, how many players are younger than 25 years?",
+  "steps": [
+    "First, I need to determine how many players are aged between 25 and 35 years.",
+    "Two-fifths of the players were aged between 25 and 35. There are 1000 players in total.",
+    "Calculate two-fifths of 1000: \\( \\frac{2}{5} \\times 1000 = 400 \\).",
+    "Now, I'll determine how many players are older than 35 years.",
+    "Three-eighths of the players are older than 35 years.",
+    "Calculate three-eighths of 1000: \\( \\frac{3}{8} \\times 1000 = 375 \\).",
+    "Now I know 400 players are between 25 and 35, and 375 are older than 35. I need to find out how many players are younger than 25 years.",
+    "First, calculate the total number of players who are either between 25 and 35 or older than 35: \\( 400 + 375 = 775 \\).",
+    "The total number of players is 1000. Therefore, the players younger than 25 are \\( 1000 - 775 = 225 \\)."
+  ],
+  "solution": "225"
+}

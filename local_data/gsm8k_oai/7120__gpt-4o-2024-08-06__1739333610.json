@@ -1,0 +1,17 @@
+{
+  "query": "Adam's father deposited $2000 in the bank. It receives 8% interest paid throughout the year, and he withdraws the interest as soon as it is deposited.  How much will Adam\u2019s father have, including his deposit and the interest received after 2 and a half years?",
+  "steps": [
+    "Let's first determine the annual interest rate on the deposit.",
+    "The deposit is $2000, and the interest rate is 8%.",
+    "Calculate the annual interest: $2000 * 8% = $2000 * 0.08 = $160.",
+    "Since the interest is withdrawn as soon as it's deposited, Adam's father gets $160 in interest each year.",
+    "Next, calculate the total interest received over 2 and a half years.",
+    "For 2 full years, the interest is $160/year * 2 years = $320.",
+    "Now, determine the interest for the additional half-year.",
+    "For half a year, the interest would be $160 * 0.5 = $80.",
+    "Add the total interest for 2 years and the half-year: $320 + $80 = $400.",
+    "Now sum up the original deposit and the total interest received.",
+    "Add $2000 (original deposit) + $400 (total interest) = $2400."
+  ],
+  "solution": "2400"
+}

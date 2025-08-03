@@ -1,0 +1,19 @@
+{
+  "query": "Addilynn went to the grocery store and bought six dozen eggs for use in her house. After two weeks, she used half of the eggs, then accidentally broke 15 of the remaining eggs while moving them to clean the shelves. How many eggs are left on the shelf?",
+  "steps": [
+    "First, I need to calculate the total number of eggs Addilynn initially bought.",
+    "Since there are 12 eggs in a dozen, six dozen eggs would be 6 multiplied by 12.",
+    "6 times 12 equals 72, so Addilynn initially bought 72 eggs.",
+    "Next, I will determine how many eggs Addilynn used in two weeks. She used half of the eggs.",
+    "Half of 72 is 72 divided by 2.",
+    "72 divided by 2 equals 36, so she used 36 eggs.",
+    "Now, I need to find out how many eggs are remaining after usage.",
+    "Subtract the used eggs (36) from the initial total (72) to find the remaining eggs.",
+    "72 minus 36 equals 36 eggs remaining after usage.",
+    "Next, I need to account for the eggs that were broken.",
+    "Addilynn broke 15 of the remaining eggs.",
+    "To find the eggs left after breakage, subtract the broken eggs (15) from the remaining eggs (36).",
+    "36 minus 15 equals 21 eggs left."
+  ],
+  "solution": "21"
+}

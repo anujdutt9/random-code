@@ -1,0 +1,20 @@
+{
+  "query": "Each week Jaime saves $50. Every two weeks she spends $46 of her savings on a nice lunch with her mum. How long will it take her to save $135?",
+  "steps": [
+    "First, I need to determine how much Jaime saves every week.",
+    "Jaime saves $50 each week.",
+    "Next, I need to consider how much she spends every two weeks.",
+    "She spends $46 every two weeks.",
+    "I want to find out her net savings in two weeks.",
+    "In two weeks, she saves 2 * $50 = $100.",
+    "In the same two weeks, she spends $46, so her net savings are $100 - $46.",
+    "Her net savings every two weeks are $54.",
+    "Now, I need to determine how long it will take her to save $135.",
+    "I will check how many such two-week periods are needed to reach at least $135 in savings.",
+    "I'll calculate the number of two-week periods to reach $135 by dividing $135 by $54.",
+    "135 / 54 is approximately 2.5, so she needs a little more than two two-week periods.",
+    "Since half of a two-week period corresponds to one week, she needs an additional week.",
+    "Therefore, she needs 2 two-week periods (4 weeks) plus 1 additional week, totaling 5 weeks."
+  ],
+  "solution": "5"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "A plane flies between 4 cities; A, B, C and D. Passengers board and alight at each airport in every city when it departs and lands, respectively.  The distance between city A and city B is 100 miles.  The distance between city B and city C is 50 miles more than the distance between city A and city B.  The distance between city C and city D is twice the distance between city B and city C. Calculate the total distance between city A and city D.",
+  "steps": [
+    "Firstly, I need to determine the distance between city B and city C.",
+    "The distance between city B and city C is given as 50 miles more than the distance between city A and city B.",
+    "The distance between city A and city B is 100 miles.",
+    "So, the distance between city B and city C is 100 miles + 50 miles = 150 miles.",
+    "Next, I need to find the distance between city C and city D.",
+    "The distance between city C and city D is stated to be twice the distance between city B and city C.",
+    "From the previous calculation, the distance between city B and city C is 150 miles.",
+    "Therefore, the distance between city C and city D is 2 * 150 miles = 300 miles.",
+    "Finally, I need to calculate the total distance between city A and city D.",
+    "The total distance is the sum of the distances from A to B, B to C, and C to D.",
+    "From city A to city B, the distance is 100 miles.",
+    "From city B to city C, the distance is 150 miles.",
+    "From city C to city D, the distance is 300 miles.",
+    "Adding these up: 100 + 150 + 300 = 550 miles."
+  ],
+  "solution": "550"
+}

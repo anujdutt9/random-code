@@ -1,0 +1,19 @@
+{
+  "query": "A salesman bought a case of 48 backpacks for $576. He sold 17 of them for $18 at the swap meet, 10 were sold to a department store for $25 each. If the remainder were sold for $22 each. How much was the salesman's profit?",
+  "steps": [
+    "First, I need to determine the cost per backpack. The salesman bought 48 backpacks for $576.",
+    "To find the cost per backpack, I divide the total cost by the number of backpacks: $576 \u00f7 48 = $12 per backpack.",
+    "Now I need to calculate how much money was made by selling the 17 backpacks at the swap meet for $18 each.",
+    "Multiplying the number of backpacks by the price per backpack: 17 \u00d7 $18 = $306.",
+    "Next, calculate how much money was made by selling 10 backpacks to the department store for $25 each.",
+    "Multiplying the number of backpacks by the price per backpack: 10 \u00d7 $25 = $250.",
+    "Now, determine how many backpacks remain. Initially, there were 48 backpacks, 17 + 10 have been sold, so 48 - 27 = 21 backpacks remain.",
+    "These 21 remaining backpacks were sold at $22 each.",
+    "Calculate the total income from selling the remaining backpacks: 21 \u00d7 $22 = $462.",
+    "Add all the amounts of money received from sales to find total revenue: $306 + $250 + $462 = $1018.",
+    "The salesman's profit is the total revenue minus the initial cost of the backpacks.",
+    "The cost was $576, and total revenue is $1018.",
+    "Subtract to find profit: $1018 - $576 = $442."
+  ],
+  "solution": "442"
+}

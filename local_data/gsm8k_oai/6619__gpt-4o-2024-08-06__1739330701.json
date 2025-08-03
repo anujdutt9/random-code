@@ -1,0 +1,16 @@
+{
+  "query": "A hurricane is approaching the southern coast of Texas, and a rancher is planning to move 400 head of cattle 60 miles to higher ground to protect them from possible inland flooding that might occur.  His animal transport truck holds 20 head of cattle.  Traveling at 60 miles per hour, what is the total driving time, in hours, it will take to transport all of his cattle to higher ground?",
+  "steps": [
+    "First, I need to determine how many trips the rancher needs to make to transport all 400 head of cattle.",
+    "The truck holds 20 head of cattle for each trip.",
+    "To find the number of trips, I divide the total number of cattle by the capacity of the truck. That is \\( \\frac{400}{20} \\).",
+    "400 divided by 20 equals 20. So, the rancher needs to make 20 trips.",
+    "Next, I calculate the driving time for each round trip. The distance to higher ground is 60 miles, so a round trip is 120 miles.",
+    "The truck's speed is 60 miles per hour. To find how long it takes for a round trip, I divide the round trip distance by the speed: \\( \\frac{120}{60} \\).",
+    "120 divided by 60 equals 2. So, each round trip takes 2 hours.",
+    "Now, I multiply the time it takes for one round trip by the number of trips to get the total driving time: 20 trips multiplied by 2 hours per trip.",
+    "20 multiplied by 2 equals 40.",
+    "So, the total driving time is 40 hours."
+  ],
+  "solution": "40"
+}

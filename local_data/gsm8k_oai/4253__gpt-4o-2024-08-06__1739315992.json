@@ -1,0 +1,13 @@
+{
+  "query": "Joan is preparing sandwiches for a family potluck. She decides to make ham sandwiches and grilled cheese sandwiches. One ham sandwich requires 2 slices of cheese, and one grilled cheese sandwich requires 3 slices of cheese. She uses a total of 50 slices of cheese to make the sandwiches. If she makes 10 ham sandwiches, how many grilled cheese sandwiches does she make?",
+  "steps": [
+    "First, I need to determine how many slices of cheese are used by the ham sandwiches.",
+    "Each ham sandwich requires 2 slices of cheese, and Joan makes 10 ham sandwiches.",
+    "So, the total number of cheese slices used for ham sandwiches is 10 sandwiches * 2 slices per sandwich = 20 slices.",
+    "Now, I need to find out how many slices of cheese are used for the grilled cheese sandwiches.",
+    "Joan uses a total of 50 slices of cheese. 50 total slices - 20 slices used for ham sandwiches = 30 slices for grilled cheese sandwiches.",
+    "Each grilled cheese sandwich requires 3 slices of cheese.",
+    "To find the number of grilled cheese sandwiches, I divide the number of cheese slices used for the grilled cheese sandwiches by the number of slices per sandwich: 30 slices / 3 slices per sandwich = 10 grilled cheese sandwiches."
+  ],
+  "solution": "10"
+}

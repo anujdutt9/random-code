@@ -1,0 +1,17 @@
+{
+  "query": "\u0410 Senior Center is hosting a bingo night. $2,400 in prize money will be given away. The first winner of the night will receive a third of the money. The next ten winners will each receive a 10th of the remaining amount. How many dollars will each of the next ten winners receive?",
+  "steps": [
+    "The total prize money is $2,400.",
+    "The first winner receives a third of the prize money.",
+    "A third of $2,400 is calculated as $2,400 / 3.",
+    "$2,400 divided by 3 is $800.",
+    "So, the first winner receives $800.",
+    "To find the remaining amount, subtract $800 from $2,400.",
+    "$2,400 - $800 equals $1,600.",
+    "This $1,600 is the remaining prize money.",
+    "The next ten winners will each receive a 10th of this remaining amount.",
+    "To find a 10th of $1,600, divide $1,600 by 10.",
+    "$1,600 divided by 10 is $160."
+  ],
+  "solution": "160"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "Johan has a ten-bedroom house with 8 walls in each room. He paints 3/5 of the rooms in the house green and paints the rest of the rooms with purple color. How many walls in the house did he paint purple?",
+  "steps": [
+    "First, I need to calculate the total number of rooms in Johan's house. He has a ten-bedroom house, so there are 10 rooms.",
+    "Next, I need to find out how many of these rooms are painted green. Johan paints 3/5 of the rooms green.",
+    "To find out how many rooms are painted green, I multiply the total number of rooms by the fraction painted green: 10 rooms * (3/5) = 6 rooms.",
+    "Now, I need to determine how many rooms are painted purple. If 6 of the rooms are painted green, then the remaining rooms are painted purple.",
+    "To find the number of rooms painted purple, I subtract the number of green rooms from the total number of rooms: 10 - 6 = 4 rooms.",
+    "Each room has 8 walls, and I need to calculate how many walls are painted purple.",
+    "I multiply the number of purple rooms by the number of walls per room to get the total number of purple walls: 4 rooms * 8 walls = 32 walls."
+  ],
+  "solution": "32"
+}

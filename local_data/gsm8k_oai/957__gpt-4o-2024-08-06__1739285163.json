@@ -1,0 +1,17 @@
+{
+  "query": "A charcoal grill burns fifteen coals to ash every twenty minutes of grilling. The grill ran for long enough to burn three bags of coals. Each bag of coal contains 60 coals. How long did the grill run?",
+  "steps": [
+    "First, I need to determine how many coals are in three bags.",
+    "Each bag contains 60 coals, so three bags have 3 * 60 = 180 coals.",
+    "Next, I need to find out how many coals are burned per minute.",
+    "Fifteen coals are burned every twenty minutes.",
+    "This means that 15 coals take 20 minutes to burn.",
+    "Now, I need to find how many minutes it takes to burn one coal.",
+    "If it takes 20 minutes to burn 15 coals, then burning one coal takes 20 / 15 = 4/3 minutes.",
+    "Now, I will calculate the total minutes needed to burn 180 coals.",
+    "Since one coal takes 4/3 minutes, 180 coals will take 180 * (4/3) minutes.",
+    "180 * (4/3) = 240 minutes.",
+    "So, the grill ran for a total of 240 minutes."
+  ],
+  "solution": "240"
+}

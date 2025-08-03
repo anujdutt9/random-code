@@ -1,0 +1,27 @@
+{
+  "query": "Mary sees a flock of ducks crossing the street. There are 2 ducks with 5 ducklings each, 6 ducks with 3 ducklings each, and 9 ducks with 6 ducklings each. How many ducks and ducklings are there total?",
+  "steps": [
+    "First, I need to determine how many adult ducks there are.",
+    "There are 2 adult ducks in the first group.",
+    "There are 6 adult ducks in the second group.",
+    "There are 9 adult ducks in the third group.",
+    "I add the number of adult ducks together: 2 + 6 + 9.",
+    "2 + 6 equals 8.",
+    "8 + 9 equals 17.",
+    "So, there are 17 adult ducks in total.",
+    "Next, I need to calculate the number of ducklings.",
+    "The first group has 2 ducks, each with 5 ducklings, so 2 * 5.",
+    "2 * 5 equals 10 ducklings in the first group.",
+    "The second group has 6 ducks, each with 3 ducklings, so 6 * 3.",
+    "6 * 3 equals 18 ducklings in the second group.",
+    "The third group has 9 ducks, each with 6 ducklings, so 9 * 6.",
+    "9 * 6 equals 54 ducklings in the third group.",
+    "I add the number of ducklings together: 10 + 18 + 54.",
+    "10 + 18 equals 28.",
+    "28 + 54 equals 82.",
+    "So, there are 82 ducklings in total.",
+    "Finally, I add the number of adult ducks and ducklings together: 17 + 82.",
+    "17 + 82 equals 99."
+  ],
+  "solution": "99"
+}

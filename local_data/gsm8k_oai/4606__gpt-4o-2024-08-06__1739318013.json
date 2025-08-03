@@ -1,0 +1,14 @@
+{
+  "query": "Nate is reading a 400-page book. He finished reading 20% of the book. How many pages does he need to read to finish the book?",
+  "steps": [
+    "I need to find out how many pages Nate has already read by calculating 20% of the total pages.",
+    "The book is 400 pages long, so I calculate 20% of 400.",
+    "20% as a decimal is 0.20.",
+    "I multiply 400 by 0.20 to find the number of pages read: 400 * 0.20 = 80.",
+    "Nate has read 80 pages so far.",
+    "To find out how many pages are left, I subtract the number of pages read from the total pages: 400 - 80.",
+    "400 - 80 equals 320.",
+    "Nate needs to read 320 more pages to finish the book."
+  ],
+  "solution": "320"
+}

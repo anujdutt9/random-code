@@ -1,0 +1,20 @@
+{
+  "query": "Marla is thinking about getting a canvas tote bag to avoid using plastic bags at the grocery store. If making the canvas bag released 600 pounds of carbon dioxide, each plastic bag released 4 ounces of carbon dioxide, and Marla uses eight bags per shopping trips, how many shopping trips will she have to make before the canvas bag is the lower-carbon solution? (There are 16 ounces in a pound.)",
+  "steps": [
+    "First, I need to understand what the problem is asking. It's asking to find how many shopping trips Marla needs to make with a canvas bag for it to offset the carbon dioxide emissions of the plastic bags.",
+    "I know that making the canvas tote bag released 600 pounds of carbon dioxide.",
+    "I also know that each plastic bag used released 4 ounces of carbon dioxide.",
+    "There are 16 ounces in a pound, so I need to convert the carbon dioxide emissions of each plastic bag from ounces to pounds.",
+    "4 ounces per plastic bag equals 4/16 pounds of carbon dioxide per bag.",
+    "Simplifying, 4/16 pounds equals 0.25 pounds of carbon dioxide per plastic bag.",
+    "Marla uses eight plastic bags per shopping trip.",
+    "To find out how much carbon dioxide is emitted per trip using plastic bags, I multiply the carbon dioxide emission per bag by the number of bags used per trip.",
+    "That's 0.25 pounds per plastic bag times 8 bags per trip which equals 2 pounds of carbon dioxide per shopping trip.",
+    "I need to determine how many trips are needed for the canvas bag's 600-pound carbon dioxide emission to be equal to or less than the number of pounds emitted by plastic bags.",
+    "This means I need to find how many trips of 2 pounds each would equal 600 pounds.",
+    "To find this, I divide the total pound emission for the canvas bag by the pounds emitted per trip using plastic bags.",
+    "So, 600 pounds divided by 2 pounds per trip equals 300 trips.",
+    "Therefore, Marla will have to make 300 shopping trips for the canvas bag to be the lower-carbon solution."
+  ],
+  "solution": "300"
+}

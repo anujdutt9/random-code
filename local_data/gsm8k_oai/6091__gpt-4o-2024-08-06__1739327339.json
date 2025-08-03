@@ -1,0 +1,14 @@
+{
+  "query": "A store puts out a product sample every Saturday. The last Saturday, the sample product came in boxes of 20. If they had to open 12 boxes, and they had five samples left over at the end of the day, how many customers tried a sample if the samples were limited to one per person?",
+  "steps": [
+    "I know that each box contains 20 samples.",
+    "The store opened 12 boxes.",
+    "To find the total number of samples initially available, I multiply the number of boxes by the number of samples per box: 12 boxes * 20 samples/box.",
+    "12 * 20 = 240 samples.",
+    "The store had five samples left over at the end of the day.",
+    "To find out how many samples were given out, I subtract the leftover samples from the total number of samples available: 240 - 5.",
+    "240 - 5 = 235 samples given out.",
+    "Since each customer got one sample, the number of customers who tried a sample is the same as the number of samples given out."
+  ],
+  "solution": "235"
+}

@@ -1,0 +1,23 @@
+{
+  "query": "Team Soccer Stars plays in a soccer league. They played a total of 20 games, and won 14 games, lost 2, and drew the rest of the matches. They earn 3 points for a win, 1 point for a draw, and nothing for a loss. How many points did they have at the end of the season?",
+  "steps": [
+    "First, I need to find out how many games they drew.",
+    "They played a total of 20 games.",
+    "They won 14 games and lost 2 games.",
+    "Therefore, to find the number of games they drew, I subtract the games won and lost from the total games: 20 - 14 - 2.",
+    "20 - 14 = 6.",
+    "6 - 2 = 4.",
+    "So, they drew 4 games.",
+    "Next, I calculate the points they earned from winning games.",
+    "They earn 3 points for each win.",
+    "They won 14 games, so the points from wins are: 14 * 3.",
+    "14 * 3 = 42.",
+    "Now, I calculate the points they earned from drawing games.",
+    "They earn 1 point for each draw.",
+    "They drew 4 games, so the points from draws are: 4 * 1.",
+    "4 * 1 = 4.",
+    "Finally, I add the points from wins and draws to find the total points.",
+    "42 (points from wins) + 4 (points from draws) = 46."
+  ],
+  "solution": "46"
+}

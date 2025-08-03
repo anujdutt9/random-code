@@ -1,0 +1,17 @@
+{
+  "query": "Oliver owns a laundry shop, and he charges $2 per kilo of laundry.  Two days ago, his shop washed a total of 5 kilos of laundries.  Yesterday, it washed five kilos of laundries more than the previous day. Today, it washed twice the number of kilos than yesterday.   How much did he earn for three days?",
+  "steps": [
+    "First, I need to determine how many kilos of laundry were washed each day.",
+    "Two days ago, Oliver's shop washed 5 kilos of laundry.",
+    "Yesterday, the shop washed five kilos more than the day before, which is 5 + 5 = 10 kilos.",
+    "Today, the shop washed twice the number of kilos as yesterday, which is 10 * 2 = 20 kilos.",
+    "Next, I calculate the total number of kilos washed over the three days by adding up the amounts for each day: 5 + 10 + 20.",
+    "5 + 10 equals 15.",
+    "15 + 20 equals 35.",
+    "The shop washed a total of 35 kilos over the three days.",
+    "Oliver charges $2 per kilo of laundry.",
+    "To find the earnings, I multiply the total kilos by the price per kilo: 35 kilos * $2 per kilo.",
+    "35 * 2 equals 70."
+  ],
+  "solution": "70"
+}

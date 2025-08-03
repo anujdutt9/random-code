@@ -1,0 +1,13 @@
+{
+  "query": "Chris\u2019s internet bill is $45 per month for 100 GB and $0.25 for every 1 GB over. His bill for this month is $65. How many GB over was Chris charged for on this bill?",
+  "steps": [
+    "Chris's base internet bill is $45 per month for 100 GB.",
+    "His bill for this month is $65.",
+    "The amount over the base charge is $65 - $45.",
+    "Calculating that gives $65 - $45 = $20.",
+    "He was charged $0.25 for every 1 GB over the 100 GB limit.",
+    "To find out how many GB over he went, divide the $20 overcharge by $0.25 per GB.",
+    "$20 \u00f7 $0.25 per GB = 80 GB."
+  ],
+  "solution": "80"
+}

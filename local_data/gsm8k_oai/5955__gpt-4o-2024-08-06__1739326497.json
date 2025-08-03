@@ -1,0 +1,14 @@
+{
+  "query": "John takes a pill every 6 hours.  How many pills does he take a week?",
+  "steps": [
+    "John takes a pill every 6 hours.",
+    "There are 24 hours in a day.",
+    "To find out how many pills John takes in a day, I need to divide the total hours in a day by the hours between each pill intake.",
+    "24 hours in a day divided by 6 hours per pill equals 4 pills per day.",
+    "Now, I need to calculate how many pills John takes in a week.",
+    "There are 7 days in a week.",
+    "I multiply the number of pills John takes per day by the number of days in a week.",
+    "4 pills per day multiplied by 7 days equals 28 pills per week."
+  ],
+  "solution": "28"
+}

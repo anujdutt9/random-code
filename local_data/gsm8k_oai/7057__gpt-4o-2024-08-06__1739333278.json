@@ -1,0 +1,16 @@
+{
+  "query": "In a school garden, there are flowers in different colors. In total there are 96 flowers of four colors: green, red, blue, and yellow. There are 9 green flowers and three times more red flowers. Blue flowers make up to 50% of the total flower count. How many yellow flowers are there?",
+  "steps": [
+    "I know that the total number of flowers is 96.",
+    "The problem states there are 9 green flowers.",
+    "There are three times more red flowers than green flowers.",
+    "To find the number of red flowers, I will multiply the number of green flowers by 3. So, 9 green flowers * 3 = 27 red flowers.",
+    "Blue flowers make up 50% of the total flower count.",
+    "50% of 96 is calculated by multiplying 96 by 0.5. So, 96 * 0.5 = 48 blue flowers.",
+    "Now, I need to find the number of yellow flowers.",
+    "I will subtract the known quantities (green, red, and blue flowers) from the total to find the number of yellow flowers.",
+    "The already counted flowers are 9 green + 27 red + 48 blue = 84 flowers.",
+    "Therefore, the number of yellow flowers is the total flowers minus the counted ones: 96 - 84 = 12 yellow flowers."
+  ],
+  "solution": "12"
+}

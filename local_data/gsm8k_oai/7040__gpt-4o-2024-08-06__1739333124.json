@@ -1,0 +1,19 @@
+{
+  "query": "There are 20 dolphins in the aqua park. One-fourth of the dolphins are fully trained. Two-third of the remaining dolphins are currently in training and the rest will be trained next month. How many dolphins will be trained next month?",
+  "steps": [
+    "First, I need to determine how many dolphins are fully trained.",
+    "One-fourth of the 20 dolphins are fully trained.",
+    "Calculate one-fourth of 20: 20 divided by 4 equals 5.",
+    "There are 5 fully trained dolphins.",
+    "Next, I need to find out how many dolphins are not fully trained.",
+    "Subtract the number of fully trained dolphins from the total dolphins: 20 minus 5 equals 15.",
+    "There are 15 dolphins that are not fully trained.",
+    "Two-thirds of these 15 dolphins are currently in training.",
+    "Calculate two-thirds of 15: 15 divided by 3 equals 5, then 5 times 2 equals 10.",
+    "There are 10 dolphins currently in training.",
+    "Now, find out how many dolphins will be trained next month.",
+    "Subtract the number of dolphins currently in training from the dolphins that are not fully trained: 15 minus 10 equals 5.",
+    "Therefore, there will be 5 dolphins trained next month."
+  ],
+  "solution": "5"
+}

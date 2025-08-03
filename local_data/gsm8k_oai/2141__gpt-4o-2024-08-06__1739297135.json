@@ -1,0 +1,19 @@
+{
+  "query": "Jerry mows 8 acres of lawn each week. He mows \u00be of it with a riding mower that can cut 2 acres an hour. He mows the rest with a push mower that can cut 1 acre an hour. How long does Jerry mow each week?",
+  "steps": [
+    "Jerry mows a total of 8 acres each week.",
+    "He mows \u00be of the 8 acres with a riding mower.",
+    "To find how many acres he mows with the riding mower, calculate \u00be of 8 acres.",
+    "\u00be of 8 is calculated as 0.75 \u00d7 8 = 6 acres.",
+    "So, Jerry mows 6 acres with the riding mower.",
+    "The riding mower cuts 2 acres an hour.",
+    "To find the time it takes to mow 6 acres with the riding mower, divide the number of acres by the speed: 6 acres \u00f7 2 acres/hour = 3 hours.",
+    "The rest of the lawn is mowed with a push mower.",
+    "The total acres mowed with the push mower is the remainder after using the riding mower, which is 8 acres - 6 acres = 2 acres.",
+    "The push mower cuts 1 acre an hour.",
+    "To find the time it takes to mow 2 acres with the push mower, divide the number of acres by the speed: 2 acres \u00f7 1 acre/hour = 2 hours.",
+    "Total time to mow 8 acres is the sum of the time spent with each mower.",
+    "Total mowing time is 3 hours (riding mower) + 2 hours (push mower) = 5 hours."
+  ],
+  "solution": "5"
+}

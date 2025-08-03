@@ -1,0 +1,25 @@
+{
+  "query": "A printing press is printing brochures. The press prints 20 single-page spreads, and twice as many double-page spreads. For each 4 pages printed for the spreads, the press prints a block of 4 ads, each of which take up a quarter of a page. The brochures can be arranged in any order as long as they are made up of 5 pages each. How many brochures is the printing press creating?",
+  "steps": [
+    "First, I need to find out the number of double-page spreads printed.",
+    "The problem states that there are twice as many double-page spreads as single-page spreads.",
+    "There are 20 single-page spreads printed.",
+    "So, the number of double-page spreads is 2 times 20, which is 40.",
+    "Next, I need to determine the total number of pages printed.",
+    "A single-page spread equates to 1 page. Therefore, 20 single-page spreads equal 20 pages.",
+    "A double-page spread equates to 2 pages. Therefore, 40 double-page spreads equal 80 pages.",
+    "Adding them, the total number of pages for the spreads is 20 + 80 = 100 pages.",
+    "For every 4 pages printed for spreads, there is 1 block of ads.",
+    "Each block of 4 ads takes up one whole page because they are each a quarter of a page.",
+    "The total number of ad pages is thus the total pages for spreads divided by 4.",
+    "100 divided by 4 equals 25.",
+    "Therefore, there are 25 ad pages.",
+    "Next, find the total number of pages including both spreads and ads.",
+    "There are 100 pages from the spreads and 25 pages from the ads.",
+    "Thus, the total number of pages printed is 100 + 25 = 125 pages.",
+    "Each brochure is made up of 5 pages.",
+    "The number of brochures is the total number of pages divided by the number of pages per brochure.",
+    "125 divided by 5 equals 25."
+  ],
+  "solution": "25"
+}

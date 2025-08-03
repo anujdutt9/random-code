@@ -1,0 +1,16 @@
+{
+  "query": "Brad wanted to set up a lemonade stand to earn some money.  Every gallon of lemonade would yield 16 glasses.  He figured it would cost him $3.50 to make every gallon of lemonade.  He made 2 gallons to sell and decided he would sell each glass for $1.00  He drank 5 glasses while sitting in his stand.  He sold all but 6 glasses of lemonade.  How much net profit did Brad earn?",
+  "steps": [
+    "First, I need to calculate the total number of glasses of lemonade Brad made. Since each gallon yields 16 glasses, and he made 2 gallons, I multiply 16 glasses per gallon by 2 gallons.",
+    "16 glasses per gallon * 2 gallons = 32 glasses total.",
+    "Next, I need to determine how many glasses Brad sold. He drank 5 glasses and had 6 left over, so I subtract these 11 glasses from the total he had.",
+    "32 glasses total - 11 glasses (5 drank + 6 left) = 21 glasses sold.",
+    "Now, let's calculate Brad's total revenue from selling the lemonade. He sold 21 glasses at $1.00 each.",
+    "21 glasses sold * $1.00 per glass = $21.00 total revenue.",
+    "Next, calculate the cost Brad incurred to make the lemonade. It cost him $3.50 per gallon and he made 2 gallons.",
+    "$3.50 per gallon * 2 gallons = $7.00 total cost.",
+    "Finally, to find the net profit, subtract the total cost from the total revenue.",
+    "$21.00 total revenue - $7.00 total cost = $14.00 net profit."
+  ],
+  "solution": "14"
+}

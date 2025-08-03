@@ -1,0 +1,17 @@
+{
+  "query": "Marco has $24. Mary has $15. If Marco gives Mary half of what he has, Mary will have more than Marco. But Mary spends $5. How much more money does Mary have than Marco?",
+  "steps": [
+    "Marco has $24 initially.",
+    "Mary has $15 initially.",
+    "Marco gives Mary half of what he has.",
+    "Half of Marco's money is $24 / 2 = $12.",
+    "After giving $12 to Mary, Marco will have $24 - $12 = $12.",
+    "Mary receives $12 from Marco.",
+    "Mary's new total is $15 + $12 = $27.",
+    "Mary spends $5.",
+    "Mary's total after spending is $27 - $5 = $22.",
+    "Now, Marco has $12 and Mary has $22.",
+    "Find the difference between Mary's and Marco's money: $22 - $12 = $10."
+  ],
+  "solution": "10"
+}

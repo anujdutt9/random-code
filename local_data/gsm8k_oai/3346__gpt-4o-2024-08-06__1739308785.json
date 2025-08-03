@@ -1,0 +1,25 @@
+{
+  "query": "Susan had a sum of money. She spent 1/5 of it in September, 1/4 of it in October, and $120 in November. After spending these amounts of money, she still had $540 left. How much money did she have at first?",
+  "steps": [
+    "Let's denote the initial amount of money Susan had as \\( x \\).",
+    "In September, Susan spent \\(\\frac{1}{5}\\) of \\( x \\), which is \\(\\frac{x}{5}\\).",
+    "In October, she spent \\(\\frac{1}{4}\\) of \\( x \\), which is \\(\\frac{x}{4}\\).",
+    "In November, she spent $120.",
+    "After all these expenses, she had $540 left.",
+    "So, her expenses are \\(\\frac{x}{5}\\) + \\(\\frac{x}{4}\\) + 120.",
+    "The total amount of money she had originally is the sum of the amount she spent and what is left: \\(\\frac{x}{5} + \\frac{x}{4} + 120 + 540 = x\\).",
+    "Let's solve for \\( x \\).",
+    "First, I will combine the fractional expenses: \\(\\frac{x}{5} + \\frac{x}{4}\\).",
+    "To add these, I need a common denominator, which is 20.",
+    "Rewrite \\(\\frac{x}{5}\\) as \\(\\frac{4x}{20}\\) and \\(\\frac{x}{4}\\) as \\(\\frac{5x}{20}\\).",
+    "Adding these gives \\(\\frac{4x}{20} + \\frac{5x}{20} = \\frac{9x}{20}\\).",
+    "So the total expenses become \\(\\frac{9x}{20} + 120 + 540 = x\\).",
+    "Simplify the equation: \\( \\frac{9x}{20} + 660 = x \\).",
+    "Subtract \\(\\frac{9x}{20}\\) from both sides to isolate the x terms: \\( 660 = x - \\frac{9x}{20} \\).",
+    "This can be rewritten as: \\( 660 = \\frac{20x}{20} - \\frac{9x}{20} \\).",
+    "Simplify the right side: \\( 660 = \\frac{11x}{20} \\).",
+    "To solve for \\( x \\), multiply both sides by 20: \\( 13200 = 11x \\).",
+    "Now, divide both sides by 11: \\( x = 1200 \\)."
+  ],
+  "solution": "1200"
+}

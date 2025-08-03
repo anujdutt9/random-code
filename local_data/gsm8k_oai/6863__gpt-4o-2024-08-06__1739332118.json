@@ -1,0 +1,14 @@
+{
+  "query": "A lumberjack is chopping down trees so he can sell firewood. Each tree he chops produces 4 logs each, and each log is then chopped into 5 pieces of firewood. If the lumberjack has chopped 500 pieces of firewood, how many trees did he chop down?",
+  "steps": [
+    "First, I need to determine how many pieces of firewood each tree produces.",
+    "Each tree produces 4 logs.",
+    "Each log is chopped into 5 pieces of firewood.",
+    "Therefore, each tree produces 4 logs * 5 pieces of firewood per log = 20 pieces of firewood.",
+    "Now, I need to find out how many trees are needed to produce 500 pieces of firewood.",
+    "The number of trees required is the total number of firewood pieces divided by the number of pieces each tree produces.",
+    "This means I have to divide 500 pieces of firewood by 20 pieces per tree.",
+    "500 divided by 20 equals 25."
+  ],
+  "solution": "25"
+}

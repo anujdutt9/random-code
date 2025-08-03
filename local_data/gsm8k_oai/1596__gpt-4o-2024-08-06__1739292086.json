@@ -1,0 +1,16 @@
+{
+  "query": "Nina loves to travel. She tries to travel at least 400 kilometers in one month outside of her home country. Every second month she does twice that distance. If she were able to keep up with her resolution, how many kilometers would she travel during 2 years?",
+  "steps": [
+    "First, I need to calculate how many months are there in 2 years.",
+    "There are 12 months in a year, so in 2 years, there would be 2 * 12 = 24 months.",
+    "Nina travels at least 400 kilometers per month in the first month of every two-month cycle.",
+    "In the second month of every two-month cycle, she travels twice the distance, which is 2 * 400 = 800 kilometers.",
+    "I need to find out how many two-month cycles are there in 24 months.",
+    "24 months divided by 2 months per cycle gives us 12 two-month cycles.",
+    "In each two-month cycle, Nina travels 400 km in the first month and 800 km in the second month.",
+    "Total distance in one two-month cycle is 400 km + 800 km = 1200 km.",
+    "Now, I should calculate the total distance traveled in 12 cycles.",
+    "Total distance traveled in 12 cycles is 12 * 1200 km = 14400 km."
+  ],
+  "solution": "14400"
+}

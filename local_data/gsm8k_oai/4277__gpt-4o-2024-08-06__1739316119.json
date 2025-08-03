@@ -1,0 +1,16 @@
+{
+  "query": "Jacob has been tasked with a project to write up an urban plan proposal that will be used to construct a new city. He uses Pittsburg city as a reference which has 2000 stores, 500 hospitals, 200 schools, and 20 police stations. If the new city should have half the number of stores, twice as many hospitals, 50 fewer schools, and 5 more police stations, what is the total number of buildings required for this project?",
+  "steps": [
+    "I need to calculate the number of stores in the new city. Pittsburg has 2000 stores, and the new city should have half that number.",
+    "Half of 2000 stores is 2000 / 2 = 1000 stores.",
+    "Next, I calculate the number of hospitals needed. Pittsburg has 500 hospitals, and the new city should have twice that number.",
+    "Twice the number of hospitals is 500 * 2 = 1000 hospitals.",
+    "Then I need to find out how many schools are needed. Pittsburg has 200 schools, and the new city should have 50 fewer schools.",
+    "200 schools minus 50 is 200 - 50 = 150 schools.",
+    "Next, I calculate the number of police stations. Pittsburg has 20 police stations, and the new city should have 5 more.",
+    "20 plus 5 police stations is 20 + 5 = 25 police stations.",
+    "Now I sum the number of stores, hospitals, schools, and police stations to find the total.",
+    "1000 stores + 1000 hospitals + 150 schools + 25 police stations = 2175 buildings."
+  ],
+  "solution": "2175"
+}

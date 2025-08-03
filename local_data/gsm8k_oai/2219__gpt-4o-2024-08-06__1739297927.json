@@ -1,0 +1,14 @@
+{
+  "query": "Job is a farmer who rears cattle and grows crops. In total he has 150 hectares of land. 25 hectares are occupied by his house and farm machinery, and 15 hectares have been reserved for future expansion. 40 hectares are dedicated to rearing cattle. Assuming the rest of his land is used for crops, how many hectares of land does Job use for crop production?",
+  "steps": [
+    "Job has a total of 150 hectares of land.",
+    "25 hectares are occupied by his house and farm machinery.",
+    "15 hectares are reserved for future expansion.",
+    "40 hectares are dedicated to rearing cattle.",
+    "To find out how many hectares are used for crops, I need to subtract the land used for other purposes from the total land.",
+    "First, I subtract the 25 hectares used for house and machinery from the total land: 150 - 25 = 125 hectares.",
+    "Next, I subtract the 15 hectares reserved for future expansion: 125 - 15 = 110 hectares.",
+    "Then, I subtract the 40 hectares used for rearing cattle: 110 - 40 = 70 hectares."
+  ],
+  "solution": "70"
+}

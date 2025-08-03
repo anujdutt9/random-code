@@ -1,0 +1,14 @@
+{
+  "query": "John releases 3 videos on his channel a day.  Two of them are short 2 minute videos and 1 of them is 6 times as long.  Assuming a 7-day week, how many minutes of video does he release per week?",
+  "steps": [
+    "First, determine the length of the two short videos that John releases each day. Each video is 2 minutes long.",
+    "Since John releases 2 short videos each day, the total duration for these is 2 videos \u00d7 2 minutes/video = 4 minutes per day.",
+    "Next, find the length of the longer video. It is 6 times as long as one of the short videos.",
+    "Therefore, the longer video is 6 \u00d7 2 minutes = 12 minutes long.",
+    "Add the time of the two short videos and the long video to find the total video minutes released by John each day.",
+    "The total video time per day is 4 minutes (short videos) + 12 minutes (long video) = 16 minutes per day.",
+    "Now, to find out the weekly video time, calculate the total for a 7-day week.",
+    "Multiply the daily total by 7: 16 minutes/day \u00d7 7 days/week = 112 minutes/week."
+  ],
+  "solution": "112"
+}

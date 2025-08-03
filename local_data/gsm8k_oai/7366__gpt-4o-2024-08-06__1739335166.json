@@ -1,0 +1,15 @@
+{
+  "query": "A courier received 80 packages yesterday and twice as many today.  All of these should be delivered tomorrow. How many packages should be delivered tomorrow?",
+  "steps": [
+    "The courier received 80 packages yesterday.",
+    "Today, the courier received twice as many packages as yesterday.",
+    "Twice of 80 packages is 80 * 2.",
+    "Calculate 80 * 2 which equals 160.",
+    "Today, the courier received 160 packages.",
+    "Now, add the number of packages received yesterday to the number of packages received today.",
+    "Yesterday: 80 packages. Today: 160 packages.",
+    "80 + 160 equals 240.",
+    "In total, the courier has 240 packages to deliver tomorrow."
+  ],
+  "solution": "240"
+}

@@ -1,0 +1,11 @@
+{
+  "query": "Question: Red-clay bricks have a density of approximately 2000 kg/m^3. Air has a density of 1 kg/m^3. Which of the following has the lowest mass?\n\nChoices:\nA: 2 m^3 of bricks\nB: 4 m^3 of bricks\nC: 6000 m^3 of air\nD: 10,000 m^3 of air",
+  "steps": [
+    "First, calculate the mass of 2 m^3 of bricks using the density formula: mass = density \u00d7 volume. For bricks, this is 2000 kg/m^3 \u00d7 2 m^3 = 4000 kg.",
+    "Next, calculate the mass of 4 m^3 of bricks. Using the same formula, this is 2000 kg/m^3 \u00d7 4 m^3 = 8000 kg.",
+    "Now calculate the mass of 6000 m^3 of air. Using air's density, this is 1 kg/m^3 \u00d7 6000 m^3 = 6000 kg.",
+    "Finally, calculate the mass of 10,000 m^3 of air. This is 1 kg/m^3 \u00d7 10,000 m^3 = 10,000 kg.",
+    "By comparing the masses calculated: 4000 kg (A), 8000 kg (B), 6000 kg (C), and 10,000 kg (D), the lowest mass is 4000 kg from A."
+  ],
+  "solution": "A"
+}

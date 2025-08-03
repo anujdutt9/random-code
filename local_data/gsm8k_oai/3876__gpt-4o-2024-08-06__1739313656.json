@@ -1,0 +1,21 @@
+{
+  "query": "On Thursday the Meat Market sold 210kg of ground beef. On Friday they sold twice that amount. On Saturday they only sold 130kg. On Sunday they sold half of what they sold Saturday. If they originally planned to sell only 500kg, how much meat did they sell beyond their original plans?",
+  "steps": [
+    "First, determine the amount of ground beef sold on Friday.",
+    "On Thursday, the Meat Market sold 210kg. On Friday, they sold twice that amount.",
+    "Twice 210kg is 2 * 210kg = 420kg.",
+    "Next, determine the amount of ground beef sold on Saturday.",
+    "On Saturday, they sold 130kg.",
+    "Then, find out how much was sold on Sunday.",
+    "On Sunday, they sold half of what they sold on Saturday. Half of 130kg is 130kg / 2 = 65kg.",
+    "Now, calculate the total amount of ground beef sold from Thursday to Sunday.",
+    "Add the amounts sold on each day: 210kg (Thursday) + 420kg (Friday) + 130kg (Saturday) + 65kg (Sunday).",
+    "210kg + 420kg = 630kg.",
+    "630kg + 130kg = 760kg.",
+    "760kg + 65kg = 825kg.",
+    "The total amount sold is 825kg. They originally planned to sell 500kg.",
+    "Subtract the planned amount from the total amount sold: 825kg - 500kg.",
+    "825kg - 500kg = 325kg."
+  ],
+  "solution": "325"
+}

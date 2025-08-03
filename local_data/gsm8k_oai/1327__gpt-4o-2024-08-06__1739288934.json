@@ -1,0 +1,14 @@
+{
+  "query": "Allyn is a golfer. At the starting tee, he hit the golf ball and it traveled 180 yards straight toward the hole.  On his second turn, he hit the ball again straight toward the hole and it traveled half as far as it did on his first turn, but the ball landed 20 yards beyond the hole.  On his third swing, he hit the ball onto the green and it rolled into the hole.  What is the distance, in yards, from the starting tee to the hole?",
+  "steps": [
+    "Allyn hits the ball 180 yards on his first turn.",
+    "On his second turn, the ball travels half of 180 yards.",
+    "Half of 180 yards is 90 yards.",
+    "The ball lands 20 yards beyond the hole after the second turn.",
+    "To find the position of the hole from his second shot, calculate 90 yards - 20 yards.",
+    "90 yards - 20 yards = 70 yards.",
+    "The hole is 70 yards away from the place where his first shot landed.",
+    "Total distance from the starting tee to the hole = 180 yards (first shot) + 70 yards (distance from first shot to hole)."
+  ],
+  "solution": "250"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Joy fosters dogs.  The mom foster dog eats 1.5 cups of food, three times a day.  The puppies each eat 1/2 cup of food, twice a day.  There are 5 puppies.  How much food will Joy need for the next 6 days?",
+  "steps": [
+    "First, I need to calculate how much food the mom dog eats in one day.",
+    "The mom dog eats 1.5 cups of food, three times a day.",
+    "1.5 cups per feeding times 3 feedings a day equals 4.5 cups a day.",
+    "Now, I calculate how much food the puppies eat in one day.",
+    "Each puppy eats 0.5 cups per feeding, and there are 2 feedings a day.",
+    "0.5 cups times 2 feedings equals 1 cup per puppy per day.",
+    "There are 5 puppies, so they eat a total of 1 cup times 5, which equals 5 cups per day.",
+    "Now, I calculate the total food consumed by the mom and puppies in one day.",
+    "The mom eats 4.5 cups per day, and the puppies eat 5 cups per day, so together they eat 4.5 + 5 = 9.5 cups per day.",
+    "Finally, I need to calculate the amount of food needed for 6 days.",
+    "9.5 cups times 6 days equals 57 cups of food needed for 6 days."
+  ],
+  "solution": "57"
+}

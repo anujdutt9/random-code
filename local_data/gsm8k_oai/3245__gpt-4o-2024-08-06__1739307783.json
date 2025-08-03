@@ -1,0 +1,22 @@
+{
+  "query": "James has a small tree outside his window with 30 branches with 90 twigs per branch. 30% of the twigs sprout 4 leaves and the rest sprout 5 leaves. How many leaves are on the tree total?",
+  "steps": [
+    "First, I need to find the total number of twigs on the tree.",
+    "Each branch has 90 twigs, and there are 30 branches, so the total number of twigs is 30 branches * 90 twigs/branch.",
+    "Performing the multiplication, 30 * 90 equals 2700 twigs.",
+    "Next, I need to determine how many of these twigs sprout 4 leaves and how many sprout 5 leaves.",
+    "30% of the twigs sprout 4 leaves, so I calculate 30% of 2700 twigs.",
+    "30% of 2700 is equivalent to 0.30 * 2700.",
+    "Calculating, 0.30 * 2700 equals 810 twigs that sprout 4 leaves.",
+    "Now, to find how many twigs sprout 5 leaves, I subtract the number of twigs with 4 leaves from the total number of twigs.",
+    "2700 total twigs - 810 twigs with 4 leaves = 1890 twigs sprouting 5 leaves.",
+    "For the total number of leaves, I calculate the leaves from the twigs that sprout 4 leaves and add them to the leaves from the twigs that sprout 5 leaves.",
+    "The number of leaves from twigs with 4 leaves is 810 twigs * 4 leaves/twig.",
+    "Calculating, 810 * 4 equals 3240 leaves from twigs with 4 leaves.",
+    "The number of leaves from twigs with 5 leaves is 1890 twigs * 5 leaves/twig.",
+    "Calculating, 1890 * 5 equals 9450 leaves from twigs with 5 leaves.",
+    "Add the leaves from both types of twigs to find the total number of leaves on the tree.",
+    "3240 leaves + 9450 leaves equals 12690 leaves."
+  ],
+  "solution": "12690"
+}

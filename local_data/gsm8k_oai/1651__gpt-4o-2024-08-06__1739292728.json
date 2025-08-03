@@ -1,0 +1,17 @@
+{
+  "query": "John builds a box.  The box is 26 inches by 26 inches by 14 inches.  The walls are 1 inch thick on each side.  How much is the internal volume in cubic feet?",
+  "steps": [
+    "First, I note that the box is a rectangular prism with outer dimensions 26 inches by 26 inches by 14 inches.",
+    "I remember that each wall has a thickness of 1 inch. Therefore, to find the internal dimensions, I need to subtract twice the thickness of the walls from each external dimension (since there are walls on both sides).",
+    "I calculate the internal length. The external length is 26 inches, and the walls are 1 inch thick on both sides. So, the internal length is 26 - 2 * 1 = 24 inches.",
+    "I calculate the internal width in the same way. The external width is 26 inches, and the walls are 1 inch thick on both sides. So, the internal width is 26 - 2 * 1 = 24 inches.",
+    "I calculate the internal height. The external height is 14 inches, and the walls are 1 inch thick on both top and bottom. So, the internal height is 14 - 2 * 1 = 12 inches.",
+    "Now, I have the internal dimensions: length = 24 inches, width = 24 inches, height = 12 inches.",
+    "Next, I calculate the internal volume in cubic inches. Volume = length * width * height = 24 * 24 * 12.",
+    "I perform the multiplication: 24 * 24 = 576.",
+    "Then I multiply 576 by 12 to get the volume in cubic inches: 576 * 12 = 6912 cubic inches.",
+    "Finally, I convert from cubic inches to cubic feet. I know there are 12 * 12 * 12 = 1728 cubic inches in a cubic foot.",
+    "I divide 6912 cubic inches by 1728 cubic inches per cubic foot: 6912 / 1728 = 4."
+  ],
+  "solution": "4"
+}

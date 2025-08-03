@@ -1,0 +1,13 @@
+{
+  "query": "If a solver flips a coin 211 times and gets a head on 65 of the flips, how many more tails than heads did he get?",
+  "steps": [
+    "First, I know that a coin flip results in either a head (H) or a tail (T).",
+    "The problem states that the solver flipped the coin 211 times.",
+    "Out of these 211 flips, the solver got 65 heads.",
+    "To find the number of tails, I need to subtract the number of heads from the total number of flips.",
+    "Subtracting the heads from the total flips: 211 - 65 = 146 tails.",
+    "Now, I need to find how many more tails than heads were flipped.",
+    "To find this, subtract the number of heads from the number of tails: 146 - 65 = 81 more tails."
+  ],
+  "solution": "81"
+}

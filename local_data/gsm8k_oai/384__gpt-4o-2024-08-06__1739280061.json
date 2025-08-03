@@ -1,0 +1,12 @@
+{
+  "query": "Nico borrows 3 books from the library on Monday.  On Monday, he reads the first book with a total of 20 pages.  On Tuesday, he reads the second book with a total of 12 pages.  On Wednesday, he reads the third book.  If he has read a total of 51 pages from Monday to Wednesday, how many pages did he read on Wednesday?",
+  "steps": [
+    "Nico reads 20 pages on Monday from the first book.",
+    "Nico reads 12 pages on Tuesday from the second book.",
+    "To find out how many pages Nico read on Wednesday, I need the total pages read on Monday and Tuesday.",
+    "Adding the pages read on Monday and Tuesday: 20 + 12 = 32 pages.",
+    "Nico has read a total of 51 pages from Monday to Wednesday.",
+    "To find out the pages read on Wednesday, I subtract the pages read on Monday and Tuesday from the total: 51 - 32 = 19 pages."
+  ],
+  "solution": "19"
+}

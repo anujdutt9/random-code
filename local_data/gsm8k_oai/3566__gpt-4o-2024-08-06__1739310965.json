@@ -1,0 +1,15 @@
+{
+  "query": "A class has 60 students. The number of students who bring their lunch is thrice the number of those who eat in the school cafeteria. The rest of the students don't eat lunch. If 10 students eat in the school cafeteria, how many don't eat lunch?",
+  "steps": [
+    "I know the class has a total of 60 students.",
+    "10 students eat in the school cafeteria.",
+    "The problem states that the number of students who bring their lunch is thrice the number of those who eat in the cafeteria.",
+    "Since 10 students eat in the cafeteria, the number of students who bring their lunch is 3 times 10.",
+    "Calculating 3 times 10 gives 30 students who bring their lunch.",
+    "Now, I need to find out how many students don't eat lunch.",
+    "I add the number of students who bring their lunch and those who eat in the cafeteria: 10 (cafeteria) + 30 (bring lunch) = 40 students who do eat lunch in some form.",
+    "Since there are 60 students in total, I subtract the 40 students who do eat lunch from 60.",
+    "60 - 40 = 20 students who don't eat lunch."
+  ],
+  "solution": "20"
+}

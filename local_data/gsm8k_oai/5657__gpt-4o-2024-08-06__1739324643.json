@@ -1,0 +1,12 @@
+{
+  "query": "Gina's snake eats one mouse every 4 weeks. How many mice will it eat in a decade?",
+  "steps": [
+    "A decade consists of 10 years.",
+    "There are 52 weeks in a year.",
+    "Therefore, in a decade, there are 52 weeks/year * 10 years = 520 weeks.",
+    "Gina's snake eats one mouse every 4 weeks.",
+    "To find out how many mice the snake will eat in 520 weeks, we divide 520 weeks by 4 weeks/mouse.",
+    "520 weeks / 4 weeks/mouse = 130 mice."
+  ],
+  "solution": "130"
+}

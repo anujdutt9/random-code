@@ -1,0 +1,21 @@
+{
+  "query": "A snack machine accepts only quarters. Candy bars cost \u00a225, each piece of chocolate costs \u00a275, and a pack of juice costs \u00a250. How many quarters are needed to buy three candy bars, two pieces of chocolate, and one pack of juice?",
+  "steps": [
+    "First, I need to calculate the total cost for the three candy bars.",
+    "Each candy bar costs \u00a225.",
+    "Three candy bars will cost 3 * 25 = \u00a275.",
+    "Next, I calculate the total cost for the two pieces of chocolate.",
+    "Each piece of chocolate costs \u00a275.",
+    "Two pieces of chocolate will cost 2 * 75 = \u00a2150.",
+    "Then, I calculate the cost for one pack of juice.",
+    "One pack of juice costs \u00a250.",
+    "Now, I add up all these costs: \u00a275 + \u00a2150 + \u00a250.",
+    "The total cost is \u00a275 + \u00a2150 = \u00a2225.",
+    "Adding the cost of the juice: \u00a2225 + \u00a250 = \u00a2275.",
+    "Now, I determine how many quarters are needed to sum up to \u00a2275.",
+    "One quarter is worth \u00a225.",
+    "To find the number of quarters, I divide the total cost by the value of one quarter: \u00a2275 / \u00a225.",
+    "275 divided by 25 equals 11."
+  ],
+  "solution": "11"
+}

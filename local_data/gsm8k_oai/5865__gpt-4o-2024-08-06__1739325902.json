@@ -1,0 +1,14 @@
+{
+  "query": "Out of the 200 apples in an orchard, 40 percent were rotten. Also, 70 percent of the rotten apples smelled. How many rotten apples in the orchard did not smell?",
+  "steps": [
+    "First, I need to calculate the number of rotten apples.",
+    "40 percent of 200 apples were rotten, so I multiply 200 by 0.40.",
+    "200 * 0.40 = 80 rotten apples.",
+    "Next, I need to find out how many of those rotten apples smelled.",
+    "70 percent of the rotten apples smelled, so I multiply 80 by 0.70.",
+    "80 * 0.70 = 56 apples smelled.",
+    "To find the number of rotten apples that did not smell, I subtract the number of smelly rotten apples from the total number of rotten apples.",
+    "80 - 56 = 24 rotten apples did not smell."
+  ],
+  "solution": "24"
+}

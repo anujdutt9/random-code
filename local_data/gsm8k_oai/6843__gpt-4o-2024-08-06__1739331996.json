@@ -1,0 +1,15 @@
+{
+  "query": "Sophie went to the Dunkin Donuts store and bought 4 boxes of donuts. There were 12 donuts in each box. She gave 1 box to her mom and half a dozen to her sister. How many donuts were left for her?",
+  "steps": [
+    "First, I need to find out the total number of donuts Sophie bought.",
+    "There are 4 boxes of donuts, and each box contains 12 donuts.",
+    "To find the total number of donuts, I multiply the number of boxes by the number of donuts per box: 4 boxes * 12 donuts/box = 48 donuts.",
+    "Now, I need to determine how many donuts Sophie gave away.",
+    "Sophie gave 1 box of donuts to her mom.",
+    "Since each box contains 12 donuts, she gave 12 donuts to her mom.",
+    "Additionally, Sophie gave half a dozen (which is 6) donuts to her sister.",
+    "To find the total donuts given away, I add the donuts given to her mom and her sister: 12 (to mom) + 6 (to sister) = 18 donuts given away.",
+    "To determine how many donuts are left for Sophie, I subtract the total donuts given away from the total number of donuts she bought: 48 total donuts - 18 donuts given away = 30 donuts."
+  ],
+  "solution": "30"
+}

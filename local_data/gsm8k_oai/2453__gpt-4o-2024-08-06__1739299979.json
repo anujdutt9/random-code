@@ -1,0 +1,19 @@
+{
+  "query": "Toby has 63 photos on his camera roll. He deletes seven bad shots, takes fifteen pictures of his cat, and then does a photo shoot with his friends. After editing the photos with his friends, he decides to delete three of them. His camera roll has 84 photos in the end. How many photos did Toby take in the photo shoot?",
+  "steps": [
+    "Toby starts with 63 photos on his camera roll.",
+    "He deletes 7 bad shots from the 63 photos.",
+    "63 - 7 = 56 photos remain on his camera roll.",
+    "He takes 15 pictures of his cat.",
+    "56 + 15 = 71 photos are now on his camera roll.",
+    "He then does a photo shoot with his friends. Let's call the number of photos he took during the photo shoot \"x.\"",
+    "After the photo shoot, he has 71 + x photos on his camera roll.",
+    "He decides to delete 3 photos from the ones taken with his friends.",
+    "So the total number of photos becomes 71 + x - 3 = 71 + x - 3 = 68 + x.",
+    "We know that in the end, Toby has 84 photos on his camera roll.",
+    "So we set up the equation: 68 + x = 84.",
+    "To find the value of x, subtract 68 from both sides: x = 84 - 68.",
+    "84 - 68 = 16."
+  ],
+  "solution": "16"
+}

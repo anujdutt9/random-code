@@ -1,0 +1,18 @@
+{
+  "query": "John buys 5 toys that each cost $3.  He gets a 20% discount.  How much did he pay for everything?",
+  "steps": [
+    "First, I need to calculate the total cost of the toys before the discount.",
+    "Each toy costs $3 and John buys 5 toys.",
+    "Multiply the cost per toy by the number of toys: $3 * 5.",
+    "$3 * 5 = $15.",
+    "The total cost before the discount is $15.",
+    "Next, I need to calculate the amount of the discount.",
+    "The discount is 20%.",
+    "To find 20% of $15, calculate 0.20 * $15.",
+    "0.20 * $15 = $3.",
+    "The discount amount is $3.",
+    "Subtract the discount from the original total to find the final amount paid: $15 - $3.",
+    "$15 - $3 = $12."
+  ],
+  "solution": "12"
+}

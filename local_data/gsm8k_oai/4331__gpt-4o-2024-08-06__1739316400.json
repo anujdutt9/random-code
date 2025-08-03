@@ -1,0 +1,15 @@
+{
+  "query": "Josh has a device that automatically records the temperature in his lab every 5 seconds. To perform an analysis of environmental conditions, Josh lets the device record data for one hour. How many instances of data will the device record?",
+  "steps": [
+    "I know that there are 60 seconds in a minute.",
+    "I need to find out how many seconds are in an hour.",
+    "There are 60 minutes in an hour.",
+    "There are 60 seconds in a minute, so I multiply 60 seconds by 60 minutes to get the total number of seconds in an hour.",
+    "60 seconds/minute * 60 minutes/hour = 3600 seconds/hour.",
+    "The device records data every 5 seconds.",
+    "I need to calculate how many 5-second intervals are in 3600 seconds.",
+    "I can find this by dividing the total number of seconds in an hour (3600) by the interval of data recording (5 seconds).",
+    "3600 seconds / 5 seconds/record = 720 records."
+  ],
+  "solution": "720"
+}

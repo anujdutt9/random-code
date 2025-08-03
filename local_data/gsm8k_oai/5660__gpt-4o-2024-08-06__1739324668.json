@@ -1,0 +1,24 @@
+{
+  "query": "Mr. Willson worked on making his furniture for 3/4 an hour on Monday. On Tuesday, he worked for half an hour. Then he worked for 2/3 an hour on Wednesday and 5/6 of an hour on Thursday. If he worked for 75 minutes on Friday, how many hours in all did he work from Monday to Friday?",
+  "steps": [
+    "First, I need to convert all times worked into the same unit. Since most times are in hours, I'll convert the 75 minutes on Friday into hours.",
+    "There are 60 minutes in an hour, so 75 minutes is 75/60 hours.",
+    "Simplify 75/60. Both numerator and denominator are divisible by 15.",
+    "75 divided by 15 is 5, and 60 divided by 15 is 4, so 75 minutes is 5/4 hours.",
+    "Now I'll add up all the times worked in hours.",
+    "He worked 3/4 hours on Monday, so that's 3/4.",
+    "He worked 1/2 hour on Tuesday, which is equivalent to 2/4 when expressed with a common denominator.",
+    "On Wednesday, he worked 2/3 hours. Using a common denominator of 12, this is equivalent to 8/12.",
+    "On Thursday, he worked 5/6 hours. Converting to twelfths, this is 10/12.",
+    "On Friday, as calculated, he worked 5/4 hours, which is equivalent to 15/12.",
+    "Now, I need to add up the fractions: 3/4 + 1/2 + 2/3 + 5/6 + 5/4.",
+    "First, convert all fractions to twelfths: 3/4 is 9/12, 1/2 is 6/12.",
+    "We already have 8/12 and 10/12 for Wednesday and Thursday.",
+    "Finally, we have 15/12 for Friday.",
+    "Now add up all the fractional hours: 9/12 + 6/12 + 8/12 + 10/12 + 15/12.",
+    "Adding these gives: (9 + 6 + 8 + 10 + 15) / 12 = 48/12.",
+    "Simplify 48/12 to find the total in hours.",
+    "48 divided by 12 is 4."
+  ],
+  "solution": "4"
+}

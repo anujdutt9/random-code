@@ -1,0 +1,17 @@
+{
+  "query": "Melanie baked 10 batches of brownies, with 20 brownies in each batch. She set aside 3/4 of the brownies in each batch for a bake sale, put 3/5 of the remaining in a container, and gave out the rest. How many brownies are given out?",
+  "steps": [
+    "First, I need to calculate the total number of brownies Melanie baked. She baked 10 batches and each batch has 20 brownies.",
+    "The total number of brownies is 10 batches * 20 brownies per batch = 200 brownies.",
+    "Next, I need to figure out how many brownies were set aside for the bake sale from each batch. Melanie set aside 3/4 of the brownies in each batch.",
+    "3/4 of each batch's 20 brownies is (3/4) * 20 = 15 brownies per batch.",
+    "Since there were 10 batches, the total number of brownies set aside for the bake sale is 10 batches * 15 brownies per batch = 150 brownies.",
+    "Next, I need to determine how many brownies remained after setting aside those for the bake sale. Total brownies minus those set aside equals the remaining brownies.",
+    "The remaining brownies after setting aside 150 brownies for the bake sale is 200 total brownies - 150 brownies = 50 brownies.",
+    "Now, I need to calculate how many of the remaining brownies were put into a container. Melanie put 3/5 of these remaining brownies into a container.",
+    "3/5 of the 50 remaining brownies is (3/5) * 50 = 30 brownies.",
+    "Finally, brownies given out are those remaining after setting aside for the bake sale and putting some in a container. I subtract the number of brownies put in the container from those remaining after the bake sale.",
+    "The number of brownies given out is 50 remaining brownies - 30 brownies put in the container = 20 brownies."
+  ],
+  "solution": "20"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "The ratio of boys to girls at the dance was 3:4. There were 60 girls at the dance. The teachers were 20% of the number of boys. How many people were at the dance?",
+  "steps": [
+    "The ratio of boys to girls is given as 3:4.",
+    "There are 60 girls at the dance.",
+    "Since the ratio of boys to girls is 3:4, for every 4 girls, there are 3 boys.",
+    "Let's set up a proportion to find the number of boys. If 4 parts correspond to 60 girls, 1 part corresponds to 60 / 4 = 15.",
+    "Now, multiply this 1 part by 3 to find the number of boys: 3 * 15 = 45 boys.",
+    "Next, it is mentioned that the number of teachers is 20% of the number of boys.",
+    "Calculate 20% of 45. 20% of 45 is (20/100) * 45 = 9.",
+    "So, there are 9 teachers at the dance.",
+    "Now let's add up all the people to find the total number of people at the dance.",
+    "The total number of people is the number of boys, girls, and teachers: 45 boys + 60 girls + 9 teachers.",
+    "45 + 60 = 105.",
+    "105 + 9 = 114."
+  ],
+  "solution": "114"
+}

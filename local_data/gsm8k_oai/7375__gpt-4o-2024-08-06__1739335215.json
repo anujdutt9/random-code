@@ -1,0 +1,14 @@
+{
+  "query": "Carlos is doing his laundry. He needs to wash two loads, which takes 45 minutes per load. Then he can combine both loads and dry them, which takes 75 minutes. How long does his laundry take in total?",
+  "steps": [
+    "Carlos needs to wash the first load of laundry, which takes 45 minutes.",
+    "Next, he needs to wash the second load of laundry, which also takes 45 minutes.",
+    "Washing both loads separately takes 45 minutes + 45 minutes = 90 minutes.",
+    "After both loads are washed, he combines them and dries them together.",
+    "Drying the combined loads takes 75 minutes.",
+    "Now I need to add the time for washing and drying together.",
+    "The total time is 90 minutes (washing) + 75 minutes (drying).",
+    "90 minutes + 75 minutes equals 165 minutes."
+  ],
+  "solution": "165"
+}

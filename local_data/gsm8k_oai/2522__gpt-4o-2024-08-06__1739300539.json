@@ -1,0 +1,20 @@
+{
+  "query": "A large puzzle costs $15. A small puzzle and a large puzzle together cost $23. How much would you pay for 1 large and 3 small puzzles?",
+  "steps": [
+    "We are given that the cost of a large puzzle (L) is $15.",
+    "We are also given that the combined cost of a small puzzle (S) and a large puzzle (L) is $23.",
+    "We can set up an equation: L + S = $23.",
+    "Substitute the given cost of the large puzzle into the equation: $15 + S = $23.",
+    "Subtract $15 from both sides of the equation to find the cost of the small puzzle (S).",
+    "S = $23 - $15 = $8.",
+    "Now we know that a small puzzle costs $8 and a large puzzle costs $15.",
+    "We need to find the cost of 1 large puzzle and 3 small puzzles.",
+    "The cost for 1 large puzzle is $15.",
+    "The cost for 3 small puzzles is 3 * $8.",
+    "Calculate the total cost for the small puzzles: 3 * $8 = $24.",
+    "Now, add the cost of 1 large puzzle ($15) and the cost of 3 small puzzles ($24).",
+    "Total cost = $15 + $24.",
+    "Calculate the total: $15 + $24 = $39."
+  ],
+  "solution": "39"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "Don buys recyclable bottles in a small town. Shop A normally sells him 150 bottles, shop B sells him 180 bottles and Shop C sells him the rest. How many bottles does Don buy from Shop C if he is capable of buying only 550 bottles?",
+  "steps": [
+    "First, identify how many bottles Don buys from Shop A. Shop A sells 150 bottles to Don.",
+    "Next, identify how many bottles Don buys from Shop B. Shop B sells 180 bottles to Don.",
+    "Calculate the total number of bottles bought from Shop A and Shop B.",
+    "150 (from Shop A) + 180 (from Shop B) = 330 bottles.",
+    "Calculate how many bottles Don buys from all shops, which is 550.",
+    "Subtract the total from Shop A and Shop B from the overall total to find how many bottles come from Shop C.",
+    "550 (total bottles) - 330 (bottles from Shop A and B) = 220 bottles from Shop C."
+  ],
+  "solution": "220"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "A choir splits into 3 groups for their performances. The first group has 25 members, and the second group has 30 members. The third group has the remaining members of the choir. If the choir overall has 70 members, how many members are in the third group?",
+  "steps": [
+    "The total number of choir members is given as 70.",
+    "The first group has 25 members.",
+    "The second group has 30 members.",
+    "I need to find the number of members in the third group.",
+    "First, I will add the number of members in the first and second groups.",
+    "25 members (first group) + 30 members (second group) = 55 members.",
+    "Now I subtract the combined number of members in the first and second groups from the total number of choir members to find the members in the third group.",
+    "70 members (total choir) - 55 members (first and second groups combined) = 15 members."
+  ],
+  "solution": "15"
+}

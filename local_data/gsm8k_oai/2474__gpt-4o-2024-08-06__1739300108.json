@@ -1,0 +1,22 @@
+{
+  "query": "Nissa is calculating a jail sentence for a man who was convicted of burglary. The base sentence is 1 year of jail for every $5,000 of goods stolen. The burglar is going to have his sentence length increased by 25% because this is his third offense, plus 2 additional years for resisting arrest. How many years total is the burglar's sentence if he stole $40,000 worth of goods?",
+  "steps": [
+    "First, I need to determine the base sentence for the burglary.",
+    "The base sentence is 1 year of jail for every $5,000 of goods stolen.",
+    "The burglar stole $40,000 worth of goods.",
+    "To find out how many years are in the base sentence, I divide $40,000 by $5,000.",
+    "$40,000 \u00f7 $5,000 = 8 years.",
+    "The base sentence is 8 years.",
+    "The burglar's sentence length is to be increased by 25% for his third offense.",
+    "To find 25% of the base sentence, I calculate 0.25 \u00d7 8 years.",
+    "0.25 \u00d7 8 = 2 years.",
+    "The increase for the third offense is 2 years.",
+    "Next, I add the 2-year increase to the base sentence.",
+    "8 years + 2 years = 10 years.",
+    "The sentence so far is 10 years.",
+    "Finally, there are 2 additional years for resisting arrest.",
+    "I add these 2 years to the current sentence.",
+    "10 years + 2 years = 12 years."
+  ],
+  "solution": "12"
+}

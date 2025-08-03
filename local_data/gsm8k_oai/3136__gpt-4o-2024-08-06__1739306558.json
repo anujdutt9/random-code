@@ -1,0 +1,22 @@
+{
+  "query": "Mark wants to have a water balloon fight with his friends. He goes to the store to buy balloons and sees that they sell small bags for $4, medium bags for $6 and extra large bags for $12. He has $24 and wants to get the most balloons as possible. If the $4 bags contain 50 balloons, the $6 bags contain 75 balloons and the $12 bags contain 200 balloons, what is the greatest number of balloons he can buy?",
+  "steps": [
+    "First, I need to consider the cost of each bag of balloons and the number of balloons they contain.",
+    "The $4 bag contains 50 balloons, which means the cost per balloon is $4/50 = $0.08 per balloon.",
+    "The $6 bag contains 75 balloons, which means the cost per balloon is $6/75 = $0.08 per balloon.",
+    "The $12 bag contains 200 balloons, which means the cost per balloon is $12/200 = $0.06 per balloon.",
+    "The $12 bag gives the most balloons per dollar spent compared to the $4 and $6 bags.",
+    "Mark has $24 to spend.",
+    "I should first check how many $12 bags he can buy with $24.",
+    "$24 divided by $12 is 2, so he can buy 2 extra large bags.",
+    "Buying 2 extra large bags gives him 200 balloons per bag.",
+    "Therefore, 2 bags give 2 x 200 = 400 balloons.",
+    "Now consider if he buys smaller bags after buying one extra large bag. Buying one $12 bag leaves him with $12.",
+    "With $12, he can buy either three $4 bags or two $6 bags.",
+    "Three $4 bags give 3 x 50 = 150 balloons.",
+    "Two $6 bags give 2 x 75 = 150 balloons as well.",
+    "If he buys one $12 bag and three $4 bags (or two $6 bags), he gets 200 + 150 = 350 balloons.",
+    "Buying two $12 bags for 400 balloons is more than 350 balloons."
+  ],
+  "solution": "400"
+}

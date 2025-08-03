@@ -1,0 +1,13 @@
+{
+  "query": "Every year 20 ducks from a flock are killed but another 30 are born.  The original flock size is 100 ducks.  After 5 years they join with another flock of 150 ducks.  How many ducks are in the combined flock?",
+  "steps": [
+    "Start with the original flock size: 100 ducks.",
+    "Each year, 20 ducks are killed. So, after 1 year, the flock size is 100 - 20 = 80 ducks.",
+    "However, 30 new ducks are born each year. Hence, after 1 year, the flock size becomes 80 + 30 = 110 ducks.",
+    "Calculate the net increase per year: 30 born - 20 killed = 10 ducks net increase per year.",
+    "Since there is a net increase of 10 ducks per year, after 5 years the increase is 5 * 10 = 50 ducks.",
+    "Add the total increase over 5 years to the original flock: 100 + 50 = 150 ducks.",
+    "After 5 years, they join another flock of 150 ducks. Add the two flocks together: 150 + 150 = 300 ducks."
+  ],
+  "solution": "300"
+}

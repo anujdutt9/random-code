@@ -1,0 +1,15 @@
+{
+  "query": "Rita is reading a five-chapter book with 95 pages. Each chapter has three pages more than the previous one. How many pages does the first chapter have?",
+  "steps": [
+    "First, let me simplify what the question is asking. I need to distribute 95 pages across five chapters, with each chapter having three more pages than the previous one.",
+    "Let's assign x pages to the first chapter. Then, the pages for each subsequent chapter can be expressed in terms of x.",
+    "The number of pages in the first chapter is x. \nThe number of pages in the second chapter is x + 3. \nThe number of pages in the third chapter is x + 6. \nThe number of pages in the fourth chapter is x + 9. \nThe number of pages in the fifth chapter is x + 12.",
+    "Now, I will sum up the pages for all five chapters according to our expressions: \nx + (x + 3) + (x + 6) + (x + 9) + (x + 12).",
+    "This simplifies to: 5x + 3 + 6 + 9 + 12.",
+    "Let's add up the constants: 3 + 6 + 9 + 12 = 30.",
+    "So the equation becomes: 5x + 30 = 95.",
+    "Subtract 30 from both sides to solve for x: 5x = 65.",
+    "Now, divide both sides by 5: x = 13."
+  ],
+  "solution": "13"
+}

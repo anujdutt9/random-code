@@ -1,0 +1,19 @@
+{
+  "query": "Brendan makes $6/hour as a waiter. He's scheduled for 2 8-hour shifts and 1 12-hour shift this week. He also makes an average of $12 in tips each hour. Brendan is supposed to pay 20% of his income in taxes, but he only reports 1/3rd of his tips to the IRS. How much money does Brendan pay in taxes each week?",
+  "steps": [
+    "First, I need to calculate Brendan's total hours worked this week. He has 2 8-hour shifts and 1 12-hour shift.",
+    "For the 8-hour shifts: 2 shifts \u00d7 8 hours/shift = 16 hours.",
+    "Adding the 12-hour shift: 16 hours + 12 hours = 28 hours total.",
+    "Next, I calculate Brendan's income from his hourly wage. He makes $6 per hour.",
+    "Hourly wage income: 28 hours \u00d7 $6/hour = $168.",
+    "Now, I calculate Brendan's total tips. He makes an average of $12 in tips each hour.",
+    "Total tips: 28 hours \u00d7 $12/hour = $336.",
+    "Brendan reports only 1/3rd of his tips to the IRS.",
+    "Reported tips: $336 \u00d7 (1/3) = $112.",
+    "So, his total reported income to the IRS is his hourly wage income plus the reported tips.",
+    "Total reported income = $168 (wage) + $112 (reported tips) = $280.",
+    "Brendan is supposed to pay 20% of his total reported income in taxes.",
+    "Tax payment: $280 \u00d7 20% = $56."
+  ],
+  "solution": "56"
+}

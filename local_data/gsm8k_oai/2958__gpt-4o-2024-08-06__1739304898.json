@@ -1,0 +1,25 @@
+{
+  "query": "The town of Belize has 400 homes. One fourth of the town's homes are white. One fifth of the non-white homes have a fireplace. How many of the non-white homes do not have a fireplace?",
+  "steps": [
+    "First, I need to determine how many of the homes in Belize are white.",
+    "There are 400 homes in total, and one fourth of them are white.",
+    "To find the number of white homes, I calculate \\( \\frac{1}{4} \\times 400 \\).",
+    "\\( \\frac{1}{4} \\times 400 = 100 \\).",
+    "So, there are 100 white homes.",
+    "Next, I need to calculate the number of non-white homes.",
+    "The total number of homes is 400, and there are 100 white homes.",
+    "To find the non-white homes, I subtract the number of white homes from the total number of homes: 400 - 100.",
+    "400 - 100 = 300.",
+    "There are 300 non-white homes.",
+    "I need to find out how many of these non-white homes have a fireplace.",
+    "One fifth of the non-white homes have a fireplace.",
+    "To determine the number of non-white homes with fireplaces, calculate \\( \\frac{1}{5} \\times 300 \\).",
+    "\\( \\frac{1}{5} \\times 300 = 60 \\).",
+    "Thus, 60 non-white homes have a fireplace.",
+    "Finally, I find the number of non-white homes that do not have a fireplace.",
+    "There are 300 non-white homes in total, and 60 have a fireplace.",
+    "To find the number that do not have a fireplace, subtract the homes with fireplaces from the total number of non-white homes: 300 - 60.",
+    "300 - 60 = 240."
+  ],
+  "solution": "240"
+}

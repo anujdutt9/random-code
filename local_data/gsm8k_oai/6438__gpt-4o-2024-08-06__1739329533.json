@@ -1,0 +1,15 @@
+{
+  "query": "A woodworker is crafting enough furniture legs for their projects. They have made a total of 40 furniture legs so far, and this is the exact amount they needed for everything they\u2019re building. If the woodworker is using these legs for their tables and chairs and they have built 6 chairs, how many tables have they made?",
+  "steps": [
+    "First, I need to remember how many legs each piece of furniture gets. Chairs typically have 4 legs each.",
+    "The problem states that 6 chairs have already been built.",
+    "To find out how many legs have been used for the chairs, I\u2019ll multiply the number of chairs (6) by the number of legs per chair (4).",
+    "6 chairs * 4 legs per chair = 24 legs used for chairs.",
+    "The total number of legs is 40, so I need to subtract the legs used for the chairs from the total number of legs to find how many are left for the tables.",
+    "40 total legs - 24 legs used for chairs = 16 legs left for tables.",
+    "Tables typically have 4 legs each as well.",
+    "To find how many tables have been made, I will divide the number of legs left for tables by the number of legs per table.",
+    "16 legs left for tables / 4 legs per table = 4 tables made."
+  ],
+  "solution": "4"
+}

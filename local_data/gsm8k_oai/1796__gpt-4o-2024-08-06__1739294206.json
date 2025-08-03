@@ -1,0 +1,17 @@
+{
+  "query": "Dennis collected 10 rocks. He put all of them in his aquarium but his fish ate half of them. He was able to make the fish spit two out. How many of Dennis's rocks are left?",
+  "steps": [
+    "Dennis collected 10 rocks.",
+    "He put all 10 rocks into his aquarium.",
+    "The fish ate half of the rocks.",
+    "Half of 10 is 5. So, the fish ate 5 rocks.",
+    "Dennis was able to make the fish spit 2 rocks out.",
+    "Since the fish ate 5 rocks and spat out 2, the number of rocks still eaten by the fish is 5 - 2 = 3.",
+    "Rocks outside the fish would then be rocks not eaten by the fish plus the ones spit out.",
+    "There are 5 rocks not eaten initially since only half were eaten, plus 2 rocks spat out. However, the not eaten tally already reduces by 3 rocks being in the fish.",
+    "Upon revisiting calculations constructively from available insights, the presence of the rocks is inside or spat out from fish and within counts.",
+    "What directly remains or is countable is 2 rocks spat out apart from 5 eaten but 3 in fish after noting spat out.",
+    "Summing confirms logically a total collection from rocks absent expressly notes 7 acceptably, refining again for overview with return assistance confirms consistency."
+  ],
+  "solution": "7"
+}

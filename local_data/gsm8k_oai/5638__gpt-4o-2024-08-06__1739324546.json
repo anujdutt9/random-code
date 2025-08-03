@@ -1,0 +1,17 @@
+{
+  "query": "Janna sleeps 7 hours each day during weekdays and 8 hours each day during weekends. How many hours does she sleep in a week?",
+  "steps": [
+    "First, I need to determine how many weekdays and weekend days there are in a week.",
+    "There are 5 weekdays in a week: Monday, Tuesday, Wednesday, Thursday, and Friday.",
+    "There are 2 weekend days in a week: Saturday and Sunday.",
+    "Now, I'll calculate the total number of hours Janna sleeps during the weekdays.",
+    "Janna sleeps 7 hours each weekday.",
+    "So, for weekdays: 7 hours/day * 5 days = 35 hours.",
+    "Then, I'll calculate the total number of hours she sleeps during the weekend.",
+    "Janna sleeps 8 hours each weekend day.",
+    "So, for weekends: 8 hours/day * 2 days = 16 hours.",
+    "To find the total number of hours she sleeps in a week, I add the hours from weekdays and weekends together.",
+    "Total sleep in a week = 35 hours (weekdays) + 16 hours (weekends) = 51 hours."
+  ],
+  "solution": "51"
+}

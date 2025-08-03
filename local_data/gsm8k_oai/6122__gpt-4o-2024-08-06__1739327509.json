@@ -1,0 +1,16 @@
+{
+  "query": "Ella has 4 bags with 20 apples in each bag and six bags with 25 apples in each bag. If Ella sells 200 apples, how many apples does Ella has left?",
+  "steps": [
+    "I need to calculate the total number of apples Ella has before selling any.",
+    "First, calculate the total number of apples in the 4 bags with 20 apples each.",
+    "4 bags * 20 apples per bag = 80 apples.",
+    "Next, calculate the total number of apples in the 6 bags with 25 apples each.",
+    "6 bags * 25 apples per bag = 150 apples.",
+    "Now, add the two totals to find the total number of apples Ella has.",
+    "80 apples + 150 apples = 230 apples.",
+    "Ella sells 200 apples.",
+    "Subtract the 200 apples sold from the total number of apples.",
+    "230 apples - 200 apples = 30 apples."
+  ],
+  "solution": "30"
+}

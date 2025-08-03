@@ -1,0 +1,16 @@
+{
+  "query": "Tim gets 6 hours of sleep 2 days in a row.  To make up for it he sleeps 10 hours the next 2 days.  How much sleep did he get?",
+  "steps": [
+    "Tim sleeps 6 hours the first day.",
+    "Tim sleeps 6 hours the second day.",
+    "I need to find out how much he slept in the first two days together.",
+    "6 hours (first day) + 6 hours (second day) = 12 hours in the first two days.",
+    "Now, Tim sleeps 10 hours on the third day.",
+    "Tim sleeps 10 hours on the fourth day.",
+    "I need to find out how much he slept in the last two days together.",
+    "10 hours (third day) + 10 hours (fourth day) = 20 hours in the last two days.",
+    "Next, I need to find his total sleep over the four days.",
+    "12 hours (first two days) + 20 hours (last two days) = 32 hours total."
+  ],
+  "solution": "32"
+}

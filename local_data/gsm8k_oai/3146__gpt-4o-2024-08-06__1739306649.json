@@ -1,0 +1,13 @@
+{
+  "query": "George and Harry want to fill a pool with buckets. George can carry two buckets each round, and Harry can carry three buckets each round. If it takes 110 buckets to fill the pool, how many rounds will it take to fill the pool?",
+  "steps": [
+    "First, I will find out how many buckets they can carry together in one round.",
+    "George carries 2 buckets in one round, and Harry carries 3 buckets.",
+    "In one round, they together carry 2 + 3 = 5 buckets.",
+    "Now, I need to find how many such rounds are needed to fill the pool with 110 buckets.",
+    "I will divide the total number of buckets required by the number of buckets carried in one round.",
+    "110 buckets \u00f7 5 buckets per round = 22 rounds.",
+    "So, it will take 22 rounds to fill the pool."
+  ],
+  "solution": "22"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Frank has an apple tree in his backyard. 5 apples are hanging on the tree and 8 have fallen to the ground. If Frank's dog eats 3 of the apples off of the ground, how many apples are left?",
+  "steps": [
+    "I need to find the total number of apples initially.",
+    "Start by adding the apples hanging on the tree to those on the ground. That's 5 apples hanging on the tree.",
+    "There are 8 apples on the ground.",
+    "Total initial apples are 5 (hanging) + 8 (fallen) = 13 apples.",
+    "Frank's dog eats 3 apples from the ground.",
+    "Subtract the 3 eaten apples from the apples on the ground.",
+    "8 (fallen apples) - 3 (eaten apples) = 5 apples left on the ground.",
+    "There are still 5 apples hanging on the tree.",
+    "Add the remaining apples on the tree and on the ground together.",
+    "5 (hanging) + 5 (on the ground) = 10 apples left."
+  ],
+  "solution": "10"
+}

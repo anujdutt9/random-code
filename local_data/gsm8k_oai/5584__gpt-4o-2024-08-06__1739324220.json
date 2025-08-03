@@ -1,0 +1,16 @@
+{
+  "query": "Marty and Biff were both running for student council president. A poll was taken to see how the candidate\u2019s campaigns were going. 45% of the people polled said they were voting for Biff and 8% were undecided. The rest said they are voting for Marty. If 200 people were polled, how many said they are voting for Marty?",
+  "steps": [
+    "First, I note that 45% of the people polled were voting for Biff.",
+    "Then, I see that 8% of the people polled were undecided.",
+    "Together, the portion of people either voting for Biff or undecided is 45% + 8% = 53%.",
+    "Since these two categories account for 53% of the votes, the remainder must be voting for Marty.",
+    "I calculate the percentage of people voting for Marty as 100% - 53% = 47%.",
+    "Now, I need to find out how many people this percentage corresponds to in concrete numbers.",
+    "47% of the 200 people polled are voting for Marty. Thus, I calculate 47% of 200.",
+    "To find this, I multiply 200 by 47%, or 0.47 (in decimal form).",
+    "200 \u00d7 0.47 = 94.",
+    "Thus, 94 people said they are voting for Marty."
+  ],
+  "solution": "94"
+}

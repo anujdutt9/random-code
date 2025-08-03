@@ -1,0 +1,16 @@
+{
+  "query": "Joan is at the grocery store. She has a total of $60 to spend. She is going to purchase 2 containers of hummus, which are $5 each. She is going to purchase chicken for $20, bacon for $10, and vegetables for $10. She wants to purchase apples which are $2 each. With her remaining money, how many apples can she purchase?",
+  "steps": [
+    "Joan starts with a total of $60.",
+    "Joan plans to purchase 2 containers of hummus at $5 each.",
+    "Calculating the cost for 2 containers of hummus: 2 * $5 = $10.",
+    "Joan also plans to purchase chicken for $20.",
+    "She plans to buy bacon for $10.",
+    "She also wants to buy vegetables for $10.",
+    "Calculating the total cost of hummus, chicken, bacon, and vegetables: $10 (hummus) + $20 (chicken) + $10 (bacon) + $10 (vegetables) = $50.",
+    "Subtracting the total cost of these items from her initial amount: $60 - $50 = $10 remaining.",
+    "Apples cost $2 each.",
+    "Calculating how many apples she can purchase with the remaining $10: $10 / $2 per apple = 5 apples."
+  ],
+  "solution": "5"
+}

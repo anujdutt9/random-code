@@ -1,0 +1,18 @@
+{
+  "query": "Jenna is buying concert tickets for her group of five friends. She's able to get two of the tickets from the concert website for $50 each before they sell out. A scalper offers to sell her two more tickets for 240% of the normal price, but Jenna convinces him to give her $10 off that total payment. Finally, one of her friends gets a discounted ticket through her job for 60% of the normal price. How much do Jenna's friends pay for their tickets in total?",
+  "steps": [
+    "First, determine the normal price of a ticket. The two tickets Jenna buys from the website are $50 each. Therefore, the normal price of a ticket is $50.",
+    "Next, calculate the price of the two tickets purchased from the scalper. The scalper charges 240% of the normal price. First, calculate 240% of $50.",
+    "To find 240% of $50, multiply 50 by 2.4. \n50 * 2.4 = 120.",
+    "This means each ticket from the scalper costs $120. Since Jenna buys two tickets, she would pay 120 * 2 = $240 without any discounts.",
+    "Jenna convinces the scalper to give her $10 off the total price of $240. So, subtract $10 from $240.\n240 - 10 = 230.",
+    "Now, calculate the price of the ticket obtained by her friend at a discount. The friend gets the ticket for 60% of the normal price.",
+    "To find 60% of $50, multiply 50 by 0.6.\n50 * 0.6 = 30.",
+    "The discounted ticket costs $30.",
+    "Add up the costs: the two normal price tickets at $50 each, the two scalper tickets for a total of $230, and the discounted ticket for $30.",
+    "For the normal price tickets: 2 * 50 = 100.",
+    "Add the cost of the scalper tickets: 100 + 230 = 330.",
+    "Finally, add the price of the discounted ticket: 330 + 30 = 360."
+  ],
+  "solution": "360"
+}

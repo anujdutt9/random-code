@@ -1,0 +1,16 @@
+{
+  "query": "A chihuahua, pitbull, and great dane weigh a combined weight of 439 pounds. The pitbull weighs 3 times as much as the chihuahua.  The great dane weighs 10 more pounds than triple the pitbull.  How much does the great dane weigh?",
+  "steps": [
+    "Let's denote the weight of the chihuahua as \\( C \\).",
+    "According to the problem, the pitbull weighs 3 times as much as the chihuahua. Therefore, the pitbull's weight can be represented as \\( 3C \\).",
+    "The great dane weighs 10 more pounds than triple the weight of the pitbull. So, the weight of the great dane is \\( 3 \\times 3C + 10 = 9C + 10 \\).",
+    "The combined weight of the chihuahua, pitbull, and great dane is 439 pounds. We can express this as an equation: \\( C + 3C + 9C + 10 = 439 \\).",
+    "Simplifying the equation, we have \\( 13C + 10 = 439 \\).",
+    "To find \\( C \\), we need to solve for it: \\( 13C + 10 = 439 \\).",
+    "Subtract 10 from both sides to isolate the terms with \\( C \\): \\( 13C = 429 \\).",
+    "Divide both sides by 13 to find the value of \\( C \\): \\( C = \\frac{429}{13} = 33 \\).",
+    "Now that we know the weight of the chihuahua is 33 pounds, we can determine the weight of the pitbull: \\( 3C = 3 \\times 33 = 99 \\) pounds.",
+    "Finally, we can find the weight of the great dane: \\( 9C + 10 = 9 \\times 33 + 10 = 297 + 10 = 307 \\) pounds."
+  ],
+  "solution": "307"
+}

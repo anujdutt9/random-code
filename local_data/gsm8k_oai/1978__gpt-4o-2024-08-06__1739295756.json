@@ -1,0 +1,16 @@
+{
+  "query": "Every Monday to Friday morning, Alice walks 10 miles through a large grass field to get to school. To avoid the hot afternoon sun on her way home, she walks 12 miles through a forest. When she gets home on Friday, how many miles will she have walked that week?",
+  "steps": [
+    "First, I need to calculate how many miles Alice walks to school each morning.",
+    "Alice walks 10 miles each morning from Monday to Friday.",
+    "There are 5 weekdays, so to find the total morning miles, I need to multiply 10 miles by 5 days.",
+    "10 miles/day * 5 days = 50 miles walked to school in the mornings.",
+    "Next, I calculate how many miles Alice walks home through the forest each afternoon.",
+    "Alice walks 12 miles each afternoon from Monday to Friday.",
+    "To find the total afternoon miles, I multiply 12 miles by 5 days.",
+    "12 miles/day * 5 days = 60 miles walked through the forest in the afternoons.",
+    "Now I add the total miles walked in the mornings to the total miles walked in the afternoons.",
+    "50 morning miles + 60 afternoon miles = 110 total miles walked in a week."
+  ],
+  "solution": "110"
+}

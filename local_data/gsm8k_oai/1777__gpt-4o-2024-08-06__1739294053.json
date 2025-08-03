@@ -1,0 +1,15 @@
+{
+  "query": "A school is getting ready to open for the year and the sports class is organizing the equipment they have been donated. In total, they have 300 donations to organize. 60 of these were basketball hoops, half of which also had basketballs included as part of the donation. 120 pool floats were donated, but a quarter of these were damaged and were discarded before the sports class arrived. There were 50 footballs, 40 tennis balls, and the remaining donations were basketballs. In total, how many basketballs have been donated?",
+  "steps": [
+    "The total number of donations is 300.",
+    "There are 60 basketball hoops donated. Half of these have basketballs included, which is 60 / 2 = 30.",
+    "So, 30 basketball hoops come with basketballs. This means there are already 30 basketballs from those hoops.",
+    "There are also 120 pool floats, but a quarter of these are damaged and discarded. A quarter of 120 is 120 / 4 = 30 floats.",
+    "So, 120 - 30 = 90 intact pool floats remain.",
+    "Adding the known intact donations: 60 basketball hoops + 90 pool floats + 50 footballs + 40 tennis balls = 240 donations.",
+    "Thus, the remaining donations are basketballs, which is 300 - 240 = 60 basketballs.",
+    "These 60 basketballs donated separately need to be added to the 30 basketballs included with the hoops.",
+    "So, the total number of basketballs is 60 + 30 = 90."
+  ],
+  "solution": "90"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Tim has some cans of soda. Jeff comes by, and takes 6 cans of soda from Tim. Tim then goes and buys another half the amount of soda cans he had left. If Tim has 24 cans of soda in the end, how many cans of soda did Tim have at first?",
+  "steps": [
+    "Let the initial number of cans Tim had be \\( x \\).",
+    "Jeff takes 6 cans from Tim, so Tim has \\( x - 6 \\) cans left.",
+    "Tim buys another half of what he has left, so he buys \\( \\frac{x - 6}{2} \\) cans.",
+    "After buying more cans, the total number of cans Tim has is the sum of the remaining cans and the newly bought cans: \\( x - 6 + \\frac{x - 6}{2} \\).",
+    "According to the problem, Tim ends up with 24 cans. Therefore, we set the equation: \n\n\\[ x - 6 + \\frac{x - 6}{2} = 24 \\]",
+    "First, let's simplify the equation: \nMultiply every term by 2 to eliminate the fraction:\n\n\\[ 2(x - 6) + (x - 6) = 48 \\]",
+    "Simplify the equation further:\n\n\\[ 2x - 12 + x - 6 = 48 \\]",
+    "Combine like terms:\n\n\\[ 3x - 18 = 48 \\]",
+    "Add 18 to both sides to isolate the term with \\( x \\):\n\n\\[ 3x = 66 \\]",
+    "Divide both sides by 3 to solve for \\( x \\):\n\n\\[ x = 22 \\]",
+    "Now, verify the calculation to ensure no errors were made.",
+    "Originally, Tim had 22 cans. Jeff took 6, leaving Tim with 16 cans.",
+    "Tim then buys half of 16, which is 8 more cans. Hence, Tim should end up with 16 + 8 = 24 cans.",
+    "The final verification shows the calculations are correct."
+  ],
+  "solution": "22"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "A book has 8 chapters. Beth has read 2 chapters in 3 hours. If she continues reading at that rate, in how many hours will she be able to finish reading the remaining chapters?",
+  "steps": [
+    "Beth has read 2 chapters in 3 hours.",
+    "There are a total of 8 chapters in the book.",
+    "Beth has 8 - 2 = 6 chapters remaining to read.",
+    "She reads at a rate of 2 chapters every 3 hours.",
+    "I need to find out how many hours it will take her to read the remaining 6 chapters.",
+    "To determine this, I can set up a proportion: (2 chapters / 3 hours) = (6 chapters / x hours).",
+    "Cross-multiply to solve for x: 2 * x = 6 * 3.",
+    "Calculate the multiplication: 6 * 3 = 18.",
+    "Now, solve for x: 2x = 18.",
+    "Divide both sides by 2 to find x: x = 18 / 2.",
+    "Calculate the division: 18 / 2 = 9.",
+    "So, it will take Beth 9 hours to read the remaining chapters."
+  ],
+  "solution": "9"
+}

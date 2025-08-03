@@ -1,0 +1,30 @@
+{
+  "query": "Jason's dog has a tail that's half the length of its body, and a head that's 1/6 the length of its body. If the dog is 30 inches long overall, how long is its tail?",
+  "steps": [
+    "Jason's dog is 30 inches long overall.",
+    "The tail is half the length of the dog's body.",
+    "We need to determine how long the dog's body is to find the tail length.",
+    "The dog's body includes the length of the head and the tail.",
+    "The head is 1/6 the length of the body.",
+    "To find the length of the tail, we need to set up an equation where the total length (body + head + tail) equals 30 inches.",
+    "Let's assign the length of the body as B.",
+    "The length of the tail is half of B, which is B/2.",
+    "The length of the head is 1/6 of B, which is B/6.",
+    "The total length is the sum of the body, the head, and the tail: B + B/6 + B/2 = 30.",
+    "To solve this equation, we start by finding a common denominator for the fractions B/6 and B/2, which is 6.",
+    "Rewrite B/2 as 3B/6.",
+    "The equation becomes: B + B/6 + 3B/6 = 30.",
+    "Combine the fractions: B + 4B/6 = 30.",
+    "Rewrite 4B/6 as 2B/3.",
+    "The equation is now: B + 2B/3 = 30.",
+    "Convert B to a fraction with a common denominator: 3B/3 + 2B/3 = 30.",
+    "Combine: (3B + 2B)/3 = 30.",
+    "This simplifies to 5B/3 = 30.",
+    "Multiply both sides by 3 to clear the fraction: 5B = 90.",
+    "Divide both sides by 5 to solve for B: B = 18.",
+    "Now we know the body length, B, is 18 inches.",
+    "The length of the tail is half of the body length, so it is 18/2.",
+    "Calculate 18/2 to find the tail length: 9 inches."
+  ],
+  "solution": "9"
+}

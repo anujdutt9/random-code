@@ -1,0 +1,22 @@
+{
+  "query": "At a school, 40% of the students receive a free lunch. These lunches are paid for by making sure the price paid by the paying students is enough to cover everyone's meal. If it costs $210 to feed 50 students, how much do the paying students pay for lunch?",
+  "steps": [
+    "First, I need to determine the total number of students.",
+    "Let's assume the total number of students is \\( x \\).",
+    "I know that 40% of the students receive a free lunch.",
+    "This means 60% of the students are paying for lunch.",
+    "I need to set up an equation using the given costs to find \\( x \\).",
+    "The cost to feed 50 students is $210.",
+    "The cost to feed each student is $210 / 50 = $4.20.",
+    "Now I need to calculate the total cost for all students, \\( x \\), at the same rate of $4.20 each.",
+    "The total cost for all \\( x \\) students is \\( 4.20 \\times x \\).",
+    "I know 60% of the students pay for all lunches, so total cost (4.20 * x) should be covered by 60% of the students.",
+    "If 60% of the students contribute, then the number of paying students is 0.6 * x.",
+    "Therefore, the total amount paid by the paying students, \\( 0.6x \\times \\text{cost per paying student} \\), should equal the total cost for all students, \\( 4.20x \\).",
+    "Let \\( p \\) represent the price paid by each paying student. Then the equation is \\( 0.6x \\times p = 4.20x \\).",
+    "Solving for \\( p \\), divide both sides by \\( 0.6x \\): \\( p = \\frac{4.20x}{0.6x} \\).",
+    "Simplify the equation: \\( p = \\frac{4.20}{0.6} \\).",
+    "Perform the calculation: \\( \\frac{4.20}{0.6} = 7 \\)."
+  ],
+  "solution": "7"
+}

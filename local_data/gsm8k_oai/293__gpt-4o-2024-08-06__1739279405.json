@@ -1,0 +1,15 @@
+{
+  "query": "For every 1 minute that Carlotta sings on stage during the final opera performance, she spends an additional 3 minutes practicing and 5 minutes throwing temper tantrums. If her final stage performance is 6 minutes long, what is the total combined amount of time, in minutes, that she spends practicing, throwing tantrums, and singing in the final stage performance?",
+  "steps": [
+    "Carlotta spends 1 minute on stage singing during her performance.",
+    "For every 1 minute on stage, she spends an additional 3 minutes practicing.",
+    "For every 1 minute on stage, she also spends an additional 5 minutes throwing tantrums.",
+    "Carlotta's final stage performance is 6 minutes long.",
+    "First, let's calculate the time she spends practicing. For 6 minutes on stage, she spends 6 x 3 = 18 minutes practicing.",
+    "Next, let's calculate the time she spends throwing tantrums. For 6 minutes on stage, she spends 6 x 5 = 30 minutes throwing tantrums.",
+    "Now, we find the total time spent in all activities: singing, practicing, and throwing tantrums.",
+    "She spends 6 minutes singing, 18 minutes practicing, and 30 minutes throwing tantrums.",
+    "The total combined amount of time is 6 + 18 + 30 = 54 minutes."
+  ],
+  "solution": "54"
+}

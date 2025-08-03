@@ -1,0 +1,17 @@
+{
+  "query": "The largest frog can grow to weigh 10 times as much as the smallest frog. The largest frog weighs 120 pounds. How much more does the largest frog weigh than the smallest frog?",
+  "steps": [
+    "I need to find the weight of the smallest frog.",
+    "The problem states that the largest frog weighs 10 times as much as the smallest frog.",
+    "The largest frog weighs 120 pounds.",
+    "If the largest frog is 10 times the weight of the smallest frog, I can express this as: largest frog's weight = 10 * smallest frog's weight.",
+    "Rearranging this equation to solve for the smallest frog's weight gives me: smallest frog's weight = largest frog's weight / 10.",
+    "Plugging in the largest frog's weight, I get: smallest frog's weight = 120 pounds / 10.",
+    "Calculating this gives me: smallest frog's weight = 12 pounds.",
+    "Now, I need to find out how much more the largest frog weighs compared to the smallest frog.",
+    "The largest frog weighs 120 pounds, and the smallest frog weighs 12 pounds.",
+    "The difference in their weights is: 120 pounds - 12 pounds.",
+    "Calculating the difference gives me: 108 pounds."
+  ],
+  "solution": "108"
+}

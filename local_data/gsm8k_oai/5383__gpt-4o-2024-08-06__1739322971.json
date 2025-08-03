@@ -1,0 +1,13 @@
+{
+  "query": "A wood stove burns 4 bundles of wood in the morning, then some more in the afternoon. If there were 10 bundles of wood at the start of the day and 3 bundles of wood at the end of the day, how many bundles of wood were burned in the afternoon?",
+  "steps": [
+    "First, identify the total amount of wood available at the start of the day: 10 bundles.",
+    "Next, calculate how many bundles remain at the end of the day: 3 bundles.",
+    "Determine how many bundles were burned throughout the whole day by subtracting the remaining bundles from the initial bundles: 10 - 3.",
+    "That means 7 bundles were burned throughout the whole day.",
+    "It is given that 4 bundles of wood were burned in the morning.",
+    "To find out how many bundles were burned in the afternoon, subtract the bundles burned in the morning from the total bundles burned throughout the day: 7 - 4.",
+    "This calculation shows that 3 bundles were burned in the afternoon."
+  ],
+  "solution": "3"
+}

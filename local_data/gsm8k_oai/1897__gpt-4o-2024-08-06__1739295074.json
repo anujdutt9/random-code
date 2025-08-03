@@ -1,0 +1,12 @@
+{
+  "query": "Mason is trying to download a 880 MB game to his phone. After downloading 310 MB, his Internet connection slows to 3 MB/minute. How many more minutes will it take him to download the game?",
+  "steps": [
+    "First, calculate how much of the game has already been downloaded. Mason has downloaded 310 MB.",
+    "Next, find out how much more needs to be downloaded. The total size of the game is 880 MB.",
+    "Subtract the amount already downloaded from the total size: 880 MB - 310 MB = 570 MB remaining to be downloaded.",
+    "Now, calculate the time it will take to download the remaining 570 MB. His current download speed is 3 MB/minute.",
+    "To find the time, divide the remaining download amount by the speed: 570 MB \u00f7 3 MB/minute.",
+    "570 divided by 3 equals 190."
+  ],
+  "solution": "190"
+}

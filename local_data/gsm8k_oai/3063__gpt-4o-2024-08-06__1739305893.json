@@ -1,0 +1,17 @@
+{
+  "query": "Five coworkers were talking during the lunch break. Roger, the oldest one, said that he has the same amount of experience in years as all four of the others combined and that his retirement should come when he accumulates 50 years of experience. Peter said that when he came to the company his daughter was 7 years old, and now she is 19 years old. Tom then said he has twice as many years of experience as Robert. Robert said that he has 4 years of experience less than Peter but 2 more years of experience than Mike. How many more years does Roger have to work before he retires?",
+  "steps": [
+    "We need to first establish the years of experience for each coworker.",
+    "Roger claims his experience equals the combined experience of the other four. This means if we determine their experience, Roger's experience will equal their sum.",
+    "Next, Peter mentioned that when he joined the company his daughter was 7, and now she is 19. This implies Peter has 12 years of experience (since 19 - 7 = 12).",
+    "Tom said he has twice the experience of Robert. We will derive Robert's experience in the next steps, but for now, we can express Tom's experience as 2R, where R is Robert's experience.",
+    "Robert says he has 4 years less experience than Peter and 2 more years than Mike. So, Robert's experience is 12 - 4 = 8 years (since Peter has 12 years).",
+    "Now, we know Robert has 8 years of experience, and since Tom has twice that amount, Tom has 16 years of experience (2 x 8 = 16).",
+    "According to Robert, he has 2 more years than Mike, which means Mike has 8 - 2 = 6 years of experience.",
+    "Now let's sum up the experience of Peter, Tom, Robert, and Mike:\n12 years (Peter) + 16 years (Tom) + 8 years (Robert) + 6 years (Mike) = 42 years.",
+    "Since Roger's experience is the sum of their experience, Roger also has 42 years of experience.",
+    "Roger will retire after 50 years of experience. Thus, we now calculate the difference between 50 and his current experience.",
+    "Roger needs 50 - 42 = 8 more years."
+  ],
+  "solution": "8"
+}

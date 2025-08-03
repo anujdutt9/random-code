@@ -1,0 +1,22 @@
+{
+  "query": "A herring has 40 oz of fat, an eel 20 oz, and a pike 10 more oz of fat than an eel. If Ellianna cooked and served 40 fish of each type, calculate how many ounces of fat she served.",
+  "steps": [
+    "First, I'll determine the amount of fat in a single pike.",
+    "An eel has 20 oz of fat, and a pike has 10 more oz than an eel.",
+    "So, a pike has 20 oz + 10 oz = 30 oz of fat.",
+    "Now, I know a herring has 40 oz of fat, an eel 20 oz, and a pike 30 oz.",
+    "Next, I'll calculate the total fat from the 40 herring.",
+    "Each herring has 40 oz of fat, and there are 40 herrings.",
+    "So, the total fat from herrings is 40 x 40 = 1600 oz.",
+    "Now, I'll calculate the total fat from the 40 eels.",
+    "Each eel has 20 oz of fat, and there are 40 eels.",
+    "So, the total fat from eels is 40 x 20 = 800 oz.",
+    "Next, I'll calculate the total fat from the 40 pikes.",
+    "Each pike has 30 oz of fat, and there are 40 pikes.",
+    "So, the total fat from pikes is 40 x 30 = 1200 oz.",
+    "Finally, I'll add the total fat from all three types of fish.",
+    "Total fat served = 1600 oz (herring) + 800 oz (eels) + 1200 oz (pikes).",
+    "Total fat served = 3600 oz."
+  ],
+  "solution": "3600"
+}

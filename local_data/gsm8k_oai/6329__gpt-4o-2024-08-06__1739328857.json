@@ -1,0 +1,12 @@
+{
+  "query": "The teachers divided the group of students into 3 groups of 8. But 2 students left early. How many remain?",
+  "steps": [
+    "Start by determining the initial total number of students.",
+    "The problem states there are 3 groups of 8.",
+    "Multiply the number of groups by the number of students in each group: 3 * 8 = 24.",
+    "Next, account for the students who left early.",
+    "2 students left, so subtract 2 from the total.",
+    "24 - 2 = 22"
+  ],
+  "solution": "22"
+}

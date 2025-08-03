@@ -1,0 +1,16 @@
+{
+  "query": "Lisa has 36 candies. On Mondays and Wednesdays, she eats 2 candies for each day and on the other days of the week she eats 1 candy for each day. How many weeks does it take for Lisa to eat all of the candies?",
+  "steps": [
+    "First, I need to calculate how many candies Lisa eats in a week.",
+    "On Mondays, she eats 2 candies.",
+    "On Wednesdays, she also eats 2 candies.",
+    "On the other days (Tuesday, Thursday, Friday, Saturday, Sunday), she eats 1 candy each day.",
+    "There are 5 days where she eats 1 candy: Tuesday, Thursday, Friday, Saturday, and Sunday.",
+    "So, 5 days of eating 1 candy each add up to 5 candies.",
+    "Adding all the candies eaten in the week, 2 (Monday) + 2 (Wednesday) + 5 (other days) = 9 candies in total.",
+    "I need to determine how many weeks it will take to eat 36 candies if she eats 9 candies per week.",
+    "I divide the total number of candies, 36, by the number of candies eaten per week, 9.",
+    "36 divided by 9 equals 4."
+  ],
+  "solution": "4"
+}

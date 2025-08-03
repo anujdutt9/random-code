@@ -1,0 +1,24 @@
+{
+  "query": "An auto shop buys tires to replace all the tires on every customer\u2019s car. They buy the tires as soon as cars are brought into the shop. There are four cars in the shop already, and another six customers come into the shop throughout the week. Some of the customers decide they don't want any of the tires changing, and two customers decide they only want half the tires changing. They had no tires in stock at the start of the week. If the shop has 20 tires left at the end of the week, how many customers decided they did not want their tires changing?",
+  "steps": [
+    "Let's determine how many tires are initially needed. There are four cars already in the shop.",
+    "Each car typically requires 4 tires, so for 4 cars, the shop would need 4 x 4 = 16 tires.",
+    "There are 6 more customers who come into the shop throughout the week.",
+    "In total, then the shop serves 4 (initial) + 6 (new) = 10 customers.",
+    "For these 10 customers, if all wanted their tires changed, the shop would need 10 x 4 = 40 tires.",
+    "However, it\u2019s mentioned that some customers decide they don\u2019t want any tires changing, and two customers only want half their tires changed.",
+    "Half the tires of a car means 2 tires (since a car has 4 tires). So for the two customers who only want half their tires changed, they would require 2 x 2 = 4 tires total.",
+    "Now, let's adjust the total number of tires needed. As mentioned, 40 tires are needed if all tires are changed.",
+    "But for the two customers who only change half their tires, instead of needing 2 x 4 = 8 tires for these two cars, they need 4 tires.",
+    "Hence, we now have 40 (initial calculation for all cars) - 4 (saved tires from only half-tire replacement of two cars) = 36 tires needed, if no further reductions occur.",
+    "However, the shop still ends the week with 20 tires left. This means out of the estimated needed 36 tires, not all were used.",
+    "Let\u2019s calculate how many tires were actually used. If 36 tires would have been used, but 20 are leftover, then the shop used 36 - 20 = 16 tires.",
+    "Therefore, tires not used are 40 (all tires being changed hypothesis) - 16 (actually used tires) = 24 tires.",
+    "Let\u2019s see how many customers didn\u2019t want any tires changed. Since 4 tires per car are needed and 24 tires were not used, that suggests 24/4 = 6 cars\u2019 tires not changed.",
+    "Out of those, remember 2 customers changed half their tires, accounting for 2 cars already where we only used 4 tires in total instead of 8.",
+    "Thus, not every leftover comes from total refusal, and it affects total calculation.",
+    "After adjusting further and analyzing my calculation breakdown, it occurs the two customers\u2019 lack of full change affects directly 4 tire count where half savings of their change already affects total unused positively.",
+    "As a holistic analysis calculation reflects clarification from errors before: 40 needed to 16 usage creates correction reflection. Account for those entirely refusing service stands corrected at refuting those 2 non-fully cars having internal tallies."
+  ],
+  "solution": "4"
+}

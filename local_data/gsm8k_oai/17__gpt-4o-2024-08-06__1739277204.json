@@ -1,0 +1,19 @@
+{
+  "query": "In a truck, there are 26 pink hard hats, 15 green hard hats, and 24 yellow hard hats.  If Carl takes away 4 pink hard hats, and John takes away 6 pink hard hats and twice as many green hard hats as the number of pink hard hats that he removed, then calculate the total number of hard hats that remained in the truck.",
+  "steps": [
+    "Initially, there are 26 pink hard hats in the truck.",
+    "Carl takes away 4 pink hard hats.",
+    "After Carl takes the pink hard hats, there are 26 - 4 = 22 pink hard hats left.",
+    "John takes away 6 pink hard hats.",
+    "After John takes 6 pink hard hats, there are 22 - 6 = 16 pink hard hats left.",
+    "John also takes away twice as many green hard hats as the number of pink hard hats he removed.",
+    "John removed 6 pink hard hats, so he takes away 6 * 2 = 12 green hard hats.",
+    "Initially, there are 15 green hard hats in the truck.",
+    "After John takes 12 green hard hats, there are 15 - 12 = 3 green hard hats left.",
+    "The number of yellow hard hats in the truck remains unchanged at 24.",
+    "Now, I will calculate the total number of hard hats remaining in the truck:",
+    "The total number of hard hats left = pink hard hats + green hard hats + yellow hard hats = 16 + 3 + 24.",
+    "Adding these together gives us: 16 + 3 + 24 = 43."
+  ],
+  "solution": "43"
+}

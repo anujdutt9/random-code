@@ -1,0 +1,14 @@
+{
+  "query": "Bob and Johnny have a leaf raking business. They charge $4 for each bag of leaves they rake. On Monday they raked 5 bags of leaves. On Tuesday they raked 3 bags of leaves. On Wednesday, they counted their money and found they had $68 for all three days. How many bags of leaves did they rake on Wednesday?",
+  "steps": [
+    "First, I need to determine how much money Bob and Johnny made on Monday and Tuesday combined.",
+    "On Monday, they raked 5 bags of leaves. At $4 per bag, they made 5 * 4 = $20.",
+    "On Tuesday, they raked 3 bags of leaves. At $4 per bag, they made 3 * 4 = $12.",
+    "Now, add the earnings from Monday and Tuesday together: $20 + $12 = $32.",
+    "Bob and Johnny had a total of $68 after three days. I need to subtract the money they made on Monday and Tuesday to find out how much they earned on Wednesday.",
+    "Subtract $32 (money earned on Monday and Tuesday) from $68 (total money): $68 - $32 = $36.",
+    "Now, I need to determine how many bags of leaves they raked on Wednesday. They earned $36 on Wednesday, and they earn $4 per bag. I need to divide the Wednesday earnings by the price per bag.",
+    "Divide $36 by $4 per bag to find the number of bags: $36 / $4 = 9 bags."
+  ],
+  "solution": "9"
+}

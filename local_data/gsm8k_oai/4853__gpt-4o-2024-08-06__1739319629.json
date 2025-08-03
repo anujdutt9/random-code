@@ -1,0 +1,19 @@
+{
+  "query": "A road has four lanes, and in each lane, the number of cars is twice as many as the number of trucks in all the lanes. If there are 60 trucks in each lane, calculate the total number of vehicles in all the lanes?",
+  "steps": [
+    "Let's determine the total number of trucks in all the lanes. There are 60 trucks per lane.",
+    "The road has four lanes.",
+    "The total number of trucks is calculated by multiplying the number of trucks per lane by the number of lanes: 60 trucks/lane * 4 lanes.",
+    "60 * 4 = 240 trucks in total.",
+    "According to the problem, the number of cars in each lane is twice the total number of trucks in all lanes.",
+    "The total number of trucks is 240.",
+    "Twice the total number of trucks is 2 * 240 = 480.",
+    "So, there are 480 cars in each lane.",
+    "To find the total number of cars, multiply the number of cars in each lane by the number of lanes: 480 cars/lane * 4 lanes.",
+    "480 * 4 = 1920 cars in total.",
+    "The total number of vehicles includes both cars and trucks.",
+    "To find the total number of vehicles, add the number of cars to the number of trucks: 1920 cars + 240 trucks.",
+    "1920 + 240 = 2160 vehicles in total."
+  ],
+  "solution": "2160"
+}

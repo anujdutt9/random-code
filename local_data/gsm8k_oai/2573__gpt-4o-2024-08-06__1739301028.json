@@ -1,0 +1,14 @@
+{
+  "query": "Bill composes 20 total math questions for money.  Ryan composes twice as many problems as Bill, and Frank composes 3 times as many as Ryan.  Assuming each person has to compose 4 different types of math problems in equal proportion out of the total amount, how many problems of each type does Frank compose?",
+  "steps": [
+    "Bill composes 20 math questions in total.",
+    "Ryan composes twice as many problems as Bill.",
+    "So, Ryan composes 20 * 2 = 40 math questions.",
+    "Frank composes 3 times as many as Ryan.",
+    "So, Frank composes 40 * 3 = 120 math questions in total.",
+    "Each person has to compose 4 different types of math problems in equal proportion.",
+    "To find out how many problems of each type Frank composes, divide the total number of problems by 4.",
+    "120 / 4 = 30"
+  ],
+  "solution": "30"
+}

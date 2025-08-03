@@ -1,0 +1,17 @@
+{
+  "query": "Cupcakes are sold in packages of 10 and 15. Jean bought 4 packs of 15 cupcakes.  If she will give one cupcake each to 100 children in the orphanage, how many packs of 10 cupcakes should she need to buy?",
+  "steps": [
+    "First, I need to find out how many cupcakes Jean currently has from the packs of 15.",
+    "Jean bought 4 packs of 15 cupcakes. So, I need to multiply 4 by 15 to get the total number of cupcakes from these packs.",
+    "4 packs * 15 cupcakes per pack = 60 cupcakes.",
+    "Jean has a total of 60 cupcakes from the 4 packs of 15.",
+    "She needs a total of 100 cupcakes to give one to each child.",
+    "To find how many more cupcakes Jean needs, I subtract the number of cupcakes she has from the number she needs.",
+    "100 cupcakes needed - 60 cupcakes she has = 40 cupcakes still needed.",
+    "Cupcakes are also sold in packs of 10. I need to find out how many packs of 10 are required to get 40 cupcakes.",
+    "To find out how many packs of 10 are needed, I divide the number of needed cupcakes (40) by the pack size (10).",
+    "40 \u00f7 10 = 4.",
+    "Jean needs to buy 4 packs of 10 cupcakes."
+  ],
+  "solution": "4"
+}

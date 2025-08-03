@@ -1,0 +1,18 @@
+{
+  "query": "Randy has some money. He spent $10 buying his lunch. He spent a quarter of the money he had left on an ice cream cone. If the ice cream cone cost $5, what is the amount of money, in dollars, Randy had at first?",
+  "steps": [
+    "First, I need to find out how much money Randy spent after buying his lunch and then purchasing the ice cream cone.",
+    "Randy spent $10 on lunch.",
+    "He spent $5 on an ice cream cone.",
+    "Thus, the total amount Randy spent is $10 + $5 = $15.",
+    "Let\u2019s say Randy had X dollars initially.",
+    "After spending $10 on lunch, he would have X - 10 dollars left.",
+    "He then spent a quarter of the remaining money on an ice cream cone, which was $5.",
+    "Since a quarter of the remaining money is $5, then (1/4)*(X - 10) = $5.",
+    "To find X - 10, I multiply both sides of the equation by 4 to get rid of the fraction: X - 10 = 5 * 4.",
+    "This gives X - 10 = 20.",
+    "To find the original amount X, I add 10 to both sides of the equation: X = 20 + 10.",
+    "Thus, X = 30."
+  ],
+  "solution": "30"
+}

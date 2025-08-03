@@ -1,0 +1,20 @@
+{
+  "query": "Three siblings are born 5 years apart, each. If the eldest child is 20 years old now, what's the total of the ages of the three siblings 10 years from now?",
+  "steps": [
+    "The eldest child is 20 years old now.",
+    "The siblings are each born 5 years apart.",
+    "So, the second child is 5 years younger than the eldest child.",
+    "The second child is 20 - 5 = 15 years old now.",
+    "The third child is 5 years younger than the second child.",
+    "The third child is 15 - 5 = 10 years old now.",
+    "We need to find the total ages of the siblings 10 years from now.",
+    "In 10 years, the eldest child will be 20 + 10 = 30 years old.",
+    "In 10 years, the second child will be 15 + 10 = 25 years old.",
+    "In 10 years, the third child will be 10 + 10 = 20 years old.",
+    "Now, let's calculate the total ages of the siblings 10 years from now.",
+    "Total age in 10 years = 30 + 25 + 20.",
+    "Let's perform the addition: 30 + 25 = 55.",
+    "Now, add the remaining age: 55 + 20 = 75."
+  ],
+  "solution": "75"
+}

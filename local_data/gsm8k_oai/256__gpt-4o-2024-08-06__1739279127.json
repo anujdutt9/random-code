@@ -1,0 +1,17 @@
+{
+  "query": "On a road map, 1/4 inch represents 8 miles of actual road distance. The towns of Pence and Hillcrest are represented by points 3 3/8 inches apart on the map. What is the actual distance, in miles, between the towns?",
+  "steps": [
+    "First, I need to convert the map distance into a fraction or decimal to make calculations easier. The distance between Pence and Hillcrest on the map is given as 3 3/8 inches.",
+    "I convert 3 3/8 inches to an improper fraction. The whole number is 3, which can be converted to 24/8 as an improper fraction.",
+    "The fractional part is 3/8. I add this to the improper fraction of the whole part: 24/8 + 3/8 = 27/8 inches.",
+    "Now I have the map distance as 27/8 inches.",
+    "According to the map scale, 1/4 inch represents 8 miles.",
+    "To find out how many 1/4 inches fit into 27/8 inches, I need to divide the total map distance (27/8 inches) by the scale unit (1/4 inch).",
+    "Doing the division: (27/8) \u00f7 (1/4) = (27/8) * (4/1) = 108/8.",
+    "Next, I simplify 108/8 by dividing the numerator and the denominator by their greatest common divisor, which is 4.",
+    "108 \u00f7 4 = 27, and 8 \u00f7 4 = 2, so 108/8 simplifies to 27/2 or 13.5.",
+    "Each (1/4 inch) represents 8 miles. Therefore, 13.5 map units correspond to 13.5 * 8 miles.",
+    "Calculating this gives: 13.5 * 8 = 108 miles."
+  ],
+  "solution": "108"
+}

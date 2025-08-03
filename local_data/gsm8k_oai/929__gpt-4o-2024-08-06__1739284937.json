@@ -1,0 +1,16 @@
+{
+  "query": "To make a shed in his backyard, Tom needs 1000 bricks. He can buy half of the bricks for 50% off of $.50. The other Half he needs to pay full price. How many dollars does Tom spend?",
+  "steps": [
+    "Tom needs a total of 1000 bricks to build the shed.",
+    "He can buy half of these bricks, which is 500 bricks, at a discounted price.",
+    "The discount on these 500 bricks is 50% off of $0.50.",
+    "The price after 50% discount is $0.50 * 0.50 = $0.25 per brick.",
+    "Now calculate the cost of the 500 discounted bricks: 500 * $0.25 = $125.",
+    "For the other half of the bricks, he needs to pay full price.",
+    "The full price is $0.50 per brick for the remaining 500 bricks.",
+    "Calculate the cost for the 500 bricks at full price: 500 * $0.50 = $250.",
+    "Now add the cost of the discounted bricks and the full-priced bricks: $125 + $250.",
+    "The total cost is $375."
+  ],
+  "solution": "375"
+}

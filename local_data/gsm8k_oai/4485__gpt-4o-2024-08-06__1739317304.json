@@ -1,0 +1,16 @@
+{
+  "query": "Jack bought an ice cream cone before jogging to the beach. If the ice cream cone will melt in 10 minutes, the beach is 16 blocks away, and each block is 1/8th of a mile, how fast does Jack need to jog (in miles per hour) to get to the beach before the ice cream melts?",
+  "steps": [
+    "First, I need to determine the total distance Jack has to jog to the beach. The beach is 16 blocks away, and each block equals 1/8 of a mile.",
+    "If each block is 1/8 of a mile, I calculate the total distance by multiplying the number of blocks (16) by the distance per block (1/8 mile).",
+    "Total distance in miles = 16 blocks * (1/8 mile/block) = 2 miles.",
+    "I know Jack has 10 minutes before the ice cream cone melts.",
+    "To determine the speed needed in miles per hour, I must convert the time from minutes to hours. There are 60 minutes in an hour, so 10 minutes is 10/60 hours.",
+    "10 minutes is equal to 1/6 of an hour (since 10 divided by 60 equals 1/6).",
+    "The speed required to travel 2 miles in 1/6 hour is calculated by dividing the distance by the time.",
+    "Speed = Total distance (miles) / Time (hours) = 2 miles / (1/6 hour).",
+    "Dividing by a fraction is equivalent to multiplying by its reciprocal. So, 2 miles divided by 1/6 hour is the same as 2 miles multiplied by 6/1.",
+    "Speed = 2 * 6 = 12 miles per hour."
+  ],
+  "solution": "12"
+}

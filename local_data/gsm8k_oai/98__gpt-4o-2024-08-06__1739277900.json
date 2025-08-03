@@ -1,0 +1,13 @@
+{
+  "query": "Hector purchased a container of gumballs.  He gave 4 to Todd, then he gave twice as many as he had given Todd to Alisha, and then he gave 5 less than four times as many to Bobby as he had given to Alisha.  If Hector had 6 gumballs remaining, what is the total number of gumballs that Hector purchased?",
+  "steps": [
+    "I need to determine how many gumballs Hector originally purchased.",
+    "First, Hector gave 4 gumballs to Todd.",
+    "Then, Hector gave twice as many gumballs as he gave to Todd to Alisha. Since he gave 4 to Todd, he gave 2 * 4 = 8 gumballs to Alisha.",
+    "Next, Hector gave 5 less than four times as many gumballs to Bobby as he had given to Alisha. He gave 8 to Alisha, so four times this amount is 4 * 8 = 32. Then, 32 - 5 = 27 gumballs were given to Bobby.",
+    "Now, if Hector had 6 gumballs remaining, the total number of gumballs he initially had can be calculated by adding up all the gumballs he gave away plus the remaining ones.",
+    "So, he gave away 4 (to Todd) + 8 (to Alisha) + 27 (to Bobby) = 39 gumballs.",
+    "Adding the 6 gumballs remaining, he originally had 39 + 6 = 45 gumballs."
+  ],
+  "solution": "45"
+}

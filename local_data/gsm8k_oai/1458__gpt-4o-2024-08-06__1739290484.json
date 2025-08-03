@@ -1,0 +1,17 @@
+{
+  "query": "Stefan goes to a restaurant to eat dinner with his family. They order an appetizer that costs $10 and 4 entrees that are $20 each. If they tip 20% of the total for the waiter, what is the total amount of money that they spend at the restaurant?",
+  "steps": [
+    "First, I need to calculate the cost of the appetizer. The appetizer costs $10.",
+    "Next, I need to calculate the cost of the entrees. There are 4 entrees, and each one costs $20.",
+    "To find the total cost of the entrees, I multiply 4 (the number of entrees) by $20 (the cost of each entree).",
+    "4 entrees * $20 = $80",
+    "Now, I add the cost of the appetizer and the total cost of the entrees to find the subtotal.",
+    "Subtotal = $10 (appetizer) + $80 (entrees) = $90",
+    "They tip 20% of the total, so I need to calculate 20% of the subtotal ($90).",
+    "To find 20% of $90, I multiply $90 by 0.20 (which is 20% expressed as a decimal).",
+    "$90 * 0.20 = $18",
+    "Finally, I add the tip to the subtotal to find the total amount spent.",
+    "Total amount = $90 (subtotal) + $18 (tip) = $108"
+  ],
+  "solution": "108"
+}

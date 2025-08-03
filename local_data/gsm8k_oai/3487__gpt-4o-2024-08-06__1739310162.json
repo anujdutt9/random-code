@@ -1,0 +1,16 @@
+{
+  "query": "Johnny makes his signature crab dish 40 times a day.  It uses 1.5 pounds of crab meat.  Crab meat sells for $8 per pound.  How much does he spend in a week if he is closed 3 days a week?",
+  "steps": [
+    "Johnny makes his crab dish 40 times a day.",
+    "Each dish uses 1.5 pounds of crab meat.",
+    "First, I need to find out how many pounds of crab meat Johnny uses in one day.",
+    "Johnny uses 40 dishes * 1.5 pounds per dish = 60 pounds of crab meat per day.",
+    "Crab meat sells for $8 per pound.",
+    "I need to find out the cost of the crab meat used each day.",
+    "The daily cost is 60 pounds * $8 per pound = $480.",
+    "Johnny is closed 3 days a week, meaning he is open 4 days a week.",
+    "Next, I calculate the weekly cost by multiplying the daily cost by the number of open days.",
+    "Weekly cost is $480 per day * 4 days = $1920."
+  ],
+  "solution": "1920"
+}

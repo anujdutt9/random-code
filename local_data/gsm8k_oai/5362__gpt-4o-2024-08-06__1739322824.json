@@ -1,0 +1,18 @@
+{
+  "query": "While reading about the history of different towns, Jared learned that Euston had 20 more carriages than Norfolk. Norwich had 100 carriages, and Flying Scotsman had 20 more carriages than Norwich. If Euston had 130 carriages, how many carriages are there in all?",
+  "steps": [
+    "First, I need to determine the number of carriages Norfolk has. I know Euston had 20 more carriages than Norfolk.",
+    "Euston had 130 carriages, so I can set up the equation: Norfolk + 20 = 130.",
+    "Solving for Norfolk, I subtract 20 from both sides: Norfolk = 130 - 20.",
+    "Norfolk has 110 carriages.",
+    "Next, I'll consider how many carriages Flying Scotsman has. It has 20 more carriages than Norwich.",
+    "Norwich has 100 carriages, so Flying Scotsman has 100 + 20 carriages.",
+    "Flying Scotsman has 120 carriages.",
+    "Now, I add the carriages from each location: Norfolk, Norwich, Flying Scotsman, and Euston.",
+    "The total number of carriages is 110 (Norfolk) + 100 (Norwich) + 120 (Flying Scotsman) + 130 (Euston).",
+    "Calculating the sum: 110 + 100 = 210.",
+    "Next, 210 + 120 = 330.",
+    "Finally, 330 + 130 = 460."
+  ],
+  "solution": "460"
+}

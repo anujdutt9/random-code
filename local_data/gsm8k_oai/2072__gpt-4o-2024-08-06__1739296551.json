@@ -1,0 +1,18 @@
+{
+  "query": "A box of six popsicles was left out in the sun and is slowly melting. Every time a popsicle melts the remaining popsicles melt twice as fast as the previous one. How many times faster than the first popsicle does the last popsicle\u2019s remains melt?",
+  "steps": [
+    "Initially there are six popsicles.",
+    "When the first popsicle melts, the remaining melts at the original speed.",
+    "When the first melts, 5 popsicles remain.",
+    "The second popsicle melts twice as fast as the first one.",
+    "Now, 4 popsicles remain after the second melts.",
+    "The third popsicle melts at twice the speed of the second, which is 2 times 2 = 4 times the speed of the first.",
+    "After the third melts, 3 popsicles remain.",
+    "The fourth popsicle melts twice as fast as the third. That is 2 times 4 = 8 times the speed of the first.",
+    "There are 2 popsicles remaining after the fourth melts.",
+    "The fifth popsicle melts twice as fast as the fourth, which is 2 times 8 = 16 times the speed of the first.",
+    "After the fifth melts, 1 popsicle is left.",
+    "The last popsicle, which is the sixth, melts at twice the speed of the fifth, which is 2 times 16 = 32 times the speed of the first."
+  ],
+  "solution": "32"
+}

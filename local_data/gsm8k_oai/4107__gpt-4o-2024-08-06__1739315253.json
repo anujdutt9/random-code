@@ -1,0 +1,15 @@
+{
+  "query": "Kimiko watches four YouTube videos. The first video is 2 minutes long, the second video is 4 minutes and 30 seconds, and the last two videos are equal in length. If she spends a total of 510 seconds watching YouTube, how many seconds long was each of the last two videos?",
+  "steps": [
+    "First, I need to convert the time Kimiko spent watching the first two videos into seconds.",
+    "The first video is 2 minutes long, which is equivalent to 2 * 60 = 120 seconds.",
+    "The second video is 4 minutes and 30 seconds long. First, I convert 4 minutes to seconds: 4 * 60 = 240 seconds.",
+    "I add the additional 30 seconds to the 240 seconds: 240 + 30 = 270 seconds.",
+    "Now, I calculate the total time spent on the first two videos: 120 seconds + 270 seconds = 390 seconds.",
+    "Kimiko spent a total of 510 seconds watching YouTube.",
+    "I subtract the time spent on the first two videos from the total time: 510 seconds - 390 seconds = 120 seconds.",
+    "The 120 seconds represent the total time spent on the last two videos combined.",
+    "Each of the last two videos is equal in length, so I divide the combined length by 2: 120 seconds / 2 = 60 seconds."
+  ],
+  "solution": "60"
+}

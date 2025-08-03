@@ -1,0 +1,13 @@
+{
+  "query": "Ron ate pizza with his friends the other day. If they ordered a 12-slice pizza and each of them ate 4 slices, how many friends were there with Ron?",
+  "steps": [
+    "Ron and his friends ate a total of 12 slices of pizza.",
+    "Each person, including Ron, ate 4 slices of pizza.",
+    "Let the number of friends Ron had be \\( x \\).",
+    "Then, the total number of people is Ron plus his friends, or \\( 1 + x \\).",
+    "Thus, the total number of slices eaten by all of them can be expressed as \\( 4 \\times (1 + x) = 12 \\).",
+    "Solving for \\( x \\), we divide both sides by 4: \\( 1 + x = 12 / 4 = 3 \\).",
+    "Subtract 1 from both sides to solve for \\( x \\): \\( x = 3 - 1 = 2 \\)."
+  ],
+  "solution": "2"
+}

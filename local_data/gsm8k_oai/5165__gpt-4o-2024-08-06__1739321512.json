@@ -1,0 +1,18 @@
+{
+  "query": "Gwendolyn can read 200 sentences of a book in 1 hour. She just brought a book from the library, having 20 paragraphs per page. What's the total time Gwendolyn will take to read the book if each paragraph has 10 sentences and the book has 50 pages?",
+  "steps": [
+    "First, I need to determine the total number of paragraphs in the book.",
+    "The book has 50 pages, and each page has 20 paragraphs.",
+    "To find the total number of paragraphs, I multiply the number of pages by the number of paragraphs per page: 50 pages * 20 paragraphs/page.",
+    "50 * 20 = 1000 paragraphs.",
+    "Next, I need to calculate the total number of sentences in the book.",
+    "Each paragraph has 10 sentences.",
+    "To find the total number of sentences, I multiply the total number of paragraphs by the number of sentences per paragraph: 1000 paragraphs * 10 sentences/paragraph.",
+    "1000 * 10 = 10,000 sentences.",
+    "Now, I need to determine how long it will take Gwendolyn to read these sentences.",
+    "Gwendolyn reads 200 sentences in 1 hour.",
+    "To find the total number of hours required to read 10,000 sentences, I divide the total number of sentences by the number of sentences she can read in an hour: 10,000 sentences / 200 sentences/hour.",
+    "10,000 / 200 = 50 hours."
+  ],
+  "solution": "50"
+}

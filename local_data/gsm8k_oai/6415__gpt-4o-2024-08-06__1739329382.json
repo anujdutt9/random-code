@@ -1,0 +1,17 @@
+{
+  "query": "There was only enough room for 21 people on a raft if no one wore life jackets. There were 7 fewer people who could fit on the raft if everyone wore life jackets. If 8 people on the raft needed life jackets, how many people could fit on the raft?",
+  "steps": [
+    "First, I'll determine how many people can fit on the raft if everyone wears life jackets.",
+    "The problem states that 7 fewer people can fit on the raft if everyone wears life jackets, compared to if no one wears life jackets.",
+    "Since 21 people can fit without life jackets, this means 21 - 7 = 14 people can fit with everyone wearing life jackets.",
+    "Now, I need to figure out how many people can fit if 8 people are wearing life jackets.",
+    "Each life jacket reduces the capacity by 7 divided by 21, which is a reduction of 1 person for every 3 life jackets, approximately.",
+    "I understand that it cannot be fractional, so I'll aim for a direct deduction approach instead.",
+    "In the scenario where everyone (14 people) wears a life jacket, the capacity is decreased by 7 people.",
+    "Thus, wearing life jackets reduces the capacity by 1 person for every 2 life jacket users, effectively.",
+    "With 8 people wearing life jackets, I need to determine the corresponding decrease in capacity.",
+    "If 2 life jacket users means a reduction of 1 capacity, then 8 life jacket users means a reduction of 8/2 = 4 capacities.",
+    "Therefore, the raft can accommodate 21 - 4 = 17 people when 8 people are wearing life jackets."
+  ],
+  "solution": "17"
+}

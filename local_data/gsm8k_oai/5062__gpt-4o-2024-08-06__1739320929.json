@@ -1,0 +1,13 @@
+{
+  "query": "Every room in a building has at least two windows and a maximum of 4 windows. There are 122 windows total. If 5 rooms have 4 windows and 8 rooms have 3 windows, how many rooms in the building have 2 windows?",
+  "steps": [
+    "First, I determine the total number of windows accounted for by the rooms with 4 and 3 windows.",
+    "There are 5 rooms with 4 windows each, so that's 5 * 4 = 20 windows.",
+    "There are 8 rooms with 3 windows each, so that's 8 * 3 = 24 windows.",
+    "Adding up the windows from rooms with 4 and 3 windows gives 20 + 24 = 44 windows.",
+    "The total number of windows in the building is 122. I subtract the windows from the rooms with 4 and 3 windows: 122 - 44 = 78 windows.",
+    "The remaining 78 windows are from rooms that have 2 windows each.",
+    "To find the number of rooms with 2 windows, I divide the remaining number of windows by 2: 78 / 2 = 39 rooms."
+  ],
+  "solution": "39"
+}

@@ -1,0 +1,23 @@
+{
+  "query": "Corey downloaded two movie series from his Netflix account with 12 and 14 seasons per series, respectively. However, in the week, his computer got a mechanical failure, and he lost two episodes from each season for both series. If each season in the movie series that Corey downloaded had 16 episodes, how many episodes remained after the computer's mechanical failure?",
+  "steps": [
+    "First, I need to calculate the total number of episodes Corey originally downloaded from both movie series.",
+    "The first series has 12 seasons, and each season has 16 episodes. So, the total number of episodes in the first series is 12 * 16.",
+    "12 * 16 = 192 episodes in the first series.",
+    "The second series has 14 seasons, and each season also has 16 episodes. So, the total number of episodes in the second series is 14 * 16.",
+    "14 * 16 = 224 episodes in the second series.",
+    "Now, I add the total episodes from both series to find out the total number of episodes Corey downloaded initially.",
+    "192 episodes from the first series + 224 episodes from the second series = 416 total episodes.",
+    "Next, I need to calculate how many episodes Corey lost due to the mechanical failure.",
+    "According to the problem, Corey lost two episodes from each season.",
+    "For the first series, which has 12 seasons, he lost 12 * 2 episodes.",
+    "12 * 2 = 24 episodes lost in the first series.",
+    "For the second series, which has 14 seasons, he lost 14 * 2 episodes.",
+    "14 * 2 = 28 episodes lost in the second series.",
+    "Now I add the lost episodes from both series to find the total number of episodes lost.",
+    "24 episodes lost from the first series + 28 episodes lost from the second series = 52 episodes lost overall.",
+    "Finally, I need to subtract the lost episodes from the total number of episodes Corey initially downloaded to find out how many episodes remained.",
+    "416 total episodes initially - 52 lost episodes = 364 episodes remaining."
+  ],
+  "solution": "364"
+}

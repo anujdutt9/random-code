@@ -1,0 +1,15 @@
+{
+  "query": "Gail has two fish tanks. The first tank is twice the size of the second tank. There are 48 gallons of water in the first tank. She follows the rule of one gallon of water per inch of fish. If she keeps two-inch fish in the second tank and three-inch fish in the first tank, how many more fish would Gail have in the first tank than the second tank if one of the first tank fish eats another?",
+  "steps": [
+    "First, I determine the size of the second tank. The first tank is reported to have a capacity of 48 gallons and is twice the size of the second tank.",
+    "Since the first tank is twice the size of the second tank, the second tank must have a capacity of 48 gallons / 2 = 24 gallons.",
+    "Next, I calculate how many two-inch fish Gail can keep in the second tank. Since she follows the rule of one gallon per inch of fish, each two-inch fish requires 2 gallons.",
+    "So, Gail can keep 24 gallons / 2 gallons per fish = 12 two-inch fish in the second tank.",
+    "Now, I calculate how many three-inch fish Gail can keep in the first tank. Each three-inch fish requires 3 gallons.",
+    "Thus, in the first tank, Gail can keep 48 gallons / 3 gallons per fish = 16 three-inch fish.",
+    "Then, I subtract one fish from the number of fish in the first tank to account for one getting eaten. So, she will have 16 - 1 = 15 fish in the first tank.",
+    "Finally, I determine how many more fish Gail has in the first tank compared to the second tank after the incident.",
+    "Gail has 15 fish in the first tank and 12 fish in the second tank. Thus, she has 15 - 12 = 3 more fish in the first tank."
+  ],
+  "solution": "3"
+}

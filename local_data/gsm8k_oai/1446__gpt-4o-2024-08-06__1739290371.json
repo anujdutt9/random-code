@@ -1,0 +1,27 @@
+{
+  "query": "A clothing store has an inventory of 34 ties, 40 belts, 63 black shirts, and 42 white shirts. The number of jeans in the store is two-thirds of the sum of black and white shirts, and the number of scarves is half the number of the sum of ties and belts. How many more jeans are there than scarves?",
+  "steps": [
+    "First, I need to determine the total number of black and white shirts.",
+    "The number of black shirts is 63.",
+    "The number of white shirts is 42.",
+    "The sum of black and white shirts is 63 + 42.",
+    "Calculating 63 + 42 gives 105 shirts in total.",
+    "The number of jeans is two-thirds of this total number of shirts.",
+    "Two-thirds of 105 is calculated as (2/3) * 105.",
+    "Calculating (2/3) * 105 gives 70 jeans.",
+    "Next, I need to calculate the number of ties and belts together.",
+    "The number of ties is 34.",
+    "The number of belts is 40.",
+    "The sum of ties and belts is 34 + 40.",
+    "Calculating 34 + 40 gives 74.",
+    "The number of scarves is half of this total number of ties and belts.",
+    "Half of 74 is calculated as (1/2) * 74.",
+    "Calculating (1/2) * 74 gives 37 scarves.",
+    "Now, I need to find how many more jeans there are than scarves.",
+    "The number of jeans is 70.",
+    "The number of scarves is 37.",
+    "Subtracting the number of scarves from the number of jeans: 70 - 37.",
+    "Calculating 70 - 37 gives 33."
+  ],
+  "solution": "33"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "John took a test with 80 questions.  For the first 40 questions, she got 90% right.  For the next 40 questions, she gets 95% right.  How many total questions does she get right?",
+  "steps": [
+    "John took a test with a total of 80 questions.",
+    "For the first 40 questions, John got 90% correct.",
+    "To find how many questions John got right in the first half, calculate 90% of 40.",
+    "90% of 40 is calculated as (90/100) * 40 = 36.",
+    "Therefore, John got 36 questions right in the first half.",
+    "For the next 40 questions, John got 95% correct.",
+    "To find how many questions John got right in the second half, calculate 95% of 40.",
+    "95% of 40 is calculated as (95/100) * 40 = 38.",
+    "John got 38 questions right in the second half.",
+    "Now add the number of correct answers from both halves to find the total number of correct questions.",
+    "36 (first half) + 38 (second half) = 74."
+  ],
+  "solution": "74"
+}

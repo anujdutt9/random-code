@@ -1,0 +1,14 @@
+{
+  "query": "The profit from a business transaction is shared among 2 business partners, Mike and Johnson in the ratio 2:5 respectively. If Johnson got $2500, how much will Mike have after spending some of his share on a shirt that costs $200?",
+  "steps": [
+    "The profit share ratio between Mike and Johnson is given as 2:5.",
+    "Let's denote Mike's share as 2x and Johnson's share as 5x, where x is a common multiplier.",
+    "Johnson's share is given as $2500, which means 5x = 2500.",
+    "To find the value of x, divide both sides of the equation by 5. So, x = 2500 / 5 = 500.",
+    "Now, let's calculate Mike's share. Mike's share is 2x, and we already know x = 500.",
+    "So Mike's share is 2 * 500 = 1000.",
+    "Mike spends $200 on a shirt.",
+    "Subtract the cost of the shirt from Mike's share: 1000 - 200 = 800."
+  ],
+  "solution": "800"
+}

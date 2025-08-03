@@ -1,0 +1,14 @@
+{
+  "query": "Jeremy loves to play Scrabble.  He once played a three-letter word on a triple word score to earn thirty points.  If before the word score was tripled, the first and third letters were each valued at one point apiece, how much was the middle letter valued at before the word score was tripled?",
+  "steps": [
+    "First, I want to analyze the information given in the problem. The total score of the three-letter word after applying the triple word score is thirty points.",
+    "Since the word score is tripled, this means the original score before tripling was 30 / 3.",
+    "Calculating 30 / 3 gives 10. So, the original score of the word before tripling was 10 points.",
+    "Next, I need to calculate the points contributed by the first and third letters. It's given that both the first and third letters are valued at one point.",
+    "Adding the values of the first and third letters gives 1 + 1 = 2 points.",
+    "To find the value of the middle letter, I subtract the points from the first and third letters from the original score.",
+    "So, I calculate 10 (original score) - 2 (points from first and third letters) = 8.",
+    "This means the middle letter is valued at 8 points."
+  ],
+  "solution": "8"
+}

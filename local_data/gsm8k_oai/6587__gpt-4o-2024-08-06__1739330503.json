@@ -1,0 +1,15 @@
+{
+  "query": "A school has 100 students. Half of the students are girls, the other half are boys.  20% of the girls have dogs at home and 10% of the boys have dogs at home.  How many students own dogs?",
+  "steps": [
+    "The total number of students in the school is 100.",
+    "Half of the students are girls, which means there are \\( \\frac{100}{2} = 50 \\) girls.",
+    "The remaining students are boys, which means there are also 50 boys.",
+    "20% of the girls have dogs. To find how many girls have dogs, calculate 20% of 50.",
+    "20% of 50 is \\( \\frac{20}{100} \\times 50 = 10 \\) girls.",
+    "10% of the boys have dogs. To find how many boys have dogs, calculate 10% of 50.",
+    "10% of 50 is \\( \\frac{10}{100} \\times 50 = 5 \\) boys.",
+    "To find the total number of students who have dogs, add the number of girls with dogs and the number of boys with dogs.",
+    "There are 10 girls with dogs and 5 boys with dogs, totaling \\( 10 + 5 = 15 \\) students."
+  ],
+  "solution": "15"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Manny is making lasagna for dinner with his four friends, Lisa, Raphael, Aaron, and Kai. He needs to know how many pieces to cut the lasagna into to serve it. Manny only wants one piece. Aaron doesn't like lasagna much and will probably only eat garlic bread and salad. Kai is always hungry and will eat twice as much as Manny. Raphael always eats half the amount Manny does, but his sister Lisa loves lasagna and will eat two pieces, plus any Raphael has left of his piece. How many pieces should Manny cut his lasagna into?",
+  "steps": [
+    "Manny will eat 1 piece of lasagna.",
+    "Aaron doesn't want any lasagna.",
+    "Kai will eat twice as much as Manny, so Kai will eat 2 pieces.",
+    "Raphael always eats half the amount Manny does, so Raphael will eat 0.5 pieces.",
+    "Lisa will eat 2 pieces on her own.",
+    "Any of Raphael's piece that he doesn\u2019t eat will be consumed by Lisa. Raphael's piece is 0.5 and Lisa already plans on eating 2, so Lisa will eat an additional 0.5 pieces from Raphael's share, bringing her total to 2.5 pieces.",
+    "Considering the total consumption, we add up the pieces: \n- Manny: 1 piece \n- Kai: 2 pieces \n- Raphael contributes 0.5 pieces to Lisa \n- Lisa: 2 + 0.5 = 2.5 pieces",
+    "Add the pieces: 1 (Manny) + 2 (Kai) + 2.5 (Lisa) = 5.5 pieces",
+    "Lasagna pieces should be whole numbers. Therefore, rounding up, Manny should cut the lasagna into 6 pieces to ensure everyone can be served based on their closest actual need of 5.5 pieces."
+  ],
+  "solution": "6"
+}

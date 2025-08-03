@@ -1,0 +1,24 @@
+{
+  "query": "There are many CDs in the store. The rock and roll CDs are $5 each, the pop CDs are $10 each, the dance CDs are $3 each, and the country CDs are $7 each. Julia wants to buy 4 of each, but she only has 75 dollars. How much money is she short?",
+  "steps": [
+    "First, I need to calculate the total cost for 4 rock and roll CDs.",
+    "Each rock and roll CD costs $5.",
+    "For 4 rock and roll CDs, the total cost is 4 CDs * $5/CD = $20.",
+    "Next, I calculate the total cost for 4 pop CDs.",
+    "Each pop CD costs $10.",
+    "For 4 pop CDs, the total cost is 4 CDs * $10/CD = $40.",
+    "Now, I calculate the total cost for 4 dance CDs.",
+    "Each dance CD costs $3.",
+    "For 4 dance CDs, the total cost is 4 CDs * $3/CD = $12.",
+    "Next, I calculate the total cost for 4 country CDs.",
+    "Each country CD costs $7.",
+    "For 4 country CDs, the total cost is 4 CDs * $7/CD = $28.",
+    "Now, I add up all these costs to find the total cost for all the CDs Julia wants to buy.",
+    "The total cost for all the CDs is $20 (rock and roll) + $40 (pop) + $12 (dance) + $28 (country).",
+    "The total cost is $20 + $40 + $12 + $28 = $100.",
+    "Julia has $75, so I need to find out how much she is short by subtracting her available money from the total cost.",
+    "The amount short is $100 - $75.",
+    "Julia is short by $25."
+  ],
+  "solution": "25"
+}

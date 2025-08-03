@@ -1,0 +1,16 @@
+{
+  "query": "A young girl pours 23 blue beads and 16 yellow beads into a bowl. She divides the total into 3 equal parts, removes some beads from each part, and doubles the rest to have 6 beads in each part now. How many beads were removed from each part?",
+  "steps": [
+    "First, I need to calculate the total number of blue and yellow beads in the bowl.",
+    "The total number of beads is 23 blue beads plus 16 yellow beads.",
+    "23 + 16 = 39 beads.",
+    "The girl divides 39 beads into 3 equal parts.",
+    "39 beads divided by 3 gives 13 beads in each part initially.",
+    "She removes some beads from each part and then doubles the beads remaining to have 6 in each part.",
+    "Before doubling, each part must have had 6 / 2 = 3 beads.",
+    "Initially, each part had 13 beads, and after removing some, only 3 were left.",
+    "The number of beads removed from each part is 13 - 3.",
+    "13 - 3 = 10 beads removed from each part."
+  ],
+  "solution": "10"
+}

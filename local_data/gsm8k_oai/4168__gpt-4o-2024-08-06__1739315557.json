@@ -1,0 +1,18 @@
+{
+  "query": "Rachel weighs 75 pounds, 6 pounds less than Jimmy and 15 pounds more than Adam. What is the average weight of the three people, in pounds?",
+  "steps": [
+    "Rachel weighs 75 pounds.",
+    "Jimmy weighs 6 pounds more than Rachel.",
+    "Jimmy's weight is 75 + 6 = 81 pounds.",
+    "Adam weighs 15 pounds less than Rachel.",
+    "Adam's weight is 75 - 15 = 60 pounds.",
+    "To find the average weight of the three people, we need to first find the total weight.",
+    "The total weight is 75 + 81 + 60.",
+    "Calculating the total weight: 75 + 81 = 156, then 156 + 60 = 216 pounds.",
+    "There are 3 people in total.",
+    "The average weight is the total weight divided by the number of people.",
+    "The average weight is 216 / 3.",
+    "Dividing 216 by 3 gives 72."
+  ],
+  "solution": "72"
+}

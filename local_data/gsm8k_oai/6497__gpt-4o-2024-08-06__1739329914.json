@@ -1,0 +1,13 @@
+{
+  "query": "Thirty-six marbles are divided between Mario and Manny in the ratio 4:5. If Manny decided to give 2 marbles to his brother, how many marbles does Manny have now?",
+  "steps": [
+    "The total ratio between Mario and Manny is \\(4 + 5 = 9\\) parts.",
+    "There are 36 marbles in total. We need to find out how many marbles each part represents.",
+    "Each part represents \\(36 \\div 9 = 4\\) marbles.",
+    "Mario gets \\(4 \\times 4 = 16\\) marbles.",
+    "Manny gets \\(5 \\times 4 = 20\\) marbles.",
+    "Manny gives 2 marbles to his brother.",
+    "After giving away 2 marbles, Manny now has \\(20 - 2 = 18\\) marbles."
+  ],
+  "solution": "18"
+}

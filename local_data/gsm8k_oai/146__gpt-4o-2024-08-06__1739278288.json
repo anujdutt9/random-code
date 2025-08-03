@@ -1,0 +1,23 @@
+{
+  "query": "Richard can clean his room in 22 minutes. Cory takes 3 minutes more than Richard to clean her room while Blake can clean his room 4 minutes more quickly than Cory. If they have to clean their rooms twice a week, how many minutes do all three spend cleaning their rooms each week?",
+  "steps": [
+    "First, I need to figure out how long it takes Cory to clean her room.",
+    "Richard takes 22 minutes.",
+    "Cory takes 3 minutes more than Richard.",
+    "So, 22 minutes + 3 minutes = 25 minutes. Cory takes 25 minutes.",
+    "Next, I need to determine how long it takes Blake to clean his room.",
+    "Blake can clean his room 4 minutes more quickly than Cory.",
+    "So, 25 minutes - 4 minutes = 21 minutes. Blake takes 21 minutes.",
+    "Now I know the time that each person takes: Richard 22 minutes, Cory 25 minutes, Blake 21 minutes.",
+    "Each of them must clean their rooms twice a week.",
+    "I'll calculate the total weekly cleaning time for each person.",
+    "Richard: 22 minutes per cleaning \u00d7 2 times per week = 44 minutes per week",
+    "Cory: 25 minutes per cleaning \u00d7 2 times per week = 50 minutes per week",
+    "Blake: 21 minutes per cleaning \u00d7 2 times per week = 42 minutes per week",
+    "Now, I need to add up the total time spent by all three of them cleaning their rooms weekly.",
+    "44 minutes (Richard) + 50 minutes (Cory) + 42 minutes (Blake)",
+    "44 + 50 = 94",
+    "94 + 42 = 136"
+  ],
+  "solution": "136"
+}

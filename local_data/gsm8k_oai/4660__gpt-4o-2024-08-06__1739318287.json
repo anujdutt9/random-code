@@ -1,0 +1,19 @@
+{
+  "query": "Alex is saving up for a new car. He already has $14,500 saved up and the car costs $14,600. He decides that to make the last of the money he will deliver groceries for people in the neighborhood.  He charges $1.5 per trip and then 5% of the price of the groceries. If he makes 40 trips and has saved up enough, how many dollars' worth of groceries did he deliver?",
+  "steps": [
+    "Alex already has $14,500 saved up.",
+    "The car costs $14,600.",
+    "He needs an additional $14,600 - $14,500 = $100.",
+    "He charges $1.5 per trip.",
+    "He makes 40 trips.",
+    "The income from trips alone is 40 trips * $1.5 per trip = $60.",
+    "He still needs to earn $100 - $60 = $40 from the percentage of the groceries.",
+    "He earns 5% of the price of the groceries.",
+    "Let \\( x \\) be the total dollars' worth of groceries.",
+    "5% of \\( x \\) is 0.05 * \\( x \\).",
+    "We know 0.05 * \\( x \\) = $40.",
+    "To find \\( x \\), divide both sides by 0.05: \\( x = \\frac{40}{0.05} \\).",
+    "\\( x = 800 \\)."
+  ],
+  "solution": "800"
+}

@@ -1,0 +1,31 @@
+{
+  "query": "Sally is saving up for a trip to Sea World. She already has $28 saved. It costs her $10 to park, $55 to get into the park and $25 for a meal pass. Sea World is 165 miles away and her car gets 30 miles per gallon of gas. If gas costs $3 a gallon, how much more will she have to save up?",
+  "steps": [
+    "First, I need to calculate the cost of parking at Sea World. The cost is $10.",
+    "Next, I need to calculate the admission cost to the park. The admission cost is $55.",
+    "Now, I need to calculate the cost of the meal pass. The meal pass costs $25.",
+    "To find the total fixed costs at Sea World, I need to add the parking, admission, and meal pass costs together.",
+    "The fixed costs are $10 (parking) + $55 (admission) + $25 (meal pass).",
+    "Calculating the sum: $10 + $55 = $65; then $65 + $25 = $90.",
+    "The total fixed costs for the park are $90.",
+    "Now, I need to calculate the travel cost based on the distance and gas price.",
+    "Sally's car gets 30 miles per gallon, and Sea World is 165 miles away.",
+    "To find out how many gallons of gas are needed for the trip, I divide the distance by the car's miles per gallon.",
+    "165 miles \u00f7 30 miles per gallon = 5.5 gallons.",
+    "Since this is a round trip, I need to double the 5.5 gallons.",
+    "5.5 gallons \u00d7 2 = 11 gallons.",
+    "The cost of gas is $3 per gallon.",
+    "To find the total gas cost, multiply the gallons by the price per gallon.",
+    "11 gallons \u00d7 $3 = $33.",
+    "The total travel cost for gas is $33.",
+    "Now, I add the fixed costs of going to Sea World and the travel costs to find the total cost.",
+    "The fixed costs are $90, and the travel costs are $33.",
+    "$90 + $33 = $123.",
+    "The total cost of the trip is $123.",
+    "Sally has already saved $28.",
+    "To find out how much more she needs to save, I subtract the amount she has saved from the total cost.",
+    "$123 (total cost) - $28 (saved) = $95.",
+    "Sally needs to save $95 more for her trip to Sea World."
+  ],
+  "solution": "95"
+}

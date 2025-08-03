@@ -1,0 +1,17 @@
+{
+  "query": "A store sells pencils and erasers. It has a rule that for every pencil you buy, you must buy 2 erasers which cost 1/2 the price of the pencils. If they sold 20 pencils and earned $80, how much do erasers cost?",
+  "steps": [
+    "First, let's determine the price of one pencil. The store sold 20 pencils in total.",
+    "Let the price of one pencil be \\( p \\). Then, total revenue from selling 20 pencils is \\( 20p \\).",
+    "Each pencil requires buying 2 erasers, and each eraser costs \\( \\frac{1}{2}p \\).",
+    "So, for each pencil, the cost of 2 erasers would be \\( 2 \\times \\frac{1}{2}p = p \\).",
+    "Therefore, for each pencil and its associated erasers, the total cost is \\( p + p = 2p \\).",
+    "For 20 pencils, the total cost for pencils and erasers would be \\( 20 \\times 2p = 40p \\).",
+    "We know they earned $80 in total.",
+    "So, we can set up the equation \\( 40p = 80 \\).",
+    "Solving for \\( p \\), we divide both sides by 40 to get \\( p = 2 \\).",
+    "The price of one pencil is $2.",
+    "Since each eraser costs \\( \\frac{1}{2}p \\), the cost of one eraser is \\( \\frac{1}{2} \\times 2 = 1 \\)."
+  ],
+  "solution": "1"
+}

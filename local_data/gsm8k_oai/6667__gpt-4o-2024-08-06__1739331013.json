@@ -1,0 +1,16 @@
+{
+  "query": "Rachel is writing an essay.  She writes 1 page every 30 minutes.  She spends 45 minutes researching the topic.  She writes a total of 6 pages.  Then she spends 75 minutes editing her essay.  Altogether, how many hours did she spend completing the essay?",
+  "steps": [
+    "First, I determine the time it took Rachel to write the essay.",
+    "Rachel writes 1 page every 30 minutes. Therefore, to write 6 pages, she would take 6 * 30 = 180 minutes.",
+    "Next, I consider the time she spent on research, which is 45 minutes.",
+    "Then, I consider the time she spent editing the essay, which is 75 minutes.",
+    "Now, I need to add all the time spent in minutes: writing (180 minutes) + researching (45 minutes) + editing (75 minutes).",
+    "180 + 45 = 225 minutes.",
+    "225 + 75 = 300 minutes.",
+    "Rachel spent a total of 300 minutes completing the essay.",
+    "To convert minutes into hours, I divide by 60, as there are 60 minutes in an hour.",
+    "300 \u00f7 60 = 5 hours."
+  ],
+  "solution": "5"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "Mary is counting the number of minnows in the pond. 40% of the minnows have red bellies, 30% have green bellies and the rest have white bellies. If 20 minnows have red bellies, how many minnows have white bellies?",
+  "steps": [
+    "I'm given that 40% of the minnows have red bellies. We know the actual number of red-bellied minnows is 20.",
+    "To find the total number of minnows in the pond, I can use the proportion 40% = 20 minnows.",
+    "40% is equivalent to 0.40. So, 0.40 times the total number of minnows (let's call this total number X) equals 20.",
+    "I can set up the equation: 0.40 * X = 20 to solve for X.",
+    "Divide both sides of the equation by 0.40 to solve for X: X = 20 / 0.40.",
+    "20 divided by 0.40 equals 50. So, there are 50 minnows in total.",
+    "Now, I know 30% of the minnows have green bellies. I need to find out how many that is.",
+    "30% of 50 is equivalent to 0.30 times 50.",
+    "0.30 multiplied by 50 equals 15. So, 15 minnows have green bellies.",
+    "The rest of the minnows have white bellies. I know there are a total of 50 minnows, of which 20 have red bellies and 15 have green bellies.",
+    "Subtracting the number of red and green-bellied minnows from the total will give me the number of white-bellied minnows.",
+    "50 total minnows minus 20 red-bellied minnows equals 30 minnows.",
+    "30 minnows minus 15 green-bellied minnows equals 15 minnows with white bellies."
+  ],
+  "solution": "15"
+}

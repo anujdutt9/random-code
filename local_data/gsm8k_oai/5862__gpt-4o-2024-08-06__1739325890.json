@@ -1,0 +1,18 @@
+{
+  "query": "Arnold owns three cars. The first car averages 50 miles per gallon of gas. The second car averages 10 miles per gallon of gas. And the third car averages 15 miles per gallon of gas. He splits his 450-mile monthly driving mileage equally amongst his three cars.  If gas costs $2 per gallon, how much does he spend on gas each month?",
+  "steps": [
+    "Arnold drives a total of 450 miles each month.",
+    "He splits his 450-mile monthly mileage equally among his three cars.",
+    "Divide 450 miles by 3 to find out how many miles each car drives: 450 / 3 = 150 miles per car.",
+    "The first car averages 50 miles per gallon.",
+    "To find out how many gallons the first car uses, divide 150 miles by 50 miles per gallon: 150 / 50 = 3 gallons.",
+    "The second car averages 10 miles per gallon.",
+    "To find out how many gallons the second car uses, divide 150 miles by 10 miles per gallon: 150 / 10 = 15 gallons.",
+    "The third car averages 15 miles per gallon.",
+    "To find out how many gallons the third car uses, divide 150 miles by 15 miles per gallon: 150 / 15 = 10 gallons.",
+    "Add the number of gallons used by each car to find the total number used: 3 + 15 + 10 = 28 gallons.",
+    "Gas costs $2 per gallon.",
+    "To find out the total cost, multiply the total number of gallons by the cost per gallon: 28 gallons * $2/gallon = $56."
+  ],
+  "solution": "56"
+}

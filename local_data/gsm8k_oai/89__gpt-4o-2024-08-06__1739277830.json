@@ -1,0 +1,16 @@
+{
+  "query": "Krystian works in the library. He borrows an average of 40 books every day. Every Friday, his number of borrowed books is about 40% higher than the daily average. How many books does he borrow in a week if the library is open from Monday to Friday?",
+  "steps": [
+    "First, I need to determine the number of days the library is open, which is from Monday to Friday.",
+    "The library is open 5 days a week.",
+    "Krystian borrows 40 books on average every day from Monday to Thursday.",
+    "Calculate the total number of books borrowed from Monday to Thursday.",
+    "From Monday to Thursday, he borrows 4 days * 40 books/day = 160 books.",
+    "On Friday, he borrows about 40% more books than the daily average.",
+    "40% of 40 books is 0.40 * 40 = 16 books.",
+    "On Friday, he borrows 40 books + 16 more books = 56 books.",
+    "Now, add the books borrowed from Monday to Thursday with the books borrowed on Friday to find the total for the week.",
+    "160 books (Mon-Thu) + 56 books (Fri) = 216 books."
+  ],
+  "solution": "216"
+}

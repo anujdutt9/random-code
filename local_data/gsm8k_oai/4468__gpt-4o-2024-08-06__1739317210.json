@@ -1,0 +1,29 @@
+{
+  "query": "Owen bought 12 boxes of face masks that cost $9 per box. Each box has 50 pieces of masks. He repacked 6 of these boxes and sold them for $5 per 25 pieces. He sold the remaining 300 face masks in baggies at the rate of 10 pieces of mask for $3. How much profit did he make?",
+  "steps": [
+    "First, I need to determine how much Owen initially spent on the face masks.",
+    "Owen bought 12 boxes, and each box costs $9.",
+    "So, the total cost is 12 boxes * $9 per box = $108.",
+    "Next, I need to figure out how many total face masks Owen has.",
+    "Each box contains 50 pieces, and he bought 12 boxes.",
+    "Therefore, he has 12 boxes * 50 masks per box = 600 face masks in total.",
+    "He repacked and sold 6 of these boxes first.",
+    "Each of those 6 boxes also contains 50 face masks, for a total of 6 boxes * 50 masks per box = 300 face masks.",
+    "He sold these 300 masks at a price of $5 per 25 masks.",
+    "To find how many groups of 25 masks are in 300 masks, I divide 300 by 25.",
+    "300 divided by 25 is 12.",
+    "So, he sold 12 groups of 25 masks.",
+    "For each group, he earns $5, so he makes 12 * $5 = $60 from selling these masks.",
+    "For the remaining 300 face masks, he sells them at the rate of 10 masks per $3.",
+    "To find how many groups of 10 masks he sells from 300 masks, I divide 300 by 10.",
+    "300 divided by 10 is 30.",
+    "So, he sold 30 groups of 10 masks.",
+    "For each group of 10 masks, he earns $3, so he makes 30 * $3 = $90 from selling these.",
+    "To find the total earnings, I add the earnings from selling both sets of masks.",
+    "$60 (from the repacked boxes) + $90 (from bagged masks) = $150.",
+    "Now, to find the profit, I subtract his initial cost from his total earnings.",
+    "His total earnings ($150) minus the total cost ($108) equals his profit.",
+    "$150 - $108 = $42"
+  ],
+  "solution": "42"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Yuko likes to play board games. He decides to play a game with his brother Yuri. They must roll 3 dice at the same time and move the squares corresponding to the value of the 3 dice. Yuri started and his dice had the following combination: 2, 4, and 5. On Yuko's turn, he rolled 1, 5, and X. How many squares must Yuko's last die move him so that he is in front of his brother?",
+  "steps": [
+    "First, I need to determine how many squares Yuri moved.",
+    "Yuri rolled 2, 4, and 5 on the dice.",
+    "The total movement for Yuri would be 2 + 4 + 5.",
+    "Calculating Yuri's total movement: 2 + 4 + 5 = 11.",
+    "Next, I calculate how many squares Yuko has moved.",
+    "Yuko rolled 1, 5, and X. His current known movement is 1 + 5.",
+    "Calculating Yuko's known movement: 1 + 5 = 6.",
+    "Yuko needs to have a total that is strictly greater than Yuri's total of 11 to be in front.",
+    "So, Yuko's total movement needs to be more than 11.",
+    "This means: 6 + X > 11.",
+    "Solving for X: X > 11 - 6.",
+    "Calculating 11 - 6 gives us 5.",
+    "Thus, X must be greater than 5.",
+    "Since X must be an integer representing a die roll and a die has a maximum face value of 6, the only integer greater than 5 is 6."
+  ],
+  "solution": "6"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "George's bowling team is one round away from breaking the league record for most points scored in a season. The old record is an average score per player of 287 per round. Each team has 4 players and there are 10 rounds in the season. Through the first 9 rounds, his team has scored a total of 10,440. How many points less than the current league record per game average is the minimum average they need to score, per player, in the final round to tie the league record?",
+  "steps": [
+    "First, I'll calculate the total points needed to tie the league record.",
+    "The league record is an average of 287 points per player per round.",
+    "Each team has 4 players, so the total per team per round is 287 * 4.",
+    "287 points/player/round * 4 players = 1148 points/team/round.",
+    "To find the total points needed for 10 rounds to tie the record, I'll multiply the points per team per round by the number of rounds.",
+    "1148 points/team/round * 10 rounds = 11,480 points to tie the league record.",
+    "Next, I'll find how many more points George's team needs to score in the final round to reach 11,480 points overall.",
+    "Through the first 9 rounds, George's team has scored 10,440 points.",
+    "Subtracting their current total from the points needed, we get 11,480 - 10,440 = 1,040 points needed in the final round.",
+    "Now, I'll calculate the average score per player needed in the final round.",
+    "The team consists of 4 players, so I divide the required points by the number of players.",
+    "1,040 points / 4 players = 260 points per player needed in the final round.",
+    "Finally, I'll calculate how many points less than the current league record average of 287 points per player this is.",
+    "287 - 260 = 27 points less than the current league record per game average."
+  ],
+  "solution": "27"
+}

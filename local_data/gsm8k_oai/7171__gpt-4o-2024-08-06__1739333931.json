@@ -1,0 +1,18 @@
+{
+  "query": "A crayon factory makes 4 colors of crayons. They put 2 of each color crayon in each box. The factory produces enough crayons to fill 5 boxes per hour. How many crayons does the factory produce in 4 hours?",
+  "steps": [
+    "First, I need to find out how many crayons are in one box.",
+    "There are 2 of each color in a box and 4 colors.",
+    "So one box contains 2 crayons per color times 4 colors, which is 2 * 4.",
+    "Therefore, each box contains 8 crayons.",
+    "Next, I need to determine how many boxes are produced in 4 hours.",
+    "The factory produces 5 boxes per hour.",
+    "In 4 hours, they would produce 5 boxes/hour * 4 hours.",
+    "5 boxes/hour * 4 hours = 20 boxes.",
+    "Each box contains 8 crayons.",
+    "So the total number of crayons produced is 20 boxes * 8 crayons/box.",
+    "20 boxes * 8 crayons/box = 160 crayons.",
+    "Thus, the factory produces 160 crayons in 4 hours."
+  ],
+  "solution": "160"
+}

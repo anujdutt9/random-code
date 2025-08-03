@@ -1,0 +1,13 @@
+{
+  "query": "Grayson has 100 questions on a test. He answers some of the questions for 2 hours, taking two minutes for each answer, then realizes he doesn't know the rest of the questions. How many questions does Grayson leave unanswered when he submits his test?",
+  "steps": [
+    "Grayson answers questions for 2 hours.",
+    "There are 60 minutes in an hour, so 2 hours is 120 minutes.",
+    "Grayson takes 2 minutes to answer each question.",
+    "To find out how many questions he answers, divide the total time by the time per question: 120 minutes \u00f7 2 minutes per question = 60 questions.",
+    "Grayson has 100 questions total on the test.",
+    "He answers 60 questions.",
+    "To find out how many questions are unanswered, subtract the answered questions from the total questions: 100 questions - 60 questions = 40 questions."
+  ],
+  "solution": "40"
+}

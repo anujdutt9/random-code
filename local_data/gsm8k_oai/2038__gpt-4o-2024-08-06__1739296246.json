@@ -1,0 +1,21 @@
+{
+  "query": "It takes 50 minutes to cut a woman's hair, 15 minutes to cut a man's hair, and 25 minutes to cut a kid's hair.  If Joe cut 3 women's, 2 men's, and 3 children's hair, how much time did he spend cutting hair?",
+  "steps": [
+    "First, I need to figure out how much time it took Joe to cut the women's hair.",
+    "Joe cut 3 women's hair, and it takes 50 minutes to cut one woman's hair.",
+    "Multiply 3 by 50 to get the total time for the women's haircuts.",
+    "3 * 50 = 150 minutes for the women's haircuts.",
+    "Next, I need to calculate the time spent on men's haircuts.",
+    "Joe cut 2 men's hair, and it takes 15 minutes to cut one man's hair.",
+    "Multiply 2 by 15 to get the total time for the men's haircuts.",
+    "2 * 15 = 30 minutes for the men's haircuts.",
+    "Now, I need to find out how much time was spent on children's haircuts.",
+    "Joe cut 3 children's hair, and it takes 25 minutes to cut one child's hair.",
+    "Multiply 3 by 25 to get the total time for the children's haircuts.",
+    "3 * 25 = 75 minutes for the children's haircuts.",
+    "Now, I need to add up the time spent on all haircuts.",
+    "Add 150 minutes (women) to 30 minutes (men) and 75 minutes (children).",
+    "150 + 30 + 75 = 255 minutes in total."
+  ],
+  "solution": "255"
+}

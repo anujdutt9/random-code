@@ -1,0 +1,19 @@
+{
+  "query": "The GooGoo brand of clothing manufactures two types of shirts, one with 3 buttons and the other with 5 buttons.  A large department store ordered GooGoo to manufacture 200 of each type of shirt.  How many buttons will the GooGoo brand use to manufacturer all of the shirts for this order?",
+  "steps": [
+    "The problem involves two types of shirts, one with 3 buttons and another with 5 buttons.",
+    "The department store ordered 200 shirts of each type.",
+    "First, calculate the total number of 3-button shirts ordered.",
+    "There are 200 shirts with 3 buttons each.",
+    "So, the total number of buttons needed for the 3-button shirts is 200 shirts * 3 buttons/shirt.",
+    "200 * 3 = 600",
+    "Next, calculate the total number of 5-button shirts ordered.",
+    "There are 200 shirts with 5 buttons each.",
+    "So, the total number of buttons needed for the 5-button shirts is 200 shirts * 5 buttons/shirt.",
+    "200 * 5 = 1000",
+    "Finally, add the buttons needed for both types of shirts to get the total number of buttons used.",
+    "Total buttons = 600 (from 3-button shirts) + 1000 (from 5-button shirts)",
+    "600 + 1000 = 1600"
+  ],
+  "solution": "1600"
+}

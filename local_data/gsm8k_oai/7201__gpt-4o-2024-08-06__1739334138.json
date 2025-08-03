@@ -1,0 +1,15 @@
+{
+  "query": "In one day, 200 people visit The Metropolitan Museum of Art in New York City. Half of the visitors are residents of New York City. Of the NYC residents, 30% are college students. If the cost of a college student ticket is $4, how much money does the museum get from college students that are residents of NYC?",
+  "steps": [
+    "The total number of visitors in one day is 200.",
+    "Half of the visitors are residents of New York City.",
+    "Half of 200 is 100. So, there are 100 NYC residents visiting.",
+    "30% of the NYC residents are college students.",
+    "30% of 100 is calculated as 100 * 0.30 = 30.",
+    "There are 30 college students who are NYC residents.",
+    "Each college student pays $4 for a ticket.",
+    "The total revenue from these college students is 30 students * $4 per student.",
+    "Calculating 30 * 4 gives us $120."
+  ],
+  "solution": "120"
+}

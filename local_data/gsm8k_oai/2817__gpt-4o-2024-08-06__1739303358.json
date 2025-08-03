@@ -1,0 +1,16 @@
+{
+  "query": "Elvis is releasing a new album with 10 songs, but he doesn't want to waste too much time on writing. He spends 5 hours in the studio, where he writes, records, and edits his songs. Each song takes 12 minutes to record, then it takes 30 minutes to edit all of his songs.   How many minutes did it take Elvis to write each song, if each song took the same amount of time to write?",
+  "steps": [
+    "Elvis has 5 hours in total for the entire process of writing, recording, and editing.",
+    "5 hours is equivalent to 5 * 60 = 300 minutes.",
+    "Each song takes 12 minutes to record.",
+    "Elvis has 10 songs to record, so the recording time for all songs is 10 * 12 = 120 minutes.",
+    "It takes 30 minutes to edit all of his songs.",
+    "Thus, the time spent on recording and editing combined is 120 + 30 = 150 minutes.",
+    "The total time available is 300 minutes, and he's used 150 minutes on recording and editing.",
+    "Therefore, the time left for writing the songs is 300 - 150 = 150 minutes.",
+    "There are 10 songs, and each song took the same amount of time to write.",
+    "So, the time spent writing each song is 150 / 10 = 15 minutes."
+  ],
+  "solution": "15"
+}

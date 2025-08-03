@@ -1,0 +1,246 @@
+{
+    "baseline_1": {
+        "run_0": {
+            "total_generated_tokens": 10360,
+            "total_generation_time": 104.30621075630188,
+            "average_generation_time": 1.0430621075630189,
+            "average_generated_tokens": 103.6,
+            "time_per_token": 0.0100681670614191,
+            "batch_size": 1,
+            "name": "baseline"
+        },
+        "run_1": {
+            "total_generated_tokens": 10360,
+            "total_generation_time": 104.31923127174377,
+            "average_generation_time": 1.0431923127174378,
+            "average_generated_tokens": 103.6,
+            "time_per_token": 0.010069423867928936,
+            "batch_size": 1,
+            "name": "baseline"
+        },
+        "run_2": {
+            "total_generated_tokens": 10360,
+            "total_generation_time": 104.26715159416199,
+            "average_generation_time": 1.0426715159416198,
+            "average_generated_tokens": 103.6,
+            "time_per_token": 0.010064396872023358,
+            "batch_size": 1,
+            "name": "baseline"
+        }
+    },
+    "cache_steering_1": {
+        "run_0": {
+            "total_generated_tokens": 21167,
+            "total_generation_time": 213.11030411720276,
+            "average_generation_time": 2.1311030411720275,
+            "average_generated_tokens": 211.67,
+            "time_per_token": 0.010068044792233324,
+            "batch_size": 1,
+            "name": "cache_steering"
+        },
+        "run_1": {
+            "total_generated_tokens": 21167,
+            "total_generation_time": 212.84963512420654,
+            "average_generation_time": 2.1284963512420654,
+            "average_generated_tokens": 211.67,
+            "time_per_token": 0.010055729915633135,
+            "batch_size": 1,
+            "name": "cache_steering"
+        },
+        "run_2": {
+            "total_generated_tokens": 21167,
+            "total_generation_time": 212.95787477493286,
+            "average_generation_time": 2.1295787477493286,
+            "average_generated_tokens": 211.67,
+            "time_per_token": 0.010060843519390223,
+            "batch_size": 1,
+            "name": "cache_steering"
+        }
+    },
+    "activation_steering_1_True": {
+        "run_0": {
+            "total_generated_tokens": 14448,
+            "total_generation_time": 228.08584332466125,
+            "average_generation_time": 2.2808584332466126,
+            "average_generated_tokens": 144.48,
+            "time_per_token": 0.01578667243387744,
+            "batch_size": 1,
+            "continuous": true,
+            "name": "activation_steering"
+        },
+        "run_1": {
+            "total_generated_tokens": 14448,
+            "total_generation_time": 228.11340856552124,
+            "average_generation_time": 2.2811340856552125,
+            "average_generated_tokens": 144.48,
+            "time_per_token": 0.01578858032707096,
+            "batch_size": 1,
+            "continuous": true,
+            "name": "activation_steering"
+        },
+        "run_2": {
+            "total_generated_tokens": 14448,
+            "total_generation_time": 228.1515610218048,
+            "average_generation_time": 2.2815156102180483,
+            "average_generated_tokens": 144.48,
+            "time_per_token": 0.015791221000955483,
+            "batch_size": 1,
+            "continuous": true,
+            "name": "activation_steering"
+        }
+    },
+    "activation_steering_1_False": {
+        "run_0": {
+            "total_generated_tokens": 12891,
+            "total_generation_time": 131.77936100959778,
+            "average_generation_time": 1.3177936100959777,
+            "average_generated_tokens": 128.91,
+            "time_per_token": 0.010222586378837776,
+            "batch_size": 1,
+            "continuous": false,
+            "name": "activation_steering"
+        },
+        "run_1": {
+            "total_generated_tokens": 12891,
+            "total_generation_time": 131.66233086585999,
+            "average_generation_time": 1.3166233086586,
+            "average_generated_tokens": 128.91,
+            "time_per_token": 0.01021350794087813,
+            "batch_size": 1,
+            "continuous": false,
+            "name": "activation_steering"
+        },
+        "run_2": {
+            "total_generated_tokens": 12891,
+            "total_generation_time": 131.74489903450012,
+            "average_generation_time": 1.3174489903450013,
+            "average_generated_tokens": 128.91,
+            "time_per_token": 0.010219913042781796,
+            "batch_size": 1,
+            "continuous": false,
+            "name": "activation_steering"
+        }
+    },
+    "baseline_16": {
+        "run_0": {
+            "total_generated_tokens": 25344,
+            "total_generation_time": 20.3217613697052,
+            "average_generation_time": 2.903108767100743,
+            "average_generated_tokens": 3620.5714285714284,
+            "time_per_token": 0.0008018371752566762,
+            "batch_size": 16,
+            "name": "baseline"
+        },
+        "run_1": {
+            "total_generated_tokens": 25344,
+            "total_generation_time": 20.354387760162354,
+            "average_generation_time": 2.9077696800231934,
+            "average_generated_tokens": 3620.5714285714284,
+            "time_per_token": 0.0008031245170518605,
+            "batch_size": 16,
+            "name": "baseline"
+        },
+        "run_2": {
+            "total_generated_tokens": 25344,
+            "total_generation_time": 20.357956886291504,
+            "average_generation_time": 2.9082795551845004,
+            "average_generated_tokens": 3620.5714285714284,
+            "time_per_token": 0.0008032653443139009,
+            "batch_size": 16,
+            "name": "baseline"
+        }
+    },
+    "cache_steering_16": {
+        "run_0": {
+            "total_generated_tokens": 28784,
+            "total_generation_time": 23.065977096557617,
+            "average_generation_time": 3.295139585222517,
+            "average_generated_tokens": 4112.0,
+            "time_per_token": 0.0008013471753945809,
+            "batch_size": 16,
+            "name": "cache_steering"
+        },
+        "run_1": {
+            "total_generated_tokens": 28784,
+            "total_generation_time": 23.04678726196289,
+            "average_generation_time": 3.2923981802804128,
+            "average_generated_tokens": 4112.0,
+            "time_per_token": 0.00080068049131333,
+            "batch_size": 16,
+            "name": "cache_steering"
+        },
+        "run_2": {
+            "total_generated_tokens": 28784,
+            "total_generation_time": 23.081207990646362,
+            "average_generation_time": 3.2973154272351946,
+            "average_generated_tokens": 4112.0,
+            "time_per_token": 0.000801876319852917,
+            "batch_size": 16,
+            "name": "cache_steering"
+        }
+    },
+    "activation_steering_16_True": {
+        "run_0": {
+            "total_generated_tokens": 28464,
+            "total_generation_time": 317.8437557220459,
+            "average_generation_time": 45.40625081743513,
+            "average_generated_tokens": 4066.285714285714,
+            "time_per_token": 0.011166517556283232,
+            "batch_size": 16,
+            "continuous": true,
+            "name": "activation_steering"
+        },
+        "run_1": {
+            "total_generated_tokens": 28464,
+            "total_generation_time": 319.84900665283203,
+            "average_generation_time": 45.692715236118865,
+            "average_generated_tokens": 4066.285714285714,
+            "time_per_token": 0.011236966225858349,
+            "batch_size": 16,
+            "continuous": true,
+            "name": "activation_steering"
+        },
+        "run_2": {
+            "total_generated_tokens": 28464,
+            "total_generation_time": 319.89827489852905,
+            "average_generation_time": 45.69975355693272,
+            "average_generated_tokens": 4066.285714285714,
+            "time_per_token": 0.011238697122629605,
+            "batch_size": 16,
+            "continuous": true,
+            "name": "activation_steering"
+        }
+    },
+    "activation_steering_16_False": {
+        "run_0": {
+            "total_generated_tokens": 27440,
+            "total_generation_time": 22.368688821792603,
+            "average_generation_time": 3.1955269745418002,
+            "average_generated_tokens": 3920.0,
+            "time_per_token": 0.0008151854526892348,
+            "batch_size": 16,
+            "continuous": false,
+            "name": "activation_steering"
+        },
+        "run_1": {
+            "total_generated_tokens": 27440,
+            "total_generation_time": 22.327264547348022,
+            "average_generation_time": 3.1896092210497176,
+            "average_generated_tokens": 3920.0,
+            "time_per_token": 0.0008136758216963565,
+            "batch_size": 16,
+            "continuous": false,
+            "name": "activation_steering"
+        },
+        "run_2": {
+            "total_generated_tokens": 27440,
+            "total_generation_time": 22.34075927734375,
+            "average_generation_time": 3.1915370396205356,
+            "average_generated_tokens": 3920.0,
+            "time_per_token": 0.0008141676121480959,
+            "batch_size": 16,
+            "continuous": false,
+            "name": "activation_steering"
+        }
+    }
+}

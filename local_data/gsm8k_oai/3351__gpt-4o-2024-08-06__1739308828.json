@@ -1,0 +1,16 @@
+{
+  "query": "Jefferson hires a carriage to go to the church.  It is 20 miles away.  The horse can go 10 miles per hour.  It cost $30 per hour plus a flat fee of $20.  How much did he pay for the carriage?",
+  "steps": [
+    "First, I need to calculate the time it takes for the carriage to travel 20 miles.",
+    "The horse can go 10 miles per hour, and the distance to the church is 20 miles.",
+    "To find the time, I use the formula: time = distance / speed.",
+    "So, time = 20 miles / 10 miles per hour = 2 hours.",
+    "Now, I calculate the cost for the time spent traveling.",
+    "The cost per hour is $30.",
+    "For 2 hours, the cost is 2 hours * $30/hour = $60.",
+    "In addition to the hourly cost, there is a flat fee of $20.",
+    "The total cost is the sum of the hourly cost and the flat fee.",
+    "So, total cost = $60 + $20 = $80."
+  ],
+  "solution": "80"
+}

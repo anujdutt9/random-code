@@ -1,0 +1,16 @@
+{
+  "query": "A milk teas shop was able to sell a total of 50 cups of milk tea yesterday. Two-fifths of their sales are winter melon flavor, three-tenths are Okinawa flavor, and the rest are chocolate flavor. How many cups of chocolate-flavored milk tea were they able to sell yesterday?",
+  "steps": [
+    "First, I need to determine how many cups of winter melon flavored milk tea were sold. I know that two-fifths of 50 cups were winter melon flavor.",
+    "To find the number of winter melon flavored cups, I calculate (2/5) * 50.",
+    "(2/5) * 50 = 20. So, 20 cups of winter melon flavor were sold.",
+    "Next, I will determine how many cups of Okinawa flavored milk tea were sold. Three-tenths of the 50 cups were Okinawa flavor.",
+    "To find the number of Okinawa flavored cups, I calculate (3/10) * 50.",
+    "(3/10) * 50 = 15. So, 15 cups of Okinawa flavor were sold.",
+    "Now, I need to find how many cups of chocolate flavored milk tea were sold. The rest of the sales were chocolate flavor.",
+    "The total sales of winter melon and Okinawa flavors is 20 + 15 = 35 cups.",
+    "To find the chocolate flavored milk tea sales, I subtract the total flavored cups from the overall total: 50 - 35.",
+    "50 - 35 = 15. Therefore, 15 cups of chocolate flavored milk tea were sold."
+  ],
+  "solution": "15"
+}

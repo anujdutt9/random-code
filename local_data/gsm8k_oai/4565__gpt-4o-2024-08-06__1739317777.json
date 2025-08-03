@@ -1,0 +1,18 @@
+{
+  "query": "Yoque borrowed money from her sister. She promised to pay it back in 11 months including an additional 10% of the money she borrowed. If she pays $15 per month, how much money did she borrow?",
+  "steps": [
+    "Yoque is paying $15 per month for 11 months.",
+    "The total amount she pays back is 11 months multiplied by $15 per month.",
+    "11 months times $15 per month equals $165.",
+    "This $165 includes the original borrowed amount and an additional 10% of the borrowed amount.",
+    "Let's denote the amount borrowed by Yoque as X.",
+    "Including the 10%, Yoque has to pay back X + 0.10X.",
+    "The total amount paid back (with the interest) is 1.10X.",
+    "We know that 1.10X equals the total amount she pays back, which is $165.",
+    "Now, I will set up the equation: 1.10X = $165.",
+    "To find X, I need to divide both sides of the equation by 1.10.",
+    "X = $165 / 1.10.",
+    "Performing the division gives X = $150."
+  ],
+  "solution": "150"
+}

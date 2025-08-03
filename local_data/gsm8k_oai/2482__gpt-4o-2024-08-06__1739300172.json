@@ -1,0 +1,16 @@
+{
+  "query": "Jenna is hemming her prom dress. The dress's hem is 3 feet long. Each stitch Jenna makes is 1/4 inch long. If Jenna makes 24 stitches per minute, how many minutes does it take Jenna to hem her dress?",
+  "steps": [
+    "First, I need to convert the length of the hem from feet to inches.",
+    "There are 12 inches in a foot. So, I multiply 3 feet by 12 inches per foot.",
+    "3 feet * 12 inches/foot = 36 inches.",
+    "Now I know the hem length is 36 inches.",
+    "Each stitch Jenna makes is 1/4 inch long.",
+    "To find out how many stitches Jenna needs to make, I'll divide the total hem length by the length of each stitch.",
+    "36 inches / (1/4 inch per stitch) = 36 * 4 = 144 stitches.",
+    "Jenna makes 24 stitches per minute.",
+    "To find out how many minutes it takes, I'll divide the total number of stitches by the number of stitches per minute.",
+    "144 stitches / 24 stitches/minute = 6 minutes."
+  ],
+  "solution": "6"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Phil has 10 books that are all 100 pages each.  He moves to a new home and during the move, 2 books are lost.  How many pages worth of books does Phil have left?",
+  "steps": [
+    "Phil initially has 10 books.",
+    "Each book has 100 pages.",
+    "The total number of pages initially is 10 books multiplied by 100 pages per book.",
+    "10 books * 100 pages/book = 1000 pages.",
+    "During the move, 2 books are lost.",
+    "The total number of remaining books is 10 - 2.",
+    "10 - 2 = 8 books left.",
+    "Each of the 8 remaining books has 100 pages.",
+    "The total number of pages left is 8 books multiplied by 100 pages per book.",
+    "8 books * 100 pages/book = 800 pages."
+  ],
+  "solution": "800"
+}

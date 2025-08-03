@@ -1,0 +1,19 @@
+{
+  "query": "Peyton Manning throws a football 20 yards when the temperature is 50 degrees Fahrenheit, but the ball moves twice as far when the temperature is 80 degrees Fahrenheit. Last Saturday, the temperature was 50 degrees Fahrenheit, and he threw the ball twenty times. On Sunday, the temperature rose to 80 degrees Fahrenheit, and he threw the ball 30 times. Calculate the total number of yards he threw the ball in the two days.",
+  "steps": [
+    "On Saturday, the temperature was 50 degrees Fahrenheit.",
+    "At 50 degrees Fahrenheit, a single throw covers 20 yards.",
+    "Peyton Manning threw the ball 20 times on Saturday.",
+    "For each throw on this day, the ball covered 20 yards. Therefore, the total distance covered on Saturday is 20 throws multiplied by 20 yards per throw.",
+    "20 throws * 20 yards/throw = 400 yards",
+    "On Sunday, the temperature was 80 degrees Fahrenheit.",
+    "At 80 degrees Fahrenheit, the ball moves twice as far as it does at 50 degrees. Therefore, a single throw covers 40 yards (2 * 20 yards).",
+    "Peyton Manning threw the ball 30 times on Sunday.",
+    "For each throw on this day, the ball covered 40 yards. Therefore, the total distance covered on Sunday is 30 throws multiplied by 40 yards per throw.",
+    "30 throws * 40 yards/throw = 1200 yards",
+    "Now, we need to calculate the total number of yards he threw over the two days.",
+    "The total on Saturday was 400 yards, and the total on Sunday was 1200 yards.",
+    "400 yards + 1200 yards = 1600 yards"
+  ],
+  "solution": "1600"
+}

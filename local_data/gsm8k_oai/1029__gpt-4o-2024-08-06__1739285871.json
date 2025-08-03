@@ -1,0 +1,13 @@
+{
+  "query": "Farmer Red has three milk cows: Bess, Brownie, and Daisy. Bess, the smallest cow, gives him two pails of milk every day. Brownie, the largest cow, produces three times that amount. Then Daisy makes one pail more than Bess. How many pails of milk does Farmer Red get from them each week?",
+  "steps": [
+    "I start by identifying the amount of milk Bess gives. Bess gives two pails of milk each day.",
+    "Next, I calculate the amount of milk Brownie gives. Since Brownie gives three times the amount Bess does, Brownie gives 2 pails/day * 3 = 6 pails of milk each day.",
+    "Now, I'll determine how much milk Daisy provides. Daisy gives one pail more than Bess, which means Daisy gives 2 pails/day + 1 pail/day = 3 pails of milk each day.",
+    "To find the total daily milk production, I add the amounts from each cow. Bess provides 2 pails, Brownie provides 6 pails, and Daisy provides 3 pails.",
+    "Adding these together: 2 pails + 6 pails + 3 pails = 11 pails per day.",
+    "Now, I need to calculate the weekly total. Since there are 7 days in a week, the weekly production is 11 pails/day * 7 days/week.",
+    "After multiplying, I find the total weekly milk production is 77 pails."
+  ],
+  "solution": "77"
+}

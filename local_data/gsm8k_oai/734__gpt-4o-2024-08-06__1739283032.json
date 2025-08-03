@@ -1,0 +1,17 @@
+{
+  "query": "Chang's Garden has two kinds of apples. Sweet ones and sour ones. He can sell the sweet ones for $.5 an apple. The sour ones sell for $.1 an apple. 75% of the apples he gets are sweet and the rest are sour. If he earns $40, how many apples did his trees give him?",
+  "steps": [
+    "To solve this problem, I first need to define variables for the total number of apples.",
+    "Let \\( x \\) be the total number of apples produced by Chang's Garden.",
+    "From the problem, 75% of the apples are sweet, so the number of sweet apples is \\( 0.75x \\).",
+    "The remaining 25% of the apples are sour, so the number of sour apples is \\( 0.25x \\).",
+    "Sweet apples sell for $0.5 each. Therefore, the revenue from selling sweet apples is \\( 0.5 \\times 0.75x = 0.375x \\).",
+    "Sour apples sell for $0.1 each. Therefore, the revenue from selling sour apples is \\( 0.1 \\times 0.25x = 0.025x \\).",
+    "The total revenue from both sweet and sour apples is given as $40.",
+    "I can set up the equation from the revenues: \\( 0.375x + 0.025x = 40 \\).",
+    "Combine like terms: \\( 0.4x = 40 \\).",
+    "To find \\( x \\), divide both sides by 0.4: \\( x = \\frac{40}{0.4} \\).",
+    "Calculate \\( x \\): \\( x = 100 \\)."
+  ],
+  "solution": "100"
+}

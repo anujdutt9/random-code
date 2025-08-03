@@ -1,0 +1,19 @@
+{
+  "query": "Dan's skateboarding helmet has ten more craters than Daniel's ski helmet. Rin's snorkel helmet has 15 more craters than Dan's and Daniel's helmets combined. If Rin's helmet has 75 craters, how many craters are in Dan's helmet?",
+  "steps": [
+    "Let's start by defining variables: let D be the number of craters on Dan's skateboarding helmet, and let's call the number of craters on Daniel's ski helmet d.",
+    "We are told that Dan's helmet has ten more craters than Daniel's. So, we can express this as D = d + 10.",
+    "Next, we know that Rin's snorkel helmet has 15 more craters than Dan's and Daniel's helmets combined, and Rin's helmet has a total of 75 craters.",
+    "We can express the condition involving Rin\u2019s helmet mathematically as: R = (D + d) + 15, where R is the total craters in Rin's helmet.",
+    "Substituting the given value, Rin's helmet has 75 craters: 75 = (D + d) + 15.",
+    "Subtract 15 from both sides to isolate D + d: 75 - 15 = D + d, which simplifies to D + d = 60.",
+    "Now we have two equations: D = d + 10 and D + d = 60.",
+    "Substitute the first equation (D = d + 10) into the second equation (D + d = 60): (d + 10) + d = 60.",
+    "Simplify the equation: 2d + 10 = 60.",
+    "Subtract 10 from both sides to solve for 2d: 2d = 50.",
+    "Divide both sides by 2 to solve for d: d = 25.",
+    "Now, substitute d = 25 back into the equation D = d + 10 to find D.",
+    "D = 25 + 10, which simplifies to D = 35."
+  ],
+  "solution": "35"
+}

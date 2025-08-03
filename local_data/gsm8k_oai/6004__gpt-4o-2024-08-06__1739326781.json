@@ -1,0 +1,16 @@
+{
+  "query": "It takes 50 large jelly beans to fill up a large drinking glass.  It takes half that amount to fill up a small drinking glass.  If there are 5 large drinking glasses and 3 small ones, how many jellybeans will it take to fill them up?",
+  "steps": [
+    "First, determine how many large jelly beans are needed to fill one small drinking glass.",
+    "Since it takes 50 jelly beans to fill a large drinking glass, and it takes half that amount for a small one, a small glass requires 50 / 2 = 25 jelly beans.",
+    "Next, calculate the total number of jelly beans needed for the large drinking glasses.",
+    "There are 5 large drinking glasses, and each requires 50 jelly beans.",
+    "So, the total jelly beans for the large glasses is 5 * 50 = 250 jelly beans.",
+    "Now, calculate the total jelly beans needed for the small drinking glasses.",
+    "There are 3 small drinking glasses, and each requires 25 jelly beans.",
+    "So, the total jelly beans for the small glasses is 3 * 25 = 75 jelly beans.",
+    "Add the jelly beans needed for the large glasses to the jelly beans needed for the small glasses to find the total number of jelly beans.",
+    "The total number of jelly beans is 250 + 75 = 325 jelly beans."
+  ],
+  "solution": "325"
+}

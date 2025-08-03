@@ -1,0 +1,14 @@
+{
+  "query": "Doris earns $20 per hour by babysitting. She needs to earn at least $1200 for her monthly expenses. She can babysit for 3 hours every weekday and 5 hours on a Saturday.  How many weeks does it take for Doris to earn enough to cover her monthly expenses?",
+  "steps": [
+    "First, let's determine how many hours Doris can work each week.",
+    "Doris can work 3 hours per weekday, so she works 3 hours/day * 5 days/week = 15 hours on weekdays.",
+    "On Saturday, Doris works for 5 hours.",
+    "Thus, the total number of hours Doris can work each week is 15 (weekdays) + 5 (Saturday) = 20 hours.",
+    "Now, let's calculate how much Doris earns per week.",
+    "Doris earns $20 per hour. So, she earns 20 hours/week * $20/hour = $400 per week.",
+    "Doris needs to earn at least $1200 for her monthly expenses.",
+    "To find out how many weeks she needs to work, we divide her monthly expenses by her weekly earnings: $1200 / $400/week = 3 weeks."
+  ],
+  "solution": "3"
+}

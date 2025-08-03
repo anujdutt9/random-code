@@ -1,0 +1,14 @@
+{
+  "query": "A dental office gives away 2 toothbrushes to every patient who visits.  His 8 hour days are packed and each visit takes .5 hours.  How many toothbrushes does he give in a 5 day work week?",
+  "steps": [
+    "Each patient visit takes 0.5 hours.",
+    "In one hour, the dentist can see 2 patients (since 1 hour / 0.5 hours per patient = 2 patients).",
+    "The dentist works an 8-hour day.",
+    "In one day, the dentist can see 8 * 2 = 16 patients.",
+    "Each patient receives 2 toothbrushes.",
+    "In one day, the dentist gives away 16 patients * 2 toothbrushes per patient = 32 toothbrushes.",
+    "The dentist works 5 days in a week.",
+    "In a 5-day work week, the dentist gives away 5 days * 32 toothbrushes per day = 160 toothbrushes."
+  ],
+  "solution": "160"
+}

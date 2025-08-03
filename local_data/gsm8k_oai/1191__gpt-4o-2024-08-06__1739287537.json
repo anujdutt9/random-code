@@ -1,0 +1,15 @@
+{
+  "query": "Wally buys bears at the park. A bear is priced at $4.00 for the first bear and a discount of 50 cents per bear is given after that. How much does Wally pay for 101 bears?",
+  "steps": [
+    "First, I note that the first bear costs $4.00.",
+    "Every subsequent bear is subject to a 50 cent discount, so each of those bears costs $4.00 - $0.50 = $3.50.",
+    "I need to find out how much Wally pays for 101 bears in total.",
+    "The cost of the first bear is $4.00.",
+    "There are 101 bears in total, and I've already accounted for the first bear. Thus, there are 101 - 1 = 100 more bears.",
+    "Each of those 100 additional bears costs $3.50.",
+    "The total cost for those 100 bears is 100 * $3.50 = $350.00.",
+    "Including the first bear, the total cost is $4.00 + $350.00.",
+    "Now I add these amounts together: $4.00 + $350.00 = $354.00."
+  ],
+  "solution": "354"
+}

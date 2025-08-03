@@ -1,0 +1,14 @@
+{
+  "query": "Hannah ran 9 kilometers on Monday. She ran 4816 meters on Wednesday and 2095 meters on Friday. How many meters farther did she run on Monday than Wednesday and Friday combined?",
+  "steps": [
+    "First, I need to convert all distances to the same unit. Hannah ran 9 kilometers on Monday. There are 1000 meters in a kilometer.",
+    "Multiply 9 kilometers by 1000 to convert the distance to meters: \\(9 \\times 1000 = 9000\\) meters.",
+    "On Wednesday, Hannah ran 4816 meters.",
+    "On Friday, Hannah ran 2095 meters.",
+    "Now, I need to find the total distance Hannah ran on Wednesday and Friday. I'll add the distances from Wednesday and Friday: \\(4816 + 2095\\).",
+    "Adding 4816 and 2095 gives \\(4816 + 2095 = 6911\\) meters.",
+    "To find out how many meters farther Hannah ran on Monday than Wednesday and Friday combined, I will subtract the total distance of Wednesday and Friday from Monday's distance.",
+    "Subtracting 6911 meters from 9000 meters gives \\(9000 - 6911 = 2089\\) meters."
+  ],
+  "solution": "2089"
+}

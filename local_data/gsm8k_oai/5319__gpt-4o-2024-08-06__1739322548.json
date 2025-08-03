@@ -1,0 +1,19 @@
+{
+  "query": "400 adults and 200 children go to a Broadway show. The price of an adult ticket is twice that of a child's ticket. What is the price of an adult ticket if the total amount collected is $16,000?",
+  "steps": [
+    "To solve this problem, I'll start by defining the variables. Let \\( x \\) be the price of a child's ticket.",
+    "According to the problem, the price of an adult ticket is twice that of a child's ticket. Therefore, the price of an adult ticket would be \\( 2x \\).",
+    "Next, I need to consider the number of adults and children. There are 400 adults and 200 children attending the show.",
+    "The total amount collected is given as $16,000. I need to set up an equation representing the total amount from the tickets sold.",
+    "The total revenue from adult tickets is \\( 400 \\times 2x = 800x \\).",
+    "The total revenue from children's tickets is \\( 200 \\times x = 200x \\).",
+    "The total revenue from both adult and children's tickets is the sum of these amounts, which is \\( 800x + 200x \\).",
+    "This equals the total amount collected, so the equation is \\( 800x + 200x = 16000 \\).",
+    "Simplifying the equation, I get \\( 1000x = 16000 \\).",
+    "To find \\( x \\), I need to divide both sides of the equation by 1000.",
+    "So, \\( x = \\frac{16000}{1000} \\).",
+    "This simplifies to \\( x = 16 \\).",
+    "Now, since \\( x \\) is the price of a child's ticket, and the adult ticket is twice this, the price of an adult ticket is \\( 2 \\times 16 = 32 \\)."
+  ],
+  "solution": "32"
+}

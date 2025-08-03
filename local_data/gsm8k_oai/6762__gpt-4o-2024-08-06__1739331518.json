@@ -1,0 +1,14 @@
+{
+  "query": "A third of all the cats in the village have spots. A quarter of the spotted cats in the village are fluffy. If there are 120 cats in the village, how many of the cats are spotted and fluffy?",
+  "steps": [
+    "First, calculate the number of cats in the village that have spots. This is one third of all the cats.",
+    "The total number of cats in the village is 120.",
+    "To find the number of spotted cats, calculate \\(\\frac{1}{3} \\times 120\\).",
+    "\\(\\frac{1}{3} \\times 120 = 40\\). So, there are 40 spotted cats in the village.",
+    "Next, find the number of spotted cats that are also fluffy. This is a quarter of the spotted cats.",
+    "Calculate \\(\\frac{1}{4} \\times 40\\).",
+    "\\(\\frac{1}{4} \\times 40 = 10\\).",
+    "There are 10 cats that are both spotted and fluffy."
+  ],
+  "solution": "10"
+}

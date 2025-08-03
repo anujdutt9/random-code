@@ -1,0 +1,23 @@
+{
+  "query": "Arthur knows that he needs to finish 800 pages of reading over the summer. He has read 80% of a 500-page book and 1/5 of a 1000 page book. How many more pages does he need to reach to meet his goal?",
+  "steps": [
+    "First, I need to determine how many pages Arthur has already read in each book.",
+    "For the first book, Arthur has read 80% of a 500-page book.",
+    "To find out how many pages that is, I multiply 500 by 0.8.",
+    "500 * 0.8 = 400 pages.",
+    "Arthur has read 400 pages of the first book.",
+    "Next, I need to determine how many pages he has read in the second book.",
+    "He has read 1/5 of a 1000-page book.",
+    "To find out how many pages that is, I divide 1000 by 5.",
+    "1000 / 5 = 200 pages.",
+    "Arthur has read 200 pages of the second book.",
+    "Now, I will add the pages read from both books to find out the total number of pages he has read so far.",
+    "400 pages from the first book + 200 pages from the second book = 600 pages.",
+    "Arthur has read a total of 600 pages.",
+    "Arthur's goal is to read 800 pages over the summer.",
+    "I need to find out how many more pages he needs to read to reach his goal.",
+    "I will subtract the number of pages he has already read from his goal.",
+    "800 - 600 = 200 pages."
+  ],
+  "solution": "200"
+}

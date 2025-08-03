@@ -1,0 +1,33 @@
+{
+  "query": "Malcolm has 240 followers on Instagram and 500 followers on Facebook. The number of followers he has on Twitter is half the number of followers he has on Instagram and Facebook combined. Meanwhile, the number of followers he has on TikTok is 3 times the number of followers is has on Twitter, and he has 510 more followers on Youtube than he has on TikTok. How many followers does Malcolm have on all his social media?",
+  "steps": [
+    "Malcolm has 240 followers on Instagram.",
+    "He also has 500 followers on Facebook.",
+    "To find out how many followers he has on Instagram and Facebook combined, I add 240 and 500.",
+    "240 + 500 = 740",
+    "The number of followers Malcolm has on Twitter is half the combined number of followers he has on Instagram and Facebook.",
+    "I need to calculate half of 740.",
+    "740 / 2 = 370",
+    "So, Malcolm has 370 followers on Twitter.",
+    "The number of followers Malcolm has on TikTok is 3 times the number of followers he has on Twitter.",
+    "I need to multiply the number of Twitter followers by 3.",
+    "370 * 3 = 1110",
+    "Malcolm has 1110 followers on TikTok.",
+    "He has 510 more followers on Youtube than he has on TikTok.",
+    "I need to add 510 to the number of TikTok followers to find the number of YouTube followers.",
+    "1110 + 510 = 1620",
+    "So, Malcolm has 1620 followers on YouTube.",
+    "Now, I sum up all the followers from each social media platform: Instagram, Facebook, Twitter, TikTok, and YouTube.",
+    "Instagram followers: 240",
+    "Facebook followers: 500",
+    "Twitter followers: 370",
+    "TikTok followers: 1110",
+    "YouTube followers: 1620",
+    "Adding these together: 240 + 500 + 370 + 1110 + 1620",
+    "240 + 500 = 740",
+    "740 + 370 = 1110",
+    "1110 + 1110 = 2220",
+    "2220 + 1620 = 3840"
+  ],
+  "solution": "3840"
+}

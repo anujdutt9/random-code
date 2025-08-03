@@ -1,0 +1,13 @@
+{
+  "query": "Stephen ordered 2 large pizzas, both cut into 12 slices.  He ate 25% of the pizza.  His friend Pete ate 50% of the remaining pizza.  How many slices are left over?",
+  "steps": [
+    "Each large pizza is cut into 12 slices, so 2 pizzas are equal to \\(2 \\times 12 = 24\\) slices in total.",
+    "Stephen ate 25% of the pizza, so I need to find out how many slices that is.",
+    "25% of 24 slices is \\(0.25 \\times 24 = 6\\) slices.",
+    "After Stephen ate 6 slices, there are \\(24 - 6 = 18\\) slices left.",
+    "Pete then eats 50% of the remaining pizza, which is 50% of 18 slices.",
+    "50% of 18 slices is \\(0.5 \\times 18 = 9\\) slices.",
+    "After Pete eats 9 slices, there are \\(18 - 9 = 9\\) slices left."
+  ],
+  "solution": "9"
+}

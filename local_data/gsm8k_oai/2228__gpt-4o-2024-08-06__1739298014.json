@@ -1,0 +1,17 @@
+{
+  "query": "Billy has four horses. Each one eats 4 pounds of oats, twice a day. How many pounds of oats does he need to feed his horses for 3 days?",
+  "steps": [
+    "First, I need to find out how many pounds of oats one horse eats in a day.",
+    "Each horse eats 4 pounds of oats twice a day.",
+    "So, in one day, a single horse eats 4 pounds in the morning and 4 pounds in the evening.",
+    "Therefore, one horse eats 4 + 4 = 8 pounds of oats per day.",
+    "Next, I need to calculate how many pounds of oats all four horses eat in a day.",
+    "Each horse eats 8 pounds per day, so four horses eat 4 \u00d7 8 pounds per day.",
+    "4 \u00d7 8 = 32 pounds of oats per day for all four horses.",
+    "Now, I need to calculate the number of pounds of oats needed for 3 days for all horses.",
+    "The horses need 32 pounds of oats per day.",
+    "For 3 days, the horses need 32 pounds per day \u00d7 3 days.",
+    "32 \u00d7 3 = 96."
+  ],
+  "solution": "96"
+}

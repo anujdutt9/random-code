@@ -1,0 +1,17 @@
+{
+  "query": "There are three buckets full of oranges. There are 22 oranges in the first bucket, 17 more oranges in the second bucket and 11 fewer oranges in the third bucket than in the second. How many oranges are there in all the buckets?",
+  "steps": [
+    "First, I'll determine how many oranges are in the second bucket. The problem states that the second bucket has 17 more oranges than the first.",
+    "The first bucket has 22 oranges. Therefore, the second bucket has 22 + 17 oranges.",
+    "Calculating that gives me 39 oranges in the second bucket.",
+    "Next, I'll determine how many oranges are in the third bucket. The problem states that the third bucket has 11 fewer oranges than the second.",
+    "The second bucket has 39 oranges, so the third bucket has 39 - 11 oranges.",
+    "Calculating that gives me 28 oranges in the third bucket.",
+    "Now, I need to add up the number of oranges in all three buckets.",
+    "The first bucket has 22 oranges, the second has 39 oranges, and the third has 28 oranges.",
+    "I'll add these numbers together: 22 + 39 + 28.",
+    "22 + 39 equals 61.",
+    "61 + 28 equals 89."
+  ],
+  "solution": "89"
+}

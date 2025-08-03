@@ -1,0 +1,22 @@
+{
+  "query": "A case of water contains 24 bottles. A children's camp comprising of 4 groups purchased 13 cases for a 3-day camp. The first group has 14 children, the second group has 16 children, the third group has 12 children, and the fourth group has half of the number of the first three groups combined. If each child consumes 3 bottles a day, how many more bottles of water does the camp organizer still need to buy?",
+  "steps": [
+    "First, let's calculate the total number of bottles in each case. Each case contains 24 bottles.",
+    "The camp purchased 13 cases of water. So, the total number of bottles is 13 cases * 24 bottles per case.",
+    "13 * 24 = 312 bottles. The camp has 312 bottles in total.",
+    "Next, let's determine the total number of children at the camp. We have four groups of children.",
+    "The first group has 14 children, the second group has 16 children, and the third group has 12 children.",
+    "To find the fourth group's number of children, we need to add the children from the first three groups first.",
+    "14 + 16 + 12 = 42 children in the first three groups.",
+    "The fourth group has half of the number of the first three groups combined. So, we divide 42 by 2.",
+    "42 / 2 = 21 children in the fourth group.",
+    "To find the total number of children, add the fourth group to the sum of the first three groups.",
+    "42 + 21 = 63 total children at the camp.",
+    "Each child consumes 3 bottles of water per day. We need to calculate the total water needed for all children for 3 days.",
+    "Each child needs 3 bottles per day * 3 days = 9 bottles per child for the camp duration.",
+    "So, 63 children * 9 bottles per child = 567 total bottles needed for the camp.",
+    "The organizer has 312 bottles already. Therefore, we need to find out how many more bottles are needed.",
+    "567 needed bottles - 312 bottles already have = 255 additional bottles needed."
+  ],
+  "solution": "255"
+}

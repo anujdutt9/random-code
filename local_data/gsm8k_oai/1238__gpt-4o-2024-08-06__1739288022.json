@@ -1,0 +1,18 @@
+{
+  "query": "There are 3 boxes of cereal. One box holds 14 ounces of cereal. Another box holds half the amount of the first box and 5 ounces less than the third box. How much cereal is there in all 3 cereal boxes?",
+  "steps": [
+    "The first box holds 14 ounces of cereal.",
+    "The second box holds half the amount of the first box.",
+    "To find the amount in the second box, I calculate half of 14 ounces.",
+    "Half of 14 is 14 / 2 = 7 ounces.",
+    "The second box holds 7 ounces of cereal.",
+    "The problem states that the second box holds 5 ounces less than the third box.",
+    "To find out how much the third box holds, I need to add 5 ounces to the amount in the second box.",
+    "Third box = Second box + 5 ounces = 7 ounces + 5 = 12 ounces.",
+    "The third box holds 12 ounces of cereal.",
+    "Now, I will find out the total amount of cereal by adding the quantities in all three boxes.",
+    "Total cereal = First box + Second box + Third box = 14 ounces + 7 ounces + 12 ounces.",
+    "Total cereal = 14 + 7 + 12 = 33 ounces."
+  ],
+  "solution": "33"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Michael ran a bakeshop and had to fill an order for 5 peach pies, 4 apple pies and 3 blueberry pies.  Each pie recipe called for 3 pounds of fruit each.  At the market, produce was on sale for $1.00 per pound for both blueberries and apples.  The peaches each cost $2.00 per pound.  How much will Michael spend at the market buying the fruit for his pie order?",
+  "steps": [
+    "Michael needs to calculate the total pounds of fruit required for each type of pie.",
+    "Each pie requires 3 pounds of fruit.",
+    "For the 5 peach pies, he needs 5 pies * 3 pounds/pie = 15 pounds of peaches.",
+    "For the 4 apple pies, he needs 4 pies * 3 pounds/pie = 12 pounds of apples.",
+    "For the 3 blueberry pies, he needs 3 pies * 3 pounds/pie = 9 pounds of blueberries.",
+    "Now, I need to calculate the cost of the peaches. Peaches cost $2.00 per pound.",
+    "Cost of peaches = 15 pounds * $2.00/pound = $30.00.",
+    "Next, I calculate the cost of the apples. Apples cost $1.00 per pound.",
+    "Cost of apples = 12 pounds * $1.00/pound = $12.00.",
+    "Next, I calculate the cost of the blueberries. Blueberries cost $1.00 per pound.",
+    "Cost of blueberries = 9 pounds * $1.00/pound = $9.00.",
+    "Now, I need to sum the costs to find the total amount Michael will spend.",
+    "Total cost = $30.00 (peaches) + $12.00 (apples) + $9.00 (blueberries).",
+    "Total cost = $51.00."
+  ],
+  "solution": "51"
+}

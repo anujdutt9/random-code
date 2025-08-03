@@ -1,0 +1,19 @@
+{
+  "query": "Three planes are going to the same place but each has a different number of passengers. The first plane has 50, the second had 60, and the third has 40. An empty plane can go 600 MPH, but each passenger makes it go 2 MPH slower. What is their average speed?",
+  "steps": [
+    "The first plane has 50 passengers.",
+    "Each passenger slows the plane down by 2 MPH.",
+    "For the first plane, the speed reduction is 50 passengers * 2 MPH/passenger = 100 MPH.",
+    "The speed of the first plane is 600 MPH - 100 MPH = 500 MPH.",
+    "The second plane has 60 passengers.",
+    "The speed reduction for the second plane is 60 passengers * 2 MPH/passenger = 120 MPH.",
+    "The speed of the second plane is 600 MPH - 120 MPH = 480 MPH.",
+    "The third plane has 40 passengers.",
+    "The speed reduction for the third plane is 40 passengers * 2 MPH/passenger = 80 MPH.",
+    "The speed of the third plane is 600 MPH - 80 MPH = 520 MPH.",
+    "Now, I have the speeds of all three planes: 500 MPH, 480 MPH, and 520 MPH.",
+    "To find the average speed, I need to add the speeds of the three planes: 500 + 480 + 520 = 1500 MPH.",
+    "There are three planes, so I divide the total speed by 3 to find the average speed: 1500 MPH / 3 = 500 MPH."
+  ],
+  "solution": "500"
+}

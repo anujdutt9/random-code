@@ -1,0 +1,14 @@
+{
+  "query": "The epic poem currently contains 24 lines. If a person adds 3 lines to the poem every month, in how many months will the poem contain 90 lines?",
+  "steps": [
+    "The poem currently has 24 lines.",
+    "Each month, 3 lines are added to the poem.",
+    "We need the poem to have 90 lines.",
+    "To find out how many more lines are needed, subtract the current number of lines from the target number of lines.",
+    "90 lines (target) - 24 lines (current) = 66 lines needed.",
+    "Every month, 3 lines are added, so we need to determine how many months it takes to add 66 lines.",
+    "Divide the number of lines needed (66) by the number of lines added per month (3).",
+    "66 \u00f7 3 = 22 months."
+  ],
+  "solution": "22"
+}

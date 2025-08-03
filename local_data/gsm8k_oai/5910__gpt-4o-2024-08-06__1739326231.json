@@ -1,0 +1,12 @@
+{
+  "query": "A mad scientist created a shrink ray device that, when used on anything, would cause it to shrink by 50%.  The scientist, eager to use his new invention, looked through his house for something to shrink zap.  The first thing he found and zapped was his wife, who at the time was carrying a tray containing 5 cups filled with coffee.  If each coffee cup held 8 ounces of fluid before being zapped, how many ounces of coffee remained after his wife and the cups filled with coffee were shrink zapped?",
+  "steps": [
+    "The shrink ray reduces everything by 50%. This means the volume of any object is reduced to half of its original size.",
+    "Each coffee cup originally held 8 ounces of fluid.",
+    "After being shrink zapped, each cup's volume would be reduced by 50%, so each cup would hold 8 ounces * 0.5 = 4 ounces.",
+    "There are 5 cups, each holding 4 ounces after being zapped.",
+    "So, the total ounces of coffee remaining after the cups are zapped is 5 cups * 4 ounces per cup.",
+    "5 * 4 equals 20."
+  ],
+  "solution": "20"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "An opera house has 150 rows; each row has ten seats. The ticket costs $10 per show. How much did the opera house earn from one of the shows if 20% of the seats were not taken?",
+  "steps": [
+    "First, I need to calculate the total number of seats in the opera house.",
+    "There are 150 rows and each row has 10 seats.",
+    "So, the total number of seats = 150 rows * 10 seats/row = 1500 seats.",
+    "Next, I calculate how many seats were not taken if 20% were unoccupied.",
+    "20% of the seats not taken means 20/100 * 1500 seats.",
+    "20/100 * 1500 = 300 seats were not occupied.",
+    "To find out how many seats were taken, I subtract the unoccupied seats from the total seats.",
+    "Seats taken = Total seats - Unoccupied seats = 1500 seats - 300 seats = 1200 seats.",
+    "Each of these 1200 seats earns $10 per ticket.",
+    "So, the total earnings from the show are 1200 seats * $10/seat.",
+    "1200 * 10 = 12000 dollars."
+  ],
+  "solution": "12000"
+}

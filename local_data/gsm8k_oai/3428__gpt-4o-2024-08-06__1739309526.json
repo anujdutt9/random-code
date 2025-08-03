@@ -1,0 +1,16 @@
+{
+  "query": "Jorge bought 24 tickets for $7 each. For purchasing so many, he is given a discount of 50%. How much, in dollars, did he spend on tickets?",
+  "steps": [
+    "Jorge bought 24 tickets.",
+    "Each ticket costs $7.",
+    "To find out the total cost without discount, I multiply 24 tickets by $7 each.",
+    "24 tickets \u00d7 $7 = $168.",
+    "Jorge received a 50% discount.",
+    "To find the discount, I calculate 50% of $168.",
+    "50% of $168 is $168 \u00d7 0.5.",
+    "$168 \u00d7 0.5 = $84.",
+    "To find the total amount spent, I subtract the discount from the original price.",
+    "$168 - $84 = $84."
+  ],
+  "solution": "84"
+}

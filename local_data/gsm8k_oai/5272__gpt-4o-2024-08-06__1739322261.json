@@ -1,0 +1,15 @@
+{
+  "query": "Sweet Hope hosts a casino with 3 roulette tables labeled A, B, and C. At 6:00 pm, Table B had twice as much money on it as table C, which had $20 more than table A. If there was $40 on table A, how much money was there on all the tables?",
+  "steps": [
+    "First, I need to figure out how much money is on table C.",
+    "I know that table C had $20 more than table A.",
+    "Table A had $40 on it. So, table C had $40 + $20 = $60.",
+    "Next, I need to determine how much money is on table B.",
+    "Table B had twice as much money as table C.",
+    "So, table B had 2 * $60 = $120.",
+    "Now, I need to find out the total money on all the tables.",
+    "I add the money from tables A, B, and C: $40 + $60 + $120.",
+    "The total is $40 + $60 + $120 = $220."
+  ],
+  "solution": "220"
+}

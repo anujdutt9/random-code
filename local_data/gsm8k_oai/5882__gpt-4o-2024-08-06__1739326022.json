@@ -1,0 +1,20 @@
+{
+  "query": "On Saturdays and Sundays, Suzanne makes french toast for the family.  She and her husband each have 1 whole slice and her daughters split 1 slice.  She uses a thick sliced bread that comes 12 slices per loaf.  Over 52 weeks, how many loaves of bread will she need to make french toast?",
+  "steps": [
+    "First, I need to determine how many slices of bread are consumed each weekend.",
+    "On Saturdays, Suzanne and her husband eat 1 slice each, so that is 2 slices. Her daughters split 1 slice, which is an additional 1 slice.",
+    "So on Saturday, they consume a total of 2 + 1 = 3 slices.",
+    "On Sundays, the routine will be the same as Saturday.",
+    "Therefore, on Sunday as well, they consume 3 slices.",
+    "In total for one weekend (Saturday and Sunday), they consume 3 slices on Saturday plus 3 slices on Sunday.",
+    "So, for one weekend, the total consumption is 3 + 3 = 6 slices.",
+    "Now, I need to calculate how many slices are consumed in 52 weekends.",
+    "I multiply the number of slices per weekend by the number of weeks: 6 slices/weekend * 52 weekends = 312 slices.",
+    "Next, I need to figure out how many loaves of bread this will require.",
+    "Each loaf contains 12 slices of bread.",
+    "I divide the total number of slices needed by the slices per loaf: 312 slices / 12 slices/loaf.",
+    "This division gives me 26 loaves.",
+    "Since 312 divided by 12 is exactly 26, it means there is no remainder and no additional bread is needed for extra slices."
+  ],
+  "solution": "26"
+}

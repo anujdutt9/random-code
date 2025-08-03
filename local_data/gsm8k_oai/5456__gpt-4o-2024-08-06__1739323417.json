@@ -1,0 +1,15 @@
+{
+  "query": "There are 100 students in class and the ratio of boys to girls is 3:2. How many more boys than girls are there?",
+  "steps": [
+    "I'm given that there are 100 students in total and the ratio of boys to girls is 3:2.",
+    "The ratio 3:2 means that for every 3 boys, there are 2 girls.",
+    "The combined parts of the ratio is 3 parts boys + 2 parts girls = 5 parts in total.",
+    "I need to find out how many students each part represents by dividing the total number of students by the number of parts.",
+    "100 students / 5 parts = 20 students per part.",
+    "Since there are 3 parts boys, I calculate the number of boys: 3 parts \u00d7 20 students per part = 60 boys.",
+    "Since there are 2 parts girls, I calculate the number of girls: 2 parts \u00d7 20 students per part = 40 girls.",
+    "I need to find how many more boys there are than girls by subtracting the number of girls from the number of boys.",
+    "60 boys - 40 girls = 20 more boys than girls."
+  ],
+  "solution": "20"
+}

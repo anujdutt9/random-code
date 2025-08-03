@@ -1,0 +1,20 @@
+{
+  "query": "Francis' family has 2 ukuleles, 4 guitars, and a certain number of violins. Each ukulele has 4 strings. Each guitar has 6 strings. Each violin has 4 strings. If the total number of strings among the ukuleles, guitars, and violins is 40 strings, how many violins does Francis' family have?",
+  "steps": [
+    "First, I calculate the total number of strings from the ukuleles.",
+    "There are 2 ukuleles. Each has 4 strings.",
+    "The total number of strings from the ukuleles is 2 ukuleles * 4 strings/ukulele = 8 strings.",
+    "Next, I calculate the total number of strings from the guitars.",
+    "There are 4 guitars. Each has 6 strings.",
+    "The total number of strings from the guitars is 4 guitars * 6 strings/guitar = 24 strings.",
+    "I now add the strings from the ukuleles and guitars.",
+    "The total number of strings from the ukuleles and guitars is 8 strings + 24 strings = 32 strings.",
+    "The total number of strings among all instruments is given as 40 strings.",
+    "The remaining strings must come from the violins.",
+    "The number of strings that come from the violins is 40 strings - 32 strings = 8 strings.",
+    "Each violin has 4 strings.",
+    "To find the number of violins, I divide the total number of strings from the violins by the number of strings per violin.",
+    "The number of violins is 8 strings / 4 strings/violin = 2 violins."
+  ],
+  "solution": "2"
+}

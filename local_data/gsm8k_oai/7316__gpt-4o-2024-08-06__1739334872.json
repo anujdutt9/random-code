@@ -1,0 +1,16 @@
+{
+  "query": "Phillip wants to make pickles with the supplies he finds at home. He has 4 jars, 10 cucumbers, and 100 oz of vinegar. Each cucumber makes six pickles. Each jar can hold 12 pickles. It takes 10 ounces of vinegar per jar of pickles. When he is all done making as many pickles as he has supplies for, how many ounces of vinegar are left?",
+  "steps": [
+    "First, I need to calculate how many pickles Phillip can make from the cucumbers. Each cucumber makes 6 pickles.",
+    "Phillip has 10 cucumbers.",
+    "So, the total number of pickles he can make is 10 cucumbers * 6 pickles per cucumber = 60 pickles.",
+    "Next, I need to determine how many jars of pickles Phillip can fill. Each jar can hold 12 pickles.",
+    "Phillip can fill 60 pickles / 12 pickles per jar = 5 jars, but he only has 4 jars available.",
+    "So, Phillip can only fill 4 jars of pickles because he is limited by the number of jars.",
+    "Each jar requires 10 ounces of vinegar.",
+    "Phillip can fill 4 jars, so he needs 4 jars * 10 ounces of vinegar per jar = 40 ounces of vinegar.",
+    "Phillip initially has 100 ounces of vinegar.",
+    "After using 40 ounces of vinegar for the 4 jars, Philipp will have 100 ounces - 40 ounces = 60 ounces of vinegar left."
+  ],
+  "solution": "60"
+}

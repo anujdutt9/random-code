@@ -1,0 +1,18 @@
+{
+  "query": "Telegraph Road goes through multiple states and is 162 kilometers long. Pardee Road is 12000 meters long. How many kilometers longer is Telegraph Road than Pardee Road?",
+  "steps": [
+    "I need to first convert the length of Pardee Road from meters to kilometers.",
+    "There are 1000 meters in a kilometer.",
+    "Pardee Road is 12000 meters long.",
+    "To convert 12000 meters to kilometers, I divide 12000 by 1000.",
+    "12000 meters \u00f7 1000 = 12 kilometers.",
+    "Pardee Road is 12 kilometers long.",
+    "I now need to find out how many kilometers longer Telegraph Road is compared to Pardee Road.",
+    "Telegraph Road is 162 kilometers long.",
+    "Pardee Road is 12 kilometers long.",
+    "To find the difference, I subtract the length of Pardee Road from the length of Telegraph Road.",
+    "162 kilometers - 12 kilometers = 150 kilometers.",
+    "Telegraph Road is 150 kilometers longer than Pardee Road."
+  ],
+  "solution": "150"
+}

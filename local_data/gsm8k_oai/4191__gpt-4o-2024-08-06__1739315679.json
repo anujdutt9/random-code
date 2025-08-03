@@ -1,0 +1,17 @@
+{
+  "query": "James has 20 years of experience.  8 years ago John had twice as much experience as James.  Mike started when John had 16 years of experience.  What is their combined experience?",
+  "steps": [
+    "James currently has 20 years of experience.",
+    "8 years ago, James had 20 - 8 = 12 years of experience.",
+    "8 years ago, John had twice as much experience as James, which means John had 2 \u00d7 12 = 24 years of experience back then.",
+    "That was 8 years ago, so now John has 24 + 8 = 32 years of experience.",
+    "I need to find out how many years of experience Mike has.",
+    "Mike started when John had 16 years of experience.",
+    "We know John had 24 years of experience 8 years ago, which means he had 24 - 16 = 8 years of experience before that.",
+    "Thus, Mike started 8 years + 8 years ago = 16 years ago.",
+    "Since Mike has started 16 years ago, he has 16 years of experience now.",
+    "Now I have James' experience which is 20 years, John's 32 years, and Mike's 16 years.",
+    "Their combined experience is 20 + 32 + 16 = 68 years."
+  ],
+  "solution": "68"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Sam has 18 cows.  5 more than half the cows are black.  How many cows are not black?",
+  "steps": [
+    "Sam has a total of 18 cows.",
+    "I need to figure out how many of these cows are black.",
+    "The problem states that 5 more than half the cows are black.",
+    "First, I'll calculate half of Sam's total number of cows. Half of 18 is 18/2, which equals 9.",
+    "Now, according to the problem, the number of black cows is 5 more than this half.",
+    "9 (half of the cows) plus 5 equals 14. Therefore, there are 14 black cows.",
+    "Next, I need to determine how many cows are not black.",
+    "Out of the 18 total cows, there are 14 that are black.",
+    "To find the number of cows that are not black, I subtract the number of black cows from the total number of cows. So, 18 - 14 equals 4."
+  ],
+  "solution": "4"
+}

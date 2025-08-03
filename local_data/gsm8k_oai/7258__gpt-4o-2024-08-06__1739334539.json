@@ -1,0 +1,18 @@
+{
+  "query": "A single line is worth 1000 points.  A tetris is worth 8 times that much.   Tim scored 6 singles and 4 tetrises.  How many points did he score?",
+  "steps": [
+    "First, I need to find out how many points a tetris is worth.",
+    "A tetris is worth 8 times a single line score.",
+    "Since a single line is worth 1000 points, a tetris would be 8 times 1000 points.",
+    "Calculating this gives: 8 * 1000 = 8000 points for a tetris.",
+    "Now, I need to calculate the total score from the 6 single lines Tim completed.",
+    "Each single line is worth 1000 points.",
+    "Calculating this gives: 6 * 1000 = 6000 points from singles.",
+    "Next, I will calculate the total score from the 4 tetrises Tim completed.",
+    "Each tetris is worth 8000 points.",
+    "Calculating this gives: 4 * 8000 = 32000 points from tetrises.",
+    "To find the total score Tim achieved, I need to add the scores from singles and tetrises together.",
+    "6000 (from singles) + 32000 (from tetrises) = 38000."
+  ],
+  "solution": "38000"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "A pickup truck can fill 20 eight gallon water cans (each can filled three quarters of its capacity) in three hours. If each can is filled to full capacity instead, how long, in hours, will it take to fill 25 cans?",
+  "steps": [
+    "First, understand the problem requires calculating the time to fill cans when initially filled to three-quarters capacity, and then full capacity.",
+    "Each can is 8 gallons and initially filled to three-quarters capacity, so the amount filled per can is \\(8 \\times \\frac{3}{4} = 6\\) gallons.",
+    "The truck fills 20 cans in 3 hours at three-quarters capacity, which is 20 cans \\(\\times\\) 6 gallons per can = 120 gallons.",
+    "Next, calculate the truck's filling rate by dividing the total gallons filled by the number of hours: \\(120 \\text{ gallons} \\div 3 \\text{ hours} = 40 \\text{ gallons per hour}\\).",
+    "Now, consider filling each can to full capacity. So, each can is now filled with 8 gallons of water.",
+    "For 25 cans, calculate the total number of gallons needed: 25 cans \\(\\times\\) 8 gallons per can = 200 gallons.",
+    "To find out how long it takes to fill 200 gallons using the truck's filling rate, divide the number of gallons by the rate: \\(200 \\text{ gallons} \\div 40 \\text{ gallons per hour} = 5 \\text{ hours}\\)."
+  ],
+  "solution": "5"
+}

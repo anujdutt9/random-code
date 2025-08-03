@@ -1,0 +1,13 @@
+{
+  "query": "In the spelling bee, Max has 5 points, Dulce has 3 points, and Val has twice the combined points of Max and Dulce. If they are on the same team and their opponents' team has a total of 40 points, how many points are their team behind?",
+  "steps": [
+    "Max has 5 points.",
+    "Dulce has 3 points.",
+    "The combined points of Max and Dulce is 5 + 3 = 8 points.",
+    "Val has twice the combined points of Max and Dulce, so Val has 2 * 8 = 16 points.",
+    "Now, let's calculate the total points of Max, Dulce, and Val's team. This is 5 (Max) + 3 (Dulce) + 16 (Val) = 24 points.",
+    "The opponents' team has a total of 40 points.",
+    "To find out how many points Max, Dulce, and Val's team is behind, we calculate the difference: 40 (opponents' team) - 24 (Max, Dulce, and Val's team) = 16 points."
+  ],
+  "solution": "16"
+}

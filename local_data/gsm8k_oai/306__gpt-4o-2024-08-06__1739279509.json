@@ -1,0 +1,17 @@
+{
+  "query": "Parker is 4 inches shorter than Daisy. Daisy is 8 inches taller than Reese. If Reese is 60 inches tall, what is the average height for the three of them?",
+  "steps": [
+    "First, I need to determine Daisy's height.",
+    "I know Reese is 60 inches tall and Daisy is 8 inches taller than Reese.",
+    "Therefore, Daisy's height is 60 inches + 8 inches = 68 inches.",
+    "Next, I need to find Parker's height.",
+    "Parker is 4 inches shorter than Daisy.",
+    "So, Parker's height is 68 inches - 4 inches = 64 inches.",
+    "Now, I have all their heights: Reese is 60 inches, Daisy is 68 inches, and Parker is 64 inches.",
+    "To find the average height, I need to add all their heights together and divide by 3.",
+    "The total height of all three of them is 60 + 68 + 64 = 192 inches.",
+    "Next, I divide the total height by the number of people, which is 3.",
+    "192 inches \u00f7 3 = 64 inches."
+  ],
+  "solution": "64"
+}

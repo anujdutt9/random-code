@@ -1,0 +1,16 @@
+{
+  "query": "There were a total of 50 guests in a movie screening of which half of the guests are women, 15 are men, and the rest are children. In the middle of the movie, 1/5 of the men and 4 children left. How many people stayed?",
+  "steps": [
+    "First, I need to determine how many women attended the movie screening. Half of the 50 guests are women.",
+    "Half of 50 is 25, so there are 25 women.",
+    "Next, I need to find out how many children were present. I know there are 15 men.",
+    "To find the number of children, I subtract the number of women and men from the total number of guests: 50 - 25 (women) - 15 (men) = 10 children.",
+    "Now, I need to calculate how many men left the screening in the middle of the movie. 1/5 of the men left.",
+    "1/5 of 15 men is 15 / 5 = 3 men.",
+    "Next, 4 children also left.",
+    "To find out how many people stayed, I subtract the number of people who left from the total number of guests.",
+    "The total number of people who left is 3 men + 4 children = 7 people.",
+    "The number of people who stayed is 50 (total guests) - 7 (people who left) = 43 people."
+  ],
+  "solution": "43"
+}

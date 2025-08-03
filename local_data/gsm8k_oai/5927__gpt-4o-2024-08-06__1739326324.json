@@ -1,0 +1,15 @@
+{
+  "query": "Kim is an office manager. Every morning she spends 5 minutes making coffee, 2 minutes per employee getting a status update, and 3 minutes per employee updating payroll records. If there are 9 employees in the office, how long does Kim's morning routine take?",
+  "steps": [
+    "First, I need to calculate how long Kim spends making coffee. It is stated she spends 5 minutes on this task.",
+    "Next, I calculate the time spent getting status updates. Kim spends 2 minutes per employee for status updates.",
+    "There are 9 employees, so she spends 2 minutes \u00d7 9 employees = 18 minutes on status updates.",
+    "Now, I need to calculate the time spent updating payroll records. This takes 3 minutes per employee.",
+    "With 9 employees, she spends 3 minutes \u00d7 9 employees = 27 minutes on payroll updates.",
+    "To find the total time for Kim's morning routine, I add the time spent on each task: making coffee, getting status updates, and updating payroll records.",
+    "Adding these times together: 5 minutes (coffee) + 18 minutes (status updates) + 27 minutes (payroll updates).",
+    "5 + 18 = 23 minutes for the coffee and status updates combined.",
+    "23 + 27 = 50 minutes for the entire morning routine."
+  ],
+  "solution": "50"
+}

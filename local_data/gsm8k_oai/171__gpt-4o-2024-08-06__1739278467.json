@@ -1,0 +1,15 @@
+{
+  "query": "James collects all the fruits from his 2 trees.  Each tree has 20 plants.  Each plant has 1 seed and he plants 60% of those.  How many trees did he plant?",
+  "steps": [
+    "James collects all the fruits from his 2 trees.",
+    "Each tree has 20 plants.",
+    "This means there are 2 trees * 20 plants per tree = 40 plants total.",
+    "Each plant has 1 seed, so there are 40 seeds in total.",
+    "James plants 60% of these seeds.",
+    "To find how many seeds he plants, calculate 60% of 40 seeds.",
+    "60% of 40 is calculated as (60/100) * 40 = 0.6 * 40 = 24.",
+    "Therefore, James plants 24 seeds.",
+    "Each seed he plants grows into one tree."
+  ],
+  "solution": "24"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Terry spent 6$ for breakfast on Monday, twice as much on Tuesday, and on Wednesday Terry spent double what he did the previous two days combined.  How much did Terry spend total?",
+  "steps": [
+    "Terry spent $6 on breakfast on Monday.",
+    "On Tuesday, Terry spent twice as much as he did on Monday.",
+    "So, on Tuesday he spent 2 * $6 = $12.",
+    "Now, calculate the total spent for both Monday and Tuesday.",
+    "Total for Monday and Tuesday is $6 + $12 = $18.",
+    "On Wednesday, Terry spent double what he did the previous two days combined.",
+    "So, on Wednesday he spent 2 * $18 = $36.",
+    "Now, calculate the total amount Terry spent over all three days.",
+    "Total spent is $6 (Monday) + $12 (Tuesday) + $36 (Wednesday) = $54."
+  ],
+  "solution": "54"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "Tim has 22 cans of soda. Jeff comes by, and takes 6 cans of soda from Tim. Tim then goes and buys another half the amount of soda cans he had left. How many cans of soda does Tim have in the end?",
+  "steps": [
+    "Tim starts with 22 cans of soda.",
+    "Jeff takes 6 cans of soda from Tim.",
+    "I subtract 6 from 22 to find out how many cans Tim has left after Jeff takes some: 22 - 6 = 16 cans.",
+    "Tim then buys another half the amount of soda cans he had left.",
+    "I need to calculate half of the remaining cans: 16 / 2 = 8 cans.",
+    "Tim buys 8 more cans of soda.",
+    "To find out how many cans Tim has in the end, I add the new cans he bought to the ones he had left: 16 + 8 = 24 cans."
+  ],
+  "solution": "24"
+}

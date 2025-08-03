@@ -1,0 +1,20 @@
+{
+  "query": "Wilma has a garden with 3 types of flowers. The garden has 6 rows, with 13 flowers in each row. Wilma has 12 yellow flowers, two times more green flowers, and the rest consist of red flowers. How many red flowers does Wilma have?",
+  "steps": [
+    "First, I need to calculate the total number of flowers in the garden.",
+    "The garden has 6 rows with 13 flowers in each row.",
+    "So, the total number of flowers is 6 rows multiplied by 13 flowers per row.",
+    "6 * 13 = 78 flowers in total.",
+    "Next, I know Wilma has 12 yellow flowers.",
+    "Wilma has two times more green flowers than yellow flowers.",
+    "Two times more green flowers than 12 yellow flowers is 2 * 12 = 24 green flowers.",
+    "Now, I calculate how many flowers are not yellow or green, which must be red.",
+    "So, I subtract the number of yellow and green flowers from the total number of flowers.",
+    "Yellow flowers: 12",
+    "Green flowers: 24",
+    "Total non-red flowers: 12 + 24 = 36 flowers",
+    "Now, I subtract the non-red flowers from the total number of flowers to find the number of red flowers.",
+    "78 total flowers - 36 non-red flowers = 42 red flowers"
+  ],
+  "solution": "42"
+}

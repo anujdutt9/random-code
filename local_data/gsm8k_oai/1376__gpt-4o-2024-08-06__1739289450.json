@@ -1,0 +1,17 @@
+{
+  "query": "Bronson decides to collect Oak Leaves from around his Neighborhood. He collects 12 on Thursday and 13 on Friday. 20% are Brown and 20% are Green. The rest are yellow. How many yellow leaves does he collect?",
+  "steps": [
+    "First, calculate the total number of Oak Leaves Bronson collects on Thursday and Friday.",
+    "He collects 12 Oak Leaves on Thursday.",
+    "He collects 13 Oak Leaves on Friday.",
+    "Add the leaves collected on Thursday and Friday together: 12 + 13 = 25 leaves.",
+    "Next, determine the number of Brown and Green leaves.",
+    "20% of the leaves are Brown.",
+    "20% of the leaves are Green.",
+    "Add the percentages of Brown and Green leaves together: 20% + 20% = 40%.",
+    "Calculate the percentage of leaves that are Yellow, which is the remaining percentage: 100% - 40% = 60%.",
+    "Now, calculate 60% of 25 leaves to determine the number of Yellow leaves.",
+    "0.60 * 25 = 15 Yellow leaves."
+  ],
+  "solution": "15"
+}

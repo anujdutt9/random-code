@@ -1,0 +1,15 @@
+{
+  "query": "Wallace runs a beef jerky company. The company dries the jerky low and slow, so one batch of jerky takes all night to make. Each batch can make 10 bags of jerky. Wallace received a customer order for 60 bags of jerky. If he has 20 bags of jerky already made, how many days will it be before he can fulfill the customer\u2019s order?",
+  "steps": [
+    "Wallace needs to fulfill an order of 60 bags of jerky.",
+    "He already has 20 bags of jerky made.",
+    "To find out how many more bags he needs, subtract the 20 bags he already has from the 60 bags required.",
+    "60 - 20 = 40. Wallace needs to make 40 more bags.",
+    "Each batch makes 10 bags of jerky.",
+    "To determine how many batches are required to make 40 more bags, we divide 40 by 10.",
+    "40 \u00f7 10 = 4. Wallace needs to make 4 more batches.",
+    "Each batch takes one night to make, which means each batch takes one day.",
+    "Therefore, Wallace will need 4 days to make 4 batches."
+  ],
+  "solution": "4"
+}

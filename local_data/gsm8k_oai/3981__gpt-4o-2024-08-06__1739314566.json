@@ -1,0 +1,16 @@
+{
+  "query": "James visits 20 houses to try and make a sale.  He manages to sell something in every house.  The next day he visits twice as many houses but only sold to 80% of houses.  If he sold two things at each house in each of the two days, how many items did he sell?",
+  "steps": [
+    "James visits 20 houses on the first day.",
+    "He sells to every house on the first day.",
+    "Since he sells two things at each house, he sells 2 items per house.",
+    "Therefore, the total number of items sold on the first day is 20 houses * 2 items per house = 40 items.",
+    "The next day, he visits twice as many houses as the first day, so he visits 20 * 2 = 40 houses.",
+    "On the second day, he only sells to 80% of the houses.",
+    "To find 80% of 40 houses, I calculate 0.8 * 40 = 32 houses.",
+    "He sells two things at each house again on the second day.",
+    "Therefore, the total number of items sold on the second day is 32 houses * 2 items per house = 64 items.",
+    "To find the total items sold on both days, I add the items sold each day: 40 items (first day) + 64 items (second day) = 104 items."
+  ],
+  "solution": "104"
+}

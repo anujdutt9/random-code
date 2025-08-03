@@ -1,0 +1,23 @@
+{
+  "query": "Tom wants to make the world's largest dough ball.  He needs 500 pounds of flour and he can buy 50-pound bags of flour for $20.  He also needs 10 pounds of salt and salt cost $.2 a pound.  He also spends $1000 promoting everything.  He then sells tickets for $20 each and sells 500 tickets.  How much money did he make?",
+  "steps": [
+    "Tom needs 500 pounds of flour.",
+    "Each bag of flour is 50 pounds.",
+    "To find out how many bags he needs, divide 500 by 50.",
+    "500 \u00f7 50 = 10 bags of flour.",
+    "Each bag costs $20.",
+    "10 bags * $20 = $200 for flour.",
+    "Tom also needs 10 pounds of salt.",
+    "Salt costs $0.2 per pound.",
+    "10 pounds * $0.2 = $2 for salt.",
+    "Additionally, Tom spends $1000 on promoting everything.",
+    "To find the total cost, add the costs for flour, salt, and promotion.",
+    "$200 (flour) + $2 (salt) + $1000 (promotion) = $1202 total cost.",
+    "Tom sells tickets for $20 each.",
+    "He sells 500 tickets.",
+    "500 tickets * $20 = $10000 total revenue from ticket sales.",
+    "To find out how much money Tom made, subtract the total cost from the total revenue.",
+    "$10000 (revenue) - $1202 (cost) = $8798."
+  ],
+  "solution": "8798"
+}

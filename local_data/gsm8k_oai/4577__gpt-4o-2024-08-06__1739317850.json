@@ -1,0 +1,12 @@
+{
+  "query": "Augustus can make 3 milkshakes per hour while Luna can make 7 milkshakes per hour. If Augustus and Luna have been making milkshakes for 8 hours now, how many milkshakes have they made?",
+  "steps": [
+    "First, consider how many milkshakes Augustus can make in 1 hour. He can make 3 milkshakes per hour.",
+    "Next, calculate how many milkshakes Augustus has made in 8 hours. Multiply the number of milkshakes he can make per hour by the number of hours: 3 milkshakes/hour * 8 hours = 24 milkshakes.",
+    "Now, consider how many milkshakes Luna can make in 1 hour. She can make 7 milkshakes per hour.",
+    "Calculate how many milkshakes Luna has made in 8 hours. Multiply the number of milkshakes she can make per hour by the number of hours: 7 milkshakes/hour * 8 hours = 56 milkshakes.",
+    "Add the total number of milkshakes made by Augustus and Luna to find the combined total. Augustus made 24 milkshakes, and Luna made 56 milkshakes.",
+    "Add 24 milkshakes (Augustus) + 56 milkshakes (Luna) = 80 milkshakes."
+  ],
+  "solution": "80"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Felix can lift off the ground 1.5 times more than he weighs. Felix's brother weighs twice as much as Felix and can lift three times his weight off the ground. If his brother can lift 600 pounds, how much can Felix lift off the ground?",
+  "steps": [
+    "Let's define Felix's weight as F.",
+    "Felix can lift 1.5 times his weight, so he can lift 1.5F.",
+    "Felix's brother weighs twice as much as Felix, so his weight is 2F.",
+    "Felix's brother can lift three times his weight, which is 3 times 2F, so he can lift 6F.",
+    "According to the problem, Felix's brother can lift 600 pounds.",
+    "Therefore, 6F = 600 pounds.",
+    "To find F, we divide both sides of the equation by 6.",
+    "F = 600 / 6.",
+    "F = 100 pounds.",
+    "Now we know Felix weighs 100 pounds.",
+    "Felix can lift 1.5 times his weight, so he can lift 1.5 * 100 pounds.",
+    "1.5 * 100 = 150 pounds."
+  ],
+  "solution": "150"
+}

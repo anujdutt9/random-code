@@ -1,0 +1,17 @@
+{
+  "query": "Alicia has 20 gumballs. Pedro has that many gumballs plus an additional number of gumballs equal to three times the number Alicia has. They put their gumballs in a bowl, and later Pedro takes out 40% of the gumballs to eat. How many gumballs are remaining in the bowl?",
+  "steps": [
+    "Alicia has 20 gumballs.",
+    "Pedro has the number of gumballs Alicia has, which is 20, plus an additional three times that amount.",
+    "Three times the number of gumballs Alicia has is 3 * 20 = 60 gumballs.",
+    "So Pedro has 20 + 60 = 80 gumballs.",
+    "Next, they put their gumballs together in a bowl. The total number of gumballs in the bowl is Alicia's 20 plus Pedro's 80.",
+    "20 + 80 = 100. Thus, there are 100 gumballs in the bowl.",
+    "Pedro takes out 40% of the gumballs to eat.",
+    "To find out how many gumballs Pedro takes out, we calculate 40% of 100.",
+    "40% of 100 is 0.40 * 100 = 40 gumballs.",
+    "Pedro takes out 40 gumballs, meaning the number of gumballs remaining in the bowl is the original total minus the number taken out.",
+    "100 - 40 = 60 gumballs remain in the bowl."
+  ],
+  "solution": "60"
+}

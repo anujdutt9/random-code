@@ -1,0 +1,14 @@
+{
+  "query": "Gervais drove an average of 315 miles for 3 days. Henri drove a total of 1,250 miles over one week. How many miles farther did Henri drive?",
+  "steps": [
+    "First, I need to calculate the total number of miles Gervais drove over the 3 days.",
+    "Gervais drove an average of 315 miles per day for 3 days.",
+    "To find the total, I will multiply the average miles per day by the number of days: 315 miles/day * 3 days.",
+    "Calculating that gives: 315 * 3 = 945 miles.",
+    "Next, I need to compare Gervais' total miles to Henri's total miles.",
+    "Henri drove a total of 1,250 miles over the week.",
+    "To find out how many more miles Henri drove than Gervais, I will subtract Gervais' total from Henri's total: 1,250 miles - 945 miles.",
+    "Performing that subtraction gives: 1,250 - 945 = 305 miles."
+  ],
+  "solution": "305"
+}

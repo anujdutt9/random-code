@@ -1,0 +1,13 @@
+{
+  "query": "Socorro is preparing for a math contest. She needs to train for a total of 5 hours. Each day, she answers problems about multiplication for 10 minutes and then division problems for 20 minutes. How many days will it take for her to complete her training?",
+  "steps": [
+    "Socorro needs to train for a total of 5 hours.",
+    "5 hours is equivalent to 5 * 60 = 300 minutes.",
+    "Every day, she practices multiplication for 10 minutes.",
+    "Every day, she practices division for 20 minutes.",
+    "The total training time per day is 10 minutes + 20 minutes = 30 minutes.",
+    "To find out how many days she needs to reach 300 minutes, divide 300 minutes by 30 minutes per day.",
+    "300 minutes / 30 minutes per day = 10 days."
+  ],
+  "solution": "10"
+}

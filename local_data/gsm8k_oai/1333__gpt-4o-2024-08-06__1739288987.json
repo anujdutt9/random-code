@@ -1,0 +1,21 @@
+{
+  "query": "Louise is baking cakes for a gathering. She needs 60 cakes in total, and has already produced half this many. Today, she calculates how many cakes she has left to make and bakes half this amount. The next day, she again calculates how many cakes she has left to make and bakes a third of this amount. How many more cakes does Louise need to bake?",
+  "steps": [
+    "Louise needs a total of 60 cakes.",
+    "She has already produced half of 60 cakes. Half of 60 is 30.",
+    "Therefore, currently, she has 30 cakes completed.",
+    "This means she still needs to make 60 - 30 = 30 more cakes.",
+    "Today, she calculates that she needs 30 more cakes and decides to bake half of this amount.",
+    "Half of 30 is 15.",
+    "She bakes 15 cakes today.",
+    "Now, she has 30 + 15 = 45 cakes completed.",
+    "She needs 60 - 45 = 15 more cakes to reach the total of 60.",
+    "The next day, she calculates that she still needs 15 more cakes.",
+    "She decides to bake a third of this amount.",
+    "A third of 15 is 5.",
+    "She bakes 5 more cakes.",
+    "Now, she has 45 + 5 = 50 cakes completed.",
+    "She still needs to bake 60 - 50 = 10 more cakes."
+  ],
+  "solution": "10"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Chip takes 2 pages of notes every day, 5 days a week, for each of his 5 classes.  His notebook paper comes in packs of 100 sheets of paper per pack.  After 6 weeks, how many packs of notebook paper will Chip use?",
+  "steps": [
+    "Chip takes notes 5 days a week.",
+    "He takes 2 pages of notes every day for each class.",
+    "He has 5 classes.",
+    "To find out how many pages he takes for one week, I calculate: 2 pages/day \u00d7 5 days/week \u00d7 5 classes = 50 pages/week.",
+    "Chip takes 50 pages of notes per week.",
+    "He takes notes for 6 weeks.",
+    "To find the total number of pages he takes over 6 weeks, I calculate: 50 pages/week \u00d7 6 weeks = 300 pages.",
+    "His notebook paper comes in packs of 100 sheets of paper.",
+    "To find out how many packs he needs, I divide the total number of pages by the number of pages per pack: 300 pages \u00f7 100 pages/pack = 3 packs.",
+    "Chip will use 3 packs of notebook paper in 6 weeks."
+  ],
+  "solution": "3"
+}

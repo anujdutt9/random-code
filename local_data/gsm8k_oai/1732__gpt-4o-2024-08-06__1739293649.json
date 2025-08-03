@@ -1,0 +1,33 @@
+{
+  "query": "A carton of ice cream contains 10 scoops each.  Mary has 3 cartons of ice cream, one chocolate, one strawberry and one vanilla.  Ethan wants one scoop of vanilla and one of chocolate.  Lucas, Danny and Connor all want 2 scoops of chocolate.  Olivia would like a scoop of vanilla and one of strawberry.  Shannon wants twice as much as Olivia.  How many scoops of ice cream will be left?",
+  "steps": [
+    "A carton of ice cream contains 10 scoops each.",
+    "Mary has 3 cartons: chocolate, strawberry, and vanilla.",
+    "Ethan wants one scoop of vanilla and one of chocolate.",
+    "Lucas wants 2 scoops of chocolate.",
+    "Danny wants 2 scoops of chocolate.",
+    "Connor wants 2 scoops of chocolate.",
+    "Olivia wants one scoop of vanilla and one of strawberry.",
+    "Shannon wants twice as much as Olivia, which means 2 scoops of vanilla and 2 scoops of strawberry.",
+    "First, let's determine how many scoops have been taken from the chocolate carton.",
+    "Ethan takes 1 scoop of chocolate.",
+    "Lucas takes 2 scoops of chocolate.",
+    "Danny takes 2 scoops of chocolate.",
+    "Connor takes 2 scoops of chocolate.",
+    "In total, 1 (Ethan) + 2 (Lucas) + 2 (Danny) + 2 (Connor) = 7 scoops of chocolate are taken.",
+    "A chocolate carton has 10 scoops initially, so 10 - 7 = 3 scoops of chocolate are left.",
+    "Next, let's determine how many scoops have been taken from the strawberry carton.",
+    "Olivia takes 1 scoop of strawberry.",
+    "Shannon takes 2 scoops of strawberry.",
+    "In total, 1 (Olivia) + 2 (Shannon) = 3 scoops of strawberry are taken.",
+    "A strawberry carton has 10 scoops initially, so 10 - 3 = 7 scoops of strawberry are left.",
+    "Now, let's determine how many scoops have been taken from the vanilla carton.",
+    "Ethan takes 1 scoop of vanilla.",
+    "Olivia takes 1 scoop of vanilla.",
+    "Shannon takes 2 scoops of vanilla.",
+    "In total, 1 (Ethan) + 1 (Olivia) + 2 (Shannon) = 4 scoops of vanilla are taken.",
+    "A vanilla carton has 10 scoops initially, so 10 - 4 = 6 scoops of vanilla are left.",
+    "Now, add up the remaining scoops from each carton: 3 (chocolate) + 7 (strawberry) + 6 (vanilla) = 16 scoops of ice cream left."
+  ],
+  "solution": "16"
+}

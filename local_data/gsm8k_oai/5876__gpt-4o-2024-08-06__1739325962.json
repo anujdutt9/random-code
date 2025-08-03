@@ -1,0 +1,12 @@
+{
+  "query": "Thomas made 4 stacks of wooden blocks. The first stack was 7 blocks tall. The second stack was 3 blocks taller than the first. The third stack was 6 blocks shorter than the second stack, and the fourth stack was 10 blocks taller than the third stack. If the fifth stack has twice as many blocks as the second stack, how many blocks did Thomas use in all?",
+  "steps": [
+    "The first stack is 7 blocks tall.",
+    "The second stack is 3 blocks taller than the first stack. So, the second stack is 7 + 3 = 10 blocks tall.",
+    "The third stack is 6 blocks shorter than the second stack. So, the third stack is 10 - 6 = 4 blocks tall.",
+    "The fourth stack is 10 blocks taller than the third stack. So, the fourth stack is 4 + 10 = 14 blocks tall.",
+    "The fifth stack has twice as many blocks as the second stack. So, the fifth stack is 10 * 2 = 20 blocks tall.",
+    "Now, add the blocks for all the stacks together: 7 (first) + 10 (second) + 4 (third) + 14 (fourth) + 20 (fifth) = 55 blocks."
+  ],
+  "solution": "55"
+}

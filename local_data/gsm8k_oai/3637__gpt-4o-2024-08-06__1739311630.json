@@ -1,0 +1,14 @@
+{
+  "query": "Gretchen is a scuba diver.  She likes to hunt for treasure on the ocean's floor, but when she finds something to keep, she must carry it back to the surface of the water to give it to her shipmate on the boat.  She can only carry 3 objects at a time while she swims underwater.  If she finds 17 objects underwater, what is the fewest number of trips to the surface of the water she must take to carry all 17 objects to the boat?",
+  "steps": [
+    "First, I know that Gretchen can carry up to 3 objects per trip.",
+    "She has found 17 objects underwater.",
+    "To find the number of trips, I'll divide the total number of objects by the number she can carry per trip.",
+    "17 divided by 3 equals 5 with a remainder of 2.",
+    "The quotient is 5, which indicates 5 complete trips carrying 3 objects each.",
+    "There is a remainder of 2, meaning after 5 trips, 2 objects will still be left.",
+    "She will need an additional trip to carry these last 2 objects.",
+    "Therefore, the fewest number of trips she must take is 6."
+  ],
+  "solution": "6"
+}

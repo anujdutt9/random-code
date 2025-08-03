@@ -1,0 +1,16 @@
+{
+  "query": "Central Park had 8 more than half of the number of trash cans as in Veteran's Park.  Then one night, someone took half of the trash cans from Central Park and put them in Veteran's Park.  If originally there were 24 trash cans in Veteran's Park, how many trash cans are now in Veteran's Park?",
+  "steps": [
+    "First, I need to determine how many trash cans were in Central Park originally.",
+    "Let V be the number of trash cans in Veteran's Park. According to the problem, V = 24.",
+    "Central Park had 8 more than half of the number of trash cans as in Veteran's Park.",
+    "I calculate half of the trash cans in Veteran's Park: 24 / 2 = 12.",
+    "Now I add 8 to this number since Central Park had 8 more than half: 12 + 8 = 20.",
+    "So, originally, there were 20 trash cans in Central Park.",
+    "Now, someone took half of the trash cans from Central Park and moved them to Veteran's Park.",
+    "Half of the trash cans in Central Park: 20 / 2 = 10.",
+    "These 10 trash cans were moved to Veteran's Park.",
+    "Originally, Veteran's Park had 24 trash cans. Adding the 10 from Central Park: 24 + 10 = 34."
+  ],
+  "solution": "34"
+}

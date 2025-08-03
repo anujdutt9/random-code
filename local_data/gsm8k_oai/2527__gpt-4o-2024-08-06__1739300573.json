@@ -1,0 +1,19 @@
+{
+  "query": "A cafe has 9 indoor tables and 11 outdoor tables. Each indoor table has 10 chairs, and each outdoor table has 3 chairs. How many chairs are there in all?",
+  "steps": [
+    "First, I need to find the total number of chairs for the indoor tables.",
+    "There are 9 indoor tables.",
+    "Each indoor table has 10 chairs.",
+    "So, the total number of chairs for indoor tables is 9 tables * 10 chairs/table.",
+    "Calculating this gives 90 chairs.",
+    "Next, I need to find the total number of chairs for the outdoor tables.",
+    "There are 11 outdoor tables.",
+    "Each outdoor table has 3 chairs.",
+    "So, the total number of chairs for outdoor tables is 11 tables * 3 chairs/table.",
+    "Calculating this gives 33 chairs.",
+    "Now, I need to find the total number of chairs by adding the indoor and outdoor chairs.",
+    "I add the 90 indoor chairs to the 33 outdoor chairs.",
+    "Calculating this gives 123 chairs in total."
+  ],
+  "solution": "123"
+}

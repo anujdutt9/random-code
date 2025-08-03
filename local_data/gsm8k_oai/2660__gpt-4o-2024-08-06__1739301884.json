@@ -1,0 +1,15 @@
+{
+  "query": "Mr. Salazar had seven dozen oranges. He reserved 1/4 of it for his friend and was able to sell 3/7 of the remaining yesterday. Today, he saw four rotten oranges. How many oranges are left to be sold today?",
+  "steps": [
+    "First, I need to determine the total number of oranges Mr. Salazar had. Since one dozen is 12, he had 7 dozen oranges initially.",
+    "Calculate the total number of oranges by multiplying 7 dozen by 12. \n7 dozen \u00d7 12 oranges/dozen = 84 oranges.",
+    "Next, Mr. Salazar reserved 1/4 of the 84 oranges for his friend. \nCalculate 1/4 of 84.",
+    "1/4 \u00d7 84 = 21 oranges reserved for his friend.",
+    "Determine how many oranges were not reserved by subtracting the reserved oranges from the total oranges.\n84 - 21 = 63 oranges remaining after the reservation.",
+    "He sold 3/7 of the 63 remaining oranges yesterday.\nCalculate 3/7 of 63.",
+    "3/7 \u00d7 63 = 27 oranges sold yesterday.",
+    "Determine how many oranges were left after selling some yesterday by subtracting the number sold from the remaining oranges.\n63 - 27 = 36 oranges left after the sale yesterday.",
+    "Today, he found four rotten oranges. Subtract these rotten oranges from the current remaining.\n36 - 4 = 32 oranges are still good."
+  ],
+  "solution": "32"
+}

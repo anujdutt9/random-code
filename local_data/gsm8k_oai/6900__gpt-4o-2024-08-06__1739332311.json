@@ -1,0 +1,20 @@
+{
+  "query": "A window has 4 glass panels each. A house has 6 double windows downstairs and 8 single windows upstairs. How many glass panels are there in the whole house?",
+  "steps": [
+    "First, I need to determine how many glass panels are in a single window.",
+    "The problem states that a window has 4 glass panels each.",
+    "Next, I need to calculate the number of double windows.",
+    "There are 6 double windows downstairs.",
+    "Double windows mean that each \"double\" window is equivalent to two single windows.",
+    "Since each double window has 2 sets of glass windows, I multiply 6 double windows by 2 to calculate the total number of single window sets downstairs.",
+    "6 double windows \u00d7 2 = 12 single window sets downstairs.",
+    "Next, I calculate how many single windows are upstairs.",
+    "There are 8 single windows upstairs.",
+    "Now, I sum up all the single windows in the house.",
+    "12 single window sets downstairs + 8 single windows upstairs = 20 single windows in total.",
+    "Now, I calculate the total number of glass panels by multiplying the total number of single windows by the number of glass panels per window.",
+    "Each window has 4 glass panels.",
+    "20 single windows \u00d7 4 glass panels each = 80 glass panels in the whole house."
+  ],
+  "solution": "80"
+}

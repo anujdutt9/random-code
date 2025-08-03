@@ -1,0 +1,14 @@
+{
+  "query": "The Giants baseball team is trying to make their league playoff. They have played 20 games and won 12 of them. To make the playoffs, they need to win 2/3 of their games over the season. If there are 10 games left, how many do they have to win to make the playoffs?",
+  "steps": [
+    "The Giants have played 20 games and won 12 of them.",
+    "They have 10 games left to play this season.",
+    "The total number of games they will play in the season is 20 (played) + 10 (remaining) = 30 games.",
+    "To make the playoffs, they need to win 2/3 of their total games. Therefore, they need to win 2/3 of 30 games.",
+    "Calculate 2/3 of 30: \n(2/3) * 30 = 20.",
+    "They need to win 20 games in total to make the playoffs.",
+    "The Giants have already won 12 games.",
+    "To find out how many more games they need to win, subtract the games they've already won from the total needed: \n20 (total needed) - 12 (already won) = 8."
+  ],
+  "solution": "8"
+}

@@ -1,0 +1,12 @@
+{
+  "query": "Bob orders a pizza with 8 slices.  He eats half of it and each slice was 300 calories.  How many calories did he eat?",
+  "steps": [
+    "The pizza has 8 slices in total.",
+    "Bob eats half of the pizza.",
+    "Half of 8 slices is 8 / 2 = 4 slices.",
+    "Each slice is 300 calories.",
+    "To find the total calories Bob consumed, multiply the number of slices he ate by the calories per slice.",
+    "4 slices * 300 calories/slice = 1200 calories."
+  ],
+  "solution": "1200"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "When Diane turns 30, she will be half the age of Alex and twice as old as Allison. Diane is 16 years old now. What is the sum of the ages of Alex and Allison now?",
+  "steps": [
+    "First, we acknowledge that Diane is currently 16 years old.",
+    "To find out the age when Diane turns 30, we calculate the difference between 30 and her current age: \\(30 - 16 = 14\\). So, Diane will be 30 in 14 years.",
+    "When Diane is 30, she will be half the age of Alex. Let Alex's age when Diane is 30 be \\(A\\). Then, according to the problem, \\(A = 2 \\times 30 = 60\\).",
+    "Now calculate Alex's current age. Since it will be 14 years in the future when Diane turns 30, we subtract 14 from Alex's age when Diane is 30: \\(60 - 14 = 46\\).",
+    "Next, when Diane is 30, she will be twice the age of Allison. Let Allison's age at that time be \\(a\\). So, \\(2a = 30\\).",
+    "Solving for Allison's age when Diane turns 30: \\(a = 30 / 2 = 15\\).",
+    "Now we determine Allison's current age by subtracting 14 from her age when Diane is 30: \\(15 - 14 = 1\\).",
+    "Finally, we calculate the sum of Alex's and Allison's current ages: \\(46 + 1 = 47\\)."
+  ],
+  "solution": "47"
+}

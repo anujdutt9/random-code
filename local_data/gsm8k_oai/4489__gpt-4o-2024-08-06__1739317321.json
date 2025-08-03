@@ -1,0 +1,18 @@
+{
+  "query": "Michael has $50. He wants to surprise his mom on Mother's day by buying a cake for $20, a bouquet for $36, and a set of balloons for $5. How much more money does Michael need to buy all those?",
+  "steps": [
+    "First, I'll calculate the total cost of the items Michael wants to buy.",
+    "The cost of the cake is $20.",
+    "The cost of the bouquet is $36.",
+    "The cost of the balloons is $5.",
+    "Now, I add up these costs: $20 + $36 + $5.",
+    "$20 + $36 equals $56.",
+    "$56 + $5 equals $61.",
+    "The total cost for all the items is $61.",
+    "Michael currently has $50.",
+    "To find out how much more money he needs, I subtract his current amount from the total cost.",
+    "$61 - $50 equals $11.",
+    "Michael needs $11 more to buy all the items."
+  ],
+  "solution": "11"
+}

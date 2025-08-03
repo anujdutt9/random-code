@@ -1,0 +1,16 @@
+{
+  "query": "Aubrey is planting tomatoes and cucumbers in her garden. For each row of tomato plants, she is planting 2 rows of cucumbers. She has enough room for 15 rows of plants in total. There is enough space for 8 tomato plants in each row. If each plant produces 3 tomatoes, how many tomatoes will she have in total?",
+  "steps": [
+    "First, determine how many rows of tomatoes there are. Aubrey plants 2 rows of cucumbers for every 1 row of tomatoes.",
+    "Let the number of rows of tomatoes be \\( t \\) and the number of rows of cucumbers be \\( 2t \\). The total number of rows is \\( t + 2t = 3t \\).",
+    "According to the problem, there are 15 total rows available for planting.",
+    "Set up the equation for total rows: \\( 3t = 15 \\).",
+    "Solve the equation for \\( t \\): \\( t = \\frac{15}{3} = 5 \\).",
+    "So, there are 5 rows of tomatoes.",
+    "Now calculate how many tomato plants are there in total. There are 8 tomato plants per row.",
+    "Multiply the number of rows by the number of plants per row: \\( 5 \\times 8 = 40 \\).",
+    "Each tomato plant produces 3 tomatoes.",
+    "Calculate the total number of tomatoes by multiplying the number of plants by the number of tomatoes per plant: \\( 40 \\times 3 = 120 \\)."
+  ],
+  "solution": "120"
+}

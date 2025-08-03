@@ -1,0 +1,20 @@
+{
+  "query": "Dolly wants to ride the Ferris wheel twice, the roller coaster three times, and the log ride seven times. The Ferris wheel costs 2 tickets, the roller coaster costs 5 tickets and the log ride costs 1 ticket. Dolly has 20 tickets. How many more tickets should Dolly buy?",
+  "steps": [
+    "First, I need to determine the total number of tickets Dolly needs for each attraction.",
+    "For the Ferris wheel, it costs 2 tickets per ride and she wants to ride it twice.",
+    "So, 2 rides on the Ferris wheel will cost 2 tickets/ride * 2 rides = 4 tickets.",
+    "Next, for the roller coaster, it costs 5 tickets per ride and she wants to ride it three times.",
+    "Therefore, 3 rides on the roller coaster will cost 5 tickets/ride * 3 rides = 15 tickets.",
+    "Finally, for the log ride, it costs 1 ticket per ride and she wants to ride it seven times.",
+    "So, 7 rides on the log ride will cost 1 ticket/ride * 7 rides = 7 tickets.",
+    "Now, let's calculate the total number of tickets needed for all rides together.",
+    "Total tickets needed = Ferris wheel tickets + Roller coaster tickets + Log ride tickets",
+    "Total tickets needed = 4 + 15 + 7 = 26 tickets.",
+    "Dolly has 20 tickets already.",
+    "The number of additional tickets Dolly needs to buy is the total tickets needed minus the tickets she already has.",
+    "Additional tickets needed = Total tickets needed - Tickets Dolly has",
+    "Additional tickets needed = 26 - 20 = 6 tickets."
+  ],
+  "solution": "6"
+}

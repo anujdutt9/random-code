@@ -1,0 +1,16 @@
+{
+  "query": "The minimum age required to be employed at a company is 25 years. Dara aspires to work for the company and will be half the age of Jane in six years. If Jane is currently working for the company and is 28 years old, how long is it before Dara reaches the minimum age required by the company to be employed?",
+  "steps": [
+    "I need to find out Dara's current age and how long it will take for Dara to reach the age of 25, which is the minimum age required.",
+    "I know that Jane is currently 28 years old and is already working for the company, meaning she is at least 25 years old, which checks out since 28 is greater than 25.",
+    "In six years, Jane will be 28 + 6 = 34 years old.",
+    "It's given that Dara will be half the age of Jane in six years. So Dara's age in six years will be half of 34.",
+    "Half of 34 is 34 / 2 = 17.",
+    "Thus, Dara will be 17 years old in six years.",
+    "To find out Dara's current age, I need to subtract six years from 17.",
+    "Dara's current age is 17 - 6 = 11 years old.",
+    "I now calculate how many more years Dara needs to reach the age of 25.",
+    "If Dara is currently 11, then to reach 25, Dara will need 25 - 11 = 14 more years."
+  ],
+  "solution": "14"
+}

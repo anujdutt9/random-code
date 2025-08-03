@@ -1,0 +1,17 @@
+{
+  "query": "Jack bought 3 books a month at $20 each.  He sells them back at the end of the year for $500.  How much money did he lose?",
+  "steps": [
+    "First, I need to calculate how much Jack spent on books for the entire year.",
+    "Jack bought 3 books each month.",
+    "There are 12 months in a year.",
+    "So, Jack bought a total of 3 books/month * 12 months = 36 books.",
+    "Each book cost $20.",
+    "So, Jack spent 36 books * $20/book = $720 on books for the year.",
+    "Next, I need to consider how much he made from selling the books.",
+    "Jack sold the books for $500 at the end of the year.",
+    "Now, I subtract the amount he received from selling the books from the amount he spent buying them.",
+    "$720 (spent) - $500 (received) = $220.",
+    "So, Jack lost $220."
+  ],
+  "solution": "220"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "A store sells 20 packets of 100 grams of sugar every week. How many kilograms of sugar does it sell every week?",
+  "steps": [
+    "The store sells 20 packets of sugar every week.",
+    "Each packet contains 100 grams of sugar.",
+    "To find the total grams of sugar sold each week, I need to multiply the number of packets by the grams per packet.",
+    "20 packets x 100 grams per packet = 2000 grams.",
+    "Next, I need to convert grams to kilograms.",
+    "There are 1000 grams in a kilogram.",
+    "To convert grams to kilograms, I divide the total grams by 1000.",
+    "2000 grams / 1000 = 2 kilograms."
+  ],
+  "solution": "2"
+}

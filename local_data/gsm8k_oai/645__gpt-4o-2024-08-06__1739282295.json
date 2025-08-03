@@ -1,0 +1,18 @@
+{
+  "query": "In the city, there is a block of flats. This block has 12 floors. Half of the floors have 6 apartments and the other half have 5 apartments. One apartment can accommodate a maximum of 4 residents. What is the maximum number of residents that can live in this block of flats?",
+  "steps": [
+    "First, I need to determine how many floors have 6 apartments and how many have 5 apartments.",
+    "The block has 12 floors. Half of them have 6 apartments, so 12 divided by 2 is 6. There are 6 floors with 6 apartments.",
+    "Consequently, the other half of the 12 floors, another 6 floors, have 5 apartments each.",
+    "Now I calculate the total number of apartments in the floors with 6 apartments each.",
+    "There are 6 floors, each with 6 apartments, which is 6 multiplied by 6. This equals 36 apartments on these floors.",
+    "Next, I calculate the total number of apartments in the floors with 5 apartments each.",
+    "There are 6 floors, each with 5 apartments, which is 6 multiplied by 5. This equals 30 apartments on these floors.",
+    "Adding these two results together will give me the total number of apartments in the building.",
+    "36 apartments plus 30 apartments equals 66 apartments in total.",
+    "Now, since each apartment can accommodate a maximum of 4 residents, I need to calculate the total maximum number of residents.",
+    "I multiply the total number of apartments, 66, by 4 residents per apartment.",
+    "66 multiplied by 4 equals 264."
+  ],
+  "solution": "264"
+}

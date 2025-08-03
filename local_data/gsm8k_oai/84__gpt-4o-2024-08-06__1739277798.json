@@ -1,0 +1,13 @@
+{
+  "query": "Hans booked a room in a hotel. The hotel has 10 floors with 10 identical rooms on each floor. Because of an accident, the last floor is unavailable for the guests. Considering there are no other guests, in how many different rooms could Hans be checked in?",
+  "steps": [
+    "The hotel originally has 10 floors.",
+    "Each floor has 10 identical rooms.",
+    "Thus, the total number of rooms in the hotel is 10 floors * 10 rooms/floor = 100 rooms.",
+    "However, the last floor is unavailable due to an accident.",
+    "The last floor has 10 rooms.",
+    "Since that entire floor is unavailable, we must subtract those 10 rooms from the total.",
+    "So, the available rooms are 100 total rooms - 10 unavailable rooms = 90 rooms."
+  ],
+  "solution": "90"
+}

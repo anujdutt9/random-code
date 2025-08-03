@@ -1,0 +1,14 @@
+{
+  "query": "It rained twice as much on Tuesday as Monday.  On Monday it rained 3 inches more than Sunday.  It rained 4 inches on Sunday.  How much total rainfall was there over the 3 days?",
+  "steps": [
+    "First, I know it rained 4 inches on Sunday.",
+    "It rained 3 inches more on Monday than on Sunday.",
+    "To find the rainfall on Monday, I add 3 inches to the rainfall on Sunday, which gives me 4 + 3 = 7 inches on Monday.",
+    "On Tuesday, it rained twice as much as on Monday.",
+    "So, I need to calculate twice the rainfall of Monday, which is 2 times 7 = 14 inches for Tuesday.",
+    "Now, I need to calculate the total rainfall over the 3 days.",
+    "I add the rainfall for each day: Sunday (4 inches) + Monday (7 inches) + Tuesday (14 inches).",
+    "Adding these values together gives me 4 + 7 + 14 = 25 inches."
+  ],
+  "solution": "25"
+}

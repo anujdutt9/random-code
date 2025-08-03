@@ -1,0 +1,13 @@
+{
+  "query": "Sylvie is feeding her turtles. Each turtle needs 1 ounce of food per 1/2 pound of body weight. She has 30 pounds of turtles. Each jar of food contains 15 ounces and costs $2.  How much does it cost to feed the turtles?",
+  "steps": [
+    "First, I want to determine the total body weight of Sylvie's turtles. She has 30 pounds of turtles.",
+    "Now, I need to calculate how many ounces of food the turtles require. Each turtle needs 1 ounce of food per 1/2 pound of body weight. This means for every pound, each turtle needs 2 ounces of food.",
+    "So for 30 pounds of turtles, they need 30 pounds * 2 ounces/pound = 60 ounces of food in total.",
+    "Next, I need to find out how many jars of food Sylvie needs to purchase. Each jar contains 15 ounces of food.",
+    "If each jar contains 15 ounces and the turtles need 60 ounces in total, then I calculate the number of jars as 60 ounces / 15 ounces/jar = 4 jars.",
+    "The cost of each jar is $2.",
+    "Therefore, the total cost is 4 jars * $2/jar = $8."
+  ],
+  "solution": "8"
+}

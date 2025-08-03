@@ -1,0 +1,22 @@
+{
+  "query": "Joe buys 3 oranges, 7 juices, 3 jars of honey, and 4 plants at the market. The fruit costs $4.50 each, the juice was 50 cents each, the jars of honey were $5, and the plants were 2 for $18. How much does Joe spend at the market?",
+  "steps": [
+    "First, I need to calculate the total cost of the oranges. Joe buys 3 oranges and each orange costs $4.50.",
+    "To find the total cost for oranges, I multiply 3 oranges by $4.50 per orange.",
+    "3 \u00d7 $4.50 = $13.50",
+    "Now, I calculate the total cost of the juices. Joe buys 7 juices and each juice costs $0.50.",
+    "To find the total cost for juices, I multiply 7 juices by $0.50 per juice.",
+    "7 \u00d7 $0.50 = $3.50",
+    "Next, I calculate the total cost of the jars of honey. Joe buys 3 jars of honey, and each jar costs $5.",
+    "To find the total cost for honey, I multiply 3 jars by $5 per jar.",
+    "3 \u00d7 $5 = $15",
+    "Finally, I calculate the total cost of the plants. Joe buys 4 plants, and the cost is 2 for $18.",
+    "Since 2 plants cost $18, I calculate how much 4 plants will cost.",
+    "4 plants is double the 2 plants that cost $18, so I double $18 to find the total cost.",
+    "2 \u00d7 $18 = $36",
+    "Now, I add up all the individual costs to find the total amount Joe spends at the market.",
+    "$13.50 (oranges) + $3.50 (juices) + $15 (honey) + $36 (plants) = total cost",
+    "I perform the addition: $13.50 + $3.50 + $15 + $36 = $68"
+  ],
+  "solution": "68"
+}

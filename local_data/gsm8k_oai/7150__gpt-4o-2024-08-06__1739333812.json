@@ -1,0 +1,17 @@
+{
+  "query": "Lindsey owns 4 more cars than Cathy. Susan owns 2 fewer cars than Carol. Carol owns twice as many cars as Cathy. If Cathy owns 5 cars, how many total cars do they all own put together?",
+  "steps": [
+    "First, I need to determine how many cars Cathy owns. According to the problem, Cathy owns 5 cars.",
+    "Next, I need to find how many cars Lindsey owns. Lindsey owns 4 more cars than Cathy.",
+    "Lindsey's cars = Cathy's cars + 4 = 5 + 4 = 9 cars.",
+    "Now, I need to find out how many cars Carol owns. Carol owns twice as many cars as Cathy.",
+    "Carol's cars = 2 * Cathy's cars = 2 * 5 = 10 cars.",
+    "Next, I calculate how many cars Susan owns. Susan owns 2 fewer cars than Carol.",
+    "Susan's cars = Carol's cars - 2 = 10 - 2 = 8 cars.",
+    "Now, I calculate the total number of cars owned by Lindsey, Cathy, Susan, and Carol.",
+    "Total cars = Cathy's cars + Lindsey's cars + Susan's cars + Carol's cars.",
+    "Total cars = 5 + 9 + 8 + 10.",
+    "Total cars = 32."
+  ],
+  "solution": "32"
+}

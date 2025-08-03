@@ -1,0 +1,21 @@
+{
+  "query": "In the first round of bowling, Patrick knocked down a total of 70 pins and Richard knocked down 15 more pins than Patrick. In the second round, Patrick knocked down twice as many pins as Richard in the first round and Richard knocked down 3 less than Patrick. How many more pins in total did Richard knock down than Patrick?",
+  "steps": [
+    "First, I need to find out how many pins Richard knocked down in the first round.",
+    "I know Patrick knocked down 70 pins in the first round.",
+    "Richard knocked down 15 more pins than Patrick in the first round.",
+    "So, Richard knocked down 70 + 15 = 85 pins in the first round.",
+    "Next, I need to find out how many pins Patrick knocked down in the second round.",
+    "Patrick knocked down twice as many pins as Richard did in the first round.",
+    "Since Richard knocked down 85 pins in the first round, Patrick knocked down 2 * 85 = 170 pins in the second round.",
+    "Now, I need to find out how many pins Richard knocked down in the second round.",
+    "Richard knocked down 3 less pins than Patrick did in the second round.",
+    "Since Patrick knocked down 170 pins in the second round, Richard knocked down 170 - 3 = 167 pins in the second round.",
+    "Now, I will calculate the total pinfall for Patrick and Richard.",
+    "Patrick's total pinfall is 70 (first round) + 170 (second round) = 240 pins.",
+    "Richard's total pinfall is 85 (first round) + 167 (second round) = 252 pins.",
+    "Finally, I will calculate how many more pins in total Richard knocked down than Patrick.",
+    "Richard knocked down 252 - 240 = 12 more pins than Patrick in total."
+  ],
+  "solution": "12"
+}

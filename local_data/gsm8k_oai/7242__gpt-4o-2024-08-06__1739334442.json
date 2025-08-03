@@ -1,0 +1,15 @@
+{
+  "query": "John drinks 1.5 gallons of water a day.  How many quarts does he drink a week?",
+  "steps": [
+    "First, I need to determine the number of days in a week.",
+    "There are 7 days in a week.",
+    "Next, I should calculate the total gallons of water John drinks in a week.",
+    "John drinks 1.5 gallons of water per day.",
+    "Multiplying 1.5 gallons by 7 days gives 1.5 * 7 = 10.5 gallons per week.",
+    "Now, I need to convert gallons to quarts because the question asks for quarts.",
+    "There are 4 quarts in a gallon.",
+    "I will multiply the total number of gallons by the number of quarts per gallon to find the total quarts John drinks in a week.",
+    "Multiplying 10.5 gallons by 4 quarts per gallon gives 10.5 * 4 = 42 quarts."
+  ],
+  "solution": "42"
+}

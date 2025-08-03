@@ -1,0 +1,26 @@
+{
+  "query": "240 sixth-grade students were asked about the number of novels they read per month. 1/6 of students read three or more novels, 35% of students read two novels, 5/12 of students read one novel, and the rest of the students do not read anything. Calculate the number of students who do not read novels.",
+  "steps": [
+    "First, I need to find how many students read three or more novels.",
+    "There are 240 students in total.",
+    "1/6 of 240 students read three or more novels.",
+    "To find 1/6 of 240, I calculate \\( \\frac{1}{6} \\times 240 = 40 \\).",
+    "So, 40 students read three or more novels.",
+    "Now, I will calculate how many students read two novels.",
+    "35% of 240 students read two novels.",
+    "I need to find 35% of 240.",
+    "0.35 times 240 equals \\( 0.35 \\times 240 = 84 \\).",
+    "Therefore, 84 students read two novels.",
+    "Next, I calculate how many students read one novel.",
+    "5/12 of 240 students read one novel.",
+    "Calculating \\( \\frac{5}{12} \\times 240 \\) gives me 100.",
+    "So, 100 students read one novel.",
+    "To find out the number of students who do not read any novels, I will subtract the number of students who read novels from the total number of students.",
+    "The number of students who read at least one novel is 40 (three or more) + 84 (two novels) + 100 (one novel).",
+    "40 + 84 + 100 equals 224.",
+    "Thus, 224 students read at least one novel.",
+    "The number of students who don't read any novels is the total number of students minus those who read novels.",
+    "240 - 224 equals 16."
+  ],
+  "solution": "16"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Henry had some games, and he gave six of them to Neil. Now, Henry has 4 times more games than Neil. If Neil had 7 games at first, how many games did Henry have at first?",
+  "steps": [
+    "First, let's determine how many games Neil has after receiving 6 from Henry.",
+    "Neil initially had 7 games.",
+    "Neil received 6 games from Henry.",
+    "Neil now has \\( 7 + 6 = 13 \\) games.",
+    "Now, according to the problem, Henry has 4 times more games than Neil after giving away the 6 games.",
+    "If Neil has 13 games, then Henry has 4 times more than 13 games, which means Henry has \\( 4 \\times 13 = 52 \\) games.",
+    "Henry gave away 6 games to Neil.",
+    "To find out how many games Henry had initially, we add the 6 games back to the 52 games he currently has.",
+    "Thus, Henry had \\( 52 + 6 = 58 \\) games initially."
+  ],
+  "solution": "58"
+}

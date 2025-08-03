@@ -1,0 +1,16 @@
+{
+  "query": "Carla is taking attendance for her sixth-grade class. She knows that 2 students are in the restroom, and one less than three times that number of students are absent. If there are four rows with six desks each that are all 2/3 full, how many students does Carla teach, including the ones in and out of the classroom?",
+  "steps": [
+    "First, determine the layout of the classroom. There are four rows with six desks each.",
+    "Calculate the total number of desks: 4 rows * 6 desks/row = 24 desks.",
+    "Next, calculate how many students are present in the classroom. It's mentioned that the desks are 2/3 full.",
+    "Calculate 2/3 of 24 desks: 24 * (2/3) = 16 students present in the classroom.",
+    "Add the students who are in the restroom. We know there are 2 students in the restroom.",
+    "Add the students in the restroom to the number of students present: 16 present + 2 in restroom = 18 students present/in restroom.",
+    "Now, calculate the number of students absent. It's mentioned that one less than three times the number of students in the restroom are absent.",
+    "First, calculate three times the number of students in the restroom: 3 * 2 = 6.",
+    "Subtract one from that product: 6 - 1 = 5 students are absent.",
+    "Finally, calculate the total number of students Carla teaches by adding the students present, those in the restroom, and those absent: 18 present/in restroom + 5 absent = 23 students."
+  ],
+  "solution": "23"
+}

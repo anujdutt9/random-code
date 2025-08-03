@@ -1,0 +1,13 @@
+{
+  "query": "Tom plants a tree that is 1 year old and 5 feet tall.  It gains 3 feet per year.  How old is it when it is 23 feet tall?",
+  "steps": [
+    "I know that the tree gains 3 feet every year.",
+    "The tree starts at 5 feet tall when it is 1 year old.",
+    "I need to determine how many feet it needs to grow to reach 23 feet.",
+    "23 feet (final height) - 5 feet (initial height) = 18 feet (growth needed).",
+    "Since the tree grows 3 feet every year, I can find out how many years it takes to grow 18 feet.",
+    "I divide the growth needed by the growth per year: 18 feet / 3 feet per year = 6 years.",
+    "The tree was 1 year old at 5 feet, so adding the 6 years gives it an age of 1 + 6 = 7 years old when it reaches 23 feet tall."
+  ],
+  "solution": "7"
+}

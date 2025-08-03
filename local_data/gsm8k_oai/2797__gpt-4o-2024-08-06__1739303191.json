@@ -1,0 +1,19 @@
+{
+  "query": "To run his grocery store, Mr. Haj needs $4000 a day. This money is used to pay for orders done, delivery costs and employees' salaries. If he spends 2/5 of the total operation costs on employees' salary and 1/4 of the remaining amount on delivery costs, how much money does he pay for the orders done?",
+  "steps": [
+    "First, I notice that Mr. Haj needs $4000 a day to run his grocery store. This money covers orders, delivery, and salaries.",
+    "Out of this $4000, 2/5 is used to pay employees\u2019 salaries.",
+    "I need to calculate 2/5 of $4000 to find the money spent on employees\u2019 salaries.",
+    "Calculating 2/5 of $4000: (2/5) * $4000 = $1600.",
+    "$1600 is spent on salaries, so I need to calculate the remaining amount from $4000 after salaries.",
+    "Subtract $1600 (employees' salaries) from $4000: $4000 - $1600 = $2400.",
+    "Now, this $2400 is the amount left after paying salaries. The question states that 1/4 of the remaining amount is spent on delivery costs.",
+    "Calculating 1/4 of $2400: (1/4) * $2400 = $600.",
+    "$600 is spent on delivery costs.",
+    "Next, I need to determine how much is spent on the orders done.",
+    "Subtract the amount spent on delivery ($600) from the remaining amount after salaries ($2400).",
+    "$2400 - $600 = $1800.",
+    "Therefore, $1800 is spent on the orders done."
+  ],
+  "solution": "1800"
+}

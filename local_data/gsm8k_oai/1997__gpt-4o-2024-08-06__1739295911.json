@@ -1,0 +1,17 @@
+{
+  "query": "Penelope the pig eats 20 pounds of food per day, which is 10 times more than Greta the goose eats per day.  Milton the mouse eats 1/100 as much as Greta the goose eats per day, but Elmer the elephant eats 4000 times more than Milton the mouse does per day.  How much more, in pounds, does Elmer the elephant eat per day than Penelope the pig?",
+  "steps": [
+    "Penelope the pig eats 20 pounds of food per day.",
+    "Penelope eats 10 times more than Greta the goose eats per day.",
+    "To find how much Greta eats, divide the amount Penelope eats by 10: \\( \\frac{20}{10} = 2 \\).",
+    "Greta the goose eats 2 pounds of food per day.",
+    "Milton the mouse eats \\(\\frac{1}{100}\\) as much as Greta the goose eats per day.",
+    "Calculate how much Milton eats by dividing Greta's food amount by 100: \\( \\frac{2}{100} = 0.02 \\).",
+    "Milton the mouse eats 0.02 pounds of food per day.",
+    "Elmer the elephant eats 4000 times more than Milton the mouse eats per day.",
+    "Calculate how much Elmer eats by multiplying Milton's food amount by 4000: \\( 0.02 \\times 4000 = 80 \\).",
+    "Elmer the elephant eats 80 pounds of food per day.",
+    "To find how much more Elmer eats than Penelope, subtract the amount Penelope eats from the amount Elmer eats: \\( 80 - 20 = 60 \\)."
+  ],
+  "solution": "60"
+}

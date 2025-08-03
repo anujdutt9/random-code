@@ -1,0 +1,16 @@
+{
+  "query": "Brian loves watching animal videos online.  He watches a 4-minute video of cats.  He then watches a video twice as long as the cat video involving dogs.  He finishes up his video watching for the day by watching a video on gorillas that's twice as long as the previous two videos combined.  How many minutes does Brian spend watching animal videos?",
+  "steps": [
+    "Brian starts by watching a 4-minute video of cats.",
+    "Next, he watches a dog video that is twice as long as the cat video.",
+    "The dog video is 2 times 4 minutes, which equals 8 minutes.",
+    "Now, I need to calculate the total length of the cat and dog videos.",
+    "The total length of the cat and dog videos is 4 minutes + 8 minutes = 12 minutes.",
+    "The gorilla video is twice as long as the combined length of the cat and dog videos.",
+    "Twice the length of 12 minutes is 2 times 12 minutes = 24 minutes.",
+    "Finally, I add the lengths of all the videos: 4 minutes (cats) + 8 minutes (dogs) + 24 minutes (gorillas).",
+    "The total time Brian spends watching videos is 4 + 8 + 24 minutes.",
+    "Adding these gives me 36 minutes."
+  ],
+  "solution": "36"
+}

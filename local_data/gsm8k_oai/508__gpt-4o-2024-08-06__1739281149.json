@@ -1,0 +1,21 @@
+{
+  "query": "James drives 30 mph for half an hour and then twice as long for twice the speed.  How far did he drive in total?",
+  "steps": [
+    "First, let's consider the first part of the trip.",
+    "James drives for 30 minutes at 30 mph.",
+    "30 minutes is equivalent to 0.5 hours.",
+    "Distance is calculated as speed multiplied by time.",
+    "So, the distance for the first part is 30 mph * 0.5 hours.",
+    "This is equal to 15 miles.",
+    "Now, let's consider the second part of the trip.",
+    "The second part of the trip is twice as long as the first part, so it is 1 hour.",
+    "James drives at twice the speed during the second part of the trip.",
+    "Twice the speed of 30 mph is 60 mph.",
+    "So, the distance for the second part is 60 mph * 1 hour.",
+    "This is equal to 60 miles.",
+    "Now, let's find the total distance driven.",
+    "The total distance is the sum of both parts: 15 miles + 60 miles.",
+    "This is equal to 75 miles."
+  ],
+  "solution": "75"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Annie likes to eat cookies. She ate 5 cookies on Monday, two times more on Tuesday, and 40% more on Wednesday than on Tuesday. How many cookies did Annie eat during these three days?",
+  "steps": [
+    "Annie ate 5 cookies on Monday.",
+    "On Tuesday, she ate two times more than Monday. So, 5 cookies times 2 equals 10 cookies on Tuesday.",
+    "On Wednesday, she ate 40% more cookies than Tuesday.",
+    "40% of Tuesday's cookies (10) is 10 * 0.40 = 4 cookies.",
+    "Therefore, Annie ate 10 + 4 = 14 cookies on Wednesday.",
+    "Now, I will add the number of cookies eaten over the three days.",
+    "Monday's cookies: 5",
+    "Tuesday's cookies: 10",
+    "Wednesday's cookies: 14",
+    "The total number of cookies is 5 + 10 + 14 = 29 cookies."
+  ],
+  "solution": "29"
+}

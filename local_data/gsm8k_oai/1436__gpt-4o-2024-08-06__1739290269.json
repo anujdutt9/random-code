@@ -1,0 +1,15 @@
+{
+  "query": "Charlie owns one flute, two horns, and a harp.  Carli owns twice as many flutes as Charlie, half as many horns as Charlie, but no harps.  What is the combined total number of musical instruments owned by Charlie and Carli?",
+  "steps": [
+    "Charlie owns 1 flute.",
+    "Charlie owns 2 horns.",
+    "Charlie owns 1 harp.",
+    "Carli owns twice as many flutes as Charlie. Therefore, Carli owns 2 * 1 = 2 flutes.",
+    "Carli owns half as many horns as Charlie. Therefore, Carli owns 2 / 2 = 1 horn.",
+    "Carli owns 0 harps.",
+    "Adding up the instruments, Charlie owns 1 flute + 2 horns + 1 harp = 4 instruments.",
+    "Carli owns 2 flutes + 1 horn + 0 harps = 3 instruments.",
+    "The combined total number of instruments owned by Charlie and Carli is 4 + 3 = 7."
+  ],
+  "solution": "7"
+}

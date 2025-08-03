@@ -1,0 +1,21 @@
+{
+  "query": "A store marks a book 30% above the cost. But during a sale, a 10% discount was given. If the book costs $50, what is the percent profit?",
+  "steps": [
+    "The cost price of the book is $50.",
+    "First, calculate the marked price, which is 30% above the cost price.",
+    "The marked price is calculated as cost price + 30% of cost price.",
+    "30% of the cost price of $50 is 0.3 * $50 = $15.",
+    "The marked price is $50 + $15 = $65.",
+    "A 10% discount is given on the marked price during the sale.",
+    "The discount amount is 10% of the marked price.",
+    "10% of $65 is 0.1 * $65 = $6.50.",
+    "The selling price after the discount is the marked price minus the discount.",
+    "The selling price is $65 - $6.50 = $58.50.",
+    "Now, calculate the profit by subtracting the cost price from the selling price.",
+    "Profit = Selling price - Cost price = $58.50 - $50 = $8.50.",
+    "To find the percent profit, divide the profit by the cost price and multiply by 100.",
+    "Percent profit = ($8.50 / $50) * 100.",
+    "Percent profit = 17%."
+  ],
+  "solution": "17"
+}

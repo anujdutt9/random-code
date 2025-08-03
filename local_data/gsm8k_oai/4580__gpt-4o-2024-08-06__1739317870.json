@@ -1,0 +1,16 @@
+{
+  "query": "Sarah is playing tic-tac-toe. She wins $1 for every game she wins, $0 for every game she ties, and she loses $2 for every game she loses. If she played 100 games where she tied 40 of them, and she lost $30, how many games did she win?",
+  "steps": [
+    "Sarah played a total of 100 games.",
+    "Out of these, she tied 40 games.",
+    "Let \\( x \\) be the number of games she won.",
+    "The number of games she lost is then given by \\( 100 - 40 - x = 60 - x \\).",
+    "She lost $30 in total.",
+    "The winnings from the games are calculated as follows:\n- She earns $1 for each game won, so she gets \\( x \\times 1 = x \\) dollars from wins.\n- She earns $0 for ties, so she gets \\( 40 \\times 0 = 0 \\) dollars from ties.\n- She loses $2 for each game lost, so she loses \\( 2 \\times (60 - x) \\) dollars from losses.",
+    "Her net earnings is \\( x - 2(60 - x) = x - 120 + 2x = 3x - 120 \\).",
+    "We know she lost $30 in total, so \\( 3x - 120 = -30 \\).",
+    "Solving for \\( x \\), we add 120 to both sides: \n\\[ 3x - 120 + 120 = -30 + 120 \\]\n\\[ 3x = 90 \\]",
+    "Divide both sides by 3 to find \\( x \\):\n\\[ x = \\frac{90}{3} \\]\n\\[ x = 30 \\]"
+  ],
+  "solution": "30"
+}

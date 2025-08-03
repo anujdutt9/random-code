@@ -1,0 +1,20 @@
+{
+  "query": "A 20 person classroom is filled with 40% girls. If 5 new boys join the classroom, what is the new percentage of girls in the class?",
+  "steps": [
+    "First, I need to determine the current number of girls in the classroom.",
+    "The problem states that 40% of the 20-person classroom are girls.",
+    "I calculate 40% of 20 to find the number of girls: 0.40 * 20 = 8.",
+    "There are currently 8 girls in the classroom.",
+    "Next, I need to consider what happens when 5 new boys join the class.",
+    "Initially, there are 20 students in the class. Adding 5 new boys gives us 25 students in total.",
+    "Now, I must find the new percentage of the class that is girls.",
+    "The number of girls remains the same, which is 8.",
+    "The new total number of students is 25.",
+    "To calculate the percentage of the class that is girls, I divide the number of girls by the total number of students and multiply by 100.",
+    "The calculation is (8 / 25) * 100.",
+    "(8 / 25) equals 0.32.",
+    "Now I multiply 0.32 by 100 to find the percentage: 0.32 * 100 = 32.",
+    "The new percentage of girls in the classroom is 32%."
+  ],
+  "solution": "32"
+}

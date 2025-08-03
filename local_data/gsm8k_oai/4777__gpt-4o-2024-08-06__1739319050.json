@@ -1,0 +1,23 @@
+{
+  "query": "Big Lots is having a sale. All chairs are 25% off. If you buy more than 5 chairs, you get an additional 1/3 off the discounted price of the number of chairs over 5. If you bought 8 chairs that were normally priced at $20, how much do the chairs cost in total?",
+  "steps": [
+    "First, I need to find the discounted price of one chair with the 25% off.",
+    "The original price of a chair is $20.",
+    "A 25% discount means I subtract 25% of $20 from $20.",
+    "25% of $20 is \\( 0.25 \\times 20 = 5 \\).",
+    "So, the discount reduces the price by $5.",
+    "The discounted price of one chair is \\( 20 - 5 = 15 \\).",
+    "Since I bought 8 chairs, I first calculate the cost of the first 5 chairs at the discounted price.",
+    "The cost for 5 chairs at $15 each is \\( 5 \\times 15 = 75 \\).",
+    "Now, I need to consider the additional discount for the 3 chairs that are over 5.",
+    "The discounted price of one of these 3 chairs is still $15.",
+    "For chairs over 5, there is an additional discount of 1/3 off.",
+    "1/3 off means I multiply the discounted price of one such chair by \\( 1 - \\frac{1}{3} = \\frac{2}{3} \\).",
+    "\\(\\frac{2}{3} \\times 15 = 10\\).",
+    "So, each of these 3 chairs actually costs $10 with the additional discount.",
+    "The cost for the 3 chairs with the additional discount is \\( 3 \\times 10 = 30 \\).",
+    "Finally, I add the cost of the first 5 chairs and the 3 additional discounted chairs together.",
+    "The total cost is \\( 75 + 30 = 105 \\)."
+  ],
+  "solution": "105"
+}

@@ -1,0 +1,22 @@
+{
+  "query": "A tank can hold 100 liters of water. At the beginning of the rainy season, the tank is 2/5 filled with water. On the first day of the rainy season, the tank collected 15 liters of water. On the second day, 5 liters more water was collected than on the first day. On the third day, the tank was already filled. How many liters of water were collected on the third day?",
+  "steps": [
+    "The capacity of the tank is 100 liters.",
+    "Initially, the tank is 2/5 filled with water.",
+    "Calculate 2/5 of 100 liters to find the amount of water initially in the tank.",
+    "2/5 of 100 liters is \\( \\frac{2}{5} \\times 100 = 40 \\) liters.",
+    "The tank initially has 40 liters of water.",
+    "On the first day, the tank collected 15 liters of water.",
+    "Calculate the total amount of water in the tank after the first day.",
+    "After the first day, the tank has \\( 40 + 15 = 55 \\) liters of water.",
+    "On the second day, 5 liters more water was collected than on the first day.",
+    "Calculate the amount of water collected on the second day.",
+    "The second day collection is \\( 15 + 5 = 20 \\) liters.",
+    "Calculate the total amount of water in the tank after the second day.",
+    "After the second day, the tank has \\( 55 + 20 = 75 \\) liters of water.",
+    "By the third day, the tank is filled to its full capacity of 100 liters.",
+    "Calculate the amount of water needed to fill the tank on the third day.",
+    "The amount of water collected on the third day is \\( 100 - 75 = 25 \\) liters."
+  ],
+  "solution": "25"
+}

@@ -1,0 +1,26 @@
+{
+  "query": "In Johnstown, the population is 80 and every single person drives by themselves to work. Each car on a road pollutes 10 pounds of carbon a year. A single bus pollutes 100 pounds of carbon a year. A bus can hold 40 people. The town decides to start running a bus and 25% of the people who used to drive now take the bus. How many fewer pounds of carbon are now emitted per year?",
+  "steps": [
+    "First, I need to determine the number of people in Johnstown who take the bus.",
+    "The population of Johnstown is 80 people, and 25% of these people now take the bus.",
+    "To calculate 25% of 80, I multiply 80 by 0.25.",
+    "0.25 multiplied by 80 equals 20. So, 20 people now take the bus.",
+    "Next, I need to find out how many people still drive to work.",
+    "Originally, all 80 people drove. Now, 20 people take the bus.",
+    "80 minus 20 equals 60. So, 60 people still drive to work.",
+    "Now, I calculate the amount of carbon emitted by the remaining 60 cars.",
+    "Each car emits 10 pounds of carbon per year, so 60 cars will emit 60 multiplied by 10 pounds of carbon.",
+    "60 multiplied by 10 equals 600 pounds. So, 600 pounds of carbon are emitted by the remaining cars.",
+    "Now, I calculate the carbon emitted by the bus.",
+    "A single bus emits 100 pounds of carbon per year.",
+    "I will now calculate the total carbon emissions with the bus in use.",
+    "The total carbon emissions are 600 pounds from the remaining cars plus 100 pounds from the bus.",
+    "600 plus 100 equals 700 pounds. So, 700 pounds of carbon are emitted per year now.",
+    "Originally, 80 cars were emitting carbon.",
+    "80 cars times 10 pounds of carbon per car equals 800 pounds of carbon originally emitted.",
+    "Finally, I determine the reduction in carbon emissions.",
+    "Originally, 800 pounds were emitted, and now 700 pounds are emitted.",
+    "800 minus 700 equals 100. So, the reduction in carbon emissions is 100 pounds per year."
+  ],
+  "solution": "100"
+}

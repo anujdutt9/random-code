@@ -1,0 +1,19 @@
+{
+  "query": "It takes 10 minutes to wash a car, 15 minutes to change oil, and 30 minutes to change a set of tires.  If mike washes 9 cars, changes the oil on 6 cars, and changes two sets of tires how many hours did he work?",
+  "steps": [
+    "First, I need to determine the total time Mike spends washing cars.",
+    "He washes 9 cars, and each car takes 10 minutes.",
+    "So, 9 cars * 10 minutes = 90 minutes for washing cars.",
+    "Next, I need to calculate the total time for changing oil.",
+    "He changes the oil on 6 cars, and each oil change takes 15 minutes.",
+    "So, 6 cars * 15 minutes = 90 minutes for oil changes.",
+    "Now, I need to calculate the time spent on changing tires.",
+    "He changes 2 sets of tires, and each set takes 30 minutes.",
+    "So, 2 sets * 30 minutes = 60 minutes for changing tires.",
+    "I will now find the total amount of work time by summing up the minutes.",
+    "The total time in minutes is 90 minutes (washing) + 90 minutes (oil changes) + 60 minutes (tires) = 240 minutes.",
+    "To convert the total time into hours, I divide by 60 minutes per hour.",
+    "240 minutes \u00f7 60 = 4 hours."
+  ],
+  "solution": "4"
+}

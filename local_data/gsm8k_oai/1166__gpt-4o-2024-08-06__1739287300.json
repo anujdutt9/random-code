@@ -1,0 +1,14 @@
+{
+  "query": "A gecko eats 70 crickets every three days.  The first day she eats 30% of the crickets.  The second day she eats 6 less than the first, and the third day she finishes up the remaining crickets.  How many crickets does she eat on the third day?",
+  "steps": [
+    "The gecko eats 70 crickets in total over three days.",
+    "On the first day, she eats 30% of the crickets.",
+    "30% of 70 is calculated as: 70 * 0.30 = 21 crickets.",
+    "So, on the first day, she eats 21 crickets.",
+    "On the second day, she eats 6 fewer crickets than on the first day.",
+    "Since she ate 21 crickets on the first day, on the second day she eats: 21 - 6 = 15 crickets.",
+    "By the end of the second day, she has eaten 21 + 15 = 36 crickets in total.",
+    "Since she eats a total of 70 crickets in three days, the number of crickets remaining for the third day is: 70 - 36 = 34 crickets."
+  ],
+  "solution": "34"
+}

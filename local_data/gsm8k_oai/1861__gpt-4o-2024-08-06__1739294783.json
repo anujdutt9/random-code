@@ -1,0 +1,17 @@
+{
+  "query": "Two-thirds of all the animals on my street are cats and the rest are dogs.  If there are 300 animals on the street, what's the total number of legs of dogs that are on the street?",
+  "steps": [
+    "First, I need to determine the number of cats and dogs on the street.",
+    "I know that two-thirds of the animals are cats.",
+    "So, the number of cats is (2/3) * 300.",
+    "Calculating that, (2/3) * 300 = 200. So, there are 200 cats.",
+    "The rest of the animals are dogs.",
+    "There are 300 animals total, so the number of dogs is 300 - 200.",
+    "Calculating that, 300 - 200 = 100. So, there are 100 dogs.",
+    "Next, I need to calculate the total number of dog legs.",
+    "Assuming each dog has 4 legs, multiply the number of dogs by 4.",
+    "That is, 100 dogs * 4 legs/dog.",
+    "Calculating that, 100 * 4 = 400."
+  ],
+  "solution": "400"
+}

@@ -1,0 +1,23 @@
+{
+  "query": "Derek is watching the construction cranes downtown and is trying to figure out how much taller they have to be than the building they are building. He sees one crane that is 228 feet tall finishing a building that was 200 feet tall. He sees another that is 120 feet tall finishing a building that is 100 feet tall. The final crane he sees is 147 feet tall, finishing a building that is 140 feet tall. On average, what percentage taller are the cranes than the building?",
+  "steps": [
+    "First, I need to determine how much taller each crane is compared to the building it is constructing.",
+    "For the first crane: 228 feet tall crane and 200 feet tall building.",
+    "The first crane is 228 - 200 = 28 feet taller than the building.",
+    "Next, for the second crane: 120 feet tall crane and 100 feet tall building.",
+    "The second crane is 120 - 100 = 20 feet taller than the building.",
+    "Finally, for the third crane: 147 feet tall crane and 140 feet tall building.",
+    "The third crane is 147 - 140 = 7 feet taller than the building.",
+    "Now, let's calculate the percentage each crane is taller than its respective building.",
+    "For the first crane, the percentage taller is (28 / 200) * 100%.",
+    "Calculating this: (28 / 200) * 100 = 14%.",
+    "For the second crane, the percentage taller is (20 / 100) * 100%.",
+    "Calculating this: (20 / 100) * 100 = 20%.",
+    "For the third crane, the percentage taller is (7 / 140) * 100%.",
+    "Calculating this: (7 / 140) * 100 \u2248 5%.",
+    "Now, I need to find the average of these percentages: 14%, 20%, and 5%.",
+    "Summing these percentages: 14 + 20 + 5 = 39%.",
+    "Calculating the average: 39 / 3 = 13%."
+  ],
+  "solution": "13"
+}

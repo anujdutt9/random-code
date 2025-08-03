@@ -1,0 +1,15 @@
+{
+  "query": "A forester is planting trees. The forest already has 30 native trees. On Monday he triples the number of total trees in the forest by planting new trees. On Tuesday, he plants a third of the amount he planted on Monday. How many trees has the forester planted in total?",
+  "steps": [
+    "The forest initially has 30 native trees.",
+    "On Monday, the forester triples the number of total trees.",
+    "To find how many new trees were planted on Monday, we first calculate the desired total number of trees after planting.",
+    "If the forest has 30 trees initially, tripling it means having 3 * 30 = 90 trees in total.",
+    "The forester needs to achieve 90 trees in total, so he will plant 90 - 30 = 60 trees on Monday.",
+    "On Tuesday, he plants a third of 60 trees.",
+    "A third of 60 trees is calculated as 60 / 3 = 20 trees.",
+    "To find the total number of trees planted by the forester, we add the trees planted on Monday to those planted on Tuesday.",
+    "The total trees planted is 60 (Monday) + 20 (Tuesday) = 80 trees."
+  ],
+  "solution": "80"
+}

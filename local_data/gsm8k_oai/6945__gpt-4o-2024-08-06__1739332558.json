@@ -1,0 +1,13 @@
+{
+  "query": "Josh buys 3 packs of string cheese.  Each piece of string cheese cost 10 cents.  Each pack has 20 string cheeses in them.  How many dollars did he pay?",
+  "steps": [
+    "First, figure out the total number of string cheeses Josh buys by multiplying the number of packs by the number of string cheeses in each pack.",
+    "He bought 3 packs, and each pack contains 20 string cheeses.",
+    "3 packs * 20 string cheeses per pack = 60 string cheeses.",
+    "Now, calculate the total cost by multiplying the number of string cheeses by the cost per piece.",
+    "Each piece of string cheese costs 10 cents, so 60 string cheeses * 10 cents each = 600 cents.",
+    "Convert the total cost from cents to dollars by dividing by 100, since 1 dollar = 100 cents.",
+    "600 cents / 100 = 6 dollars."
+  ],
+  "solution": "6"
+}

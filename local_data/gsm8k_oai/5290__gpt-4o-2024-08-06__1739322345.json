@@ -1,0 +1,24 @@
+{
+  "query": "Out of the 400 emails that Antonia received in her mail, 1/4 were spam emails, while 2/5 of the remaining emails were promotional messages. If the rest of the emails were important emails, calculate the total number of important emails in her inbox.",
+  "steps": [
+    "Antonia received a total of 400 emails.",
+    "1/4 of these emails were spam.",
+    "To find out how many emails were spam, calculate 1/4 of 400.",
+    "1/4 of 400 is 400 \u00f7 4.",
+    "400 \u00f7 4 = 100.",
+    "So, there are 100 spam emails.",
+    "Subtract the spam emails from the total emails to find the remaining emails.",
+    "400 - 100 = 300.",
+    "There are 300 remaining emails after removing spam.",
+    "2/5 of these 300 remaining emails are promotional.",
+    "To find the number of promotional emails, calculate 2/5 of 300.",
+    "2/5 of 300 is 300 \u00d7 (2/5).",
+    "300 \u00d7 (2/5) = 600 \u00f7 5.",
+    "600 \u00f7 5 = 120.",
+    "So, there are 120 promotional emails.",
+    "Subtract the promotional emails from the remaining emails to find the important emails.",
+    "300 - 120 = 180.",
+    "Thus, the total number of important emails is 180."
+  ],
+  "solution": "180"
+}

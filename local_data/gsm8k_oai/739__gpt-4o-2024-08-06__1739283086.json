@@ -1,0 +1,18 @@
+{
+  "query": "A vampire needs to suck 7 gallons of blood per week to survive.  If he sucks 2 pints of blood per person, how many people does he need to suck each day to survive?",
+  "steps": [
+    "First, I should determine how many pints are in a gallon, because the question gives the vampire's requirement in gallons and the amount per person in pints.",
+    "There are 8 pints in a gallon.",
+    "The vampire needs 7 gallons of blood each week.",
+    "Since there are 8 pints in a gallon, the total number of pints needed per week is 7 gallons * 8 pints/gallon.",
+    "7 * 8 equals 56 pints. So the vampire needs 56 pints a week to survive.",
+    "Now, I need to figure out how many people are needed per week. The vampire sucks 2 pints of blood per person.",
+    "To find the number of people needed per week, divide the total pints needed per week by the pints per person: 56 pints/week \u00f7 2 pints/person.",
+    "56 divided by 2 is 28. So the vampire needs 28 people per week.",
+    "Next, I need to determine how many people are needed per day.",
+    "There are 7 days in a week.",
+    "To find the number of people needed per day, divide the total people needed per week by the number of days in the week: 28 people/week \u00f7 7 days/week.",
+    "28 divided by 7 equals 4."
+  ],
+  "solution": "4"
+}

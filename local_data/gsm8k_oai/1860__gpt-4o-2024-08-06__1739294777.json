@@ -1,0 +1,16 @@
+{
+  "query": "A movie that's 1.5 hours long is being replayed 6 times in one movie theater each day. There is a 20-minute advertisement before the start of the movie. How long, in hours, does the movie theater operate each day?",
+  "steps": [
+    "The length of the movie is given as 1.5 hours.",
+    "There is a 20-minute advertisement before the start of the movie.",
+    "20 minutes is 1/3 of an hour, which is approximately 0.333 hours.",
+    "The total time for each movie showing is the movie length plus the advertisement time.",
+    "The total time for each showing is 1.5 hours + 0.333 hours, which equals 1.833 hours.",
+    "The movie is being replayed 6 times in the theater each day.",
+    "To find the total operating time of the theater, I need to multiply the time for one showing by the number of showings.",
+    "I multiply 1.833 hours by 6 showings to calculate the total operating time.",
+    "1.833 hours * 6 = 10.998 hours.",
+    "Rounding 10.998 gives approximately 11 hours."
+  ],
+  "solution": "11"
+}

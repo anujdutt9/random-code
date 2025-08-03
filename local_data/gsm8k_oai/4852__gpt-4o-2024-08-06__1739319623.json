@@ -1,0 +1,18 @@
+{
+  "query": "A newspaper subscription costs $10/month. If you purchase an annual subscription you obtain a 20% discount on your total bill. How much do you end up paying if you go with the annual subscription?",
+  "steps": [
+    "First, I need to determine the cost of the newspaper subscription for one year without any discounts.",
+    "The monthly cost of the subscription is $10.",
+    "There are 12 months in a year.",
+    "So, the total cost for one year without any discount would be 12 months times $10 per month.",
+    "12 times $10 equals $120.",
+    "Now, I need to calculate the discount for the annual subscription.",
+    "The discount is 20% of the total annual cost without a discount.",
+    "20% as a decimal is 0.20.",
+    "So, I need to multiply the total annual cost of $120 by 0.20 to find the discount amount.",
+    "120 times 0.20 equals $24.",
+    "Now, I subtract the discount amount from the total annual cost without discount to find the final cost with the discount applied.",
+    "$120 minus $24 equals $96."
+  ],
+  "solution": "96"
+}

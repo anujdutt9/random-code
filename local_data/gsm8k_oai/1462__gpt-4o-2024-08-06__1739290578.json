@@ -1,0 +1,14 @@
+{
+  "query": "A candy store uses food colouring in various candies. Each lollipop uses 5ml of food colouring, and each hard candy also needs food colouring. In one day, the candy store makes 100 lollipops and 5 hard candies. They do not use food colouring in anything else. The store has used 600ml of food colouring by the end of the day. How much food colouring, in millilitres, does each hard candy need?",
+  "steps": [
+    "I know each lollipop uses 5ml of food colouring.",
+    "The candy store makes 100 lollipops in a day.",
+    "Therefore, the total food colouring used for lollipops is 100 lollipops * 5ml/lollipop = 500ml.",
+    "The total food colouring used by the store is 600ml.",
+    "The food colouring used for both lollipops and hard candies together is 600ml.",
+    "I subtract the food colouring used for lollipops from the total to find the amount used for hard candies: 600ml - 500ml = 100ml.",
+    "The store makes 5 hard candies in a day.",
+    "Each hard candy therefore needs 100ml / 5 hard candies = 20ml of food colouring."
+  ],
+  "solution": "20"
+}

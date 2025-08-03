@@ -1,0 +1,16 @@
+{
+  "query": "At a garage sale, Tish bought 4 items: a red horseshoe magnet, two stuffed animals, and a large sticker which read, \"Why can't teachers solve their own math problems?\"  The magnet cost three times more than the sticker, but only one quarter the price of the two stuffed animals combined.  If the Magnet cost $3, how much, in dollars, did a single stuffed animal cost?",
+  "steps": [
+    "I know the cost of the magnet is $3.",
+    "I am told the magnet costs three times more than the sticker.",
+    "Let's denote the cost of the sticker as S dollars. I have the equation: 3 = 3S.",
+    "Solving for S, I get S = 1.",
+    "Next, it's mentioned that the magnet costs one quarter the price of the two stuffed animals combined.",
+    "Let the cost of both stuffed animals together be T dollars.",
+    "I have the equation: 3 = T/4.",
+    "Solving for T, I get T = 12.",
+    "I need the cost of one stuffed animal, so I divide T by 2.",
+    "The cost of a single stuffed animal is 12/2 = 6."
+  ],
+  "solution": "6"
+}

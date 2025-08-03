@@ -1,0 +1,13 @@
+{
+  "query": "A company is lining a 900-foot path with a fence. Every 6 feet, a fence pole is placed. The entire path is lined with a fence except for a 42-foot bridge. How many fence poles will be placed along the whole path on both sides?",
+  "steps": [
+    "First, calculate the length of the path that will actually have poles placed. Subtract the length of the bridge from the total path length.",
+    "The path is 900 feet long, and the bridge is 42 feet. So, 900 - 42 = 858 feet of path will have poles.",
+    "Fence poles are placed every 6 feet along the remainder of the path.",
+    "To find out how many poles are needed, divide the usable length of the path by the spacing distance: 858 feet / 6 feet per pole.",
+    "858 / 6 = 143 poles",
+    "The question asks for the number of poles placed on both sides of the path. Each side of the path has 143 poles.",
+    "Since there are two sides to the path, calculate the total number of poles: 143 poles/side * 2 sides."
+  ],
+  "solution": "286"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "There are 50 passengers on a bus.  At the first stop, 16 more passengers get on the bus. On the other stops, 22 passengers get off the bus and 5 passengers more get on the bus. How many passengers are there on the bus in total at the last station?",
+  "steps": [
+    "Initially, there are 50 passengers on the bus.",
+    "At the first stop, 16 more passengers get on the bus.",
+    "After the first stop, the number of passengers is 50 + 16 = 66.",
+    "At the other stops, 22 passengers get off the bus.",
+    "After these stops, the number of passengers on the bus is 66 - 22 = 44.",
+    "During the same other stops, 5 more passengers get on the bus.",
+    "Therefore, the final number of passengers on the bus is 44 + 5 = 49."
+  ],
+  "solution": "49"
+}

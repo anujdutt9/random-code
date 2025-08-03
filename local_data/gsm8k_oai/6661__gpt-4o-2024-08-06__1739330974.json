@@ -1,0 +1,13 @@
+{
+  "query": "Helga went shopping for a new pair of shoes. At the first store, she tried on 7 pairs of shoes. At the second store, she tried on 2 more pairs than at the first store. At the third store, she did not try on any shoes, but she did buy a scarf.  But at the fourth store, she tried on twice as many pairs of shoes as she did at all three other stores combined, before finally choosing a pair to buy.  What is the total number of pairs of shoes Helga tried on before buying her new shoes?",
+  "steps": [
+    "First, I need to determine how many pairs of shoes Helga tried on at each store.",
+    "At the first store, she tried on 7 pairs of shoes.",
+    "At the second store, she tried on 2 more pairs than at the first store. So, she tried on 7 + 2 = 9 pairs at the second store.",
+    "At the third store, she did not try on any shoes, so 0 pairs were tried on.",
+    "To find out how many pairs she tried on at the fourth store, I need to find the total number of pairs tried on at the first three stores. This is 7 (first store) + 9 (second store) + 0 (third store) = 16 pairs.",
+    "At the fourth store, she tried on twice as many pairs as the total number at the first three stores. This would be 2 * 16 = 32 pairs.",
+    "Now, I need to find out the total number of pairs of shoes she tried on at all stores combined. This is 7 (first store) + 9 (second store) + 0 (third store) + 32 (fourth store) = 48 pairs."
+  ],
+  "solution": "48"
+}

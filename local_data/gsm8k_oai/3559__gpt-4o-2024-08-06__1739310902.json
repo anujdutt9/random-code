@@ -1,0 +1,22 @@
+{
+  "query": "Tim buys 3 loaves of bread.  Each loaf of bread has 20 slices.  He pays for the 3 loaves of bread with 2 $20 bills.  He gets $16 change.  How much does each slice cost, in cents?",
+  "steps": [
+    "Tim buys 3 loaves of bread.",
+    "Each loaf has 20 slices.",
+    "The total number of bread slices is 3 loaves * 20 slices/loaf.",
+    "Calculating: 3 * 20 = 60 slices in total.",
+    "Tim pays with 2 $20 bills.",
+    "The total amount he pays initially is 2 * $20 = $40.",
+    "He gets $16 change.",
+    "To find out how much he spent on the bread, subtract the change from the amount he initially gave.",
+    "Calculating: $40 - $16 = $24.",
+    "The total cost for the 3 loaves is $24.",
+    "To find the cost per slice, divide the total cost by the total number of slices.",
+    "Total slices are 60, and the total cost is $24.",
+    "Each slice's cost in dollars is $24 / 60 slices.",
+    "Calculating: $24 / 60 = $0.40 per slice.",
+    "Since the question asks for the cost in cents, convert $0.40 to cents.",
+    "$0.40 is equivalent to 40 cents."
+  ],
+  "solution": "40"
+}

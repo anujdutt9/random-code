@@ -1,0 +1,18 @@
+{
+  "query": "Olaf collects colorful toy cars. At first, his collection consisted of 150 cars. His family, knowing his hobby, decided to give him some toy cars. Grandpa gave Olaf twice as many toy cars as the uncle. Dad gave Olaf 10 toy cars, 5 less than Mum. Auntie gave Olaf 6 toy cars, 1 more than the uncle. How many toy cars does Olaf have in total, after receiving all these gifts?",
+  "steps": [
+    "Olaf initially has 150 toy cars.",
+    "Let's denote the number of toy cars Uncle gave Olaf as \\( x \\).",
+    "According to the information, Grandpa gave twice as many toy cars as Uncle, so Grandpa gave \\( 2x \\) cars.",
+    "Auntie gave 6 toy cars, which is 1 more than the number of cars Uncle gave. Thus, \\( x + 1 = 6 \\).",
+    "Solving for \\( x \\), we find that \\( x = 6 - 1 = 5 \\).",
+    "Now that we know Uncle gave 5 cars, Grandpa gave \\( 2 \\times 5 = 10 \\) cars.",
+    "Dad gave 10 toy cars, which is 5 less than what Mum gave Olaf.",
+    "This means Mum gave 10 + 5 = 15 toy cars.",
+    "Now, let's calculate the total number of cars given to Olaf. Uncle gave 5, Grandpa gave 10, Auntie gave 6, Dad gave 10, and Mum gave 15.",
+    "Total cars received as gifts = 5 (Uncle) + 10 (Grandpa) + 6 (Auntie) + 10 (Dad) + 15 (Mum) = 46 cars.",
+    "Adding the cars he received to his initial collection, Olaf now has \\( 150 + 46 \\).",
+    "So, Olaf has a total of \\( 150 + 46 = 196 \\) toy cars."
+  ],
+  "solution": "196"
+}

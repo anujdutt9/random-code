@@ -1,0 +1,18 @@
+{
+  "query": "Tim had a birthday party with a clown that cost $100 an hour for 4 hours.  He also rented a bounce house for half the time that cost 3 times as much an hour. Everything else for the party cost $1000.  How much did his birthday cost?",
+  "steps": [
+    "Tim hired a clown for 4 hours.",
+    "The clown costs $100 per hour.",
+    "To find the total cost of the clown, multiply the hourly rate by the number of hours: $100/hour * 4 hours.",
+    "$100 * 4 = $400. The cost of the clown is $400.",
+    "Tim rented a bounce house for half the time of the clown, which is 4 hours / 2 = 2 hours.",
+    "The bounce house costs 3 times as much as the clown per hour.",
+    "The hourly cost of the bounce house is $100 * 3 = $300.",
+    "To find the total cost of the bounce house, multiply the hourly rate by the number of hours: $300/hour * 2 hours.",
+    "$300 * 2 = $600. The cost of the bounce house is $600.",
+    "Everything else for the party costs $1000.",
+    "Add the cost of the clown, the bounce house, and everything else to find the total cost: $400 (clown) + $600 (bounce house) + $1000 (everything else).",
+    "$400 + $600 + $1000 = $2000."
+  ],
+  "solution": "2000"
+}

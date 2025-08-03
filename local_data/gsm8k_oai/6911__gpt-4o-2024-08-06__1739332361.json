@@ -1,0 +1,14 @@
+{
+  "query": "A pharmacy is buying enough tubs for them to make their prescriptions this week. They already have 20 tubs left in storage but they need a total of 100 tubs for the week. Of the tubs they still need to buy, they buy a quarter from a new vendor then decide to go to their usual vendor for the rest. How many tubs is the pharmacy going to buy from the usual vendor?",
+  "steps": [
+    "The pharmacy needs a total of 100 tubs for the week.",
+    "They already have 20 tubs in storage.",
+    "To find out how many tubs they need to buy, I subtract the 20 tubs they already have from the 100 tubs they need: 100 - 20 = 80 tubs.",
+    "The pharmacy needs to buy 80 more tubs.",
+    "They buy a quarter of the 80 tubs from a new vendor.",
+    "A quarter of 80 tubs is calculated by dividing 80 by 4: 80 / 4 = 20 tubs.",
+    "The pharmacy buys 20 tubs from the new vendor.",
+    "Subtract the 20 tubs bought from the new vendor from the total of 80 tubs they need to buy: 80 - 20 = 60 tubs."
+  ],
+  "solution": "60"
+}

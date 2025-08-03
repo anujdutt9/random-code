@@ -1,0 +1,23 @@
+{
+  "query": "A family of 12 monkeys collected 10 piles of bananas. 6 piles had 9 hands, with each hand having 14 bananas, while the remaining piles had 12 hands, with each hand having 9 bananas. How many bananas would each monkey get if they divide the bananas equally amongst themselves?",
+  "steps": [
+    "First, I need to determine how many bananas are in the first group of piles.",
+    "There are 6 piles, each with 9 hands.",
+    "Each hand contains 14 bananas.",
+    "Calculate the total bananas from the first group: 6 piles * 9 hands/pile * 14 bananas/hand.",
+    "6 * 9 = 54 hands.",
+    "54 hands * 14 bananas per hand = 756 bananas in the first group.",
+    "Next, I need to determine how many bananas are in the second group of piles.",
+    "There are 4 remaining piles (since 10 - 6 = 4 piles).",
+    "Each pile in the second group has 12 hands, with each hand having 9 bananas.",
+    "Calculate the total bananas from the second group: 4 piles * 12 hands/pile * 9 bananas/hand.",
+    "4 * 12 = 48 hands.",
+    "48 hands * 9 bananas per hand = 432 bananas in the second group.",
+    "Now, add the total bananas from both groups.",
+    "756 bananas from the first group + 432 bananas from the second group = 1188 total bananas.",
+    "The total number of bananas is to be divided equally among the 12 monkeys.",
+    "Divide the total number of bananas by the number of monkeys: 1188 bananas \u00f7 12 monkeys.",
+    "1188 \u00f7 12 = 99 bananas per monkey."
+  ],
+  "solution": "99"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "The school decided to add 20% to the gym budget. In a normal month, they could buy 15 dodgeballs for $5 each if they spent the entire budget on that. If they only buy softballs instead, which cost $9 each, how many can they buy with the new budget?",
+  "steps": [
+    "First, I need to determine the current monthly budget for dodgeballs.",
+    "The school can buy 15 dodgeballs at $5 each with the current budget.",
+    "To find the budget, I multiply the number of dodgeballs by the cost per dodgeball: 15 dodgeballs * $5 each = $75.",
+    "Now I'll calculate the new budget by adding 20% to the current budget.",
+    "To find 20% of $75, I multiply $75 by 0.20: $75 * 0.20 = $15.",
+    "I add this 20% increase to the original budget: $75 + $15 = $90.",
+    "Now, with the new budget of $90, I need to determine how many softballs they can buy.",
+    "Each softball costs $9.",
+    "To find how many softballs they can buy, I divide the new budget by the cost per softball: $90 / $9 = 10."
+  ],
+  "solution": "10"
+}

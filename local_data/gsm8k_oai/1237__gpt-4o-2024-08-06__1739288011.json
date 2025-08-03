@@ -1,0 +1,17 @@
+{
+  "query": "Laura is hosting a carwash. She will charge $5 for a car, $6 for a truck, and $7 for an SUV. They raised $100 in total. If they washed 5 SUVs and 5 trucks, how many cars did they wash?",
+  "steps": [
+    "First, I need to determine how much money was made from washing the SUVs and trucks.",
+    "There were 5 SUVs washed, each charged at $7, so the total from SUVs is 5 * $7.",
+    "Calculating, 5 * $7 equals $35.",
+    "Similarly, there were 5 trucks washed, each charged at $6, so the total from trucks is 5 * $6.",
+    "Calculating, 5 * $6 equals $30.",
+    "Adding the totals from SUVs and trucks: $35 + $30 equals $65.",
+    "The total money raised was $100, so I subtract the amount from SUVs and trucks from the total to find what was made from washing cars.",
+    "$100 - $65 equals $35. This is the amount raised from washing cars.",
+    "Cars were charged at $5 each. To find out how many cars were washed, I need to divide the total money from cars by the price per car.",
+    "Calculating $35 divided by $5 gives 7.",
+    "So, Laura washed 7 cars."
+  ],
+  "solution": "7"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Jimmy bought 3 pens for school for $1 each, 4 notebooks for $3 each and 2 folders for $5 each. If he paid with a $50 bill, how much change will he get back?",
+  "steps": [
+    "First, I need to calculate the total cost of the 3 pens.",
+    "Each pen costs $1, and Jimmy bought 3 pens.",
+    "The total cost for the pens is 3 pens * $1/pen = $3.",
+    "Next, I calculate the total cost of the 4 notebooks.",
+    "Each notebook costs $3, and Jimmy bought 4 notebooks.",
+    "The total cost for the notebooks is 4 notebooks * $3/notebook = $12.",
+    "Now, I calculate the total cost of the 2 folders.",
+    "Each folder costs $5, and Jimmy bought 2 folders.",
+    "The total cost for the folders is 2 folders * $5/folder = $10.",
+    "Now, I will add up the costs of the pens, notebooks, and folders to find the total amount Jimmy spent.",
+    "The total cost is $3 (pens) + $12 (notebooks) + $10 (folders) = $25.",
+    "Jimmy paid with a $50 bill.",
+    "To find the change, I subtract the total cost from the amount Jimmy paid.",
+    "The change is $50 - $25 = $25."
+  ],
+  "solution": "25"
+}

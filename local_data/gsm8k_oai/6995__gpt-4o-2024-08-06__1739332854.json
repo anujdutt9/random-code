@@ -1,0 +1,17 @@
+{
+  "query": "Bill thought he bought 70 chihuahuas, but some of them turned out to be rats. If the number of rats was 6 times the number of chihuahuas, how many rats did he buy?",
+  "steps": [
+    "Let the number of chihuahuas be C.",
+    "If Bill thought he bought 70 animals and some were chihuahuas while others were rats, we can say C (chihuahuas) + R (rats) = 70.",
+    "It is given that the number of rats (R) is 6 times the number of chihuahuas (C).",
+    "Thus, we have the equation R = 6C.",
+    "We now have two equations:\n1. C + R = 70\n2. R = 6C",
+    "Substitute the expression for R from the second equation into the first equation: C + 6C = 70.",
+    "Combine the terms on the left: 7C = 70.",
+    "Divide both sides by 7 to solve for C: C = 10.",
+    "Now that we know the number of chihuahuas (C) is 10, we can find the number of rats (R) using the equation R = 6C.",
+    "Substitute C = 10 into the equation R = 6C: R = 6 * 10.",
+    "Calculate: R = 60."
+  ],
+  "solution": "60"
+}

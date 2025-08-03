@@ -1,0 +1,16 @@
+{
+  "query": "The price of a math textbook in the school bookshop is $45. If those sold in bookshops outside the school cost 20% less, how much can Peter save by buying from other bookshops rather than the school's if he wants to buy 3 math textbooks?",
+  "steps": [
+    "The price of a math textbook in the school bookshop is $45.",
+    "The textbook in other bookshops costs 20% less.",
+    "To find the discount, calculate 20% of $45.",
+    "20% of $45 is \\(0.2 \\times 45 = 9\\).",
+    "Subtract the discount from the original price: \\(45 - 9 = 36\\).",
+    "The cost of a math textbook outside the school bookshop is $36.",
+    "Peter wants to buy 3 math textbooks.",
+    "Calculate the total cost of buying 3 textbooks in the school: \\(3 \\times 45 = 135\\).",
+    "Calculate the total cost of buying 3 textbooks outside the school: \\(3 \\times 36 = 108\\).",
+    "To find the savings, subtract the total costs: \\(135 - 108 = 27\\)."
+  ],
+  "solution": "27"
+}

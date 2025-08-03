@@ -1,0 +1,21 @@
+{
+  "query": "Dave weighs 175 pounds and can bench press three times his body weight.  Craig can only bench press 20% of the amount Dave can.  Mark is new and can bench press 50 pounds less than Craig.  How much can Mark bench press?",
+  "steps": [
+    "First, I need to calculate how much weight Dave can bench press.",
+    "Dave's bench press weight is three times his body weight.",
+    "Dave weighs 175 pounds.",
+    "To find out how much Dave can bench press, multiply his weight by 3.",
+    "175 pounds * 3 = 525 pounds",
+    "Now, I need to calculate how much Craig can bench press.",
+    "Craig can bench press 20% of the amount Dave can.",
+    "To get 20% of 525 pounds, multiply 525 by 0.20.",
+    "525 * 0.20 = 105 pounds",
+    "Craig can bench press 105 pounds.",
+    "Next, I need to find out how much Mark can bench press.",
+    "Mark can bench press 50 pounds less than Craig.",
+    "Subtract 50 pounds from Craig's bench press weight of 105 pounds.",
+    "105 pounds - 50 pounds = 55 pounds",
+    "Mark can bench press 55 pounds."
+  ],
+  "solution": "55"
+}

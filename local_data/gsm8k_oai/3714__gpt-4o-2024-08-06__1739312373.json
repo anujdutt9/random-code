@@ -1,0 +1,16 @@
+{
+  "query": "Jacoby wants to save money for a trip to Brickville. He needs to have $5000 total to go on his trip. He works a job earning $20 per hour and works 10 hours. He then finds he can sell cookies for $4 each, and he sells 24 pieces of cookies. With the money he has so far, he buys a lottery ticket for $10 and wins $500. Finally, he gets $500 from both of his sisters as a gift. How much more, in dollars, does Jacob need to go to Brickville?",
+  "steps": [
+    "Jacoby works for 10 hours at a rate of $20 per hour.",
+    "Calculating his earnings from work: 10 hours * $20/hour = $200.",
+    "Next, he sells cookies at $4 each and sells 24 pieces.",
+    "Calculating his earnings from selling cookies: 24 cookies * $4/cookie = $96.",
+    "Adding his work and cookie earnings: $200 + $96 = $296.",
+    "He buys a lottery ticket for $10, so subtracting that cost: $296 - $10 = $286.",
+    "He wins $500 from the lottery, so adding that: $286 + $500 = $786.",
+    "Both of his sisters give him $500 each, adding that: $786 + $500 + $500 = $1786.",
+    "Jacoby needs $5000 total for his trip.",
+    "Subtracting what he has from what he needs: $5000 - $1786 = $3214."
+  ],
+  "solution": "3214"
+}

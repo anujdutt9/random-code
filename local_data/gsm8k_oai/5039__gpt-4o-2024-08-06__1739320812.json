@@ -1,0 +1,12 @@
+{
+  "query": "The pizzeria sells small pizzas for $2 and large pizzas for $8. They sold $40 in pizzas. If they sold 8 small pizzas, how many large pizzas did they sell?",
+  "steps": [
+    "First, I calculate the total revenue from the small pizzas sold. They sold 8 small pizzas at $2 each.",
+    "The revenue from small pizzas is \\( 8 \\times 2 = 16 \\) dollars.",
+    "Next, I determine the remaining revenue that must have come from large pizzas. They made $40 total in sales.",
+    "Subtract the revenue from small pizzas from the total revenue to find the revenue from large pizzas. \\( 40 - 16 = 24 \\) dollars.",
+    "The revenue from each large pizza is $8.",
+    "To find the number of large pizzas sold, divide the revenue from large pizzas by the price of each large pizza. \\( 24 \\div 8 = 3 \\)."
+  ],
+  "solution": "3"
+}

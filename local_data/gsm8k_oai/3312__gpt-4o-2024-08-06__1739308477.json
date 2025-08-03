@@ -1,0 +1,18 @@
+{
+  "query": "James runs a TV show and there are 5 main characters and 4 minor characters.  He pays the minor characters $15,000 each episode.  He paid the major characters three times as much.  How much does he pay per episode?",
+  "steps": [
+    "First, identify how much each minor character gets paid per episode.",
+    "Each minor character receives $15,000 per episode.",
+    "Next, calculate the total payment for all minor characters per episode.",
+    "There are 4 minor characters.",
+    "The total payment for the 4 minor characters is 4 minor characters * $15,000 each = $60,000.",
+    "Now, determine how much each major character gets paid per episode.",
+    "Each major character is paid three times the pay of a minor character, which is 3 * $15,000 = $45,000 per episode.",
+    "Next, calculate the total payment for all major characters per episode.",
+    "There are 5 major characters.",
+    "The total payment for the 5 major characters is 5 major characters * $45,000 each = $225,000.",
+    "Finally, find the total payment for all characters per episode by adding the payments for the major and minor characters.",
+    "The total payment per episode is $60,000 + $225,000 = $285,000."
+  ],
+  "solution": "285,000"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "Yanni has 5 paintings that combined, take up 200 square feet. 3 of the paintings are 5 feet by 5 feet. 1 painting is 10 feet by 8 feet. If the final painting is 5 feet tall, how wide is it?",
+  "steps": [
+    "First, I need to find the area of the 3 paintings that are each 5 feet by 5 feet.",
+    "The area of one 5 feet by 5 feet painting is 5 * 5 = 25 square feet.",
+    "Since there are 3 such paintings, their total area is 3 * 25 = 75 square feet.",
+    "Next, I need to determine the area of the 1 painting that is 10 feet by 8 feet.",
+    "The area of the 10 feet by 8 feet painting is 10 * 8 = 80 square feet.",
+    "Now, I will add up the areas of these 4 paintings. So, the total area of the first four paintings is 75 + 80 = 155 square feet.",
+    "The question states that all 5 paintings combined have an area of 200 square feet.",
+    "If the total area of all paintings is 200 square feet, then the area of the final painting is 200 - 155 = 45 square feet.",
+    "The final painting is 5 feet tall, and I need to find its width. Let the width be denoted as w.",
+    "The area of the final painting is 5 * w = 45 square feet.",
+    "To find w, I need to solve for w in the equation 5 * w = 45.",
+    "Dividing both sides by 5 gives me w = 45 / 5.",
+    "Calculating this, I find w = 9."
+  ],
+  "solution": "9"
+}

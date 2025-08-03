@@ -1,0 +1,19 @@
+{
+  "query": "In a graduation ceremony, each graduate can bring their 2 parents. Twenty teachers and half as many administrators will also attend the graduation ceremony. If there are 50 graduates, how many chairs must be prepared for the ceremony?",
+  "steps": [
+    "First, I need to calculate how many parents in total will attend the ceremony.",
+    "Each graduate can bring 2 parents. There are 50 graduates.",
+    "I multiply the number of graduates by 2: 50 graduates \u00d7 2 parents per graduate = 100 parents.",
+    "Now, I will determine how many teachers will attend the ceremony.",
+    "There are 20 teachers attending the ceremony.",
+    "Next, I need to find out how many administrators will attend the ceremony.",
+    "Half as many administrators as teachers will attend. So, I divide the number of teachers by 2: 20 teachers \u00f7 2 = 10 administrators.",
+    "Now, I will add up all of the attendees: graduates, parents, teachers, and administrators.",
+    "There are 50 graduates.",
+    "There are 100 parents.",
+    "There are 20 teachers.",
+    "There are 10 administrators.",
+    "I sum these numbers: 50 (graduates) + 100 (parents) + 20 (teachers) + 10 (administrators) = 180 total attendees."
+  ],
+  "solution": "180"
+}

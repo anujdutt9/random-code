@@ -1,0 +1,27 @@
+{
+  "query": "Apple sold 100 iPhones at their New York store today for an average cost of $1000. They also sold 20 iPads for an average cost of $900 and 80 Apple TVs for an average cost of $200. What was the average cost across all products sold today?",
+  "steps": [
+    "First, I need to calculate the total revenue from iPhones.",
+    "The revenue from iPhones is 100 iPhones multiplied by $1000 each.",
+    "100 iPhones * $1000 = $100,000",
+    "Next, I calculate the total revenue from iPads.",
+    "The revenue from iPads is 20 iPads multiplied by $900 each.",
+    "20 iPads * $900 = $18,000",
+    "Now, I calculate the total revenue from Apple TVs.",
+    "The revenue from Apple TVs is 80 Apple TVs multiplied by $200 each.",
+    "80 Apple TVs * $200 = $16,000",
+    "Next, I find the total revenue from all products.",
+    "Total revenue = revenue from iPhones + revenue from iPads + revenue from Apple TVs",
+    "Total revenue = $100,000 + $18,000 + $16,000",
+    "Total revenue = $134,000",
+    "I need to calculate the total number of products sold.",
+    "Total number of products = number of iPhones + number of iPads + number of Apple TVs",
+    "Total number of products = 100 iPhones + 20 iPads + 80 Apple TVs",
+    "Total number of products = 200 products",
+    "Finally, I calculate the average cost across all products sold.",
+    "Average cost = Total revenue / Total number of products",
+    "Average cost = $134,000 / 200",
+    "Average cost = $670"
+  ],
+  "solution": "670"
+}

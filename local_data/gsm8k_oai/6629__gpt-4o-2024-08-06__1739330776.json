@@ -1,0 +1,21 @@
+{
+  "query": "Cameron guides tour groups in a museum. He usually answers two questions per tourist. Today, he did four tours. The early morning first group was only 6 people. The following group was a busy group of 11. The third group had 8 people, but one was inquisitive and asked three times as many questions as usual. The last group of the day was a late group of 7. How many questions did Cameron answer?",
+  "steps": [
+    "First, I'll calculate the number of questions from the first group of 6 people.",
+    "Each tourist asks 2 questions, so the first group asks 6 x 2 = 12 questions.",
+    "Next, I'll calculate the number of questions from the second group of 11 people.",
+    "Each tourist asks 2 questions, so the second group asks 11 x 2 = 22 questions.",
+    "Now, I'll calculate the number of questions from the third group of 8 people.",
+    "Normally, the group would ask 8 x 2 = 16 questions.",
+    "One person in the third group asked three times as many questions; hence, that person asked 3 x 2 = 6 questions instead of 2.",
+    "So, instead of 2 questions, 4 extra questions were asked by that one person. The total for that person is 6 questions.",
+    "The rest of the group asks 14 questions (7 people x 2 questions each = 14 questions).",
+    "Total questions for third group = 14 questions (other people) + 6 questions (inquisitive person) = 20 questions.",
+    "Now, I'll calculate the number of questions from the last group of 7 people.",
+    "Each tourist asks 2 questions, so the fourth group asks 7 x 2 = 14 questions.",
+    "Finally, I'll add up all the questions answered by Cameron from each group.",
+    "Total questions = 12 (first group) + 22 (second group) + 20 (third group) + 14 (fourth group).",
+    "Adding these, total questions = 12 + 22 + 20 + 14 = 68."
+  ],
+  "solution": "68"
+}

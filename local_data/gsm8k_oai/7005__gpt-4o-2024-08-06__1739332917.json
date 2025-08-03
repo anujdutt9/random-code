@@ -1,0 +1,14 @@
+{
+  "query": "The moon has a surface area that is 1/5 that of Earth. The surface area of the Earth is 200 square acres. The land on the moon is worth 6 times that of the land on the Earth. If the total value of all the land on the earth is 80 billion dollars, what is the total value in billions of all the land on the moon?",
+  "steps": [
+    "First, I need to find the surface area of the moon. I know that the moon's surface area is 1/5 that of Earth's.",
+    "The surface area of the Earth is given as 200 square acres.",
+    "To find the surface area of the moon, I calculate 1/5 of the Earth's surface area: \n200 acres * (1/5) = 40 acres.",
+    "Next, I need to find the value of the land on the moon. It is given that land on the moon is worth 6 times that of the land on Earth.",
+    "The total value of all the land on Earth is 80 billion dollars.",
+    "To find the value of land per acre on Earth, I divide the total value by the Earth's surface area: \n80 billion dollars / 200 acres = 0.4 billion dollars per acre.",
+    "Now, I calculate the value of land per acre on the moon. It is 6 times the value of land per acre on Earth: \n0.4 billion dollars/acre * 6 = 2.4 billion dollars per acre.",
+    "Finally, I calculate the total value of all the land on the moon by multiplying the value per acre on the moon by the moon's surface area: \n2.4 billion dollars/acre * 40 acres = 96 billion dollars."
+  ],
+  "solution": "96"
+}

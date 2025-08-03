@@ -1,0 +1,16 @@
+{
+  "query": "Sue is traveling from New York to San Francisco, 16 hours later after landing in New York from New Orleans. If the journey from New Orleans to New York took 3/4 times as much time as she takes to travel from New York to San Francisco, and she lands in San Francisco 24 hours later after departing from New York, calculate the total time she took to reach San Francisco from New Orleans?",
+  "steps": [
+    "First, I need to determine how long it takes Sue to travel from New York to San Francisco.",
+    "The problem states she lands in San Francisco 24 hours after departing from New York. So, the journey from New York to San Francisco takes 24 hours.",
+    "Next, I need to determine how long it takes Sue to travel from New Orleans to New York.",
+    "The journey from New Orleans to New York takes 3/4 times as much time as from New York to San Francisco, which is 3/4 * 24 hours.",
+    "3/4 * 24 = 18 hours. Therefore, it takes Sue 18 hours to travel from New Orleans to New York.",
+    "Now, I need to calculate the total time Sue takes to reach San Francisco from New Orleans, considering her waiting time in New York.",
+    "Sue waits 16 hours in New York before traveling from New York to San Francisco.",
+    "To find the total time from New Orleans to San Francisco, I need to add up the time from New Orleans to New York, the waiting time, and from New York to San Francisco.",
+    "Total time = 18 hours (New Orleans to New York) + 16 hours (waiting in New York) + 24 hours (New York to San Francisco).",
+    "18 + 16 + 24 = 58 hours."
+  ],
+  "solution": "58"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Zach baked cookies for a bake sale. On Monday he baked 32 cookies. On Tuesday he ran out of sugar and could only bake half of the number of cookies he baked the day before. On Wednesday he baked three times the number of cookies he did on Tuesday, but his brother ate 4 of those cookies. How many cookies did he have at the end of the three days?",
+  "steps": [
+    "On Monday, Zach baked 32 cookies.",
+    "On Tuesday, Zach baked half of the cookies he baked on Monday.",
+    "Half of 32 is 32 / 2 = 16.",
+    "So, on Tuesday, Zach baked 16 cookies.",
+    "On Wednesday, Zach baked three times the number of cookies he baked on Tuesday.",
+    "Three times 16 is 3 * 16 = 48.",
+    "However, Zach's brother ate 4 of the cookies baked on Wednesday.",
+    "So, on Wednesday, Zach had 48 - 4 = 44 cookies remaining.",
+    "To find the total number of cookies he had at the end of the three days, we add the cookies from each day.",
+    "The total number of cookies from Monday, Tuesday, and Wednesday is 32 + 16 + 44 = 92."
+  ],
+  "solution": "92"
+}

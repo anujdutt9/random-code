@@ -1,0 +1,15 @@
+{
+  "query": "Jenna is adding black dots to a bunch of white blouses. Each blouse gets 20 dots, and each dot takes 10 ml of black dye. How many 400-ml bottles of dye does Jenna need to buy to dye 100 blouses?",
+  "steps": [
+    "First, I need to determine how many dots Jenna will be putting on the 100 blouses.",
+    "Each blouse gets 20 dots, so for 100 blouses that would be 100 blouses * 20 dots per blouse.",
+    "Calculating the total number of dots: 100 * 20 = 2000 dots.",
+    "Next, I need to calculate the total amount of dye needed for these dots.",
+    "Each dot takes 10 ml of black dye. So for 2000 dots, the total dye needed will be 2000 dots * 10 ml per dot.",
+    "Calculating the total amount of dye: 2000 * 10 = 20000 ml of dye.",
+    "Now, I need to determine how many 400-ml bottles Jenna needs to buy to get 20000 ml of dye.",
+    "To find out how many bottles are needed, I will divide the total ml of dye needed by the ml per bottle: 20000 ml / 400 ml per bottle.",
+    "Calculating the number of bottles: 20000 / 400 = 50 bottles."
+  ],
+  "solution": "50"
+}

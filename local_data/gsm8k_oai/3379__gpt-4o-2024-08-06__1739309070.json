@@ -1,0 +1,21 @@
+{
+  "query": "On a quiz, Nicole answered 3 fewer questions correctly than Kim, and Kim answered 8 more questions correctly than Cherry. If Nicole answered 22 correctly, how many did Cherry answer correctly?",
+  "steps": [
+    "Nicole answered 3 fewer questions correctly than Kim.",
+    "Nicole answered 22 questions correctly.",
+    "Let the number of questions Kim answered correctly be K.",
+    "Nicole answered K - 3 questions correctly.",
+    "Since Nicole answered 22 questions correctly, we have the equation K - 3 = 22.",
+    "To find K, solve the equation: K - 3 = 22.",
+    "Add 3 to both sides of the equation: K = 22 + 3.",
+    "K = 25. So, Kim answered 25 questions correctly.",
+    "Kim answered 8 more questions correctly than Cherry.",
+    "Let the number of questions Cherry answered correctly be C.",
+    "According to the problem, K = C + 8.",
+    "We already know K = 25.",
+    "So, substitute K into the equation: 25 = C + 8.",
+    "To find C, subtract 8 from both sides: C = 25 - 8.",
+    "C = 17. So, Cherry answered 17 questions correctly."
+  ],
+  "solution": "17"
+}

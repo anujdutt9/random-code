@@ -1,0 +1,17 @@
+{
+  "query": "You start a business selling charm bracelets. You spend $1 on the string for each bracelet and $3 on beads for each bracelet. You sell the bracelets for $6 each. If you sell 25 bracelets, how much profit will you make?",
+  "steps": [
+    "First, I need to calculate the total cost of making each bracelet.",
+    "The cost of string per bracelet is $1.",
+    "The cost of beads per bracelet is $3.",
+    "The total cost per bracelet is $1 (string) + $3 (beads) = $4.",
+    "Next, I calculate the revenue for selling one bracelet.",
+    "Each bracelet is sold for $6.",
+    "Now, I calculate the profit for selling one bracelet, which is the revenue minus the cost.",
+    "The profit per bracelet is $6 (revenue) - $4 (cost) = $2.",
+    "I need to calculate the total profit for selling 25 bracelets.",
+    "Total profit = Profit per bracelet * Number of bracelets sold.",
+    "Total profit = $2 * 25 = $50."
+  ],
+  "solution": "50"
+}

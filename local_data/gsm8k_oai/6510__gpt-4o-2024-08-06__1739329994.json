@@ -1,0 +1,16 @@
+{
+  "query": "Rachel is an artist. She posts a speed painting video each week on her Instagram account to promote her work. To save time, she paints and records 4 videos at a time. It takes her about 1 hour to set up her painting supplies and her camera. Then she records herself painting for 1 hour per painting. She takes another 1 hour to clean up. Each video takes 1.5 hours to edit and post. How long does it take Rachel to produce a speed painting video?",
+  "steps": [
+    "Rachel sets up her painting supplies and camera, which takes 1 hour.",
+    "She paints 4 videos at a time, spending 1 hour on each painting, so that totals 4 hours.",
+    "She then spends 1 hour cleaning up after she is done with the paintings.",
+    "Therefore, the total time for setup, painting, and cleanup is 1 + 4 + 1 = 6 hours.",
+    "Since she produces 4 videos, the time spent so far is for 4 videos.",
+    "Each video takes an additional 1.5 hours to edit and post, contributing 1.5 hours individually.",
+    "For 4 videos, the total editing time is 4 videos x 1.5 hours/video = 6 hours.",
+    "The grand total time Rachel spends per batch of 4 videos is 6 hours (setup, painting, and cleanup) + 6 hours (editing) = 12 hours.",
+    "To find the time it takes to produce one video, divide the total time by 4, as she produces 4 videos at a time.",
+    "12 hours / 4 videos = 3 hours per video."
+  ],
+  "solution": "3"
+}

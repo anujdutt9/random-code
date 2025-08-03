@@ -1,0 +1,18 @@
+{
+  "query": "Richard starts walking from Cincinnati to New York City, which is 70 miles. Richards walks 20 miles the first day. The next day he walks 6 miles less than half as much as he walked the first day. He walks 10 miles the third day. How many miles further does Richard have to walk to be in New York City?",
+  "steps": [
+    "First, I need to calculate how many miles Richard walked on the second day.",
+    "Richard walked 20 miles on the first day.",
+    "Half of 20 miles is 10 miles.",
+    "Richard walked 6 miles less than half of what he walked on the first day on the second day, which is 10 - 6 = 4 miles.",
+    "Now, I will add up the miles Richard walked over the three days.",
+    "Day 1: 20 miles",
+    "Day 2: 4 miles",
+    "Day 3: 10 miles",
+    "Total miles walked: 20 + 4 + 10 = 34 miles",
+    "The total distance from Cincinnati to New York City is 70 miles.",
+    "I will subtract the total miles Richard has already walked from the total distance.",
+    "70 miles - 34 miles = 36 miles"
+  ],
+  "solution": "36"
+}

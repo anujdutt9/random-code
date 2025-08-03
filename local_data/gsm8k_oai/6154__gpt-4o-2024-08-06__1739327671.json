@@ -1,0 +1,25 @@
+{
+  "query": "Mary is writing a story, and wants her 60 characters to be split according to their initials. Half of her characters have the initial A, and half of this amount have the initial C. Mary wants the rest of her characters to have the initials D and E, but she wants there to be twice as many characters with the initial D as there are characters with the initial E. How many of Mary\u2019s characters have the initial D?",
+  "steps": [
+    "Mary has a total of 60 characters in her story.",
+    "Half of the characters have the initial A.",
+    "So, the number of characters with the initial A is 60 / 2 = 30.",
+    "Half of the characters with the initial A have the initial C.",
+    "So, the number of characters with the initial C is 30 / 2 = 15.",
+    "Let's calculate how many characters remain after accounting for those with initials A and C.",
+    "Characters with initials A and C: 30 + 15 = 45.",
+    "The remaining characters are 60 - 45 = 15.",
+    "Mary wants the rest of her characters to have initials D and E.",
+    "There should be twice as many characters with the initial D as with the initial E.",
+    "Let the number of characters with the initial E be x.",
+    "The number of characters with the initial D should then be 2x.",
+    "The total number of characters with initials D and E is 15.",
+    "Equation: 2x + x = 15",
+    "Simplify the equation: 3x = 15",
+    "Solve for x by dividing both sides by 3.",
+    "x = 15 / 3 = 5",
+    "If x = 5, then the number of characters with the initial E is 5.",
+    "The number of characters with the initial D is 2 * 5 = 10."
+  ],
+  "solution": "10"
+}

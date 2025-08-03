@@ -1,0 +1,20 @@
+{
+  "query": "Ten percent less than twice the total number of students present in the science class yesterday have attended class today. If there were 70 students in the class yesterday and 30 students are absent today, calculate the number of students registered for the course.",
+  "steps": [
+    "First, I need to find the total number of students that were present in the science class yesterday.",
+    "The problem states there were 70 students in the class yesterday.",
+    "According to the problem, \"Ten percent less than twice the total number of students present yesterday\" attended today.",
+    "Let's calculate twice the number of students present yesterday.",
+    "Twice the students present yesterday is 2 multiplied by 70, which equals 140.",
+    "Now, I need to find ten percent less than this number. Ten percent of 140 is found by multiplying 140 by 0.10.",
+    "0.10 times 140 is equal to 14.",
+    "So, ten percent less than 140 is 140 minus 14.",
+    "140 minus 14 equals 126.",
+    "Therefore, 126 students attended class today.",
+    "We know that 30 students are absent today.",
+    "To find the total number of students registered for the course, I add the number of students who attended today to the number of students who are absent.",
+    "That means the registered students = students attended today + students absent.",
+    "126 (attended) plus 30 (absent) equals 156."
+  ],
+  "solution": "156"
+}

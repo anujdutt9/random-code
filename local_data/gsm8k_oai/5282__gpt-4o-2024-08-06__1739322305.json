@@ -1,0 +1,15 @@
+{
+  "query": "Willie came back from Europe with 70 euros. Normally 5 euros is worth 1 dollar, but the money exchange at the airport will only give Willie 5/7ths of the official exchange rate. How many dollars does Willie get?",
+  "steps": [
+    "Willie has 70 euros.",
+    "Normally, 5 euros is worth 1 dollar.",
+    "The official exchange rate is therefore 1 euro = 1/5 dollars.",
+    "The airport exchange gives Willie 5/7ths of the official exchange rate.",
+    "Calculate the rate the airport is using: (5/7) * (1/5) dollars per euro.",
+    "Simplify the airport's rate: (5/7) * (1/5) = 1/7 dollars per euro.",
+    "Willie needs to convert 70 euros using the airport's rate.",
+    "Multiply the number of euros by the airport rate: 70 euros * 1/7 dollars/euro.",
+    "Calculate: 70 * 1/7 = 70/7 = 10 dollars."
+  ],
+  "solution": "10"
+}

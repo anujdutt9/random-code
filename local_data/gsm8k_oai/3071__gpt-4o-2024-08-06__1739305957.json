@@ -1,0 +1,15 @@
+{
+  "query": "Claire is scheduling her day. She has four hours to clean and two hours to cook, then divides the rest of her working day equally between crafting and tailoring. She then sleeps eight hours. If all of this takes place within one day, how many hours did Claire spend crafting?",
+  "steps": [
+    "First, I need to determine how many total hours there are in a day. There are 24 hours in a day.",
+    "Next, Claire sleeps for 8 hours. I will subtract these 8 hours from the total hours in a day.",
+    "24 hours in a day minus 8 hours for sleep leaves Claire with 16 hours for other activities.",
+    "Claire spends 4 hours cleaning. I will subtract these 4 hours from the remaining 16 hours.",
+    "16 hours minus 4 hours for cleaning leaves Claire with 12 hours for other activities.",
+    "Claire spends 2 hours cooking. I will subtract these 2 hours from the remaining 12 hours.",
+    "12 hours minus 2 hours for cooking leaves 10 hours for crafting and tailoring.",
+    "Claire divides the remaining 10 hours equally between crafting and tailoring. So, I need to divide 10 hours by 2.",
+    "10 hours divided by 2 equals 5 hours for crafting and 5 hours for tailoring."
+  ],
+  "solution": "5"
+}

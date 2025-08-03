@@ -1,0 +1,22 @@
+{
+  "query": "Samuel has $5, $10, and $20 bills which amount to $150 in his wallet. His $10-bills amount to $50, and he has 4 $20-bills. How many bills does Samuel have in his wallet?",
+  "steps": [
+    "I am given that Samuel's $10-bills amount to $50.",
+    "To find out the number of $10-bills, I divide $50 by 10.",
+    "50 divided by 10 equals 5.",
+    "So, Samuel has 5 $10-bills.",
+    "Next, I am told Samuel has 4 $20-bills.",
+    "Now, I will calculate the total amount of money from the $20-bills.",
+    "4 $20-bills amount to 4 times 20, which is $80.",
+    "Now, I know from $10 and $20-bills, Samuel has $50 + $80 = $130.",
+    "Samuel's total amount of money is $150.",
+    "The missing amount from the total is $150 - $130, which equals $20.",
+    "The $5-bills must make up this $20.",
+    "To find the number of $5-bills, I divide $20 by 5.",
+    "20 divided by 5 equals 4.",
+    "So, Samuel has 4 $5-bills.",
+    "To find the total number of bills Samuel has in his wallet, I add up all the bills: 5 $10-bills, 4 $20-bills, and 4 $5-bills.",
+    "5 + 4 + 4 equals 13."
+  ],
+  "solution": "13"
+}

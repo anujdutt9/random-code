@@ -1,0 +1,19 @@
+{
+  "query": "John has 20% more boxes than Jules. Jules has 5 more boxes than Joseph. Joseph has 80% fewer boxes than Stan. If Stan has 100 boxes, how many boxes does John have?",
+  "steps": [
+    "First, I need to figure out how many boxes Joseph has.",
+    "Stan has 100 boxes. Joseph has 80% fewer boxes than Stan.",
+    "To find 80% fewer boxes, I calculate 80% of 100.",
+    "80% of 100 is 0.8 \u00d7 100 = 80.",
+    "Joseph has 100 - 80 = 20 boxes.",
+    "Next, I need to find out how many boxes Jules has.",
+    "Jules has 5 more boxes than Joseph.",
+    "So, Jules has 20 + 5 = 25 boxes.",
+    "Now, I need to calculate how many boxes John has.",
+    "John has 20% more boxes than Jules.",
+    "To find 20% more, I calculate 20% of 25.",
+    "20% of 25 is 0.2 \u00d7 25 = 5.",
+    "Adding this to Jules's 25 boxes, John has 25 + 5 = 30 boxes."
+  ],
+  "solution": "30"
+}

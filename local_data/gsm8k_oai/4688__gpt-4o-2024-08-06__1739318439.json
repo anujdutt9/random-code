@@ -1,0 +1,18 @@
+{
+  "query": "Emily bought a shirt and a coat for $600. What does the shirt cost if it is one-third the price of the coat?",
+  "steps": [
+    "Emily bought two items: a shirt and a coat. The total cost is $600.",
+    "Let the price of the coat be C.",
+    "The price of the shirt is one-third of the coat, so let the price of the shirt be C/3.",
+    "The total cost equation is: C + C/3 = 600.",
+    "Combine like terms. The equivalent equation is: (3C + C) / 3 = 600.",
+    "Multiply both sides by 3 to eliminate the denominator: 3C + C = 1800.",
+    "Simplify the equation: 4C = 1800.",
+    "Divide both sides by 4 to solve for C: C = 1800 / 4.",
+    "Calculate C: C = 450.",
+    "The price of the coat is $450.",
+    "The price of the shirt is one-third of the price of the coat: Shirt = 450 / 3.",
+    "Calculate the price of the shirt: Shirt = 150."
+  ],
+  "solution": "150"
+}

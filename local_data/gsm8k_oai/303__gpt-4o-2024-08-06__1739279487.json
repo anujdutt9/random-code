@@ -1,0 +1,20 @@
+{
+  "query": "Tommy is making 12 loaves of bread. He needs 4 pounds of flour per loaf. A 10-pound bag of flour costs $10 and a 12-pound bag costs $13. When he is done making his bread, he has no use for flour and so he will throw away whatever is left. How much does he spend on flour if he buys the cheapest flour to get enough?",
+  "steps": [
+    "Tommy is making 12 loaves of bread.",
+    "He needs 4 pounds of flour per loaf.",
+    "Therefore, the total amount of flour needed is 12 loaves * 4 pounds/loaf = 48 pounds.",
+    "Tommy has two options for buying flour: a 10-pound bag for $10 and a 12-pound bag for $13.",
+    "First, I need to calculate how many of each bag Tommy would need if he uses only 10-pound bags.",
+    "Using only 10-pound bags, he would need 48 pounds / 10 pounds/bag = 4.8 bags.",
+    "Since he cannot buy a fraction of a bag, he would need to purchase 5 bags of the 10-pound option.",
+    "Buying 5 bags at $10 each would cost him 5 bags * $10/bag = $50.",
+    "Now, let's consider using the 12-pound bags.",
+    "Using only 12-pound bags, he would need 48 pounds / 12 pounds/bag = 4 bags.",
+    "Buying 4 bags at $13 each would cost him 4 bags * $13/bag = $52.",
+    "The cost of buying 5 of the 10-pound bags is $50, and the cost of buying 4 of the 12-pound bags is $52.",
+    "The cheaper option for Tommy is to buy 5 of the 10-pound bags for $50.",
+    "Tommy spends $50 on flour."
+  ],
+  "solution": "50"
+}

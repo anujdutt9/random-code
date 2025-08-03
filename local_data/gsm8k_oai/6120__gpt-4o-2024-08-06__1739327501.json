@@ -1,0 +1,24 @@
+{
+  "query": "Out of the 200 students in a class, thirty percent like the color blue. Among the remaining students who don't like the color blue, 40% like the color red, and the rest like the color yellow. Calculate the combined number of students who like the color yellow and the color blue.",
+  "steps": [
+    "First, I need to find out how many students like the color blue.",
+    "30% of 200 students like the color blue.",
+    "Calculate 30% of 200.",
+    "30/100 * 200 = 60.",
+    "So, 60 students like the color blue.",
+    "Next, I need to find the number of students who don't like the color blue.",
+    "There are 200 students in total, and 60 like the color blue.",
+    "200 - 60 = 140 students don't like the color blue.",
+    "Among these 140 students, 40% like the color red.",
+    "Calculate 40% of 140.",
+    "40/100 * 140 = 56.",
+    "So, 56 students like the color red.",
+    "Now, I need to determine how many of the remaining students like the color yellow.",
+    "Out of 140 students who don't like blue, 56 like red.",
+    "140 - 56 = 84 students like the color yellow.",
+    "Finally, I need to find the combined number of students who like the color yellow and the color blue.",
+    "60 students like the color blue, and 84 like the color yellow.",
+    "60 + 84 = 144."
+  ],
+  "solution": "144"
+}

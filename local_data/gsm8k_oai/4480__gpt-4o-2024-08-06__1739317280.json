@@ -1,0 +1,15 @@
+{
+  "query": "A pipe is clogged so that only 2 ounces of cleaner can run through the pipe per minute. After fifteen minutes, the cleaner has unclogged it enough that 3 ounces can run through per minute. Ten minutes later, the clog is cleared enough for 4 ounces to run through per minute. How many ounces of cleaner were used after 30 minutes?",
+  "steps": [
+    "First, I'm going to break down the problem into time intervals and calculate the amount of cleaner used in each interval.",
+    "From 0 to 15 minutes, 2 ounces per minute flow through the pipe.",
+    "In this first interval, the total cleaner used is 2 ounces/minute * 15 minutes = 30 ounces.",
+    "Then from 15 to 25 minutes (10 minutes), 3 ounces per minute flow through the pipe.",
+    "In this second interval, the total cleaner used is 3 ounces/minute * 10 minutes = 30 ounces.",
+    "Finally, from 25 to 30 minutes (5 minutes), 4 ounces per minute flow through the pipe.",
+    "In this third interval, the total cleaner used is 4 ounces/minute * 5 minutes = 20 ounces.",
+    "Now, I will add the amounts of cleaner used in each interval to find the total used after 30 minutes.",
+    "The total cleaner used is 30 ounces + 30 ounces + 20 ounces = 80 ounces."
+  ],
+  "solution": "80"
+}

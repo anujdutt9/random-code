@@ -1,0 +1,16 @@
+{
+  "query": "An aquarium holds an equal number of clownfish and blowfish. 26 of the blowfish stay in their own tank, and the remaining blowfish swim into a display tank.  An equal number of clownfish join the blowfish in the display tank, but then a third of these clownfish swim back into their own tank.  If the aquarium holds a combined total of 100 fish, how many clownfish are now in the display tank?",
+  "steps": [
+    "First, identify the total number of fish. We know from the problem that the combined total number of clownfish and blowfish is 100.",
+    "Let C represent the number of clownfish and B represent the number of blowfish. The problem states that the number of clownfish equals the number of blowfish: C = B.",
+    "From these two pieces of information, we can set up the equation: C + B = 100.",
+    "Since C = B, we substitute B with C in the equation: C + C = 100, which simplifies to 2C = 100.",
+    "Solve for C: Divide both sides by 2, giving C = 50.",
+    "Since C = 50, B must also equal 50 because C = B. So, there are 50 clownfish and 50 blowfish in total.",
+    "Now, consider the specific situation with the fish: 26 blowfish stay in their own tank. So, the number of blowfish in the display tank is 50 - 26 = 24.",
+    "The problem states an equal number of clownfish join the blowfish in the display tank. So, the same number of clownfish, i.e., 24, join them.",
+    "Then, a third of these clownfish swim back to their own tank. Calculate a third of 24: 24 / 3 = 8.",
+    "Thus, 8 clownfish swim back, leaving the number of clownfish in the display tank as 24 - 8 = 16."
+  ],
+  "solution": "16"
+}

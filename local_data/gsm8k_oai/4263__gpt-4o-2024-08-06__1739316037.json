@@ -1,0 +1,14 @@
+{
+  "query": "John gets $30 from his grandpa and 3 times that much from his grandma.  How much did he get from the two grandparents?",
+  "steps": [
+    "John gets $30 from his grandpa.",
+    "John gets 3 times $30 from his grandma.",
+    "3 times $30 is calculated by multiplying 3 by 30.",
+    "3 multiplied by 30 equals $90.",
+    "Now I need to add the money he got from both grandparents.",
+    "John got $30 from his grandpa and $90 from his grandma.",
+    "Adding $30 and $90 gives me the total amount.",
+    "$30 plus $90 is $120."
+  ],
+  "solution": "120"
+}

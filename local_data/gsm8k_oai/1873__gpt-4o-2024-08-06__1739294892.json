@@ -1,0 +1,19 @@
+{
+  "query": "The sum of the ages of Jeremy, Sebastian and Sophia in three years is 150. Currently, Sebastian is 4 years older than Jeremy. If Jeremy's age is 40, calculate Sophia's age three years from now?",
+  "steps": [
+    "Jeremy's current age is given as 40 years.",
+    "Sebastian is 4 years older than Jeremy.",
+    "Sebastian's current age is 40 + 4 = 44 years.",
+    "We need to determine Sophia's current age, but we know the total age of all three in three years.",
+    "In three years, Jeremy will be 40 + 3 = 43 years old.",
+    "In three years, Sebastian will be 44 + 3 = 47 years old.",
+    "The sum of their ages in three years will be 43 + 47 + Sophia's age in three years.",
+    "The sum of their ages in three years is given as 150.",
+    "Set up the equation: 43 + 47 + (Sophia's age in 3 years) = 150.",
+    "Calculate the sum of Jeremy's and Sebastian's age in three years: 43 + 47 = 90.",
+    "Now solve for Sophia's age in three years: 90 + (Sophia's age in 3 years) = 150.",
+    "Subtract 90 from both sides to find Sophia's age in three years: Sophia's age in 3 years = 150 - 90.",
+    "Sophia's age in three years = 60."
+  ],
+  "solution": "60"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Alex is stacking his books in a pyramid. Each level of the pyramid has 80% as many books as the number of books in the previous level. If he makes four levels and the top level has 64 books, how many books are in the pyramid in total?",
+  "steps": [
+    "I'm given that the top level, which is the fourth level, has 64 books.",
+    "I need to find the number of books in the previous levels, knowing each level has 80% as many books as the next level in the structure.",
+    "The third level, being one below the top, would hence have more books than 64.",
+    "If the fourth level has 64 books, the third level has 64 / 0.8 = 80 books.",
+    "The second level, following the same pattern, will have 80 / 0.8 = 100 books.",
+    "The first and lowest level will then have 100 / 0.8 = 125 books.",
+    "I now have the number of books on each level: 125 on the first, 100 on the second, 80 on the third, and 64 on the fourth.",
+    "To find the total number of books Alex has in the pyramid, I need to add the number of books on each level together.",
+    "Adding them gives me: 125 + 100 + 80 + 64.",
+    "Summing these numbers, I find 125 + 100 = 225.",
+    "Continuing, 225 + 80 = 305.",
+    "Finally, 305 + 64 = 369."
+  ],
+  "solution": "369"
+}

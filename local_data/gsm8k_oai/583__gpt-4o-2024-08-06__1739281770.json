@@ -1,0 +1,21 @@
+{
+  "query": "When it rains, the three holes in the garage roof leak water at different rates.  The largest hole leaks at a rate of 3 ounces of water  per minute.  The medium-sized hole leaks water at one-half the rate of the largest hole.  And the smallest hole leaks water at a rate of one-third the rate of the medium-sized hole.  When it rains, what is the combined amount of water, in ounces, that leak from all three holes over a 2-hour time period?",
+  "steps": [
+    "First, I need to determine the rate at which each hole leaks water.",
+    "The largest hole leaks water at 3 ounces per minute.",
+    "The medium-sized hole leaks at one-half the rate of the largest hole.",
+    "Half of 3 ounces per minute is 1.5 ounces per minute.",
+    "The medium-sized hole leaks at 1.5 ounces per minute.",
+    "The smallest hole leaks at one-third the rate of the medium-sized hole.",
+    "One-third of 1.5 ounces per minute is 0.5 ounces per minute.",
+    "The smallest hole leaks at 0.5 ounces per minute.",
+    "Now, I calculate the combined leak rate of all three holes.",
+    "The combined rate is 3 ounces per minute (largest) + 1.5 ounces per minute (medium) + 0.5 ounces per minute (smallest).",
+    "The combined leak rate is 3 + 1.5 + 0.5 = 5 ounces per minute.",
+    "I need to find out how many total ounces leak in a 2-hour time period.",
+    "There are 60 minutes in an hour, so there are 2 * 60 = 120 minutes in 2 hours.",
+    "Next, I multiply the leak rate by the number of minutes: 5 ounces per minute * 120 minutes.",
+    "5 * 120 = 600 ounces."
+  ],
+  "solution": "600"
+}

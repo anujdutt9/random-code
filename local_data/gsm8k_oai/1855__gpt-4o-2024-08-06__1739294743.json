@@ -1,0 +1,17 @@
+{
+  "query": "In a town where 60% of the citizens own a pet, half own a dog and 30 own a cat. How many citizens are in the town?",
+  "steps": [
+    "Let's denote the total number of citizens in the town as \\( x \\).",
+    "According to the problem, 60% of the citizens own a pet.",
+    "This means that the number of citizens who own a pet is \\( 0.6x \\).",
+    "Half of the pet-owning citizens own a dog.",
+    "Therefore, the number of citizens who own a dog is \\( \\frac{1}{2} \\times 0.6x = 0.3x \\).",
+    "It is also given that 30 citizens own a cat.",
+    "Assuming that no citizen owns both a dog and a cat, the total number of pet-owning citizens is the sum of the dog and cat owners.",
+    "Therefore, \\( 0.3x + 30 = 0.6x \\).",
+    "To solve for \\( x \\), we rearrange the equation: \\( 0.6x - 0.3x = 30 \\).",
+    "This simplifies to \\( 0.3x = 30 \\).",
+    "Dividing both sides by 0.3 gives \\( x = 100 \\)."
+  ],
+  "solution": "100"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "There are 32 tables in a hall. Half the tables have 2 chairs each, 5 have 3 chairs each and the rest have 4 chairs each. How many chairs in total are in the hall?",
+  "steps": [
+    "First, I need to determine how many tables have 2 chairs. Since half the tables have 2 chairs and there are 32 tables total, I'll calculate half of 32.",
+    "Half of 32 is 16. So, there are 16 tables with 2 chairs each.",
+    "Next, I'll calculate the number of chairs for these 16 tables. Each has 2 chairs, so I multiply 16 tables by 2 chairs.",
+    "16 tables * 2 chairs per table = 32 chairs.",
+    "I know 5 tables have 3 chairs each. Now I'll calculate the number of chairs for these tables. I'll multiply 5 by 3 chairs.",
+    "5 tables * 3 chairs per table = 15 chairs.",
+    "Now, I need to find out how many tables have 4 chairs each. I've accounted for 16 + 5 = 21 tables so far.",
+    "There are 32 tables total, so 32 - 21 = 11 tables have 4 chairs each.",
+    "I\u2019ll calculate the number of chairs for the 11 tables with 4 chairs. I multiply 11 by 4 chairs.",
+    "11 tables * 4 chairs per table = 44 chairs.",
+    "Finally, I'll add up all the chairs to find the total. I'll add 32 chairs, 15 chairs, and 44 chairs.",
+    "32 + 15 + 44 = 91 chairs in total."
+  ],
+  "solution": "91"
+}

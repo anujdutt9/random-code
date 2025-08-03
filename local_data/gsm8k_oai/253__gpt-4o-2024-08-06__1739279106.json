@@ -1,0 +1,19 @@
+{
+  "query": "A rectangular plot of private property is fenced in by a chain-link fence. The long sides of the plot are three times the length of the short sides. One short side of the fence is rusted from being hit by a sprinkler and needs to be replaced. If all the sides of the fence together are 640 feet long, how many feet of fence need to be replaced?",
+  "steps": [
+    "The total perimeter of the fence is 640 feet.",
+    "Let the length of the short side be \\( x \\).",
+    "The length of the long side is three times the length of the short side, so it is \\( 3x \\).",
+    "A rectangle has two short sides and two long sides.",
+    "The formula for the perimeter of a rectangle is \\( 2 \\times (\\text{short side} + \\text{long side}) \\).",
+    "Substitute the known values into the formula: \\( 2(x + 3x) = 640 \\).",
+    "Simplify inside the parenthesis: \\( x + 3x = 4x \\).",
+    "The equation becomes \\( 2 \\times 4x = 640 \\).",
+    "Simplify the equation: \\( 8x = 640 \\).",
+    "Solve for \\( x \\) by dividing both sides by 8: \\( x = 640 / 8 \\).",
+    "Calculate: \\( x = 80 \\).",
+    "Each short side is 80 feet long.",
+    "The problem states that one short side needs to be replaced."
+  ],
+  "solution": "80"
+}

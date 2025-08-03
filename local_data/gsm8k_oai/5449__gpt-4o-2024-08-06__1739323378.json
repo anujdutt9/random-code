@@ -1,0 +1,14 @@
+{
+  "query": "A mailman has to deliver 48 pieces of junk mail.  There are 8 houses on the block.  2 of the houses have white mailboxes and 3 have red mailboxes.  How many pieces of junk mail will each of those houses get?",
+  "steps": [
+    "First, I need to determine how many houses have non-white and non-red mailboxes.",
+    "There are 8 houses in total, and I know that 2 have white mailboxes and 3 have red mailboxes.",
+    "If I add the houses with white mailboxes and the houses with red mailboxes, I get 2 + 3 = 5 houses.",
+    "This means that 8 - 5 = 3 houses have mailboxes that are neither white nor red.",
+    "Next, I need to determine how the mail is distributed among all the houses.",
+    "There are 48 pieces of junk mail to deliver, and these pieces need to be distributed evenly among the 8 houses.",
+    "To find out how many pieces each house gets, I will divide the total number of pieces by the total number of houses: 48 \u00f7 8 = 6.",
+    "Therefore, each house, regardless of mailbox color, receives 6 pieces of junk mail."
+  ],
+  "solution": "6"
+}

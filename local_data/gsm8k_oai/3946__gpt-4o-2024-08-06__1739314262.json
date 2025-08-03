@@ -1,0 +1,14 @@
+{
+  "query": "Mother made 2 dozen brownies and placed them on the kitchen counter to cool.  Father smelled the brownies, came into the kitchen and ate 8 of them. Then, their daughter, Mooney, wandered into the kitchen and ate 4 of the brownies. The next morning, Mother made another two dozen brownies and added them to those remaining from the day before.  After that, how many brownies were on the counter?",
+  "steps": [
+    "First, I need to determine how many brownies were initially made by Mother. A dozen is 12, so 2 dozen brownies equal 24 brownies.",
+    "Father ate 8 brownies from the 24. I need to subtract those 8 brownies from the initial 24 brownies.",
+    "24 - 8 = 16. So, there were 16 brownies remaining after Father ate some.",
+    "Then, Mooney ate 4 more brownies. I need to subtract those 4 brownies from the remaining 16 brownies.",
+    "16 - 4 = 12. So, there were 12 brownies left after both Father and Mooney had some.",
+    "The next morning, Mother made another two dozen brownies, which is 24 brownies, and added them to the 12 brownies that were left.",
+    "I need to add the newly made 24 brownies to the 12 remaining brownies from the previous day.",
+    "12 + 24 = 36. Therefore, there were 36 brownies on the counter after the additional brownies were made."
+  ],
+  "solution": "36"
+}

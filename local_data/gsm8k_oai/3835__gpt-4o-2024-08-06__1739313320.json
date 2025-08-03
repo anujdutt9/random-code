@@ -1,0 +1,17 @@
+{
+  "query": "Billy is breeding mice for an experiment. He starts with 8 mice, who each have 6 pups. When the pups grow up, all the mice have another 6 pups. Then each adult mouse eats 2 of their pups due to the stress of overcrowding. How many mice are left?",
+  "steps": [
+    "Billy starts with 8 mice.",
+    "Each of these 8 mice has 6 pups.",
+    "8 mice * 6 pups each = 48 pups.",
+    "Now there are 8 original mice + 48 pups = 56 mice in total after the first round of births.",
+    "Now all 56 mice (originals and pups) each have 6 more pups.",
+    "56 mice * 6 pups each = 336 new pups.",
+    "After these pups are born, there are 56 adult mice + 336 new pups = 392 mice total.",
+    "Each adult mouse eats 2 of their pups due to stress.",
+    "The number of adult mice is 56, and each eats 2 pups, so 56 * 2 = 112 pups are eaten.",
+    "After the adults eat the pups, there are 336 - 112 = 224 pups left.",
+    "Now combine the remaining pups with the adults: 224 pups + 56 adults = 280 mice."
+  ],
+  "solution": "280"
+}

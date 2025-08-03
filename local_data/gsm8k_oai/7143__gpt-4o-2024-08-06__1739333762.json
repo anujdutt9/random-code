@@ -1,0 +1,14 @@
+{
+  "query": "Angus has $20 worth of tokens less than Elsa has. If Elsa has 60 tokens and each token is worth $4, how many tokens does Angus have?",
+  "steps": [
+    "First, I need to find out how much money Elsa's tokens are worth.",
+    "Elsa has 60 tokens, and each token is worth $4.",
+    "To find the total value of Elsa's tokens, I multiply the number of tokens by the value per token: 60 tokens * $4 = $240.",
+    "Angus has $20 worth of tokens less than Elsa.",
+    "So, to find the total value of Angus's tokens, I subtract $20 from Elsa's total: $240 - $20 = $220.",
+    "Now, I need to find out how many tokens Angus has.",
+    "Each of Angus's tokens is also worth $4.",
+    "To find the number of tokens Angus has, I divide the total value of his tokens by the value per token: $220 / $4 = 55."
+  ],
+  "solution": "55"
+}

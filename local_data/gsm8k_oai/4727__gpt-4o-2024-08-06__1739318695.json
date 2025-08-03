@@ -1,0 +1,14 @@
+{
+  "query": "On March 1st the sun sets at 6 PM.  Every day after the sun sets 1.2 minutes later.  It is 6:10 PM and 40 days after March 1st.  How many minutes until the sun sets?",
+  "steps": [
+    "I know that March 1st is the starting point and the sun sets at 6 PM that day.",
+    "The sun sets 1.2 minutes later each subsequent day.",
+    "I need to calculate the total number of days since March 1st, which is given as 40 days.",
+    "For each of these 40 days, the sun sets 1.2 minutes later than the previous day.",
+    "I will calculate the total additional minutes the sun sets later after 40 days: 40 days \u00d7 1.2 minutes/day = 48 minutes.",
+    "Therefore, on the 40th day after March 1st, the sun sets at 6 PM + 48 minutes = 6:48 PM.",
+    "The current time is 6:10 PM, and I need to find out how many minutes until the sunset on this 40th day.",
+    "From 6:10 PM to 6:48 PM is a difference of 38 minutes."
+  ],
+  "solution": "38"
+}

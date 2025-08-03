@@ -1,0 +1,19 @@
+{
+  "query": "Janet lives in a city built on a grid system.  She walks 3 blocks north, then seven times as many blocks west. Then she turns around and walks 8 blocks south and twice as many blocks east in the direction of her home. If Janet can walk 2 blocks/minute, how long will it take her to get home?",
+  "steps": [
+    "First, I need to determine how many blocks Janet walks in each direction, and her ending position relative to her starting point.",
+    "Janet starts by walking 3 blocks north.",
+    "Then she walks seven times as many blocks west. Seven times 3 is 21. So, she walks 21 blocks west.",
+    "Next, Janet walks 8 blocks south.",
+    "Now, she walks twice as many blocks east. Twice 8 is 16. So, she walks 16 blocks east.",
+    "To figure out Janet's final position relative to her starting point, I'll calculate the net blocks north/south and west/east she has walked.",
+    "For north/south: She walked 3 blocks north and 8 blocks south. So, 8 south minus 3 north gives 5 blocks south net.",
+    "For east/west: She walked 21 blocks west and 16 blocks east. So, 21 west minus 16 east gives 5 blocks west net.",
+    "Now, Janet is 5 blocks south and 5 blocks west of her starting point.",
+    "To get home, Janet needs to walk 5 blocks north and 5 blocks east.",
+    "The total number of blocks Janet needs to walk to get home is 5 north plus 5 east, which equals 10 blocks.",
+    "Janet walks at a speed of 2 blocks per minute.",
+    "To calculate the time it takes her to get home, divide the total blocks by her speed: 10 blocks / 2 blocks per minute = 5 minutes."
+  ],
+  "solution": "5"
+}

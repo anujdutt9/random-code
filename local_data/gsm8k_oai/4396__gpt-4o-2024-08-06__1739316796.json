@@ -1,0 +1,14 @@
+{
+  "query": "One logger can cut down 6 trees per day. The forest is a rectangle measuring 4 miles by 6 miles, and each square mile has 600 trees. If there are 30 days in each month, how many months will it take 8 loggers to cut down all the trees?",
+  "steps": [
+    "First, calculate the total area of the forest. The forest is a rectangle measuring 4 miles by 6 miles.",
+    "Multiply the length and width to get the area: 4 miles * 6 miles = 24 square miles.",
+    "Now, calculate the total number of trees in the forest. Each square mile has 600 trees.",
+    "Multiply the number of trees per square mile by the total area: 24 square miles * 600 trees/square mile = 14,400 trees.",
+    "Determine how many trees one logger can cut down in a day. One logger can cut down 6 trees per day.",
+    "Calculate how many trees 8 loggers can cut down in a day. Multiply the number of trees one logger cuts by the number of loggers: 8 loggers * 6 trees/logger/day = 48 trees/day.",
+    "Calculate how many days it will take 8 loggers to cut down all the trees. Divide the total number of trees by the number of trees 8 loggers can cut per day: 14,400 trees / 48 trees/day = 300 days.",
+    "Convert days to months since there are 30 days in each month. Divide the total number of days by 30: 300 days / 30 days/month = 10 months."
+  ],
+  "solution": "10"
+}

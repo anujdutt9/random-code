@@ -1,0 +1,16 @@
+{
+  "query": "Fabian is shopping at a nearby supermarket. He wants to buy 5 kilograms of apples, 3 packs of sugar, and 500 grams of walnuts. One kilogram of apples costs $2, and one kilogram of walnuts costs $6. One pack of sugar is $1 cheaper than one kilogram of apples. How much Fabian needs to pay for the items he wants to buy?",
+  "steps": [
+    "I first need to determine the price of one pack of sugar. One kilogram of apples costs $2, and one pack of sugar is $1 cheaper than this.",
+    "Therefore, one pack of sugar costs $2 - $1 = $1.",
+    "Next, I'll find out the cost for 5 kilograms of apples. Since one kilogram costs $2, for 5 kilograms, it will be 5 * $2.",
+    "The total cost of 5 kilograms of apples is $10.",
+    "Now I'll calculate the cost for 3 packs of sugar. Each pack costs $1, so for 3 packs it's 3 * $1.",
+    "The total cost of 3 packs of sugar is $3.",
+    "For walnuts, I need to calculate the cost for 500 grams. Since 1 kilogram of walnuts costs $6, 500 grams (which is half a kilogram) will cost half of $6.",
+    "The total cost for 500 grams of walnuts is $3.",
+    "Finally, I'll add up all these costs to find the total Fabian needs to pay. For apples, it's $10; for sugar, it's $3; and for walnuts, it's $3.",
+    "Adding these amounts together gives: $10 + $3 + $3 = $16."
+  ],
+  "solution": "16"
+}

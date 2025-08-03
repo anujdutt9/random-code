@@ -1,0 +1,18 @@
+{
+  "query": "An online newspaper had listed 100 visitors in October. The number of visitors in November increased by 15%. There were 15 more visitors in December than in November. What is the total number of visitors for these three months?",
+  "steps": [
+    "First, I need to determine how many visitors there were in November.",
+    "The number of visitors in November is 15% more than in October.",
+    "In October, there were 100 visitors.",
+    "15% of 100 is calculated as 100 * 0.15 = 15.",
+    "So, the number of visitors in November is 100 + 15 = 115.",
+    "Next, I need to calculate the number of visitors in December.",
+    "December had 15 more visitors than November.",
+    "In November, there were 115 visitors.",
+    "So, in December, there were 115 + 15 = 130 visitors.",
+    "Now, I will add the number of visitors for October, November, and December.",
+    "October had 100 visitors, November had 115 visitors, and December had 130 visitors.",
+    "I will sum these numbers: 100 + 115 + 130 = 345."
+  ],
+  "solution": "345"
+}

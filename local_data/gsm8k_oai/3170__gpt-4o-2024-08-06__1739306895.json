@@ -1,0 +1,14 @@
+{
+  "query": "Karen is constantly trying to stop the raccoons from getting in her trash. The first lock she tries stalls them for 5 minutes. The next lock stalls them for 3 minutes less than three times as long as the first lock. When Karen tries both locks at once, it stalled the raccoons for five times as long as the second lock alone. How long is that?",
+  "steps": [
+    "First, I need to determine how long the second lock stalls the raccoons.",
+    "The first lock stalls the raccoons for 5 minutes.",
+    "The second lock stalls them for 3 minutes less than three times as long as the first lock.",
+    "Three times as long as the first lock is 3 * 5 = 15 minutes.",
+    "Three minutes less than 15 minutes is 15 - 3 = 12 minutes. So, the second lock stalls them for 12 minutes.",
+    "Now, I need to determine how long both locks together stall the raccoons.",
+    "Using both locks together stalls them for five times as long as the second lock alone.",
+    "Five times as long as 12 minutes is 5 * 12 = 60 minutes."
+  ],
+  "solution": "60"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Peter has 20 books. He has read 40% of them. His brother has read 10% of them. How many more of these books has Peter read than his brother?",
+  "steps": [
+    "Peter has a total of 20 books.",
+    "He has read 40% of these books.",
+    "To find out how many books Peter has read, I need to calculate 40% of 20.",
+    "40% of 20 is calculated as (40/100) * 20.",
+    "Calculating this gives me 8. So, Peter has read 8 books.",
+    "Peter's brother has read 10% of the same 20 books.",
+    "To find out how many books Peter's brother has read, I need to calculate 10% of 20.",
+    "10% of 20 is calculated as (10/100) * 20.",
+    "Calculating this gives me 2. So, Peter's brother has read 2 books.",
+    "To find out how many more books Peter has read than his brother, I subtract the number of books his brother has read from the number Peter has read.",
+    "Subtracting gives me 8 - 2, which equals 6."
+  ],
+  "solution": "6"
+}

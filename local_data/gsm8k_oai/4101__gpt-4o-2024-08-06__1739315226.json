@@ -1,0 +1,19 @@
+{
+  "query": "Buffy has a sailboat with a planing hull that she sails in the Gulf of Mexico.  Under optimal wind conditions, the use of two sails brings the ship to the speed of 50 knots, whereas under the same conditions, the use of one sail brings her ship to the speed of 25 knots.  A knot is a nautical term for speed equal to 1 nautical mile per hour, and one nautical mile equals 1.15 land miles.  If she travels in her sailboat under optimal wind conditions for 4 hours with one sail and then for another 4 hours with two sails, what is the total distance, in land miles, that she will travel?",
+  "steps": [
+    "I need to find the total distance traveled by the sailboat in land miles, given the speeds in knots and the time traveled with each sail configuration.",
+    "First, I will calculate the distance traveled with one sail over the 4-hour period.",
+    "Using one sail, the speed is 25 knots.",
+    "Distance traveled in nautical miles with one sail: speed (25 knots) \u00d7 time (4 hours) = 100 nautical miles.",
+    "Next, I will convert this distance into land miles. One nautical mile equals 1.15 land miles.",
+    "Distance in land miles with one sail: 100 nautical miles \u00d7 1.15 = 115 land miles.",
+    "Now, I will calculate the distance traveled with two sails over the 4-hour period.",
+    "Using two sails, the speed is 50 knots.",
+    "Distance traveled in nautical miles with two sails: speed (50 knots) \u00d7 time (4 hours) = 200 nautical miles.",
+    "Next, I will convert this distance into land miles.",
+    "Distance in land miles with two sails: 200 nautical miles \u00d7 1.15 = 230 land miles.",
+    "To find the total distance traveled in land miles, I will add the distances traveled with one sail and two sails.",
+    "Total distance in land miles: 115 land miles + 230 land miles = 345 land miles."
+  ],
+  "solution": "345"
+}

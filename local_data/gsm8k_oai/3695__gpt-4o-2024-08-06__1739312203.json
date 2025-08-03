@@ -1,0 +1,17 @@
+{
+  "query": "At the patisserie, a single layer cake slice is $4 and a double layer cake slice is $7.  Dusty buys 7 single layer cake slices and 5 double layer cake slices.  If he pays with a $100 bill, how much change does he receive?",
+  "steps": [
+    "First, I need to calculate the cost of the single layer cake slices.",
+    "Dusty buys 7 single layer cake slices at $4 each.",
+    "The cost for single layer cake slices is 7 * 4 = $28.",
+    "Next, I need to calculate the cost of the double layer cake slices.",
+    "Dusty buys 5 double layer cake slices at $7 each.",
+    "The cost for double layer cake slices is 5 * 7 = $35.",
+    "Now, I'll add the costs of the single and double layer cake slices to find the total cost.",
+    "Total cost is $28 + $35 = $63.",
+    "Now, I'll subtract the total cost from the amount Dusty paid.",
+    "Dusty pays with a $100 bill.",
+    "Change received is $100 - $63 = $37."
+  ],
+  "solution": "37"
+}

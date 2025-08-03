@@ -1,0 +1,13 @@
+{
+  "query": "Tim hires two bodyguards.  They each charge $20 an hour.  He hires them for 8 hour per day.  How much does he pay them in a week if he hires them 7 days a week?",
+  "steps": [
+    "First, I need to determine how much Tim pays for one bodyguard in a single day.",
+    "Each bodyguard charges $20 an hour and works 8 hours a day.",
+    "So, the daily rate for one bodyguard is 20 * 8 = $160.",
+    "Now, I need to find out how much he pays for both bodyguards in a single day.",
+    "Since he hires two bodyguards, I multiply the daily rate of one by two: 160 * 2 = $320.",
+    "Next, I determine how much he pays for both bodyguards over a week.",
+    "He hires them for 7 days a week, so I multiply the daily cost for both bodyguards by 7: 320 * 7 = $2,240."
+  ],
+  "solution": "2240"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Yesterday, the newly opened animal shelter received their first 60 animals. They got 20 more cats than dogs. How many cats did they take in?",
+  "steps": [
+    "Let's assign a variable to the number of dogs received. I'll call it D.",
+    "The problem states they got 20 more cats than dogs. If there are D dogs, then there must be D + 20 cats.",
+    "They received a total of 60 animals, which includes both cats and dogs.",
+    "Therefore, the equation for the total number of animals is: D (dogs) + (D + 20) (cats) = 60.",
+    "Simplifying this, I get: 2D + 20 = 60.",
+    "To find D, I'll first subtract 20 from both sides of the equation, resulting in: 2D = 40.",
+    "Next, I'll divide both sides by 2 to solve for D, so: D = 20.",
+    "Now, I need the number of cats, which is D + 20.",
+    "Substitute D = 20 into the expression for cats: 20 + 20 = 40.",
+    "So, the number of cats they took in is 40."
+  ],
+  "solution": "40"
+}

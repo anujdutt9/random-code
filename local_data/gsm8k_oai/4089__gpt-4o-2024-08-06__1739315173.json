@@ -1,0 +1,18 @@
+{
+  "query": "Martine has 6 more than twice as many peaches as Benjy. Benjy has one-third as many peaches as Gabrielle. If Martine has 16 peaches, how many does Gabrielle have?",
+  "steps": [
+    "First, I'm going to define variables for each person's number of peaches. Let M be the number of peaches Martine has, B be the number Benjy has, and G be the number Gabrielle has.",
+    "According to the problem, Martine has 16 peaches. So, M = 16.",
+    "The problem states that Martine has 6 more than twice as many peaches as Benjy. This can be expressed as an equation: M = 2B + 6.",
+    "I know that M = 16, so I can substitute 16 for M in the equation: 16 = 2B + 6.",
+    "Now, I need to solve for B. First, I subtract 6 from both sides to get: 16 - 6 = 2B.",
+    "This simplifies to: 10 = 2B.",
+    "To find B, I divide both sides by 2: B = 10 / 2.",
+    "So, B = 5. Benjy has 5 peaches.",
+    "The next part of the problem says that Benjy has one-third as many peaches as Gabrielle. This can be expressed as: B = G/3.",
+    "I know B = 5, so I can substitute 5 for B in the equation: 5 = G/3.",
+    "To solve for G, I multiply both sides by 3: G = 5 * 3.",
+    "This calculation gives me: G = 15."
+  ],
+  "solution": "15"
+}

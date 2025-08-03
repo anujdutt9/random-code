@@ -1,0 +1,16 @@
+{
+  "query": "Jean the jaguar has a beautiful fur coat containing a pattern of many rose-shaped spots, as unique as a human fingerprint.  Half of her spots are located on her upper torso, with one-third of the spots located on her back and hindquarters, and the remaining spots located on her sides.  If Jean has 30 spots on her upper torso, how many spots does she have located on her sides?",
+  "steps": [
+    "I know that half of Jean's spots are located on her upper torso.",
+    "Jean has 30 spots on her upper torso.",
+    "If 30 spots represent half of her total spots, I need to double the number to find the total number of spots Jean has.",
+    "Double 30 to calculate the total number of spots: 30 * 2 = 60.",
+    "Now I know that Jean has a total of 60 spots.",
+    "One-third of her spots are on her back and hindquarters.",
+    "Calculate the number of spots on her back and hindquarters by dividing the total number by 3: 60 / 3 = 20.",
+    "Since half of her spots are on her upper torso and one-third are on her back and hindquarters, the remaining spots must be on her sides.",
+    "Add the number of spots on her upper torso and her back and hindquarters to find the spots that are not on her sides: 30 + 20 = 50.",
+    "Subtract this sum from the total number of spots to find how many spots are located on her sides: 60 - 50 = 10."
+  ],
+  "solution": "10"
+}

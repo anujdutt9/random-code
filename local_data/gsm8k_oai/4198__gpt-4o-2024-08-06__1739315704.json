@@ -1,0 +1,13 @@
+{
+  "query": "A party store ordered 5 boxes of balloons. Each box contains 8 bags of balloons, and there are 12 balloons in each bag. How many balloons are there?",
+  "steps": [
+    "The problem provides the number of boxes of balloons ordered, which is 5.",
+    "Each box contains 8 bags of balloons.",
+    "Each bag contains 12 balloons.",
+    "To find the total number of bags of balloons, multiply the number of boxes by the number of bags in each box.",
+    "5 boxes * 8 bags per box = 40 bags of balloons.",
+    "To find the total number of balloons, multiply the total number of bags by the number of balloons in each bag.",
+    "40 bags * 12 balloons per bag = 480 balloons."
+  ],
+  "solution": "480"
+}

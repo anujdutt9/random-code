@@ -1,0 +1,16 @@
+{
+  "query": "Thomas, Toby, and Rebecca worked a total of 157 hours in one week.  Thomas worked x hours.  Toby worked 10 hours less than twice what Thomas worked, and Rebecca worked 8 hours less than Toby.  How many hours did Rebecca work?",
+  "steps": [
+    "Let the number of hours Thomas worked be x.",
+    "Toby worked 10 hours less than twice what Thomas worked. Therefore, Toby worked 2x - 10 hours.",
+    "Rebecca worked 8 hours less than Toby. Therefore, Rebecca worked (2x - 10) - 8 = 2x - 18 hours.",
+    "The total hours worked by Thomas, Toby, and Rebecca is 157 hours. Thus, the equation is x + (2x - 10) + (2x - 18) = 157.",
+    "Simplify the equation: x + 2x - 10 + 2x - 18 = 157.",
+    "Combine like terms: 5x - 28 = 157.",
+    "Add 28 to both sides to isolate the terms with x: 5x = 185.",
+    "Divide both sides by 5 to solve for x: x = 37.",
+    "Now substitute x = 37 back into the expression for Rebecca's hours: 2x - 18.",
+    "Calculate 2(37) - 18: 74 - 18 = 56."
+  ],
+  "solution": "56"
+}

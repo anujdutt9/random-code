@@ -1,0 +1,16 @@
+{
+  "query": "Jackson is laying tile in a courtyard that measures 10 feet by 25 feet. He needs 4 tiles per square foot of space. 40% of the tiles are green marble that costs $3/tile, and the rest are red tile that costs $1.50/tile. How much does he pay total for tile?",
+  "steps": [
+    "First, I need to calculate the total area of the courtyard. The courtyard is 10 feet by 25 feet.",
+    "I multiply the length by the width to find the area: 10 feet * 25 feet = 250 square feet.",
+    "Next, I need to find out the total number of tiles Jackson needs. He needs 4 tiles per square foot.",
+    "I multiply the area by the number of tiles per square foot: 250 square feet * 4 tiles/square foot = 1000 tiles.",
+    "40% of the tiles are green marble tiles. So, I need to find 40% of 1000 tiles.",
+    "I multiply 1000 tiles by 0.40 (40%): 1000 * 0.40 = 400 green marble tiles.",
+    "Now, to find the number of red tiles, I subtract the number of green tiles from the total number of tiles: 1000 - 400 = 600 red tiles.",
+    "Green marble tiles cost $3 each. I calculate the cost for the green tiles by multiplying the number of green tiles by the cost per tile: 400 * $3 = $1200.",
+    "Red tiles cost $1.50 each. I calculate the cost for the red tiles by multiplying the number of red tiles by the cost per tile: 600 * $1.50 = $900.",
+    "To find the total cost, I add the cost of the green tiles and the cost of the red tiles together: $1200 + $900 = $2100."
+  ],
+  "solution": "2100"
+}

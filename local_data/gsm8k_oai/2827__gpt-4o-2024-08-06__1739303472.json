@@ -1,0 +1,18 @@
+{
+  "query": "In five years, Grant will be 2/3 the age of the hospital that he is hired into. If Grant is currently 25 years old, how old is the hospital now?",
+  "steps": [
+    "Grant's current age is 25 years old.",
+    "In five years, Grant will be 25 + 5 = 30 years old.",
+    "The problem states that in five years, Grant's age will be 2/3 the age of the hospital.",
+    "Let's denote the current age of the hospital as H.",
+    "In five years, the hospital will be H + 5 years old.",
+    "At that time, Grant's age, which will be 30, will be 2/3 of the hospital's age. Therefore, we can express this as: 30 = (2/3) * (H + 5).",
+    "To find H, multiply both sides of the equation by 3 to clear the fraction: 3 * 30 = 2 * (H + 5).",
+    "This simplifies to 90 = 2 * (H + 5).",
+    "Divide both sides by 2 to isolate (H + 5): 90 / 2 = H + 5.",
+    "This gives us: 45 = H + 5.",
+    "Subtract 5 from both sides to solve for H: 45 - 5 = H.",
+    "This simplification gives us: H = 40."
+  ],
+  "solution": "40"
+}

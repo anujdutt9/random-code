@@ -1,0 +1,17 @@
+{
+  "query": "Tamara, Nora, and Lulu have been saving to pay off a $40 debt. So far, Nora has saved five times what Lulu has, but three times Tamara\u2019s savings.  Lulu has saved $6. If they pay off the debt and divide the remaining money equally, how many dollars will each girl get?",
+  "steps": [
+    "First, let's identify and assign variables to what each person has saved. We'll let T represent Tamara's savings, N represent Nora's savings, and L represent Lulu's savings.",
+    "We know from the problem that Lulu has saved $6. So, L = $6.",
+    "Nora's savings is five times that of Lulu's savings. Thus, N = 5 * L = 5 * 6 = $30.",
+    "We also know that Nora's savings is three times Tamara\u2019s savings. So, we can write the equation N = 3 * T.",
+    "Substituting the known value of N, 30 = 3 * T. Solving for T gives T = 30 / 3 = $10.",
+    "Now we know the savings: Tamara has $10, Nora has $30, and Lulu has $6.",
+    "Let's find out how much they have altogether by adding their savings: T + N + L = $10 + $30 + $6 = $46.",
+    "Tamara, Nora, and Lulu have a total of $46 saved. They need to pay off a $40 debt first.",
+    "Subtract the debt from their total savings to see what remains: $46 - $40 = $6.",
+    "The remaining $6 will be divided equally among the three girls.",
+    "To find out how much each girl will get, divide $6 by the number of girls: $6 / 3 = $2."
+  ],
+  "solution": "2"
+}

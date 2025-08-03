@@ -1,0 +1,14 @@
+{
+  "query": "Mason, Noah and Jacob want to have an eating contest but can't agree on what food to eat. Mason wants hot dogs, Noah insists on burgers, and Jacob thinks they should eat pies. They finally agree that everyone can eat whatever they want and they'll use the weight of the food to determine who wins. A hot dog weighs 2 ounces, a burger weighs 5 ounces, and a pie weighs 10 ounces. Jacob eats three fewer pies than Noah eats burgers. Mason eats 3 times as many hotdogs as the number of pies consumed by Jacob. If Noah ate 8 burgers, what is the total weight of the hotdogs that Mason ate?",
+  "steps": [
+    "First, I need to determine how many pies Jacob ate. Noah ate 8 burgers.",
+    "Jacob ate three fewer pies than Noah ate burgers. Since Noah ate 8 burgers, Jacob ate 8 - 3 = 5 pies.",
+    "Now, I know the number of pies Jacob ate, which is 5 pies.",
+    "Next, I need to determine how many hot dogs Mason ate.",
+    "Mason ate 3 times as many hot dogs as the number of pies that Jacob ate. Jacob ate 5 pies.",
+    "Therefore, Mason ate 3 * 5 = 15 hot dogs.",
+    "Now, I need to calculate the weight of the hot dogs Mason ate. Each hot dog weighs 2 ounces.",
+    "The total weight of the hot dogs is 15 hot dogs * 2 ounces per hot dog = 30 ounces."
+  ],
+  "solution": "30"
+}

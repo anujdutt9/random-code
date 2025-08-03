@@ -1,0 +1,23 @@
+{
+  "query": "Xander read 20% of his 500-page book in one hour.  The next night he read another 20% of the book.  On the third night, he read 30% of his book.  How many pages does he have left to read?",
+  "steps": [
+    "Xander's book has a total of 500 pages.",
+    "On the first night, Xander read 20% of the book.",
+    "20% of 500 pages is calculated as 500 * 0.20.",
+    "500 * 0.20 equals 100 pages.",
+    "On the first night, Xander read 100 pages.",
+    "On the second night, Xander also read 20% of the book.",
+    "He read another 100 pages on the second night (since 20% of 500 pages is again 100 pages).",
+    "On the third night, Xander read 30% of the book.",
+    "30% of 500 pages is calculated as 500 * 0.30.",
+    "500 * 0.30 equals 150 pages.",
+    "On the third night, Xander read 150 pages.",
+    "In total, Xander has read 100 pages (first night) + 100 pages (second night) + 150 pages (third night).",
+    "100 + 100 + 150 equals 350 pages.",
+    "Xander has read a total of 350 pages.",
+    "The book has 500 pages in total.",
+    "The number of pages Xander has left to read is 500 - 350.",
+    "500 - 350 equals 150 pages."
+  ],
+  "solution": "150"
+}

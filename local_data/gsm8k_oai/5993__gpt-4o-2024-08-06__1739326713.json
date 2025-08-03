@@ -1,0 +1,14 @@
+{
+  "query": "John wants to lose weight.  He eats 1800 calories a day and burns 2300 a day.  If he needs to burn 4000 calories to lose 1 pound how many days will it take to lose 10 pounds?",
+  "steps": [
+    "John needs to understand the calorie deficit per day.",
+    "He eats 1800 calories a day and burns 2300 calories a day.",
+    "I will calculate the daily calorie deficit.",
+    "2300 calories burned - 1800 calories consumed = 500 calorie deficit per day.",
+    "John needs to burn 4000 calories to lose 1 pound.",
+    "He wants to lose 10 pounds, so he needs to burn 4000 calories x 10 pounds = 40000 calories.",
+    "I will calculate how many days it will take to burn 40000 calories with a daily deficit of 500 calories.",
+    "40000 calories needed to be burned / 500 calorie deficit per day = 80 days."
+  ],
+  "solution": "80"
+}

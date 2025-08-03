@@ -1,0 +1,20 @@
+{
+  "query": "James buys 3 dirt bikes for $150 each and 4 off-road vehicles for $300 each.  It also cost him $25 to register each of these.  How much did he pay for everything?",
+  "steps": [
+    "James buys 3 dirt bikes at $150 each.",
+    "To find the total cost of the dirt bikes, multiply 3 by $150.",
+    "3 * $150 = $450",
+    "James also buys 4 off-road vehicles at $300 each.",
+    "To find the total cost of the off-road vehicles, multiply 4 by $300.",
+    "4 * $300 = $1200",
+    "Now add the total cost of the dirt bikes and the off-road vehicles.",
+    "$450 + $1200 = $1650",
+    "It costs $25 to register each of the vehicles.",
+    "There are 3 dirt bikes and 4 off-road vehicles, making a total of 7 vehicles.",
+    "Multiply the number of vehicles (7) by the registration cost ($25).",
+    "7 * $25 = $175",
+    "Add the registration cost to the total cost of the vehicles.",
+    "$1650 + $175 = $1825"
+  ],
+  "solution": "1825"
+}

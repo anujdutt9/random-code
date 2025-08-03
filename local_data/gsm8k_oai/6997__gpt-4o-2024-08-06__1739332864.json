@@ -1,0 +1,13 @@
+{
+  "query": "She sold twice as many boxes on Tuesday as she did on Wednesday, and she sold twice as many boxes on Wednesday as she did on Thursday. If Kim sold 1200 boxes of cupcakes on Thursday, how many boxes did she sell on Tuesday?",
+  "steps": [
+    "I know that she sold 1200 boxes on Thursday.",
+    "According to the problem, Kim sold twice as many boxes on Wednesday compared to Thursday.",
+    "If she sold 1200 boxes on Thursday, then the number of boxes she sold on Wednesday is 1200 * 2.",
+    "Calculating 1200 * 2 gives me 2400. So, she sold 2400 boxes on Wednesday.",
+    "The problem also states that she sold twice as many boxes on Tuesday as she did on Wednesday.",
+    "This means the number of boxes she sold on Tuesday is 2400 * 2.",
+    "Calculating 2400 * 2 gives me 4800. So, she sold 4800 boxes on Tuesday."
+  ],
+  "solution": "4800"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Question: In pea plants, tall is dominant over short. What size pea plants would result when two short plants are crossed?\n\nChoices:\nA: short plants only\nB: short and tall plants\nC: tall plants only\nD: middle-sized plants",
+  "steps": [
+    "In pea plants, the trait for tall plants (T) is dominant over the trait for short plants (t). This means that if a plant has at least one dominant allele (T), it will be tall. Only plants with two recessive alleles (tt) will be short.",
+    "When two short plants are crossed, both parents would have the genotype \"tt\" since they are short.",
+    "The possible offspring genotype from crossing tt with tt will be 100% tt. This means all offspring will also express the short phenotype since they do not receive any dominant allele.",
+    "Therefore, when two short pea plants are crossed, all resulting plants will also be short."
+  ],
+  "solution": "A"
+}

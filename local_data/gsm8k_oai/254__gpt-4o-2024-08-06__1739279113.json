@@ -1,0 +1,16 @@
+{
+  "query": "Nate got lost looking for his car in the airport parking lot. He had to walk through every row in Section G and Section H to find it. Section G has 15 rows that each hold 10 cars. Section H has 20 rows that each hold 9 cars. If Nate can walk past 11 cars per minute, how many minutes did he spend searching the parking lot?",
+  "steps": [
+    "First, I need to find out how many cars are in Section G.",
+    "Section G has 15 rows, and each row holds 10 cars.",
+    "I multiply the number of rows by the number of cars per row to get the total number of cars in Section G: 15 rows * 10 cars/row = 150 cars.",
+    "Next, I need to find out how many cars are in Section H.",
+    "Section H has 20 rows, and each row holds 9 cars.",
+    "I multiply the number of rows by the number of cars per row to get the total number of cars in Section H: 20 rows * 9 cars/row = 180 cars.",
+    "Now, I need to find the total number of cars Nate walked past in both sections.",
+    "I add the number of cars in Section G to the number of cars in Section H: 150 cars + 180 cars = 330 cars.",
+    "Nate can walk past 11 cars per minute.",
+    "To find out how many minutes Nate spent searching, I divide the total number of cars by the number of cars he can walk past in a minute: 330 cars \u00f7 11 cars/minute = 30 minutes."
+  ],
+  "solution": "30"
+}

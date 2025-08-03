@@ -1,0 +1,15 @@
+{
+  "query": "Billy can spit a watermelon seed 30 inches.  Madison can spit a watermelon seed 20% farther than Billy.  Ryan can spit a watermelon seed 50% shorter than Madison.  How far can Ryan spit a watermelon seed?",
+  "steps": [
+    "Billy can spit a watermelon seed 30 inches.",
+    "Madison can spit a watermelon seed 20% farther than Billy.",
+    "To calculate how far Madison can spit, multiply Billy's distance by 20% and add that to Billy's distance.",
+    "20% of 30 inches is 0.2 \u00d7 30 = 6 inches.",
+    "Madison can spit a watermelon seed 30 + 6 = 36 inches.",
+    "Ryan can spit a watermelon seed 50% shorter than Madison.",
+    "To calculate how far Ryan can spit, find 50% of Madison's distance and subtract it from Madison's distance.",
+    "50% of 36 inches is 0.5 \u00d7 36 = 18 inches.",
+    "Ryan can spit a watermelon seed 36 - 18 = 18 inches."
+  ],
+  "solution": "18"
+}

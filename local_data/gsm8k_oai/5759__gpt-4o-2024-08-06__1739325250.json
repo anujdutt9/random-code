@@ -1,0 +1,18 @@
+{
+  "query": "Jonathan's full name contains 8 letters for the first name and 10 letters for the surname. His sister's name has 5 letters for the first name and 10 letters for the second name. What's the total number of letters in their names?",
+  "steps": [
+    "Jonathan's full name contains 8 letters in the first name.",
+    "Jonathan's surname contains 10 letters.",
+    "The total number of letters in Jonathan's name is 8 + 10.",
+    "8 + 10 equals 18.",
+    "Jonathan's sister's first name contains 5 letters.",
+    "Her surname contains 10 letters.",
+    "The total number of letters in Jonathan's sister's name is 5 + 10.",
+    "5 + 10 equals 15.",
+    "Now, I need to find the total number of letters in both of their names combined.",
+    "Jonathan's full name has 18 letters, and his sister's full name has 15 letters.",
+    "The combined total is 18 + 15.",
+    "18 + 15 equals 33."
+  ],
+  "solution": "33"
+}

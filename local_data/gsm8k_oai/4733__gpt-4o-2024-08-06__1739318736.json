@@ -1,0 +1,14 @@
+{
+  "query": "Joe found a new series to watch with a final season that will premiere in 10 days. The series has 4 full seasons already aired; each season has 15 episodes. To catch up with the season premiere he has to watch all episodes. How many episodes per day does Joe have to watch?",
+  "steps": [
+    "First, I need to determine how many total episodes Joe needs to watch.",
+    "Each of the 4 seasons has 15 episodes.",
+    "Therefore, the total number of episodes is 4 seasons * 15 episodes per season.",
+    "Calculating this, 4 * 15 = 60 episodes in total.",
+    "Joe has 10 days to watch these episodes before the new season premieres.",
+    "I need to determine how many episodes Joe should watch per day.",
+    "To find this, I divide the total number of episodes by the number of days: 60 episodes / 10 days.",
+    "Calculating this, 60 / 10 = 6 episodes per day."
+  ],
+  "solution": "6"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "A quarterback throws 50 passes in one game.  He throws twice as many passes to the right of the field than he does to the left of the field.  He throws 2 more passes to the center of the field than he did to the left.  How many passes did he throw to the left side of the field?",
+  "steps": [
+    "Let L represent the number of passes thrown to the left side of the field.",
+    "According to the problem, the quarterback throws twice as many passes to the right as to the left. So, the number of passes to the right is 2L.",
+    "The problem also states he throws 2 more passes to the center than to the left. Therefore, passes to the center are L + 2.",
+    "The total number of passes thrown is 50. We can set up the equation: L (passes to the left) + 2L (passes to the right) + (L + 2) (passes to the center) = 50.",
+    "Simplifying the equation: L + 2L + L + 2 = 50.",
+    "Combine like terms: 4L + 2 = 50.",
+    "Subtract 2 from both sides of the equation: 4L = 48.",
+    "Divide both sides by 4: L = 12."
+  ],
+  "solution": "12"
+}

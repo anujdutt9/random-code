@@ -1,0 +1,17 @@
+{
+  "query": "Noah\u2019s bedroom light uses 6 watts per hour. His office light is much brighter so he can see to work and uses three times as much energy. The living room light has a much larger space to cover and has to be more powerful, so it uses four times as much energy as his bedroom light. If Noah leaves all those lights on for two hours, how many watts has he used?",
+  "steps": [
+    "First, I need to determine how many watts per hour Noah's office light uses. It uses three times as much energy as his bedroom light.",
+    "His bedroom light uses 6 watts per hour, so the office light uses 6 watts/hour * 3 = 18 watts/hour.",
+    "Next, I need to find out how many watts per hour the living room light uses. It uses four times as much energy as the bedroom light.",
+    "The living room light uses 6 watts/hour * 4 = 24 watts/hour.",
+    "Now I know the wattage usage per hour for each light: bedroom is 6 watts/hour, office is 18 watts/hour, and living room is 24 watts/hour.",
+    "Next, I will find out how many total watts are used if all the lights are turned on for two hours.",
+    "For the bedroom light, in two hours, the usage is 6 watts/hour * 2 hours = 12 watts.",
+    "For the office light, in two hours, the usage is 18 watts/hour * 2 hours = 36 watts.",
+    "For the living room light, in two hours, the usage is 24 watts/hour * 2 hours = 48 watts.",
+    "Finally, I'll add the total watts used by all lights in two hours.",
+    "The total watts used is 12 watts (bedroom) + 36 watts (office) + 48 watts (living room) = 96 watts."
+  ],
+  "solution": "96"
+}

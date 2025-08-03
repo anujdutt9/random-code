@@ -1,0 +1,15 @@
+{
+  "query": "Daisy\u2019s milk cow provides 16 cups of milk per day.  75% of the milk is consumed by Daisy\u2019s kids.  Daisy uses 50% of the remaining milk to cook with.  How much milk is left over?",
+  "steps": [
+    "Daisy\u2019s cow provides 16 cups of milk per day.",
+    "First, calculate how much milk is consumed by Daisy's kids. They consume 75% of the milk.",
+    "75% of the milk is 0.75 * 16 = 12 cups.",
+    "Next, find out how much milk is left after Daisy's kids have consumed theirs.",
+    "16 cups - 12 cups = 4 cups remain after the kids have their share.",
+    "Daisy uses 50% of the remaining milk to cook with. Calculate 50% of the 4 remaining cups.",
+    "50% of 4 cups is 0.5 * 4 = 2 cups.",
+    "Subtract the 2 cups used for cooking from the remaining 4 cups.",
+    "4 cups - 2 cups = 2 cups left over."
+  ],
+  "solution": "2"
+}

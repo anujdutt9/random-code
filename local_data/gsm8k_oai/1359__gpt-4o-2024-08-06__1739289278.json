@@ -1,0 +1,11 @@
+{
+  "query": "Carter can read half as many pages as Lucy in 1 hour. Lucy can read 20 more pages than Oliver in 1 hour.  Oliver can read 40 pages.  How many pages can Carter read in 1 hour?",
+  "steps": [
+    "First, let's determine how many pages Oliver can read in 1 hour. The information is given directly in the problem statement: Oliver can read 40 pages in 1 hour.",
+    "Now, let's figure out how many pages Lucy can read in 1 hour. The problem states that Lucy can read 20 more pages than Oliver in 1 hour.",
+    "Since Oliver can read 40 pages, Lucy can read 40 pages + 20 pages = 60 pages in 1 hour.",
+    "Next, we need to calculate how many pages Carter can read in 1 hour. Carter can read half as many pages as Lucy can in 1 hour.",
+    "Lucy can read 60 pages in 1 hour, so Carter can read 60 / 2 = 30 pages in 1 hour."
+  ],
+  "solution": "30"
+}

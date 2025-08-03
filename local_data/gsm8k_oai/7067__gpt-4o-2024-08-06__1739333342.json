@@ -1,0 +1,15 @@
+{
+  "query": "Marla is mixing a particular shade of lilac that's 70% blue paint, 20% red paint, and the rest white paint. If she adds 140 ounces of blue paint, how many ounces of white paint does she add?",
+  "steps": [
+    "First, I need to understand the composition of the paint mixture. The mixture is 70% blue paint, 20% red paint, and the rest white paint.",
+    "This means the percentage of white paint is the remainder of the mixture after accounting for blue and red. That is 100% - 70% - 20% = 10%.",
+    "Next, I'll consider the parts of the paint mixture in terms of ounces. Since the blue paint makes up 70% of the mixture, I'll use the given 140 ounces of blue paint to determine the total mixture's size.",
+    "Let the total amount of the paint mixture be \\( x \\) ounces. Since the blue paint constitutes 70% of the mixture, I can set up the equation: 0.70 * x = 140 ounces.",
+    "Solving for \\( x \\), I divide both sides of the equation by 0.70: \\( x = 140 / 0.70 \\).",
+    "Calculating the division, I find \\( x = 200 \\). So, the total amount of the paint mixture is 200 ounces.",
+    "The white paint makes up 10% of the total mixture, so I need to calculate 10% of 200 ounces.",
+    "Calculating 10% of 200, I perform: 0.10 * 200 = 20 ounces.",
+    "Therefore, Marla adds 20 ounces of white paint to her mixture."
+  ],
+  "solution": "20"
+}

@@ -1,0 +1,12 @@
+{
+  "query": "Javier has a wife and 3 children. They have 2 dogs and 1 cat. Including Javier, how many legs are there in total in Javier\u2019s household?",
+  "steps": [
+    "First, I need to count the number of people in Javier's household. Javier has a wife and 3 children, so in total, that's 1 (Javier) + 1 (wife) + 3 (children) = 5 people.",
+    "Each person has 2 legs. Therefore, the total number of legs from people is 5 people * 2 legs per person = 10 legs.",
+    "Now, consider the animals. There are 2 dogs and 1 cat.",
+    "Dogs typically have 4 legs. So for the 2 dogs, the total number of legs is 2 dogs * 4 legs per dog = 8 legs.",
+    "Similarly, cats typically have 4 legs. So the 1 cat has 4 legs.",
+    "Now, I will add the number of legs from people, dogs, and the cat together. So that is 10 legs (people) + 8 legs (dogs) + 4 legs (cat) = 22 legs."
+  ],
+  "solution": "22"
+}

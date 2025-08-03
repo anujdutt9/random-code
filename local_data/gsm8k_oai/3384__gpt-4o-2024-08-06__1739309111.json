@@ -1,0 +1,16 @@
+{
+  "query": "The doctor told Barry to take vitamin D3 for 180 days to help protect him from infections. The pharmacy only sold vitamin D3 in bottles containing 60 capsules, with a daily serving size of 2 capsules.  How many bottles would Barry need to buy to have enough servings to last for 180 days?",
+  "steps": [
+    "First, I need to determine how many capsules Barry needs in total.",
+    "Barry needs to take 2 capsules per day.",
+    "He needs to do this for 180 days.",
+    "To find the total number of capsules required, I multiply the number of days (180) by the number of capsules per day (2).",
+    "180 days * 2 capsules per day = 360 capsules total.",
+    "Next, I determine how many bottles of vitamin D3 Barry needs to buy.",
+    "Each bottle contains 60 capsules.",
+    "To find the number of bottles needed, I divide the total number of capsules by the number of capsules per bottle.",
+    "360 capsules \u00f7 60 capsules per bottle = 6 bottles.",
+    "This calculation shows that Barry needs to purchase 6 bottles."
+  ],
+  "solution": "6"
+}

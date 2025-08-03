@@ -1,0 +1,16 @@
+{
+  "query": "A class of 12 students was about to share 108 oranges equally among themselves when it was discovered that 36 of the oranges were bad and had to be thrown away. How many oranges less will each student get now than if no orange had to be thrown away?",
+  "steps": [
+    "First, calculate how many good oranges are left after throwing away the bad ones.",
+    "There are 108 total oranges, and 36 are bad.",
+    "Subtract the bad ones from the total: 108 - 36 = 72 good oranges.",
+    "Now, find out how many oranges each student would receive if none of the oranges were bad.",
+    "Divide the total number of oranges (108) by the number of students (12): 108 / 12 = 9 oranges per student.",
+    "Next, find out how many oranges each student will get now, with only the good oranges available.",
+    "Divide the remaining good oranges (72) by the number of students (12): 72 / 12 = 6 oranges per student.",
+    "Now, calculate the difference in the number of oranges each student will get compared to if none were bad.",
+    "Subtract the new number of oranges per student (6) from the original number per student (9): 9 - 6 = 3.",
+    "Each student will get 3 fewer oranges now than if no oranges had to be thrown away."
+  ],
+  "solution": "3"
+}

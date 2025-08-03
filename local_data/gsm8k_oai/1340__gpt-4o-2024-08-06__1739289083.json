@@ -1,0 +1,21 @@
+{
+  "query": "William is a jockey. He can ride his horse for 6 hours a day. Over 6 days, he only used the maximum riding time twice.  On two days he rode his horse for only 1.5 hours a day and half the maximum time for the next two days. How many hours did William ride his horse during those 6 days?",
+  "steps": [
+    "First, I identify the conditions given in the problem.",
+    "William can ride his horse for a maximum of 6 hours a day.",
+    "He used the maximum riding time on two days.",
+    "On two days, he rode for only 1.5 hours each day.",
+    "On two other days, he rode for half the maximum time.",
+    "I calculate the total hours for the days he used the maximum riding time. 6 hours per day for 2 days would be 6 * 2.",
+    "6 * 2 = 12 hours for the maximum riding days.",
+    "Next, I calculate the total hours for the two days he rode 1.5 hours each.",
+    "1.5 hours per day for 2 days would be 1.5 * 2.",
+    "1.5 * 2 = 3 hours for the two days he rode 1.5 hours each day.",
+    "Then, I calculate the total hours for the two days he rode half the maximum time. Half of 6 hours is 3 hours.",
+    "3 hours per day for 2 days would be 3 * 2.",
+    "3 * 2 = 6 hours for the two days he rode half the maximum time each day.",
+    "Now, I sum up all the hours: 12 hours (maximum days) + 3 hours (1.5-hour days) + 6 hours (half-time days).",
+    "12 + 3 + 6 = 21 hours total riding time."
+  ],
+  "solution": "21"
+}

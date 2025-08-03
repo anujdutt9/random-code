@@ -1,0 +1,16 @@
+{
+  "query": "Lily had $55 in her account. She spent $7 on a shirt. She then went to another shop and spent thrice as much as she spent on a shirt. How much money is left in Lily's account?",
+  "steps": [
+    "Lily starts with $55 in her account.",
+    "She spends $7 on a shirt.",
+    "To find out how much she has after buying the shirt, I subtract $7 from $55.",
+    "$55 - $7 = $48",
+    "Now, I calculate how much she spent at the second shop. She spent three times the amount she spent on the shirt.",
+    "I multiply $7 by 3.",
+    "$7 * 3 = $21",
+    "Lily spends $21 at the second shop.",
+    "To find out how much money she has left, I subtract $21 from $48.",
+    "$48 - $21 = $27"
+  ],
+  "solution": "27"
+}

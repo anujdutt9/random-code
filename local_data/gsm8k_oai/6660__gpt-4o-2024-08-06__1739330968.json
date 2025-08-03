@@ -1,0 +1,25 @@
+{
+  "query": "James started a food fight in his school's cafeteria, and the school administration is making him work off the cost of all the food he wasted at minimum wage ($8). James has to pay for 20 wasted pounds of meat at $5/pound, 15 wasted pounds of fruits and vegetables at $4/pound, 60 wasted pounds of bread products at $1.50/pound, and 10 hours of time-and-a-half pay for the janitorial staff, who normally make $10/hour. How many hours will James have to work to pay for everything?",
+  "steps": [
+    "First, I need to calculate the cost of the wasted meat.",
+    "James wasted 20 pounds of meat at $5 per pound.",
+    "The cost for the meat is 20 pounds * $5/pound = $100.",
+    "Next, I will calculate the cost of the wasted fruits and vegetables.",
+    "James wasted 15 pounds of fruits and vegetables at $4 per pound.",
+    "The cost for the fruits and vegetables is 15 pounds * $4/pound = $60.",
+    "Now, I will calculate the cost of the wasted bread products.",
+    "James wasted 60 pounds of bread products at $1.50 per pound.",
+    "The cost for the bread products is 60 pounds * $1.50/pound = $90.",
+    "Next, I will calculate the cost of the janitorial staff's time-and-a-half pay.",
+    "The janitorial staff's normal pay rate is $10 per hour.",
+    "Time-and-a-half pay is $10/hour * 1.5 = $15 per hour.",
+    "James is responsible for 10 hours of time-and-a-half pay for the janitors.",
+    "The cost for the janitorial staff is 10 hours * $15/hour = $150.",
+    "Now I will sum up all the costs to get the total amount James needs to pay.",
+    "The total cost is $100 (meat) + $60 (fruits and vegetables) + $90 (bread products) + $150 (janitorial staff) = $400.",
+    "James will work at the minimum wage rate of $8 per hour.",
+    "To find out how many hours James has to work, I divide the total cost by the hourly wage.",
+    "The number of hours James has to work is $400 / $8/hour = 50 hours."
+  ],
+  "solution": "50"
+}

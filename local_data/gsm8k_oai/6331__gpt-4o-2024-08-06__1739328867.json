@@ -1,0 +1,13 @@
+{
+  "query": "Anna can read 1 page in 1 minute. Carole can read as fast as Anna but at half the speed of Brianna. How long does it take Brianna to read a 100-page book?",
+  "steps": [
+    "Anna can read 1 page in 1 minute.",
+    "Carole reads at the same speed as Anna, so Carole reads 1 page in 1 minute.",
+    "Carole can read as fast as Anna but at half the speed of Brianna.",
+    "This means Brianna reads at double the speed of Carole.",
+    "Carole reads 1 page in 1 minute, so Brianna reads 2 pages in 1 minute.",
+    "To find how long it takes Brianna to read a 100-page book, divide the number of pages by the number Brianna reads per minute.",
+    "100 pages divided by 2 pages per minute is equal to 50 minutes."
+  ],
+  "solution": "50"
+}

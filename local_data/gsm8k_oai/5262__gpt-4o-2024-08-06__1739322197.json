@@ -1,0 +1,13 @@
+{
+  "query": "Fabian went to a park to get some fresh air. He decided to walk there for 3 hours. Every hour he covers 5 kilometers. How many more hours did Fabian need to walk to reach a total of 30 kilometers?",
+  "steps": [
+    "Fabian walks 5 kilometers in one hour.",
+    "He walked for 3 hours.",
+    "In 3 hours, he walked 3 hours * 5 kilometers/hour = 15 kilometers.",
+    "He wants to walk a total of 30 kilometers.",
+    "He has already walked 15 kilometers, so he needs an additional 30 kilometers - 15 kilometers = 15 kilometers to reach his goal.",
+    "Fabian walks 5 kilometers every hour.",
+    "To find out how many more hours he needs to walk, divide the remaining distance by his walking rate: 15 kilometers / 5 kilometers per hour = 3 hours."
+  ],
+  "solution": "3"
+}

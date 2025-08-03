@@ -1,0 +1,15 @@
+{
+  "query": "Taro and Vlad play a video game competition together, earning 5 points for every win. After playing 30 rounds, Taro scored 4 points less than 3/5 of the total points scored. How many total points did Vlad score?",
+  "steps": [
+    "Let's denote the total points scored by Taro as T and the total points scored by Vlad as V.",
+    "The total combined points for Taro and Vlad is 5 points per win for 30 rounds of the game, so the equation is 5 * 30 = 150 points total.",
+    "According to the problem, Taro scored 4 points less than 3/5 of the total points scored. Let's denote the total points scored overall by P, then P = T + V = 150.",
+    "The equation for Taro's points based on the problem's conditions is T = (3/5) * 150 - 4.",
+    "Calculate (3/5) * 150: (3/5) * 150 = 90.",
+    "Now calculate T based on the equation T = 90 - 4, which gives T = 86.",
+    "Now, since P = T + V, and we know that P = 150 and T = 86, we can calculate for V: 150 = 86 + V.",
+    "Solve for V, which is V = 150 - 86.",
+    "This results in V = 64."
+  ],
+  "solution": "64"
+}

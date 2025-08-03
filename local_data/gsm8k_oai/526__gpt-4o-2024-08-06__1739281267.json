@@ -1,0 +1,22 @@
+{
+  "query": "On Monday, Mack writes in his journal for 60 minutes at a rate of 1 page every 30 minutes. On Tuesday, Mack writes in his journal for 45 minutes at a rate of 1 page every 15 minutes. On Wednesday, Mack writes 5 pages in his journal. How many pages total does Mack write in his journal from Monday to Wednesday?",
+  "steps": [
+    "First, I need to determine how many pages Mack writes on Monday.",
+    "Mack writes at a rate of 1 page every 30 minutes on Monday.",
+    "Mack writes for 60 minutes on Monday.",
+    "In 60 minutes, Mack can write 60/30 = 2 pages.",
+    "Next, I need to determine how many pages Mack writes on Tuesday.",
+    "Mack writes at a rate of 1 page every 15 minutes on Tuesday.",
+    "Mack writes for 45 minutes on Tuesday.",
+    "In 45 minutes, Mack can write 45/15 = 3 pages.",
+    "Finally, I need to consider how many pages Mack writes on Wednesday.",
+    "Mack writes 5 pages on Wednesday.",
+    "Now, I will add the number of pages from each day.",
+    "Pages on Monday: 2",
+    "Pages on Tuesday: 3",
+    "Pages on Wednesday: 5",
+    "Total pages = 2 + 3 + 5",
+    "Total pages = 10"
+  ],
+  "solution": "10"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "John climbs 3 staircases.  The first staircase has 20 steps.  The next has twice as many steps as the first.  The final staircase has 10 fewer steps than the second one.  Each step is 0.5 feet.  How many feet did he climb?",
+  "steps": [
+    "John climbs 3 staircases in total.",
+    "The first staircase has 20 steps.",
+    "The next staircase has twice as many steps as the first. Therefore, it has 20 * 2 = 40 steps.",
+    "The final staircase has 10 fewer steps than the second staircase. Therefore, it has 40 - 10 = 30 steps.",
+    "To find the total number of steps John climbs, we add the steps from each staircase: 20 (first staircase) + 40 (second staircase) + 30 (third staircase).",
+    "The total number of steps is 20 + 40 + 30 = 90 steps.",
+    "Each step is 0.5 feet.",
+    "To find the total feet John climbed, we multiply the total number of steps by the height of each step: 90 steps * 0.5 feet/step.",
+    "90 * 0.5 = 45 feet."
+  ],
+  "solution": "45"
+}

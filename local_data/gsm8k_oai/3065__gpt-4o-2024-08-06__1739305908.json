@@ -1,0 +1,14 @@
+{
+  "query": "Tom originally was only able to lift 80  kg farmer handles per hand.  After some training, he was able to double this number.  He then decided to specialize and was able to get an extra 10%.  How much weight can he hold in total?",
+  "steps": [
+    "Tom was originally able to lift 80 kg per hand.",
+    "After some training, he doubled this number.",
+    "Doubling 80 kg results in 80 kg * 2 = 160 kg per hand.",
+    "After specializing, Tom was able to increase his lifting ability by an extra 10%.",
+    "To find 10% of 160 kg, I calculate 10/100 * 160 kg = 16 kg.",
+    "Adding this 10% increase to the original doubled weight gives 160 kg + 16 kg = 176 kg per hand.",
+    "To find the total weight he can hold with both hands, I need to add the weights lifted by each hand.",
+    "The total weight he can hold is 176 kg per hand * 2 hands = 352 kg."
+  ],
+  "solution": "352"
+}

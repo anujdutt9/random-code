@@ -1,0 +1,11 @@
+{
+  "query": "Angie is part of a household with shared expenses and contributes $42 a month for necessities. She has a salary of $80 per month. She also pays a share of the household taxes each month. At the end of this month, she had $18 left over. How much did she pay in taxes this month?",
+  "steps": [
+    "Angie's total income for the month is $80.",
+    "At the end of the month, Angie has $18 left.",
+    "Angie contributes $42 for necessities each month.",
+    "To find out how much she spent on taxes, let's first calculate her total spending: she ended with $18, so she spent $80 - $18 = $62.",
+    "We know $42 of her spending was on necessities, so her tax payment must be the remaining amount: $62 - $42 = $20."
+  ],
+  "solution": "20"
+}

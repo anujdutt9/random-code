@@ -1,0 +1,19 @@
+{
+  "query": "Jenny is scraping gum off the bottom of the seats in a stadium with two sections. Section A has 1 subsection with 60 seats and 3 subsections with 80 seats each. Section B has 20 more seats than 3 times as many seats as Section A has total. How many seats does Section B have?",
+  "steps": [
+    "First, I need to calculate the total number of seats in Section A.",
+    "Section A has 1 subsection with 60 seats.",
+    "There are also 3 subsections with 80 seats each.",
+    "To find the number of seats in the three subsections with 80 seats each, I need to multiply 80 by 3.",
+    "80 multiplied by 3 equals 240. So, the subsections have 240 seats combined.",
+    "Now, I add the 60 seats from the first subsection to the 240 seats from the other subsections.",
+    "60 plus 240 equals 300. Therefore, Section A has 300 seats in total.",
+    "Now, I need to calculate how many seats Section B has.",
+    "According to the problem, Section B has 20 more seats than 3 times the number of seats in Section A.",
+    "First, I calculate 3 times the number of seats in Section A.",
+    "3 times 300 equals 900.",
+    "Adding 20 to 900 gives the total number of seats in Section B.",
+    "900 plus 20 equals 920."
+  ],
+  "solution": "920"
+}

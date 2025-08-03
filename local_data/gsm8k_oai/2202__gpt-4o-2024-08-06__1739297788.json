@@ -1,0 +1,14 @@
+{
+  "query": "In one of the building blocks at Oakland High there are 5 classes. Each class uses 2 whiteboards each and each whiteboard needs about 20ml of ink for a day's use. If ink costs 50 cents per ml, how much (in dollars) would it cost to use the boards for one day?",
+  "steps": [
+    "First, I need to determine how many whiteboards are being used in total.",
+    "There are 5 classes, and each class uses 2 whiteboards. So, the total number of whiteboards is 5 classes \u00d7 2 whiteboards/class = 10 whiteboards.",
+    "Next, I calculate how much ink is needed for all the whiteboards in one day.",
+    "Each whiteboard requires 20ml of ink for a day's use. So, the total ink needed is 10 whiteboards \u00d7 20ml/whiteboard = 200ml of ink.",
+    "Now, I find out the cost of 200ml of ink.",
+    "Ink costs 50 cents per ml. So, the total cost in cents is 200ml \u00d7 50 cents/ml = 10,000 cents.",
+    "Since the question asks for the cost in dollars, I need to convert 10,000 cents to dollars.",
+    "There are 100 cents in a dollar. So, the total cost in dollars is 10,000 cents \u00f7 100 cents/dollar = $100."
+  ],
+  "solution": "100"
+}

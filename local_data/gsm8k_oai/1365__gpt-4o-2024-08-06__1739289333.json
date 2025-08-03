@@ -1,0 +1,19 @@
+{
+  "query": "A portable computer drive has enough kilobytes of storage space to store 2000 photos. Each photo is 1.5 kilobytes in size. How many 200-kilobyte videos can it store if it already has 400 photos on it?",
+  "steps": [
+    "The portable computer drive can store 2000 photos initially.",
+    "Each photo is 1.5 kilobytes.",
+    "To find the total kilobytes the drive can store, I multiply the number of photos by the size of each photo.",
+    "2000 photos * 1.5 kilobytes/photo = 3000 kilobytes.",
+    "The total storage capacity of the drive is 3000 kilobytes.",
+    "The drive already has 400 photos on it.",
+    "To find out how many kilobytes these 400 photos take up, I multiply the number of photos by the size of each photo.",
+    "400 photos * 1.5 kilobytes/photo = 600 kilobytes.",
+    "The remaining storage on the drive is the total capacity minus the storage used by the 400 photos.",
+    "Remaining storage = 3000 kilobytes - 600 kilobytes = 2400 kilobytes.",
+    "Every video is 200 kilobytes in size.",
+    "To find out how many videos the remaining storage can accommodate, I divide the remaining storage by the size of each video.",
+    "2400 kilobytes / 200 kilobytes/video = 12 videos."
+  ],
+  "solution": "12"
+}

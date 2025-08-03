@@ -1,0 +1,17 @@
+{
+  "query": "Milly and Floretta are having a water balloon fight in their garden. They use 3 packs of their own water balloons and also use 2 packs of a neighbor\u2019s water balloons. Each pack of water balloons contains 6 balloons. Milly and Floretta fill all of the balloons then split them evenly, but Milly takes an extra 7 balloons when Floretta isn't looking. How many water balloons is Floretta left with?",
+  "steps": [
+    "First, I need to calculate the total number of water balloon packs used. Milly and Floretta use 3 packs of their own and 2 packs from a neighbor, so that's 3 + 2.",
+    "Adding the packs gives 5 total packs of water balloons.",
+    "Each pack contains 6 balloons, so I'll multiply the total number of packs by 6 to find the total number of water balloons.",
+    "5 packs * 6 balloons per pack = 30 balloons total.",
+    "They split these balloons evenly between the two of them.",
+    "To find how many each gets, I divide the 30 balloons by 2.",
+    "30 balloons divided by 2 equals 15 balloons each.",
+    "Milly takes an extra 7 balloons from Floretta, which means Milly has 15 + 7 balloons.",
+    "That means Milly ends up with 22 balloons.",
+    "Since the total number of balloons must be 30, I will subtract the number of balloons Milly has from the total to find out how many Floretta has.",
+    "30 total balloons - 22 balloons with Milly = 8 balloons left for Floretta."
+  ],
+  "solution": "8"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "On a shopping trip in a crowded store, Josie had to wait 3 minutes for a cart, 13 minutes for an employee to unlock a cabinet to get her a product, 14 minutes for a stocker to restock a shelf with what she wanted, and 18 minutes in line to check out. Her shopping trip took an hour and a half. How many minutes did Josie spend shopping instead of waiting?",
+  "steps": [
+    "First, convert the total time of the shopping trip from hours to minutes.",
+    "Josie's shopping trip was an hour and a half, which is 1.5 hours.",
+    "Convert 1.5 hours to minutes by multiplying by 60 (since there are 60 minutes in an hour).",
+    "1.5 hours * 60 minutes/hour = 90 minutes.",
+    "Next, add up all the time Josie spent waiting.",
+    "She waited 3 minutes for a cart, 13 minutes for the employee, 14 minutes for the stocker, and 18 minutes in line.",
+    "Add all these waiting times together: 3 + 13 + 14 + 18.",
+    "3 + 13 = 16.",
+    "16 + 14 = 30.",
+    "30 + 18 = 48 minutes.",
+    "Now subtract the total waiting time from the total shopping trip time to find out how many minutes she spent shopping.",
+    "90 minutes total trip - 48 minutes waiting = 42 minutes shopping."
+  ],
+  "solution": "42"
+}

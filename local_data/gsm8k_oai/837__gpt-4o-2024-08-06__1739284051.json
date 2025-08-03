@@ -1,0 +1,14 @@
+{
+  "query": "Mariel is a dog walker.  While walking her pack of dogs, she gets tangled up in the leashes of another dog walker and their 3 dogs.  There are 36 legs tangled up in leashes.  How many dogs is Mariel walking?",
+  "steps": [
+    "First, I need to determine how many legs are attributed to the dog walkers themselves. Each dog walker has 2 legs.",
+    "There are 2 dog walkers involved, so the total number of legs for the dog walkers is 2 * 2 = 4 legs.",
+    "Next, I will calculate how many legs are contributed by the 3 dogs that the other dog walker is walking. Each dog has 4 legs.",
+    "The other dog walker's 3 dogs contribute 3 * 4 = 12 legs.",
+    "To find out how many legs are contributed by Mariel's dogs, I will subtract the legs of the dog walkers and the other dogs from the total number of legs tangled.",
+    "I will subtract the 4 human legs and the 12 dog legs of the other walker from the total of 36 legs: 36 - 4 - 12 = 20 legs.",
+    "These 20 legs belong to Mariel's dogs. Since each dog has 4 legs, I will divide 20 by 4 to find the number of dogs Mariel is walking.",
+    "Dividing 20 legs by 4 legs per dog gives 20 / 4 = 5 dogs."
+  ],
+  "solution": "5"
+}

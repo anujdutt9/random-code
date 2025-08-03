@@ -1,0 +1,20 @@
+{
+  "query": "Jenny collects cans and bottles to take down to the recycling center. Each bottle weighs 6 ounces and each can weighs 2 ounces. Jenny can carry a total of 100 ounces. She collects 20 cans and as many bottles as she can carry. If she gets paid 10 cents per bottle and 3 cents per can, how much money does she make (in cents)?",
+  "steps": [
+    "Jenny collects 20 cans.",
+    "Each can weighs 2 ounces.",
+    "The total weight of the cans is 20 cans * 2 ounces per can = 40 ounces.",
+    "Jenny can carry a total of 100 ounces.",
+    "Subtract the weight of the cans from the total weight she can carry: 100 ounces - 40 ounces = 60 ounces.",
+    "The remaining weight Jenny can carry is 60 ounces.",
+    "Each bottle weighs 6 ounces.",
+    "To find the number of bottles Jenny can carry, divide the remaining weight by the weight of each bottle: 60 ounces / 6 ounces per bottle = 10 bottles.",
+    "Jenny can carry 10 bottles.",
+    "Jenny gets paid 10 cents for each bottle.",
+    "The total money for the bottles is 10 bottles * 10 cents per bottle = 100 cents.",
+    "Jenny gets paid 3 cents for each can.",
+    "The total money for the cans is 20 cans * 3 cents per can = 60 cents.",
+    "Add the money from the bottles and the cans: 100 cents + 60 cents = 160 cents."
+  ],
+  "solution": "160"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Darius has 5 buckets of water. One contains 11 ounces, one contains 13 ounces, one contains 12 ounces, one contains 16 ounces, and one contains 10 ounces. He pours the ten-ounce bucket into a bigger bucket, along with one of the other four. The total in the bigger bucket is now 23 ounces. He pours the remaining three buckets into a second large bucket. How many ounces does the second large bucket contain?",
+  "steps": [
+    "First, I need to identify the two buckets whose total is 23 ounces.",
+    "The ten-ounce bucket is one of them, so I need another bucket that when added to 10 ounces equals 23 ounces.",
+    "23 - 10 equals 13, so 13 ounces must be the other bucket.",
+    "The buckets used in the first large bucket are the 10-ounce bucket and the 13-ounce bucket.",
+    "Now, I will determine which buckets are left: 11 ounces, 12 ounces, and 16 ounces.",
+    "Sum the remaining buckets: 11 + 12 + 16.",
+    "11 + 12 equals 23.",
+    "23 + 16 equals 39.",
+    "The second large bucket contains 39 ounces."
+  ],
+  "solution": "39"
+}

@@ -1,0 +1,24 @@
+{
+  "query": "Steven's teacher sends the class an assignment to collect 60 different fruit seeds. Apples average 6 seeds, pears average 2 seeds, and grapes average 3 seeds. Steven has set aside 4 apples, 3 pears, and 9 grapes to extract their seeds. How many more seeds does he need to fulfill his assignment?",
+  "steps": [
+    "First, I need to calculate how many seeds Steven can extract from the apples he has set aside.",
+    "Steven has 4 apples, and each apple has an average of 6 seeds.",
+    "So, the total number of seeds from apples is calculated by multiplying 4 apples by 6 seeds per apple.",
+    "4 apples * 6 seeds/apple = 24 seeds from apples.",
+    "Next, I will calculate how many seeds Steven can extract from the pears.",
+    "Steven has 3 pears, and each pear has an average of 2 seeds.",
+    "So, the total number of seeds from pears is calculated by multiplying 3 pears by 2 seeds per pear.",
+    "3 pears * 2 seeds/pear = 6 seeds from pears.",
+    "Now, I need to calculate how many seeds Steven can get from the grapes.",
+    "Steven has 9 grapes, and each grape has an average of 3 seeds.",
+    "So, the total number of seeds from grapes is calculated by multiplying 9 grapes by 3 seeds per grape.",
+    "9 grapes * 3 seeds/grape = 27 seeds from grapes.",
+    "Now, I need to find the total number of seeds Steven currently has.",
+    "To find the total, I will add the seeds from the apples, pears, and grapes together.",
+    "24 seeds from apples + 6 seeds from pears + 27 seeds from grapes = 57 seeds in total.",
+    "The assignment requires Steven to collect 60 different fruit seeds.",
+    "To find how many more seeds Steven needs, I will subtract the number of seeds he already has from the total required.",
+    "60 seeds required - 57 seeds Steven has = 3 additional seeds needed."
+  ],
+  "solution": "3"
+}

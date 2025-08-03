@@ -1,0 +1,16 @@
+{
+  "query": "Amaya is watching a movie that she finds kind of boring, so she keeps tuning out and having to rewind it to catch what she missed. She watches 35 minutes before she realizes she needs to rewind the movie to catch something she missed, a process that adds 5 minutes to her total viewing time. She watches the movie for another 45 minutes but has to rewind it again, adding 15 minutes to her total time. Finally, she watches the last 20 minutes uninterrupted. If she added up the duration of the film plus all the times she had to rewind and re-watch parts, how many minutes did it take her to watch the movie?",
+  "steps": [
+    "First, I note that Amaya watched the first 35 minutes of the movie without interruption.",
+    "Then she rewound the movie, adding 5 minutes to her viewing time.",
+    "After rewinding, she watched another 45 minutes of the movie.",
+    "She rewinds the movie again, adding another 15 minutes to her viewing time.",
+    "Finally, she watches the last 20 minutes of the movie uninterrupted.",
+    "Now I add up all these durations: 35 minutes + 5 minutes (first rewind) + 45 minutes + 15 minutes (second rewind) + 20 minutes.",
+    "35 + 5 equals 40.",
+    "40 + 45 equals 85.",
+    "85 + 15 equals 100.",
+    "100 + 20 equals 120."
+  ],
+  "solution": "120"
+}

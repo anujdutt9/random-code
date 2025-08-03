@@ -1,0 +1,22 @@
+{
+  "query": "A zoo is arranging the layout of its animal enclosures. There are 4 tiger enclosures in a row and behind each of these are 2 zebra enclosures. There are three times as many giraffe enclosures as zebra enclosures scattered around the zoo. The tiger enclosures hold 4 tigers, the zebra enclosures hold 10 zebras and the giraffe enclosures hold 2 giraffes. If these are the only animals in the zoo, how many animals are in the zoo?",
+  "steps": [
+    "First, I need to find the total number of tiger enclosures.",
+    "There are 4 tiger enclosures in a row.",
+    "Each tiger enclosure holds 4 tigers.",
+    "Calculate the total number of tigers: 4 tiger enclosures * 4 tigers per enclosure = 16 tigers.",
+    "Next, I need to find the total number of zebra enclosures.",
+    "Behind each of the 4 tiger enclosures, there are 2 zebra enclosures.",
+    "Calculate the total number of zebra enclosures: 4 tiger enclosures * 2 zebra enclosures per tiger enclosure = 8 zebra enclosures.",
+    "Each zebra enclosure holds 10 zebras.",
+    "Calculate the total number of zebras: 8 zebra enclosures * 10 zebras per enclosure = 80 zebras.",
+    "Now, find the number of giraffe enclosures.",
+    "There are three times as many giraffe enclosures as zebra enclosures.",
+    "Calculate the total number of giraffe enclosures: 3 * 8 zebra enclosures = 24 giraffe enclosures.",
+    "Each giraffe enclosure holds 2 giraffes.",
+    "Calculate the total number of giraffes: 24 giraffe enclosures * 2 giraffes per enclosure = 48 giraffes.",
+    "Now add up all the animals: tigers, zebras, and giraffes.",
+    "Calculate the total number of animals: 16 tigers + 80 zebras + 48 giraffes = 144 animals."
+  ],
+  "solution": "144"
+}

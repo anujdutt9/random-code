@@ -1,0 +1,16 @@
+{
+  "query": "Big Joe is the tallest player on the basketball team.  He is one foot taller than Ben, who is one foot taller than Larry, who is one foot taller than Frank, who is half a foot taller than Pepe.  If Pepe is 4 feet six inches tall, how tall is Big Joe, in feet?",
+  "steps": [
+    "Pepe is 4 feet 6 inches tall.",
+    "4 feet 6 inches is equivalent to 4.5 feet (since 6 inches is half a foot).",
+    "Frank is half a foot taller than Pepe.",
+    "So, Frank is 4.5 feet + 0.5 feet = 5 feet tall.",
+    "Larry is 1 foot taller than Frank.",
+    "Thus, Larry is 5 feet + 1 foot = 6 feet tall.",
+    "Ben is 1 foot taller than Larry.",
+    "Therefore, Ben is 6 feet + 1 foot = 7 feet tall.",
+    "Big Joe is 1 foot taller than Ben.",
+    "Therefore, Big Joe is 7 feet + 1 foot = 8 feet tall."
+  ],
+  "solution": "8"
+}

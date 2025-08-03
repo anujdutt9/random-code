@@ -1,0 +1,15 @@
+{
+  "query": "A math teacher had $100 to buy three different types of calculators. A basic calculator costs $8. A scientific calculator costs twice the price as the basic while a graphing calculator costs thrice the price as the scientific. How much change did she receive after buying those three different types of calculators?",
+  "steps": [
+    "I need to calculate the price of each type of calculator.",
+    "The basic calculator costs $8.",
+    "The scientific calculator costs twice the price of the basic one, so it costs 2 * $8 = $16.",
+    "The graphing calculator costs thrice the price of the scientific one, so it costs 3 * $16 = $48.",
+    "I need to add the costs of all three types of calculators to find the total expenditure.",
+    "Total cost = $8 (basic) + $16 (scientific) + $48 (graphing) = $72.",
+    "The teacher had $100 initially.",
+    "I need to subtract the total cost from the initial amount to find the change received.",
+    "Change = $100 - $72 = $28."
+  ],
+  "solution": "28"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "There is a group of 18 people who are ordering pizza. If each person gets 3 slices and each pizza has 9 slices, how many pizzas should they order?",
+  "steps": [
+    "First, I need to calculate the total number of slices needed for 18 people.",
+    "Each person gets 3 slices.",
+    "So, total number of slices needed = 18 people \u00d7 3 slices/person.",
+    "Total slices needed = 54 slices.",
+    "Next, I need to determine how many full pizzas are needed to get 54 slices.",
+    "Each pizza has 9 slices.",
+    "To find out how many pizzas are needed, I divide the total slices needed by the number of slices per pizza.",
+    "Number of pizzas needed = 54 slices \u00f7 9 slices/pizza.",
+    "Number of pizzas needed = 6."
+  ],
+  "solution": "6"
+}

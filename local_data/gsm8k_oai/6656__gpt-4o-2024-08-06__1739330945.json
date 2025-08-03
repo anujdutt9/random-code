@@ -1,0 +1,17 @@
+{
+  "query": "The pet store can buy a goldfish for $.25 and sell it for $.75. The owner plans to use the profits from goldfish sales to buy a new tank, which costs $100. After one week, he is 45% short of the price. How many goldfish did he sell that week?",
+  "steps": [
+    "First, I want to determine the profit made on each goldfish sold. The cost price is $0.25, and the selling price is $0.75.",
+    "To find the profit per goldfish, I need to subtract the cost price from the selling price: $0.75 - $0.25 = $0.50.",
+    "Now, I will calculate how much money the owner needs to make in total to purchase the tank, which costs $100.",
+    "Since the owner is 45% short of the $100 price after one week, I will first calculate the percentage of the price that he has covered.",
+    "If 45% is the amount by which he is short, then he has covered 100% - 45% = 55% of the price of the tank.",
+    "To calculate how much money represents 55% of the $100 tank price, I will multiply $100 by 0.55.",
+    "$100 * 0.55 = $55.",
+    "So, the owner has made $55 from selling goldfish.",
+    "With a profit of $0.50 per goldfish, I need to calculate how many goldfish he sold to make this $55 profit.",
+    "To find the number of goldfish, divide the total profit by the profit per goldfish: $55 / $0.50.",
+    "$55 / $0.50 = 110."
+  ],
+  "solution": "110"
+}

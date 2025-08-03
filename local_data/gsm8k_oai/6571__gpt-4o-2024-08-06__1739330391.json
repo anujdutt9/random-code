@@ -1,0 +1,18 @@
+{
+  "query": "Sally, Sam, and Steve went to play with their marbles. In the beginning, Sam has twice as many marbles as Steve while Sally has 5 less than Sam. After Sam has given Sally and Steve 3 marbles each, Sam has 8 marbles left. How many marbles does Steve have now?",
+  "steps": [
+    "Let's denote the number of marbles Steve initially has as S.",
+    "Since Sam has twice as many marbles as Steve initially, Sam has 2S marbles.",
+    "Sally has 5 less marbles than Sam initially, so Sally has 2S - 5 marbles.",
+    "Sam gives 3 marbles to Sally and 3 marbles to Steve.",
+    "After giving away 6 marbles total (3 to Sally and 3 to Steve), Sam has 8 marbles left.",
+    "Initially, Sam had 2S marbles. He gives away 6 marbles in total, therefore he has 2S - 6 marbles now.",
+    "We were told that after the transaction Sam has 8 marbles left, so:\n2S - 6 = 8.",
+    "Let's solve the equation: \n2S - 6 + 6 = 8 + 6\n2S = 14",
+    "Divide both sides by 2:\nS = 7.",
+    "Initially, Steve had S marbles. Thus Steve initially had 7 marbles.",
+    "Steve received 3 more marbles from Sam.",
+    "Now the total number of marbles Steve has is 7 + 3 = 10."
+  ],
+  "solution": "10"
+}

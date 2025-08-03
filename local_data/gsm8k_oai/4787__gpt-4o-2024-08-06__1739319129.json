@@ -1,0 +1,20 @@
+{
+  "query": "In the post-apocalyptic wasteland, 1 lizard is worth 8 bottle caps, 3 lizards are worth 5 gallons of water, and 1 horse is worth 80 gallons of water. Marla can scavenge for 20 bottle caps each day, but needs to pay 4 bottle caps per night for food and shelter. How many days does it take Marla to collect all the bottlecaps she needs to buy a horse?",
+  "steps": [
+    "First, I need to find the value of 1 horse in terms of bottle caps.",
+    "1 horse is worth 80 gallons of water.",
+    "3 lizards are worth 5 gallons of water. Thus, each lizard is worth 5 / 3 gallons of water.",
+    "1 lizard is worth 8 bottle caps, which means 3 lizards are worth 3 * 8 = 24 bottle caps.",
+    "Since 3 lizards equal 5 gallons of water, 5 gallons of water is 24 bottle caps.",
+    "Thus, 1 gallon of water is worth 24 / 5 bottle caps.",
+    "So, 80 gallons of water is worth 80 * (24 / 5) bottle caps.",
+    "Calculating this, 80 * (24 / 5) = 80 * 4.8 = 384 bottle caps.",
+    "Therefore, Marla needs 384 bottle caps to buy a horse.",
+    "Marla can scavenge for 20 bottle caps each day.",
+    "However, Marla needs to pay 4 bottle caps per day for food and shelter.",
+    "The net bottle caps Marla can collect each day is 20 - 4 = 16 bottle caps.",
+    "Now, I need to calculate the number of days required for Marla to collect 384 bottle caps at a rate of 16 bottle caps per day.",
+    "Divide 384 by 16 to find the number of days: 384 / 16 = 24."
+  ],
+  "solution": "24"
+}

@@ -1,0 +1,12 @@
+{
+  "query": "There are 50 staplers in the stapler.  Stacie staples 3 dozen reports on her desk.  How many staplers are left in the stapler?",
+  "steps": [
+    "First, I need to figure out what is meant by \"3 dozen reports.\" A dozen refers to 12 items.",
+    "So, 3 dozen reports is equal to 3 x 12.",
+    "3 x 12 equals 36. So Stacie staples 36 reports.",
+    "Initially, there are 50 staplers in the stapler.",
+    "I need to subtract the number of reports Stacie staples from the initial amount of staplers.",
+    "50 staplers - 36 staplers = 14 staplers."
+  ],
+  "solution": "14"
+}

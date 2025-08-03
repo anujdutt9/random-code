@@ -1,0 +1,12 @@
+{
+  "query": "John decides to buy utensils.  They come in 30 packs with an equal number of knives, forks, and spoons.  How many packs does he need to buy if he wants 50 spoons?",
+  "steps": [
+    "First, determine how many spoons come in one pack. Each pack has an equal number of knives, forks, and spoons.",
+    "Since the pack contains 30 utensils, and there are three types of utensils (knives, forks, and spoons), each type will have 30 / 3 = 10 utensils.",
+    "So, one pack contains 10 spoons.",
+    "John wants 50 spoons, and each pack contains 10 spoons.",
+    "To find out how many packs he needs, divide the total spoons needed by the number of spoons in each pack: 50 / 10 = 5 packs.",
+    "Recheck: If each pack has 10 spoons, then 5 packs will have 5 * 10 = 50 spoons."
+  ],
+  "solution": "5"
+}

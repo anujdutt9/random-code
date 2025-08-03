@@ -1,0 +1,15 @@
+{
+  "query": "A spaceship is traveling to another planet. The spaceship travels at a consistent speed its entire journey unless it is stopped for the crew\u2019s break. After launch, the spaceship traveled for 10 hours then stopped for 3 hours. It then traveled for another 10 hours then stopped for 1 hour. After this, the spaceship would take an hour\u2019s break after every 11 hours of traveling and maintained this routine until the end of its journey. If the entire journey took 3 days then how long, in hours, was the spaceship not moving?",
+  "steps": [
+    "First, I need to calculate the total length of the entire journey in hours. Since 1 day equals 24 hours, 3 days equal 3 * 24 = 72 hours.",
+    "The spaceship travels for the first 10 hours and then takes a break for 3 hours. It travels again for 10 hours and stops for another 1 hour.",
+    "So far, within the 72-hour journey, 10 (travel) + 3 (stop) + 10 (travel) + 1 (stop) = 24 hours have elapsed.",
+    "The remaining journey time is 72 - 24 = 48 hours.",
+    "Next, the spaceship has a pattern of traveling for 11 hours and then stopping for 1 hour.",
+    "Calculate the cycle duration including the break: 11 (travel) + 1 (stop) = 12 hours per cycle.",
+    "Determine how many complete cycles fit into the remaining 48 hours: 48 / 12 = 4 complete cycles.",
+    "In each cycle, the spaceship stops for 1 hour, so for 4 cycles: 4 * 1 = 4 hours of stopping.",
+    "Now, add the hours stopped before the regular cycles: 3 (first stop) + 1 (second stop) + 4 (stops in cycles) = 8 hours."
+  ],
+  "solution": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "query": "Casey is pumping water out of her well. She can pump 3 gallons a minute. She has 4 rows of 15 corn plants each, and each plant needs half a gallon of water. She also has 10 pigs, which each need 4 gallons of water, and 20 ducks that each need a quarter of a gallon of water. How many minutes does Casey need to spend pumping water?",
+  "steps": [
+    "First, I need to calculate the total number of corn plants Casey has.",
+    "There are 4 rows of 15 corn plants each.",
+    "4 rows * 15 plants = 60 corn plants.",
+    "Next, I will determine how much water the corn plants need in total.",
+    "Each corn plant needs half a gallon of water.",
+    "60 corn plants * 0.5 gallons per plant = 30 gallons for the corn plants.",
+    "Now, I need to calculate how much water the pigs need in total.",
+    "There are 10 pigs, each needing 4 gallons of water.",
+    "10 pigs * 4 gallons per pig = 40 gallons for the pigs.",
+    "Next, I will calculate the total water needed for the ducks.",
+    "There are 20 ducks, each needing a quarter gallon of water.",
+    "20 ducks * 0.25 gallons per duck = 5 gallons for the ducks.",
+    "To find the total amount of water Casey needs to pump, I need to add the water needed for corn plants, pigs, and ducks.",
+    "30 gallons (corn plants) + 40 gallons (pigs) + 5 gallons (ducks) = 75 gallons total.",
+    "Casey can pump 3 gallons of water per minute.",
+    "To find the total time needed, I'll divide the total number of gallons by the rate of pumping.",
+    "75 gallons / 3 gallons per minute = 25 minutes."
+  ],
+  "solution": "25"
+}

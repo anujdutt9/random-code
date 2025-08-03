@@ -1,0 +1,16 @@
+{
+  "query": "Billy is counting the rings in two trees. Weather fluctuations in this area mean that each tree's rings are in groups of two fat rings and four thin rings. If Billy counts 70 ring groups in the first tree and 40 ring groups in the second tree, how much older is the first tree? (Trees grow 1 ring per year.)",
+  "steps": [
+    "First, I need to understand what a \"ring group\" is. Each group consists of two fat rings and four thin rings.",
+    "In total, each group contains 2 + 4 = 6 rings.",
+    "Billy counted 70 ring groups in the first tree. This means the number of rings in the first tree is 70 groups \u00d7 6 rings/group.",
+    "Calculating that gives 70 \u00d7 6 = 420 rings in the first tree.",
+    "Billy counted 40 ring groups in the second tree. This means the number of rings in the second tree is 40 groups \u00d7 6 rings/group.",
+    "Calculating that gives 40 \u00d7 6 = 240 rings in the second tree.",
+    "Since trees grow 1 ring per year, the first tree is 420 years old.",
+    "The second tree is 240 years old.",
+    "To find how much older the first tree is, subtract the age of the second tree from the age of the first tree: 420 years - 240 years.",
+    "Calculating that gives 180 years."
+  ],
+  "solution": "180"
+}

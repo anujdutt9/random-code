@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#SBATCH --partition=gpu_h100
+#SBATCH --gpus=1
+#SBATCH --job-name=PerfEval
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=16
+#SBATCH --time=03:00:00
+#SBATCH --output=jobs/outputs/performance/output_%A.out
+
+# <Any code you need to set up your environment>
+
+cd $HOME/cache-steering/
+# <Activete environment here, e.g. source activate cache-steering>
+
+srun python eval_performance.py --n 100 --n_runs 3 --rerun_existing

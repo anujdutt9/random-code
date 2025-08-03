@@ -1,0 +1,17 @@
+{
+  "query": "In a conference room, 40 chairs with a capacity of 2 people each were arranged in rows in preparation for the board meeting of a company, whose number of members was the same as the chairs' capacity. If 2/5 of the chairs were not occupied, and the rest each had two people, calculate the number of board members who did attend the meeting.",
+  "steps": [
+    "First, determine the total capacity of all the chairs.",
+    "Each chair can seat 2 people, and there are 40 chairs.",
+    "Calculate the total capacity: 40 chairs * 2 people per chair = 80 people.",
+    "The total capacity is 80 people, which is also the total number of board members.",
+    "Identify how many chairs were not occupied.",
+    "2/5 of the chairs were not occupied.",
+    "Calculate the number of unoccupied chairs: 2/5 * 40 chairs = 16 chairs.",
+    "Determine the number of occupied chairs.",
+    "Occupied chairs = Total chairs - Unoccupied chairs = 40 - 16 = 24 chairs.",
+    "Each occupied chair had 2 people.",
+    "Calculate the number of people who attended: 24 chairs * 2 people per chair = 48 people."
+  ],
+  "solution": "48"
+}

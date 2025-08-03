@@ -1,0 +1,14 @@
+{
+  "query": "Gentry assembled a new 24 foot round pool in her backyard.  To fill the pool with water, she used four hoses.  Two of the hoses each deliver water at a rate of 2 gallons per minute.  The other two hoses each deliver water at a rate of 3 gallons per minute.  With a volume of 15,000 gallons, how many hours will it take to fill the pool?",
+  "steps": [
+    "First, I need to determine the total water delivery rate of all four hoses combined.",
+    "The first set of two hoses delivers 2 gallons per minute each. Therefore, the total delivery rate for these two hoses is 2 + 2 = 4 gallons per minute.",
+    "The second set of two hoses delivers 3 gallons per minute each. Therefore, the total delivery rate for these two hoses is 3 + 3 = 6 gallons per minute.",
+    "Adding the two sets together, the total delivery rate of all four hoses combined is 4 + 6 = 10 gallons per minute.",
+    "Next, I need to calculate how many minutes it will take to fill the pool with a volume of 15,000 gallons at a rate of 10 gallons per minute.",
+    "To find the number of minutes required, I divide the total volume of the pool by the total delivery rate: 15,000 gallons \u00f7 10 gallons per minute = 1,500 minutes.",
+    "Finally, I need to convert the time from minutes to hours. There are 60 minutes in an hour.",
+    "Therefore, I divide the total time in minutes by 60: 1,500 minutes \u00f7 60 minutes per hour = 25 hours."
+  ],
+  "solution": "25"
+}

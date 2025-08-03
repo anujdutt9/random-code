@@ -1,0 +1,15 @@
+{
+  "query": "It takes a butterfly egg 120 days to become a butterfly. If each butterfly spends 3 times as much time as a larva as in a cocoon, how long does each butterfly spend in a cocoon?",
+  "steps": [
+    "I know the entire development process from egg to butterfly takes 120 days.",
+    "Let's say the time spent in a cocoon is \\( x \\) days.",
+    "The time spent as a larva is 3 times the time spent in a cocoon, so it would be \\( 3x \\) days.",
+    "The total time spent as a larva and in the cocoon together is \\( x + 3x = 4x \\).",
+    "This \\( 4x \\) is part of the total 120 days.",
+    "The initial stage as an egg and the final stage as a butterfly may take a certain number of days, but it is not specified in the problem.",
+    "Given the assumption of \\( 4x \\) corresponding to the entire 120 days, I will equate \\( 4x = 120 \\).",
+    "Solving for \\( x \\), I divide both sides by 4 to get \\( x = 30 \\).",
+    "Thus, the time each butterfly spends in a cocoon is 30 days."
+  ],
+  "solution": "30"
+}

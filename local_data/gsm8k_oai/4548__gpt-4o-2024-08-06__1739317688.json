@@ -1,0 +1,20 @@
+{
+  "query": "John can read a book 60% faster than his brother.  If his brother takes 8 hours to read a book, how long would it take John to read 3 books?",
+  "steps": [
+    "First, I need to find out how fast John can read compared to his brother.",
+    "John reads 60% faster than his brother.",
+    "To find out how much faster John reads, I take the brother's reading speed and increase it by 60%.",
+    "Let's assume the brother's reading speed is represented as 1.",
+    "John's reading speed would then be 1 + 0.6 times the brother's speed.",
+    "This simplifies to John's speed being 1.6 times the brother's speed.",
+    "Next, I need to find out how long it would take John to read one book.",
+    "Since the brother takes 8 hours to read a book, and John reads 1.6 times faster, I divide 8 hours by 1.6.",
+    "8 divided by 1.6 is 5.",
+    "So, it takes John 5 hours to read one book.",
+    "Now, I need to find out how long it would take John to read 3 books.",
+    "If it takes John 5 hours to read 1 book, I multiply 5 hours by 3 books.",
+    "5 multiplied by 3 equals 15.",
+    "Therefore, it would take John 15 hours to read 3 books."
+  ],
+  "solution": "15"
+}

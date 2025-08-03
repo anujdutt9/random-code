@@ -1,0 +1,16 @@
+{
+  "query": "An archer needs to practice.  He intends to shoot 200 shots 4 days a week.  He is able to recover 20% of his arrows.  The arrows he uses cost $5.5 per arrow.  His team agrees to pay for 70% of the cost of his arrows.  How much does he spend for arrows a week?",
+  "steps": [
+    "First, determine how many arrows are lost per shot. Since he recovers 20% of his arrows, he loses 80% of them.",
+    "Calculate the total number of shots per week. He shoots 200 shots per day for 4 days a week.",
+    "200 shots/day * 4 days/week = 800 shots/week",
+    "Now, calculate the number of arrows lost per week. He loses 80% of 800 shots.",
+    "800 shots * 0.8 = 640 arrows lost per week",
+    "Determine the cost he incurs at the price of $5.5 per arrow.",
+    "640 arrows * $5.5/arrow = $3520 for the full cost",
+    "He only pays for 30% of the cost because his team pays the rest.",
+    "Calculate 30% of $3520.",
+    "$3520 * 0.3 = $1056"
+  ],
+  "solution": "1056"
+}

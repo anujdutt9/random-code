@@ -1,0 +1,14 @@
+{
+  "query": "Daryl is loading crates at a warehouse and wants to make sure that they are not overloaded. Each crate can weigh up to 20kg and he has 15 crates he can fill. He has 4 bags of nails to load, each of which weighs 5kg; he has 12 bags of hammers, each of which weighs 5 kg; he also has 10 bags of wooden planks, each of which weighs 30kg and can be sub-divided. He realizes that he has too much to load and will have to leave some items out of the crates to meet the weight limit. In kg, how much is Daryl going to have to leave out of the crates?",
+  "steps": [
+    "First, I need to calculate the total weight of all the items Daryl has to load.",
+    "Start with the nails: 4 bags \u00d7 5 kg/bag = 20 kg.",
+    "Now, the hammers: 12 bags \u00d7 5 kg/bag = 60 kg.",
+    "Finally, the wooden planks: 10 bags \u00d7 30 kg/bag = 300 kg.",
+    "Add these weights together to find the total weight of all items: 20 kg (nails) + 60 kg (hammers) + 300 kg (planks) = 380 kg.",
+    "Next, calculate the total capacity of the crates: 15 crates \u00d7 20 kg/crate = 300 kg.",
+    "Compare the total weight of the items (380 kg) with the total capacity of the crates (300 kg) to determine how much weight needs to be left out.",
+    "The weight that needs to be left out is the total weight of items minus the capacity: 380 kg - 300 kg = 80 kg."
+  ],
+  "solution": "80"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "A car is driving through a tunnel with many turns. After a while, the car must travel through a ring that requires a total of 4 right-hand turns. After the 1st turn, it travels 5 meters. After the 2nd turn, it travels 8 meters. After the 3rd turn, it travels a little further and at the 4th turn, it immediately exits the tunnel. If the car has driven a total of 23 meters around the ring, how far did it have to travel after the 3rd turn?",
+  "steps": [
+    "First, identify the travel distances after each turn around the ring.",
+    "The car travels 5 meters after the 1st turn.",
+    "The car travels 8 meters after the 2nd turn.",
+    "Let \\( x \\) be the distance traveled after the 3rd turn.",
+    "The problem states the total distance traveled around the ring is 23 meters.",
+    "The distance traveled after the 4th turn is such that the car immediately exits, so it doesn't add to the ring distance.",
+    "Set up the equation for the total distance: \\( 5 + 8 + x = 23 \\).",
+    "Calculate \\( x \\) by solving the equation: \\( 5 + 8 + x = 23 \\).",
+    "Simplify: \\( 13 + x = 23 \\).",
+    "Subtract 13 from both sides: \\( x = 23 - 13 \\).",
+    "Calculate: \\( x = 10 \\)."
+  ],
+  "solution": "10"
+}

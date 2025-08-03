@@ -1,0 +1,25 @@
+{
+  "query": "Carmen is counting the cars that pass by her window. All the cars are either white, black, or red. She sees 50 trucks and 40 cars. Half the trucks are red, and another 20% are black. If she picks one car at random, what is the percentage chance it's a white truck, rounded to the nearest integer?",
+  "steps": [
+    "Carmen sees 50 trucks in total.",
+    "Half the trucks are red, which means 50% of the trucks are red.",
+    "50% of 50 trucks is 25 trucks.",
+    "So, 25 trucks are red.",
+    "20% of the trucks are black.",
+    "20% of 50 trucks is 10 trucks.",
+    "So, 10 trucks are black.",
+    "Since there are three colors: red, black, and white, the remaining trucks must be white.",
+    "Total trucks are 50. Red trucks are 25 and black trucks are 10.",
+    "The remaining trucks are 50 - 25 - 10 = 15 trucks.",
+    "Therefore, 15 trucks must be white.",
+    "Carmen also sees 40 cars. However, the problem specifically asks for the percentage chance the car is a white truck.",
+    "The total number of cars (vehicles) overall is 50 trucks + 40 cars = 90 vehicles.",
+    "The chance of selecting one vehicle that is a white truck is calculated based on the number of white trucks over the total number of vehicles.",
+    "There are 15 white trucks out of 90 vehicles.",
+    "To find the percentage, (15 / 90) * 100% is needed.",
+    "15 divided by 90 equals approximately 0.1666.",
+    "0.1666 multiplied by 100% equals 16.66%.",
+    "Rounded to the nearest integer, the percentage is 17%."
+  ],
+  "solution": "17"
+}

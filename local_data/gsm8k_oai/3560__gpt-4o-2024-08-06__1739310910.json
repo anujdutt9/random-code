@@ -1,0 +1,16 @@
+{
+  "query": "Anna wants to grow some lettuce in the garden and would like to grow enough to have at least 12 large salads. She estimates that, despite her best efforts, half of the lettuce will be lost to insects and rabbits. Each lettuce plant is estimated to provide 3 large salads. How many lettuce plants should Anna grow in the garden?",
+  "steps": [
+    "Anna wants to have enough lettuce for 12 large salads.",
+    "Each lettuce plant provides 3 large salads.",
+    "I need to calculate how many lettuce plants Anna needs without considering any loss.",
+    "To have 12 large salads, I need to divide the total salads by the salads per plant: 12 salads \u00f7 3 salads per plant = 4 plants.",
+    "Anna estimates that half of the lettuce will be lost to insects and rabbits.",
+    "Due to the loss, Anna will only harvest from half of the plants she grows.",
+    "If she plants x plants, she will effectively harvest from x/2 plants.",
+    "Since she needs to harvest from 4 plants, I need to set up the equation x/2 = 4.",
+    "To solve for x, I multiply both sides of the equation by 2: x = 8.",
+    "Therefore, Anna should plant 8 lettuce plants to ensure at least 12 large salads after accounting for losses."
+  ],
+  "solution": "8"
+}

@@ -1,0 +1,26 @@
+{
+  "query": "Helen cuts her lawn starting in March and finishes in October.  Her lawn mower uses 2 gallons of gas every 4th time she cuts her lawn.  For March, April, September and October, she only cuts her law 2 times per month.  In May, June, July and August, she has to cut her lawn 4 times per month.  How many gallons of gas will she need to cut her lawn from March through October?",
+  "steps": [
+    "First, I need to determine how many times Helen cuts her lawn in each specific month from March through October.",
+    "In March, she cuts the lawn 2 times.",
+    "In April, she cuts the lawn 2 times.",
+    "In May, she cuts the lawn 4 times.",
+    "In June, she cuts the lawn 4 times.",
+    "In July, she cuts the lawn 4 times.",
+    "In August, she cuts the lawn 4 times.",
+    "In September, she cuts the lawn 2 times.",
+    "In October, she cuts the lawn 2 times.",
+    "Now, I will add up the total number of times she cuts the lawn from March through October.",
+    "For March and April, the total is 2 + 2 = 4 times.",
+    "For May, June, July, and August, the total is 4 + 4 + 4 + 4 = 16 times.",
+    "For September and October, the total is 2 + 2 = 4 times.",
+    "Adding these together, she cuts the lawn a total of 4 + 16 + 4 = 24 times.",
+    "Now I need to determine how often she uses gas based on the information given.",
+    "The lawn mower uses 2 gallons of gas every 4th time the lawn is cut.",
+    "To find out how many times she uses gas, I divide the total number of cuts by 4.",
+    "24 total cuts \u00f7 4 = 6 times she uses gas.",
+    "Since she uses 2 gallons each time, I multiply the number of times by the gallons used per time.",
+    "6 times \u00d7 2 gallons = 12 gallons."
+  ],
+  "solution": "12"
+}

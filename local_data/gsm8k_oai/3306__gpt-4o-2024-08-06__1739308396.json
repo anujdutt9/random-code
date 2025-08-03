@@ -1,0 +1,14 @@
+{
+  "query": "Larry jogs for 30 minutes each day. In the first week, he jogs for 3 days while he jogs for 5 days in the second week. How many hours does he jog in total for two weeks?",
+  "steps": [
+    "Larry jogs for 30 minutes each day.",
+    "In the first week, he jogs for 3 days.",
+    "Each day he jogs for 30 minutes, so in the first week he jogs 3 days * 30 minutes = 90 minutes.",
+    "In the second week, he jogs for 5 days.",
+    "Each day he jogs for 30 minutes, so in the second week he jogs 5 days * 30 minutes = 150 minutes.",
+    "To find the total jogging time over two weeks, I need to add the minutes from both weeks: 90 minutes + 150 minutes = 240 minutes.",
+    "Since the result is in minutes, I need to convert it to hours. There are 60 minutes in an hour.",
+    "240 minutes \u00f7 60 minutes/hour = 4 hours."
+  ],
+  "solution": "4"
+}

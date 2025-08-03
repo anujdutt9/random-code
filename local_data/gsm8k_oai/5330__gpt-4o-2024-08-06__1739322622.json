@@ -1,0 +1,16 @@
+{
+  "query": "Steve makes 40000$ a year as a teacher.  He loses 20 percent to taxes, 10 percent to healthcare, and 800$ to local union dues.  How much money does Steve take home?",
+  "steps": [
+    "First, I need to calculate how much Steve loses to taxes.",
+    "20 percent of 40,000 dollars is 0.20 * 40,000.",
+    "0.20 * 40,000 = 8,000 dollars.",
+    "Next, I need to calculate how much Steve loses to healthcare.",
+    "10 percent of 40,000 dollars is 0.10 * 40,000.",
+    "0.10 * 40,000 = 4,000 dollars.",
+    "Now, I will add up all the deductions: taxes, healthcare, and union dues.",
+    "8,000 (taxes) + 4,000 (healthcare) + 800 (union dues) = 12,800 dollars.",
+    "Finally, I will subtract the total deductions from Steve's annual salary.",
+    "40,000 - 12,800 = 27,200 dollars."
+  ],
+  "solution": "27,200"
+}

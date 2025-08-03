@@ -1,0 +1,16 @@
+{
+  "query": "After working out for 3 hours, three friends go out for lunch. Adam spends two-thirds as much money on lunch as Rick. Rick and Jose eat lunch of the same price. If Jose ate lunch worth $45, what is the cost of lunch for all three?",
+  "steps": [
+    "First, note that Jose's lunch cost is given as $45.",
+    "Rick's lunch cost is the same as Jose\u2019s, so Rick's lunch also costs $45.",
+    "Adam spends two-thirds as much money on lunch as Rick.",
+    "Calculate two-thirds of Rick's lunch cost. Rick's lunch cost is $45.",
+    "To find two-thirds of Rick's cost, calculate \\( \\frac{2}{3} \\times 45 \\).",
+    "\\( \\frac{2}{3} \\times 45 = 30 \\).",
+    "So, Adam's lunch cost is $30.",
+    "Now, determine the total cost of lunch for all three friends: Adam, Rick, and Jose.",
+    "Add up their lunch costs: $30 (Adam) + $45 (Rick) + $45 (Jose).",
+    "$30 + $45 = $75, and $75 + $45 = $120."
+  ],
+  "solution": "120"
+}

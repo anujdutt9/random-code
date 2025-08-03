@@ -1,0 +1,17 @@
+{
+  "query": "Billy has 8 hours of free time on each day of the weekend. He wants to spend 75% of his time playing video games and the rest of his time reading. He can read 60 pages an hour and his books all contain 80 pages. How many books does he read?",
+  "steps": [
+    "Billy has 8 hours of free time each day on the weekend.",
+    "The weekend has 2 days, so Billy has a total of 8 hours/day * 2 days = 16 hours of free time.",
+    "He wants to spend 75% of his time playing video games.",
+    "This means that he spends 100% - 75% = 25% of his time reading.",
+    "25% of 16 hours is 0.25 * 16 = 4 hours.",
+    "Billy spends 4 hours reading over the weekend.",
+    "He can read 60 pages an hour.",
+    "In 4 hours, Billy can read 60 pages/hour * 4 hours = 240 pages.",
+    "Each book contains 80 pages.",
+    "To find the number of books he can read, I need to divide the total number of pages he reads by the number of pages per book.",
+    "240 pages / 80 pages/book = 3 books."
+  ],
+  "solution": "3"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "A single train car can carry 60 passengers. A 747 airplane can carry 366 passengers. How many more passengers can a train with 16 cars carry than 2 airplanes?",
+  "steps": [
+    "First, I need to calculate how many passengers a train with 16 cars can carry.",
+    "A single train car can carry 60 passengers.",
+    "Therefore, a train with 16 cars can carry 16 * 60 passengers.",
+    "16 * 60 = 960",
+    "So, a train with 16 cars can carry 960 passengers.",
+    "Next, I calculate how many passengers 2 airplanes can carry.",
+    "A single 747 airplane can carry 366 passengers.",
+    "Therefore, 2 airplanes can carry 2 * 366 passengers.",
+    "2 * 366 = 732",
+    "So, 2 airplanes can carry 732 passengers.",
+    "Now, I need to find the difference in passenger capacity between the train with 16 cars and the 2 airplanes.",
+    "I subtract the number of passengers the 2 airplanes can carry from the number of passengers the train can carry: 960 - 732.",
+    "960 - 732 = 228"
+  ],
+  "solution": "228"
+}

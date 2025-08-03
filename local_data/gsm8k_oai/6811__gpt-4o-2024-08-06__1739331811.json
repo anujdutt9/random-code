@@ -1,0 +1,14 @@
+{
+  "query": "There are 24 marbles in a jar. Half are blue. There are 6 red marbles. The rest of the marbles are orange. How many orange marbles are there?",
+  "steps": [
+    "I will start by identifying how many marbles are blue.",
+    "Half of the 24 marbles are blue, which means there are 24 / 2 = 12 blue marbles.",
+    "Next, I need to identify the known quantities: There are 12 blue marbles and 6 red marbles.",
+    "I will add the number of blue and red marbles to find out how many marbles are accounted for so far.",
+    "12 blue marbles + 6 red marbles = 18 marbles are accounted for.",
+    "Now, I need to determine how many marbles are left unaccounted for, which will be the number of orange marbles.",
+    "The total number of marbles is 24. I will subtract the 18 accounted marbles from the total.",
+    "24 total marbles - 18 accounted marbles = 6 orange marbles."
+  ],
+  "solution": "6"
+}

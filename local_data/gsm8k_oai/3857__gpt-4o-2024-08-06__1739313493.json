@@ -1,0 +1,14 @@
+{
+  "query": "A quarterback steps back to throw 80 times in a game.  30 percent of the time he does not get a pass thrown.  Half of the times that he does not throw the ball he is sacked for a loss.  How many times is the quarterback sacked for a loss in the game?",
+  "steps": [
+    "First, I need to calculate how many times the quarterback does not get a pass thrown. He steps back to throw 80 times in a game.",
+    "30 percent of the time, he does not get a pass thrown. So, I need to calculate 30 percent of 80.",
+    "30 percent of 80 is calculated as 0.3 multiplied by 80.",
+    "0.3 multiplied by 80 is 24. This means the quarterback does not get a pass thrown 24 times.",
+    "Next, I need to calculate how many of these times he gets sacked for a loss. I'm told that half of the times he does not throw the ball, he is sacked for a loss.",
+    "Half of 24 is calculated as 24 divided by 2.",
+    "24 divided by 2 is 12.",
+    "So, the quarterback is sacked for a loss 12 times in the game."
+  ],
+  "solution": "12"
+}

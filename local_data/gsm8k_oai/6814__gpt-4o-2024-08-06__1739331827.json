@@ -1,0 +1,12 @@
+{
+  "query": "The school is organizing a trip to the museum. 4 buses were hired to take the children and teachers to their destination. The second bus has twice the number of people on it as the first bus. The third bus has 6 fewer people than the second bus. The fourth bus has 9 more people than the first bus. If the first bus has 12 people, how many people are going to the museum in total?",
+  "steps": [
+    "We start by identifying the number of people on each bus, starting with the first bus. The first bus has 12 people.",
+    "Next, we determine the number of people on the second bus. The problem states the second bus has twice the number of people as the first bus. So, the second bus has 12 * 2 = 24 people.",
+    "Now, we calculate the number of people on the third bus. The third bus has 6 fewer people than the second bus. Therefore, the third bus has 24 - 6 = 18 people.",
+    "We move on to find the number of people on the fourth bus. The fourth bus has 9 more people than the first bus. Thus, the fourth bus has 12 + 9 = 21 people.",
+    "With these figures, we can now calculate the total number of people going to the museum by adding the number of people on all four buses.",
+    "The total is 12 (first bus) + 24 (second bus) + 18 (third bus) + 21 (fourth bus) = 75 people."
+  ],
+  "solution": "75"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Eight people fit in a row on an airplane, and there are 12 rows. Only 3/4 of the seats in each row are allowed to be seated. How many seats will not be occupied on that plane?",
+  "steps": [
+    "First, I need to find out how many seats there are in one row.",
+    "There are 8 seats in a row.",
+    "Next, I need to find out how many rows there are on the plane.",
+    "There are 12 rows.",
+    "To find the total number of seats on the plane, I multiply the number of seats per row by the number of rows.",
+    "8 seats/row \u00d7 12 rows = 96 seats.",
+    "Now, I need to determine how many seats are actually allowed to be occupied by passengers.",
+    "Only 3/4 of the seats in each row are allowed to be seated.",
+    "To find out how many seats are occupied per row, I multiply the number of seats per row by 3/4.",
+    "8 \u00d7 3/4 = 6 seats occupied per row.",
+    "Now, I multiply the number of occupied seats per row by the total number of rows to find the total occupied seats.",
+    "6 seats occupied/row \u00d7 12 rows = 72 seats occupied.",
+    "Finally, I subtract the number of occupied seats from the total number of seats to find out how many seats will not be occupied.",
+    "96 total seats - 72 occupied seats = 24 seats not occupied."
+  ],
+  "solution": "24"
+}

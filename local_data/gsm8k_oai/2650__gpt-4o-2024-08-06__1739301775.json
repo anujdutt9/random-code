@@ -1,0 +1,13 @@
+{
+  "query": "Jack has $45 and 36 euros. If each euro is worth two dollars, how much money does he have total in dollars?",
+  "steps": [
+    "Jack starts with $45.",
+    "Jack also has 36 euros.",
+    "Each euro is worth two dollars.",
+    "I need to convert euros to dollars by multiplying the number of euros he has by the dollar value of each euro.",
+    "Calculating the dollar value of the euros: 36 euros * 2 dollars/euro = 72 dollars.",
+    "Now, I need to add the dollar value from euros to his initial amount in dollars.",
+    "Adding the euros converted to dollars and the initial amount: 72 dollars + 45 dollars = 117 dollars."
+  ],
+  "solution": "117"
+}

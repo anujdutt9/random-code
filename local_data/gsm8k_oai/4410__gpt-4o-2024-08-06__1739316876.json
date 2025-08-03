@@ -1,0 +1,17 @@
+{
+  "query": "Bob grew corn in his garden and is ready to harvest it. He has 5 rows of corn, and each row has 80 corn stalks. About every 8 corn stalks will produce a bushel of corn. How many bushels of corn will Bob harvest?",
+  "steps": [
+    "First, I need to find out how many corn stalks Bob has in total.",
+    "Bob has 5 rows of corn.",
+    "Each row has 80 corn stalks.",
+    "To find the total number of corn stalks, I multiply the number of rows by the number of stalks per row: 5 rows * 80 stalks/row.",
+    "5 * 80 equals 400.",
+    "So, Bob has a total of 400 corn stalks.",
+    "Next, I need to determine how many bushels of corn Bob can harvest.",
+    "I know that about every 8 corn stalks will produce 1 bushel of corn.",
+    "To find the number of bushels, I divide the total number of corn stalks by the number of stalks needed for one bushel: 400 stalks / 8 stalks/bushel.",
+    "400 divided by 8 equals 50.",
+    "Therefore, Bob will harvest 50 bushels of corn."
+  ],
+  "solution": "50"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "Ron's baseball team scored 270 points in the year. There are 9 players on the team. If 5 of them averaged 50 points each, how many points did the remainder average?",
+  "steps": [
+    "Start by calculating the total points scored by the 5 players, each averaging 50 points.",
+    "5 players \u00d7 50 points/player = 250 points",
+    "Subtract the 250 points from the total 270 points scored by the team.",
+    "270 points - 250 points = 20 points",
+    "These remaining 20 points were scored by the other 4 players on the team.",
+    "Divide the 20 points by 4 players to find the average points scored by each of these players.",
+    "20 points \u00f7 4 players = 5 points/player"
+  ],
+  "solution": "5"
+}

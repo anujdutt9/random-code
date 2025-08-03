@@ -1,0 +1,15 @@
+{
+  "query": "Lex is picking apples in his apple orchard when he notices some of the apples have bruises and some have worms. He wants to save the bruised apples to make applesauce, throw the wormy apples away, and keep the unbruised apples to eat raw. By his count, a fifth of the apples have worms and nine more than one fifth are bruised. He picked 85 apples. How many apples will he have left to eat raw?",
+  "steps": [
+    "Lex has 85 apples in total.",
+    "A fifth of the apples have worms. To find the number of wormy apples, I need to calculate 1/5 of 85.",
+    "1/5 of 85 is 85 divided by 5, which equals 17. So, there are 17 wormy apples.",
+    "Nine more than one fifth of the apples are bruised. Since we already know one fifth of the apples is 17, nine more than 17 is 17 + 9.",
+    "17 + 9 = 26. So, there are 26 bruised apples.",
+    "To find out how many apples have neither worms nor bruises, I need to subtract the number of wormy and bruised apples from the total number of apples.",
+    "The number of apples that are either wormy or bruised is 17 (wormy) + 26 (bruised) = 43.",
+    "Now, subtract the number of apples with worms or bruises from the total: 85 - 43 = 42.",
+    "So, there are 42 apples left that are neither bruised nor wormy."
+  ],
+  "solution": "42"
+}

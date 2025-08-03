@@ -1,0 +1,15 @@
+{
+  "query": "Annie has $120. The restaurant next door sells hamburgers for $4 each. The restaurant across the street sells milkshakes for $3 each. Annie buys 8 hamburgers and 6 milkshakes. How much money, in dollars, does she have left?",
+  "steps": [
+    "Annie starts with $120.",
+    "Calculate the total cost of 8 hamburgers. Each hamburger costs $4.",
+    "8 hamburgers * $4 per hamburger = $32.",
+    "Calculate the total cost of 6 milkshakes. Each milkshake costs $3.",
+    "6 milkshakes * $3 per milkshake = $18.",
+    "Find the total amount Annie spends by adding the cost of hamburgers and milkshakes.",
+    "$32 (cost of hamburgers) + $18 (cost of milkshakes) = $50.",
+    "Subtract the total amount spent from the initial amount of money Annie has.",
+    "$120 - $50 = $70."
+  ],
+  "solution": "70"
+}

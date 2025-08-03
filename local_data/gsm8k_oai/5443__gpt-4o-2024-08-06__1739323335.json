@@ -1,0 +1,21 @@
+{
+  "query": "Harper collected 30% more pieces of Halloween candy than her sister Maggie, who only collected 50 pieces.  Neil collected 40% more candy than Harper.  How much candy did Neil get on Halloween?",
+  "steps": [
+    "Maggie collected 50 pieces of candy.",
+    "Harper collected 30% more candy than Maggie.",
+    "To find 30% of 50, I need to calculate 0.30 * 50.",
+    "0.30 * 50 = 15",
+    "Harper collected 15 more pieces than Maggie.",
+    "So, Harper collected 50 + 15 pieces.",
+    "50 + 15 = 65",
+    "Harper collected 65 pieces of candy.",
+    "Neil collected 40% more candy than Harper.",
+    "To find 40% of 65, I need to calculate 0.40 * 65.",
+    "0.40 * 65 = 26",
+    "Neil collected 26 more pieces than Harper.",
+    "So, Neil collected 65 + 26 pieces.",
+    "65 + 26 = 91",
+    "Neil collected 91 pieces of candy on Halloween."
+  ],
+  "solution": "91"
+}

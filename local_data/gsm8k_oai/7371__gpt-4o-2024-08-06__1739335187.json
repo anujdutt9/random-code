@@ -1,0 +1,14 @@
+{
+  "query": "Karen's students are about to take a standardized test. Karen gets a $500 bonus if their average score is above 75, plus an extra $10 bonus for every additional point the average score increases above 75. So far, Karen has graded 8 tests, and the average is 70. Given that each student can have a maximum score of 150, what combined score do the last two tests need to have for Karen to earn a $600 bonus?",
+  "steps": [
+    "Karen starts with an average score of 70 for the 8 tests already graded.",
+    "The formula for average is the sum of scores divided by the number of tests. Therefore, the sum of the first 8 tests' scores is: 8 * 70 = 560.",
+    "Karen wants to achieve an average score such that her bonus totals $600. She gets a $500 bonus for having an average above 75, and an extra $10 for each point above 75.",
+    "For a $600 total bonus, she gets an extra $100 from the increase in the average above 75, as $600 - $500 = $100.",
+    "The $100 corresponds to a 10-point increase above 75, because each point above 75 earns an additional $10. So, Karen wants the average to be 75 + 10 = 85.",
+    "Karen will grade 2 more tests, bringing the total number of tests to 8 + 2 = 10.",
+    "To achieve an average of 85, the sum of all 10 tests needs to be 10 * 85 = 850.",
+    "Karen already has a sum of 560 from the first 8 tests. So, the combined score needed from the last two tests is 850 - 560 = 290."
+  ],
+  "solution": "290"
+}

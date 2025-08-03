@@ -1,0 +1,15 @@
+{
+  "query": "Tony can run a mile twice as fast as Tina, who with a time of 6 minutes is one-third as fast a runner as Tom.  What are all three of their mile times when added together?",
+  "steps": [
+    "First, I need to determine Tom's running time for one mile. Tina's time is 6 minutes, and she runs one-third as fast as Tom. This implies Tom is three times faster than Tina.",
+    "Since speed is inversely proportional to time, if Tina is one-third as fast, Tom's time must be one-third of Tina's time.",
+    "Tina's time is 6 minutes, so Tom's time is 6 minutes / 3 = 2 minutes per mile.",
+    "Next, I need to determine Tony's running time. Tony runs twice as fast as Tina.",
+    "Again, since speed is inversely proportional to time, if Tony is twice as fast as Tina, his time must be half of Tina's time.",
+    "Tina's time is 6 minutes, so Tony's time is 6 minutes / 2 = 3 minutes per mile.",
+    "Now, I have each person's times: Tom's time is 2 minutes, Tina's time is 6 minutes, and Tony's time is 3 minutes.",
+    "To find the sum of all three times, I will add them together: 2 minutes + 6 minutes + 3 minutes.",
+    "The sum of their times is 11 minutes."
+  ],
+  "solution": "11"
+}

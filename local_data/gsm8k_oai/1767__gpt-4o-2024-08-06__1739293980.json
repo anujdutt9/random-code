@@ -1,0 +1,17 @@
+{
+  "query": "Juvy has a garden that has 20 rows with 10 plants in each row. She plants parsley in the first 3 rows and rosemary in the last two rows. The rest of the rows will be planted with chives. How many chives will Juvy plant?",
+  "steps": [
+    "First, I need to determine the total number of rows in Juvy's garden.",
+    "The garden has a total of 20 rows.",
+    "Juvy plants parsley in the first 3 rows.",
+    "Juvy plants rosemary in the last 2 rows.",
+    "Next, I calculate the number of rows left for planting chives.",
+    "The number of rows used for parsley and rosemary is 3 rows + 2 rows = 5 rows.",
+    "Subtract the 5 rows from the total 20 rows to find how many rows are left for chives: 20 - 5 = 15 rows.",
+    "Now, I determine how many plants are in each row.",
+    "There are 10 plants in each row.",
+    "To find the total number of chives, multiply the number of rows planted with chives (15 rows) by the number of plants per row (10 plants/row).",
+    "15 rows * 10 plants/row = 150 chives."
+  ],
+  "solution": "150"
+}

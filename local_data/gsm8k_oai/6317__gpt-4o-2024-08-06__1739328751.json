@@ -1,0 +1,22 @@
+{
+  "query": "Brady worked 6 hours every day in April. He worked 5 hours every day in June and 8 hours every day in September. What is the average amount of hours that Brady worked per month in those 3 months?",
+  "steps": [
+    "First, I need to find out how many hours Brady worked in each month. Let's start with April.",
+    "April has 30 days. Brady worked 6 hours every day in April.",
+    "The total hours worked in April is 30 days * 6 hours/day = 180 hours.",
+    "Now, let's calculate the hours worked in June.",
+    "June also has 30 days. Brady worked 5 hours every day in June.",
+    "The total hours worked in June is 30 days * 5 hours/day = 150 hours.",
+    "Next, let's calculate the hours worked in September.",
+    "September has 30 days. Brady worked 8 hours every day in September.",
+    "The total hours worked in September is 30 days * 8 hours/day = 240 hours.",
+    "Now, I need to find the sum of the total hours worked in all three months.",
+    "The total hours worked over the three months is 180 hours (April) + 150 hours (June) + 240 hours (September).",
+    "180 + 150 = 330, then 330 + 240 = 570.",
+    "Brady worked a total of 570 hours in April, June, and September.",
+    "To find the average hours worked per month, I need to divide the total hours by the number of months.",
+    "There are 3 months (April, June, September) involved.",
+    "570 hours / 3 months = 190 hours/month."
+  ],
+  "solution": "190"
+}

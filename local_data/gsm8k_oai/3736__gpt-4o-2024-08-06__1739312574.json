@@ -1,0 +1,19 @@
+{
+  "query": "Jackson is making dinner. He makes a salad out of lettuce (50 calories), carrots (twice the calories of the lettuce) and dressing (210 calories). He also makes a pizza with 600 calories for the crust, 1/3 the crust's calories for the pepperoni, and 400 calories for the cheese. If Jackson eats 1/4 of the salad and 1/5 of the pizza, how many calories does he eat?",
+  "steps": [
+    "First, I need to calculate the calories from the salad.",
+    "The lettuce has 50 calories.",
+    "The carrots have twice the calories of the lettuce, so they have 2 * 50 = 100 calories.",
+    "The dressing has 210 calories.",
+    "Adding these up gives the total calories for the salad: 50 + 100 + 210 = 360 calories.",
+    "Next, I need to calculate the calories from the pizza.",
+    "The crust has 600 calories.",
+    "The pepperoni has 1/3 the calories of the crust: (1/3) * 600 = 200 calories.",
+    "The cheese has 400 calories.",
+    "Adding these up gives the total calories for the pizza: 600 + 200 + 400 = 1200 calories.",
+    "Jackson eats 1/4 of the salad, so he consumes (1/4) * 360 = 90 calories from the salad.",
+    "Jackson eats 1/5 of the pizza, so he consumes (1/5) * 1200 = 240 calories from the pizza.",
+    "To get the total calories Jackson eats, I add the calories from both the salad and the pizza: 90 + 240 = 330 calories."
+  ],
+  "solution": "330"
+}

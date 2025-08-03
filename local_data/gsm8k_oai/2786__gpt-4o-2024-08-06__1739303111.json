@@ -1,0 +1,16 @@
+{
+  "query": "Tom decided to go on a trip. During this trip, he needs to cross a lake, which in one direction takes 4 hours. During this time, Tom needs an assistant to help him with the crossing. Hiring an assistant costs $10 per hour. How much would Tom have to pay for help with crossing the lake back and forth?",
+  "steps": [
+    "To solve this problem, I need to consider the total duration Tom needs assistance for crossing the lake.",
+    "First, let's consider the time it takes to cross the lake in one direction. It's given that crossing the lake takes 4 hours one way.",
+    "Since Tom needs to cross the lake both ways (back and forth), I need to consider both the forward and return trips.",
+    "The forward trip takes 4 hours, and the return trip also takes 4 hours.",
+    "So, the total time for both trips is 4 hours (one way) + 4 hours (return) = 8 hours.",
+    "Next, I need to calculate the total cost of hiring an assistant for this duration.",
+    "Hiring an assistant costs $10 per hour.",
+    "Therefore, for 8 hours, the cost will be 8 hours * $10 per hour.",
+    "Now, I'll calculate this: 8 * $10 = $80.",
+    "So, Tom would have to pay a total of $80 for help with crossing the lake back and forth."
+  ],
+  "solution": "80"
+}

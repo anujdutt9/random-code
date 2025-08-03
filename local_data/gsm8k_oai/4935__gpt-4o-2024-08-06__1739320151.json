@@ -1,0 +1,15 @@
+{
+  "query": "Jamie's father gained 5 pounds over the holidays that he wants to lose so his pants will not be as snug. He asks Jamie to help him keep track of his calories. Jamie's father burns 2,500 calories of fat a day by doing light exercise. There are 3,500 calories in a pound of body fat. How many days will it take for Jamie's father to burn off 5 pounds if he does light exercise and sticks to eating 2000 calories a day?",
+  "steps": [
+    "Jamie\u2019s father wants to lose 5 pounds.",
+    "There are 3,500 calories in a pound of body fat.",
+    "To lose 1 pound, he needs to burn 3,500 more calories than he consumes.",
+    "To lose 5 pounds, he needs to burn 3,500 * 5 = 17,500 more calories than he consumes.",
+    "Jamie\u2019s father burns 2,500 calories each day through exercise.",
+    "He consumes 2,000 calories a day.",
+    "To find out how many excess calories he burns each day, subtract his daily intake from what he burns: 2,500 - 2,000 = 500 excess calories burned per day.",
+    "To find out how many days it would take to burn 17,500 calories at a rate of 500 calories per day, calculate 17,500 / 500.",
+    "17,500 calories divided by 500 calories per day equals 35 days."
+  ],
+  "solution": "35"
+}

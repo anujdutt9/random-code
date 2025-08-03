@@ -1,0 +1,14 @@
+{
+  "query": "Mark hires a singer for 3 hours at $15 an hour.  He then tips the singer 20%.  How much did he pay?",
+  "steps": [
+    "First, I need to find out how much Mark pays the singer for 3 hours of work at $15 per hour.",
+    "To do this, I multiply the hourly rate by the number of hours: $15/hour * 3 hours.",
+    "The cost for the singing is 15 * 3 = $45.",
+    "Next, I need to calculate the tip. Mark tips 20% of the total cost.",
+    "To calculate 20% of $45, I multiply 0.20 by $45.",
+    "0.20 * 45 = $9.",
+    "The total amount Mark pays is the initial cost plus the tip, so I add $45 and $9 together.",
+    "$45 + $9 = $54."
+  ],
+  "solution": "54"
+}

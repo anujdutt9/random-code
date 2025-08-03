@@ -1,0 +1,29 @@
+{
+  "query": "Jessica was trying to win a gift card to her favorite store.  To win, she had to guess the total number of red & white jelly beans in the bowl of mixed color jelly beans. She figured it would take three bags of jelly beans to fill up the fishbowl.  She assumed that each bag of jellybeans had a similar distribution of colors in each bag.  She bought one bag of jellybeans and separated them by color.  She had 24 red, 13 black, 36 green, 28 purple, 32 yellow and 18 white.  What was Jessica's guess as to how many red and white jelly beans were in the fishbowl?",
+  "steps": [
+    "Jessica is trying to estimate the number of red and white jelly beans in the fishbowl.",
+    "She bought one bag of jelly beans to understand the distribution of colors.",
+    "The bag she purchased had 24 red, 13 black, 36 green, 28 purple, 32 yellow, and 18 white jelly beans.",
+    "To find the total number of jelly beans in the bag, I add them up: 24 (red) + 13 (black) + 36 (green) + 28 (purple) + 32 (yellow) + 18 (white).",
+    "24 + 13 = 37",
+    "37 + 36 = 73",
+    "73 + 28 = 101",
+    "101 + 32 = 133",
+    "133 + 18 = 151",
+    "The total number of jelly beans in the bag is 151.",
+    "Next, I need to calculate the proportion of red jelly beans in one bag: 24 red jelly beans out of 151 total jelly beans.",
+    "The proportion of red jelly beans = 24 / 151.",
+    "Now, I calculate the proportion of white jelly beans: 18 white jelly beans out of 151 total jelly beans.",
+    "The proportion of white jelly beans = 18 / 151.",
+    "To find the estimated number of red jelly beans in the fishbowl filled by three bags, I multiply the proportion of red jelly beans by the total number of jelly beans in three bags.",
+    "Multiply the total number of jelly beans in one bag by three: 151 * 3 = 453",
+    "Red jelly beans in the fishbowl = (24 / 151) * 453.",
+    "Calculate (24 / 151) * 453 \u2248 72.",
+    "To find the estimated number of white jelly beans in the fishbowl filled by three bags, I multiply the proportion of white jelly beans by the total number of jelly beans in three bags.",
+    "White jelly beans in the fishbowl = (18 / 151) * 453.",
+    "Calculate (18 / 151) * 453 \u2248 54.",
+    "Now, I sum the estimated number of red and white jelly beans in the fishbowl: 72 (red) + 54 (white).",
+    "72 + 54 = 126."
+  ],
+  "solution": "126"
+}

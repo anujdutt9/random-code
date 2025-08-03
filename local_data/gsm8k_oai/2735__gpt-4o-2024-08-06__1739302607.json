@@ -1,0 +1,21 @@
+{
+  "query": "Bob gets paid $5 an hour for the regular hours he works and $6 an hour for any overtime hours he works. All hours over 40 in a week are considered overtime. If Bob works 44  hours in the first week and 48 hours in the second week, how much did he make?",
+  "steps": [
+    "First, I need to identify how many regular hours and how many overtime hours Bob worked each week.",
+    "In the first week, Bob worked 44 hours. Regular hours are the first 40 hours, so he worked 40 regular hours.",
+    "For the first week, overtime hours are any hours over 40. Thus, he worked 44 - 40 = 4 overtime hours.",
+    "In the second week, Bob worked 48 hours. Regular hours are the first 40 hours, so he worked 40 regular hours as well.",
+    "For the second week, overtime hours are any hours over 40. Thus, he worked 48 - 40 = 8 overtime hours.",
+    "Next, I will calculate how much Bob made in the first week.",
+    "For the first week, he worked 40 regular hours at $5 per hour, so he earned 40 * $5 = $200.",
+    "For the first week, he worked 4 overtime hours at $6 per hour, so he earned 4 * $6 = $24.",
+    "Therefore, in the first week, Bob made a total of $200 + $24 = $224.",
+    "Now, I will calculate how much Bob made in the second week.",
+    "For the second week, he worked 40 regular hours at $5 per hour, so he earned 40 * $5 = $200.",
+    "For the second week, he worked 8 overtime hours at $6 per hour, so he earned 8 * $6 = $48.",
+    "Therefore, in the second week, Bob made a total of $200 + $48 = $248.",
+    "To find out how much Bob made altogether, I need to add his earnings from both weeks.",
+    "Bob made $224 in the first week and $248 in the second week, so in total he made $224 + $248 = $472."
+  ],
+  "solution": "472"
+}

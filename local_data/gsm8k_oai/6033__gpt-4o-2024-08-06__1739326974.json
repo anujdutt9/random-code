@@ -1,0 +1,13 @@
+{
+  "query": "James is trying to create a new breed of kittens with extra-long tails. Each generation of kittens he breeds has a tail 25% longer than the last generation. If the first generation has tails 16 cm long, how long are the third generation's tails?",
+  "steps": [
+    "The first generation of kittens has tails that are 16 cm long.",
+    "The second generation's tails are 25% longer than the first generation. I need to calculate 25% of 16 cm.",
+    "Calculating 25% of 16 cm: 0.25 * 16 = 4 cm.",
+    "I add the 4 cm to the original length of 16 cm to find the second generation's tail length: 16 cm + 4 cm = 20 cm.",
+    "The third generation's tails are also 25% longer than the second generation. I need to calculate 25% of the second generation's length, which is 20 cm.",
+    "Calculating 25% of 20 cm: 0.25 * 20 = 5 cm.",
+    "I add the 5 cm to the second generation's tail length of 20 cm to find the third generation's tail length: 20 cm + 5 cm = 25 cm."
+  ],
+  "solution": "25"
+}

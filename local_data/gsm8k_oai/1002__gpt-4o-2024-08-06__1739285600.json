@@ -1,0 +1,18 @@
+{
+  "query": "Carmen needs $7 more to have twice the amount of money that Jethro has. Meanwhile, Patricia has $60, which is 3 times as much as Jethro. What is the sum of all their money?",
+  "steps": [
+    "Let's determine how much money Jethro has. We know Patricia has $60, and this is 3 times what Jethro has.",
+    "Since Patricia's $60 is 3 times Jethro's amount, we divide 60 by 3 to find out how much money Jethro has.",
+    "60 divided by 3 is 20. So, Jethro has $20.",
+    "Now, let's determine how much money Carmen has. We know Carmen needs $7 more to have twice what Jethro has.",
+    "Twice Jethro's money means 2 times $20, which is $40.",
+    "Carmen needs $7 more to have $40. Therefore, Carmen currently has $40 - $7.",
+    "$40 - $7 is $33. So Carmen has $33.",
+    "Now, let's find the sum of the money that Carmen, Jethro, and Patricia have.",
+    "Carmen has $33, Jethro has $20, and Patricia has $60.",
+    "Adding these amounts gives us $33 + $20 + $60.",
+    "$33 + $20 is $53.",
+    "$53 + $60 is $113."
+  ],
+  "solution": "113"
+}

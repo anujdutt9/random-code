@@ -1,0 +1,14 @@
+{
+  "query": "Theo can eat 13 cookies, 3 times a day, 20 days each month. How many cookies can he eat in 3 months?",
+  "steps": [
+    "First, I need to find out how many cookies Theo eats in one day.",
+    "Theo eats 13 cookies each time, and he does this 3 times a day.",
+    "So, in one day, he eats 13 cookies * 3 times = 39 cookies.",
+    "Now, I need to find out how many cookies Theo eats in one month.",
+    "I know he eats 39 cookies in one day and he eats cookies 20 days each month.",
+    "So, in one month, he eats 39 cookies/day * 20 days/month = 780 cookies.",
+    "Now I need to calculate how many cookies he will eat in 3 months.",
+    "Since he eats 780 cookies in one month, in 3 months he will eat 780 cookies/month * 3 months = 2340 cookies."
+  ],
+  "solution": "2340"
+}

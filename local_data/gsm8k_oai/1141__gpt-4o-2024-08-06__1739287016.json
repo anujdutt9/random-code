@@ -1,0 +1,23 @@
+{
+  "query": "A pet store owner had 12 birds, 9 puppies, 5 cats, and 15 spiders. Half the birds were sold and 3 puppies were adopted. Then, someone left the spider enclosure open and 7 of them went loose. How many animals does the pet store owner have left?",
+  "steps": [
+    "The pet store originally had 12 birds.",
+    "Half of the birds were sold, so calculate half of 12.",
+    "Half of 12 is 6, so 6 birds were sold.",
+    "Therefore, 12 - 6 = 6 birds are left.",
+    "The pet store originally had 9 puppies.",
+    "3 puppies were adopted.",
+    "Therefore, 9 - 3 = 6 puppies are left.",
+    "The pet store had 5 cats originally.",
+    "No cats were sold or given away, so there are still 5 cats.",
+    "The pet store originally had 15 spiders.",
+    "7 spiders went loose when the enclosure was left open.",
+    "Therefore, 15 - 7 = 8 spiders are left.",
+    "Now, calculate the total number of animals left.",
+    "Add the remaining birds, puppies, cats, and spiders: 6 birds + 6 puppies + 5 cats + 8 spiders.",
+    "6 + 6 = 12",
+    "12 + 5 = 17",
+    "17 + 8 = 25"
+  ],
+  "solution": "25"
+}

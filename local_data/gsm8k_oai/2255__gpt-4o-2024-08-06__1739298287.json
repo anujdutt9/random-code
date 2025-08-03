@@ -1,0 +1,16 @@
+{
+  "query": "Mitch made 20 macarons. Joshua made 6 more macarons than Mitch but half as many macarons as Miles. Renz made 1 fewer than 3/4 as many macarons as Miles. If they will combine their macarons to give them to the kids on the street, how many kids would receive 2 macarons each?",
+  "steps": [
+    "First, I need to find out how many macarons Joshua made. Since Joshua made 6 more macarons than Mitch, and Mitch made 20 macarons, Joshua made 20 + 6 = 26 macarons.",
+    "Next, I need to determine how many macarons Miles made. Joshua made half as many macarons as Miles, so if Joshua made 26 macarons, then Miles made 26 * 2 = 52 macarons.",
+    "Now, I need to find out how many macarons Renz made. Renz made 1 fewer than 3/4 as many macarons as Miles. First, I calculate 3/4 of Miles' macarons: 3/4 * 52 = 39 macarons.",
+    "Then, since Renz made 1 fewer, Renz made 39 - 1 = 38 macarons.",
+    "Now, I will calculate the total number of macarons by adding up the macarons each person made: Mitch (20) + Joshua (26) + Miles (52) + Renz (38).",
+    "20 + 26 = 46 macarons.",
+    "46 + 52 = 98 macarons.",
+    "98 + 38 = 136 macarons.",
+    "Next, I need to determine how many kids would receive 2 macarons each. To do this, I divide the total number of macarons, 136, by 2.",
+    "136 \u00f7 2 = 68 kids."
+  ],
+  "solution": "68"
+}

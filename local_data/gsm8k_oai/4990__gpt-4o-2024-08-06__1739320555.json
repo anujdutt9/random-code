@@ -1,0 +1,22 @@
+{
+  "query": "On Tuesday last week, Leo dropped off 10 pairs of trousers and some shirts at Sudsy Laundry. He was given a bill of $140, charged at $5 per shirt and $9 for each pair of trousers. When he went to pick up his clothes yesterday, the attendant insisted that he had only dropped off 2 shirts. Leo reported the matter to the manager, who ordered the attendant to search for the rest of Leo\u2019s shirts. How many shirts were missing?",
+  "steps": [
+    "First, I need to determine the total cost for the 10 pairs of trousers.",
+    "Each pair of trousers costs $9, so for 10 pairs, the cost is 10 * $9.",
+    "10 * $9 is $90.",
+    "This means the trousers cost $90 in total.",
+    "Leo's total bill was $140.",
+    "The cost for the shirts would then be the remainder of his total bill after accounting for the trousers.",
+    "Total cost for the shirts is $140 - $90.",
+    "$140 - $90 is $50.",
+    "Now, I need to determine how many shirts can be washed for $50.",
+    "Each shirt costs $5 to wash.",
+    "To determine the number of shirts, divide the total cost for shirts by the cost per shirt: $50 \u00f7 $5.",
+    "$50 \u00f7 $5 is 10.",
+    "So, Leo initially dropped off 10 shirts.",
+    "The attendant insisted that only 2 shirts were dropped off.",
+    "To find out how many shirts are missing, subtract the number of shirts the attendant says they have (2) from the number Leo initially dropped off (10).",
+    "10 - 2 is 8."
+  ],
+  "solution": "8"
+}

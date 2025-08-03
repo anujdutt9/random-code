@@ -1,0 +1,19 @@
+{
+  "query": "Apples used to cost $1.6 per pound.  The price got raised 25%.  How much does it cost to buy 2 pounds of apples for each person in a 4 member family?",
+  "steps": [
+    "First, I need to calculate the new price per pound after a 25% increase.",
+    "The original price per pound is $1.6.",
+    "A 25% increase means I need to calculate 25% of the original price and then add it to the original price.",
+    "To find 25% of $1.6, I multiply 1.6 by 0.25.",
+    "1.6 \u00d7 0.25 = 0.4.",
+    "Now, I need to add this increase to the original price to get the new price.",
+    "1.6 + 0.4 = 2.0.",
+    "The new price per pound of apples is $2.0.",
+    "Next, I determine the total amount of apples needed for the family.",
+    "Each person in the family needs 2 pounds of apples, and there are 4 people in the family.",
+    "2 pounds/person \u00d7 4 people = 8 pounds.",
+    "Now, I calculate the cost to buy 8 pounds of apples at the new price.",
+    "8 pounds \u00d7 $2.0/pound = $16.0."
+  ],
+  "solution": "16"
+}

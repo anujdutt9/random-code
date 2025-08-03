@@ -1,0 +1,21 @@
+{
+  "query": "In the engineering department, 70% of the students are men and 180 are women. How many men are there?",
+  "steps": [
+    "I know that the total percentage represents all students.",
+    "In this problem, 70% of the students are men.",
+    "Since 70% are men, this implies 30% of the students are women.",
+    "I am given that there are 180 women in the department.",
+    "These 180 women represent 30% of the total number of students.",
+    "Let's set up a proportion to find the total number of students (T). I know that 30% of T is 180.",
+    "So, 0.3 * T = 180.",
+    "To find T, I divide both sides of the equation by 0.3.",
+    "T = 180 / 0.3.",
+    "Calculating the division, I find T = 600.",
+    "Now I know there are 600 students in total.",
+    "Since 70% of the students are men, I need to find 70% of 600.",
+    "I calculate 70% of 600 by computing 0.7 * 600.",
+    "0.7 * 600 = 420.",
+    "Thus, there are 420 men in the engineering department."
+  ],
+  "solution": "420"
+}

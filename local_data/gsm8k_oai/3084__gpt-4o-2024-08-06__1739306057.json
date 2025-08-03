@@ -1,0 +1,17 @@
+{
+  "query": "Susan is picking strawberries. She's trying to fill her basket, but out of every handful of 5 strawberries she can't help but eat one of them herself. If her basket holds 60 strawberries, how many berries will she actually pick before she fills it?",
+  "steps": [
+    "First, I need to understand the problem. Susan wants to fill a basket that holds 60 strawberries.",
+    "She picks 5 strawberries in a handful but eats 1 from each handful.",
+    "This means that for every 5 strawberries she picks, 4 strawberries go into her basket because she eats 1.",
+    "To solve the problem, I need to find out how many complete handfuls it takes to fill her basket with 60 strawberries.",
+    "Let me calculate the number of handfuls needed to accumulate 60 strawberries in the basket.",
+    "For each handful, 4 strawberries are added to the basket.",
+    "If I divide 60 strawberries by 4 strawberries per handful, I get the number of handfuls needed: 60 / 4 = 15.",
+    "Susan needs 15 handfuls to fill her basket with 60 strawberries (4 strawberries per handful).",
+    "Since she picks 5 strawberries per handful, let's calculate how many strawberries she picks in total.",
+    "She picks 5 strawberries for each of the 15 handfuls.",
+    "So, she picks a total of 5 * 15 = 75 strawberries."
+  ],
+  "solution": "75"
+}

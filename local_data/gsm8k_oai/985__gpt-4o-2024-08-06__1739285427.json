@@ -1,0 +1,25 @@
+{
+  "query": "James has an old printer that crumples every seventh page and blurs the ink on every third page. If he prints 42 pages, how many are neither crumpled or blurred?",
+  "steps": [
+    "First, I need to determine which pages are crumpled.",
+    "Pages are crumpled on every seventh page.",
+    "The sequence of crumpled pages is 7, 14, 21, 28, 35, and 42.",
+    "Next, I need to determine which pages are blurred.",
+    "Pages are blurred on every third page.",
+    "The sequence of blurred pages is 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, and 42.",
+    "Now, I need to find out which pages are both crumpled and blurred.",
+    "A page is both crumpled and blurred if it is a common multiple of 3 and 7, which is the least common multiple (LCM).",
+    "The LCM of 3 and 7 is 21.",
+    "The sequence of pages that are both crumpled and blurred is 21 and 42.",
+    "Now, I calculate the number of crumpled pages.",
+    "There are 6 crumpled pages: 7, 14, 21, 28, 35, and 42.",
+    "Now, I calculate the number of blurred pages.",
+    "There are 14 blurred pages: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, and 42.",
+    "Next, I determine the number of pages that are either crumpled or blurred.",
+    "Using the principle of inclusion-exclusion, I add the crumpled and blurred pages and subtract those that are double-counted.",
+    "6 (crumpled) + 14 (blurred) - 2 (both) = 18 pages.",
+    "Finally, I need to subtract the number of pages that are either crumpled or blurred from the total number of pages.",
+    "42 (total pages) - 18 (crumpled or blurred pages) = 24 pages."
+  ],
+  "solution": "24"
+}

@@ -1,0 +1,33 @@
+{
+  "query": "Kelsey had 2/5 of a tray of eggs that she had brought to Willa's party. Stephanie had also brought half a tray of eggs to the party, while Alayah brought 40 more eggs than Kelsey and Stephanie combined. If Willa had two trays of eggs already, calculate the total number of eggs that were used at the party.",
+  "steps": [
+    "I need to find the number of eggs Kelsey brought. Kelsey had 2/5 of a tray of eggs.",
+    "Willa's tray is a full tray, so to solve for Kelsey's amount of eggs, I will label a full tray as T.",
+    "Kelsey had 2/5 of T. So, the number of eggs Kelsey has is (2/5) times T, which is (2/5)T.",
+    "Now, Stephanie brought half a tray of eggs to the party. This is (1/2)T.",
+    "Now, I need to find how many eggs Alayah brought.",
+    "Alayah brought 40 more eggs than Kelsey and Stephanie combined.",
+    "First, I calculate the combined number of eggs brought by Kelsey and Stephanie.",
+    "The combined number of eggs in terms of T brought by Kelsey and Stephanie is (2/5)T + (1/2)T.",
+    "In order to add these, I find a common denominator. The common denominator of 5 and 2 is 10.",
+    "Convert (2/5)T to an equivalent fraction with denominator 10: (2/5)T = (4/10)T.",
+    "Convert (1/2)T to an equivalent fraction with denominator 10: (1/2)T = (5/10)T.",
+    "Add (4/10)T and (5/10)T. This equals (9/10)T.",
+    "Alayah brought 40 more eggs than (9/10)T. So, in eggs, Alayah brought (9/10)T + 40.",
+    "Solution will also include Willa's 2 full trays. So, Willa has 2T eggs.",
+    "The total eggs used are the sum of eggs brought by everyone: Kelsey's, Stephanie's, Alayah's, and Willa's.",
+    "Write this expression: (2/5)T + (1/2)T + ((9/10)T + 40) + 2T.",
+    "Simplifying, using common denominators:",
+    "Combine the T terms: (4/10)T + (5/10)T + (9/10)T + 2T.",
+    "First, I will handle the fractional part: (4/10 + 5/10 + 9/10)T = (18/10)T.",
+    "Convert (18/10)T to 1.8T or as a fraction: (9/5)T.",
+    "Add the remaining 2T.",
+    "Now, 1.8T + 2T = 3.8T or converting to a fraction: (19/5)T.",
+    "Include Alayah's additional 40 eggs: (19/5)T + 40.",
+    "The given question lacks the specific number of eggs in one tray. Generally, I assume usual tray size.",
+    "Assuming a typical tray holds 30 eggs (commonly used value).",
+    "Substitute T = 30 into the expression for total eggs.",
+    "(19/5)(30) + 40 = 114 + 40 = 154."
+  ],
+  "solution": "154"
+}

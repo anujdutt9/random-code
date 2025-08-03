@@ -1,0 +1,15 @@
+{
+  "query": "Daniel has 5 jars of juice containing 2 liters each. He wants to serve a full glass of juice to each person at a party. He knows that each glass can hold up to 250 milliliters of juice. How many full glasses can he give?",
+  "steps": [
+    "First, I need to calculate the total amount of juice Daniel has.",
+    "He has 5 jars, and each contains 2 liters of juice.",
+    "So, I multiply the number of jars by the amount per jar: 5 jars \u00d7 2 liters per jar = 10 liters.",
+    "Next, I need to convert liters to milliliters because the glasses are measured in milliliters.",
+    "1 liter is equal to 1000 milliliters.",
+    "Therefore, 10 liters of juice is equal to 10 \u00d7 1000 = 10,000 milliliters.",
+    "Each glass can hold up to 250 milliliters of juice.",
+    "Now, I calculate the number of full glasses Daniel can serve by dividing the total milliliters of juice by the capacity of one glass.",
+    "10,000 milliliters \u00f7 250 milliliters per glass = 40 glasses."
+  ],
+  "solution": "40"
+}

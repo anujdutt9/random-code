@@ -1,0 +1,11 @@
+{
+  "query": "Three old cars displayed in an auction event have different manufacture dates. The first car, made in 1970,  was made 10 years earlier than the second car. The third car was manufactured 20 years later after the second car was manufactured. Calculate the year that the third car was made.",
+  "steps": [
+    "The first car was made in 1970.",
+    "The first car was made 10 years earlier than the second car.",
+    "So, the second car was made in 1970 + 10 = 1980.",
+    "The third car was manufactured 20 years later after the second car.",
+    "So, the third car was made in 1980 + 20 = 2000."
+  ],
+  "solution": "2000"
+}

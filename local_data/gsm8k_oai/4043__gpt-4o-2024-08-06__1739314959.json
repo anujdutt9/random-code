@@ -1,0 +1,15 @@
+{
+  "query": "John buys 3 puzzles.  The first puzzle has 1000 pieces.  The second and third puzzles have the same number of pieces and each has 50% more pieces.  How many total pieces are all the puzzles?",
+  "steps": [
+    "First, I know that the first puzzle has 1000 pieces.",
+    "The second puzzle has 50% more pieces than the first puzzle.",
+    "50% of 1000 pieces is 500 pieces.",
+    "So, the second puzzle has 1000 + 500 = 1500 pieces.",
+    "The third puzzle has the same number of pieces as the second puzzle, which is also 1500 pieces.",
+    "Now, I need to find the total number of pieces in all the puzzles.",
+    "Total pieces = pieces of first puzzle + pieces of second puzzle + pieces of third puzzle.",
+    "Total pieces = 1000 + 1500 + 1500.",
+    "Calculating the sum: 1000 + 1500 + 1500 = 4000"
+  ],
+  "solution": "4000"
+}

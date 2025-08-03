@@ -1,0 +1,17 @@
+{
+  "query": "In a game, Samanta has 8 more points than Mark, and Mark has 50% more points than Eric. Eric has 6 points. How many points do Samanta, Mark, and Eric have in total?",
+  "steps": [
+    "First, determine how many points Eric has. We know that Eric has 6 points.",
+    "Next, calculate the number of points Mark has. We know that Mark has 50% more points than Eric.",
+    "To find 50% more than Eric's 6 points, multiply 6 by 1.5.",
+    "6 multiplied by 1.5 equals 9. So, Mark has 9 points.",
+    "Next, determine how many points Samanta has. We know Samanta has 8 more points than Mark.",
+    "Add 8 to the number of points Mark has, which is 9.",
+    "9 plus 8 equals 17. So, Samanta has 17 points.",
+    "Now, to find the total number of points for Samanta, Mark, and Eric, add their points together.",
+    "Eric has 6 points, Mark has 9 points, and Samanta has 17 points.",
+    "Add 6 + 9 + 17 to find the total.",
+    "6 + 9 equals 15, and 15 + 17 equals 32."
+  ],
+  "solution": "32"
+}

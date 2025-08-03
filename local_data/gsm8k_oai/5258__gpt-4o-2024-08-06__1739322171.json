@@ -1,0 +1,21 @@
+{
+  "query": "Jim decides he wants to practice for a marathon coming up.  He starts off by running 5 miles every day for 30 days straight.  He then pushes himself to run 10 miles a day for the next 30 days.  Finally, as marathon day gets closer Jim runs 20 miles a day for 30 days straight.  How many miles does Jim run in total during the 90 days?",
+  "steps": [
+    "First, I need to calculate the distance Jim runs during the first 30 days.",
+    "He runs 5 miles every day for 30 days.",
+    "The total distance for the first 30 days is 5 miles/day * 30 days.",
+    "This equals 150 miles.",
+    "Next, I need to calculate the distance Jim runs during the next 30 days.",
+    "During this period, he runs 10 miles every day for 30 days.",
+    "The total distance for these 30 days is 10 miles/day * 30 days.",
+    "This equals 300 miles.",
+    "Then, I need to calculate the distance Jim runs during the final 30 days.",
+    "He runs 20 miles every day for these last 30 days.",
+    "The total distance for the final 30 days is 20 miles/day * 30 days.",
+    "This equals 600 miles.",
+    "Now, I need to add up all the miles he ran over the 90 days.",
+    "So, I add 150 miles + 300 miles + 600 miles.",
+    "This gives me a total of 1050 miles."
+  ],
+  "solution": "1050"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "A professional company is hiring for a new position. They have two qualified applicants. The first applicant will accept a salary of $42000 and make the company $93000 in the first year, but needs 3 months of additional training that costs $1200 a month. The second applicant does not need training and will make the company $92000 in the first year, but is requesting a salary of $45000 and a hiring bonus of 1% of his salary. Less the amount it will cost to pay for each candidate, how many more dollars will one candidate make the company than the other in the first year?",
+  "steps": [
+    "First, I need to calculate the total cost for the first applicant. Their salary is $42,000.",
+    "The first applicant requires 3 months of training at $1,200 per month. I will calculate the training cost: 3 months * $1,200/month = $3,600.",
+    "The total cost for the first applicant is their salary plus the training cost. Total cost = $42,000 + $3,600 = $45,600.",
+    "Now, I need to calculate the total cost for the second applicant. Their salary is $45,000, and they request a hiring bonus of 1% of that salary.",
+    "To find the hiring bonus, I calculate 1% of $45,000 = $450.",
+    "The total cost for the second applicant is their salary plus the hiring bonus. Total cost = $45,000 + $450 = $45,450.",
+    "The first applicant will make the company $93,000 in the first year. Therefore, I calculate the profit from the first applicant: $93,000 - $45,600 = $47,400.",
+    "The second applicant will make the company $92,000 in the first year. Therefore, I calculate the profit from the second applicant: $92,000 - $45,450 = $46,550.",
+    "I need to find out how many more dollars one candidate will make the company than the other by comparing the profits: $47,400 - $46,550.",
+    "The first applicant makes the company $47,400 - $46,550 = $850 more than the second applicant in the first year."
+  ],
+  "solution": "850"
+}

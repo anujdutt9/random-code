@@ -1,0 +1,14 @@
+{
+  "query": "A papaya tree will grow 2 feet in the first year.  In the second year, it will grow 50% more than the first year.  In the third year, the tree will grow 50% more than in the second year.  In the fourth year, it will grow twice as much as the third year.  In the fifth year, it will grow half as much as the fourth year.  When the tree is 5 years old, how tall is the tree?",
+  "steps": [
+    "The tree grows 2 feet in the first year.",
+    "In the second year, the tree grows 50% more than in the first year. So it grows 2 * 1.5 = 3 feet.",
+    "In the third year, the tree grows 50% more than it did in the second year. Therefore, it grows 3 * 1.5 = 4.5 feet.",
+    "In the fourth year, the tree grows twice as much as it did in the third year. So it grows 4.5 * 2 = 9 feet.",
+    "In the fifth year, the tree grows half as much as it did in the fourth year. Therefore, it grows 9 * 0.5 = 4.5 feet.",
+    "Now, add the growth from all five years to find the total height.",
+    "Total height = 2 (first year) + 3 (second year) + 4.5 (third year) + 9 (fourth year) + 4.5 (fifth year).",
+    "Total height = 2 + 3 + 4.5 + 9 + 4.5 = 23 feet."
+  ],
+  "solution": "23"
+}

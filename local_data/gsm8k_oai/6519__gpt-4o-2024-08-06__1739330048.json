@@ -1,0 +1,16 @@
+{
+  "query": "A snail kite is a kind of bird that eats apple snails. On the first day, a snail kite ate 3 snails. Then it eats 2 more snails than it did the day before. How many apple snails in all did a snail kite eat for 5 days?",
+  "steps": [
+    "On the first day, the snail kite ate 3 snails.",
+    "On the second day, it ate 2 more snails than on the first day. So it ate 3 + 2 = 5 snails.",
+    "On the third day, it ate 2 more snails than on the second day. So it ate 5 + 2 = 7 snails.",
+    "On the fourth day, it ate 2 more snails than on the third day. So it ate 7 + 2 = 9 snails.",
+    "On the fifth day, it ate 2 more snails than on the fourth day. So it ate 9 + 2 = 11 snails.",
+    "Now I need to add up all the snails eaten over the 5 days: 3 + 5 + 7 + 9 + 11.",
+    "3 + 5 = 8",
+    "8 + 7 = 15",
+    "15 + 9 = 24",
+    "24 + 11 = 35"
+  ],
+  "solution": "35"
+}

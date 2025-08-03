@@ -1,0 +1,18 @@
+{
+  "query": "Mike wants to buy a new car. He has chosen a red car for $35000. To be able to pay this price, he needs to loan part of the money from the bank, at a rate of 15%. How much money in total will Mike need to pay for the car, if he has to take $20000 from the bank?",
+  "steps": [
+    "Mike wants to buy a car that costs $35000.",
+    "To purchase the car, he needs to loan $20000 from the bank.",
+    "The bank charges an interest rate of 15% on the loaned amount.",
+    "First, I need to calculate the interest on the loan. The formula for calculating simple interest is Interest = Principal x Rate x Time.",
+    "Since the time is not specified, I will assume it is for one year. Therefore, Interest = $20000 x 0.15 x 1.",
+    "Calculating the interest: Interest = $20000 x 0.15 = $3000.",
+    "The total amount Mike will need to repay to the bank is the loan amount plus the interest: $20000 + $3000.",
+    "Calculating the total repayment amount: $20000 + $3000 = $23000.",
+    "Now, I calculate the total cost for Mike: the amount he pays out of his own pocket plus the total loan repayment.",
+    "Mike needs to pay $35000 for the car. He borrows $20000, so he pays the remaining $15000 out of his own money.",
+    "The total amount Mike needs to pay is his own contribution plus the total repayment to the bank: $15000 + $23000.",
+    "Calculating the total money Mike needs: $15000 + $23000 = $38000."
+  ],
+  "solution": "38000"
+}

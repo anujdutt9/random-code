@@ -1,0 +1,14 @@
+{
+  "query": "A bookseller sells 15 books in January, 16 in February and a certain number of books in March. If the average number of books he sold per month across all three months is 16, how many books did he sell in March?",
+  "steps": [
+    "I know the average number of books sold per month is 16.",
+    "The total number of books sold over the three months can be found by multiplying the average by 3 months.",
+    "16 books/month * 3 months = 48 books in total.",
+    "The bookseller sold 15 books in January and 16 books in February.",
+    "I need to find the total number of books sold in January and February.",
+    "15 books + 16 books = 31 books.",
+    "I will subtract the number of books sold in January and February from the total number of books sold to find how many were sold in March.",
+    "48 total books - 31 books (January and February) = 17 books."
+  ],
+  "solution": "17"
+}

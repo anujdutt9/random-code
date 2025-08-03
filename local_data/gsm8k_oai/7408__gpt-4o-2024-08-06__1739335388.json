@@ -1,0 +1,14 @@
+{
+  "query": "A storm dropped 5 inches of rain in the first thirty minutes.  In the next 30 minutes, the hurricane dropped half that amount of rain.  It then dropped 1/2 inch of rain for the next hour.  What was the average rainfall total for the duration of the storm?",
+  "steps": [
+    "The problem states that the storm dropped 5 inches of rain in the first thirty minutes.",
+    "In the next 30 minutes, it dropped half that amount of rain. Half of 5 inches is 2.5 inches.",
+    "So, in the first hour (which consists of two 30-minute periods), the total rain dropped is 5 + 2.5 = 7.5 inches.",
+    "The storm then dropped 0.5 inch of rain for the next hour.",
+    "Thus, in the second hour, the total rain dropped is 0.5 inch, since it consistently dropped this amount the whole hour.",
+    "Calculating the total rainfall for the entire duration: 7.5 inches (first hour) + 0.5 inches (second hour) = 8 inches.",
+    "The entire storm duration is 1 hour (first period of rain) + 1 hour (second period of rain) = 2 hours.",
+    "To find the average rainfall total, we divide the total rainfall by the total duration of the storm in hours. Thus, 8 inches / 2 hours = 4 inches per hour."
+  ],
+  "solution": "4"
+}

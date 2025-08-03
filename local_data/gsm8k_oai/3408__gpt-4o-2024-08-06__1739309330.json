@@ -1,0 +1,23 @@
+{
+  "query": "The price of electricity went up by 25%.  John's old computer used 800 watts and his new computer uses 50% more.  If the old price of electricity was 12 cents per kilowatt-hour, how much does his computer cost, in dollars, to run for 50 hours?",
+  "steps": [
+    "First, I need to find out how many watts John's new computer uses.",
+    "His old computer used 800 watts, and the new one uses 50% more.",
+    "To find 50% of 800 watts, I calculate 0.5 * 800 = 400 watts.",
+    "Adding that to the original 800 watts, the new computer uses 800 + 400 = 1200 watts.",
+    "Now, convert watts to kilowatts because the price is given per kilowatt-hour.",
+    "1200 watts is the same as 1.2 kilowatts (since 1 kilowatt = 1000 watts).",
+    "Next, I need to calculate the total energy usage in kilowatt-hours.",
+    "The computer runs for 50 hours, so it uses 1.2 kilowatts * 50 hours = 60 kilowatt-hours.",
+    "Now I need to find the new price of electricity after the 25% price increase.",
+    "The old price of electricity is 12 cents per kilowatt-hour.",
+    "An increase of 25% means the price goes up by 0.25 * 12 = 3 cents.",
+    "The new price per kilowatt-hour is 12 + 3 = 15 cents.",
+    "Now I calculate the total cost to run the computer for 50 hours at the new rate.",
+    "Total cost = 60 kilowatt-hours * 15 cents per kilowatt-hour.",
+    "Total cost = 900 cents.",
+    "To convert this cost into dollars, divide by 100 (since 1 dollar = 100 cents).",
+    "900 cents is 900 / 100 = 9 dollars."
+  ],
+  "solution": "9"
+}

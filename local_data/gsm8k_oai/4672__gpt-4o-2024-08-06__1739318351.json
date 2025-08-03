@@ -1,0 +1,19 @@
+{
+  "query": "Amanda charges $20.00 per hour to help clean out and organize a person's home.  She has 5 1.5 hours appointments on Monday, a 3-hours appointment on Tuesday and 2 2-hours appointments on Thursday.  On Saturday, she will spend 6 hours at one client's house.  How much money will she make this week?",
+  "steps": [
+    "First, I need to calculate the total number of hours Amanda works on each day.",
+    "On Monday, she has 5 appointments, each lasting 1.5 hours. Multiply 5 by 1.5 to find out the total hours for Monday.",
+    "5 multiplied by 1.5 equals 7.5 hours on Monday.",
+    "Next, on Tuesday, she has a 3-hour appointment. So, she works 3 hours on Tuesday.",
+    "On Thursday, she has 2 appointments, each lasting 2 hours. Multiply 2 by 2 to find the total hours for Thursday.",
+    "2 multiplied by 2 equals 4 hours on Thursday.",
+    "Finally, on Saturday, she spends 6 hours at one client's house. So, she works 6 hours on Saturday.",
+    "Now, I will add all the hours worked during the week: 7.5 (Monday) + 3 (Tuesday) + 4 (Thursday) + 6 (Saturday).",
+    "7.5 plus 3 equals 10.5.",
+    "10.5 plus 4 equals 14.5.",
+    "14.5 plus 6 equals 20.5 total hours worked for the week.",
+    "Amanda charges $20.00 per hour. Multiply the total number of hours (20.5) by her hourly rate ($20.00).",
+    "20.5 multiplied by 20 equals 410.0."
+  ],
+  "solution": "410"
+}

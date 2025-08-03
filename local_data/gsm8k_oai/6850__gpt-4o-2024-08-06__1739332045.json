@@ -1,0 +1,12 @@
+{
+  "query": "Dave breaks 2 guitar strings per night when playing live.  If he performs 6 shows a week for 12 weeks, how many guitar strings will he need to replace?",
+  "steps": [
+    "First, I need to determine the number of guitar strings Dave breaks per show. We know he breaks 2 guitar strings per show.",
+    "Next, I need to calculate the number of shows Dave performs per week. He performs 6 shows each week.",
+    "Now, I'll determine the total number of shows he performs over the course of 12 weeks. This is 6 shows per week times 12 weeks.",
+    "6 shows/week * 12 weeks = 72 shows.",
+    "Next, I need to find out how many guitar strings he breaks in total. Since he breaks 2 strings per show, I multiply the total number of shows (72) by the number of strings broken per show (2).",
+    "72 shows * 2 strings/show = 144 strings."
+  ],
+  "solution": "144"
+}

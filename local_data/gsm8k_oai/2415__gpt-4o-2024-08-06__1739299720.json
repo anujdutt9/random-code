@@ -1,0 +1,15 @@
+{
+  "query": "There were some snowflakes at first. It snowed an additional 4 snowflakes every 5 minutes. If there were 58 snowflakes after 1 hour, how many snowflakes were there at first?",
+  "steps": [
+    "First, I note that there are 60 minutes in an hour.",
+    "Since snowflakes are added every 5 minutes, I calculate how many 5-minute intervals are in 60 minutes.",
+    "60 minutes divided by 5 minutes per interval equals 12 intervals.",
+    "It snowed 4 additional snowflakes in each of these 12 intervals.",
+    "To find the total number of snowflakes added, I multiply 4 snowflakes per interval by 12 intervals.",
+    "4 snowflakes/interval * 12 intervals = 48 snowflakes added in total.",
+    "The problem states that there are 58 snowflakes after 1 hour.",
+    "To find the initial number of snowflakes, I subtract the 48 snowflakes added from the total 58 snowflakes.",
+    "58 total snowflakes - 48 snowflakes added = 10 initial snowflakes."
+  ],
+  "solution": "10"
+}

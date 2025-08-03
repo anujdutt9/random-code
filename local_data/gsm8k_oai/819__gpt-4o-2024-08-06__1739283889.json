@@ -1,0 +1,18 @@
+{
+  "query": "James decides to build a tin house by collecting 500 tins in a week. On the first day, he collects 50 tins. On the second day, he manages to collect 3 times that number. On the third day, he collects 50 tins fewer than the number he collected on the second day. If he collects an equal number of tins on the remaining days of the week, what's the number of tins he collected each day for the rest of the week?",
+  "steps": [
+    "James collects 50 tins on the first day.",
+    "On the second day, James collects 3 times the number he collected on the first day. So, he collects 3 * 50 = 150 tins on the second day.",
+    "On the third day, he collects 50 tins fewer than what he collected on the second day. So, he collects 150 - 50 = 100 tins on the third day.",
+    "Total tins collected in the first three days = 50 + 150 + 100 = 300 tins.",
+    "James needs to collect a total of 500 tins in a week (7 days).",
+    "Remaining tins he needs to collect = 500 - 300 = 200 tins.",
+    "The remaining number of days in the week is 7 - 3 = 4 days.",
+    "James collects an equal number of tins each day for the rest of the week.",
+    "Let the number of tins he collects each remaining day be x.",
+    "The number of tins collected across the remaining 4 days is 4x.",
+    "Set up the equation: 4x = 200.",
+    "Solve for x: x = 200 / 4 = 50."
+  ],
+  "solution": "50"
+}

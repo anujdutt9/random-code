@@ -1,0 +1,14 @@
+{
+  "query": "On the night of the dance, 400 students show up to the party. 70% of the students who showed up were invited. If 40% of those invited to the party had their invitation revoked and were not allowed into the party, how many invited students attended the party?",
+  "steps": [
+    "First, I need to determine how many students who showed up were invited. This is given as 70% of 400 students.",
+    "I calculate 70% of 400. \n70/100 * 400 = 280.",
+    "280 students were invited to the party.",
+    "Next, I need to calculate how many invited students had their invitation revoked. This is stated as 40% of those invited.",
+    "I calculate 40% of 280.\n40/100 * 280 = 112.",
+    "112 students had their invitations revoked and were not allowed into the party.",
+    "Therefore, I need to find out how many invited students actually attended the party.",
+    "I subtract the number of students who had their invitations revoked from the total number of invited students.\n280 - 112 = 168."
+  ],
+  "solution": "168"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "A single kabob stick has 4 cubes of beef. A slab of beef that costs $25 can be cut into 80 cubes. How much must Simon spend to make 40 kabob sticks?",
+  "steps": [
+    "First, I need to determine how many cubes of beef are needed for one kabob stick.",
+    "Each kabob stick requires 4 cubes of beef.",
+    "Next, I need to calculate the total number of cubes of beef needed for 40 kabob sticks.",
+    "The number of cubes needed is 40 sticks * 4 cubes per stick = 160 cubes.",
+    "I know that one slab of beef can be cut into 80 cubes.",
+    "I need to determine how many slabs of beef are needed to get at least 160 cubes.",
+    "To get the number of slabs needed, divide the total cubes required by the number of cubes per slab: 160 cubes / 80 cubes per slab = 2 slabs.",
+    "Now, I calculate the total cost to purchase these slabs of beef.",
+    "Each slab costs $25, so the cost for 2 slabs is 2 slabs * $25 per slab = $50."
+  ],
+  "solution": "50"
+}

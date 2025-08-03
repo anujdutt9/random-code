@@ -1,0 +1,19 @@
+{
+  "query": "Gnuff charges a flat rate of $20 per tutoring session plus $7 per minute. The total amount paid for Gnuff for tutoring for one session is $146. How many minutes did Gnuff tutor for?",
+  "steps": [
+    "I need to determine the number of minutes Gnuff tutored.",
+    "Let's start by identifying the components of the total cost.",
+    "Gnuff charges a flat rate of $20 per session.",
+    "In addition, Gnuff charges $7 per minute.",
+    "The total amount paid for the session is $146.",
+    "The equation representing the total cost is: $20 + ($7 \\times \\text{minutes}) = $146.",
+    "Subtract the flat rate from the total amount: $146 - $20 = $126.",
+    "Now, the remaining $126 is the amount charged based on the number of minutes tutored.",
+    "I set up the equation: $7 \\times \\text{minutes} = $126.",
+    "To find the number of minutes, divide $126 by $7.",
+    "$126 \\div $7 = 18.",
+    "Double-check the calculation: $7 \\times 18 = $126.",
+    "Adding the flat rate back: $20 + $126 = $146 confirms the total."
+  ],
+  "solution": "18"
+}

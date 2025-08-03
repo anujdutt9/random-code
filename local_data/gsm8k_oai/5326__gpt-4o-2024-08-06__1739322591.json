@@ -1,0 +1,18 @@
+{
+  "query": "Colin ran his first mile in 6 minutes.  He ran his next two miles in 5 minutes each and finished his 4th mile in 4 minutes.  What was the average time it took him to run a mile?",
+  "steps": [
+    "First, I need to know the total distance that Colin ran.",
+    "Colin ran 4 miles in total.",
+    "Next, I will find out how long it took him to run these 4 miles.",
+    "Colin ran the first mile in 6 minutes.",
+    "He ran the next two miles in 5 minutes each, which totals to 10 minutes for these 2 miles (5 minutes + 5 minutes).",
+    "He finished the last mile, the 4th mile, in 4 minutes.",
+    "Now I will add up all the times: 6 minutes for the first mile + 10 minutes for the next two miles + 4 minutes for the last mile.",
+    "6 + 10 + 4 equals 20 minutes.",
+    "Colin took a total of 20 minutes to run 4 miles.",
+    "Now, I will calculate the average time per mile.",
+    "To find the average time per mile, I will divide the total time by the total number of miles.",
+    "20 minutes divided by 4 miles equals 5 minutes per mile."
+  ],
+  "solution": "5"
+}

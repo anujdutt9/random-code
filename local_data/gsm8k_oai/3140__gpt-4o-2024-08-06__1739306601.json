@@ -1,0 +1,18 @@
+{
+  "query": "There are 10 rows of 15 chairs set up for the award ceremony. The first row is reserved for the awardees while the second and third rows are for the administrators and teachers. The last two rows are then reserved for the parents and the rest of the rows are for the students. If only 4/5 of the seats reserved for the students are occupied, how many vacant seats from the students can be given to the parents?",
+  "steps": [
+    "First, I need to determine how many total chairs are there.",
+    "I multiply the number of rows by the number of chairs per row: 10 rows * 15 chairs/row = 150 chairs in total.",
+    "Now, I need to account for each group's reserved rows of chairs. The awardees have the first row.",
+    "The administrators and teachers have the second and third rows.",
+    "Therefore, awardees, administrators, and teachers occupy the first 3 rows: 3 rows * 15 chairs/row = 45 chairs.",
+    "The last two rows are reserved for the parents: 2 rows * 15 chairs/row = 30 chairs.",
+    "This leaves the remaining chairs for the students: 150 total chairs - 45 chairs (awardees, administrators, teachers) - 30 chairs (parents) = 75 chairs for students.",
+    "Now I need to calculate how many of the student chairs are occupied.",
+    "According to the problem, only 4/5 of the seats reserved for students are occupied.",
+    "I calculate the occupied student chairs: (4/5) * 75 = 60 chairs occupied.",
+    "Next, I find the number of vacant student seats by subtracting the occupied chairs from the total student seats.",
+    "75 student chairs - 60 occupied chairs = 15 vacant student chairs."
+  ],
+  "solution": "15"
+}

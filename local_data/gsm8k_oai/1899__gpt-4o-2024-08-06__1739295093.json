@@ -1,0 +1,20 @@
+{
+  "query": "At the new store, there are 3 times as many grape candies as cherry candies, and 2 times as many apple candies as grape candies. All the candies cost $2.50 each. If the total cost of the candies is $200, how many grape candies does the store have?",
+  "steps": [
+    "Define variables: Let \\( c \\) be the number of cherry candies, \\( g \\) be the number of grape candies, and \\( a \\) be the number of apple candies.",
+    "Write the relationship between grape and cherry candies: \\( g = 3c \\).",
+    "Write the relationship between apple and grape candies: \\( a = 2g \\).",
+    "Write the equation for the total cost. Since each candy costs $2.50, the equation is \\( 2.5(c + g + a) = 200 \\).",
+    "Solve for the number of candies in terms of cherry candies \\( c \\).",
+    "Replace \\( g \\) in the cost equation: \\( g = 3c \\). So, the equation becomes \\( 2.5(c + 3c + a) = 200 \\).",
+    "Replace \\( a \\) with \\( a = 2g = 2(3c) = 6c \\).",
+    "Substitute \\( a = 6c \\) in the total cost equation: \\( 2.5(c + 3c + 6c) = 200 \\).",
+    "Combine like terms: \\( 2.5(10c) = 200 \\).",
+    "Simplify the equation: \\( 25c = 200 \\).",
+    "Solve for \\( c \\): \\( c = \\frac{200}{25} \\).",
+    "Calculate \\( c \\): \\( c = 8 \\).",
+    "Find the number of grape candies using \\( g = 3c \\): \\( g = 3 \\times 8 \\).",
+    "Calculate \\( g \\): \\( g = 24 \\)."
+  ],
+  "solution": "24"
+}

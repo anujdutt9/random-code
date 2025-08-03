@@ -1,0 +1,13 @@
+{
+  "query": "Mary has 400 sheep on her farm. She gave a quarter of her sheep to her sister, and half of the remaining sheep to her brother. How many sheep remain with Mary?",
+  "steps": [
+    "Mary starts with 400 sheep.",
+    "She gives a quarter of her sheep to her sister.",
+    "A quarter of 400 sheep is 400 / 4 = 100 sheep.",
+    "After giving 100 sheep to her sister, Mary has 400 - 100 = 300 sheep left.",
+    "Mary gives half of the remaining sheep to her brother.",
+    "Half of 300 sheep is 300 / 2 = 150 sheep.",
+    "After giving 150 sheep to her brother, Mary has 300 - 150 = 150 sheep left."
+  ],
+  "solution": "150"
+}

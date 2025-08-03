@@ -1,0 +1,12 @@
+{
+  "query": "In Sam's collection, there are ten more black pens than blue pens and twice as many blue pens as pencils. There are also eight pencils and two fewer red pens than pencils. How many pens in all are there in Sam's collection?",
+  "steps": [
+    "Let's start with the number of pencils, which is given as 8.",
+    "Sam has two fewer red pens than the number of pencils. Since there are 8 pencils, the number of red pens is 8 - 2 = 6.",
+    "There are twice as many blue pens as pencils. With 8 pencils, the calculation for blue pens is 8 * 2 = 16.",
+    "There are ten more black pens than blue pens. With 16 blue pens, the number of black pens is 16 + 10 = 26.",
+    "Now, let's add all the pens: blue pens, black pens, and red pens. We have 16 blue pens, 26 black pens, and 6 red pens.",
+    "Calculate the total number of pens by adding these quantities: 16 (blue pens) + 26 (black pens) + 6 (red pens) = 48."
+  ],
+  "solution": "48"
+}

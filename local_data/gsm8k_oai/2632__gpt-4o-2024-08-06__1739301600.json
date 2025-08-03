@@ -1,0 +1,19 @@
+{
+  "query": "The swimming club went to a swim meet in another town. They took 2 cars and 3 vans. There were 5 people in each car and 3 people in each van. Each car can hold a maximum of 6 people and each van can hold a maximum of 8 people.  How many more people could have ridden with the swim team?",
+  "steps": [
+    "First, I need to determine the current number of people in the cars and vans.",
+    "Each car has 5 people, and there are 2 cars.",
+    "The total number of people in cars is 2 cars * 5 people/car = 10 people.",
+    "Each van has 3 people, and there are 3 vans.",
+    "The total number of people in vans is 3 vans * 3 people/van = 9 people.",
+    "Next, I calculate the total number of people that went on the trip.",
+    "The total number of people is 10 people in cars + 9 people in vans = 19 people.",
+    "Now, I need to calculate the potential maximum number of people who could have ridden in the vehicles.",
+    "Each car can hold a maximum of 6 people, so 2 cars can hold 2 * 6 = 12 people.",
+    "Each van can hold a maximum of 8 people, so 3 vans can hold 3 * 8 = 24 people.",
+    "The maximum number of people who could have ridden in the cars and vans is 12 people in cars + 24 people in vans = 36 people.",
+    "I find the difference between the potential maximum number of people and the actual number of people who went on the trip.",
+    "The difference is 36 maximum people - 19 actual people = 17 people."
+  ],
+  "solution": "17"
+}

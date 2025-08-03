@@ -1,0 +1,23 @@
+{
+  "query": "For homework, Brooke has 15 math problems, 6 social studies problems, and 10 science problems. He can answer each math problem for 2 minutes while answering each social studies problem takes him 30 seconds. If he can answer each science problem in 1.5 minutes, how long will it take Brooke to answer all his homework?",
+  "steps": [
+    "First, I need to determine the time it takes to complete the math problems.",
+    "There are 15 math problems.",
+    "Each math problem takes 2 minutes to solve.",
+    "The total time for the math problems is 15 problems * 2 minutes/problem = 30 minutes.",
+    "Next, I need to determine the time it takes to complete the social studies problems.",
+    "There are 6 social studies problems.",
+    "Each social studies problem takes 30 seconds to solve.",
+    "Convert 30 seconds to minutes: 30 seconds = 0.5 minutes.",
+    "The total time for the social studies problems is 6 problems * 0.5 minutes/problem = 3 minutes.",
+    "Next, I need to determine the time it takes to complete the science problems.",
+    "There are 10 science problems.",
+    "Each science problem takes 1.5 minutes to solve.",
+    "The total time for the science problems is 10 problems * 1.5 minutes/problem = 15 minutes.",
+    "Finally, I need to add up all the time spent on each subject to find the total time Brooke spends on his homework.",
+    "Math time: 30 minutes, social studies time: 3 minutes, science time: 15 minutes.",
+    "The total time is 30 minutes + 3 minutes + 15 minutes.",
+    "30 + 3 = 33, and 33 + 15 = 48."
+  ],
+  "solution": "48"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "Jackson spends 9 hours playing video games and 1/3 that much time studying. If Jackson's grade starts at 0 points and increases by 15 points for every hour he spends studying, what is his grade?",
+  "steps": [
+    "Jackson spends 9 hours playing video games.",
+    "He studies for 1/3 of that time. 1/3 of 9 hours is calculated as follows: 9 hours * 1/3 = 3 hours.",
+    "Jackson studies for 3 hours.",
+    "For every hour he studies, his grade increases by 15 points.",
+    "To find the total increase in his grade, multiply the number of study hours by the points per hour: 3 hours * 15 points/hour = 45 points.",
+    "Jackson's grade increases by 45 points.",
+    "He starts with 0 points.",
+    "Add the points from studying to his starting grade: 0 points + 45 points = 45 points."
+  ],
+  "solution": "45"
+}

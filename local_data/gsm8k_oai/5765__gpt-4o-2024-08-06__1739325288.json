@@ -1,0 +1,20 @@
+{
+  "query": "Lily got a new puppy for her birthday.  She was responsible for feeding the puppy 1/4 cup of food three times a day for two weeks starting tomorrow.  For the following 2 weeks, Lily will feed him 1/2 cup of food twice a day.  She has fed him 1/2 cup of food today.  Including today, how much food will the puppy eat over the next 4 weeks?",
+  "steps": [
+    "First, calculate the food consumed for the first time frame: 1/4 cup three times a day.",
+    "1/4 cup times 3 equals 3/4 cup per day.",
+    "Determine the number of days for this feeding schedule: 2 weeks equals 14 days.",
+    "Calculate the total feed for the first two weeks: 3/4 cup per day times 14 days.",
+    "3/4 times 14 equals 10.5 cups for the first two weeks.",
+    "Next, calculate the feeding schedule for the second time frame: 1/2 cup twice a day.",
+    "1/2 cup times 2 equals 1 cup per day.",
+    "Determine the number of days for this second time frame: another 2 weeks equals 14 days.",
+    "Calculate the total feed for the second two weeks: 1 cup per day times 14 days.",
+    "1 times 14 equals 14 cups for the second two weeks.",
+    "Add both amounts together to find the total over all four weeks: 10.5 cups plus 14 cups.",
+    "10.5 plus 14 equals 24.5 cups for the four weeks.",
+    "Include the amount fed today, which is 1/2 cup.",
+    "24.5 cups plus 0.5 cup equals 25 cups."
+  ],
+  "solution": "25"
+}

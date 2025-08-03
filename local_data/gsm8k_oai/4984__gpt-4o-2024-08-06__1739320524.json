@@ -1,0 +1,16 @@
+{
+  "query": "Bill and Joan both work for a library. 5 years ago, Joan had 3 times as much experience as Bill. Now she has twice as much experience as Bill. How many years of experience does Bill have now?",
+  "steps": [
+    "Let's define the variables: let B represent the number of years of experience Bill has now, and J represent the number of years of experience Joan has now.",
+    "According to the problem, 5 years ago Joan had 3 times as much experience as Bill. So we can write the equation: J - 5 = 3(B - 5).",
+    "Additionally, the problem states that now Joan has twice as much experience as Bill. This can be written as: J = 2B.",
+    "Now we have two equations:\n1. J - 5 = 3(B - 5)\n2. J = 2B",
+    "Let's substitute equation 2 into equation 1. Replace J in the first equation with 2B: 2B - 5 = 3(B - 5).",
+    "Expanding the equation 3(B - 5) gives: 3B - 15.",
+    "So the equation becomes: 2B - 5 = 3B - 15.",
+    "Let's solve for B. Subtract 2B from both sides to get: -5 = B - 15.",
+    "Add 15 to both sides to find B: 10 = B.",
+    "Therefore, Bill currently has 10 years of experience."
+  ],
+  "solution": "10"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "For the funfair, the school organizers ordered 30 rolls of tickets. Each roll of tickets has 100 tickets. The 4th graders bought 30% of the tickets while the 5th graders bought 50% of the remaining tickets. Then the 6th graders bought a total of 100 tickets. How many tickets were left unsold?",
+  "steps": [
+    "First, I need to calculate the total number of tickets.",
+    "Each roll has 100 tickets, and there are 30 rolls. So, 30 rolls * 100 tickets = 3000 tickets.",
+    "The 4th graders bought 30% of these tickets.",
+    "30% of 3000 is calculated as 0.30 * 3000 = 900 tickets.",
+    "Next, I need to figure out how many tickets are remaining after the 4th graders' purchase.",
+    "3000 total tickets - 900 tickets bought by 4th graders = 2100 tickets remaining.",
+    "Now, the 5th graders bought 50% of the remaining tickets.",
+    "50% of 2100 is calculated as 0.50 * 2100 = 1050 tickets.",
+    "To find out how many tickets are left after the 5th graders' purchase, I subtract the tickets the 5th graders bought from the remaining tickets.",
+    "2100 remaining tickets - 1050 tickets bought by 5th graders = 1050 tickets remaining.",
+    "Finally, the 6th graders bought a total of 100 tickets.",
+    "To find the final number of unsold tickets, I subtract the tickets bought by the 6th graders from the remaining tickets.",
+    "1050 remaining tickets - 100 tickets bought by 6th graders = 950 tickets unsold."
+  ],
+  "solution": "950"
+}

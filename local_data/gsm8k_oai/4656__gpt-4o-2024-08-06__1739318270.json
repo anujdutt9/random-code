@@ -1,0 +1,15 @@
+{
+  "query": "Mary bought 14 apples, 9 oranges, and 6 blueberries. Mary ate 1 of each. How many fruits in total does she have left?",
+  "steps": [
+    "Mary initially bought 14 apples.",
+    "Mary ate 1 apple, so she has 14 - 1 = 13 apples left.",
+    "Mary initially bought 9 oranges.",
+    "Mary ate 1 orange, so she has 9 - 1 = 8 oranges left.",
+    "Mary initially bought 6 blueberries.",
+    "Mary ate 1 blueberry, so she has 6 - 1 = 5 blueberries left.",
+    "Now I need to add the numbers of each type of fruit left to find the total.",
+    "Mary has 13 apples, 8 oranges, and 5 blueberries left.",
+    "Adding these numbers gives 13 + 8 + 5 = 26."
+  ],
+  "solution": "26"
+}

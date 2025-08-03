@@ -1,0 +1,15 @@
+{
+  "query": "Susy goes to a large school with 800 students, while Sarah goes to a smaller school with only 300 students.  At the start of the school year, Susy had 100 social media followers.  She gained 40 new followers in the first week of the school year, half that in the second week, and half of that in the third week.  Sarah only had 50 social media followers at the start of the year, but she gained 90 new followers the first week, a third of that in the second week, and a third of that in the third week.  After three weeks, how many social media followers did the girl with the most total followers have?",
+  "steps": [
+    "Susy started with 100 social media followers.",
+    "She gained 40 new followers in the first week: 100 + 40 = 140 followers.",
+    "In the second week, she gained half of 40, which is 20 new followers: 140 + 20 = 160 followers.",
+    "In the third week, she gained half of 20, which is 10 new followers: 160 + 10 = 170 followers.",
+    "Sarah started with 50 social media followers.",
+    "She gained 90 new followers in the first week: 50 + 90 = 140 followers.",
+    "In the second week, she gained one-third of 90, which is 30 new followers: 140 + 30 = 170 followers.",
+    "In the third week, she gained one-third of 30, which is 10 new followers: 170 + 10 = 180 followers.",
+    "Now, I will compare the total number of followers: Susy has 170 followers and Sarah has 180 followers."
+  ],
+  "solution": "180"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Jason drives past 3 convenience stores on his way to work. The distance between the first store and the second store is 6 miles. The distance between the second store and third store is 2/3rds longer than the distance between the first two stores. The distance from his house to the first store and the last store to work is the same, 4 miles. How long in miles is Jason's commute to work?",
+  "steps": [
+    "First, identify the distances involved in Jason's commute.",
+    "The distance from Jason's house to the first convenience store is 4 miles.",
+    "The distance between the first and second store is given as 6 miles.",
+    "The distance between the second and third store is 2/3rds longer than the distance between the first and second store.",
+    "Calculate 2/3rds of 6 miles: (2/3) * 6 = 4 miles.",
+    "Therefore, the distance between the second and third store is 6 + 4 = 10 miles.",
+    "The distance from the third store to his workplace is the same as from his house to the first store, which is 4 miles.",
+    "Add up all of the distances: 4 miles (house to first store) + 6 miles (first to second store) + 10 miles (second to third store) + 4 miles (third store to work).",
+    "Summing them gives: 4 + 6 + 10 + 4 = 24 miles."
+  ],
+  "solution": "24"
+}

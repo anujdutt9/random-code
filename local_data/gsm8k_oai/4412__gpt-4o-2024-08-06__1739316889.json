@@ -1,0 +1,13 @@
+{
+  "query": "Mrs. Young buys a 300 piece puzzle set for her three sons.  She divides the pieces evenly to the three boys.  Reyn can place 25 pieces into the puzzle picture.  Rhys places twice as much as Reyn.  Rory places three times as much as Reyn. Altogether, how many puzzle pieces are still left to be placed?",
+  "steps": [
+    "First, I need to determine how many pieces each boy gets. Mrs. Young has a 300 piece puzzle set, and she divides these pieces among her three sons evenly.",
+    "To find out how many pieces each son receives, I divide 300 by 3, which is 300 / 3 = 100 pieces per son.",
+    "Next, I need to calculate how many pieces each son places into the puzzle.  Reyn places 25 pieces.",
+    "Rhys places twice as much as Reyn. Since Reyn places 25 pieces, Rhys places 2 * 25 = 50 pieces.",
+    "Rory places three times as much as Reyn. Thus, Rory places 3 * 25 = 75 pieces.",
+    "Now, I will determine the total number of pieces placed by all the boys combined. I sum up the pieces placed by Reyn, Rhys, and Rory, which is 25 + 50 + 75 = 150 pieces.",
+    "Finally, I calculate how many pieces are still left to be placed. The total pieces equals 300, and 150 have already been placed. Therefore, the remaining pieces that have not been placed are 300 - 150 = 150 pieces."
+  ],
+  "solution": "150"
+}

@@ -1,0 +1,26 @@
+{
+  "query": "The water pressure of a sink has a steady flow of 2 cups per 10 minutes for the first 30 minutes. It still flows at 2 cups per 10 minutes for the next 30 minutes after. For the next hour, the water pressure maximizes to 4 cups per 10 minutes and stops. Shawn now has to dump half of the water away. How much water is left?",
+  "steps": [
+    "First, let's find out how much water is collected in the first 30 minutes.",
+    "The flow rate is 2 cups per 10 minutes.",
+    "In the first 30 minutes, there are three 10-minute intervals.",
+    "In each 10-minute interval, 2 cups of water are collected.",
+    "So in the first 30 minutes, a total of 2 cups * 3 intervals = 6 cups of water is collected.",
+    "Now, let's determine how much water is collected in the next 30 minutes.",
+    "The flow rate remains 2 cups per 10 minutes.",
+    "Again, there are three 10-minute intervals in these 30 minutes.",
+    "So in these 30 minutes, 2 cups * 3 intervals = 6 cups of water is collected.",
+    "Now, let's calculate the total water collected in the first hour, which is 30 minutes + 30 minutes = 60 minutes.",
+    "The total water collected in the first hour is 6 cups + 6 cups = 12 cups.",
+    "Next, let's find out how much water is collected in the next hour when the flow rate is 4 cups per 10 minutes.",
+    "For the next hour (60 minutes), the flow rate is 4 cups per 10 minutes.",
+    "In 60 minutes, there are six 10-minute intervals.",
+    "So, in these 60 minutes, 4 cups * 6 intervals = 24 cups of water is collected.",
+    "Now, let's calculate the total amount of water collected over the entire period of 2 hours.",
+    "The total water collected over 2 hours is 12 cups (first hour) + 24 cups (second hour) = 36 cups.",
+    "Shawn now has to dump half of the water away.",
+    "Half of 36 cups is 36 / 2 = 18 cups.",
+    "Therefore, after dumping half of the water, 18 cups of water remain."
+  ],
+  "solution": "18"
+}

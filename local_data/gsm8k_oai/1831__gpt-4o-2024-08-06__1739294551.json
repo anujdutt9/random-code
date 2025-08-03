@@ -1,0 +1,17 @@
+{
+  "query": "A store ordered 300 more than twice as many pens as it did pencils at $5 each. If the cost of a pencil was $4, and the store ordered 15 boxes, each having 80 pencils, calculate the total amount of money they paid for the stationery.",
+  "steps": [
+    "First, determine how many pencils were ordered. The store ordered 15 boxes, and each box contains 80 pencils.",
+    "Calculate the total number of pencils: 15 boxes * 80 pencils per box = 1200 pencils.",
+    "Now, let's calculate how many pens were ordered. The store ordered 300 more than twice as many pens as pencils.",
+    "First, calculate twice as many pencils: 2 * 1200 = 2400.",
+    "Add 300 to this number to find the number of pens: 2400 + 300 = 2700 pens.",
+    "Calculate the total cost of the pencils. Each pencil costs $4.",
+    "The total cost of pencils is: 1200 pencils * $4 = $4800.",
+    "Next, calculate the total cost of the pens. Each pen costs $5.",
+    "The total cost of pens is: 2700 pens * $5 = $13500.",
+    "Finally, find the total amount of money the store paid for all the stationery by adding the cost of pencils and pens together.",
+    "$4800 (pencils) + $13500 (pens) = $18300."
+  ],
+  "solution": "18300"
+}

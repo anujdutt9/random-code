@@ -1,0 +1,14 @@
+{
+  "query": "An office has 90 workers. 2/3rds of them are men and the rest are women. The company hires 10 new employees and 100% of them are women. What is the total percentage of women in the company now?",
+  "steps": [
+    "The office initially has 90 workers.",
+    "2/3 of the workers are men.",
+    "Calculate the number of men: 2/3 * 90 = 60 men.",
+    "The rest are women, so there are 90 - 60 = 30 women in the office initially.",
+    "The company hires 10 new employees, all of whom are women.",
+    "Add these 10 women to the initial 30 women: 30 + 10 = 40 women.",
+    "The total number of workers in the office after hiring is 90 + 10 = 100.",
+    "To find the percentage of women, divide the number of women by the total number of employees and then multiply by 100: (40/100) * 100 = 40%."
+  ],
+  "solution": "40"
+}

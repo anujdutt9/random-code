@@ -1,0 +1,17 @@
+{
+  "query": "Jackson collects 45 hermit crabs, 3 spiral shells per hermit crab, and 2 starfish per spiral shell. How many souvenirs does he collect total?",
+  "steps": [
+    "First, I need to calculate how many spiral shells Jackson has.",
+    "He has 45 hermit crabs, and each hermit crab has 3 spiral shells.",
+    "To find the total number of spiral shells, I multiply the number of hermit crabs by the number of spiral shells per hermit crab: 45 hermit crabs * 3 spiral shells = 135 spiral shells.",
+    "Next, I need to figure out how many starfish Jackson collects.",
+    "He collects 2 starfish per spiral shell.",
+    "To find the total number of starfish, I multiply the number of spiral shells by the number of starfish per spiral shell: 135 spiral shells * 2 starfish = 270 starfish.",
+    "Now, I add the number of hermit crabs, spiral shells, and starfish to get the total number of souvenirs.",
+    "Jackson has 45 hermit crabs, 135 spiral shells, and 270 starfish.",
+    "The total number of souvenirs is the sum: 45 + 135 + 270.",
+    "Adding these numbers, I get 45 + 135 = 180.",
+    "Now, add the starfish: 180 + 270 = 450."
+  ],
+  "solution": "450"
+}

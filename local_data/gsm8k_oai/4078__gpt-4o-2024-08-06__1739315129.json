@@ -1,0 +1,15 @@
+{
+  "query": "At the beginning of an academic year, there were 15 boys in a class and the number of girls was 20% greater. Later in the year, transfer students were admitted such that the number of girls doubled but the number of boys remained the same. How many students are in the class now?",
+  "steps": [
+    "Initially, there are 15 boys in the class.",
+    "The number of girls is 20% greater than the number of boys.",
+    "20% of 15 (the number of boys) is 15 * 0.20 = 3.",
+    "Thus, the initial number of girls is 15 + 3 = 18.",
+    "Later in the year, the number of girls doubles due to transfer students.",
+    "So, the new number of girls is 18 * 2 = 36.",
+    "The number of boys remains the same, which is 15.",
+    "Now, the total number of students in the class is the sum of the number of boys and the new number of girls.",
+    "Adding them gives us 15 (boys) + 36 (girls) = 51 students in the class."
+  ],
+  "solution": "51"
+}

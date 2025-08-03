@@ -1,0 +1,20 @@
+{
+  "query": "Quinton brought 40 cupcakes to school on his birthday. He gave a cupcake to each of the 18 students in Ms. Delmont's class. He also gave a cupcake to each of the 16 students in Mrs. Donnelly's class. He also gave a cupcake to Ms. Delmont, Mrs. Donnelly, the school nurse, and the school principal. How many cupcakes did he have left over?",
+  "steps": [
+    "Quinton brought 40 cupcakes to school.",
+    "He gave 1 cupcake to each of the 18 students in Ms. Delmont's class.",
+    "He gave away 18 cupcakes to Ms. Delmont's class.",
+    "He gave 1 cupcake to each of the 16 students in Mrs. Donnelly's class.",
+    "He gave away 16 cupcakes to Mrs. Donnelly's class.",
+    "He also gave a cupcake to Ms. Delmont, Mrs. Donnelly, the school nurse, and the school principal.",
+    "This means he gave away 1 cupcake to each of those 4 additional people.",
+    "In total, he gave 4 cupcakes to Ms. Delmont, Mrs. Donnelly, the school nurse, and the school principal.",
+    "The total number of cupcakes given away is 18 (Ms. Delmont's class) + 16 (Mrs. Donnelly's class) + 4 (teachers, nurse, principal).",
+    "18 + 16 + 4 = 38 cupcakes given away.",
+    "Originally, Quinton had 40 cupcakes.",
+    "He gave away 38 cupcakes.",
+    "To find out how many cupcakes he had left, subtract the cupcakes given away from the total he brought.",
+    "40 - 38 = 2 cupcakes left over."
+  ],
+  "solution": "2"
+}

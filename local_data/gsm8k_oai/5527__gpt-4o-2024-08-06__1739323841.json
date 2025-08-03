@@ -1,0 +1,15 @@
+{
+  "query": "Walter fell from the eighth platform of some scaffolding and fell past David after falling 4 meters. If he fell for an additional three more times that depth before hitting the ground, and the platforms are evenly spaced out in height, what platform was David on?",
+  "steps": [
+    "First, Walter fell 4 meters past David.",
+    "After falling those 4 meters, Walter fell an additional three times that depth before hitting the ground.",
+    "Three times 4 meters is 12 meters, so Walter fell an additional 12 meters.",
+    "If we add the initial 4 meters to the additional 12 meters, Walter fell a total of 16 meters from the eighth platform to the ground.",
+    "Since the platforms are evenly spaced, the total fall of 16 meters includes the distance from the second platform to the ground.",
+    "To find out from which platform David was passed, we determine how many platforms fit within the 16-meter fall.",
+    "Assuming each platform is separated by 2 meters, since Walter falls from the 8th platform, passes one platform (4 meters past David), and the remaining distance down is a multiple of 3 (each distance reflecting another platform), it should fit the measurement of the remaining length.",
+    "To verify assuming each platform is separated by 2 meters: when Walter falls 4 meters, he falls past 2 platforms, and has 3 additional 4-meter falls, which immerse 3 platforms for 12 meters (3 platforms further down).",
+    "So, if Walter fell past David after 4 meters, it means David must have been standing on the sixth platform because there are two platforms between where he fell past David and where Walter started his fall."
+  ],
+  "solution": "6"
+}

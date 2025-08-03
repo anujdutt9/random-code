@@ -1,0 +1,15 @@
+{
+  "query": "Emily spent X dollars on Friday, twice that amount on Saturday, and then three times X on Sunday. Over the three days, she spent $120. What is the value of X, in dollars?",
+  "steps": [
+    "Emily spent X dollars on Friday.",
+    "She spent twice that amount, 2X, on Saturday.",
+    "On Sunday, she spent three times X, which is 3X.",
+    "The total amount she spent over the three days is $120.",
+    "The expression for the total amount spent is: X + 2X + 3X",
+    "Simplify the expression: X + 2X + 3X = 6X",
+    "The equation is 6X = $120.",
+    "To find X, I need to divide both sides of the equation by 6.",
+    "$120 divided by 6 is 20."
+  ],
+  "solution": "20"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "Allison, a YouTuber, uploads 10 one-hour videos of food reviews each day to her channel. She uploaded videos halfway through June,  at that pace,  and then doubled the number of video hours she uploaded on the remaining days. What's the total number of video hours she has uploaded at the end of the month?",
+  "steps": [
+    "First, I need to determine how many days Allison uploaded videos in June. June has 30 days, so uploading halfway through means she uploaded for 15 days.",
+    "During the first 15 days, she uploads 10 one-hour videos each day. So for these 15 days, she uploads 10 x 15 = 150 hours of videos.",
+    "For the remaining days of the month, the task states she doubled her number of video hours. There are 15 days left in the month after the halfway point.",
+    "Doubling her original pace means she now uploads 20 one-hour videos each day.",
+    "For the remaining 15 days, she uploads 20 x 15 = 300 hours of videos.",
+    "To find the total number of video hours uploaded at the end of the month, add the video hours from the first half of the month and the second half of the month.",
+    "Total video hours = 150 (first half) + 300 (second half) = 450 hours."
+  ],
+  "solution": "450"
+}

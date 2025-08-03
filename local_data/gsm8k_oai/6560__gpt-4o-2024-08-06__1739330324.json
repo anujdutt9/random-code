@@ -1,0 +1,18 @@
+{
+  "query": "Three friends ate a total of 8 pounds of fruit. Mario had 8 ounces of oranges, while Lydia ate 24 ounces of apples. Nicolai ate peaches. How many pounds of peaches did Nicolai eat?",
+  "steps": [
+    "First, I need to determine the total weight of fruit eaten by Mario and Lydia.",
+    "Mario ate 8 ounces of oranges.",
+    "Lydia ate 24 ounces of apples.",
+    "I need to convert these weights into pounds because the question asks for the weight in pounds.",
+    "There are 16 ounces in a pound. So, I will convert Mario's and Lydia's fruit weights from ounces to pounds.",
+    "Mario's fruit: 8 ounces = 8 / 16 = 0.5 pounds.",
+    "Lydia's fruit: 24 ounces = 24 / 16 = 1.5 pounds.",
+    "Now, I will add the weights of the fruit Mario and Lydia ate.",
+    "Total weight of fruit Mario and Lydia ate = 0.5 pounds + 1.5 pounds = 2 pounds.",
+    "The total weight of all the fruit eaten by the friends is 8 pounds.",
+    "To find how many pounds of peaches Nicolai ate, I will subtract the total weight Mario and Lydia ate from the total weight.",
+    "Total weight of peaches eaten by Nicolai = 8 pounds - 2 pounds = 6 pounds."
+  ],
+  "solution": "6"
+}

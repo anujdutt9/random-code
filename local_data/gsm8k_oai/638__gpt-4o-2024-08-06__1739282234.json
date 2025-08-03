@@ -1,0 +1,33 @@
+{
+  "query": "James buys 200 lotto tickets for 2 dollars each.  Of those tickets 20% are winners.  80% of the winners are for 5 dollars. 1 ticket is the grand prize of $5,000.  The other tickets win an average of $10.  How much did he profit?",
+  "steps": [
+    "James buys 200 lotto tickets.",
+    "Each ticket costs $2.",
+    "To find the total amount spent, multiply the number of tickets by the cost per ticket.",
+    "200 tickets * $2 per ticket = $400",
+    "James spent $400 on lotto tickets.",
+    "20% of the 200 tickets are winners.",
+    "To find the number of winning tickets, calculate 20% of 200.",
+    "20% of 200 = 0.2 * 200 = 40 tickets.",
+    "There are 40 winning tickets.",
+    "80% of the winners are $5 prizes.",
+    "To find how many tickets win $5, calculate 80% of 40.",
+    "80% of 40 = 0.8 * 40 = 32 tickets.",
+    "32 tickets win $5.",
+    "One ticket is the grand prize winner of $5,000.",
+    "Subtract the grand prize ticket from the total number of winners to find the number of tickets that win an average of $10.",
+    "40 total winning tickets - 32 $5 tickets - 1 grand prize ticket = 7 tickets.",
+    "7 tickets win an average of $10.",
+    "Calculate the total winnings from the $5 tickets.",
+    "32 tickets * $5 each = $160.",
+    "Calculate the total winnings from the 7 tickets winning $10 each.",
+    "7 tickets * $10 each = $70.",
+    "Add the grand prize of $5,000 to the total winnings.",
+    "Total winnings = $160 (from $5 prizes) + $70 (from $10 prizes) + $5,000 (grand prize).",
+    "Total winnings = $5,230.",
+    "Subtract the amount spent from the total winnings to find the profit.",
+    "Profit = $5,230 (total winnings) - $400 (amount spent).",
+    "Profit = $4,830."
+  ],
+  "solution": "4830"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Marcus has received a commission for as many paintings as possible. Marcus plans out his drawings so that his client can receive some of the paintings as soon as possible but it is still going to take a long time. On the first day, he paints 2 paintings. He then paints every day and each day, he paints twice as many paintings as he painted the day before. If he paints for 5 days, how many paintings will he have painted in total?",
+  "steps": [
+    "On the first day, Marcus paints 2 paintings.",
+    "On the second day, Marcus paints twice as many paintings as the first day, which is 2 * 2 = 4 paintings.",
+    "On the third day, he paints twice as many as on the second day, which is 4 * 2 = 8 paintings.",
+    "On the fourth day, he paints twice as many as on the third day, which is 8 * 2 = 16 paintings.",
+    "On the fifth day, he paints twice as many as on the fourth day, which is 16 * 2 = 32 paintings.",
+    "Now, I will sum up the paintings from all five days to find the total number he painted.",
+    "On the first day, he painted 2; on the second day, 4; on the third day, 8; on the fourth day, 16; and on the fifth day, 32.",
+    "So the total is 2 + 4 + 8 + 16 + 32.",
+    "Adding these together, 2 + 4 = 6.",
+    "6 + 8 = 14.",
+    "14 + 16 = 30.",
+    "30 + 32 = 62."
+  ],
+  "solution": "62"
+}

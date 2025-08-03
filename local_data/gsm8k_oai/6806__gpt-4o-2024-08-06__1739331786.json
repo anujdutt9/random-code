@@ -1,0 +1,11 @@
+{
+  "query": "Daniel collects Russian dolls that normally cost $4 each. He saves enough money to buy 15 Russian dolls. However, the price suddenly drops to $3 each. How many Russian dolls can he buy now at the discounted price, given his savings?",
+  "steps": [
+    "Daniel has saved enough money to buy 15 Russian dolls at the original price of $4 each.",
+    "First, I need to calculate how much money Daniel has saved.",
+    "The amount of money saved can be found by multiplying the original price per doll by the number of dolls: \\( 4 \\text{ dollars/doll} \\times 15 \\text{ dolls} = 60 \\text{ dollars} \\).",
+    "Now, I need to determine how many dolls Daniel can buy with his $60 savings at the new price of $3 per doll.",
+    "To find this, I divide his total savings by the discounted price: \\( 60 \\text{ dollars} \\div 3 \\text{ dollars/doll} = 20 \\text{ dolls} \\)."
+  ],
+  "solution": "20"
+}

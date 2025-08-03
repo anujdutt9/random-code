@@ -1,0 +1,14 @@
+{
+  "query": "Arthur has $200 in his wallet. He spends four-fifths of that. How much does he have left?",
+  "steps": [
+    "Arthur starts with $200 in his wallet.",
+    "He spends four-fifths of $200.",
+    "To calculate four-fifths of $200, I multiply $200 by 4/5.",
+    "Four-fifths of $200 is calculated as: \\( 200 \\times \\frac{4}{5} = 160 \\).",
+    "Arthur spends $160.",
+    "To find out how much Arthur has left, I subtract the amount he spent from his initial amount.",
+    "So, $200 - $160 = $40.",
+    "Arthur has $40 left in his wallet."
+  ],
+  "solution": "40"
+}

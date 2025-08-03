@@ -1,0 +1,15 @@
+{
+  "query": "Jenny's local library received 50 visitors on Monday. On Tuesday, the library received twice that number. On the remaining days of the week, an average of 20 visitors went to the library. What's the total number of visitors who went to the library that week?",
+  "steps": [
+    "First, I'll note that there are 7 days in a week: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday.",
+    "According to the problem, there were 50 visitors on Monday.",
+    "On Tuesday, the library received twice the number of visitors that came on Monday.",
+    "Twice the number of Monday's visitors is 50 * 2 = 100 visitors on Tuesday.",
+    "Now, I've accounted for Monday and Tuesday. There are 5 remaining days in the week: Wednesday, Thursday, Friday, Saturday, and Sunday.",
+    "On the remaining 5 days, an average of 20 visitors went to the library each day.",
+    "To find the total number of visitors for these 5 days, multiply the average number of visitors per day by the number of days: 20 visitors/day * 5 days = 100 visitors for these days.",
+    "Now, I will calculate the total number of visitors over the whole week by adding the totals for Monday, Tuesday, and the remaining days.",
+    "The total number of visitors is 50 (Monday) + 100 (Tuesday) + 100 (remaining 5 days) = 250 visitors for the week."
+  ],
+  "solution": "250"
+}

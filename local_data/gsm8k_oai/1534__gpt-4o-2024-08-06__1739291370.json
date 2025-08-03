@@ -1,0 +1,19 @@
+{
+  "query": "A library has a number of books. 35% of them are intended for children and 104 of them are for adults. How many books are in the library?",
+  "steps": [
+    "Let's start by defining what we know.",
+    "35% of the books are for children, and the remaining books are for adults.",
+    "We know the number of books for adults, which is 104.",
+    "Since the children's books are 35% of the total, the remaining must be 100% - 35% = 65% of the total.",
+    "The 65% represents the adult books, so 65% of the total number of books is 104.",
+    "I need to set up an equation to find the total number of books. Let \\( x \\) be the total number of books.",
+    "Therefore, 65% of \\( x \\) is equal to 104. Mathematically, this is represented as \\( 0.65x = 104 \\).",
+    "To find \\( x \\), I divide both sides of the equation by 0.65.",
+    "Calculating \\( x = \\frac{104}{0.65} \\).",
+    "\\( 104 \\div 0.65 = 160 \\).",
+    "Let's double-check the calculation.",
+    "65% of 160 is \\( 0.65 \\times 160 = 104 \\), which matches our known number of adult books.",
+    "Everything checks out. The total number of books in the library is 160."
+  ],
+  "solution": "160"
+}

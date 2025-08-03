@@ -1,0 +1,15 @@
+{
+  "query": "A citrus grove has laid out their plans for their sixteen orchards for the growing season. Lemons, their most popular citrus fruit, will take up eight orchards. Oranges are their second most popular fruit and will occupy half as many orchards as the lemons. Limes and grapefruits will split the remaining orchards. How many citrus orchards will be growing grapefruits?",
+  "steps": [
+    "The total number of orchards is given as sixteen.",
+    "Lemons will occupy eight orchards.",
+    "Oranges will occupy half as many orchards as lemons. Half of 8 is 4.",
+    "So, oranges will occupy 4 orchards.",
+    "Now, I need to calculate how many orchards are left for limes and grapefruits. I have used 8 orchards for lemons and 4 orchards for oranges, which sums to 12 orchards.",
+    "Subtracting 12 from the total of 16 orchards, there are 4 orchards left for limes and grapefruits.",
+    "The problem states that limes and grapefruits will split the remaining orchards.",
+    "Since there are 4 remaining orchards, limes and grapefruits each get 2 orchards.",
+    "So, grapefruits will be grown in 2 orchards."
+  ],
+  "solution": "2"
+}

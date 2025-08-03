@@ -1,0 +1,21 @@
+{
+  "query": "Facebook decided to award a productivity bonus to all its female employees who are mothers. This productivity bonus will total 25% of Facebook's annual earnings, which was $5,000,000 for the year 2020. It is known that Facebook employs 3300 employees; one-third are men, and of the women, 1200 are not mothers. How much was the bonus that each female mother employee received, assuming each one received an equal amount?",
+  "steps": [
+    "First, determine the total annual earnings of Facebook for the year 2020, which is given as $5,000,000.",
+    "Calculate 25% of Facebook's annual earnings to find the total amount allocated for the productivity bonus: 25% of $5,000,000.",
+    "25% can be calculated as 0.25, so multiply $5,000,000 by 0.25.",
+    "$5,000,000 * 0.25 = $1,250,000. This is the total amount allocated for the bonus.",
+    "Next, determine the number of women employed by Facebook. Start by finding the number of men.",
+    "One-third of the employees are men, so the number of men is 1/3 of 3300.",
+    "3300 * (1/3) = 1100 men.",
+    "Now, calculate the number of women by subtracting the number of men from the total employee count.",
+    "The number of women is 3300 - 1100 = 2200.",
+    "Now, among the women, 1200 are not mothers. To find the number of female mothers, subtract the number of women who are not mothers from the total number of women.",
+    "The number of female mothers = 2200 - 1200 = 1000.",
+    "Now, divide the total bonus amount equally among the female mothers.",
+    "The total bonus amount is $1,250,000, and it must be divided equally among 1000 female mothers.",
+    "Divide $1,250,000 by 1000 to find the bonus each female mother received.",
+    "$1,250,000 / 1000 = $1,250."
+  ],
+  "solution": "1250"
+}

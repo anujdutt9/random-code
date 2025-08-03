@@ -1,0 +1,21 @@
+{
+  "query": "Biff and Kenneth decide to compete in a 500-yard rowboat race.  If Biff rows at a speed of 50 yards per minute and Kenneth rows at a speed of 51 yards per minute, how many yards past the finish line will Kenneth be when Biff crosses the finish line?",
+  "steps": [
+    "First, I need to determine how long it will take for each of them to complete the 500-yard race.",
+    "For Biff: Biff's speed is 50 yards per minute.",
+    "Time taken by Biff to finish the race = Total Distance / Speed = 500 yards / 50 yards per minute = 10 minutes.",
+    "For Kenneth: Kenneth's speed is 51 yards per minute.",
+    "Time taken by Kenneth to finish the race = Total Distance / Speed = 500 yards / 51 yards per minute.",
+    "Before calculating, I should consider whether the division would result in a simple or complex number.",
+    "500 divided by 51 is approximately 9.8039 minutes.",
+    "Now, since we want to find out how far Kenneth is past the finish line when Biff crosses, we need to calculate where Kenneth is at 10 minutes.",
+    "In 10 minutes, Kenneth will row 51 yards per minute * 10 minutes = 510 yards.",
+    "Kenneth will finish the 500-yard race in approximately 9.8039 minutes.",
+    "Since Kenneth finishes in less time than Biff, he will be rowing past the finish line when Biff finishes.",
+    "The distance Kenneth rows in 10 minutes is 510 yards.",
+    "Therefore, when Biff crosses the finish line, Kenneth would have rowed 510 yards in total.",
+    "Finally, I just need to calculate how many yards past the finish line Kenneth is.",
+    "Kenneth is 510 yards - 500 yards = 10 yards past the finish line when Biff crosses."
+  ],
+  "solution": "10"
+}

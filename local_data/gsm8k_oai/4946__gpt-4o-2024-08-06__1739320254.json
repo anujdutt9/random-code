@@ -1,0 +1,16 @@
+{
+  "query": "There are three buckets of seeds labeled A, B, and C with 100 seeds. There are ten more seeds in bucket A than in bucket B, and bucket B has 30 seeds. How many seeds are in bucket C?",
+  "steps": [
+    "I know that bucket B has 30 seeds.",
+    "The problem states that bucket A has 10 more seeds than bucket B.",
+    "If bucket B has 30 seeds, then bucket A must have 30 + 10 seeds.",
+    "Calculating 30 + 10 gives 40 seeds in bucket A.",
+    "The problem states that the total number of seeds in buckets A, B, and C is 100.",
+    "I have found there are 40 seeds in bucket A and 30 seeds in bucket B.",
+    "Adding together the seeds in buckets A and B: 40 + 30 = 70 seeds.",
+    "To find out how many seeds are in bucket C, I subtract the combined number of seeds in buckets A and B from the total number of seeds.",
+    "So, the number of seeds in bucket C is 100 - 70.",
+    "Calculating 100 - 70 gives 30 seeds in bucket C."
+  ],
+  "solution": "30"
+}

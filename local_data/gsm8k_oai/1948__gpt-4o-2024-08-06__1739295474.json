@@ -1,0 +1,17 @@
+{
+  "query": "Tonya has opened a lemonade stand selling lemonade in small, medium, and large cups at $1, $2 and $3 respectively. At the close of business she ended up making $50.  As she went back through her inventory she noticed that she sold $11 worth of small lemonades and $24 worth of medium lemonades. How many cups of large lemonade did Tonya sell?",
+  "steps": [
+    "Tonya sells small, medium, and large lemonade cups for $1, $2, and $3, respectively.",
+    "Tonya made $50 in total from selling lemonade.",
+    "Tonya sold $11 worth of small lemonades.",
+    "Tonya sold $24 worth of medium lemonades.",
+    "$11 + $24 = $35 is the total revenue from small and medium lemonades.",
+    "To find out how much revenue she made from large lemonades, I need to subtract the total revenue from small and medium lemonades from the total revenue.",
+    "$50 - $35 = $15",
+    "Tonya made $15 from selling large lemonades.",
+    "Each large lemonade sells for $3.",
+    "To find the number of large lemonades sold, divide the total revenue from large lemonades by the price per large lemonade: $15 / $3.",
+    "$15 / $3 = 5"
+  ],
+  "solution": "5"
+}

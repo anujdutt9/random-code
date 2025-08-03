@@ -1,0 +1,16 @@
+{
+  "query": "To make 3 km, Ben walked for 2 hours. Continuing at the same speed, how much time in minutes would it take him to travel 12 km?",
+  "steps": [
+    "First, I need to calculate Ben's walking speed in kilometers per hour.",
+    "Ben walked 3 km in 2 hours.",
+    "The speed is calculated by dividing the distance by the time.",
+    "3 km / 2 hours = 1.5 km/h.",
+    "Next, I need to determine the time it would take Ben to walk 12 km at this speed.",
+    "Time is calculated by dividing the distance by the speed.",
+    "12 km / 1.5 km/h = 8 hours.",
+    "Now, I need to convert this time from hours to minutes.",
+    "There are 60 minutes in an hour.",
+    "8 hours * 60 minutes/hour = 480 minutes."
+  ],
+  "solution": "480"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "Jaydee can type 38 words in a minute. How many hours will he take to finish typing a research paper with 4560 words?",
+  "steps": [
+    "First, I need to know how many words Jaydee can type in one hour. Since there are 60 minutes in an hour, I will calculate the words per hour.",
+    "Jaydee types 38 words per minute.",
+    "To find out how many words he types in one hour, I need to multiply the words per minute by the number of minutes in an hour.",
+    "This is \\(38 \\text{ words/minute} \\times 60 \\text{ minutes/hour} = 2280 \\text{ words/hour}\\).",
+    "Now, I need to find out how many hours it will take him to type 4560 words.",
+    "To do this, I will divide the total number of words by the number of words he can type in one hour.",
+    "This is \\( \\frac{4560 \\text{ words}}{2280 \\text{ words/hour}} \\).",
+    "When I divide 4560 by 2280, it simplifies to 2."
+  ],
+  "solution": "2"
+}

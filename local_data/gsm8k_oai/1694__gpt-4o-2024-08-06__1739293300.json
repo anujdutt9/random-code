@@ -1,0 +1,20 @@
+{
+  "query": "Carson is a night security guard. He's supposed to patrol the outside of a warehouse that's 600 feet long and 400 feet wide. If Carson is supposed to circle the warehouse 10 times, but gets tired and skips 2 times, how far does he walk in one night?",
+  "steps": [
+    "First, I need to determine the perimeter of the warehouse.",
+    "The warehouse is a rectangle with a length of 600 feet and a width of 400 feet.",
+    "To find the perimeter, I use the formula for the perimeter of a rectangle: \\( P = 2 \\times (\\text{length} + \\text{width}) \\).",
+    "Substituting in the given values: \\( P = 2 \\times (600 \\text{ ft} + 400 \\text{ ft}) \\).",
+    "Calculating inside the parentheses first: \\( 600 \\text{ ft} + 400 \\text{ ft} = 1000 \\text{ ft} \\).",
+    "Now, multiplying by 2: \\( 2 \\times 1000 \\text{ ft} = 2000 \\text{ ft} \\).",
+    "The perimeter of the warehouse is 2000 feet.",
+    "Carson is supposed to circle the warehouse 10 times.",
+    "Therefore, the total distance for 10 rounds would be: \\( 10 \\times 2000 \\text{ ft} \\).",
+    "Calculating that gives: \\( 10 \\times 2000 \\text{ ft} = 20000 \\text{ ft} \\).",
+    "However, Carson skips 2 of those rounds.",
+    "So he only completes 8 rounds.",
+    "For 8 rounds, the distance is: \\( 8 \\times 2000 \\text{ ft} \\).",
+    "This calculates to: \\( 8 \\times 2000 \\text{ ft} = 16000 \\text{ ft} \\)."
+  ],
+  "solution": "16000"
+}

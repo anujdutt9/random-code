@@ -1,0 +1,20 @@
+{
+  "query": "Mario's salary increased by 40% to $4000 this year. Bob's salary from last year was equal to three times Mario's salary this year. If Bob's current salary is 20% more than his salary last year, what is his current salary?",
+  "steps": [
+    "Mario's current salary is $4000 after a 40% increase.",
+    "Let's denote Mario's salary from last year as \"M_last_year\".",
+    "The relationship between this year's salary and last year's salary is: M_current = 1.40 * M_last_year.",
+    "We know M_current is $4000, so: $4000 = 1.40 * M_last_year.",
+    "Solve for M_last_year: M_last_year = $4000 / 1.40.",
+    "Calculate M_last_year: M_last_year = $4000 / 1.40 = $2857.14.",
+    "Bob's salary from last year was three times Mario's salary from this year.",
+    "Since Mario's current salary is $4000, Bob's salary last year was 3 * $4000.",
+    "Calculate Bob's salary last year: Bob_last_year = 3 * $4000 = $12000.",
+    "Bob's current salary is 20% more than his salary last year.",
+    "Let Bob_current represent Bob's current salary.",
+    "The relationship is: Bob_current = Bob_last_year * 1.20.",
+    "Substitute Bob_last_year: Bob_current = $12000 * 1.20.",
+    "Calculate Bob_current: Bob_current = $12000 * 1.20 = $14400."
+  ],
+  "solution": "14400"
+}

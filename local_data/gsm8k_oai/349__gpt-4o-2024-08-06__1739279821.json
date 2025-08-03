@@ -1,0 +1,15 @@
+{
+  "query": "A farmer has twice as many pigs as cows, and 4 more cows than goats.  If the farmer has 56 animals total, how many goats does he have?",
+  "steps": [
+    "Let's designate the number of goats as \\( G \\).",
+    "Since the farmer has 4 more cows than goats, the number of cows is \\( G + 4 \\).",
+    "The farmer has twice as many pigs as cows, so the number of pigs is \\( 2 \\times (G + 4) = 2G + 8 \\).",
+    "The total number of animals is the sum of goats, cows, and pigs, which is given as 56.",
+    "So, we can set up the equation: \\( G + (G + 4) + (2G + 8) = 56 \\).",
+    "Simplifying the equation, we get: \\( G + G + 4 + 2G + 8 = 56 \\).",
+    "Combine all the \\( G \\) terms: \\( 4G + 12 = 56 \\).",
+    "Subtract 12 from both sides to isolate the \\( G \\) terms: \\( 4G = 44 \\).",
+    "Divide both sides by 4 to solve for \\( G \\): \\( G = 11 \\)."
+  ],
+  "solution": "11"
+}

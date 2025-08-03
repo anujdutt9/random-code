@@ -1,0 +1,9 @@
+{
+    "id": 6,
+    "query": "Question: How do coal and the sun compare as sources of energy?\n\nChoices:\nA: Coal is renewable, and the sun is renewable.\nB: Coal is renewable, and the sun is nonrenewable.\nC: Coal is nonrenewable, and the sun is renewable.\nD: Coal is nonrenewable, and the sun is nonrenewable.",
+    "solution": "C",
+    "style_name": "form_5_annotated_deduction",
+    "steps": [
+        "[Coal takes millions of years to form] \u2192 [Nonrenewable]\n[Sun provides continuous energy] \u2192 [Renewable]\nAnswer: Coal is nonrenewable and the sun is renewable"
+    ]
+}

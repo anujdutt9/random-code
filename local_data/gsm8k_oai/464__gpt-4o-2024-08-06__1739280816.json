@@ -1,0 +1,17 @@
+{
+  "query": "Frankie and Carla played 30 games of ping pong against each other.  Frankie won half as many games as did Carla.  How many games did Carla win?",
+  "steps": [
+    "Let the number of games that Carla won be denoted as \\( C \\).",
+    "Since Frankie won half as many games as Carla, the number of games Frankie won is \\( \\frac{C}{2} \\).",
+    "The total number of games played by Frankie and Carla is 30.",
+    "Therefore, the sum of the games won by both Frankie and Carla is \\( C + \\frac{C}{2} = 30 \\).",
+    "I need to solve the equation \\( C + \\frac{C}{2} = 30 \\).",
+    "To eliminate the fraction, I\u2019ll multiply the entire equation by 2 to get rid of the denominator.",
+    "This results in: \\( 2C + C = 60 \\).",
+    "Now, combine like terms: \\( 3C = 60 \\).",
+    "To find \\( C \\), I'll divide both sides by 3.",
+    "So, \\( C = \\frac{60}{3} = 20 \\).",
+    "Carla won 20 games."
+  ],
+  "solution": "20"
+}

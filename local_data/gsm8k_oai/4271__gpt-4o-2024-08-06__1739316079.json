@@ -1,0 +1,12 @@
+{
+  "query": "It takes 15 minutes for Dante to go to Hidden Lake. From Hidden Lake, he has to walk back to the Park Office and it takes him 7 minutes. When he arrives there, he will have been gone from the Park Office 32 minutes altogether. If he had walked to the Lake Park restaurant from the Park office before taking the 15 minute walk to Hidden Lake, how long is the walk from Park Office to the Lake Park restaurant?",
+  "steps": [
+    "Dante's total time gone from the Park Office is 32 minutes.",
+    "The trip from Hidden Lake back to the Park Office takes 7 minutes.",
+    "The walk to Hidden Lake originally takes 15 minutes.",
+    "Adding the time to Hidden Lake and back to the Park Office, it takes 15 + 7 = 22 minutes.",
+    "Subtracting the time taken to go to Hidden Lake and back (22 minutes) from the total time gone (32 minutes) gives 32 - 22 = 10 minutes.",
+    "Therefore, the walk from the Park Office to the Lake Park restaurant takes 10 minutes."
+  ],
+  "solution": "10"
+}

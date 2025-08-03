@@ -1,0 +1,14 @@
+{
+  "query": "Kaiden and Adriel were to pick a certain number of apples from their farm. After picking 400 apples each, they realized they still had to pick some more, so each picked 3/4 times as many as they had picked earlier. When they checked the pickup truck that was carrying the apples, they found out they still needed to pick 600 apples each to reach the target number. How many apples were they targeting to pick?",
+  "steps": [
+    "Kaiden and Adriel each picked 400 apples initially.",
+    "Next, each of them picked 3/4 times the number of apples they picked initially. This means they each picked 3/4 * 400 = 300 more apples.",
+    "After these two rounds of picking, each person had picked 400 + 300 = 700 apples.",
+    "We are told that after picking these apples, they still needed to pick 600 more apples each to reach the target number.",
+    "This means that to reach their target, each needed to have picked a total of 700 + 600 = 1300 apples.",
+    "The target number of apples for each person was 1300.",
+    "Since both Kaiden and Adriel were picking apples, we need to calculate the combined total target for both of them.",
+    "Therefore, the total number of apples they were targeting to pick together was 2 * 1300 = 2600 apples."
+  ],
+  "solution": "2600"
+}

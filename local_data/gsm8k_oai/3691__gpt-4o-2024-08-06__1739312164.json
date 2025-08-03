@@ -1,0 +1,28 @@
+{
+  "query": "Nathan planted 5 strawberry plants and 7 tomato plants. He harvested 14 strawberries from each plant and 16 tomatoes from each plant. He then distributed the strawberries and tomatoes into baskets of 7. He sold a basket of strawberries for $9 and a basket of tomatoes for $6. How much money does Nathan make from his harvest?",
+  "steps": [
+    "I need to calculate the total number of strawberries.",
+    "Nathan has 5 strawberry plants.",
+    "Each strawberry plant yields 14 strawberries.",
+    "So, the total number of strawberries is 5 plants * 14 strawberries/plant = 70 strawberries.",
+    "Next, I need to calculate the total number of tomatoes.",
+    "Nathan has 7 tomato plants.",
+    "Each tomato plant yields 16 tomatoes.",
+    "So, the total number of tomatoes is 7 plants * 16 tomatoes/plant = 112 tomatoes.",
+    "Now, I need to find out how many baskets of strawberries Nathan can fill.",
+    "A basket can hold 7 strawberries.",
+    "So, the number of strawberry baskets is 70 strawberries / 7 strawberries/basket = 10 baskets.",
+    "Next, I need to calculate how many baskets of tomatoes Nathan can fill.",
+    "A basket can hold 7 tomatoes.",
+    "So, the number of tomato baskets is 112 tomatoes / 7 tomatoes/basket = 16 baskets.",
+    "Now, I calculate Nathan's earnings from selling the strawberry baskets.",
+    "Each basket of strawberries sells for $9.",
+    "So, the total earnings from strawberry baskets are 10 baskets * $9/basket = $90.",
+    "Next, I calculate Nathan's earnings from selling the tomato baskets.",
+    "Each basket of tomatoes sells for $6.",
+    "So, the total earnings from tomato baskets are 16 baskets * $6/basket = $96.",
+    "Finally, I add the earnings from strawberry baskets and tomato baskets to find the total money Nathan makes.",
+    "$90 from strawberries + $96 from tomatoes = $186 total earnings."
+  ],
+  "solution": "186"
+}

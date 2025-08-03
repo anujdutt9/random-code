@@ -1,0 +1,17 @@
+{
+  "query": "There was a big sale on cat food at the pet store. 20 people bought cat food that day. The first 8 customers bought 3 cases each. The next four customers bought 2 cases each. The last 8 customers of the day only bought 1 case each. How many cases of cat food were sold?",
+  "steps": [
+    "First, I need to determine how many cases the first 8 customers bought. Each of the first 8 customers bought 3 cases.",
+    "I calculate 8 customers multiplied by 3 cases each.",
+    "8 * 3 equals 24 cases.",
+    "Now, I determine how many cases the next four customers bought. Each of these customers bought 2 cases.",
+    "I calculate 4 customers multiplied by 2 cases each.",
+    "4 * 2 equals 8 cases.",
+    "Next, I determine how many cases the last 8 customers bought. Each of these customers bought 1 case.",
+    "I calculate 8 customers multiplied by 1 case each.",
+    "8 * 1 equals 8 cases.",
+    "Finally, I add all the cases from each group of customers: 24 cases (first 8 customers) + 8 cases (next four customers) + 8 cases (last 8 customers).",
+    "24 + 8 + 8 equals 40 cases."
+  ],
+  "solution": "40"
+}

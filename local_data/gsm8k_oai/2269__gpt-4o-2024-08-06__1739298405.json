@@ -1,0 +1,20 @@
+{
+  "query": "Mr. McNeely takes a register of the total number of students present in class every day. On a particular week, the number of students in the class on the second day was 40 more than the first day. The number of students who didn't turn up for the class on the second day was twice the number of students who didn't turn up on the third day. On the third day, 1/7 of the total number of students of the class called in sick. If the total number of students in the class is 280, calculate the number of absent students in the three days.",
+  "steps": [
+    "We know the total number of students in the class is 280.",
+    "Let\u2019s define the total number of students present on day 1 as P1.",
+    "On the second day, the number of students present, P2, is 40 more than on the first day. Thus, P2 = P1 + 40.",
+    "The number of absent students on day 1 is A1 = 280 - P1.",
+    "Likewise, the number of absent students on day 2 is A2 = 280 - P2.",
+    "On the third day, 1/7 of the total number of students called in sick. Hence, the number of sick students on day 3 is 280 / 7 = 40.",
+    "Consequently, the number of students present on day 3, P3, is 280 - 40 = 240.",
+    "The number of absent students on day 3 is A3 = 280 - P3 = 40.",
+    "We are given that the number of students who didn't turn up on the second day was twice the number of students who didn't turn up on the third day. So, A2 = 2 * A3 = 2 * 40 = 80.",
+    "Now we know P2 = 280 - A2 = 280 - 80 = 200.",
+    "Since P2 = P1 + 40, then P1 = P2 - 40 = 200 - 40 = 160.",
+    "The number of absent students on the first day is A1 = 280 - P1 = 280 - 160 = 120.",
+    "Now, sum up the number of absent students over the three days: A1 + A2 + A3 = 120 + 80 + 40.",
+    "120 + 80 + 40 equals 240."
+  ],
+  "solution": "240"
+}

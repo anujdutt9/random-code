@@ -1,0 +1,22 @@
+{
+  "query": "As a freelancer, Baylor is paid for every finished work of a client he does on a freelance marketplace. Currently, he has $4000 on his dashboard from previous work done. He is currently working for three clients, with the first client paying him half the amount of money he currently has on his dashboard once the job is done. The second client will pay him 2/5 times more money than the first client once Baylor finishes his work. The third client will pay him twice the amount of money the first and second clients pay him together once he finishes the job. How much money will Baylor have in his dashboard after all the clients pay him for his work?",
+  "steps": [
+    "Baylor currently has $4000 on his dashboard.",
+    "The first client will pay Baylor half of this amount, which is calculated as $4000 * 0.5.",
+    "$4000 * 0.5 equals $2000.",
+    "The second client will pay Baylor 2/5 times more than what the first client pays him.",
+    "2/5 of $2000 is calculated as $2000 * (2/5).",
+    "$2000 * (2/5) equals $800.",
+    "The payment from the second client is $800 more than what the first client pays.",
+    "The total payment from the second client will be $2000 (from the first client) + $800.",
+    "The total payment from the second client is $2800.",
+    "The third client will pay Baylor twice the amount the first and second clients pay together.",
+    "First, let's find the combined payment from the first and second clients: $2000 + $2800.",
+    "$2000 + $2800 equals $4800.",
+    "The third client will pay twice this amount, which is $4800 * 2.",
+    "$4800 * 2 equals $9600.",
+    "Now, we find Baylor\u2019s total earnings after all clients pay him: $4000 (current amount) + $2000 (first client) + $2800 (second client) + $9600 (third client).",
+    "$4000 + $2000 + $2800 + $9600 equals $18400."
+  ],
+  "solution": "18400"
+}

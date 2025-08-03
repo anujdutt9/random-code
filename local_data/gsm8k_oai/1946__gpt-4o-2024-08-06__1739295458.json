@@ -1,0 +1,15 @@
+{
+  "query": "Randy has $200 in his piggy bank. He spends 2 dollars every time he goes to the store. He makes 4 trips to the store every month. How much money, in dollars, will be in his piggy bank after a year?",
+  "steps": [
+    "Randy spends $2 every time he goes to the store.",
+    "He makes 4 trips to the store every month.",
+    "To find out how much Randy spends in a month, I need to multiply the number of trips per month by the amount spent per trip.",
+    "4 trips/month * $2/trip = $8/month.",
+    "Next, I need to figure out how much he spends in a year. There are 12 months in a year.",
+    "$8/month * 12 months = $96/year.",
+    "Randy starts with $200 in his piggy bank.",
+    "To find out how much money will be left after a year, I need to subtract the total amount spent in a year from his starting amount.",
+    "$200 - $96 = $104."
+  ],
+  "solution": "104"
+}

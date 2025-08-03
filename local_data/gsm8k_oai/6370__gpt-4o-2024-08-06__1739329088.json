@@ -1,0 +1,13 @@
+{
+  "query": "A mechanic charges $60 an hour to repair a car.  He works 8 hours a day for 14 days on one car.  The mechanic also used $2500 in parts.  How much did the car's owner have to pay?",
+  "steps": [
+    "The mechanic charges $60 per hour.",
+    "He works 8 hours a day.",
+    "He works for 14 days.",
+    "First, calculate the total number of hours worked: 8 hours/day * 14 days = 112 hours.",
+    "Now calculate the cost of labor: 112 hours * $60/hour = $6720.",
+    "The cost of parts used is $2500.",
+    "To find the total cost, add the labor cost and the parts cost: $6720 + $2500 = $9220."
+  ],
+  "solution": "9220"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "Anna ate 4 apples on Tuesday. On Wednesday, she ate double the apples she ate on Tuesday. On Thursday, Anna ate half the apples she ate on Tuesday. How many apples has Anna eaten by the end of these three days?",
+  "steps": [
+    "Anna ate 4 apples on Tuesday.",
+    "On Wednesday, she ate double the apples she ate on Tuesday. Double of 4 is 8.",
+    "On Thursday, Anna ate half the apples she ate on Tuesday. Half of 4 is 2.",
+    "Now, I need to add up the apples eaten on each day: Tuesday (4) + Wednesday (8) + Thursday (2).",
+    "4 + 8 is 12.",
+    "12 + 2 is 14.",
+    "Therefore, by the end of these three days, Anna has eaten 14 apples."
+  ],
+  "solution": "14"
+}

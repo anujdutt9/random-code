@@ -1,0 +1,17 @@
+{
+  "query": "Libby is building an igloo in her backyard using bricks of snow. She builds her igloo in rows, using a total of 10 rows of bricks of snow. The bottom half of the igloo has 12 bricks of snow in each row while the top half of the igloo has 8 bricks of snow in each row. How many bricks of snow did Libby use for her igloo?",
+  "steps": [
+    "First, I need to determine how many rows are in the bottom half and the top half of the igloo.",
+    "Since the igloo has a total of 10 rows, I can divide this into two halves.",
+    "Therefore, each half would have 10/2 = 5 rows.",
+    "Next, I'll calculate the number of bricks in the bottom half of the igloo.",
+    "There are 12 bricks in each row of the bottom half and there are 5 rows.",
+    "So, the total number of bricks in the bottom half is 12 * 5 = 60 bricks.",
+    "Now, I'll calculate the number of bricks in the top half of the igloo.",
+    "There are 8 bricks in each row of the top half and there are 5 rows.",
+    "So, the total number of bricks in the top half is 8 * 5 = 40 bricks.",
+    "Finally, I will calculate the total number of bricks used for the entire igloo.",
+    "This is the sum of the bricks in the bottom half and the top half: 60 + 40."
+  ],
+  "solution": "100"
+}

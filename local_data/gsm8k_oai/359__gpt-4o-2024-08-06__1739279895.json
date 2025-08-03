@@ -1,0 +1,28 @@
+{
+  "query": "Rene can finish reading 30 pages in 60 minutes. Lulu can read 27 pages in 60 minutes and Cherry can read 25 pages in 60 minutes. If they have been reading for 240 minutes now, how many pages have they finished reading in total?",
+  "steps": [
+    "First, calculate how many pages Rene can read in 240 minutes.",
+    "Rene can read 30 pages in 60 minutes.",
+    "To find the reading rate per minute, divide 30 pages by 60 minutes.",
+    "30 pages / 60 minutes = 0.5 pages per minute.",
+    "Now, calculate how many pages Rene reads in 240 minutes: 0.5 pages/minute * 240 minutes.",
+    "Rene can read 0.5 * 240 = 120 pages in 240 minutes.",
+    "Next, calculate how many pages Lulu can read in 240 minutes.",
+    "Lulu can read 27 pages in 60 minutes.",
+    "Lulu's reading rate per minute is 27 pages / 60 minutes.",
+    "27 pages / 60 minutes = 0.45 pages per minute.",
+    "Now, calculate how many pages Lulu reads in 240 minutes: 0.45 pages/minute * 240 minutes.",
+    "Lulu can read 0.45 * 240 = 108 pages in 240 minutes.",
+    "Next, calculate how many pages Cherry can read in 240 minutes.",
+    "Cherry can read 25 pages in 60 minutes.",
+    "Cherry's reading rate per minute is 25 pages / 60 minutes.",
+    "25 pages / 60 minutes = 0.4167 pages per minute.",
+    "Now, calculate how many pages Cherry reads in 240 minutes: 0.4167 pages/minute * 240 minutes.",
+    "Cherry can read 0.4167 * 240 = 100 pages in 240 minutes.",
+    "Now, sum up the pages read by Rene, Lulu, and Cherry.",
+    "Rene reads 120 pages, Lulu reads 108 pages, and Cherry reads 100 pages.",
+    "Total pages read = 120 + 108 + 100.",
+    "Total pages read = 328 pages."
+  ],
+  "solution": "328"
+}

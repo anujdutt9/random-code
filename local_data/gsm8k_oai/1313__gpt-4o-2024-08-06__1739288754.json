@@ -1,0 +1,16 @@
+{
+  "query": "Frank is walking through a corn maze. He has already spent 45 minutes inside. He has done 4 other corn mazes and finished those in 50 minutes on average. How much longer can he spend inside if he wants to ensure that his average doesn't go above 60 minutes per maze?",
+  "steps": [
+    "Frank has already done 4 corn mazes.",
+    "For those 4 mazes, his average time was 50 minutes each.",
+    "To find the total time he spent on those 4 mazes, multiply the number of mazes by the average time: 4 mazes * 50 minutes = 200 minutes.",
+    "Now Frank is attempting his 5th maze, the corn maze he is currently in.",
+    "He wants his overall average time for all 5 mazes to be no more than 60 minutes.",
+    "If his average time for 5 mazes is 60 minutes, the total time he can allow for all 5 mazes is 5 mazes * 60 minutes = 300 minutes.",
+    "Frank has already spent 200 minutes on the first 4 mazes.",
+    "To find out how much total time he can spend on the current maze, subtract the time spent on the first 4 mazes from the total allowable time: 300 minutes - 200 minutes = 100 minutes.",
+    "Frank has already spent 45 minutes in the current corn maze.",
+    "Subtract the already spent time from the total time he can spend on the current maze: 100 minutes - 45 minutes = 55 minutes."
+  ],
+  "solution": "55"
+}

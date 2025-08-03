@@ -1,0 +1,15 @@
+{
+  "query": "Samuel swept the porch and cleared nine-tenths of the dust particles from it. As he walked across the porch afterward, his shoes left 223 dust particles behind. How many dust particles were on the porch before Samuel swept if there were 331 after he walked across it?",
+  "steps": [
+    "I need to figure out how many dust particles were on the porch originally before Samuel swept it.",
+    "After he walked across the porch, there were 331 dust particles left.",
+    "It is mentioned that Samuel's shoes left 223 dust particles behind.",
+    "If there were 331 particles after he walked across and his shoes added 223 particles, I can subtract the particles added by the shoes from the total to find how many were there just after sweeping.",
+    "331 (total after he walked across) - 223 (particles added by shoes) = 108. So there were 108 particles after sweeping.",
+    "Initially, Samuel swept away nine-tenths of the dust particles.",
+    "If after sweeping there were 108 particles, this represents one-tenth of the original number of particles (since nine-tenths were removed).",
+    "Let x be the original number of particles. Then \\(\\frac{1}{10}x = 108\\).",
+    "Solving for x, I multiply both sides by 10. So, \\(x = 108 \\times 10 = 1080\\)."
+  ],
+  "solution": "1080"
+}

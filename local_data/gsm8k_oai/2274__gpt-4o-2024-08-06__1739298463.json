@@ -1,0 +1,13 @@
+{
+  "query": "James has 20 friends. Yesterday at work he got into an argument with 2 of his friends. Now he no longer considers them as friends. On his way back home, he made one more friend. So how many friends does James have left?",
+  "steps": [
+    "James originally has 20 friends.",
+    "He got into an argument with 2 of his friends and no longer considers them friends.",
+    "I need to subtract these 2 friends from his original 20 friends.",
+    "20 - 2 = 18",
+    "On his way back home, he made one more friend.",
+    "I need to add this new friend to the remaining number of friends he has.",
+    "18 + 1 = 19"
+  ],
+  "solution": "19"
+}

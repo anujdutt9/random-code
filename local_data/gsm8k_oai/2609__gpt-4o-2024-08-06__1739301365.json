@@ -1,0 +1,17 @@
+{
+  "query": "Nancy and Rose are making bracelets, and there are eight beads in each bracelet.  Nancy has 40 metal beads and 20 more pearl beads. Rose has 20 crystal beads and twice as many stone beads as crystal beads. How many bracelets can Nancy and Rose make?",
+  "steps": [
+    "Nancy has 40 metal beads.",
+    "Nancy has 20 more pearl beads than metal beads.",
+    "Calculate the number of pearl beads Nancy has: 40 + 20 = 60 pearl beads.",
+    "Determine the total number of beads Nancy has: 40 metal beads + 60 pearl beads = 100 beads.",
+    "Rose has 20 crystal beads.",
+    "Rose has twice as many stone beads as crystal beads.",
+    "Calculate the number of stone beads Rose has: 2 * 20 = 40 stone beads.",
+    "Determine the total number of beads Rose has: 20 crystal beads + 40 stone beads = 60 beads.",
+    "Calculate the combined total number of beads Nancy and Rose have: 100 beads (Nancy) + 60 beads (Rose) = 160 beads.",
+    "Each bracelet requires 8 beads.",
+    "Calculate how many bracelets can be made from 160 beads: 160 \u00f7 8 = 20 bracelets."
+  ],
+  "solution": "20"
+}

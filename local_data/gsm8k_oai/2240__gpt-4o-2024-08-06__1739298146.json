@@ -1,0 +1,19 @@
+{
+  "query": "Shannon bought 5 pints of frozen yogurt, two packs of chewing gum, and five trays of jumbo shrimp from The Food Place for a total of  $55 If the price of a tray of jumbo shrimp is $5 and a pack of chewing gum costs half as much as a pint of frozen yogurt, what is the price of a pint of frozen yogurt?",
+  "steps": [
+    "I know Shannon purchased 5 pints of frozen yogurt, 2 packs of chewing gum, and 5 trays of jumbo shrimp for a total of $55.",
+    "The price of a tray of jumbo shrimp is given as $5.",
+    "Since Shannon bought 5 trays of jumbo shrimp, the cost for the jumbo shrimp is 5 trays * $5/tray = $25.",
+    "I will subtract the cost of the jumbo shrimp from the total cost to find the remaining cost for the frozen yogurt and gum.",
+    "$55 (total) - $25 (jumbo shrimp) = $30 for frozen yogurt and gum.",
+    "Let the price of a pint of frozen yogurt be represented as $Y.",
+    "The problem states that the price of a pack of chewing gum is half as much as a pint of frozen yogurt. So the price for a pack of gum is $Y/2.",
+    "Shannon bought 5 pints of frozen yogurt, that would cost 5 * $Y.",
+    "Shannon also bought 2 packs of chewing gum, that would cost 2 * ($Y/2) = $Y.",
+    "Therefore, the total cost for frozen yogurt and gum is 5Y (frozen yogurt) + Y (gum) = 6Y.",
+    "According to our previous conclusion, 6Y = $30.",
+    "To find the price of one pint of frozen yogurt, I will divide both sides of the equation by 6.",
+    "$30 / 6 = $5."
+  ],
+  "solution": "5"
+}

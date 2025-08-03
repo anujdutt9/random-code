@@ -1,0 +1,15 @@
+{
+  "query": "Erica lives near a lake where most locals sell fish as their main source of income, earning $20 per kg of fish. She goes out fishing today and catches twice as many fish as she caught in total in the past four months. If Erica trawled 80 kg of fish in the past four months, not including today, how much money will she have earned in the past four months including today (assuming she sells all her fish)?",
+  "steps": [
+    "I need to find out how much money Erica will have earned by including today's catch in her total.",
+    "I know that Erica caught 80 kg of fish in the past four months.",
+    "Today she catches twice as much fish as she did in the past four months.",
+    "So today she catches 2 times 80 kg, which is 160 kg of fish.",
+    "Now I need to calculate the total amount of fish she caught including today.",
+    "The total weight of fish is 80 kg (past four months) + 160 kg (today) = 240 kg.",
+    "Erica earns $20 per kg of fish.",
+    "Now I will calculate the total earnings by multiplying the total weight of fish by the price per kg.",
+    "Total earnings = 240 kg * $20 per kg = $4800."
+  ],
+  "solution": "4800"
+}

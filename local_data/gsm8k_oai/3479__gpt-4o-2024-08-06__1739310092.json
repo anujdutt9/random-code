@@ -1,0 +1,18 @@
+{
+  "query": "Pat is hunting for sharks to take photos. For every photo he takes he earns $15. He sees a shark about every 10 minutes. His boat fuel costs $50 an hour. If he shark hunts for 5 hours, how much money can he expect to make in profit?",
+  "steps": [
+    "First, determine the total time Pat spends hunting for sharks.",
+    "Pat hunts for sharks for 5 hours.",
+    "Calculate the number of minutes in 5 hours.",
+    "5 hours is equal to 5 * 60 = 300 minutes.",
+    "Determine how many sharks Pat can expect to see in 300 minutes.",
+    "Pat sees a shark about every 10 minutes, so in 300 minutes, he can expect to see 300 / 10 = 30 sharks.",
+    "Calculate the total earnings from photographing 30 sharks.",
+    "Each photo earns Pat $15, so for 30 photos, he earns 30 * 15 = $450.",
+    "Calculate the total fuel cost for 5 hours of hunting.",
+    "The fuel cost is $50 per hour, so for 5 hours, the total fuel cost is 5 * 50 = $250.",
+    "Determine the net profit by subtracting the total fuel cost from the total earnings.",
+    "Net profit is $450 (earnings) - $250 (fuel cost) = $200."
+  ],
+  "solution": "200"
+}

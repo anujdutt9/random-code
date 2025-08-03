@@ -1,0 +1,20 @@
+{
+  "query": "Baking in batches of 65 cupcakes, Carla made 45 batches of cupcakes for her daughter's birthday party. She then took 5 cupcakes from each batch, and fed them to her dogs. If Carla's daughter had 19 friends and they shared the remaining cupcakes equally among them, including the daughter, calculate the number of cupcakes that each of Carla's daughter's friends ate.",
+  "steps": [
+    "First, I need to determine how many cupcakes were initially baked.",
+    "Carla baked 45 batches, and each batch contains 65 cupcakes.",
+    "So, the total number of cupcakes baked is 45 batches * 65 cupcakes/batch.",
+    "Let's calculate that: 45 * 65 = 2925 cupcakes.",
+    "Next, Carla took 5 cupcakes from each of the 45 batches to feed the dogs.",
+    "This means she took 5 * 45 cupcakes.",
+    "Let's calculate that: 5 * 45 = 225 cupcakes were given to the dogs.",
+    "Now, I need to find out how many cupcakes are left after feeding the dogs.",
+    "The total cupcakes initially baked were 2925, and 225 were fed to the dogs.",
+    "So, 2925 - 225 = 2700 cupcakes remain.",
+    "Carla's daughter shared the remaining cupcakes with 19 friends and herself.",
+    "This means the total number of people sharing the cupcakes is 19 friends + 1 daughter = 20 people.",
+    "To find out how many cupcakes each person received, I need to divide the remaining cupcakes by the number of people sharing them.",
+    "Let's calculate that: 2700 cupcakes / 20 people = 135 cupcakes per person."
+  ],
+  "solution": "135"
+}

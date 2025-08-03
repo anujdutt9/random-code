@@ -1,0 +1,17 @@
+{
+  "query": "Frank needs to meet a quota at work for his sales. It\u2019s the beginning of the month and in 30 days he needs to have 50 cars sold. The first three days he sold 5 cars each day. Then the next 4 days he sold 3 cars each day. If the month is 30 days long how many cars does he need to sell for the remaining days to meet his quota?",
+  "steps": [
+    "Frank's quota is to sell 50 cars in 30 days.",
+    "In the first three days, Frank sold 5 cars each day.",
+    "He sold 5 cars per day for 3 days, which is 5 * 3 = 15 cars.",
+    "In the next four days, Frank sold 3 cars each day.",
+    "He sold 3 cars per day for 4 days, which is 3 * 4 = 12 cars.",
+    "To find the total number of cars sold so far, we add 15 and 12.",
+    "15 + 12 = 27 cars have been sold in the first 7 days.",
+    "To meet the quota, Frank needs to sell 50 cars total.",
+    "He has already sold 27 cars, so he needs to sell 50 - 27.",
+    "50 - 27 = 23 cars need to be sold in the remaining days.",
+    "There are 30 - 7 = 23 days left in the month."
+  ],
+  "solution": "23"
+}

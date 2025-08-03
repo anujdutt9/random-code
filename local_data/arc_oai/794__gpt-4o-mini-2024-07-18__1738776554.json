@@ -1,0 +1,10 @@
+{
+  "query": "Question: A sample in a cylindrical container has a cylindrical shape and a fixed volume. The state of matter of the sample\n\nChoices:\nA: must be solid.\nB: could be either solid or liquid.\nC: must be liquid.\nD: could be either liquid or gas.",
+  "steps": [
+    "The sample is in a cylindrical container, which implies it takes on the shape of the container.",
+    "Since the volume of the sample is fixed, it cannot expand to fill a space, which is characteristic of gases.",
+    "Solids maintain both shape and volume, whereas liquids take the shape of the container but maintain a constant volume.",
+    "Therefore, since the sample has a fixed volume but can take the shape of its container, it could either be a solid or a liquid."
+  ],
+  "solution": "B"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Five shirts together cost $85. Of the 5 shirts, there are 3 shirts that cost $15 each. If the remaining shirts are each equal in value, what is the cost, in dollars, of one of the remaining shirts?",
+  "steps": [
+    "First, identify the total cost of the 5 shirts, which is given as $85.",
+    "Next, I note that 3 shirts cost $15 each.",
+    "Calculate the total cost of these 3 shirts. Multiply 3 shirts by $15.",
+    "3 shirts x $15 = $45",
+    "Subtract the cost of the 3 shirts from the total cost of all 5 shirts to find the cost of the remaining 2 shirts.",
+    "$85 total - $45 for 3 shirts = $40",
+    "Now, we know that the remaining cost of $40 is for the 2 shirts.",
+    "The problem states that the remaining shirts are equal in value.",
+    "Thus, divide $40 by 2 to find the cost of one shirt.",
+    "$40 / 2 = $20"
+  ],
+  "solution": "20"
+}

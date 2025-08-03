@@ -1,0 +1,16 @@
+{
+  "query": "Charlie can make 5350 steps while running on a 3-kilometer running field. If he can run around the field 2 1/2 times during a running session, how many steps was he able to make?",
+  "steps": [
+    "I need to find the number of steps Charlie makes in one complete round of the running field.",
+    "Charlie runs 5350 steps for 3 kilometers.",
+    "He runs around the field 2 1/2 times, which means each complete round is 3 kilometers.",
+    "If he runs 2 1/2 times around the field, he runs a total of (2.5 rounds * 3 kilometers per round) = 7.5 kilometers.",
+    "I will calculate how many steps Charlie makes per kilometer, by dividing the number of steps by the overall distance he runs in his complete loops.",
+    "He makes 5350 steps for 3 kilometers.",
+    "Steps per kilometer = 5350 steps / 3 kilometers = 1783.33 steps per kilometer.",
+    "Now I can find out how many steps he makes for 7.5 kilometers.",
+    "If Charlie makes 1783.33 steps for each kilometer, then for 7.5 kilometers he makes 1783.33 steps/kilometer * 7.5 kilometers.",
+    "Calculating this, steps = 1783.33 * 7.5 = 13375 steps."
+  ],
+  "solution": "13375"
+}

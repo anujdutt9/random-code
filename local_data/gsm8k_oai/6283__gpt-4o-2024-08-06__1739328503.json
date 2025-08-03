@@ -1,0 +1,17 @@
+{
+  "query": "James decides to go to prom with Susan.  He pays for everything.  The tickets cost $100 each.  Dinner is $120.  He leaves a 30% tip.  He also charters a limo for 6 hours that cost $80 per hour.  How much did it all cost?",
+  "steps": [
+    "First, I need to calculate the cost of the prom tickets. James buys two tickets, each costing $100.",
+    "The total cost for prom tickets is 2 tickets * $100/ticket = $200.",
+    "Next, I will calculate the cost of dinner. The dinner itself costs $120.",
+    "James leaves a 30% tip on top of the $120 dinner bill.",
+    "To find the tip amount, I will calculate 30% of $120.",
+    "The tip amount is 0.30 * $120 = $36.",
+    "Now, I add the tip to the dinner cost. So, the total cost for dinner is $120 + $36 = $156.",
+    "Next, I will calculate the cost of the limo. The limo is chartered for 6 hours at a rate of $80 per hour.",
+    "The total cost for the limo is 6 hours * $80/hour = $480.",
+    "Now, I will calculate the total cost by summing up the costs for the tickets, dinner, and limo.",
+    "The total cost is $200 (tickets) + $156 (dinner) + $480 (limo) = $836."
+  ],
+  "solution": "836"
+}

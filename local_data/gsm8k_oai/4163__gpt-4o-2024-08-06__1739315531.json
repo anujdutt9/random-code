@@ -1,0 +1,16 @@
+{
+  "query": "Tom buys 20 shares of a stock that costs $3 each.  He sells 10 of those shares for $4 each.  The rest of the shares end up doubling in value.  How much profit does he make?",
+  "steps": [
+    "Tom buys 20 shares at $3 each.",
+    "The total cost for buying 20 shares is 20 shares * $3/share = $60.",
+    "Tom sells 10 shares for $4 each.",
+    "The total revenue from selling 10 shares is 10 shares * $4/share = $40.",
+    "Tom still has 10 shares left after selling 10 shares.",
+    "The price of each remaining share has doubled in value. Since they were originally $3 each, doubling means each share is now worth $6.",
+    "The total value of the remaining 10 shares is 10 shares * $6/share = $60.",
+    "Tom's total revenue from all events is the revenue from selling 10 shares ($40) plus the value of the remaining 10 shares ($60), which totals $40 + $60 = $100.",
+    "Tom's total cost was $60 from initially purchasing the 20 shares.",
+    "Tom's profit is the total revenue minus the total cost: $100 - $60 = $40."
+  ],
+  "solution": "40"
+}

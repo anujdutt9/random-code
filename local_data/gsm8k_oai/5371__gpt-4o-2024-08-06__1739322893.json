@@ -1,0 +1,14 @@
+{
+  "query": "Martha has 20 apples. She decided to split them among her friends. Jane got 5 apples from her, and James got 2 more than Jane. How many more apples would Martha need to give away to be left with only 4 of them?",
+  "steps": [
+    "Martha starts with 20 apples.",
+    "She gives 5 apples to Jane.",
+    "Now, Martha has 20 - 5 = 15 apples left.",
+    "James receives 2 more apples than Jane.",
+    "Jane got 5 apples, so James gets 5 + 2 = 7 apples.",
+    "Martha now has 15 - 7 = 8 apples left after giving apples to both Jane and James.",
+    "Martha wants to be left with only 4 apples.",
+    "Currently, she has 8 apples. To have 4 apples left, she needs to give away 8 - 4 = 4 more apples."
+  ],
+  "solution": "4"
+}

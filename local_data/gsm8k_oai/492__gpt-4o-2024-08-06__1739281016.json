@@ -1,0 +1,15 @@
+{
+  "query": "There are 40 Judges in the state of Rhode Island.  10 percent of Judges are under 30 years old.  60 percent of Judges are 30-50 years old.  The rest of the Judges are over 50 years old.  How many Judges are over 50 years old?",
+  "steps": [
+    "To find the number of judges under 30 years old, I need to calculate 10% of 40.",
+    "10% of 40 is calculated as \\( 0.10 \\times 40 = 4 \\).",
+    "So, there are 4 judges under 30 years old.",
+    "Next, I need to find the number of judges who are 30-50 years old, which is 60% of the total number of judges.",
+    "60% of 40 is calculated as \\( 0.60 \\times 40 = 24 \\).",
+    "So, there are 24 judges in the 30-50 years old age range.",
+    "To find how many judges are over 50 years old, I need to subtract the number of judges under 30 and the number between 30-50 from the total number of judges.",
+    "Total judges = 40, judges under 30 = 4, judges 30-50 = 24.",
+    "The number of judges over 50 is \\( 40 - 4 - 24 = 12 \\)."
+  ],
+  "solution": "12"
+}

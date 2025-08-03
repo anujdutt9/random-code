@@ -1,0 +1,18 @@
+{
+  "query": "Jane bought pens for her three students. Each student received 62 red pens and 43 black pens. They pooled their pens together and took them from the pool whenever they needed them. After the first month, they had taken a total of 37 pens from the pool. After the second month, they had taken another 41 pens from the pool. Then Jane decided to split the remaining pens equally among them. How many pens will each student get now?",
+  "steps": [
+    "First, I need to calculate the total number of pens that each student initially received.",
+    "Each student received 62 red pens and 43 black pens.",
+    "The total number of pens per student is 62 red pens + 43 black pens = 105 pens.",
+    "There are three students, so I multiply the number of pens per student by the number of students: 105 pens/student * 3 students = 315 pens in total.",
+    "Next, I calculate the total number of pens taken after the first and second months.",
+    "After the first month, 37 pens were taken from the pool.",
+    "After the second month, 41 more pens were taken from the pool.",
+    "The total number of pens taken after both months is 37 pens + 41 pens = 78 pens.",
+    "I now find out how many pens are remaining in the pool.",
+    "Initially, there were 315 pens. After 78 pens were taken, the remaining number of pens is 315 pens - 78 pens = 237 pens.",
+    "Jane then splits the remaining pens equally among the three students.",
+    "I divide the remaining number of pens by the number of students: 237 pens / 3 students = 79 pens per student."
+  ],
+  "solution": "79"
+}

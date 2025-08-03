@@ -1,0 +1,13 @@
+{
+  "query": "Each wall of a 3 sided shower has 8 tiles running the width of the wall and 20 tiles running the height of the wall.  How many tiles are in the shower?",
+  "steps": [
+    "First, I need to calculate how many tiles are on one wall.",
+    "Each wall has 8 tiles running the width and 20 tiles running the height.",
+    "To find the total number of tiles on one wall, I multiply the number of tiles running the width by the number of tiles running the height.",
+    "For one wall: 8 tiles (width) * 20 tiles (height) = 160 tiles.",
+    "Now, I need to calculate the total number of tiles for all three walls.",
+    "Since there are 3 walls, I multiply the number of tiles on one wall by 3.",
+    "Total tiles = 160 tiles (per wall) * 3 walls = 480 tiles."
+  ],
+  "solution": "480"
+}

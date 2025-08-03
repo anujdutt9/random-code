@@ -1,0 +1,13 @@
+{
+  "query": "Isabel has $204 in her piggy bank. She spent half the amount and bought a toy. She then spent half of the remaining money and bought her brother a book. How much money, in dollars, was left over?",
+  "steps": [
+    "Isabel starts with $204 in her piggy bank.",
+    "She spends half of her money to buy a toy.",
+    "Half of $204 is $204 / 2, which equals $102.",
+    "After buying the toy, Isabel is left with $204 - $102, which equals $102.",
+    "She then spends half of the remaining $102 to buy her brother a book.",
+    "Half of $102 is $102 / 2, which equals $51.",
+    "After buying the book, Isabel has $102 - $51, which equals $51 left over."
+  ],
+  "solution": "51"
+}

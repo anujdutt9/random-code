@@ -1,0 +1,14 @@
+{
+  "query": "Lucy has been trying new recipes and wants to make sure she keeps the cupboard stocked with ingredients. She had a 500g bag of flour in the cupboard at the start of the week. She used 240g when she baked cookies on Tuesday, and accidentally spilled half of what was left when she was putting the flour away. If Lucy wants a full bag of flour in the cupboard, how much flour does she need to buy, in grams?",
+  "steps": [
+    "Lucy starts with a 500g bag of flour.",
+    "She uses 240g of flour for baking cookies.",
+    "To find out how much flour is left, I subtract 240g from 500g: 500g - 240g = 260g.",
+    "She accidentally spills half of what is left.",
+    "I need to find half of 260g to determine how much was spilled. Half of 260g is 260g / 2 = 130g.",
+    "After spilling, the amount of flour left in the cupboard is 260g - 130g = 130g.",
+    "Lucy wants a full bag of 500g, but she only has 130g left.",
+    "To find out how much more flour she needs to buy, I subtract the amount she currently has from the desired amount: 500g - 130g = 370g."
+  ],
+  "solution": "370"
+}

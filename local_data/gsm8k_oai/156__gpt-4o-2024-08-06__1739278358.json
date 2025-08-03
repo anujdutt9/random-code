@@ -1,0 +1,17 @@
+{
+  "query": "George bought some food for his trip: a bottle of juice, a sandwich, and a bottle of milk. The sandwich was for $4, and the juice was two times more expensive. The bottle of milk cost was 75% of the total cost of the sandwich and juice. How much did George pay for his food?",
+  "steps": [
+    "George bought a sandwich for $4.",
+    "The juice was two times more expensive than the sandwich.",
+    "Two times the cost of the sandwich ($4) is $8.",
+    "Thus, the cost of the juice is $8.",
+    "Now, we calculate the total cost of the sandwich and the juice together.",
+    "The total cost of the sandwich and juice is $4 + $8 = $12.",
+    "The bottle of milk cost was 75% of the total cost of the sandwich and juice.",
+    "First, I need to find 75% of $12.",
+    "75% of $12 is 0.75 * $12 = $9.",
+    "Now, I add up the costs of the sandwich, juice, and milk to find the total cost.",
+    "The total cost is $4 (sandwich) + $8 (juice) + $9 (milk) = $21."
+  ],
+  "solution": "21"
+}

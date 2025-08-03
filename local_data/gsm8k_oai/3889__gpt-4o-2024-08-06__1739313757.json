@@ -1,0 +1,17 @@
+{
+  "query": "Louise is organizing her pencils, and decides she wants her boxes arranged by color. Each box holds 20 pencils each. She has 20 red pencils, twice as many blue pencils, 40 yellow pencils, and has as many green pencils as she has red and blue pencils combined. How many boxes does Louise need?",
+  "steps": [
+    "First, I determine the number of red pencils. Louise has 20 red pencils.",
+    "Next, I calculate the number of blue pencils. She has twice as many blue pencils as red pencils. Since she has 20 red pencils, she has 2 * 20 = 40 blue pencils.",
+    "Now, I know the number of yellow pencils is 40, as stated in the problem.",
+    "Louise has as many green pencils as the total number of red and blue pencils combined. So, I add the number of red and blue pencils: 20 (red) + 40 (blue) = 60.",
+    "Since the green pencils equal the combined total of red and blue pencils, she has 60 green pencils.",
+    "Now, I calculate how many boxes are needed for each color since each box holds 20 pencils.",
+    "For the red pencils: Louise has 20 red pencils, which fits in 1 box.",
+    "For the blue pencils: Louise has 40 blue pencils. Since each box holds 20 pencils, she needs 40 / 20 = 2 boxes for the blue pencils.",
+    "For the yellow pencils: Louise has 40 yellow pencils. This means she needs 40 / 20 = 2 boxes for the yellow pencils.",
+    "For the green pencils: Louise has 60 green pencils. So, she requires 60 / 20 = 3 boxes for the green pencils.",
+    "Now, I add up all the boxes required for each color: 1 (red) + 2 (blue) + 2 (yellow) + 3 (green) = 8 boxes in total."
+  ],
+  "solution": "8"
+}

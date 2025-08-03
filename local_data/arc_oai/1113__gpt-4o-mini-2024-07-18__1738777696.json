@@ -1,0 +1,10 @@
+{
+  "query": "Question: Miguel was conducting an experiment. He wrote the following sentences in his notebook: The starting temperature of the water was 10 degrees Celsius. An object weighing 5 grams was placed in the water. The temperature of the water increased to 15 degrees. The object must have been hotter than 10 degrees. In which sentence did Miguel make an inference?\n\nChoices:\nA: sentence 1\nB: sentence 2\nC: sentence 3\nD: sentence 4",
+  "steps": [
+    "The first sentence states a fact about the starting temperature of the water, so it is not an inference.",
+    "The second sentence describes an action that took place, namely placing an object into the water, which is also a factual statement.",
+    "The third sentence notes the observed increase in temperature, which again is a factual statement about what occurred during the experiment.",
+    "The fourth sentence suggests that the object must have been hotter than 10 degrees based on the observed increase in water temperature, which is an inference drawn from the previous facts."
+  ],
+  "solution": "D"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "Hannah brought $30 to the county fair. She spent half of it on rides and another $5 on dessert. How much, in dollars, is left?",
+  "steps": [
+    "Hannah brought $30 to the fair.",
+    "She spent half of her $30 on rides.",
+    "Half of $30 is calculated as $30 divided by 2.",
+    "$30 divided by 2 equals $15.",
+    "Therefore, Hannah spent $15 on rides.",
+    "Hannah originally had $30, and after spending $15 on rides, she has $30 - $15 left.",
+    "$30 - $15 equals $15.",
+    "Next, Hannah spent $5 on dessert.",
+    "I need to subtract the $5 expenditure on dessert from her remaining money.",
+    "She had $15 left; subtracting $5 for dessert: $15 - $5.",
+    "$15 - $5 equals $10.",
+    "I checked my calculations: she spent $15 on rides and $5 on dessert, totaling $20.",
+    "With an initial $30, and $20 spent, she should logically have $10 left."
+  ],
+  "solution": "10"
+}

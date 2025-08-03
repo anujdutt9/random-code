@@ -1,0 +1,11 @@
+{
+  "query": "There are 35 books on the cart. There are five fiction books, 4 more non-fiction books than fiction books, 2 times as many autobiographies as fiction books, and the rest picture books. How many books were picture books?",
+  "steps": [
+    "First, determine the number of fiction books. We know there are 5 fiction books.",
+    "Next, calculate the number of non-fiction books. It is given that there are 4 more non-fiction books than fiction books. Since there are 5 fiction books, the number of non-fiction books is 5 + 4 = 9.",
+    "Now, calculate the number of autobiography books. It is given that there are 2 times as many autobiographies as fiction books. Since there are 5 fiction books, the number of autobiographies is 2 * 5 = 10.",
+    "Now, add together the number of fiction, non-fiction, and autobiography books to get the total number of these types of books. This is 5 (fiction) + 9 (non-fiction) + 10 (autobiographies) = 24 books.",
+    "Now subtract this total from the total number of books on the cart to find the number of picture books. There are 35 books in total, so the number of picture books is 35 - 24 = 11."
+  ],
+  "solution": "11"
+}

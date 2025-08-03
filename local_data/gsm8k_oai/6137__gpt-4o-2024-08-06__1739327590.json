@@ -1,0 +1,16 @@
+{
+  "query": "Lori owns a carsharing company. There are three red cars and two white cars available to rent. Renting the white car costs $2 for every minute and the red car $3 for every minute. All cars were rented for 3 hours. How much money did Lori earn?",
+  "steps": [
+    "First, I need to determine how many minutes each car was rented. All cars were rented for 3 hours.",
+    "Since there are 60 minutes in an hour, each car was rented for 3 hours * 60 minutes/hour = 180 minutes.",
+    "Next, I need to calculate the total earnings from the red cars. There are three red cars, and each red car costs $3 per minute to rent.",
+    "Each red car was rented for 180 minutes, so the cost for one red car is 180 minutes * $3/minute = $540.",
+    "With three red cars, the total earnings from the red cars is 3 cars * $540/car = $1620.",
+    "Next, I need to calculate the total earnings from the white cars. There are two white cars, and each white car costs $2 per minute to rent.",
+    "Each white car was rented for 180 minutes, so the cost for one white car is 180 minutes * $2/minute = $360.",
+    "With two white cars, the total earnings from the white cars is 2 cars * $360/car = $720.",
+    "To find the total money Lori earned, I need to add the earnings from red cars and white cars together.",
+    "The total earnings are $1620 (from red cars) + $720 (from white cars) = $2340."
+  ],
+  "solution": "2340"
+}

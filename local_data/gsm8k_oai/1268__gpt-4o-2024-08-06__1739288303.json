@@ -1,0 +1,16 @@
+{
+  "query": "The toothpaste in Anne's family's bathroom contains 105 grams. Anne's dad uses 3 grams at each brushing, her mom uses 2 grams, Anne and her brother use 1 gram each. Each member of the family brushes their teeth three times a day. How many days will it take for the toothpaste to run out?",
+  "steps": [
+    "First, I need to determine how much toothpaste is used by each family member per day.",
+    "Anne's dad uses 3 grams per brushing, three times a day. So he uses 3 * 3 = 9 grams per day.",
+    "Anne's mom uses 2 grams per brushing, three times a day. So she uses 2 * 3 = 6 grams per day.",
+    "Anne uses 1 gram per brushing, three times a day. So she uses 1 * 3 = 3 grams per day.",
+    "Anne's brother also uses 1 gram per brushing, three times a day. So he uses 1 * 3 = 3 grams per day.",
+    "Now, let's add up the total amount of toothpaste the family uses per day.",
+    "The family uses 9 (dad) + 6 (mom) + 3 (Anne) + 3 (brother) = 21 grams per day.",
+    "The toothpaste tube contains 105 grams in total.",
+    "To find out how many days the toothpaste will last, I need to divide the total amount of toothpaste by the total daily usage.",
+    "105 grams / 21 grams per day = 5 days."
+  ],
+  "solution": "5"
+}

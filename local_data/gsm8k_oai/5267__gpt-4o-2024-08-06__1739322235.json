@@ -1,0 +1,17 @@
+{
+  "query": "James bought a gallon of milk for $3, a bunch of bananas for $2, and paid 20% sales tax. How much money did James spend?",
+  "steps": [
+    "First, I need to determine the total amount without sales tax.",
+    "The cost of the milk is $3.",
+    "The cost of the bananas is $2.",
+    "To find the total cost before tax, I add the cost of the milk and the cost of the bananas together: $3 + $2.",
+    "The total cost before tax is $5.",
+    "Next, I need to calculate the sales tax.",
+    "The sales tax rate is 20%.",
+    "To find the tax amount, I need to calculate 20% of $5.",
+    "20% of $5 is calculated by multiplying 0.20 by $5, which is $1.",
+    "Now, I add the tax amount to the total cost before tax to find the total amount spent.",
+    "Adding the tax amount ($1) to the total cost before tax ($5), the total amount spent is $6."
+  ],
+  "solution": "6"
+}

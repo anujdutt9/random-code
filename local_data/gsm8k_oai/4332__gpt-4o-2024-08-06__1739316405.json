@@ -1,0 +1,16 @@
+{
+  "query": "Bill and Jean are both cleaning out their garages. Bill makes a certain number of trips to the dump and Jean makes that many trips plus 6. If they make 40 trips total, how many trips does Jean make?",
+  "steps": [
+    "Let's start by defining variables to better understand the problem. Let x be the number of trips Bill makes to the dump.",
+    "According to the problem, Jean makes 6 more trips than Bill. Therefore, Jean makes x + 6 trips.",
+    "Together, Bill and Jean make 40 trips to the dump.",
+    "To express this in an equation, we can write: x (Bill's trips) + (x + 6) (Jean's trips) = 40 (total trips).",
+    "Simplify the equation: x + x + 6 = 40.",
+    "Combine like terms: 2x + 6 = 40.",
+    "To isolate 2x, subtract 6 from both sides of the equation: 2x = 34.",
+    "Divide both sides by 2 to solve for x: x = 17.",
+    "We've found that Bill makes 17 trips. Jean makes 6 more trips than Bill, so we add 6 to 17.",
+    "Calculate: 17 + 6 = 23."
+  ],
+  "solution": "23"
+}

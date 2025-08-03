@@ -1,0 +1,13 @@
+{
+  "query": "Homer scored 400 points on the first try in a Candy crush game, 70 points fewer on the second try, and twice the number of points she scored on the second try on the third try. What's the total number of points that she scored in all tries?",
+  "steps": [
+    "Homer scored 400 points on the first try.",
+    "On the second try, he scored 70 points fewer than the first try.",
+    "Calculate the points scored on the second try: 400 - 70 = 330 points.",
+    "On the third try, he scored twice the number of points from the second try.",
+    "Calculate the points scored on the third try: 2 * 330 = 660 points.",
+    "Now, sum up the points from all tries: 400 (first try) + 330 (second try) + 660 (third try).",
+    "Add the points together: 400 + 330 + 660 = 1390 points."
+  ],
+  "solution": "1390"
+}

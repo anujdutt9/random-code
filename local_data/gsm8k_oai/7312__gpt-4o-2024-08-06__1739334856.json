@@ -1,0 +1,14 @@
+{
+  "query": "Trevor is a comic book illustrator. In the past three months, he has drawn 220 pages of the comic. The comic he illustrates releases a new issue once a month. The first and second months\u2019 issues were the same number of pages, but the third month\u2019s issue was four pages longer than either of the others. How many pages was the first issue of the comic?",
+  "steps": [
+    "I need to identify the variables to solve the problem. Let the number of pages in the first issue be \\( x \\).",
+    "According to the problem, the second issue also has \\( x \\) pages.",
+    "The third issue has four more pages than either of the first two issues. Therefore, the third issue has \\( x + 4 \\) pages.",
+    "Now I need to add up the pages from all three months to find the total. The total number of pages is: \\( x + x + (x + 4) = 220 \\).",
+    "I can simplify the equation: \\( 2x + (x + 4) = 220 \\).",
+    "Simplifying further gives: \\( 3x + 4 = 220 \\).",
+    "To isolate \\( 3x \\), I subtract 4 from both sides:  \\( 3x = 216 \\).",
+    "I then divide both sides by 3 to solve for \\( x \\): \\( x = 72 \\)."
+  ],
+  "solution": "72"
+}

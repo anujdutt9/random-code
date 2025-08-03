@@ -1,0 +1,20 @@
+{
+  "query": "Ann is baking cookies. She bakes three dozen oatmeal raisin cookies, two dozen sugar cookies, and four dozen chocolate chip cookies. Ann gives away two dozen oatmeal raisin cookies, 1.5 dozen sugar cookies, and 2.5 dozen chocolate chip cookies. How many total cookies does she keep?",
+  "steps": [
+    "First, I need to understand how many cookies Ann baked in total for each type.",
+    "Ann bakes three dozen oatmeal raisin cookies. A dozen is 12 cookies, so she bakes \\(3 \\times 12 = 36\\) oatmeal raisin cookies.",
+    "Ann bakes two dozen sugar cookies. A dozen is 12 cookies, so she bakes \\(2 \\times 12 = 24\\) sugar cookies.",
+    "Ann bakes four dozen chocolate chip cookies. A dozen is 12 cookies, so she bakes \\(4 \\times 12 = 48\\) chocolate chip cookies.",
+    "Now, I need to know how many cookies Ann gives away for each type.",
+    "Ann gives away two dozen oatmeal raisin cookies. A dozen is 12 cookies, so she gives away \\(2 \\times 12 = 24\\) oatmeal raisin cookies.",
+    "Ann gives away 1.5 dozen sugar cookies. A dozen is 12 cookies, so she gives away \\(1.5 \\times 12 = 18\\) sugar cookies.",
+    "Ann gives away 2.5 dozen chocolate chip cookies. A dozen is 12 cookies, so she gives away \\(2.5 \\times 12 = 30\\) chocolate chip cookies.",
+    "Next, I need to calculate how many cookies Ann keeps for each type.",
+    "For oatmeal raisin cookies, she keeps \\(36 - 24 = 12\\) cookies.",
+    "For sugar cookies, she keeps \\(24 - 18 = 6\\) cookies.",
+    "For chocolate chip cookies, she keeps \\(48 - 30 = 18\\) cookies.",
+    "Finally, I sum up all the cookies Ann keeps.",
+    "The total number of cookies Ann keeps is \\(12 + 6 + 18 = 36\\)."
+  ],
+  "solution": "36"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "Nelly wants to buy pizza for herself and her 14 friends. Each pizza costs $12 and can feed 3 people. If Nelly earns $4 a night babysitting the neighbors' kids, how many nights will she have to babysit to afford the pizza?",
+  "steps": [
+    "First, I need to determine the total number of people for whom Nelly wants to buy pizza. Nelly wants to buy for herself and 14 friends.",
+    "The total number of people is 1 (Nelly) + 14 (friends) = 15 people.",
+    "Each pizza can feed 3 people. I need to calculate how many pizzas are required to feed 15 people.",
+    "I divide the total number of people by the number of people each pizza can feed: 15 / 3 = 5 pizzas.",
+    "Next, I calculate the total cost for 5 pizzas. Each pizza costs $12.",
+    "The total cost is 5 pizzas * $12 per pizza = $60.",
+    "Now, I need to determine how many nights Nelly has to babysit to earn $60.",
+    "Nelly earns $4 a night babysitting. I divide the total cost by the amount she earns per night: $60 / $4 per night = 15 nights."
+  ],
+  "solution": "15"
+}

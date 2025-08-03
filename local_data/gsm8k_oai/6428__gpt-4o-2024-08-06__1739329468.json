@@ -1,0 +1,15 @@
+{
+  "query": "Percy swims 1 hour before school and 1 after school 5 days a week.  He swims 3 hours on the weekend.  How many hours of swimming does he do over 4 weeks?",
+  "steps": [
+    "Percy swims 1 hour before school and 1 hour after school. This means he swims 2 hours each weekday.",
+    "There are 5 weekdays in a week.",
+    "So, Percy swims 2 hours/day * 5 days = 10 hours during the weekdays.",
+    "Percy swims 3 hours each weekend.",
+    "In a single week, Percy swims 10 hours on weekdays + 3 hours on the weekend.",
+    "So, Percy swims a total of 10 + 3 = 13 hours each week.",
+    "We need to calculate his swimming hours over 4 weeks.",
+    "Multiply the weekly swimming hours (13) by the number of weeks (4).",
+    "13 hours/week * 4 weeks = 52 hours."
+  ],
+  "solution": "52"
+}

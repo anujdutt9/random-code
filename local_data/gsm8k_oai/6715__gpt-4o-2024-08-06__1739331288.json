@@ -1,0 +1,14 @@
+{
+  "query": "Christine and Janice are having a contest to see who can throw a ball the highest. They each get three throws. On her first throw, Christine throws it 20 feet high. Janice's throw is 4 feet lower than Christine's. On their second throw, Christine throws it ten feet higher than her first throw and Janice throws it twice as high as her first throw. On the final throw, Christine throws it 4 feet higher than her 2nd throw while Janice throws it 17 feet higher than Christine's first throw. What is the height of the highest throw?",
+  "steps": [
+    "Christine's first throw is 20 feet high.",
+    "Janice's first throw is 4 feet lower than Christine's first throw: 20 - 4 = 16 feet.",
+    "Christine's second throw is 10 feet higher than her first throw: 20 + 10 = 30 feet.",
+    "Janice's second throw is twice as high as her first throw: 2 * 16 = 32 feet.",
+    "Christine's third throw is 4 feet higher than her second throw: 30 + 4 = 34 feet.",
+    "Janice's third throw is 17 feet higher than Christine's first throw: 20 + 17 = 37 feet.",
+    "Now I need to find the highest throw among all of Christine's and Janice's throws: 20, 30, 34 (Christine) and 16, 32, 37 (Janice).",
+    "The highest throw is 37 feet."
+  ],
+  "solution": "37"
+}

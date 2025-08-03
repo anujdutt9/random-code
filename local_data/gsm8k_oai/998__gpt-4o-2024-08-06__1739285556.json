@@ -1,0 +1,17 @@
+{
+  "query": "Lydia has a small pool she uses to bathe her dogs.  When full, the pool holds 60 gallons of water.  She fills her pool using the garden hose, which provides water at the rate of 1.6 gallons per minute.  Unfortunately, her pool has a small hole that leaks water at a rate of 0.1 gallons per minute.  How long will it take for her to fill the pool, in minutes?",
+  "steps": [
+    "I need to find the net rate of water increase in the pool.",
+    "The filling rate from the hose is 1.6 gallons per minute.",
+    "The leaking rate from the hole is 0.1 gallons per minute.",
+    "The net rate of water increase is the filling rate minus the leaking rate.",
+    "Net rate = 1.6 gallons per minute - 0.1 gallons per minute.",
+    "Net rate = 1.5 gallons per minute.",
+    "The pool needs to be filled with 60 gallons of water.",
+    "I need to calculate how long it will take to fill 60 gallons at a rate of 1.5 gallons per minute.",
+    "The time it takes to fill the pool is the total volume of the pool divided by the net rate.",
+    "Time = 60 gallons / 1.5 gallons per minute.",
+    "Time = 40 minutes."
+  ],
+  "solution": "40"
+}

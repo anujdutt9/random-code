@@ -1,0 +1,24 @@
+{
+  "query": "Ahmed is 11 years old and Fouad is 26 years old. In how many years will Fouad's age be double Ahmed's current age?",
+  "steps": [
+    "Ahmed is currently 11 years old.",
+    "Fouad is currently 26 years old.",
+    "We need to find a number of years after which Fouad's age will be double Ahmed's current age.",
+    "Ahmed's current age is 11.",
+    "Double Ahmed's current age would be 11 * 2 = 22.",
+    "We need to find when Fouad's age will be 22.",
+    "Currently, Fouad is 26 years old, which is already greater than 22, so I must have made a mistake in my thinking or interpretation. Let me reconsider.",
+    "I realized what the problem is. I should have checked more carefully what is being asked. The question is when will Fouad's age become double the age of 11.",
+    "So the goal is to make Fouad's age 2 * 11 = 22 years in some period of time.",
+    "Fouad is already older than 22, so the question should actually refer to how many years from now until Fouad's age becomes 2 times Ahmed's age, not 2 times Ahmed's current age.",
+    "Instead, I should calculate how many more years until Fouad's age matches the doubling of Ahmed's age in the future.",
+    "Let Fouad's age after x years be 26 + x.",
+    "Let Ahmed's age after x years be 11 + x.",
+    "We're looking for when Fouad's age equals 2 times Ahmed's age in the future. So we need to solve: 26 + x = 2 * (11 + x).",
+    "Expanding the right side gives: 26 + x = 22 + 2x.",
+    "Subtract x from both sides: 26 = 22 + x.",
+    "Subtract 22 from both sides to isolate x: 26 - 22 = x.",
+    "Therefore, x = 4."
+  ],
+  "solution": "4"
+}

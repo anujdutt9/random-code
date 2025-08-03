@@ -1,0 +1,18 @@
+{
+  "query": "Amanda is figuring out how many bags of grass seed she needs to buy to cover a new lot the city is turning into a park. The lot measures 120 feet by 60 feet. One section that measures 40 feet by 40 feet will be covered with concrete, and the rest needs to be covered in grass seeds. Each bag of grass seeds covers 56 square feet. How many bags of grass seeds does Amanda need?",
+  "steps": [
+    "First, calculate the total area of the lot. The lot measures 120 feet by 60 feet.",
+    "Multiply the length (120 feet) by the width (60 feet) to get the total area.",
+    "120 feet * 60 feet = 7200 square feet",
+    "Next, calculate the area of the section that will be covered with concrete.",
+    "The concrete section measures 40 feet by 40 feet.",
+    "Multiply the length (40 feet) by the width (40 feet) to get the area covered with concrete.",
+    "40 feet * 40 feet = 1600 square feet",
+    "Now, subtract the area of the concrete section from the total area of the lot to find the area that needs grass seeds.",
+    "7200 square feet - 1600 square feet = 5600 square feet",
+    "Each bag of grass seeds covers 56 square feet.",
+    "Divide the area that needs grass seeds (5600 square feet) by the coverage of one bag (56 square feet) to find out how many bags Amanda needs.",
+    "5600 square feet / 56 square feet per bag = 100 bags"
+  ],
+  "solution": "100"
+}

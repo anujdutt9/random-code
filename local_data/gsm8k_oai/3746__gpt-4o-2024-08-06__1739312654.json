@@ -1,0 +1,16 @@
+{
+  "query": "A pen and pencil have a total cost of $6. If the pen costs twice as much as the pencil, what is the cost of the pen?",
+  "steps": [
+    "First, I need to define variables for the costs of the pen and the pencil.",
+    "Let P be the cost of the pen and C be the cost of the pencil.",
+    "I have the first equation from the information given: P + C = 6.",
+    "I also have the second equation: P = 2C, because the pen costs twice as much as the pencil.",
+    "Now I will substitute the second equation into the first equation. So replace P in the first equation with 2C, giving: 2C + C = 6.",
+    "This simplifies to 3C = 6.",
+    "To solve for C, divide both sides of the equation by 3, resulting in C = 2.",
+    "Now that I have the cost of the pencil, I can use the second equation to find the cost of the pen. Since P = 2C, I substitute 2 for C: P = 2 * 2.",
+    "This gives P = 4.",
+    "I will double-check my work: If the pencil is $2 and the pen is $4, then the total cost is $2 + $4 = $6, which matches the problem's conditions."
+  ],
+  "solution": "4"
+}

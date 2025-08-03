@@ -1,0 +1,12 @@
+{
+  "query": "Michael has 2 cats and 3 dogs. He needs to pay a friend to watch them, who charges $13 a night per animal. How much does Michael have to pay?",
+  "steps": [
+    "Michael has 2 cats and 3 dogs.",
+    "The total number of animals is the sum of the cats and dogs.",
+    "2 cats + 3 dogs = 5 animals.",
+    "The friend charges $13 per night per animal.",
+    "To find the total charge, multiply the number of animals by the charge per animal.",
+    "5 animals * $13 per animal = $65."
+  ],
+  "solution": "65"
+}

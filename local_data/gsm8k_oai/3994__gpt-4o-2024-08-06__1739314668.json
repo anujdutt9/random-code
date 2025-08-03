@@ -1,0 +1,15 @@
+{
+  "query": "Tom bought 10 packages of miniature racing cars. Each package contains five cars. He gave each of his two nephews 1/5 of the cars. How many miniature racing cars are left with Tom?",
+  "steps": [
+    "First, calculate the total number of miniature racing cars Tom bought. He bought 10 packages, each containing 5 cars.",
+    "Multiply the number of packages (10) by the number of cars per package (5): \\(10 \\times 5 = 50\\) cars.",
+    "Tom originally has 50 miniature racing cars in total.",
+    "Now, determine how many cars Tom gives to each nephew. He gives each nephew 1/5 of the total cars.",
+    "Calculate 1/5 of 50 by dividing 50 by 5: \\(50 \\div 5 = 10\\).",
+    "Tom gives 10 cars to each nephew.",
+    "Since he has two nephews, calculate the total number of cars given to both nephews by multiplying the cars given to one nephew by 2: \\(10 \\times 2 = 20\\).",
+    "Tom gave away 20 cars in total.",
+    "To find out how many cars are left with Tom, subtract the total cars given from the original number of cars. So, \\(50 - 20 = 30\\)."
+  ],
+  "solution": "30"
+}

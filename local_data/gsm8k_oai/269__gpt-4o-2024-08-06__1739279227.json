@@ -1,0 +1,18 @@
+{
+  "query": "John earned $18 on Saturday but he only managed to earn half that amount on Sunday. He earned $20 the previous weekend. How much more money does he need to earn to give him the $60 he needs to buy a new pogo stick?",
+  "steps": [
+    "First, I need to figure out how much John earned on Sunday. It was half of what he earned on Saturday.",
+    "John earned $18 on Saturday. Half of $18 is $9.",
+    "So, John earned $9 on Sunday.",
+    "Now, I'll calculate how much he earned during this weekend altogether.",
+    "He earned $18 on Saturday and $9 on Sunday.",
+    "Adding those together gives $18 + $9 = $27 for this weekend.",
+    "Next, I need to add last weekend\u2019s earnings to this total.",
+    "John earned $20 the previous weekend.",
+    "So far, John has earned $27 + $20 = $47.",
+    "John needs $60 to buy a new pogo stick.",
+    "To find out how much more he needs, I subtract his total earnings from the required amount.",
+    "$60 - $47 = $13."
+  ],
+  "solution": "13"
+}

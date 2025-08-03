@@ -1,0 +1,15 @@
+{
+  "query": "The stadium seats 60,000 fans, but only 75% of the seats were sold for the music show. Because of the threat of rain, 5,000 fans stayed home. How many attended the show?",
+  "steps": [
+    "First, I need to find out how many seats were sold. The stadium has a capacity of 60,000 seats.",
+    "Only 75% of the seats were sold.",
+    "To find the number of seats sold, I calculate 75% of 60,000.",
+    "75% as a decimal is 0.75.",
+    "I multiply 60,000 by 0.75 to find the number of seats sold: 60,000 * 0.75 = 45,000.",
+    "So, 45,000 seats were sold.",
+    "Now, I need to account for the 5,000 fans who stayed home due to the threat of rain.",
+    "To find out how many attended the show, I subtract the 5,000 fans who stayed home from the 45,000 seats that were sold.",
+    "45,000 - 5,000 = 40,000."
+  ],
+  "solution": "40,000"
+}

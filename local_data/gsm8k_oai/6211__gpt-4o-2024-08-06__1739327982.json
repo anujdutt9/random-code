@@ -1,0 +1,14 @@
+{
+  "query": "Jane is looking at a tree. At the same time, the tree and Jane are casting shadows - the tree of 10 meters and Jane of 0.5 meters. Jane is 1.5 meters tall. How tall is the tree?",
+  "steps": [
+    "First, I acknowledge that the problem involves similar triangles formed by Jane, her shadow, the tree, and its shadow.",
+    "I know that the height of the object and the length of its shadow are proportional because the sun's rays are parallel.",
+    "I set up a proportion using the known heights and shadow lengths. Specifically, I set up the ratio of Jane's height to her shadow length, which is 1.5 meters to 0.5 meters.",
+    "Similarly, I set up the ratio for the tree's height to its shadow length, which is \\( h \\) (the unknown height of the tree) to 10 meters.",
+    "Now I equate these two ratios: \\(\\frac{1.5}{0.5} = \\frac{h}{10}\\).",
+    "Simplifying the left side ratio, I divide 1.5 by 0.5, which results in 3.",
+    "I now have the equation \\(3 = \\frac{h}{10}\\).",
+    "I solve for \\( h \\) by multiplying both sides of the equation by 10, yielding \\( h = 30\\).\n\n<check>\nI double-check each calculation and reasoning step to ensure there are no mistakes.\n</check>"
+  ],
+  "solution": "30"
+}

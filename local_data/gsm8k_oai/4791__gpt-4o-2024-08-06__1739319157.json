@@ -1,0 +1,16 @@
+{
+  "query": "A cougar is sleeping for 4 hours at night, and a zebra for 2 hours more. How much time do both animals sleep in one week?",
+  "steps": [
+    "First, I know that a week has 7 days.",
+    "The cougar sleeps for 4 hours each night.",
+    "The total number of hours the cougar sleeps in a week is 4 hours per night times 7 nights.",
+    "Calculating: 4 hours/night * 7 nights = 28 hours in a week for the cougar.",
+    "The zebra sleeps for 2 hours more than the cougar each night.",
+    "Since the cougar sleeps 4 hours, the zebra sleeps 4 hours + 2 hours = 6 hours each night.",
+    "The total number of hours the zebra sleeps in a week is 6 hours per night times 7 nights.",
+    "Calculating: 6 hours/night * 7 nights = 42 hours in a week for the zebra.",
+    "Now, I need to find the total hours both animals sleep in one week.",
+    "Adding the weekly sleep of both: 28 hours (cougar) + 42 hours (zebra) = 70 hours."
+  ],
+  "solution": "70"
+}

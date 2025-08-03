@@ -1,0 +1,20 @@
+{
+  "query": "Lilith is trying to break the world record for largest cap collection. She collects 3 caps per month in the first year, and 5 caps per month after the first year. Each Christmas, she also receives 40 caps from friends and family. She estimates that each year, she loses 15 of the caps she has collected. If Lilith has been collecting for 5 years, how many caps has she collected so far?",
+  "steps": [
+    "First, I need to calculate how many caps Lilith collects during the first year.",
+    "She collects 3 caps per month for 12 months, so that's 3 * 12 = 36 caps in the first year.",
+    "Next, each Christmas she receives an additional 40 caps.",
+    "In the first year, she collects 36 caps and receives 40 caps, making a total of 36 + 40 = 76 caps.",
+    "After the first year, Lilith collects 5 caps per month.",
+    "For the remaining 4 years, she collects 5 caps per month for 12 months each year.",
+    "Each year, she collects 5 * 12 = 60 caps from monthly collection alone.",
+    "For the next 4 years, she receives 60 caps per year from monthly collection. So, 4 * 60 = 240 caps from monthly collection over 4 years.",
+    "Additionally, she receives 40 caps as gifts each Christmas, so 4 * 40 = 160 caps over 4 years.",
+    "Now add the caps she receives and collects during these 4 years: 240 + 160 = 400 caps.",
+    "So before accounting for any loss, her total cap collection over 5 years is 76 caps (from the first year) + 400 caps (from the next 4 years) = 476 caps.",
+    "Now, account for the yearly loss of 15 caps over 5 years.",
+    "15 caps are lost each year, so the total loss over 5 years is 5 * 15 = 75 caps.",
+    "Subtracting the total loss from the total collection gives 476 - 75 = 401 caps."
+  ],
+  "solution": "401"
+}

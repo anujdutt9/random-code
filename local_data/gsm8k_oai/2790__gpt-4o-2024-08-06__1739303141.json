@@ -1,0 +1,14 @@
+{
+  "query": "Four small panda bears and five bigger panda bears eat 25 pounds and 40 pounds of fresh bamboo sprouts every day, respectively. How many pounds of bamboo do the 9 pandas eat in a week?",
+  "steps": [
+    "First, I need to find out how much bamboo the small pandas eat in a day. Each small panda eats 25 pounds, and there are 4 small pandas.",
+    "4 small pandas * 25 pounds per panda = 100 pounds of bamboo per day by small pandas.",
+    "Next, I'll calculate how much bamboo the big pandas eat in a day. Each big panda eats 40 pounds, and there are 5 big pandas.",
+    "5 big pandas * 40 pounds per panda = 200 pounds of bamboo per day by big pandas.",
+    "Now, I will add the daily consumption of small pandas and big pandas to find the total daily consumption for all pandas.",
+    "100 pounds (small pandas) + 200 pounds (big pandas) = 300 pounds of bamboo per day for all pandas.",
+    "To find the weekly consumption, I multiply the daily total by 7 days.",
+    "300 pounds per day * 7 days = 2100 pounds of bamboo per week for all pandas."
+  ],
+  "solution": "2100"
+}

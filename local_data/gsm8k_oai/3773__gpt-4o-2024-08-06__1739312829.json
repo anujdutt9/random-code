@@ -1,0 +1,18 @@
+{
+  "query": "A packet of candy sweets has 30 cherry-flavored sweets, 40 strawberry-flavored sweets, and 50 pineapple-flavored sweets. Aaron eats half of each of the flavored sweets and gives 5 cherry-flavored sweets to his friend. How many sweets are still in the packet of candy?",
+  "steps": [
+    "First, I need to determine how many sweets of each flavor Aaron eats.",
+    "Aaron eats half of the cherry-flavored sweets, which is 30 / 2 = 15.",
+    "Aaron eats half of the strawberry-flavored sweets, which is 40 / 2 = 20.",
+    "Aaron eats half of the pineapple-flavored sweets, which is 50 / 2 = 25.",
+    "Next, I calculate how many sweets are left after Aaron eats them.",
+    "For the cherry-flavored sweets: 30 - 15 = 15 sweets left.",
+    "For the strawberry-flavored sweets: 40 - 20 = 20 sweets left.",
+    "For the pineapple-flavored sweets: 50 - 25 = 25 sweets left.",
+    "Aaron also gives 5 cherry-flavored sweets to his friend, so I subtract these from the remaining cherry-flavored sweets: 15 - 5 = 10 sweets left.",
+    "Now, I calculate the total number of sweets left in the packet.",
+    "There are 10 cherry-flavored sweets, 20 strawberry-flavored sweets, and 25 pineapple-flavored sweets left.",
+    "Total sweets left = 10 + 20 + 25 = 55."
+  ],
+  "solution": "55"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Otto\u2019s local kitchen supply store charges $5.00 for the first knife that you need sharpened.  They charge $4.00 for the next 3 knives and $3.00 for any knife after that.  If Otto has 9 knives that need to be sharpened, how much will it cost to sharpen his knives?",
+  "steps": [
+    "First, I need to charge Otto $5.00 for sharpening the first knife.",
+    "Next, I need to calculate the cost for the next three knives. The store charges $4.00 for each of the next three knives.",
+    "For three knives at $4.00 each, the cost will be 3 x $4.00 = $12.00.",
+    "Now, I need to determine how many knives are left after the first four knives (one at $5.00 and three at $4.00 each). Otto has 9 knives in total.",
+    "So, 9 total knives - 4 knives = 5 knives remaining that need to be sharpened.",
+    "For the remaining 5 knives, the store charges $3.00 per knife.",
+    "The cost for these 5 knives is 5 x $3.00 = $15.00.",
+    "Now, I add up all the costs: $5.00 + $12.00 + $15.00.",
+    "$5.00 + $12.00 = $17.00.",
+    "$17.00 + $15.00 = $32.00."
+  ],
+  "solution": "32"
+}

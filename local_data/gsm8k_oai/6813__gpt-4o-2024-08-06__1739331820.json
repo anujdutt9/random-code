@@ -1,0 +1,14 @@
+{
+  "query": "The tallest building in the world is 100 feet tall.  If the second tallest is half that tall, and the third tallest is half as tall as the second, and the fourth is one-fifth as tall as the third, how tall are all 4 buildings put together?",
+  "steps": [
+    "The first building is 100 feet tall.",
+    "The second tallest building is half the height of the first building. So, its height is 100 / 2 = 50 feet.",
+    "The third tallest building is half the height of the second building. So, its height is 50 / 2 = 25 feet.",
+    "The fourth building is one-fifth the height of the third building. So, its height is 25 / 5 = 5 feet.",
+    "Now, I need to add up the heights of all four buildings: 100 + 50 + 25 + 5.",
+    "First, add 100 and 50 to get 150.",
+    "Next, add 25 to 150 to get 175.",
+    "Finally, add 5 to 175 to get 180."
+  ],
+  "solution": "180"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "A high school bowling team's 3 members scored a total of 810 points in their first match.  The first bowler scored 1/3 as many points as the second, and the second bowler scored 3 times as high as the third bowler.  How many points did the third bowler score?",
+  "steps": [
+    "Let me start by setting variables for the scores of the three bowlers. Let the score of the third bowler be \\( x \\).",
+    "The second bowler scored 3 times as high as the third bowler, so the second bowler's score is \\( 3x \\).",
+    "The first bowler scored 1/3 as many points as the second bowler. Since the second bowler's score is \\( 3x \\), the first bowler's score is \\( \\frac{1}{3} \\times 3x = x \\).",
+    "Now I need to express the total score using these variables. The total score from all three bowlers is \\( x + 3x + x \\).",
+    "Simplify the expression \\( x + 3x + x \\) to get the total score: \\( 5x \\).",
+    "According to the problem, the total score of all bowlers is 810 points. Thus, I have the equation \\( 5x = 810 \\).",
+    "Solve the equation \\( 5x = 810 \\) for \\( x \\). Divide both sides by 5: \\( x = \\frac{810}{5} \\).",
+    "Calculate \\( \\frac{810}{5} \\), which is 162.",
+    "The score for the third bowler, which is \\( x \\), is therefore 162."
+  ],
+  "solution": "162"
+}

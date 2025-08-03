@@ -1,0 +1,12 @@
+{
+  "query": "It takes 3 men an hour to complete a job. If they are hired to work on 5 such similar jobs by a company that pays each of them $10 per hour, calculate the total amount of money the three will earn when they complete the jobs?",
+  "steps": [
+    "First, I need to understand how long it takes for the men to complete one job. It takes 3 men 1 hour to complete 1 job.",
+    "Next, I should consider the number of jobs. There are 5 similar jobs to be completed.",
+    "Since it takes 1 hour for 3 men to complete 1 job, it will take the 3 men 5 hours to complete 5 jobs (5 jobs * 1 hour per job = 5 hours).",
+    "Now, I need to calculate how much money one man earns per hour. Each man earns $10 per hour.",
+    "For all 3 men, the amount they earn per hour collectively is $10 per man * 3 men = $30 per hour.",
+    "Now, I will calculate the total earnings for the 3 men for the full duration of completing the 5 jobs. Since it takes them 5 hours to complete the jobs, their earnings would be $30 per hour * 5 hours = $150."
+  ],
+  "solution": "150"
+}

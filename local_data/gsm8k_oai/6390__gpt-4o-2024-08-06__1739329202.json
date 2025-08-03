@@ -1,0 +1,16 @@
+{
+  "query": "Ivar owns a stable. He recently has 3 horses and each horse consumes 5 liters of water for drinking and 2 liters for bathing per day. If he added 5 horses, how many liters of water does Ivar need for all the horses for 28 days?",
+  "steps": [
+    "First, I need to find out how many horses Ivar owns after adding more horses.",
+    "Originally, he has 3 horses. He adds 5 more horses.",
+    "3 + 5 = 8 horses total after the addition.",
+    "Next, I need to determine the total daily water consumption per horse.",
+    "Each horse consumes 5 liters of water for drinking and 2 liters for bathing every day.",
+    "5 + 2 = 7 liters of total water per horse per day.",
+    "Now, I need to calculate the total daily water consumption for all 8 horses.",
+    "8 horses \u00d7 7 liters per horse = 56 liters per day needed for all horses.",
+    "Finally, to find the total water needed for 28 days, I multiply the daily water consumption by the number of days.",
+    "56 liters per day \u00d7 28 days = 1568 liters of water needed in total."
+  ],
+  "solution": "1568"
+}

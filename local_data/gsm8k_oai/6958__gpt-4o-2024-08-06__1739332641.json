@@ -1,0 +1,20 @@
+{
+  "query": "Together, Alan and Marcy handed out 150 parking tickets. If Marcy handed out 6 fewer than 5 times as many tickets as Alan, how many tickets did Alan hand out?",
+  "steps": [
+    "Let's start by defining variables. Let A be the number of tickets Alan handed out.",
+    "According to the problem, Marcy handed out 6 fewer than 5 times as many tickets as Alan.",
+    "So we can express the number of tickets Marcy handed out as 5A - 6.",
+    "Together, Alan and Marcy handed out 150 parking tickets.",
+    "The total number of tickets handed out can be expressed as A + (5A - 6) = 150.",
+    "Combine the terms: A + 5A - 6 = 150.",
+    "This simplifies to 6A - 6 = 150.",
+    "To solve for A, first add 6 to both sides of the equation: 6A - 6 + 6 = 150 + 6.",
+    "This simplifies to 6A = 156.",
+    "Now, divide both sides of the equation by 6 to solve for A: 6A/6 = 156/6.",
+    "This simplifies to A = 26.",
+    "Let's double-check our work to make sure it's correct. Alan handed out 26 tickets.",
+    "Marcy handed out 5 times 26, which is 130, minus 6, which equals 124.",
+    "Together, Alan and Marcy handed out 26 + 124 = 150 tickets, which matches the problem statement."
+  ],
+  "solution": "26"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "A conference center has six rooms. Each room can hold up to 80 people. Today, the conference center is only 2/3 full. How many people are in the conference center?",
+  "steps": [
+    "First, I need to calculate the total maximum capacity of the conference center.",
+    "There are six rooms and each room can hold up to 80 people.",
+    "The total capacity is calculated by multiplying 6 (rooms) by 80 (people per room).",
+    "6 multiplied by 80 equals 480.",
+    "So, the total maximum capacity of the conference center is 480 people.",
+    "Next, I need to find out how many people are there when the center is 2/3 full.",
+    "To find 2/3 of the total capacity, I multiply 480 by 2/3.",
+    "First calculate 480 divided by 3, which equals 160.",
+    "Then, multiply 160 by 2 to find 2/3 of the capacity.",
+    "160 multiplied by 2 equals 320.",
+    "Therefore, when the conference center is 2/3 full, there are 320 people in it."
+  ],
+  "solution": "320"
+}

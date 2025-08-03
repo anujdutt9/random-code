@@ -1,0 +1,11 @@
+{
+  "query": "Question: Examine each of these chemical equations to determine which equation is correctly balanced.\n\nChoices:\nA: Mg(NO_{3})_{2} + K_{2}CO_{3} -> MgCO_{3} + KNO_{3}\nB: Mg(NO_{3})_{2} + K_{2}CO_{3} -> MgCO_{3} + 2KNO_{3}\nC: 2Mg(NO_{3})_{2} + K_{2}CO_{3} -> 2MgCO_{3} + KNO_{3}\nD: Mg(NO_{3})_{2} + 2K_{2}CO_{3} -> MgCO_{3} + 2KNO_{3}",
+  "steps": [
+    "First, I will identify the number of each type of atom in the reactants and products of each equation.",
+    "For choice A:  \nReactants: 1 Mg, 2 N, 6 O, 2 K, 1 C  \nProducts: 1 Mg, 1 N, 3 O, 1 K, 1 C  \nThis equation is not balanced as the number of K and N atoms do not match.",
+    "For choice B:  \nReactants: 1 Mg, 2 N, 6 O, 2 K, 1 C  \nProducts: 1 Mg, 2 N, 6 O, 2 K, 1 C  \nThis equation is balanced as the number of each type of atom matches.",
+    "For choice C:  \nReactants: 2 Mg, 4 N, 12 O, 2 K, 1 C  \nProducts: 2 Mg, 1 N, 6 O, 1 K, 1 C  \nThis equation is not balanced as the number of N and K atoms does not match.",
+    "For choice D:  \nReactants: 1 Mg, 2 N, 6 O, 4 K, 2 C  \nProducts: 1 Mg, 2 N, 6 O, 2 K, 1 C  \nThis equation is not balanced as the number of K and C atoms does not match."
+  ],
+  "solution": "B"
+}

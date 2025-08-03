@@ -1,0 +1,18 @@
+{
+  "query": "There were 180 apples in each crate. 12 such crates of apples were delivered to a factory. 160 apples were rotten and had to be thrown away. The remaining apples were packed into boxes of 20 apples each. How many boxes of apples were there?",
+  "steps": [
+    "First, let's calculate the total number of apples delivered.",
+    "Each crate has 180 apples.",
+    "There are 12 crates.",
+    "Multiply the number of crates by the number of apples per crate: 12 * 180.",
+    "12 * 180 equals 2160 apples.",
+    "Next, subtract the number of rotten apples from the total.",
+    "There were 160 rotten apples.",
+    "Subtract 160 from 2160 to find the number of good apples: 2160 - 160.",
+    "2160 - 160 equals 2000 good apples.",
+    "Now, we need to determine how many boxes of 20 apples can be packed with the 2000 apples.",
+    "Divide the number of good apples by the number of apples per box: 2000 / 20.",
+    "2000 divided by 20 equals 100."
+  ],
+  "solution": "100"
+}

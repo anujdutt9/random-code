@@ -1,0 +1,14 @@
+{
+  "query": "Lard decides to share a pizza with his friend Jelly.  He takes a whole, uncut pepperoni pizza and cuts it in half.  He then cuts these halves in half and gives one of the slices to Jelly.  Assuming the pizza started with 40 evenly spread slices of pepperoni, how many slices of it are on the slice Lard gives Jelly if 1 of them falls off the slice when Lard picks it up?",
+  "steps": [
+    "Start by understanding the problem: Lard has a whole, uncut pepperoni pizza with 40 slices of pepperoni spread evenly across the pizza.",
+    "The pizza is first cut in half, making two equal halves.",
+    "Each half is then cut in half again, resulting in four equal quarters of the pizza.",
+    "Now, consider that each of these quarters should contain an equal number of pepperoni slices since the pepperoni was evenly spread initially.",
+    "Calculate the number of pepperoni slices on each quarter. Since there are 40 slices of pepperoni on the whole pizza, each quarter should have 40 / 4 = 10 slices of pepperoni.",
+    "Lard gives one quarter of the pizza to Jelly.",
+    "However, it is mentioned that 1 slice of the pepperoni falls off the slice when Lard picks it up.",
+    "Therefore, the number of pepperoni slices actually on the slice given to Jelly would be 10 - 1 = 9 slices of pepperoni."
+  ],
+  "solution": "9"
+}

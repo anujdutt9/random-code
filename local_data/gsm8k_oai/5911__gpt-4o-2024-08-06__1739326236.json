@@ -1,0 +1,13 @@
+{
+  "query": "A building has 20 floors. Each floor is 3 meters high, except for the last two floors. The last two floors are each 0.5 meters higher. How tall is the building?",
+  "steps": [
+    "First, I note that the building has 20 floors in total.",
+    "I understand that each of the first 18 floors is 3 meters high.",
+    "I calculate the total height of these 18 floors by multiplying 18 floors by 3 meters per floor: 18 * 3 = 54 meters.",
+    "The problem states that the last two floors (floors 19 and 20) are each 0.5 meters higher than the standard height of 3 meters.",
+    "Therefore, each of the last two floors is 3 + 0.5 = 3.5 meters high.",
+    "I find the total height of the last two floors by multiplying 2 floors by 3.5 meters per floor: 2 * 3.5 = 7 meters.",
+    "Now, I add the height of the first 18 floors and the last two floors to find the total height of the building: 54 meters + 7 meters = 61 meters."
+  ],
+  "solution": "61"
+}

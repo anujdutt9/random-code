@@ -1,0 +1,15 @@
+{
+  "query": "A soccer team had 24 players prepared for a soccer game. The first half saw 11 players start the game with 2 substitutions made. In the second half, the team made twice as many substitutions as it made in the first half. How many players on the team did not play that day?",
+  "steps": [
+    "The team begins with 24 players.",
+    "In the first half, 11 players start the game.",
+    "During the first half, they also made 2 substitutions.",
+    "The total number of players who played in the first half is the 11 who started plus the 2 who were substituted in, making a total of 13 players.",
+    "In the second half, the team made twice as many substitutions as they did in the first half. Since they made 2 substitutions in the first half, they made 2 * 2 = 4 substitutions in the second half.",
+    "In the second half, let's assume these 4 substitutions involve new players who were not already on the field, unless they substituted back one of the prior players. However, typically substitutions involve new players coming in, so I assume all substitutions were new players.",
+    "Adding the 4 new players substituted in the second half, in total, we now have 13 players in the first half plus 4 additional players in the second half, totaling 17 players who played.",
+    "The number of players on the team who did not play is the total players (24) minus those who played (17).",
+    "24 - 17 = 7 players did not play."
+  ],
+  "solution": "7"
+}

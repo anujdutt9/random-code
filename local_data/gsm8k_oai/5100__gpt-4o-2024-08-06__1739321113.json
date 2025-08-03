@@ -1,0 +1,13 @@
+{
+  "query": "The lights in Malcolm\u2019s house are flickering, and he hopes that replacing all of his white lights with colored lights will make it stop. He buys 12 red lights, 3 times as many blue lights, and 6 green lights.  If he still has 5 colored lights left to buy, how many white lights did Malcolm have initially?",
+  "steps": [
+    "Malcolm buys 12 red lights.",
+    "He buys 3 times as many blue lights as red lights. So, he buys 3 * 12 = 36 blue lights.",
+    "He buys 6 green lights.",
+    "Adding them up, the total number of colored lights he buys is 12 (red) + 36 (blue) + 6 (green) = 54 colored lights.",
+    "According to the problem, he still has 5 colored lights left to buy.",
+    "Therefore, the total number of colored lights he needs is 54 (lights already bought) + 5 (lights left to buy) = 59 colored lights.",
+    "The number of colored lights he needs to match the number of white lights means he initially had 59 white lights."
+  ],
+  "solution": "59"
+}

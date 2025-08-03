@@ -1,0 +1,19 @@
+{
+  "query": "Berry is curious about what his average temperature is during the week. On Sunday his temperature is 99.1. On Monday his temperature is 98.2. On Tuesday his temperature is 98.7. On Wednesday his temperature is 99.3. On Thursday his temperature is 99.8. On Friday his temperature is 99. On Saturday his temperature is 98.9. What is his average temperature that week?",
+  "steps": [
+    "First, I need to list all the temperatures Berry recorded during the week.",
+    "The temperatures are: 99.1 (Sunday), 98.2 (Monday), 98.7 (Tuesday), 99.3 (Wednesday), 99.8 (Thursday), 99 (Friday), 98.9 (Saturday).",
+    "Next, I will sum all of these temperatures.",
+    "99.1 + 98.2 = 197.3",
+    "197.3 + 98.7 = 296",
+    "296 + 99.3 = 395.3",
+    "395.3 + 99.8 = 495.1",
+    "495.1 + 99 = 594.1",
+    "594.1 + 98.9 = 693",
+    "Now, I'll count the number of days for the average calculation. There are 7 days in a week.",
+    "The sum of temperatures for the week is 693, and there are 7 days.",
+    "I'll divide the total sum by the number of days to find the average temperature.",
+    "693 \u00f7 7 = 99"
+  ],
+  "solution": "99"
+}

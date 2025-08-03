@@ -1,0 +1,21 @@
+{
+  "query": "Maya's organization hosted a weekly farmers' market to raise money for the church choir. They sold broccolis, carrots, spinach, and cauliflowers. After adding together all of their earnings, Maya found out that they had made $380. The organization made $57 from broccoli and the sales of the carrots are twice as much as the sales of broccoli. Then, their sales for the spinach is $16 more than half of the sales of carrots. How much did they make from cauliflower sales?",
+  "steps": [
+    "First, I need to know how much they made from carrot sales.",
+    "They made $57 from broccoli sales.",
+    "The sales of carrots are twice the sales of broccoli.",
+    "Carrot sales = 2 * $57 = $114.",
+    "Next, I need to calculate sales from spinach.",
+    "Spinach sales are $16 more than half of the sales of carrots.",
+    "Half of the sales of carrots = $114 / 2 = $57.",
+    "Spinach sales = $57 + $16 = $73.",
+    "Now I need to find the cauliflower sales.",
+    "The total earnings from all vegetables is $380.",
+    "Total earnings from broccoli, carrots, and spinach = $57 + $114 + $73.",
+    "Total of these sales = $57 + $114 + $73 = $244.",
+    "Cauliflower sales = Total earnings - Total of broccoli, carrots, and spinach sales.",
+    "Cauliflower sales = $380 - $244.",
+    "Cauliflower sales = $136."
+  ],
+  "solution": "136"
+}

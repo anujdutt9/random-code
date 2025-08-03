@@ -1,0 +1,23 @@
+{
+  "query": "Mark got a 5% raise at his job.  Before the raise, he earned 40 dollars per hour.  He works 8 hours per day for 5 days per week.  His old bills used to be 600 dollars a week but he decided to add a hundred dollar a week personal trainer.  How much does he have leftover a week?",
+  "steps": [
+    "First, I need to calculate Mark's old weekly earnings.",
+    "He earns 40 dollars per hour.",
+    "He works 8 hours per day.",
+    "He works 5 days per week.",
+    "Weekly hours worked: 8 hours/day * 5 days/week = 40 hours.",
+    "Old weekly earnings = 40 dollars/hour * 40 hours = 1600 dollars.",
+    "Now, calculate the amount added to his hourly earnings after a 5% raise.",
+    "5% of 40 dollars is 2 dollars.",
+    "His new hourly wage is 40 dollars + 2 dollars = 42 dollars.",
+    "Calculate his new weekly earnings with the increased wage.",
+    "New weekly earnings = 42 dollars/hour * 40 hours = 1680 dollars.",
+    "Next, calculate his old weekly bills.",
+    "Old weekly bills were 600 dollars.",
+    "He now added a 100 dollar per week personal trainer to his expenses.",
+    "New weekly bills = 600 dollars + 100 dollars = 700 dollars.",
+    "Calculate how much he has leftover from his earnings after paying the new weekly bills.",
+    "Income remaining = 1680 dollars - 700 dollars = 980 dollars."
+  ],
+  "solution": "980"
+}

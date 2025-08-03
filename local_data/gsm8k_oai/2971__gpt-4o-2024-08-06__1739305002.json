@@ -1,0 +1,14 @@
+{
+  "query": "Flies are Betty's frog's favorite food. Every day the frog eats 2 flies. Betty puts the flies she finds in a bottle. In the morning Betty catches 5 flies inside a bottle, and in the afternoon she catches 6 more, but when she removes the lid, one escapes.  Betty wants to gather the whole week's food for her frog. How many more flies does she need?",
+  "steps": [
+    "First, I need to figure out how many flies Betty's frog eats in one day, which is 2 flies.",
+    "Next, I need to find out how many days are in a week, which is 7 days.",
+    "Now, I calculate the total number of flies the frog needs for the whole week: 2 flies/day * 7 days = 14 flies.",
+    "Betty catches 5 flies in the morning.",
+    "In the afternoon, she catches 6 more flies.",
+    "However, one fly escapes when she removes the lid.",
+    "So, the total number of flies caught is 5 (morning) + 6 (afternoon) - 1 (escaped) = 10 flies.",
+    "Since she needs 14 flies in total and currently has 10, I need to find out how many more flies she needs: 14 (total needed) - 10 (currently have) = 4 more flies."
+  ],
+  "solution": "4"
+}

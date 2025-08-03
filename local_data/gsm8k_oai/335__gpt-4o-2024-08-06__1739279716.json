@@ -1,0 +1,19 @@
+{
+  "query": "Eve wants to buy her 3 nieces cooking gear that's made for kids.  The hand mitts cost $14.00 and the apron is $16.00.  A set of 3 cooking utensils is $10.00 and a small knife is twice the amount of the utensils.  The store is offering a 25% off sale on all cooking gear.  How much will Eve spend on the gifts?",
+  "steps": [
+    "First, I need to determine the cost of each item at full price.",
+    "The hand mitts are $14.00 each.",
+    "The apron is $16.00 each.",
+    "A set of 3 cooking utensils costs $10.00.",
+    "A small knife costs twice the amount of the utensils, so it's $10.00 * 2 = $20.00.",
+    "Now, I calculate the total full price for one set of the complete cooking gear for one niece, which includes one hand mitt, one apron, one set of utensils, and one knife.",
+    "The total full price for one niece is $14.00 (hand mitt) + $16.00 (apron) + $10.00 (utensils) + $20.00 (knife).",
+    "Add these amounts: $14.00 + $16.00 + $10.00 + $20.00 = $60.00.",
+    "Now find the 25% discount on $60.00.",
+    "25% of $60.00 is $60.00 * 0.25 = $15.00.",
+    "Subtract the discount from the full price for one niece: $60.00 - $15.00 = $45.00.",
+    "Eve has 3 nieces, so I multiply the discounted price for one niece by 3.",
+    "$45.00 * 3 = $135.00."
+  ],
+  "solution": "135"
+}

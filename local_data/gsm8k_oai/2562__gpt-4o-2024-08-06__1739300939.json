@@ -1,0 +1,18 @@
+{
+  "query": "If Jason eats three potatoes in 20 minutes, how long, in hours, would it take for him to eat all 27 potatoes cooked by his wife?",
+  "steps": [
+    "First, I need to understand the rate at which Jason eats potatoes.",
+    "According to the problem, Jason eats three potatoes in 20 minutes.",
+    "I need to determine how many potatoes Jason eats per minute.",
+    "If I divide 3 potatoes by 20 minutes, I get the rate in potatoes per minute: \\( \\frac{3}{20} \\) potatoes per minute.",
+    "Next, I need to find out how long it will take Jason to eat 27 potatoes.",
+    "To do this, I can use the rate \\( \\frac{3}{20} \\) potatoes per minute to find the total time for 27 potatoes.",
+    "To find the total time in minutes, I should set up a proportion or use the formula: total potatoes / rate = time. That would be 27 / \\( \\frac{3}{20} \\).",
+    "Solving \\( 27 \\times \\frac{20}{3} \\) gives me the total time in minutes.",
+    "27 multiplied by \\( \\frac{20}{3} \\) equals 180 minutes.",
+    "Now I need to convert 180 minutes into hours.",
+    "Since there are 60 minutes in an hour, I divide 180 by 60.",
+    "180 divided by 60 equals 3 hours."
+  ],
+  "solution": "3"
+}

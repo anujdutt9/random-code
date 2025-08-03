@@ -1,0 +1,19 @@
+{
+  "query": "A small, old, wooden bridge can hold up to 100 kilograms at once. Mike, Megan, and Kelly are three children who decided to cross the bridge at the same time. Kelly weighs 34 kilograms, which is 15% less than Megan. Mike weighs 5 kilograms more than Megan. How much too much do the three children weigh together to cross the bridge?",
+  "steps": [
+    "First, I need to calculate Megan's weight because Kelly's weight is given in terms of Megan's weight.",
+    "Kelly weighs 34 kilograms and this is 15% less than Megan's weight.",
+    "If Megan's weight is M kilograms, Kelly's weight is M - 0.15M = 0.85M.",
+    "So, 0.85M = 34 kilograms.",
+    "To find Megan's weight, M, I divide 34 by 0.85.",
+    "34 \u00f7 0.85 = 40. Therefore, Megan's weight is 40 kilograms.",
+    "Now, I calculate Mike's weight. Mike weighs 5 kilograms more than Megan.",
+    "Since Megan weighs 40 kilograms, Mike's weight is 40 + 5 = 45 kilograms.",
+    "Now, I know Kelly weighs 34 kilograms, Megan weighs 40 kilograms, and Mike weighs 45 kilograms.",
+    "I sum their weights together to find the total weight of the three children.",
+    "34 + 40 + 45 = 119 kilograms.",
+    "The bridge can hold up to 100 kilograms. So, I need to find out how much their combined weight exceeds this limit.",
+    "119 - 100 = 19 kilograms."
+  ],
+  "solution": "19"
+}

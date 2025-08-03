@@ -1,0 +1,15 @@
+{
+  "query": "Sun City has 1000 more than twice as many people as Roseville City. Roseville city has 500 less than thrice as many people as Willowdale city. If Willowdale city has 2000 people, how many people live in Sun City?",
+  "steps": [
+    "First, I will determine the population of Roseville City using the population of Willowdale City.",
+    "I know that Roseville City has 500 less than three times the population of Willowdale City.",
+    "Willowdale City has 2000 people.",
+    "Three times the population of Willowdale City is 3 * 2000 = 6000.",
+    "Roseville City's population is 6000 - 500 = 5500.",
+    "Next, I will determine the population of Sun City using the population of Roseville City.",
+    "Sun City has 1000 more than twice as many people as Roseville City.",
+    "Twice the population of Roseville City is 2 * 5500 = 11000.",
+    "Adding 1000 to this, the population of Sun City is 11000 + 1000 = 12000."
+  ],
+  "solution": "12000"
+}

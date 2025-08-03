@@ -1,0 +1,15 @@
+{
+  "query": "Ryan builds model mustang cars.  A full size mustang is 240 inches long.  The mid-size model that Ryan creates is 1/10th the size, and the smallest model that Ryan creates is half the size of the mid-size model.  How many inches long is the smallest model mustang?",
+  "steps": [
+    "The full-size Mustang is 240 inches long.",
+    "The mid-size model is 1/10th the size of the full-size Mustang.",
+    "Calculate the size of the mid-size model by dividing 240 inches by 10.",
+    "240 inches \u00f7 10 = 24 inches.",
+    "The mid-size model is 24 inches long.",
+    "The smallest model is half the size of the mid-size model.",
+    "Calculate the size of the smallest model by dividing 24 inches by 2.",
+    "24 inches \u00f7 2 = 12 inches.",
+    "Thus, the smallest model Mustang is 12 inches long."
+  ],
+  "solution": "12"
+}

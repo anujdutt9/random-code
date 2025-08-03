@@ -1,0 +1,18 @@
+{
+  "query": "Bertha plays tennis. Every ten games, one of her tennis balls wears out. Every five games, she loses a ball. Every four games, she buys a canister of three balls. She started with two balls and gave one to her partner. After twenty games, how many tennis balls does she have?",
+  "steps": [
+    "Bertha starts with 2 tennis balls.",
+    "She gives 1 tennis ball to her partner, so she has 1 ball left.",
+    "She plays 20 games in total.",
+    "Every ten games, a ball wears out. She plays 20 games, so 20/10 = 2 balls wear out.",
+    "Since she has 1 ball initially, and 2 balls wear out, this would initially leave her with 1 - 2 = -1 ball if only deducting worn-out balls.",
+    "Every five games, she loses a ball. She plays 20 games, so 20/5 = 4 balls are lost.",
+    "Since she potentially would have -1 ball just considering wear-out, but we need to ascertain she had these, let's confirm via replenishing first.",
+    "Every four games, she buys a canister of 3 balls. She plays 20 games, so she buys 20/4 = 5 canisters.",
+    "Each canister has 3 balls, so she receives 5 canisters * 3 balls = 15 balls throughout the period.",
+    "Adding the balls purchased to her starting number gives her 1 + 15 = 16 balls over the entire play period accounting for just gains.",
+    "From these 16 balls, 2 wear out, and 4 are lost, so she loses 2 (worn out) + 4 (lost) = 6 balls in total.",
+    "Subtract the total depreciation from total balls acquired/started with, she has 16 - 6 = 10 balls remaining."
+  ],
+  "solution": "10"
+}

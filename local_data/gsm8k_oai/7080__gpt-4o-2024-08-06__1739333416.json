@@ -1,0 +1,21 @@
+{
+  "query": "Hallie is working as a waitress for $10/hour. On Monday, she works for 7 hours, and she receives $18 in tips. On Tuesday she works for 5 hours, and she receives $12 in tips. On Wednesday she works for 7 hours, and she receives $20 in tips. How much money does she earn in total from Monday to Wednesday?",
+  "steps": [
+    "First, I need to calculate Hallie's earnings from her hourly wage for each day.",
+    "On Monday, Hallie works for 7 hours at $10/hour. So her earnings from hourly wages on Monday are 7 * 10 = $70.",
+    "On Monday, she also receives $18 in tips.",
+    "So, on Monday, her total earnings are $70 (wages) + $18 (tips) = $88.",
+    "Now, let's calculate her earnings for Tuesday.",
+    "On Tuesday, Hallie works for 5 hours at $10/hour. Her earnings from hourly wages on Tuesday are 5 * 10 = $50.",
+    "On Tuesday, she receives $12 in tips.",
+    "So, on Tuesday, her total earnings are $50 (wages) + $12 (tips) = $62.",
+    "Next, let's calculate her earnings for Wednesday.",
+    "On Wednesday, Hallie works for 7 hours at $10/hour. Her earnings from hourly wages on Wednesday are 7 * 10 = $70.",
+    "On Wednesday, she receives $20 in tips.",
+    "So, on Wednesday, her total earnings are $70 (wages) + $20 (tips) = $90.",
+    "Now, I need to add up Hallie's total earnings from Monday, Tuesday, and Wednesday.",
+    "Her total earnings from Monday are $88, from Tuesday are $62, and from Wednesday are $90.",
+    "Adding these amounts gives us $88 + $62 + $90 = $240."
+  ],
+  "solution": "240"
+}

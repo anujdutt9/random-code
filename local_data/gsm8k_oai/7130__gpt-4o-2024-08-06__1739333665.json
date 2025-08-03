@@ -1,0 +1,13 @@
+{
+  "query": "Bethany is working at the front desk at Joe\u2019s Gym. There were some people lifting weights when she started her shift. Then 5 more people came in and started running on the treadmill and 2 people left. There are now 19 people in the gym. How many people were lifting weights at the start of Bethany\u2019s shift?",
+  "steps": [
+    "Let's denote the number of people lifting weights at the start of Bethany's shift as \\( x \\).",
+    "Initially, there were \\( x \\) people in the gym.",
+    "Then, 5 more people came in and started running on the treadmill. So, the number of people in the gym became \\( x + 5 \\).",
+    "After that, 2 people left. Thus, the total number of people in the gym is now \\( x + 5 - 2 = x + 3 \\).",
+    "According to the problem, there are now 19 people in the gym. So, we set up the equation \\( x + 3 = 19 \\).",
+    "To find the value of \\( x \\), we subtract 3 from both sides of the equation: \\( x = 19 - 3 \\).",
+    "So, \\( x = 16 \\). This means there were 16 people lifting weights at the start of Bethany's shift."
+  ],
+  "solution": "16"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "In five years, Rehana will be three times as old as Phoebe. If Rehana is currently 25 years old, and Jacob, Rehana's brother, is 3/5 of Phoebe's current age, how old is Jacob now?",
+  "steps": [
+    "I know that Rehana's current age is 25 years.",
+    "I need to find Rehana's age in five years.",
+    "In five years, Rehana will be 25 + 5 = 30 years old.",
+    "The problem states that in five years, Rehana will be three times as old as Phoebe.",
+    "If Rehana will be 30 years old in five years, and that will be three times Phoebe's age at that time, then Phoebe's age in five years will be 30 / 3 = 10 years.",
+    "I need to find Phoebe's current age.",
+    "Since five years from now Phoebe will be 10 years old, Phoebe's current age must be 10 - 5 = 5 years.",
+    "I know that Jacob is currently 3/5 of Phoebe's current age.",
+    "Phoebe's current age is 5 years, so Jacob's current age is (3/5) * 5 = 3 years."
+  ],
+  "solution": "3"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "On the island of Castor, there are 40 chess players. A quarter of the island's chess players have never lost to an AI. How many people on the island have lost to a computer, at least once?",
+  "steps": [
+    "First, I need to determine how many chess players on the island have never lost to an AI.",
+    "There are 40 chess players in total on the island.",
+    "A quarter of these players have never lost to an AI.",
+    "Since a quarter is 1/4, I need to calculate 1/4 of 40.",
+    "Calculating 1/4 of 40: \\(40 \\times \\frac{1}{4} = 10\\).",
+    "So, 10 chess players have never lost to an AI.",
+    "Now, I need to determine how many chess players have lost to an AI at least once.",
+    "If 10 players have never lost to an AI, the rest must have lost at least once.",
+    "Subtracting the players who have never lost from the total: \\(40 - 10 = 30\\).",
+    "Therefore, 30 players have lost to a computer at least once."
+  ],
+  "solution": "30"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Martha has 11 butterflies in her collection. She has twice as many blue butterflies as yellow butterflies. The rest of her butterflies are black. If Martha has 5 black butterflies, how many blue butterflies does she have?",
+  "steps": [
+    "I know Martha has a total of 11 butterflies.",
+    "I am told she has twice as many blue butterflies as yellow butterflies.",
+    "I also know that Martha has 5 black butterflies.",
+    "Let's calculate the number of butterflies that are either blue or yellow by subtracting the black butterflies from the total.",
+    "11 total butterflies minus 5 black butterflies equals 6 butterflies that are either blue or yellow.",
+    "Let \"y\" be the number of yellow butterflies.",
+    "Then, the number of blue butterflies would be \"2y\" since she has twice as many blue as yellow.",
+    "The number of blue and yellow butterflies together should equal 6.",
+    "So, I set up the equation: y + 2y = 6.",
+    "Simplifying that equation gives me 3y = 6.",
+    "To find \"y,\" I divide both sides by 3, which gives me y = 2.",
+    "If y = 2, then the number of yellow butterflies is 2.",
+    "Since the number of blue butterflies is twice the number of yellow butterflies, I multiply the number of yellow butterflies (2) by 2.",
+    "Therefore, the number of blue butterflies is 2 * 2 = 4."
+  ],
+  "solution": "4"
+}

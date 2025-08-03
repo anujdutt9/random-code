@@ -1,0 +1,14 @@
+{
+  "query": "A family went out to see a movie. The regular ticket costs $9 and the ticket for children is $2 less. They gave the cashier two $20 bills and they received a $1 change. How many children are there if there are 2 adults in the family?",
+  "steps": [
+    "The problem states the regular ticket price for adults is $9.",
+    "The children's ticket costs $2 less than the regular ticket, so it costs $9 - $2 = $7.",
+    "The family paid with two $20 bills, which totals $40.",
+    "They received $1 in change, so they must have spent $40 - $1 = $39 on tickets.",
+    "There are 2 adults, and each adult ticket costs $9.",
+    "So, the total cost for adult tickets is 2 * $9 = $18.",
+    "The total cost for the children's tickets must then be $39 - $18 = $21.",
+    "Each child ticket costs $7. Therefore, the number of children is $21 / $7 = 3."
+  ],
+  "solution": "3"
+}

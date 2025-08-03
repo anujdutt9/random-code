@@ -1,0 +1,20 @@
+{
+  "query": "At a CD store, 40% of the CDs cost $10 each, and the rest cost $5 each. Prince bought half the CDs sold at $10 each, and all of the CDs sold at $5 each. If the total number of CDs was 200, how much money did Prince spend on buying the CDs?",
+  "steps": [
+    "First, I need to determine the total number of CDs sold at $10 each. Since 40% of the CDs cost $10 each, I calculate 40% of 200.",
+    "40% of 200 is calculated as (40/100) * 200 = 80 CDs sold at $10 each.",
+    "Prince bought half of these $10 CDs. So, I need to calculate half of 80.",
+    "Half of 80 is 80 / 2 = 40. Therefore, Prince bought 40 CDs that cost $10 each.",
+    "Next, I need to determine how many CDs are sold at $5 each. Since 40% of the total CDs are sold at $10 each, the remaining percentage for $5 CDs is 100% - 40% = 60%.",
+    "Now, I calculate 60% of 200 to find how many CDs cost $5 each.",
+    "60% of 200 is (60/100) * 200 = 120 CDs sold at $5 each.",
+    "Prince bought all the $5 CDs, which totals 120.",
+    "Next, I calculate the total amount of money spent on the $10 CDs. Prince bought 40 CDs at $10 each.",
+    "The total cost for the $10 CDs is 40 * $10 = $400.",
+    "Now, I calculate the total amount of money spent on the $5 CDs. Prince bought 120 CDs at $5 each.",
+    "The total cost for the $5 CDs is 120 * $5 = $600.",
+    "Finally, I add the total costs for the $10 CDs and the $5 CDs to find the total amount of money Prince spent.",
+    "The total amount Prince spent is $400 + $600 = $1000."
+  ],
+  "solution": "1000"
+}

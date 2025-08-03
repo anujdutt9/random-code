@@ -1,0 +1,10 @@
+{
+  "query": "Question: Which of the water samples described below has the greatest average kinetic energy per molecule?\n\nChoices:\nA: 1 liter of ice at a temperature of -50\u00b0C\nB: 10 liters of ice at a temperature of -75\u00b0C\nC: 1 liter of water at a temperature of 75\u00b0C\nD: 10 liters of water at a temperature of 50\u00b0C",
+  "steps": [
+    "To determine which water sample has the greatest average kinetic energy per molecule, we need to consider the temperature of each sample. The average kinetic energy of molecules in a substance is directly proportional to the temperature in Kelvin.",
+    "First, we convert the temperatures from Celsius to Kelvin for each sample: \n- For sample A (-50\u00b0C):  -50 + 273.15 = 223.15 K\n- For sample B (-75\u00b0C): -75 + 273.15 = 198.15 K\n- For sample C (75\u00b0C): 75 + 273.15 = 348.15 K\n- For sample D (50\u00b0C): 50 + 273.15 = 323.15 K",
+    "Now we compare the Kelvin temperatures to find out which sample has the highest temperature, and therefore the greatest average kinetic energy per molecule:\n- Sample A: 223.15 K\n- Sample B: 198.15 K\n- Sample C: 348.15 K\n- Sample D: 323.15 K",
+    "Sample C has the highest temperature at 348.15 K, which means it has the greatest average kinetic energy per molecule among the given samples."
+  ],
+  "solution": "C"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "Kat decides she wants to start a boxing career.  She gets a gym membership and spends 1 hour in the gym 3 times a week doing strength training.  She also trained at the boxing gym 4 times a week for 1.5 hours.  How many hours a week does she train?",
+  "steps": [
+    "Kat spends 1 hour at the gym for strength training.",
+    "She goes to the gym 3 times a week for strength training.",
+    "Therefore, her total time spent on strength training per week is 1 hour/session * 3 sessions/week = 3 hours/week.",
+    "Kat also trains at the boxing gym 4 times a week.",
+    "Each boxing gym session is 1.5 hours long.",
+    "Therefore, her total time spent on boxing training per week is 1.5 hours/session * 4 sessions/week = 6 hours/week.",
+    "Now, I add the hours spent on strength training and boxing training.",
+    "3 hours (strength) + 6 hours (boxing) equals 9 hours a week."
+  ],
+  "solution": "9"
+}

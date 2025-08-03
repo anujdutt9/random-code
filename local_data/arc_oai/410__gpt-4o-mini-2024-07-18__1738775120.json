@@ -1,0 +1,12 @@
+{
+  "query": "Question: Which graph is best to present data collected on yearly water usage in the United States?\n\nChoices:\nA: bar graph\nB: line graph\nC: scatterplot\nD: circle graph",
+  "steps": [
+    "To determine the best graph for presenting yearly water usage data, I need to consider the type of data being presented. Yearly water usage is a continuous variable that changes over time.",
+    "A line graph is typically used to show trends over time, making it suitable for presenting data that varies from year to year, such as annual water usage.",
+    "A bar graph can also be used to compare different categories, but it is less effective in showing changes over time compared to a line graph.",
+    "A scatterplot is usually used to show relationships between two variables rather than changes in a single variable over time, which does not fit the data type here.",
+    "A circle graph (or pie chart) is not suitable for showing changes over time as it represents parts of a whole at a specific point, which is also not relevant for yearly data.",
+    "Given these considerations, the line graph is the most appropriate choice for displaying yearly water usage data effectively."
+  ],
+  "solution": "B"
+}

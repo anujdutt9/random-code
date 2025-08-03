@@ -1,0 +1,13 @@
+{
+  "query": "Boston had .5 feet of snow on the first day of winter.  The next day they got an additional 8 inches.  Over the next 2 days, 2 inches of the snow melted.  On the fifth day, they received another 2 times the amount of snow they received on the first day.  How many feet of snow do they now have?",
+  "steps": [
+    "First, I need to convert all measurements to the same unit for consistency. I'll convert everything to inches and then back to feet at the end.",
+    "The initial snowfall on the first day was 0.5 feet. I know that 1 foot is equal to 12 inches, so I convert 0.5 feet to inches: 0.5 feet x 12 inches/foot = 6 inches.",
+    "On the second day, they received an additional 8 inches. I need to add this to the existing snow from the first day: 6 inches + 8 inches = 14 inches.",
+    "Over the next two days, 2 inches of snow melted. I subtract the melted snow from the total: 14 inches - 2 inches = 12 inches.",
+    "On the fifth day, they received another snowfall. The problem states it's 2 times the amount they received on the first day. The first day's snowfall in inches was 6 inches, so twice that is: 6 inches x 2 = 12 inches.",
+    "Now, I add this new snowfall to the existing total: 12 inches + 12 inches = 24 inches.",
+    "Finally, I convert the total amount of snow from inches back to feet. Since 1 foot = 12 inches, I divide the total inches by 12: 24 inches / 12 inches/foot = 2 feet."
+  ],
+  "solution": "2"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "John buys 3 different coolers.  The first one is 100 liters.  The second is 50% bigger than that and the third is half the size of the second.  How much total water can they hold?",
+  "steps": [
+    "John buys 3 different coolers and the first one holds 100 liters.",
+    "The second cooler is 50% bigger than the first one.",
+    "To find 50% of 100 liters, I calculate 100 * 0.50 which equals 50 liters.",
+    "The second cooler, being 50% bigger, holds 100 liters + 50 liters = 150 liters.",
+    "The third cooler is half the size of the second.",
+    "Half of the second cooler, which is 150 liters, is 150 / 2 = 75 liters.",
+    "Now, to find the total water all coolers can hold, I add the capacity of all three coolers.",
+    "The total capacity is 100 liters (first) + 150 liters (second) + 75 liters (third).",
+    "Calculating this, 100 + 150 + 75 equals 325 liters."
+  ],
+  "solution": "325"
+}

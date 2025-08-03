@@ -1,0 +1,15 @@
+{
+  "query": "Ray has 175 cents in nickels. Ray gives 30 cents to Peter, and he gives twice as many cents to Randi as he gave to Peter. How many more nickels does Randi have than Peter?",
+  "steps": [
+    "We start by determining how many nickels Ray has initially using the total amount of cents. Since each nickel is worth 5 cents, we calculate the number of nickels by dividing 175 by 5.",
+    "175 divided by 5 equals 35. So, Ray has 35 nickels initially.",
+    "Ray gives 30 cents to Peter. To find the number of nickels that represents, we divide 30 by 5.",
+    "30 divided by 5 equals 6. So, Peter receives 6 nickels.",
+    "Ray gives twice as many cents to Randi as he gave to Peter. Since he gave 30 cents to Peter, Randi receives twice 30 cents, which is 60 cents.",
+    "To find the number of nickels that represents 60 cents, we divide 60 by 5.",
+    "60 divided by 5 equals 12. So, Randi receives 12 nickels.",
+    "We want to find out how many more nickels Randi has compared to Peter. We subtract the number of nickels Peter has from the number of nickels Randi has.",
+    "The difference is 12 nickels (Randi) minus 6 nickels (Peter), which equals 6."
+  ],
+  "solution": "6"
+}

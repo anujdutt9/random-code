@@ -1,0 +1,16 @@
+{
+  "query": "300 cows in a field are made up of male and female cows. There are twice as many females as males. Half the females are spotted, and half the males have horns. How many more females with spots are there than males with horns?",
+  "steps": [
+    "Start by identifying the total number of cows, which is 300.",
+    "Since there are twice as many females as males, let the number of males be \\( x \\) and the number of females be \\( 2x \\).",
+    "The equation for the total number of cows is \\( x + 2x = 300 \\).",
+    "Solve the equation: \\( 3x = 300 \\).",
+    "Divide both sides by 3 to find the number of males: \\( x = \\frac{300}{3} = 100 \\).",
+    "Since there are 100 males, then the number of females is \\( 2x = 2 \\times 100 = 200 \\).",
+    "Half the females are spotted, so the number of spotted females is \\( \\frac{200}{2} = 100 \\).",
+    "Half the males have horns, so the number of males with horns is \\( \\frac{100}{2} = 50 \\).",
+    "Find the difference between the number of spotted females and males with horns.",
+    "The difference is \\( 100 - 50 = 50 \\)."
+  ],
+  "solution": "50"
+}

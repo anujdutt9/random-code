@@ -1,0 +1,15 @@
+{
+  "query": "Lucy is listening to her favorite album while jumping rope. She can jump the rope 1 time per second. If the album's songs are all 3.5 minutes long and there are 10 songs, how many times will she jump rope?",
+  "steps": [
+    "First, I need to calculate the total length of the album in minutes.",
+    "Each song is 3.5 minutes long, and there are 10 songs on the album.",
+    "To find the total length, I multiply the number of songs by the length of each song: 10 songs * 3.5 minutes/song.",
+    "10 * 3.5 equals 35 minutes.",
+    "Now, I need to convert the total album length from minutes to seconds because Lucy jumps once per second.",
+    "There are 60 seconds in a minute, so I multiply 35 minutes by 60 seconds/minute.",
+    "35 * 60 equals 2100 seconds.",
+    "Since Lucy jumps once per second, the number of rope jumps equals the total number of seconds.",
+    "Therefore, Lucy will jump rope 2100 times while listening to the album."
+  ],
+  "solution": "2100"
+}

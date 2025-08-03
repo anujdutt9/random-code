@@ -1,0 +1,13 @@
+{
+  "query": "The school is hosting a race after school. The winner is the person who runs the most laps around the school in 12 minutes.  One lap around the school is 100 meters. The winner is awarded a gift certificate equal to $3.5 for every one hundred meters they run. The winner runs 24 laps around the school. On average, how much did they earn per minute?",
+  "steps": [
+    "First, determine how many total meters the winner ran. Each lap is 100 meters and the winner ran 24 laps.",
+    "Calculate the total distance: 24 laps * 100 meters/lap = 2400 meters.",
+    "The winner earns $3.5 for every 100 meters they run.",
+    "Calculate the total earnings: (2400 meters / 100 meters) * $3.5 = 24 * $3.5 = $84.",
+    "The race took 12 minutes.",
+    "Now calculate the average earning per minute, which is total earnings divided by time in minutes: $84 / 12 minutes.",
+    "$84 divided by 12 minutes equals $7 per minute."
+  ],
+  "solution": "7"
+}

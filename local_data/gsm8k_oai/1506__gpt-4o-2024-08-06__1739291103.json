@@ -1,0 +1,15 @@
+{
+  "query": "Tina made a large pan of brownies and cut it into 24 pieces.  She had one with lunch and dinner every day for 5 days.  Her husband snagged one per day for 5 days to take to work.  They shared 4 with dinner guests.  How many brownies were left?",
+  "steps": [
+    "Tina started with 24 brownies.",
+    "Tina had 1 brownie with lunch and 1 with dinner each day for 5 days.",
+    "Therefore, Tina ate 2 brownies per day for 5 days.",
+    "Tina ate a total of 2 * 5 = 10 brownies.",
+    "Her husband took 1 brownie per day for 5 days to work.",
+    "Her husband had a total of 1 * 5 = 5 brownies.",
+    "They shared 4 brownies with dinner guests.",
+    "Adding up all the brownies consumed: 10 by Tina, 5 by her husband, and 4 shared = 10 + 5 + 4 = 19 brownies consumed.",
+    "Subtract the brownies consumed from the original total: 24 - 19 = 5 brownies left."
+  ],
+  "solution": "5"
+}

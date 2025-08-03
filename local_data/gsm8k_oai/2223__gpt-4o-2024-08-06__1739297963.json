@@ -1,0 +1,13 @@
+{
+  "query": "Elyse had 100 pieces of gum. She gave half to her brother Rick. He gave half of his to his friend Shane. Shane chewed 11 pieces of gum. How many pieces does Shane have left?",
+  "steps": [
+    "Elyse started with 100 pieces of gum.",
+    "Elyse gave half of her gum to Rick, which equals 100 / 2 = 50 pieces.",
+    "Rick received 50 pieces of gum from Elyse.",
+    "Rick gave half of his gum to Shane, which equals 50 / 2 = 25 pieces.",
+    "Shane received 25 pieces of gum from Rick.",
+    "Shane chewed 11 pieces of gum.",
+    "To find out how many pieces Shane has left, subtract the chewed pieces from what he received: 25 - 11 = 14 pieces."
+  ],
+  "solution": "14"
+}

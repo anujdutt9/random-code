@@ -1,0 +1,12 @@
+{
+  "query": "There are 80 passengers on the airplane where the number of men and women is equal. The rest of the passengers are children. How many children are on the airplane if there are 30 men?",
+  "steps": [
+    "The total number of passengers on the airplane is 80.",
+    "We know that the number of men and women is equal.",
+    "There are 30 men on the airplane.",
+    "Since the number of men and women is equal, there must also be 30 women on the airplane.",
+    "Now, add the number of men and women to find out how many adults there are: 30 men + 30 women = 60 adults.",
+    "Subtract the number of adults from the total number of passengers to find the number of children: 80 total passengers - 60 adults = 20 children."
+  ],
+  "solution": "20"
+}

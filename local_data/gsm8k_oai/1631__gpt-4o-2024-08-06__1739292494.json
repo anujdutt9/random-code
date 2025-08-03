@@ -1,0 +1,12 @@
+{
+  "query": "John is 10 years old. His sister is twice his age. When he is 50 years old, how old will his sister be?",
+  "steps": [
+    "John is currently 10 years old.",
+    "His sister is twice his age, so she is currently 2 * 10 = 20 years old.",
+    "We need to determine how old his sister will be when John is 50 years old.",
+    "John is 50 years old - 10 years = 40 years from now.",
+    "If 40 years pass in the future, we need to add 40 years to his sister's current age of 20 years.",
+    "His sister will be 20 years + 40 years = 60 years old."
+  ],
+  "solution": "60"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Sam went for a run in the morning. In the afternoon, he went grocery shopping and walked twice the distance through the store as he had run that morning. That evening, he went on a bike ride with his family and biked for 12 miles. In all, he went 18 miles that day. How many miles was Sam\u2019s morning run?",
+  "steps": [
+    "Let the distance Sam ran in the morning be x miles.",
+    "According to the problem, in the afternoon he walked twice the distance he ran in the morning. So, the distance he walked is 2x miles.",
+    "It is given that he biked 12 miles in the evening.",
+    "The total distance covered in all activities throughout the day is 18 miles.",
+    "So, the total distance can be expressed as the sum of the distances for each activity: x (running) + 2x (walking) + 12 (biking) = 18.",
+    "Combine the terms involving x: x + 2x = 3x.",
+    "Now we have the equation: 3x + 12 = 18.",
+    "Subtract 12 from both sides to solve for 3x: 3x = 18 - 12.",
+    "This simplifies to 3x = 6.",
+    "Now, divide both sides by 3 to find x: x = 6 / 3.",
+    "Thus, x = 2.",
+    "So, Sam\u2019s morning run was 2 miles."
+  ],
+  "solution": "2"
+}

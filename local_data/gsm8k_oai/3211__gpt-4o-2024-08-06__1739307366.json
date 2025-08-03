@@ -1,0 +1,19 @@
+{
+  "query": "Coral reads 30 pages of a book on night 1, and 2 less than twice that on night 2.  Night 3 Coral reads 3 more pages than the sum of the first two nights.  How many total pages did Coral read in the 3 nights?",
+  "steps": [
+    "Coral reads 30 pages on night 1.",
+    "On night 2, Coral reads 2 less than twice the pages she read on night 1.",
+    "Twice the pages read on night 1 is 2 * 30 = 60.",
+    "2 less than 60 is 60 - 2 = 58.",
+    "So, Coral reads 58 pages on night 2.",
+    "On night 3, Coral reads 3 more pages than the sum of the pages read on the first two nights.",
+    "The sum of the pages read on night 1 and night 2 is 30 + 58 = 88.",
+    "3 more than 88 is 88 + 3 = 91.",
+    "So, Coral reads 91 pages on night 3.",
+    "The total pages read over the 3 nights is the sum of pages read on each night.",
+    "This total is 30 + 58 + 91.",
+    "30 + 58 = 88.",
+    "88 + 91 = 179."
+  ],
+  "solution": "179"
+}

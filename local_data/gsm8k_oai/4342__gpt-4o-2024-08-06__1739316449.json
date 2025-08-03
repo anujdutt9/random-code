@@ -1,0 +1,17 @@
+{
+  "query": "There are 20 stickers on a page. If you have 12 pages of stickers but lose one of the pages, then how many stickers would you have?",
+  "steps": [
+    "I have 12 pages of stickers initially.",
+    "Each page has 20 stickers.",
+    "First, I need to calculate the total number of stickers I have initially with all 12 pages.",
+    "To find the total number of stickers initially, I should multiply the number of pages by the number of stickers per page.",
+    "12 pages * 20 stickers/page = 240 stickers.",
+    "I have a total of 240 stickers initially.",
+    "I lose one page of stickers.",
+    "One page contains 20 stickers.",
+    "The number of stickers to subtract due to losing a page is 20.",
+    "Now I need to subtract the 20 stickers from the total.",
+    "240 stickers - 20 stickers = 220 stickers."
+  ],
+  "solution": "220"
+}

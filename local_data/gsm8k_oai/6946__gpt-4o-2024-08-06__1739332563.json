@@ -1,0 +1,17 @@
+{
+  "query": "A ship left a port and headed due west, having 400 pounds of food for the journey's supply. After one day of sailing, 2/5 of the supplies had been used by the sailors in the ship. After another two days of sailing, the sailors used 3/5 of the remaining supplies. Calculate the number of supplies remaining in the ship to last the sailors until they dock.",
+  "steps": [
+    "The ship started with 400 pounds of food supplies.",
+    "After one day, 2/5 of the supplies had been used.",
+    "Calculate the amount of supplies used in the first day: (2/5) * 400 pounds.",
+    "(2/5) * 400 = 160 pounds were used.",
+    "Calculate the remaining supplies after the first day: 400 pounds - 160 pounds.",
+    "400 - 160 = 240 pounds remaining after the first day.",
+    "After another two days, the sailors used 3/5 of the remaining supplies.",
+    "Calculate the amount of supplies used in the next two days: (3/5) * 240 pounds.",
+    "(3/5) * 240 = 144 pounds were used in the next two days.",
+    "Calculate the remaining supplies after these two days: 240 pounds - 144 pounds.",
+    "240 - 144 = 96 pounds remaining."
+  ],
+  "solution": "96"
+}

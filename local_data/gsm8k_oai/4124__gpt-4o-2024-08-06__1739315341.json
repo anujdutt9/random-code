@@ -1,0 +1,24 @@
+{
+  "query": "Timmy, Tommy and Tina are filling up a kiddie pool in their backyard.  Each has a pail they fill with water from a house before dumping it into the pool.  If Timmy's pail holds twice as much water as Tommy's, and Tommy's holds 2 gallons more than Tina's, and Tina's is 4 gallons, how much water do the three of them fill the pool with after 3 trips each?",
+  "steps": [
+    "First, I need to find the capacity of each person's pail.",
+    "Tina's pail holds 4 gallons.",
+    "Tommy's pail holds 2 gallons more than Tina's pail.",
+    "That means Tommy's pail holds 4 gallons + 2 gallons = 6 gallons.",
+    "Timmy's pail holds twice as much as Tommy's.",
+    "Therefore, Timmy's pail holds 2 * 6 gallons = 12 gallons.",
+    "Now, I know the capacities: Tina: 4 gallons, Tommy: 6 gallons, Timmy: 12 gallons.",
+    "Each of them makes 3 trips to fill the pool.",
+    "First, calculate the total water Timmy contributes: 3 trips * 12 gallons.",
+    "Timmy contributes 36 gallons of water.",
+    "Next, calculate the total water Tommy contributes: 3 trips * 6 gallons.",
+    "Tommy contributes 18 gallons of water.",
+    "Finally, calculate the total water Tina contributes: 3 trips * 4 gallons.",
+    "Tina contributes 12 gallons of water.",
+    "Add the gallons of water contributed by each: 36 gallons (Timmy) + 18 gallons (Tommy) + 12 gallons (Tina).",
+    "The total amount of water the three of them fill the pool with is 36 + 18 + 12.",
+    "Calculate: 36 + 18 = 54.",
+    "Then, 54 + 12 = 66."
+  ],
+  "solution": "66"
+}

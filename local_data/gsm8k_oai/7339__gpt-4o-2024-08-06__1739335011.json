@@ -1,0 +1,20 @@
+{
+  "query": "Brooke is milking cows and then selling the milk at the market for $3 a gallon. Whatever milk doesn't sell, she turns into butter. One gallon of milk equals 2 sticks of butter. She then sells the butter for $1.5 a stick. She has 12 cows. Each cow produces 4 gallons of milk. She has 6 customers, each of whom wants 6 gallons of milk. How much money does she earn if she sells all her milk and butter?",
+  "steps": [
+    "First, I calculate the total amount of milk available. Brooke has 12 cows.",
+    "Each cow produces 4 gallons of milk. So, 12 cows produce 12 * 4 = 48 gallons of milk in total.",
+    "Next, I determine the total gallons of milk sold. She has 6 customers and each wants 6 gallons.",
+    "So, Brooke sells 6 * 6 = 36 gallons of milk.",
+    "Now, I calculate how many gallons of milk are left unsold. She has 48 gallons in total and sells 36 gallons.",
+    "The unsold milk is 48 - 36 = 12 gallons.",
+    "I then convert the unsold milk into butter. One gallon of milk makes 2 sticks of butter.",
+    "Therefore, 12 gallons of unsold milk become 12 * 2 = 24 sticks of butter.",
+    "Now, I calculate the revenue from milk sales. She sells 36 gallons of milk for $3 per gallon.",
+    "The total revenue from milk is 36 * 3 = $108.",
+    "Next, I calculate the revenue from butter sales. She sells 24 sticks of butter for $1.5 per stick.",
+    "The total revenue from butter is 24 * 1.5 = $36.",
+    "Finally, I sum up the revenue from milk and butter to find the total earnings.",
+    "Total earnings = $108 (from milk) + $36 (from butter) = $144."
+  ],
+  "solution": "144"
+}

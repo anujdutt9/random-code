@@ -1,0 +1,14 @@
+{
+  "query": "It takes 5 people to lift a car and twice as many people to lift a truck. How many people are needed to lift 6 cars and 3 trucks?",
+  "steps": [
+    "First, I need to determine how many people are needed to lift one truck. It states twice as many are needed for a truck than a car.",
+    "Since it takes 5 people to lift a car, it will take 5 * 2 = 10 people to lift a truck.",
+    "Now, calculate how many people are needed for 6 cars.",
+    "If it takes 5 people to lift one car, then it will take 5 * 6 = 30 people to lift 6 cars.",
+    "Next, calculate how many people are needed for 3 trucks.",
+    "If it takes 10 people to lift one truck, then it will take 10 * 3 = 30 people to lift 3 trucks.",
+    "Lastly, sum up the number of people needed for both 6 cars and 3 trucks.",
+    "30 people for cars + 30 people for trucks = 60 people total."
+  ],
+  "solution": "60"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "A bear is hunting for her cubs and herself. She needs 210 pounds of meat in a week. Each cub needs 35 pounds a week and she has 4 cubs. She hunts rabbits, which are five pounds each. If she hunts daily, how many rabbits does she need to catch each day?",
+  "steps": [
+    "First, I determine the total amount of meat the cubs need in a week. Each cub needs 35 pounds, and there are 4 cubs.",
+    "The total meat needed for the cubs is \\( 35 \\text{ pounds} \\times 4 \\text{ cubs} = 140 \\text{ pounds} \\).",
+    "Next, I calculate the total amount of meat needed for the bear and her cubs in a week.",
+    "The bear needs 210 pounds for herself, plus the 140 pounds needed for the cubs.",
+    "The total meat required is \\( 210 \\text{ pounds} + 140 \\text{ pounds} = 350 \\text{ pounds} \\).",
+    "Each rabbit provides 5 pounds of meat.",
+    "To find the number of rabbits needed in a week, I divide the total meat needed by the amount of meat per rabbit.",
+    "Number of rabbits required per week is \\( 350 \\text{ pounds} \\div 5 \\text{ pounds/rabbit} = 70 \\text{ rabbits} \\).",
+    "Since she hunts daily, I need to divide the number of rabbits by the number of days in a week to determine the daily catch.",
+    "There are 7 days in a week, so she needs to catch \\( 70 \\text{ rabbits} \\div 7 \\text{ days} = 10 \\text{ rabbits/day} \\)."
+  ],
+  "solution": "10"
+}

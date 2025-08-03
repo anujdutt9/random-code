@@ -1,0 +1,24 @@
+{
+  "query": "There are 360 balls in the ball pit. If a quarter of the balls in the ball pit are red and a fifth of the remaining balls are blue. How many of the balls are neither red nor blue?",
+  "steps": [
+    "First, I need to determine how many of the balls are red.",
+    "A quarter (1/4) of the balls are red.",
+    "There are 360 balls in total.",
+    "To find the number of red balls, I multiply 360 by 1/4.",
+    "360 * 1/4 = 90",
+    "So, there are 90 red balls.",
+    "Next, I need to calculate the number of balls that are not red.",
+    "I subtract the number of red balls from the total number of balls.",
+    "360 - 90 = 270",
+    "There are 270 balls that are not red.",
+    "Now, I need to determine how many of these remaining balls are blue.",
+    "A fifth (1/5) of the remaining balls are blue.",
+    "To find the number of blue balls, I multiply 270 by 1/5.",
+    "270 * 1/5 = 54",
+    "So, there are 54 blue balls.",
+    "Now, I need to find the number of balls that are neither red nor blue.",
+    "I subtract the number of blue balls from the number of balls that are not red.",
+    "270 - 54 = 216"
+  ],
+  "solution": "216"
+}

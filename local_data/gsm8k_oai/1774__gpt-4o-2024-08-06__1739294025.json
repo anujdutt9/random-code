@@ -1,0 +1,13 @@
+{
+  "query": "Sedrach has 13 apple pies. If every apple pie can be quickly divided into halves and every half an apple pie can be split into 5 bite-size samples, how many people can taste Sedrach's apple pie if he divides them all into bite-size samples?",
+  "steps": [
+    "Sedrach has 13 apple pies.",
+    "Each apple pie can be divided into halves, so there are 2 halves per apple pie.",
+    "Therefore, for 13 apple pies, we multiply 13 by 2 to get the total number of halves: \\(13 \\times 2 = 26\\).",
+    "Every half of an apple pie can be split into 5 bite-size samples.",
+    "Thus, for 26 halves, we calculate the total number of bite-size samples by multiplying 26 by 5: \\(26 \\times 5 = 130\\).",
+    "Each bite-size sample is one portion that one person can taste.",
+    "Therefore, 130 people can taste a part of Sedrach's apple pie."
+  ],
+  "solution": "130"
+}

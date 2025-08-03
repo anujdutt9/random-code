@@ -1,0 +1,26 @@
+{
+  "query": "Rosie pays for a $.44 piece of candy with a $1 bill. If the cashier gives her the smallest number of coins possible as change, how many coins will Rosie get as change?",
+  "steps": [
+    "First, I need to calculate the amount of change Rosie will receive.",
+    "Rosie pays $1.00 for a $0.44 piece of candy.",
+    "To find the change, I subtract $0.44 from $1.00.",
+    "$1.00 - $0.44 = $0.56",
+    "The change Rosie receives is $0.56.",
+    "Now, I need to determine the smallest number of coins that make up $0.56.",
+    "I will start with the largest denomination of coins. The largest coin in US currency that is less than $0.56 is the quarter, which is worth $0.25.",
+    "I will see how many quarters fit into $0.56.",
+    "$0.56 \u00f7 $0.25 = 2 with a remainder.",
+    "Using 2 quarters accounts for $0.50.",
+    "Now I need to deal with the remaining $0.06.",
+    "The next largest coin is the dime, but $0.06 is less than a dime.",
+    "The next largest coin is the nickel, which is worth $0.05.",
+    "I can use 1 nickel to account for $0.05.",
+    "After using 1 nickel, I have $0.01 remaining.",
+    "The smallest coin is a penny, which accounts for $0.01.",
+    "I will use 1 penny for the remaining $0.01.",
+    "I have used 2 quarters, 1 nickel, and 1 penny.",
+    "To find the total number of coins, I add up the quantities of each type of coin.",
+    "2 quarters + 1 nickel + 1 penny = 4 coins"
+  ],
+  "solution": "4"
+}

@@ -1,0 +1,21 @@
+{
+  "query": "Pete has a bag with 10 marbles. 40% are blue and the rest are red. His friend will trade him two blue marbles for every red one. If Pete keeps 1 red marble, how many total marbles does he have after trading with his friend?",
+  "steps": [
+    "Pete has a bag with 10 marbles in total.",
+    "40% of the marbles are blue.",
+    "To find out how many blue marbles there are, I need to calculate 40% of 10.",
+    "40% of 10 is \\(0.4 \\times 10 = 4\\) blue marbles.",
+    "The rest of the marbles are red, so I subtract the number of blue marbles from the total.",
+    "10 total marbles - 4 blue marbles = 6 red marbles.",
+    "Pete decides to keep 1 red marble, so he doesn't trade this one.",
+    "This means he will only trade 5 red marbles (since he had 6 red marbles and keeps 1).",
+    "For every red marble traded, Pete receives 2 blue marbles.",
+    "Trading 5 red marbles gets him \\(5 \\times 2 = 10\\) blue marbles.",
+    "Initially, Pete had 4 blue marbles.",
+    "After the trade, he gains 10 additional blue marbles.",
+    "Now, Pete's total number of blue marbles is \\(4 + 10 = 14\\).",
+    "Pete also keeps the 1 red marble he decided not to trade.",
+    "Now I count his total marbles: 14 blue marbles + 1 red marble = 15 marbles."
+  ],
+  "solution": "15"
+}

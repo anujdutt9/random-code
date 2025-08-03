@@ -1,0 +1,18 @@
+{
+  "query": "Tony goes on 5 rollercoasters while he is at the park. The first went 50 miles per hour. The second went 62 miles per hour. The third when 73 miles per hour. The fourth when 70 miles per hour. His average speed during the day was 59 miles per hour. How fast was the fifth coaster?",
+  "steps": [
+    "First, I want to find the total speed of all the rollercoasters combined.",
+    "Let the speed of the fifth rollercoaster be \\( x \\).",
+    "The equation for the total speed of the five rollercoasters is the sum of their individual speeds: 50 + 62 + 73 + 70 + \\( x \\).",
+    "I know Tony's average speed for the five rollercoasters was 59 miles per hour.",
+    "The average speed is calculated by dividing the total speed by the number of rollercoasters. Therefore, the equation is: \n\n\\[\n\\frac{50 + 62 + 73 + 70 + x}{5} = 59\n\\]",
+    "To eliminate the fraction, I multiply both sides of the equation by 5:\n\n\\[\n50 + 62 + 73 + 70 + x = 59 \\times 5\n\\]",
+    "Calculate \\( 59 \\times 5 \\):\n\n\\[\n59 \\times 5 = 295\n\\]",
+    "Now the equation is:\n\n\\[\n50 + 62 + 73 + 70 + x = 295\n\\]",
+    "I calculate the sum of 50, 62, 73, and 70:\n\n\\[\n50 + 62 + 73 + 70 = 255\n\\]",
+    "Substitute back into the equation:\n\n\\[\n255 + x = 295\n\\]",
+    "Subtract 255 from both sides to solve for \\( x \\):\n\n\\[\nx = 295 - 255\n\\]",
+    "Calculate \\( 295 - 255 \\):\n\n\\[\n295 - 255 = 40\n\\]"
+  ],
+  "solution": "40"
+}

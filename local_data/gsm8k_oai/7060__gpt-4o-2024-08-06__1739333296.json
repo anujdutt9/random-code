@@ -1,0 +1,16 @@
+{
+  "query": "Josh has $300 in his wallet, and $2000 invested in a business. If the business's stock price rises 30% and then he sells all of his stocks, how much money will he have in his wallet?",
+  "steps": [
+    "Josh starts with $2000 invested in the business.",
+    "The stock price rises by 30%.",
+    "To find the increase in stock value, calculate 30% of $2000.",
+    "30% of $2000 is calculated as: 0.30 * $2000 = $600.",
+    "The new value of his investment is the original value plus the increase, which is $2000 + $600.",
+    "$2000 + $600 equals $2600.",
+    "Josh now sells all his stocks for $2600.",
+    "He currently has $300 in his wallet initially.",
+    "He adds the $2600 from selling his stocks to his wallet.",
+    "$300 + $2600 equals $2900."
+  ],
+  "solution": "2900"
+}

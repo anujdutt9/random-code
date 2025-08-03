@@ -1,0 +1,15 @@
+{
+  "query": "If 24 out of every 60 individuals like football and out of those that like it, 50% play it, how many people would you expect play football out of a group of 250?",
+  "steps": [
+    "The problem states that 24 out of every 60 individuals like football.",
+    "To find the proportion of individuals who like football, I can divide 24 by 60.",
+    "24 divided by 60 is 0.4. This means 40% of individuals like football.",
+    "Next, the problem states that 50% of those who like football actually play it.",
+    "To find how many people play football if 40% like it, and out of those, 50% play, I can multiply these percentages together.",
+    "0.4 times 0.5 is 0.2. This means 20% of the total group play football.",
+    "Now I need to find out how many people in a group of 250 actually play football.",
+    "To do this, I can multiply 250 by the percentage of people who play football, which is 0.2.",
+    "250 times 0.2 is 50."
+  ],
+  "solution": "50"
+}

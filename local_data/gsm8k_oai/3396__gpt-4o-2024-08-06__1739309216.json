@@ -1,0 +1,21 @@
+{
+  "query": "Remy sold 55 bottles of soda in the morning. Nick sold six fewer bottles of soda than Remy. The price per bottle is $.50. If their total evening sales are $55, how much more did they earn in the evening than in the morning?",
+  "steps": [
+    "Remy sold 55 bottles of soda in the morning.",
+    "Nick sold six fewer bottles than Remy.",
+    "To find the number of bottles Nick sold in the morning, subtract 6 from 55.",
+    "55 - 6 = 49",
+    "Nick sold 49 bottles in the morning.",
+    "Next, calculate the total number of bottles sold by both Remy and Nick in the morning.",
+    "55 + 49 = 104",
+    "The total number of bottles sold in the morning is 104.",
+    "Each bottle is sold for $0.50.",
+    "To find the total earnings in the morning, multiply the number of bottles by the price per bottle.",
+    "104 * $0.50 = $52",
+    "Remy and Nick earned $52 in the morning.",
+    "Their total evening sales were $55.",
+    "To find how much more they earned in the evening than in the morning, subtract the morning total from the evening total.",
+    "$55 - $52 = $3"
+  ],
+  "solution": "3"
+}

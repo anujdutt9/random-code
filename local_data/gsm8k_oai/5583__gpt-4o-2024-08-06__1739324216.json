@@ -1,0 +1,25 @@
+{
+  "query": "Elsa's hockey team just made the playoffs along with two other teams. They make the playoffs by having the top three highest points for their records. Teams get 2 points for a win, 1 point for a tie, and zero points for a loss. The first-place team has 12 wins and 4 ties. The second-place team has 13 wins and 1 tie. Elsa's team has 8 wins and 10 ties. What is the average number of points for the playoff teams?",
+  "steps": [
+    "I need to calculate the total points for each team.",
+    "The first-place team has 12 wins and 4 ties.",
+    "Each win is 2 points, so 12 wins is 12 * 2 = 24 points.",
+    "Each tie is 1 point, so 4 ties is 4 points.",
+    "The first-place team has 24 + 4 = 28 points.",
+    "The second-place team has 13 wins and 1 tie.",
+    "Each win is 2 points, so 13 wins is 13 * 2 = 26 points.",
+    "Each tie is 1 point, so 1 tie is 1 point.",
+    "The second-place team has 26 + 1 = 27 points.",
+    "Elsa's team has 8 wins and 10 ties.",
+    "Each win is 2 points, so 8 wins is 8 * 2 = 16 points.",
+    "Each tie is 1 point, so 10 ties is 10 points.",
+    "Elsa's team has 16 + 10 = 26 points.",
+    "Now, I need to find the average number of points for the playoff teams.",
+    "The total points for the three teams is 28 + 27 + 26.",
+    "28 + 27 = 55.",
+    "55 + 26 = 81.",
+    "There are 3 teams, so the average is 81 / 3.",
+    "81 divided by 3 equals 27."
+  ],
+  "solution": "27"
+}

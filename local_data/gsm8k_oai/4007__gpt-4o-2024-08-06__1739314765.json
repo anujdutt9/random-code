@@ -1,0 +1,15 @@
+{
+  "query": "Liz's basketball team is down by 20 points in the final quarter of their game.  Liz goes on a shooting spree, sinking 5 free throw shots, 3 three-pointers, and 4 other jump shots.  The other team only scores 10 points that quarter, and none of Liz's teammates manage to score any points.  How much does Liz's team lose by at the end of the game?",
+  "steps": [
+    "I need to determine how many points Liz scores during her shooting spree.",
+    "First, I'll calculate the points from the 5 free throw shots. Each free throw is worth 1 point, so 5 free throws give 5 points.",
+    "Next, I'll calculate the points from the 3 three-pointers. Each three-pointer is worth 3 points, so 3 three-pointers give 3 * 3 = 9 points.",
+    "Now, I'll calculate the points from the 4 other jump shots. Assuming these are regular 2-point shots, Liz would score 4 * 2 = 8 points from them.",
+    "I'll now sum up all of Liz's points: 5 (free throws) + 9 (three-pointers) + 8 (jump shots) = 22 points.",
+    "Liz's team was originally down by 20 points.",
+    "The other team scores 10 points in the final quarter.",
+    "Therefore, the net contribution to the score difference by Liz's team is 22 points (Liz's contribution) minus 10 points (other team's contribution) = 12 points.",
+    "Initially down by 20 points, reducing that deficit by 12 points results in the final score difference: 20 - 12 = 8 points."
+  ],
+  "solution": "8"
+}

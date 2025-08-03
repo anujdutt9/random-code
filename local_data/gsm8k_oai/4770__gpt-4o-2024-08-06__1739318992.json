@@ -1,0 +1,17 @@
+{
+  "query": "Ed booked a hotel while he was on vacation. Staying at the hotel cost was $1.50 per hour every night and $2 per hour every morning. If Ed had $80 and he stayed in the hotel for 6 hours last night and 4 hours this morning, how much money was he left with after paying for his stay at the hotel?",
+  "steps": [
+    "First, I need to determine the total cost of Ed's stay last night. Staying at the hotel last night cost $1.50 per hour.",
+    "Ed stayed 6 hours last night. The cost per hour is $1.50, so I calculate the total cost for the night as 6 hours * $1.50 per hour.",
+    "6 hours * $1.50 = $9.00 is the total cost for staying last night.",
+    "Next, I need to determine the total cost of Ed's stay this morning. Staying at the hotel this morning cost $2.00 per hour.",
+    "Ed stayed 4 hours this morning. The cost per hour is $2.00, so I calculate the total cost for the morning as 4 hours * $2.00 per hour.",
+    "4 hours * $2.00 = $8.00 is the total cost for staying this morning.",
+    "I need to find the total cost of the entire hotel stay by adding the costs for the night and the morning together.",
+    "$9.00 (night) + $8.00 (morning) = $17.00 is the total cost of the entire stay at the hotel.",
+    "Ed initially had $80. I need to find out how much money Ed is left with after paying for his hotel stay.",
+    "I subtract the total cost of the stay, $17.00, from the initial amount Ed had, which is $80.",
+    "$80 - $17 = $63 is the amount of money Ed is left with after paying for his stay at the hotel."
+  ],
+  "solution": "63"
+}

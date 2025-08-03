@@ -1,0 +1,18 @@
+{
+  "query": "The bald eagle can dive at a speed of 100 miles per hour, while the peregrine falcon can dive at a speed of twice that of the bald eagle.   Starting from the same treetop, if it takes the bald eagle 30 seconds to dive to the ground, how long,  in seconds, will it take the peregrine falcon to dive the same distance?",
+  "steps": [
+    "First, let's determine the distance the bald eagle travels. We know it dives at 100 miles per hour for a time of 30 seconds.",
+    "To find the distance, I need to convert the speed from miles per hour to miles per second. Since there are 3600 seconds in an hour, the speed of the bald eagle in miles per second is 100 miles/hour divided by 3600 seconds/hour.",
+    "Calculating this gives \\(\\frac{100}{3600} = \\frac{1}{36}\\) miles per second.",
+    "Next, calculate the distance the bald eagle travels in 30 seconds. I will multiply the speed, \\(\\frac{1}{36}\\) miles per second, by the time, 30 seconds.",
+    "\\(\\frac{1}{36} \\times 30 = \\frac{30}{36} = \\frac{5}{6}\\) miles.",
+    "The distance the bald eagle dives is \\(\\frac{5}{6}\\) miles.",
+    "Now, let\u2019s find the diving speed of the peregrine falcon. It dives at twice the speed of the bald eagle.",
+    "The speed of the bald eagle is 100 miles per hour, so the speed of the peregrine falcon is \\(2 \\times 100 = 200\\) miles per hour.",
+    "Convert the falcon's speed from miles per hour to miles per second. \\(200\\) miles per hour is \\(200 \\div 3600 = \\frac{1}{18}\\) miles per second.",
+    "To find how long it takes the peregrine falcon to cover the same distance of \\(\\frac{5}{6}\\) miles, use the formula: time = distance/speed.",
+    "Substitute the values: time = \\(\\frac{5}{6} \\div \\frac{1}{18}\\).",
+    "To divide by a fraction, multiply by its reciprocal: \\(\\frac{5}{6} \\times \\frac{18}{1} = \\frac{90}{6} = 15\\) seconds."
+  ],
+  "solution": "15"
+}

@@ -1,0 +1,21 @@
+{
+  "query": "Beckett is 12 and is three years younger than Olaf, while Shannen is two years younger than Olaf.  If Jack is five more than twice as old as Shannen, what is the sum of the ages of all 4 people?",
+  "steps": [
+    "Beckett is 12 years old.",
+    "Beckett is three years younger than Olaf, so Olaf is 12 + 3 years old.",
+    "Olaf is 15 years old.",
+    "Shannen is two years younger than Olaf, so Shannen is 15 - 2 years old.",
+    "Shannen is 13 years old.",
+    "Jack is five more than twice as old as Shannen.",
+    "Twice Shannen's age is 2 * 13.",
+    "Twice Shannen's age is 26.",
+    "Five more than 26 is 26 + 5.",
+    "Jack is 31 years old.",
+    "Now, calculate the sum of the ages of all four people.",
+    "The sum of Beckett, Olaf, Shannen, and Jack's ages is 12 + 15 + 13 + 31.",
+    "First add Beckett's and Olaf's ages: 12 + 15 = 27.",
+    "Next, add Shannen's age: 27 + 13 = 40.",
+    "Finally, add Jack's age: 40 + 31 = 71."
+  ],
+  "solution": "71"
+}

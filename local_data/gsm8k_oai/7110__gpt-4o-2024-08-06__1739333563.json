@@ -1,0 +1,13 @@
+{
+  "query": "Jack and Jill went up the hill to fetch water to fill a 600 gallon tank. Each bucket is five gallons. Jack is stronger, and is able to carry two buckets of water at a time, but Jill can only manage one. Also, Jack can complete three trips to the well and back in the time it takes Jill to make two trips. How many trips will Jill make before the tank is filled?",
+  "steps": [
+    "First, I need to determine how many gallons of water Jack can fetch per trip. Jack can carry two buckets, and each bucket holds five gallons, so Jack carries 2 * 5 = 10 gallons of water per trip.",
+    "Next, I calculate how many gallons of water Jill can fetch per trip. Jill can carry one bucket, so she fetches 1 * 5 = 5 gallons of water per trip.",
+    "Now, I consider the time factor. Jack can complete three trips to the well and back in the time it takes Jill to make two trips.",
+    "That means, in the time it takes Jill to make 2 trips, Jack makes 3 trips. During these trips, Jack fetches 3 * 10 = 30 gallons, and Jill fetches 2 * 5 = 10 gallons.",
+    "Together, they fetch 30 + 10 = 40 gallons of water in this cycle of time.",
+    "I need to fill a 600-gallon tank. To find out how many complete cycles (Jack's 3 trips and Jill's 2 trips combined) they need, I divide the total tank capacity by the total gallons fetched per cycle: 600 / 40 = 15 cycles.",
+    "In each cycle, Jill makes 2 trips. Therefore, over 15 cycles, Jill will make 15 * 2 = 30 trips."
+  ],
+  "solution": "30"
+}

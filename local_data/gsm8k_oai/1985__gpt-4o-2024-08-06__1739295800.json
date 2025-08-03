@@ -1,0 +1,13 @@
+{
+  "query": "24 gallons per second of water flows down a waterfall. If you have an empty basin that can hold 260 gallons of water. The basin leaks water at 4 gallons per second. how long would it take to fill the basin with water from the waterfall in seconds?",
+  "steps": [
+    "The waterfall's flow rate is 24 gallons per second.",
+    "The basin's leak rate is 4 gallons per second.",
+    "To find the net rate at which the basin fills up, subtract the leak rate from the flow rate: 24 gallons per second - 4 gallons per second.",
+    "The net fill rate is 20 gallons per second.",
+    "The basin can hold a total of 260 gallons.",
+    "To find out how long it will take to fill the basin, divide the total capacity by the net fill rate: 260 gallons / 20 gallons per second.",
+    "260 divided by 20 equals 13 seconds."
+  ],
+  "solution": "13"
+}

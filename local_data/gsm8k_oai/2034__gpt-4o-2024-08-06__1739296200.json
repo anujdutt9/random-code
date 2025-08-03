@@ -1,0 +1,19 @@
+{
+  "query": "Luke is planning a trip to London and wants to see how long it will take him to travel there. He decides that he will take a bus to the town center, walk for 15 minutes to the train center, wait twice this long for the train to arrive, and then take the 6-hour train ride to London. If Luke\u2019s entire trip takes him 8 hours, how many minutes does his bus ride take?",
+  "steps": [
+    "First, I need to determine how long each part of Luke's trip takes, except for the bus ride.",
+    "Luke walks for 15 minutes to the train center.",
+    "He waits twice as long as the 15-minute walk for the train to arrive. So, the waiting time is 15 * 2 = 30 minutes.",
+    "The train ride takes 6 hours. Since there are 60 minutes in an hour, the train ride lasts 6 * 60 = 360 minutes.",
+    "Now, I add the time taken for walking, waiting, and the train ride to get a total for these parts of the journey.",
+    "Walking time: 15 minutes",
+    "Waiting time: 30 minutes",
+    "Train ride time: 360 minutes",
+    "Total time for walking, waiting, and the train ride is 15 + 30 + 360 = 405 minutes.",
+    "Luke\u2019s entire trip takes 8 hours, and in minutes, that is 8 * 60 = 480 minutes.",
+    "The bus ride time is the total trip time minus the sum of the walking, waiting, and train ride times.",
+    "Bus ride time = Total trip time - (Walking time + Waiting time + Train ride time)",
+    "Bus ride time = 480 - 405 = 75 minutes"
+  ],
+  "solution": "75"
+}

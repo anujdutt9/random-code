@@ -1,0 +1,18 @@
+{
+  "query": "A school is planning a community outreach program. Each classroom must raise $200 for this activity. Classroom A has raised $20 from each of two families, $10 from each of eight families, and $5  from each of ten families. How much more money does Classroom A need in order to reach the goal?",
+  "steps": [
+    "First, I will calculate the amount of money raised from the two families who contributed $20 each.",
+    "The contribution from two families at $20 each is 2 \u00d7 $20 = $40.",
+    "Next, I will calculate the total from the eight families who contributed $10 each.",
+    "The contribution from eight families at $10 each is 8 \u00d7 $10 = $80.",
+    "Then, I need to calculate the total from the ten families who contributed $5 each.",
+    "The contribution from ten families at $5 each is 10 \u00d7 $5 = $50.",
+    "Now, I will add up all these contributions to find the total amount raised so far.",
+    "Total raised = $40 (from $20 contributions) + $80 (from $10 contributions) + $50 (from $5 contributions).",
+    "Total raised so far = $40 + $80 + $50 = $170.",
+    "The goal is to raise $200, so I need to find out how much more is needed to reach this goal.",
+    "Amount needed to reach the goal = $200 - $170.",
+    "Amount needed = $30."
+  ],
+  "solution": "30"
+}

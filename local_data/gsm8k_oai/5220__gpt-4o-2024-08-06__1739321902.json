@@ -1,0 +1,23 @@
+{
+  "query": "At the gym, every day, there are 300 towels laid out for guest use.  Each guest is given 1 towel during their visit.  The gym is open from 10:00 a.m. to 2:00 p.m. In the first hour, 50 guests enter the gym.  In the second hour, 20% more guests enter than during the first hour.  In the third hour, 25% more guests enter than in the second hour.  In the fourth hour, one third more guests enter than in the third hour.  In total, how many towels do they need to wash that evening?",
+  "steps": [
+    "The gym is supplied with 300 towels each day.",
+    "In the first hour, 50 guests enter the gym.",
+    "That means 50 towels are used in the first hour.",
+    "For the second hour, 20% more guests enter compared to the first hour.",
+    "20% of 50 is 0.20 * 50 = 10.",
+    "So, in the second hour, 50 + 10 = 60 guests enter.",
+    "That means 60 towels are used in the second hour.",
+    "In the third hour, 25% more guests enter compared to the second hour.",
+    "25% of 60 is 0.25 * 60 = 15.",
+    "So, in the third hour, 60 + 15 = 75 guests enter.",
+    "That means 75 towels are used in the third hour.",
+    "In the fourth hour, one third more guests enter compared to the third hour.",
+    "One third of 75 is 1/3 * 75 = 25.",
+    "So, in the fourth hour, 75 + 25 = 100 guests enter.",
+    "That means 100 towels are used in the fourth hour.",
+    "Now, to find out how many towels in total need to be washed, I add the number of towels used each hour.",
+    "50 (first hour) + 60 (second hour) + 75 (third hour) + 100 (fourth hour) = 285."
+  ],
+  "solution": "285"
+}

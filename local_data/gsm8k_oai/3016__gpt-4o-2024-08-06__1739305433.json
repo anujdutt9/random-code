@@ -1,0 +1,15 @@
+{
+  "query": "Gary is buying chlorine for his rectangular pool, which is 10 feet long, 8 feet wide, and 6 feet deep. Gary needs to buy one quart of chlorine for every 120 cubic feet of water in his pool. If chlorine costs $3 a quart, how much does Gary spend on chlorine?",
+  "steps": [
+    "First, I need to calculate the volume of the pool.",
+    "To do that, I'll use the formula for the volume of a rectangular prism: Volume = length \u00d7 width \u00d7 depth.",
+    "The pool's dimensions are 10 feet long, 8 feet wide, and 6 feet deep.",
+    "Multiplying these together: 10 \u00d7 8 \u00d7 6 = 480 cubic feet.",
+    "Next, I determine how much chlorine Gary needs. He needs one quart for every 120 cubic feet of water.",
+    "I divide the total volume of the pool by 120 to find out how many quarts of chlorine Gary needs: 480 \u00f7 120 = 4.",
+    "Gary needs 4 quarts of chlorine.",
+    "Chlorine costs $3 per quart.",
+    "To find the total cost, I multiply the number of quarts by the price per quart: 4 \u00d7 3 = 12."
+  ],
+  "solution": "12"
+}

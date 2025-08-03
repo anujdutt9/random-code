@@ -1,0 +1,16 @@
+{
+  "query": "The price of a book was $400. If the book's price is decreased by 15% and then increased by 40%, what is the final price of the book?",
+  "steps": [
+    "First, I need to calculate the decrease in the price of the book when it's decreased by 15%.",
+    "15% of $400 is calculated as 0.15 * 400.",
+    "0.15 * 400 equals $60.",
+    "The new price after the decrease is $400 - $60.",
+    "$400 - $60 equals $340.",
+    "Now, I need to calculate the increase on the new price ($340) by 40%.",
+    "40% of $340 is calculated as 0.40 * 340.",
+    "0.40 * 340 equals $136.",
+    "The final price after the increase is $340 + $136.",
+    "$340 + $136 equals $476."
+  ],
+  "solution": "476"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Johnson owns a hectare cornfield that can yield 80 corn every two months, while his neighbor owns a two-hectare cornfield and each hectare can yield twice the amount as Johnson. How much corn can they harvest altogether after six months?",
+  "steps": [
+    "First, I need to understand the yield for Johnson's cornfield. Johnson has a one-hectare cornfield.",
+    "Johnson's cornfield yields 80 corn every two months.",
+    "I need to find out how much corn Johnson's field yields in six months.",
+    "Since there are three sets of two-month periods in six months (6 months / 2 months = 3 periods), Johnson's yield will be 80 corn x 3 periods.",
+    "Calculating Johnson's total yield in six months: 80 x 3 = 240 corn.",
+    "Next, I need to determine the yield for the neighbor's cornfield. The neighbor has a two-hectare cornfield.",
+    "Each hectare of the neighbor's cornfield can yield twice the amount as Johnson's one-hectare field.",
+    "Since Johnson's field yields 80 corn every two months, each hectare of the neighbor's field yields 80 x 2 = 160 corn every two months.",
+    "The neighbor has two hectares, so I need to calculate the yield for both hectares in two months.",
+    "The total two-month yield for the neighbor is 160 corn per hectare x 2 hectares = 320 corn.",
+    "Now, I need the neighbor's corn yield over six months, which includes three two-month periods.",
+    "Calculating the neighbor's total yield in six months: 320 x 3 = 960 corn.",
+    "Finally, to find out how much corn both Johnson and his neighbor can harvest together, I add Johnson's and the neighbor's yields.",
+    "Total corn harvested by both: 240 corn (Johnson) + 960 corn (Neighbor) = 1200 corn."
+  ],
+  "solution": "1200"
+}

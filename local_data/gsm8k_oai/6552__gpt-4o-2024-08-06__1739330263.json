@@ -1,0 +1,17 @@
+{
+  "query": "A grocery store has 4 kinds of jelly. They sell grape jelly twice as much as strawberry jelly, and raspberry jelly twice as much as plum jelly. The raspberry jelly sells a third as much as the grape jelly. If they sold 6 jars of plum jelly today, how many jars of strawberry jelly did they sell?",
+  "steps": [
+    "First, I need to understand the relationships between the different types of jelly sales.",
+    "Let's define some variables: let S be the number of jars of strawberry jelly sold, G be the number of jars of grape jelly sold, R be the number of jars of raspberry jelly sold, and P be the number of jars of plum jelly sold.",
+    "According to the problem, the grocery store sells grape jelly twice as much as strawberry jelly, so G = 2S.",
+    "It also states that they sell raspberry jelly twice as much as plum jelly, so R = 2P.",
+    "And, it is mentioned that raspberry jelly sells a third as much as grape jelly, so R = G/3.",
+    "Finally, they sold 6 jars of plum jelly today, which gives P = 6.",
+    "Using P = 6, substitute into the equation R = 2P to find the number of raspberry jelly jars sold: R = 2(6) = 12.",
+    "Now use R = 12 and substitute into the equation R = G/3: 12 = G/3.",
+    "To solve for G, multiply both sides by 3: G = 12 * 3 = 36.",
+    "Now that I know G = 36, substitute this value into the equation G = 2S to find the number of strawberry jelly jars sold: 36 = 2S.",
+    "Divide both sides by 2 to solve for S: S = 36 / 2 = 18."
+  ],
+  "solution": "18"
+}

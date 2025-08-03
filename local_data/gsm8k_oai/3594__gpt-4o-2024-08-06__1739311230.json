@@ -1,0 +1,14 @@
+{
+  "query": "Solomon bought a dining table at a 10% discount and paid the sale price of $450. What was the original price of the dining table?",
+  "steps": [
+    "I know that Solomon paid $450 for the dining table after a 10% discount was applied.",
+    "The sale price is 90% of the original price, since a 10% discount means he paid 90% of what the table originally cost.",
+    "Let the original price be represented by the variable \"x.\"",
+    "I can express the sale price in terms of the original price as 0.9 * x = 450.",
+    "To find the original price, I need to solve for x in the equation 0.9 * x = 450.",
+    "I'll divide both sides of the equation by 0.9 to solve for x: x = 450 / 0.9.",
+    "I need to perform the division: 450 divided by 0.9 is 500.",
+    "Therefore, the original price of the dining table was $500."
+  ],
+  "solution": "500"
+}

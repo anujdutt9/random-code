@@ -1,0 +1,19 @@
+{
+  "query": "Andrew is having two of his friends over for a sleepover. For one friend, Brian, he asks his mother to buy 3 donuts. He asks for his other friend, Samuel, to get the same. A day before the sleepover Andrew ends up inviting two more friends and asks his mother to buy them the same amount of donuts. Just in case, Andrew\u2019s mother wants to buy one more donut for each of Andrew\u2019s friends. Andrew\u2019s mother is going to buy the same amount of donuts for Andrew as everybody else. How many donuts will Andrew\u2019s mother need to buy?",
+  "steps": [
+    "Andrew initially invites two friends: Brian and Samuel.",
+    "He requests 3 donuts for each of them.",
+    "Therefore, for Brian: 3 donuts, and for Samuel: 3 donuts.",
+    "Total donuts for the initial two friends is 3 + 3 = 6 donuts.",
+    "Later, Andrew invites two more friends, so the total number of friends now is 4.",
+    "Each friend is initially to receive 3 donuts.",
+    "So, total donuts for 4 friends initially is 4 * 3 = 12 donuts.",
+    "Andrew\u2019s mother wants to buy one more donut for each friend just in case.",
+    "Adding the extra donut per friend results in 4 additional donuts.",
+    "So, new total donuts for 4 friends = 12 + 4 = 16 donuts.",
+    "Andrew will also receive the same number of donuts as each of his friends.",
+    "Since each friend gets 3 + 1 = 4 donuts, Andrew also gets 4 donuts.",
+    "Adding Andrew's amount, total donuts needed = 16 + 4 = 20 donuts."
+  ],
+  "solution": "20"
+}

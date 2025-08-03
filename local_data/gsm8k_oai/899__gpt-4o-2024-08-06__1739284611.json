@@ -1,0 +1,12 @@
+{
+  "query": "Ben works 8-hour shifts in a furniture shop.  It takes him 5 hours to build 1 rocking chair.  How many chairs can he build in 10 days?",
+  "steps": [
+    "Ben works 8-hour shifts per day.",
+    "It takes Ben 5 hours to build 1 rocking chair.",
+    "To find out how many hours Ben works in 10 days, we multiply the number of hours he works per day by the number of days: 8 hours/day * 10 days.",
+    "8 hours/day * 10 days = 80 hours.",
+    "Now, I need to determine how many chairs Ben can build with these 80 hours. Since it takes him 5 hours to build 1 chair, I will divide the total number of hours by the number of hours per chair.",
+    "80 hours / 5 hours/chair = 16 chairs."
+  ],
+  "solution": "16"
+}

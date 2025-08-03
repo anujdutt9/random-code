@@ -1,0 +1,16 @@
+{
+  "query": "Thirty students run in a charity race to raise money for the hurricane victims. Ten of the students raised $20 each. The rest of the students raised $30 each. How much did the students raise in all?",
+  "steps": [
+    "First, I need to find out how many students raised $30 each.",
+    "There are 30 students in total.",
+    "10 students raised $20 each, so I subtract 10 from 30.",
+    "30 - 10 = 20 students raised $30 each.",
+    "Now, I calculate the total amount of money raised by the 10 students who raised $20 each.",
+    "10 students * $20 = $200",
+    "Next, I calculate the total amount of money raised by the 20 students who raised $30 each.",
+    "20 students * $30 = $600",
+    "Finally, I add the money raised by both groups of students to find the total amount raised.",
+    "$200 + $600 = $800"
+  ],
+  "solution": "800"
+}

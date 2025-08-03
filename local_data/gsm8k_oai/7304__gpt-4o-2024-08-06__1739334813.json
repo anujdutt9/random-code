@@ -1,0 +1,17 @@
+{
+  "query": "Elmer has a pond that initially contained 2400 pollywogs, but these pollywogs matured into toads and left the pond at a constant rate of 50 pollywogs per day.  In addition, Elmer has a son named Melvin, who loves to catch pollywogs, remove them from the pond, and release them into a nearby stream.  For the first 20 days, Melvin caught 10 pollywogs per day and released them into the stream.  How many days did it take for all of the pollywogs to disappear from the pond?",
+  "steps": [
+    "I start by determining the initial conditions. Elmer's pond initially contained 2400 pollywogs.",
+    "I note that the pollywogs mature into toads and leave at a constant rate of 50 pollywogs per day.",
+    "I also note that Melvin removed 10 pollywogs per day for the first 20 days.",
+    "I first calculate the total number of pollywogs removed by Melvin after 20 days. That's 10 pollywogs per day times 20 days = 200 pollywogs.",
+    "I determine the rate at which pollywogs are disappearing from the pond for the first 20 days. Since 50 pollywogs mature and leave daily and Melvin removes 10 daily, 60 pollywogs are leaving the pond per day for those days.",
+    "I calculate the number of pollywogs that disappear in the first 20 days. That's 60 pollywogs per day times 20 days = 1200 pollywogs.",
+    "I subtract the number of pollywogs that left in the first 20 days from the initial number. 2400 pollywogs minus 1200 pollywogs leaves 1200 pollywogs in the pond.",
+    "After the first 20 days, Melvin stops collecting pollywogs. The rate at which pollywogs leave the pond becomes only 50 per day.",
+    "I need to find out how many more days it will take for the remaining 1200 pollywogs to disappear at a rate of 50 per day.",
+    "I divide 1200 pollywogs by 50 pollywogs per day to find the number of days it will take for the remaining pollywogs to leave. 1200 divided by 50 equals 24 days.",
+    "I now add the initial 20 days to the 24 days it took for the remaining pollywogs to leave to find the total days. 20 days plus 24 days equals 44 days."
+  ],
+  "solution": "44"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Lizette scored 92 on her third quiz giving her an average of 94. What is Lizette's average in her first two quizzes?",
+  "steps": [
+    "I know that the average of all three quizzes is 94.",
+    "To calculate the sum of all three scores, I need to multiply the average by the number of quizzes: 94 * 3.",
+    "Calculating that gives me 94 * 3 = 282.",
+    "This means the sum of all three quiz scores is 282.",
+    "Lizette's third quiz score is 92.",
+    "To find the sum of the first two quizzes, I subtract the third quiz score from the total sum: 282 - 92.",
+    "Calculating that gives me 282 - 92 = 190.",
+    "The sum of the first two quizzes is 190.",
+    "To calculate the average of the first two quizzes, I divide the sum of the scores by 2: 190 / 2.",
+    "Dividing that gives me 190 / 2 = 95."
+  ],
+  "solution": "95"
+}

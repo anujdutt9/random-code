@@ -1,0 +1,12 @@
+{
+  "query": "Question: Where did the old ladies indoor only pet cat stay?\n\nChoices:\nA: front door\nB: zoo\nC: jail cell\nD: residence\nE: floor",
+  "steps": [
+    "The question specifies that the cat is an indoor-only pet.",
+    "Since it is an indoor cat, it would not stay in places like a zoo (B) or a jail cell (C), because those are not residential environments.",
+    "The front door (A) refers to an entrance and is not a place for a cat to stay, especially since it is indoors only.",
+    "The remaining option is \"residence\" (D), which refers to a home, where an indoor cat would logically stay.",
+    "We need to confirm that \"floor\" (E) does not represent a suitable answer because it describes a part of a room rather than a place where the cat would stay.",
+    "Thus, the only choice that aligns with an indoor-only pet cat is \"residence\" (D)."
+  ],
+  "solution": "D"
+}

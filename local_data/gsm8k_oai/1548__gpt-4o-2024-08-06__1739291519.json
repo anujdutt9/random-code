@@ -1,0 +1,14 @@
+{
+  "query": "Bill is trying to control the pests in his garden. Each spider he introduces eats 7 bugs, and each time he sprays the garden he reduces the total bug population to 80% of what it was previously. If the garden has 400 bugs to start, and Bill sprays once and introduces 12 spiders, how many bugs are left?",
+  "steps": [
+    "The garden starts with 400 bugs.",
+    "Bill sprays the garden once, reducing the bug population to 80% of its current size.",
+    "Calculate 80% of 400: \\(0.8 \\times 400 = 320\\).",
+    "After spraying, there are 320 bugs.",
+    "Each spider eats 7 bugs.",
+    "Bill introduces 12 spiders.",
+    "Calculate the total number of bugs eaten by the spiders: \\(12 \\times 7 = 84\\).",
+    "Subtract the number of bugs eaten by the spiders from the bug population after spraying: \\(320 - 84 = 236\\)."
+  ],
+  "solution": "236"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Norris saved $29 in September. He saved $25 in October and $31 in November. Then Hugo spent $75 on an online game. How much money does Norris have left?",
+  "steps": [
+    "First, I need to calculate the total amount of money Norris saved in September, October, and November.",
+    "In September, Norris saved $29.",
+    "In October, Norris saved $25.",
+    "In November, Norris saved $31.",
+    "Now, I will add these amounts together to find the total savings before any spending.",
+    "$29 (September) + $25 (October) = $54",
+    "$54 + $31 (November) = $85",
+    "Norris has $85 in total savings.",
+    "Next, I need to account for the $75 that Hugo spent on an online game.",
+    "To find out how much money Norris has left, I will subtract the amount Hugo spent from Norris's total savings.",
+    "$85 (total savings) - $75 (spent) = $10",
+    "Norris has $10 left after the spending."
+  ],
+  "solution": "10"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "A group of people contains men, women, and children. The number of men is twice the number of women, and the number of women is 3 times the number of children. If the number of children is 30, how many people does this group contain?",
+  "steps": [
+    "The problem states that the number of children is 30.",
+    "The number of women is 3 times the number of children.",
+    "So, the number of women is 3 * 30 = 90.",
+    "The number of men is twice the number of women.",
+    "So, the number of men is 2 * 90 = 180.",
+    "Now I add up the number of men, women, and children to find the total number of people in the group.",
+    "The total number of people is 180 (men) + 90 (women) + 30 (children).",
+    "180 + 90 equals 270.",
+    "270 + 30 equals 300."
+  ],
+  "solution": "300"
+}

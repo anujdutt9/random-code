@@ -1,0 +1,14 @@
+{
+  "query": "In a parking lot, there are cars and motorcycles.  Each car has 5 wheels (including one spare) and each motorcycle has 2 wheels. There are 19 cars in the parking lot. Altogether all vehicles have 117 wheels. How many motorcycles are at the parking lot?",
+  "steps": [
+    "First, I understand the problem: I have 19 cars and an unknown number of motorcycles in a parking lot, and a total of 117 wheels for all vehicles.",
+    "Each car has 5 wheels. Thus, I need to find out the total number of wheels contributed by the cars.",
+    "Since there are 19 cars and each car has 5 wheels, I calculate the total wheels from the cars by multiplying 19 by 5.",
+    "19 cars * 5 wheels/car = 95 wheels contributed by all the cars.",
+    "Now, I know the total number of wheels is 117. I can calculate how many wheels the motorcycles contribute by subtracting the number of wheels from the cars from the total number of wheels.",
+    "117 total wheels - 95 car wheels = 22 wheels from the motorcycles.",
+    "Each motorcycle has 2 wheels. I need to find out how many motorcycles there are, so I'll divide the number of motorcycle wheels by 2.",
+    "22 motorcycle wheels / 2 wheels/motorcycle = 11 motorcycles."
+  ],
+  "solution": "11"
+}

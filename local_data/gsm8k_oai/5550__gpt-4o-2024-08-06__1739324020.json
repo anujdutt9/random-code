@@ -1,0 +1,15 @@
+{
+  "query": "While driving up a road, Philip passed through 5 intersections. 4 crosswalks marked each intersection with a total of 20 lines per crosswalk. Calculate the total number of lines of the crosswalks in the five intersections.",
+  "steps": [
+    "First, I need to calculate the total number of lines in a single crosswalk.",
+    "Each crosswalk is marked with 20 lines, according to the problem.",
+    "I need to determine the number of crosswalks at a single intersection.",
+    "The problem states that there are 4 crosswalks at each intersection.",
+    "To find the total number of lines at a single intersection, I multiply the number of crosswalks by the number of lines per crosswalk.",
+    "This gives me 4 crosswalks * 20 lines per crosswalk = 80 lines at one intersection.",
+    "Now, I need to calculate the total number of lines for all five intersections Philip passed through.",
+    "I multiply the number of lines at one intersection (80 lines) by the total number of intersections (5).",
+    "So, 80 lines * 5 intersections = 400 lines."
+  ],
+  "solution": "400"
+}

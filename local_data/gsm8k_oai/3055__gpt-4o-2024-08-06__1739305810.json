@@ -1,0 +1,13 @@
+{
+  "query": "Anthony keeps a bottle of vinegar in his cupboard for 2 years. Each year 20% of the vinegar evaporates. What percent of the vinegar is left after 2 years?",
+  "steps": [
+    "I start by thinking about what happens each year. Initially, Anthony has 100% of the vinegar.",
+    "After the first year, 20% of the vinegar evaporates. This means 80% of the vinegar remains.",
+    "To find out how much vinegar is left after the first year, I multiply the remaining percentage by the initial amount. 80% of 100% is 0.8 * 100% = 80%.",
+    "Now I need to account for the second year. Again, 20% of the remaining vinegar evaporates.",
+    "20% of 80% is calculated as 0.2 * 80% = 16%.",
+    "I subtract this 16% from the 80% remaining after the first year: 80% - 16% = 64%.",
+    "I double-check my calculations by considering each step logically."
+  ],
+  "solution": "64"
+}

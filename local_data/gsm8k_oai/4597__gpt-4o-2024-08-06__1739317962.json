@@ -1,0 +1,14 @@
+{
+  "query": "Mason is mixing up some salad dressing. He takes a bowl that holds 150 ml and fills it 2/3rds with oil and 1/3rd with vinegar. The oil weighs 5 g/ml and the vinegar weighs 4 g/ml. How many grams does the salad dressing weigh?",
+  "steps": [
+    "First, I need to determine how much oil Mason uses. The bowl holds 150 ml, and he fills it 2/3rds with oil.",
+    "I calculate 2/3 of 150 ml to find the volume of oil: (2/3) * 150 ml = 100 ml.",
+    "Next, I determine how much vinegar Mason uses. Since the remaining 1/3 of the bowl is vinegar, I calculate 1/3 of 150 ml: (1/3) * 150 ml = 50 ml.",
+    "Now, I need to calculate the weight of the oil. The density of the oil is 5 g/ml, and Mason uses 100 ml of oil.",
+    "I multiply the volume of oil by its density to find its weight: 100 ml * 5 g/ml = 500 g.",
+    "Next, I calculate the weight of the vinegar. The density of the vinegar is 4 g/ml, and Mason uses 50 ml of vinegar.",
+    "I multiply the volume of vinegar by its density to find its weight: 50 ml * 4 g/ml = 200 g.",
+    "Finally, I sum the weights of the oil and vinegar to find the total weight of the salad dressing: 500 g + 200 g = 700 g."
+  ],
+  "solution": "700"
+}

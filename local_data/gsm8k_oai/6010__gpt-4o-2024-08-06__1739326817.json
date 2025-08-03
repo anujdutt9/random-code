@@ -1,0 +1,23 @@
+{
+  "query": "James can do a farmer's walk with 300 pounds per hand for 20 meters.  He can lift 30% more if he only goes 10 meters.  In addition, lifting straps give him another 20%.  How much can he move with lifting straps for 10 meters if he increases his 20-meter distance without straps by 50 pounds and everything else increases in proportion?",
+  "steps": [
+    "James can carry 300 pounds per hand for 20 meters without straps.",
+    "Carrying 30% more for a shorter distance of 10 meters means he can increase each 300 pounds by 30%.",
+    "30% of 300 pounds is 90 pounds.",
+    "Therefore, for 10 meters, he can carry 300 + 90 = 390 pounds per hand.",
+    "Now, adding lifting straps allows for an additional increase of 20%.",
+    "20% of 390 pounds is 78 pounds.",
+    "Therefore, with lifting straps for 10 meters, he can carry 390 + 78 = 468 pounds per hand.",
+    "He increases his 20-meter distance weight without straps by 50 pounds. Thus, he carries 300 + 50 = 350 pounds per hand.",
+    "If everything increases proportionally, we need to account for this increase.",
+    "For 10 meters, we originally calculated 390 pounds per hand without considering the initial 50 pounds increase.",
+    "The initial increase was 50 pounds. Hence, the originally calculated 10-meter weight (390) should have the same proportional increase applied.",
+    "The proportional increase is calculated based on the change from 300 to 350 pounds.",
+    "350 / 300 = 1.1667, implying an increase factor of 1.1667.",
+    "The increase from 390 per hand should now be 390 * 1.1667 = 455.",
+    "With lifting straps giving 20% more of the increased weight, compute 20% of 455 pounds.",
+    "20% of 455 is 91 pounds.",
+    "This gives a total of 455 + 91 = 546 pounds with the straps for 10 meters."
+  ],
+  "solution": "546"
+}

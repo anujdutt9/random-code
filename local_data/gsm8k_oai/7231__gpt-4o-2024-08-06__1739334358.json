@@ -1,0 +1,20 @@
+{
+  "query": "Tyler has $100. If he buys 8 scissors for $5 each and 10 erasers for $4 each, how much of his money remains?",
+  "steps": [
+    "Tyler starts with $100.",
+    "He buys 8 scissors, each costing $5.",
+    "To find the total cost of the scissors, multiply 8 by $5.",
+    "8 scissors x $5/scissor = $40.",
+    "The cost of the scissors is $40.",
+    "Next, he buys 10 erasers, each costing $4.",
+    "To find the total cost of the erasers, multiply 10 by $4.",
+    "10 erasers x $4/eraser = $40.",
+    "The cost of the erasers is $40.",
+    "To find the total expenditure, add the cost of the scissors to the cost of the erasers.",
+    "$40 (scissors) + $40 (erasers) = $80.",
+    "The total expenditure is $80.",
+    "To find out how much of Tyler's money remains, subtract the total expenditure from the initial amount of money he had.",
+    "$100 - $80 = $20."
+  ],
+  "solution": "20"
+}

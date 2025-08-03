@@ -1,0 +1,16 @@
+{
+  "query": "A certain school bought 10 cases of bottled water for their athletes. There are 20 bottles in each case. Seventy bottles of water were used during the first game. After the second game, only 20 bottles of water were left. How many bottles of water were used during the second game?",
+  "steps": [
+    "First, I need to determine the total number of bottles of water the school initially bought.",
+    "There are 10 cases of bottled water, and each case contains 20 bottles.",
+    "So, I multiply the number of cases by the number of bottles per case: 10 cases * 20 bottles per case = 200 bottles.",
+    "The total number of bottles initially is 200.",
+    "Seventy bottles of water were used during the first game.",
+    "Therefore, after the first game, the number of bottles left is 200 - 70 = 130 bottles.",
+    "After the second game, there were only 20 bottles left.",
+    "To find out how many bottles were used during the second game, I need to find the difference between the number of bottles before and after the second game.",
+    "Before the second game, there were 130 bottles, and after the second game there were 20 bottles left.",
+    "Thus, the number of bottles used during the second game is 130 - 20 = 110 bottles."
+  ],
+  "solution": "110"
+}

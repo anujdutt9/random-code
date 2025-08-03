@@ -1,0 +1,21 @@
+{
+  "query": "In a classroom of 81 students, two-thirds are wearing striped shirts while the others are wearing checkered shirts. If there are 19 more students wearing shorts than checkered shirts, how many more students are wearing striped shirts than shorts?",
+  "steps": [
+    "First, I need to determine how many students are wearing striped shirts. I know that two-thirds of the students are wearing striped shirts.",
+    "I calculate two-thirds of 81: \\((2/3) \\times 81\\).",
+    "\\(81 \\div 3 = 27\\).",
+    "\\(27 \\times 2 = 54\\).",
+    "So, 54 students are wearing striped shirts.",
+    "Next, I need to find how many students are wearing checkered shirts. Since the total number of students is 81, I subtract the number of students wearing striped shirts from the total.",
+    "\\(81 - 54 = 27\\).",
+    "So, 27 students are wearing checkered shirts.",
+    "The problem statement mentions that there are 19 more students wearing shorts than checkered shirts. I need to determine the number of students wearing shorts.",
+    "The number of students wearing shorts is 27 + 19.",
+    "\\(27 + 19 = 46\\).",
+    "So, 46 students are wearing shorts.",
+    "Now, I need to find out how many more students are wearing striped shirts than shorts.",
+    "I subtract the number of students wearing shorts from the number of students wearing striped shirts.",
+    "\\(54 - 46 = 8\\)."
+  ],
+  "solution": "8"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Carter usually bakes 6 cheesecakes, 5 muffins, and 8 red velvet cakes regularly for a week. For this week he was able to bake triple the number of cheesecakes, muffins, chocolate moist cakes, and red velvet cakes. How much more cakes was Carter able to bake for this week?",
+  "steps": [
+    "First, I need to calculate the regular number of cakes Carter bakes in a week.",
+    "Carter regularly bakes 6 cheesecakes, 5 muffins, and 8 red velvet cakes in a week.",
+    "Adding these up gives the total regular number of cakes: 6 + 5 + 8 = 19 cakes.",
+    "This week, Carter baked triple the number of cheesecakes, muffins, and red velvet cakes.",
+    "Triple the regular number of cheesecakes is 6 * 3 = 18 cheesecakes.",
+    "Triple the regular number of muffins is 5 * 3 = 15 muffins.",
+    "Triple the regular number of red velvet cakes is 8 * 3 = 24 red velvet cakes.",
+    "This week, Carter also baked chocolate moist cakes, although the regular number of chocolate moist cakes was not specified. I assume the regular number is 0.",
+    "Therefore, the number of chocolate moist cakes he baked this week is 0 * 3 = 0 cakes.",
+    "Now, I add up all the cakes he baked this week: 18 + 15 + 24 + 0 = 57 cakes.",
+    "Now I need to find out how many more cakes he baked this week compared to a regular week.",
+    "Subtract the regular number of cakes from this week's number: 57 - 19 = 38 more cakes."
+  ],
+  "solution": "38"
+}

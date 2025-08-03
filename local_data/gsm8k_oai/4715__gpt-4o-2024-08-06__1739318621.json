@@ -1,0 +1,17 @@
+{
+  "query": "Mary is paying her monthly garbage bill for a month with exactly four weeks. The garbage company charges Mary $10 per trash bin and $5 per recycling bin every week, and Mary has 2 trash bins and 1 recycling bin. They're giving her an 18% discount on the whole bill before fines for being elderly, but also charging her a $20 fine for putting inappropriate items in a recycling bin. How much is Mary's garbage bill?",
+  "steps": [
+    "First, determine the weekly cost for trash bins. Each trash bin costs $10 per week, and Mary has 2 trash bins.",
+    "Multiply the number of trash bins by the cost per trash bin, 2 trash bins * $10 = $20.",
+    "Determine the weekly cost for the recycling bin. Each recycling bin costs $5 per week, and Mary has 1 recycling bin.",
+    "Multiply the number of recycling bins by the cost per recycling bin, 1 recycling bin * $5 = $5.",
+    "Add the trash and recycling bin costs together to find the total weekly cost. $20 (trash bins) + $5 (recycling bin) = $25.",
+    "Now find the total cost for the month. There are exactly four weeks in the month, so multiply the weekly cost by 4. $25 * 4 = $100.",
+    "Calculate the discount amount. Mary receives an 18% discount on her bill before any fines.",
+    "Find 18% of $100. 18/100 * $100 = $18.",
+    "Subtract the discount from the total monthly cost. $100 - $18 = $82.",
+    "Add the fine to the bill. The fine is $20 for putting inappropriate items in a recycling bin.",
+    "Combine the discounted bill and the fine. $82 + $20 = $102."
+  ],
+  "solution": "102"
+}

@@ -1,0 +1,24 @@
+{
+  "query": "A library cabinet houses five ancient scrolls. The first scroll is 4080 years old. If each scroll is older than the last by half as many years as the last scroll\u2019s age, how old is the fifth scroll?",
+  "steps": [
+    "To find the age of the fifth scroll, let's first determine the pattern in age difference between each scroll.",
+    "The first scroll\u2019s age is given as 4080 years.",
+    "The difference in age between the first and the second scroll is half of the first scroll\u2019s age.",
+    "Half of 4080 years is 2040 years.",
+    "So, the second scroll is older than the first scroll by 2040 years.",
+    "The age of the second scroll is 4080 + 2040 = 6120 years.",
+    "Following the pattern, the age difference between the second and third scroll is half of the second scroll's age.",
+    "Half of 6120 years is 3060 years.",
+    "The third scroll is older than the second scroll by 3060 years.",
+    "The age of the third scroll is 6120 + 3060 = 9180 years.",
+    "Next, the age difference between the third and fourth scroll follows the same pattern: half of the third scroll's age.",
+    "Half of 9180 years is 4590 years.",
+    "The fourth scroll is older than the third scroll by 4590 years.",
+    "The age of the fourth scroll is 9180 + 4590 = 13770 years.",
+    "Lastly, the age difference between the fourth and fifth scroll will be half of the fourth scroll's age.",
+    "Half of 13770 years is 6885 years.",
+    "The fifth scroll is older than the fourth scroll by 6885 years.",
+    "Therefore, the age of the fifth scroll is 13770 + 6885 = 20655 years."
+  ],
+  "solution": "20655"
+}

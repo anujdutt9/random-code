@@ -1,0 +1,12 @@
+{
+  "query": "Steve has 400 new emails in his inbox.  He moves half of them to the trash, and 40 percent of the remaining emails to his work folder.  How many emails are left in the inbox?",
+  "steps": [
+    "Steve starts with 400 new emails in his inbox.",
+    "He moves half of them to the trash. Half of 400 is calculated as 400 / 2 = 200.",
+    "So, he moves 200 emails to the trash and has 400 - 200 = 200 emails remaining in the inbox.",
+    "He then moves 40 percent of the remaining emails (which are 200) to his work folder.",
+    "40 percent of the remaining 200 emails is calculated as 200 * 0.40 = 80.",
+    "So, he moves 80 emails to his work folder, leaving him with 200 - 80 = 120 emails in the inbox."
+  ],
+  "solution": "120"
+}

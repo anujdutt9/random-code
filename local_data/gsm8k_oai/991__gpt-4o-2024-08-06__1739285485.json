@@ -1,0 +1,16 @@
+{
+  "query": "There are six unicorns in the Enchanted Forest. Everywhere a unicorn steps, four flowers spring into bloom. The six unicorns are going to walk all the way across the forest side-by-side, a journey of 9 kilometers. If each unicorn moves 3 meters forward with each step, how many flowers bloom because of this trip?",
+  "steps": [
+    "First, I need to figure out how many steps each unicorn takes to complete the 9 kilometers.",
+    "Since 1 kilometer is 1000 meters, 9 kilometers is 9000 meters.",
+    "Each unicorn makes a step that covers 3 meters.",
+    "To find the total number of steps each unicorn takes, I divide the total distance (9000 meters) by the distance covered per step (3 meters).",
+    "9000 meters \u00f7 3 meters/step = 3000 steps",
+    "Each unicorn takes 3000 steps. Now I calculate the total number of steps for all 6 unicorns.",
+    "6 unicorns \u00d7 3000 steps/unicorn = 18000 steps",
+    "Since each step results in 4 flowers blooming, I multiply the total number of steps by the number of flowers per step.",
+    "18000 steps \u00d7 4 flowers/step = 72000 flowers",
+    "The total number of flowers that bloom is 72000."
+  ],
+  "solution": "72000"
+}

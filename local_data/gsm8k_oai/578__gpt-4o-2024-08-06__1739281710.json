@@ -1,0 +1,24 @@
+{
+  "query": "Bucky earns money each weekend catching and selling fish. He wants to save up for a new video game, which costs $60. Last weekend he earned $35. He can earn $5 from trout and $4 from blue-gill. He caught five fish this Sunday. If 60% were trout, and the rest were blue-gill, how much more does he need to save before he can buy the game?",
+  "steps": [
+    "Bucky has already earned $35 from last weekend.",
+    "The cost of the game he wants to buy is $60.",
+    "To find out how much more Bucky needs, we start by calculating the total amount he should have, which is $60.",
+    "Now, calculate how much money he has so far: $35 from last weekend.",
+    "The amount he still needs is $60 (game cost) - $35 (current savings) = $25.",
+    "This Sunday, he caught five fish in total.",
+    "60% of the five fish were trout.",
+    "60% of 5 is calculated by 0.60 * 5 = 3.",
+    "So, Bucky caught 3 trout.",
+    "The remaining fish are blue-gill.",
+    "The number of blue-gill is 5 (total fish) - 3 (trout) = 2.",
+    "Bucky earns $5 for each trout.",
+    "The earnings from the trout are 3 (number of trout) * $5 = $15.",
+    "Bucky earns $4 for each blue-gill.",
+    "The earnings from the blue-gill are 2 (number of blue-gill) * $4 = $8.",
+    "Add the earnings from both types of fish to find total earnings this Sunday: $15 (trout earnings) + $8 (blue-gill earnings) = $23.",
+    "Add Bucky's new earnings to his previous savings: $35 (previous savings) + $23 (Sunday's earnings) = $58.",
+    "Calculate how much more Bucky needs: $60 (game cost) - $58 (total savings after Sunday) = $2."
+  ],
+  "solution": "2"
+}

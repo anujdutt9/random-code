@@ -1,0 +1,23 @@
+{
+  "query": "The price of buying a wooden toy at the new Craftee And Best store is $20, and the cost of buying a hat is $10. If Kendra went to the shop with a $100 bill and bought two wooden toys and three hats, calculate the change she received.",
+  "steps": [
+    "I know the price of each wooden toy is $20.",
+    "Kendra bought two wooden toys.",
+    "I need to calculate the total cost of the wooden toys by multiplying the number of toys by the price of each toy.",
+    "2 wooden toys \u00d7 $20 per toy = $40",
+    "I know the price of each hat is $10.",
+    "Kendra bought three hats.",
+    "I need to calculate the total cost of the hats by multiplying the number of hats by the price of each hat.",
+    "3 hats \u00d7 $10 per hat = $30",
+    "Now, I need to find the total amount Kendra spent at the store.",
+    "Total spent = Cost of wooden toys + Cost of hats",
+    "Total spent = $40 + $30",
+    "Total spent = $70",
+    "Kendra went to the store with a $100 bill.",
+    "I need to calculate the change Kendra received by subtracting the total amount spent from the amount of money she had initially.",
+    "Change = Initial amount - Total spent",
+    "Change = $100 - $70",
+    "Change = $30"
+  ],
+  "solution": "30"
+}

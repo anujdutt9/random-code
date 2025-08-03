@@ -1,0 +1,15 @@
+{
+  "query": "Erika and her 3 siblings are drawing with chalk outside. Another 3 friends join them and ask if they can help with the drawing. Erika loses 2 pieces of chalk as they are counting and the group realizes there isn't enough chalk for everyone. Erika\u2019s mom brings out another 12 pieces of chalk for them to share and there is now enough chalk for everyone to have 3 pieces each. How many pieces of chalk did Erika and her siblings originally have?",
+  "steps": [
+    "First, let's determine the total number of people drawing. Erika and her 3 siblings make 4. Another 3 friends join, making the total number of people 4 + 3 = 7.",
+    "Erika loses 2 pieces of chalk first. This means the original number of pieces of chalk was reduced by 2.",
+    "Erika\u2019s mom brings out another 12 pieces. With this additional chalk, there is now enough for each of the 7 people to have 3 pieces.",
+    "Let's calculate the total amount of chalk needed with 3 pieces per person: 7 people * 3 pieces of chalk each = 21 pieces of chalk.",
+    "Since 12 pieces were added by Erika's mom to meet the total of 21 pieces, initially Erika and her siblings must have had fewer than 21 pieces.",
+    "Let's denote the original number of pieces of chalk that Erika and her siblings had as x. Since Erika lost 2 pieces before sharing with her friends, and the mom added 12, we have the relationship: (original pieces - 2 lost pieces) + 12 added pieces = 21 pieces.",
+    "So, we can set up the equation as: (x - 2) + 12 = 21.",
+    "Simplifying the equation gives: x - 2 + 12 = 21, which simplifies to x + 10 = 21.",
+    "Subtracting 10 from both sides gives x = 11."
+  ],
+  "solution": "11"
+}

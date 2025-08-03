@@ -1,0 +1,19 @@
+{
+  "query": "Marissa is serving her kids lunch. Each kid gets a burger with 400 calories and 5 carrot sticks with 20 calories each, and some cookies with 50 calories each. Marissa wants each kid to eat a total of 750 calories for lunch. How many cookies does each kid get?",
+  "steps": [
+    "First, I need to calculate the total calories from the burger and the carrot sticks.",
+    "Each burger has 400 calories.",
+    "Each carrot stick has 20 calories, and each kid gets 5 carrot sticks.",
+    "So, the calories from the carrot sticks are 5 sticks * 20 calories each = 100 calories.",
+    "Now, I will add the calories from the burger and the carrot sticks.",
+    "Calories from the burger and carrot sticks together are 400 calories + 100 calories = 500 calories.",
+    "Marissa wants each kid to eat a total of 750 calories.",
+    "I need to calculate how many calories need to be provided by the cookies.",
+    "The total calorie goal per kid is 750 calories, and they already have 500 calories from the burger and carrot sticks.",
+    "Calories needed from cookies = 750 calories - 500 calories = 250 calories.",
+    "Each cookie has 50 calories.",
+    "To find the number of cookies, divide the needed calories by the calories per cookie.",
+    "Number of cookies = 250 calories / 50 calories per cookie = 5 cookies."
+  ],
+  "solution": "5"
+}

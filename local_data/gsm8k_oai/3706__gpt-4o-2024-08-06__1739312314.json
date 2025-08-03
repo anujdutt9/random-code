@@ -1,0 +1,26 @@
+{
+  "query": "Bobby received his weekly paycheck today.  Although his salary is $450 per week, his actual paycheck is reduced in size because there are some taxes, insurance payments, and fees removed from his pay before his employer writes the check.  If the government removes 1/3 in federal taxes and 8% in state taxes, the health insurance removes $50 per week, the life insurance removes $20 per week, and the city charges him a fee of $10 per week for parking, then what is the final amount left in Bobby's paycheck, in dollars?",
+  "steps": [
+    "Bobby's gross salary is $450 per week.",
+    "First, I'll calculate the federal taxes. The government removes 1/3 of his salary as federal taxes.",
+    "1/3 of $450 is calculated as $450 divided by 3.",
+    "$450 divided by 3 is $150. This is the amount deducted for federal taxes.",
+    "Next, I'll calculate the state taxes. The state taxes amount to 8% of his salary.",
+    "8% of $450 is calculated as $450 multiplied by 0.08.",
+    "$450 multiplied by 0.08 equals $36. This is the amount deducted for state taxes.",
+    "Now, I'll calculate the insurance payments. There are two insurance payments: health insurance and life insurance.",
+    "The health insurance removes $50 per week.",
+    "The life insurance removes $20 per week.",
+    "The total insurance payments per week are $50 plus $20.",
+    "$50 plus $20 equals $70. This is the total insurance deductions.",
+    "The city charges him a fee of $10 per week for parking.",
+    "To find out the total deductions, I need to add up all the reductions: federal taxes, state taxes, total insurance, and parking fee.",
+    "Total deductions = $150 (federal taxes) + $36 (state taxes) + $70 (insurance) + $10 (parking fee).",
+    "$150 plus $36 equals $186.",
+    "$186 plus $70 equals $256.",
+    "$256 plus $10 equals $266. This is the total amount deducted from Bobby's paycheck.",
+    "To find Bobby's final paycheck amount, I subtract the total deductions from his gross salary.",
+    "$450 (gross salary) minus $266 (total deductions) equals $184."
+  ],
+  "solution": "184"
+}

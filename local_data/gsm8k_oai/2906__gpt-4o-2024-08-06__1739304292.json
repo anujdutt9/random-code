@@ -1,0 +1,18 @@
+{
+  "query": "There are 20 bicycles, 10 cars and 5 motorcycles in the garage at Connor's house. How many wheels are there in the garage?",
+  "steps": [
+    "First, I need to determine the number of wheels on each type of vehicle.",
+    "Bicycles usually have 2 wheels each.",
+    "Cars usually have 4 wheels each.",
+    "Motorcycles usually have 2 wheels each.",
+    "Next, I will calculate the total number of wheels from the bicycles.",
+    "There are 20 bicycles, and each has 2 wheels, so the total is 20 \u00d7 2 = 40 wheels.",
+    "Now, I will calculate the total number of wheels from the cars.",
+    "There are 10 cars, and each has 4 wheels, so the total is 10 \u00d7 4 = 40 wheels.",
+    "Next, I will calculate the total number of wheels from the motorcycles.",
+    "There are 5 motorcycles, and each has 2 wheels, so the total is 5 \u00d7 2 = 10 wheels.",
+    "Now, I add the totals for all the vehicle types to get the total number of wheels in the garage.",
+    "Adding the number of wheels gives 40 (bicycles) + 40 (cars) + 10 (motorcycles) = 90 wheels."
+  ],
+  "solution": "90"
+}

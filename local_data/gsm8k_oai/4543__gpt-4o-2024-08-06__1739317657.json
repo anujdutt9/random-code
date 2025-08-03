@@ -1,0 +1,16 @@
+{
+  "query": "Sarah interviewed 450 students at her school and asked them which fruit they liked best - oranges, apples, pears or strawberries. 70 students said they liked oranges, 120 students said they liked pears, and 147 students said they liked apples. How many students picked strawberries as their favorite fruit from the list?",
+  "steps": [
+    "First, I need to find out the total number of students who have already picked oranges, pears, and apples.",
+    "Students who like oranges: 70",
+    "Students who like pears: 120",
+    "Students who like apples: 147",
+    "I will add these numbers together to find the total number of students who have already made their choice of oranges, pears, or apples.",
+    "70 + 120 + 147 = 337",
+    "Now, I will subtract this total from the overall number of students Sarah interviewed to find out how many students picked strawberries.",
+    "Total students interviewed: 450",
+    "Students who picked strawberries = Total students interviewed - Total students who picked other fruits",
+    "450 - 337 = 113"
+  ],
+  "solution": "113"
+}

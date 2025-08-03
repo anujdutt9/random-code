@@ -1,0 +1,21 @@
+{
+  "query": "Kate has to fill 52 balloons for the party. Each balloon holds 5 gallons of air. For the first 10 minutes, she can fill the balloons at a rate of 8 gallons of air per minute. For the next five minutes, she fills them at half that rate. After that, she fills the rest of the balloons at a rate of 2 gallons of air per minute. How many minutes will it take her to fill all of the balloons?",
+  "steps": [
+    "First, calculate how many gallons of air are needed in total. Each balloon holds 5 gallons, and there are 52 balloons.",
+    "52 balloons * 5 gallons per balloon = 260 gallons of air needed.",
+    "For the first 10 minutes, Kate fills at a rate of 8 gallons per minute.",
+    "In the first 10 minutes, she fills 10 minutes * 8 gallons per minute = 80 gallons.",
+    "Subtract the 80 gallons filled from the total 260 gallons needed.",
+    "260 gallons - 80 gallons = 180 gallons remaining.",
+    "For the next 5 minutes, she fills at half of her original rate, which is 8/2 = 4 gallons per minute.",
+    "In the next 5 minutes, she fills 5 minutes * 4 gallons per minute = 20 gallons.",
+    "Subtract the 20 gallons filled from the remaining 180 gallons.",
+    "180 gallons - 20 gallons = 160 gallons remaining.",
+    "After the first 15 minutes, she fills at a rate of 2 gallons per minute.",
+    "She needs to fill 160 gallons at a rate of 2 gallons per minute.",
+    "160 gallons / 2 gallons per minute = 80 minutes needed to fill the remaining balloons.",
+    "Calculate the total time by adding all the minutes: 10 minutes + 5 minutes + 80 minutes.",
+    "Total time = 10 + 5 + 80 = 95 minutes."
+  ],
+  "solution": "95"
+}

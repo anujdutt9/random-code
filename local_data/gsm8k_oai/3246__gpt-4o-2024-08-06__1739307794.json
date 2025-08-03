@@ -1,0 +1,19 @@
+{
+  "query": "An iron bar measures 12 cm by 8 cm by  6 cm. A factory wants to melt ten iron bars and mold them into iron balls. Each iron ball has a volume of 8 cubic cm. How many iron balls have been molded?",
+  "steps": [
+    "First, I'll find the volume of one iron bar. The volume is found by multiplying its length, width, and height.",
+    "The dimensions of the iron bar are 12 cm, 8 cm, and 6 cm.",
+    "Volume of one iron bar = 12 cm * 8 cm * 6 cm",
+    "Volume of one iron bar = 96 cm * 6 cm",
+    "Volume of one iron bar = 576 cubic cm",
+    "The factory has ten iron bars.",
+    "The total volume of the ten iron bars is 10 * 576 cubic cm.",
+    "Total volume = 5760 cubic cm",
+    "Next, I need to find out how many iron balls have been molded.",
+    "Each iron ball has a volume of 8 cubic cm.",
+    "The number of iron balls molded is the total volume divided by the volume of one iron ball.",
+    "Number of iron balls = 5760 cubic cm / 8 cubic cm",
+    "Number of iron balls = 720"
+  ],
+  "solution": "720"
+}

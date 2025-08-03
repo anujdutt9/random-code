@@ -1,0 +1,23 @@
+{
+  "query": "Mike decides to buy a new camera.  He wants to buy a top-of-the-line camera but he decides to wait for the new model to come out.  The new model costs 30% more than the current model.  The old camera cost $4000.  He gets $200 off a $400 lens he bought.  How much did he pay for the camera and lens?",
+  "steps": [
+    "First, I need to calculate the cost of the new camera model.",
+    "The new model costs 30% more than the old model.",
+    "The old camera cost is $4000.",
+    "To find 30% of $4000, I multiply $4000 by 0.30.",
+    "$4000 * 0.30 = $1200",
+    "So, the new model costs $1200 more than the old one.",
+    "I add the extra cost to the old camera's price to get the new camera's cost.",
+    "$4000 + $1200 = $5200",
+    "Next, I calculate the effective price of the lens after the discount.",
+    "The initial price of the lens is $400.",
+    "He gets a $200 discount on the lens.",
+    "To find the discounted price, I subtract the discount from the lens's original price.",
+    "$400 - $200 = $200",
+    "Now, I just need to add the cost of the new camera and the discounted lens to find the total he paid.",
+    "The cost of the new camera is $5200.",
+    "The cost of the discounted lens is $200.",
+    "I add these two amounts: $5200 + $200 = $5400."
+  ],
+  "solution": "5400"
+}

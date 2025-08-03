@@ -1,0 +1,16 @@
+{
+  "query": "Sasha heard that planting trees helps to reduce the local temperature. For each tree planted, the temperature drops .1 degree. A tree costs $6 to plant. If she got the local temperature to drop from 80 to 78.2, how much did it cost to plant the trees?",
+  "steps": [
+    "Sasha wants to reduce the temperature from 80 degrees to 78.2 degrees.",
+    "First, I need to determine the total temperature decrease.",
+    "The initial temperature is 80 degrees, and the final temperature is 78.2 degrees.",
+    "I calculate the temperature decrease: 80 - 78.2 = 1.8 degrees.",
+    "Each tree Sasha plants results in a temperature drop of 0.1 degrees.",
+    "To find out how many trees were planted, I divide the total temperature decrease by the temperature decrease per tree.",
+    "1.8 degrees / 0.1 degree per tree = 18 trees.",
+    "Each tree costs $6 to plant.",
+    "To find the total cost, I multiply the number of trees by the cost per tree.",
+    "18 trees * $6 per tree = $108."
+  ],
+  "solution": "108"
+}

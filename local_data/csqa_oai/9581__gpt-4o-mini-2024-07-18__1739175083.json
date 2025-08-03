@@ -1,0 +1,13 @@
+{
+  "query": "Question: Where are gallons of beer held in one container?\n\nChoices:\nA: outside\nB: friend's house\nC: neighbor's house\nD: keg\nE: refrigerator",
+  "steps": [
+    "The question asks about a specific type of container that can hold gallons of beer.",
+    "We know that beer can be stored in various containers, but we need to find one that specifically holds \"gallons\" of beer.",
+    "Looking at the choices, A (outside) does not refer to a container at all.",
+    "B (friend's house) and C (neighbor's house) suggest locations but do not indicate a specific container for holding beer.",
+    "E (refrigerator) is indeed a common place to store beer, but it doesn\u2019t specifically denote a large container for holding gallons.",
+    "D (keg) refers to a specific type of container used for storing and serving beer, and kegs are designed to hold significant quantities, often several gallons.",
+    "Since the query explicitly asks for a container that can hold a large volume of beer, D (keg) is the most appropriate choice."
+  ],
+  "solution": "D"
+}

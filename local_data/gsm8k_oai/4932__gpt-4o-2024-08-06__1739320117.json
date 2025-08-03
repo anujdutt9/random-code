@@ -1,0 +1,24 @@
+{
+  "query": "A movie theater charges $5 for matinee tickets, $7 for evening tickets, and $10 for opening night tickets. A bucket of popcorn costs $10. On Friday, they had 32 matinee customers, 40 evening customers, and 58 customers for an opening night showing of a movie. If half the customers bought popcorn, how much money in dollars did the theater make on Friday night?",
+  "steps": [
+    "First, calculate the revenue from matinee ticket sales.",
+    "The theater had 32 matinee customers, and each ticket costs $5.",
+    "Multiply the number of matinee customers by the ticket price: 32 * $5 = $160.",
+    "Next, calculate the revenue from evening ticket sales.",
+    "The theater had 40 evening customers, and each ticket costs $7.",
+    "Multiply the number of evening customers by the ticket price: 40 * $7 = $280.",
+    "Now, calculate the revenue from opening night ticket sales.",
+    "The theater had 58 opening night customers, and each ticket costs $10.",
+    "Multiply the number of opening night customers by the ticket price: 58 * $10 = $580.",
+    "Add the revenue from all ticket sales to find the total ticket revenue.",
+    "$160 (matinee) + $280 (evening) + $580 (opening night) = $1,020 total ticket revenue.",
+    "Next, calculate the revenue from popcorn sales.",
+    "The total number of customers is the sum of matinee, evening, and opening night customers: 32 + 40 + 58 = 130 customers.",
+    "Since half the customers bought popcorn, calculate the number of popcorn buyers: 130 / 2 = 65 buyers.",
+    "Each bucket of popcorn costs $10.",
+    "Multiply the number of popcorn buyers by the popcorn price: 65 * $10 = $650.",
+    "Add the popcorn revenue to the total ticket revenue for the total earnings.",
+    "$1,020 (ticket revenue) + $650 (popcorn revenue) = $1,670 total earnings."
+  ],
+  "solution": "1670"
+}

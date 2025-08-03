@@ -1,0 +1,15 @@
+{
+  "query": "A crayon box has 24 crayons total.  8 crayons are red, 6 crayons are blue, there are 2/3 the number of green crayons as blue crayons, and the rest of the crayons are pink.  How many crayons are pink?",
+  "steps": [
+    "I know there are 24 crayons in total.",
+    "I know there are 8 red crayons.",
+    "I know there are 6 blue crayons.",
+    "I need to find the number of green crayons.",
+    "The number of green crayons is 2/3 the number of blue crayons.",
+    "2/3 of 6 (blue crayons) is 4.",
+    "So, there are 4 green crayons.",
+    "Now, I add up the known crayons: 8 red + 6 blue + 4 green = 18 crayons.",
+    "I subtract the total known crayons from the total crayons to find the number of pink crayons: 24 - 18 = 6."
+  ],
+  "solution": "6"
+}

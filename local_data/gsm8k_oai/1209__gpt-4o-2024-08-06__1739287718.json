@@ -1,0 +1,14 @@
+{
+  "query": "Jame has 60 bars of gold.  He uses 10% of them to pay for tax and then loses half of what is left in divorce.  How many gold bars does he have left?",
+  "steps": [
+    "Jame starts with 60 bars of gold.",
+    "He pays 10% of them in taxes.",
+    "10% of 60 is 0.10 * 60 = 6 bars.",
+    "After paying taxes, Jame has 60 - 6 = 54 bars left.",
+    "Jame loses half of what is left in the divorce.",
+    "Half of 54 is 54 / 2 = 27 bars.",
+    "After losing half in the divorce, Jame has 54 - 27 bars left.",
+    "54 - 27 = 27 bars."
+  ],
+  "solution": "27"
+}

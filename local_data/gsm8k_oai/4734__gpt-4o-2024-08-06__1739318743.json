@@ -1,0 +1,18 @@
+{
+  "query": "In a classroom, there are blue chairs, green chairs, and white chairs. There are 10 blue chairs. The green chairs are 3 times as many as the blue chairs, and there are 13 fewer white chairs than the green and blue chairs combined. How many chairs are there in a classroom?",
+  "steps": [
+    "I know there are 10 blue chairs.",
+    "The problem states that the green chairs are 3 times as many as the blue chairs.",
+    "So, I will multiply the number of blue chairs by 3 to find the number of green chairs.",
+    "3 times 10 equals 30. So, there are 30 green chairs.",
+    "Next, I need to find the number of white chairs.",
+    "The total number of blue and green chairs is 10 (blue) + 30 (green) = 40.",
+    "There are 13 fewer white chairs than the total number of blue and green chairs.",
+    "To find the number of white chairs, I subtract 13 from the total number of blue and green chairs.",
+    "40 minus 13 equals 27. Thus, there are 27 white chairs.",
+    "Now, I will calculate the total number of chairs in the classroom.",
+    "To do this, add the number of blue, green, and white chairs together.",
+    "10 (blue) + 30 (green) + 27 (white) equals 67."
+  ],
+  "solution": "67"
+}

@@ -1,0 +1,25 @@
+{
+  "query": "On a farm, there are 2 cows, 3 pigs, and 6 goats. The farmer planned on adding 3 cows, 5 pigs, and 2 goats. How many animals will there be on the farm?",
+  "steps": [
+    "First, I determine the initial number of cows on the farm. There are 2 cows already.",
+    "The farmer plans to add 3 more cows.",
+    "The total number of cows will be the initial 2 plus the 3 additional cows.",
+    "Calculating: 2 + 3 = 5 cows.",
+    "Next, I determine the initial number of pigs on the farm. There are 3 pigs.",
+    "The farmer plans to add 5 more pigs.",
+    "The total number of pigs will be 3 initial pigs plus 5 additional pigs.",
+    "Calculating: 3 + 5 = 8 pigs.",
+    "Now, I determine the initial number of goats on the farm. There are 6 goats.",
+    "The farmer plans to add 2 more goats.",
+    "The total number of goats will be 6 initial goats plus 2 additional goats.",
+    "Calculating: 6 + 2 = 8 goats.",
+    "To find the total number of animals on the farm, I add together all the cows, pigs, and goats.",
+    "The total number of cows is 5.",
+    "The total number of pigs is 8.",
+    "The total number of goats is 8.",
+    "Adding total cows, pigs, and goats: 5 + 8 + 8.",
+    "Calculating: 5 + 8 = 13.",
+    "Then, 13 + 8 = 21."
+  ],
+  "solution": "21"
+}

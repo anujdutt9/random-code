@@ -1,0 +1,16 @@
+{
+  "query": "A supermarket has pints of strawberries on sale. They sold 54 pints and made $216, which was $108 less than they would have made selling the same number of pints without the sale. How many more dollars does a pint of strawberries cost when not on sale?",
+  "steps": [
+    "Let's first find out how much revenue they would have made if the strawberries were not on sale. They made $216 with the sale, and this is $108 less than the original price.",
+    "If the revenue with the sale is $216 and this is $108 less, then the original revenue without the sale would be $216 + $108.",
+    "Calculate the original revenue: $216 + $108 = $324.",
+    "They sold 54 pints of strawberries, so now we need to find the price per pint with and without the sale.",
+    "First, find the price per pint with the sale. They made $216 from selling 54 pints, so the sale price per pint is $216 / 54.",
+    "Calculate the sale price per pint: $216 / 54 = $4.",
+    "Now, find the original price per pint without the sale. They would have made $324 from selling 54 pints, so the original price per pint is $324 / 54.",
+    "Calculate the original price per pint: $324 / 54 = $6.",
+    "Determine how much more a pint costs without the sale. We need to find the difference between the original price and the sale price per pint.",
+    "Subtract the sale price from the original price: $6 - $4 = $2."
+  ],
+  "solution": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "query": "Greg has his own dog walking business. He charges $20 per dog plus $1 per minute per dog for walking the dog. If he walks one dog for 10 minutes, two dogs for 7 minutes and three dogs for 9 minutes, how much money, in dollars, does he earn?",
+  "steps": [
+    "To solve this problem, I need to calculate Greg's earnings for each of the mentioned cases and then sum them up.",
+    "First, calculate the earnings for walking one dog for 10 minutes.",
+    "The base charge for one dog is $20.",
+    "The additional charge for walking one dog for 10 minutes is $1 per minute times 10 minutes, which is $10.",
+    "The total charge for one dog walked for 10 minutes is $20 + $10 = $30.",
+    "Next, calculate the earnings for walking two dogs for 7 minutes.",
+    "The base charge for two dogs is 2 times $20, which is $40.",
+    "The additional charge for walking two dogs for 7 minutes is 2 dogs times $1 per minute times 7 minutes, which is $14.",
+    "The total charge for two dogs walked for 7 minutes is $40 + $14 = $54.",
+    "Finally, calculate the earnings for walking three dogs for 9 minutes.",
+    "The base charge for three dogs is 3 times $20, which is $60.",
+    "The additional charge for walking three dogs for 9 minutes is 3 dogs times $1 per minute times 9 minutes, which is $27.",
+    "The total charge for three dogs walked for 9 minutes is $60 + $27 = $87.",
+    "Add up all the charges: $30 for the first case, $54 for the second case, and $87 for the third case.",
+    "The total earnings for the three cases is $30 + $54 + $87.",
+    "Calculate the final total: $30 + $54 = $84.",
+    "Add $84 + $87 = $171."
+  ],
+  "solution": "171"
+}

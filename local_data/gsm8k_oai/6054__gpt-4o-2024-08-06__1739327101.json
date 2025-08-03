@@ -1,0 +1,13 @@
+{
+  "query": "There were 20 fishermen in the lake who had cast their net to catch fish. If they caught 10000 fish in total, and 19 of them caught 400 fish each with their own net, calculate the number of fish the twentieth fisherman caught.",
+  "steps": [
+    "First, I calculate the total number of fish caught by the 19 fishermen.",
+    "Each of the 19 fishermen caught 400 fish.",
+    "So, total fish caught by 19 fishermen = 19 fishermen \u00d7 400 fish/fisherman = 7600 fish.",
+    "The total number of fish caught by all 20 fishermen is given as 10000 fish.",
+    "To find the number of fish caught by the twentieth fisherman, I subtract the fish caught by the 19 fishermen from the total fish.",
+    "Fish caught by the twentieth fisherman = Total fish - Fish caught by 19 fishermen.",
+    "Fish caught by the twentieth fisherman = 10000 fish - 7600 fish = 2400 fish."
+  ],
+  "solution": "2400"
+}

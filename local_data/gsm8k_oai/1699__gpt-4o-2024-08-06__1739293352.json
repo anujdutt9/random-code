@@ -1,0 +1,15 @@
+{
+  "query": "A garden is filled with 105 flowers of various colors. There are twice as many red flowers as orange. There are five fewer yellow flowers than red. If there are 10 orange flowers, how many pink and purple flowers are there if they have the same amount and there are no other colors?",
+  "steps": [
+    "We know there are 10 orange flowers.",
+    "The problem states there are twice as many red flowers as orange flowers. So, the number of red flowers is 2 times the number of orange flowers.",
+    "Calculate the number of red flowers: 2 * 10 = 20.",
+    "The problem also says there are five fewer yellow flowers than red flowers.",
+    "Calculate the number of yellow flowers: 20 - 5 = 15.",
+    "Add up the number of orange, red, and yellow flowers: 10 (orange) + 20 (red) + 15 (yellow) = 45.",
+    "The total number of flowers in the garden is given as 105.",
+    "Subtract the total number of orange, red, and yellow flowers from the overall total to find the sum of pink and purple flowers: 105 - 45 = 60.",
+    "Assuming the number of pink flowers is equal to the number of purple flowers, we divide the remaining flowers by 2: 60 / 2 = 30."
+  ],
+  "solution": "30"
+}

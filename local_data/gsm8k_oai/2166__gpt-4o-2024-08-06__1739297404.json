@@ -1,0 +1,17 @@
+{
+  "query": "A wheel on a certain machine makes 6 turns every 30 seconds. How many turns does it make in two hours?",
+  "steps": [
+    "First, I need to determine how many turns the wheel makes in one minute.",
+    "The wheel makes 6 turns in 30 seconds.",
+    "Since there are 60 seconds in a minute, I should double the number of turns for 30 seconds to get the number of turns in one minute.",
+    "So, in one minute, the wheel makes 6 x 2 = 12 turns.",
+    "Next, I need to find out how many minutes are in two hours.",
+    "There are 60 minutes in one hour.",
+    "Thus, in two hours, there are 60 x 2 = 120 minutes.",
+    "Now, I will calculate the total number of turns the wheel makes in 120 minutes.",
+    "The wheel makes 12 turns per minute.",
+    "So, in 120 minutes, it will make 12 x 120 turns.",
+    "Calculating 12 x 120 gives us 1440."
+  ],
+  "solution": "1440"
+}

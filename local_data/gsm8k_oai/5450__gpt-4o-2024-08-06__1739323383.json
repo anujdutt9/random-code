@@ -1,0 +1,16 @@
+{
+  "query": "A group of hawks is called a kettle. It is breeding season for hawks. A group of ornithologists are tracking 6 kettles of hawks. Each kettle has an average of 15 pregnancies that yield 4 babies per batch.  How many babies are expected this season if approximately 25% are lost?",
+  "steps": [
+    "First, I need to calculate the total number of pregnancies for all the kettles combined.",
+    "Each kettle has an average of 15 pregnancies.",
+    "There are 6 kettles of hawks.",
+    "To find the total number of pregnancies, I multiply the number of kettles by the average number of pregnancies per kettle: 6 kettles * 15 pregnancies per kettle = 90 pregnancies.",
+    "Next, I'll calculate the total number of babies expected without any losses.",
+    "Each pregnancy yields 4 babies.",
+    "To find the total number of babies, I multiply the total number of pregnancies by the number of babies per pregnancy: 90 pregnancies * 4 babies per pregnancy = 360 babies.",
+    "Now I need to account for the approximate loss of 25% of the babies.",
+    "To calculate the number of babies lost, I multiply the total number of babies by 25%: 360 babies * 0.25 = 90 babies lost.",
+    "To find the total number of babies expected after the losses, I subtract the number of babies lost from the total number of babies: 360 babies - 90 babies lost = 270 babies."
+  ],
+  "solution": "270"
+}

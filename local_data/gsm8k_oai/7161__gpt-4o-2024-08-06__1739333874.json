@@ -1,0 +1,12 @@
+{
+  "query": "Kenny played basketball last week. He ran for twice as long as he played basketball, and he practiced on the trumpet for twice as long as he ran. If he practiced on the trumpet for 40 hours, how many hours did Kenny play basketball last week?",
+  "steps": [
+    "First, identify the relationship between the activities. Kenny practiced the trumpet for 40 hours.",
+    "Since Kenny practiced on the trumpet for twice as long as he ran, the time he spent running is half of the time he practiced the trumpet.",
+    "Calculate the time Kenny spent running by dividing the trumpet practice time by 2. \n40 hours / 2 = 20 hours.",
+    "Kenny ran for twice as long as he played basketball.",
+    "The time he played basketball is half of the time he spent running.",
+    "Calculate the basketball playtime by dividing the running time by 2. \n20 hours / 2 = 10 hours."
+  ],
+  "solution": "10"
+}

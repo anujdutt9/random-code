@@ -1,0 +1,15 @@
+{
+  "query": "Walter works 5 days a week in a fast-food chain and earns $5 per hour. Since he is a working student, he can only work 4 hours a day and allocates 3/4 of his weekly earning for his schooling. How much does he allocate for school?",
+  "steps": [
+    "Walter works 5 days a week.",
+    "He earns $5 per hour.",
+    "He works 4 hours a day.",
+    "To find his daily earning: $5/hour * 4 hours/day = $20/day.",
+    "He works 5 days a week, so he earns $20/day * 5 days/week.",
+    "Calculate his weekly earning: $20/day * 5 days/week = $100/week.",
+    "He allocates 3/4 of his weekly earnings for schooling.",
+    "Calculate the amount allocated for schooling: (3/4) * $100.",
+    "(3/4) * $100 = $75."
+  ],
+  "solution": "75"
+}

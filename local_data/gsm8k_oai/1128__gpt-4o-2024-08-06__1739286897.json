@@ -1,0 +1,12 @@
+{
+  "query": "A certain kind of wild mushroom has either spots or gills, but never both. Gilled mushrooms are rare, with only one growing for every nine spotted mushrooms that grow. A fallen log had 30 mushrooms growing on its side. How many gilled mushrooms were on the fallen log\u2019s side?",
+  "steps": [
+    "First, I need to determine the ratio of gilled mushrooms to spotted mushrooms.",
+    "The problem states there is 1 gilled mushroom for every 9 spotted mushrooms.",
+    "This means for every 10 mushrooms (1 gilled + 9 spotted), there is 1 gilled mushroom.",
+    "Now, I need to calculate the fraction of mushrooms that are gilled. The fraction is 1 out of 10, which is 1/10.",
+    "Given there are 30 mushrooms in total on the log, I should multiply this total number by the fraction of gilled mushrooms to find how many gilled mushrooms there are.",
+    "Calculating 30 * (1/10) gives me 3 gilled mushrooms."
+  ],
+  "solution": "3"
+}

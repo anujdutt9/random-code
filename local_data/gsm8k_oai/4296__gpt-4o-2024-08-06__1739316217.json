@@ -1,0 +1,15 @@
+{
+  "query": "James decides to make a bathtub full of jello.  For every pound of water, you need 1.5 tablespoons of jello mix.  The bathtub can hold 6 cubic feet of water.  Each cubic foot of water is 7.5 gallons.  A gallon of water weighs 8 pounds.  A tablespoon of jello mix costs $0.50.  How much did he spend to fill his tub?",
+  "steps": [
+    "First, I need to determine how many cubic feet of water the bathtub can hold. The problem states the bathtub can hold 6 cubic feet of water.",
+    "Next, I need to convert the cubic feet of water into gallons, since each cubic foot of water is equivalent to 7.5 gallons.",
+    "Calculate the gallons of water in the bathtub: 6 cubic feet x 7.5 gallons per cubic foot = 45 gallons.",
+    "Now, I need to convert the gallons of water into pounds, using the information that each gallon of water weighs 8 pounds.",
+    "Calculate the pounds of water: 45 gallons x 8 pounds per gallon = 360 pounds.",
+    "Next, I need to determine how many tablespoons of jello mix are required. For every pound of water, 1.5 tablespoons of jello mix is needed.",
+    "Calculate the total tablespoons of jello mix needed: 360 pounds x 1.5 tablespoons per pound = 540 tablespoons.",
+    "Now, I need to find out how much money James spent on the jello mix. Each tablespoon of jello mix costs $0.50.",
+    "Calculate the total cost of the jello mix: 540 tablespoons x $0.50 per tablespoon = $270."
+  ],
+  "solution": "270"
+}

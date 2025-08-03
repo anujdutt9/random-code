@@ -1,0 +1,13 @@
+{
+  "query": "There are 4 carriages in a train and each carriage has 25 seats. If each carriage could accommodate 10 more passengers, how many passengers would fill up 3 trains?",
+  "steps": [
+    "First, I need to find out how many passengers each carriage can accommodate with the additional capacity.",
+    "Each carriage has 25 seats originally.",
+    "Each carriage can accommodate 10 more passengers. So, each carriage can now accommodate 25 + 10 = 35 passengers.",
+    "There are 4 carriages in a train, and each can accommodate 35 passengers.",
+    "So, for one train, the total number of passengers that can be accommodated is 4 carriages * 35 passengers per carriage = 140 passengers.",
+    "I need to determine how many passengers would fill up 3 trains.",
+    "For 3 trains, the number of passengers that can be accommodated is 140 passengers per train * 3 trains = 420 passengers."
+  ],
+  "solution": "420"
+}

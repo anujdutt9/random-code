@@ -1,0 +1,16 @@
+{
+  "query": "Andy needs to drive from Salt Lake City to Los Angeles. The drive from Salt Lake City to Las Vegas is 420 miles. The drive from Las Vegas to Los Angeles is 273 miles. He wants to make the drive in 11 hours. What's the average minimum speed that Andy needs to drive to reach Los Angeles in 11 hours?",
+  "steps": [
+    "First, I need to find the total distance Andy needs to drive from Salt Lake City to Los Angeles.",
+    "The distance from Salt Lake City to Las Vegas is 420 miles.",
+    "The distance from Las Vegas to Los Angeles is 273 miles.",
+    "To find the total distance, I add the distances of the two segments together: 420 miles + 273 miles.",
+    "420 miles + 273 miles equals 693 miles.",
+    "Now, I know the total distance Andy must drive is 693 miles.",
+    "Andy wants to make the drive in 11 hours.",
+    "I need to find the average minimum speed Andy needs to maintain to travel 693 miles in 11 hours.",
+    "Average speed is calculated by dividing total distance by total time.",
+    "693 miles divided by 11 hours equals 63 miles per hour."
+  ],
+  "solution": "63"
+}

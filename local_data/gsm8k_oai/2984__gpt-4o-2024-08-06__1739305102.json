@@ -1,0 +1,14 @@
+{
+  "query": "Joshua packs 12 bottles in each crate. He has a total of 130 bottles and 10 crates. How many bottles will not be placed in a crate?",
+  "steps": [
+    "First, I need to determine how many bottles can be placed in the crates Joshua has.",
+    "He has 10 crates and packs 12 bottles in each crate.",
+    "To find out the total number of bottles that can be packed in the crates, I multiply 10 crates by 12 bottles per crate.",
+    "10 crates * 12 bottles/crate = 120 bottles.",
+    "Joshua has a total of 130 bottles.",
+    "I need to determine the number of bottles that will not be packed in the crates.",
+    "I subtract the number of bottles that can be packed (120) from the total number of bottles (130).",
+    "130 total bottles - 120 bottles packed = 10 bottles not packed."
+  ],
+  "solution": "10"
+}

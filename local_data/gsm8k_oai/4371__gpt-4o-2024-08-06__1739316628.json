@@ -1,0 +1,16 @@
+{
+  "query": "Jerry had 63 pieces of candy.  He divided them up equally into 9 bags.  2 of the bags had chocolate hearts.  3 of the bags were chocolate kisses.  The rest of the bags were not chocolate.  How many pieces of candy were not chocolate?",
+  "steps": [
+    "Jerry started with 63 pieces of candy in total.",
+    "He divided these 63 pieces of candy equally into 9 bags.",
+    "To find out how many pieces of candy are in each bag, I will divide 63 by 9.",
+    "63 divided by 9 is 7. Thus, each bag contains 7 pieces of candy.",
+    "2 of the bags contained chocolate hearts, so there are 2 * 7 = 14 pieces of candy that are chocolate hearts.",
+    "3 of the bags contained chocolate kisses. Therefore, there are 3 * 7 = 21 pieces of candy that are chocolate kisses.",
+    "The rest of the bags are not chocolate. Let's determine how many bags are not chocolate.",
+    "There are a total of 9 bags. Out of these, 2 have chocolate hearts and 3 have chocolate kisses. So, there are 9 - (2 + 3) = 4 bags remaining.",
+    "These 4 bags contain the candies that are not chocolate. Each of these bags also has 7 pieces of candy.",
+    "Therefore, the number of pieces of candy in the bags that are not chocolate is 4 * 7 = 28."
+  ],
+  "solution": "28"
+}

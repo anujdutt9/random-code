@@ -1,0 +1,14 @@
+{
+  "query": "Rich is reading a 372-page book. He has already read 125 pages of the book. If he skipped the 16 pages of maps, how many more pages does he have left to read to finish the book?",
+  "steps": [
+    "First, I need to determine how many pages are actually left in the book after considering the pages Rich has already read.",
+    "The book has a total of 372 pages.",
+    "Rich has read 125 pages.",
+    "To find the number of pages still to be read, I subtract the pages he has read from the total pages: 372 - 125.",
+    "372 - 125 equals 247 pages left in the book.",
+    "However, Rich skipped 16 pages of maps.",
+    "Since he skipped the 16 pages, I need to subtract these from the pages left to read: 247 - 16.",
+    "247 - 16 equals 231 pages left for Rich to read."
+  ],
+  "solution": "231"
+}

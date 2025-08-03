@@ -1,0 +1,16 @@
+{
+  "query": "Three buckets are holding different fruits. Bucket A has 4 more pieces of fruit than bucket B while bucket B has 3 more pieces of fruit than bucket C. If bucket C has 9 pieces of fruit, how many pieces of fruit are in all 3 buckets?",
+  "steps": [
+    "Start by defining the number of pieces of fruit in each bucket with respect to bucket C. Let the number of fruits in bucket C be \\( x \\).",
+    "According to the problem, bucket C has 9 pieces of fruit, so \\( x = 9 \\).",
+    "Bucket B has 3 more pieces of fruit than bucket C. Therefore, the number of fruits in bucket B is \\( x + 3 \\).",
+    "Substitute the value of \\( x \\) to find the number of fruits in bucket B: \\( 9 + 3 = 12 \\).",
+    "Bucket A has 4 more pieces of fruit than bucket B. Therefore, the number of fruits in bucket A is \\( 12 + 4 \\).",
+    "Calculate the number of fruits in bucket A: \\( 12 + 4 = 16 \\).",
+    "Now calculate the total number of pieces of fruit in all 3 buckets: \\( x + (x + 3) + (x + 3 + 4) \\).",
+    "Substitute \\( x = 9 \\) into the equation: \\( 9 + 12 + 16 \\).",
+    "First, add \\( 9 + 12 \\): \\( 9 + 12 = 21 \\).",
+    "Then add the result to 16: \\( 21 + 16 = 37 \\)."
+  ],
+  "solution": "37"
+}

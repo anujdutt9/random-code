@@ -1,0 +1,17 @@
+{
+  "query": "50% of substitute teachers walk out after 1 hour of teaching. 30% of the remainder quit before lunch. If 60 substitute teachers show up at 7 AM, how many will be left after lunch?",
+  "steps": [
+    "I start by understanding the problem: 60 substitute teachers show up initially.",
+    "Half of these substitute teachers walk out after 1 hour.",
+    "To find the number that walk out, calculate 50% of 60.",
+    "50% of 60 is 0.5 * 60 = 30.",
+    "So 30 substitute teachers leave after 1 hour, leaving 60 - 30 = 30 teachers remaining.",
+    "Next, I consider that 30% of the remainder quit before lunch.",
+    "I need to find 30% of the remaining 30 teachers.",
+    "30% of 30 is 0.3 * 30 = 9.",
+    "So, 9 more teachers quit before lunch.",
+    "Subtract these 9 from the remaining 30 to know how many are left.",
+    "30 - 9 equals 21."
+  ],
+  "solution": "21"
+}

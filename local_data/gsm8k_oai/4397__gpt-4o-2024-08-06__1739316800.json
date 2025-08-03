@@ -1,0 +1,12 @@
+{
+  "query": "Max can trade 3 coconuts for a crab and 6 crabs for a goat. If he has 342 coconuts and he wants to convert all of them into goats, how many goats will he have?",
+  "steps": [
+    "First, let's calculate how many crabs Max can get for his 342 coconuts.",
+    "To find out, divide the total number of coconuts, 342, by the number of coconuts needed to trade for one crab, which is 3.",
+    "342 divided by 3 equals 114. Therefore, Max can trade 342 coconuts for 114 crabs.",
+    "Next, let's calculate how many goats Max can get for his 114 crabs.",
+    "To find out, divide the total number of crabs, 114, by the number of crabs needed to trade for one goat, which is 6.",
+    "114 divided by 6 equals 19. Therefore, Max can trade 114 crabs for 19 goats."
+  ],
+  "solution": "19"
+}

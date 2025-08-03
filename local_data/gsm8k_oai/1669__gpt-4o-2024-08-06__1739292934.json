@@ -1,0 +1,12 @@
+{
+  "query": "In a field where there are 200 animals, there are 40 cows, 56 sheep and goats. How many goats are there?",
+  "steps": [
+    "I am given that there are 200 animals in total in the field.",
+    "It is specified that there are 40 cows and 56 sheep.",
+    "To find out how many goats there are, I need to first calculate how many animals are accounted for by cows and sheep.",
+    "The total number of cows and sheep is 40 cows + 56 sheep = 96 animals.",
+    "Now, I subtract the number of cows and sheep from the total number of animals: 200 - 96 = 104.",
+    "Therefore, there are 104 goats in the field."
+  ],
+  "solution": "104"
+}

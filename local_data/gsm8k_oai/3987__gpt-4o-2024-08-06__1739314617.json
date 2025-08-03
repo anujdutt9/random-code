@@ -1,0 +1,23 @@
+{
+  "query": "In a survey about the student's favorite sports, 40% said they like basketball, 10% like chess, 28% like soccer, and the rest said they like badminton. If 250 students were interviewed, how many students identified chess or basketball as their favorite sport?",
+  "steps": [
+    "First, I need to understand how many students chose each sport. This requires calculating the number of students for each percentage.",
+    "Start with basketball: 40% of 250 students like basketball.",
+    "Calculate 40% of 250. That is (40/100) * 250.",
+    "40/100 simplifies to 0.4.",
+    "Multiply 0.4 by 250 to find the number of students who like basketball.",
+    "0.4 * 250 = 100.",
+    "So, 100 students like basketball.",
+    "Next, calculate the number of students who like chess.",
+    "10% of students like chess, so calculate 10% of 250.",
+    "10% can be expressed as (10/100) or 0.1.",
+    "Multiply 0.1 by 250.",
+    "0.1 * 250 = 25.",
+    "So, 25 students like chess.",
+    "Now, I need to find the total number of students who identified either basketball or chess as their favorite sport.",
+    "Add the number of students who like basketball (100) to the number of students who like chess (25).",
+    "100 + 25 = 125.",
+    "Therefore, 125 students identified chess or basketball as their favorite sport."
+  ],
+  "solution": "125"
+}

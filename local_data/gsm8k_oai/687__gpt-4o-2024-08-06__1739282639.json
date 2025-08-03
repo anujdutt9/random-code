@@ -1,0 +1,17 @@
+{
+  "query": "Stephanie is decorating 24 cupcakes for a birthday party, but she needs more candles. She currently has a total of 30 candles. She wants to decorate half of the cupcakes with 1 candle each and the other half of the cupcakes with 2 candles each. How many additional candles does Stephanie need to complete the cupcakes?",
+  "steps": [
+    "Stephanie has 24 cupcakes to decorate.",
+    "She wants to decorate half of the cupcakes with 1 candle each.",
+    "Half of 24 cupcakes is 12 cupcakes.",
+    "She will use 1 candle for each of these 12 cupcakes, so she needs 12 candles for them.",
+    "The other half of the cupcakes, which is also 12 cupcakes, will be decorated with 2 candles each.",
+    "She needs 2 candles for each of these 12 cupcakes.",
+    "For 12 cupcakes with 2 candles each, she needs \\(12 \\times 2 = 24\\) candles.",
+    "In total, Stephanie needs \\(12 + 24 = 36\\) candles to decorate all the cupcakes.",
+    "Stephanie currently has 30 candles.",
+    "To find out how many more candles she needs, we subtract the candles she has from the total candles needed.",
+    "\\(36 - 30 = 6\\) candles."
+  ],
+  "solution": "6"
+}

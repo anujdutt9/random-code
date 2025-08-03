@@ -1,0 +1,19 @@
+{
+  "query": "Grady has 20 red numbered cubes and 15 blue numbered cubes. He gives his friend Gage 2/5 of his red numbered cubes and 1/3 of the blue numbered cubes. If Gage had 10 red numbered cubes and 12 blue numbered cubes, find the total number of cubes Gage has?",
+  "steps": [
+    "Grady has 20 red cubes initially.",
+    "Grady gives 2/5 of his red cubes to Gage.",
+    "To find 2/5 of 20, I calculate \\( \\frac{2}{5} \\times 20 = 8 \\).",
+    "So, Grady gives 8 red cubes to Gage.",
+    "Grady has 15 blue cubes initially.",
+    "Grady gives 1/3 of his blue cubes to Gage.",
+    "To find 1/3 of 15, I calculate \\( \\frac{1}{3} \\times 15 = 5 \\).",
+    "So, Grady gives 5 blue cubes to Gage.",
+    "Gage originally has 10 red cubes and receives 8 more from Grady.",
+    "Now, Gage should have \\( 10 + 8 = 18 \\) red cubes.",
+    "Gage originally has 12 blue cubes and receives 5 more from Grady.",
+    "Now, Gage should have \\( 12 + 5 = 17 \\) blue cubes.",
+    "To find the total number of cubes Gage has, I add the red and blue cubes: \\( 18 + 17 \\)."
+  ],
+  "solution": "35"
+}

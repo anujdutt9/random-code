@@ -1,0 +1,19 @@
+{
+  "query": "Emma traveled by car 280 miles in 2 hours 20 minutes. What was the average speed of the car in miles per hour?",
+  "steps": [
+    "First, I need to determine the total time of the trip in hours. The given time is 2 hours and 20 minutes.",
+    "I know that 20 minutes is a fraction of an hour. Specifically, 20 minutes is \\( \\frac{20}{60} = \\frac{1}{3} \\) of an hour.",
+    "Therefore, the total time Emma traveled is \\( 2 + \\frac{1}{3} = \\frac{6}{3} + \\frac{1}{3} = \\frac{7}{3} \\) hours.",
+    "Next, I need to calculate the average speed. Speed is defined as the distance traveled divided by the time taken.",
+    "The distance traveled is 280 miles.",
+    "The time taken is \\( \\frac{7}{3} \\) hours.",
+    "The formula to calculate the average speed is: \\[ \\text{average speed} = \\frac{\\text{distance}}{\\text{time}} \\]",
+    "Substituting the distance and time into the formula gives: \\[ \\text{average speed} = \\frac{280}{\\frac{7}{3}} \\]",
+    "Dividing by a fraction is the same as multiplying by its reciprocal, so: \\[ \\frac{280}{\\frac{7}{3}} = 280 \\times \\frac{3}{7} \\]",
+    "Now I will perform the multiplication: \\[ 280 \\times \\frac{3}{7} = 280 \\times 0.4285714 \\] (since \\( \\frac{3}{7} \\approx 0.4285714 \\))",
+    "Alternatively, it\u2019s easier to simplify by checking if the division simplifies directly: \\( 280 \\div 7 = 40 \\)",
+    "Then, multiply by 3: \\( 40 \\times 3 = 120 \\)",
+    "Therefore, the average speed of the car is 120 miles per hour."
+  ],
+  "solution": "120"
+}

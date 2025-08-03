@@ -1,0 +1,15 @@
+{
+  "query": "Adam, Andrew and Ahmed all raise goats.  Adam has 7 goats.  Andrew has 5 more than twice as many goats as Adam.  Ahmed has 6 fewer goats than Andrew.  How many goats does Ahmed have?",
+  "steps": [
+    "Adam has 7 goats.",
+    "Andrew has 5 more than twice as many goats as Adam.",
+    "First, I need to calculate twice as many goats as Adam has.",
+    "Twice as many as Adam's 7 goats is 2 * 7 = 14 goats.",
+    "Now, I will add 5 more to this number for Andrew.",
+    "Andrew has 14 + 5 = 19 goats.",
+    "Ahmed has 6 fewer goats than Andrew.",
+    "So, I need to subtract 6 from the number of goats Andrew has.",
+    "19 - 6 = 13 goats."
+  ],
+  "solution": "13"
+}

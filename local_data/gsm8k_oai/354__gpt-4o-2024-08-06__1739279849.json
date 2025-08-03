@@ -1,0 +1,15 @@
+{
+  "query": "Seth bought some boxes of oranges. He gave a box to his mother. He then gave away half of the remaining boxes. If Seth has 4 boxes of oranges left, how many boxes did he buy in the first place?",
+  "steps": [
+    "Let's denote the initial number of boxes Seth bought as \\( x \\).",
+    "He gives 1 box to his mother, so he has \\( x - 1 \\) boxes left.",
+    "He then gives away half of the remaining \\( x - 1 \\) boxes. So, he gives away \\(\\frac{x - 1}{2}\\) boxes.",
+    "After giving away half, the number of boxes left with Seth is \\( \\frac{x - 1}{2} \\).",
+    "We know from the problem that he has 4 boxes left.",
+    "So, we set up the equation: \\(\\frac{x - 1}{2} = 4\\).",
+    "To solve for \\( x \\), first multiply both sides of the equation by 2, resulting in \\( x - 1 = 8 \\).",
+    "Add 1 to both sides of the equation to find \\( x \\): \\( x = 8 + 1 \\).",
+    "Therefore, \\( x = 9 \\)."
+  ],
+  "solution": "9"
+}

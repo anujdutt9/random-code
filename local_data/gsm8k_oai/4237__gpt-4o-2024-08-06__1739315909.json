@@ -1,0 +1,16 @@
+{
+  "query": "Silvio was running a race that had 4 parts. The total length of the race was 74.5 kilometers. The first part of the race is 15.5 kilometers long. The second and third parts are each 21.5 kilometers long. How many kilometers is the last part of the race?",
+  "steps": [
+    "First, I should identify the total distance of the race, which is given as 74.5 kilometers.",
+    "Next, I identify the distance for each part of the race. The first part is 15.5 kilometers.",
+    "The second and third parts are given as 21.5 kilometers each.",
+    "To find the total distance for the first three parts, I need to sum these values.",
+    "First, I add the second and third parts: 21.5 + 21.5 = 43 kilometers.",
+    "Now, I add the first part to this sum: 15.5 + 43 = 58.5 kilometers.",
+    "This is the total distance covered by the first three parts.",
+    "To find the last part, I subtract the sum of the first three parts from the total race distance.",
+    "I calculate 74.5 - 58.5 = 16 kilometers.",
+    "So, the length of the last part of the race is 16 kilometers."
+  ],
+  "solution": "16"
+}

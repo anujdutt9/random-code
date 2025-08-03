@@ -1,0 +1,17 @@
+{
+  "query": "John's neighbor tells him to walk his dog for 1 hour each day for a total of $10. He does this for April, save for the 4 Sundays in April. He later spent $50 on books and gave his sister Kaylee the same amount. How much money did John have left?",
+  "steps": [
+    "First, I will calculate how many days John walked the dog in April.",
+    "April typically has 30 days.",
+    "John did not walk the dog on the 4 Sundays.",
+    "Therefore, he walked the dog for 30 - 4 = 26 days.",
+    "I will now calculate how much money John earned by walking the dog.",
+    "John earned $10 for each day he walked the dog.",
+    "So, the total amount he earned is 26 days \u00d7 $10/day = $260.",
+    "Next, I'll determine the money John spent: $50 on books and an additional $50 given to Kaylee.",
+    "So, his total expenses are $50 + $50 = $100.",
+    "To find out how much money John has left, I will subtract his total expenses from his earnings.",
+    "John's remaining money is $260 - $100 = $160."
+  ],
+  "solution": "160"
+}

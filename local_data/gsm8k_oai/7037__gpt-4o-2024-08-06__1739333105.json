@@ -1,0 +1,18 @@
+{
+  "query": "Fran is in charge of counting votes for the book club's next book, but she always cheats so her favorite gets picked. Originally, there were 10 votes for Game of Thrones, 12 votes for Twilight, and 20 votes for The Art of the Deal. Fran throws away 80% of the votes for The Art of the Deal and half the votes for Twilight. What percentage of the altered votes were for Game of Thrones?",
+  "steps": [
+    "First, I need to determine the original vote count for each book. Game of Thrones has 10 votes, Twilight has 12 votes, and The Art of the Deal has 20 votes.",
+    "Next, I will calculate the number of votes Fran throws away from The Art of the Deal. She throws away 80% of 20 votes.",
+    "80% of 20 is calculated as (80/100) * 20 = 16 votes.",
+    "Fran throws away 16 votes from The Art of the Deal, so the remaining votes for The Art of the Deal are 20 - 16 = 4 votes.",
+    "Now, I will calculate the number of votes Fran throws away from Twilight. She throws away half of the votes from Twilight.",
+    "Half of 12 votes is 12/2 = 6 votes.",
+    "Fran throws away 6 votes from Twilight, so the remaining votes for Twilight are 12 - 6 = 6 votes.",
+    "Now, I will find the total number of altered votes from all books.",
+    "The altered votes are 10 votes for Game of Thrones, 6 votes for Twilight, and 4 votes for The Art of the Deal.",
+    "The total number of altered votes is 10 + 6 + 4 = 20 votes.",
+    "Finally, I need to find what percentage of the altered votes were for Game of Thrones.",
+    "The percentage of altered votes for Game of Thrones is (10/20) * 100% = 50%."
+  ],
+  "solution": "50"
+}

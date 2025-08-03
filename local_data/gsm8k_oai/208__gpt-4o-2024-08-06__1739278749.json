@@ -1,0 +1,12 @@
+{
+  "query": "John puts $25 in his piggy bank every month for 2 years to save up for a vacation. He had to spend $400 from his piggy bank savings last week to repair his car. How many dollars are left in his piggy bank?",
+  "steps": [
+    "First, I need to calculate how much John saves each month. He puts $25 in his piggy bank every month.",
+    "He saves for 2 years. There are 12 months in a year, so in 2 years there are 2 * 12 = 24 months.",
+    "Next, I calculate how much money he saves in 24 months. He saves $25 each month, so $25 * 24 = $600.",
+    "John had to spend $400 from his piggy bank savings to repair his car.",
+    "To find out how much money is left in his piggy bank, I subtract the amount spent on car repair from the total savings.",
+    "This calculation is $600 - $400 = $200."
+  ],
+  "solution": "200"
+}

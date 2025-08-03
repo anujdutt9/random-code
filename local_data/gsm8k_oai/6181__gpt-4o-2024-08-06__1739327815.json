@@ -1,0 +1,20 @@
+{
+  "query": "Antonia is trying to improve her health by buying supplements. She has a 7-day pill box she wants to fill. She buys 5 different supplements. 3 of the bottles have 120 pills in them each. 2 of the bottles have 30 pills each. After Antonia has filled her pillbox with one pill of each supplement for 2 weeks, how many pills total does she have left from all 5 bottles?",
+  "steps": [
+    "Antonia has 5 different supplements: 3 have 120 pills each, and 2 have 30 pills each.",
+    "First, calculate the total number of pills in the 3 bottles with 120 pills.",
+    "Multiply 3 bottles by 120 pills: 3 * 120 = 360 pills.",
+    "Next, calculate the total number of pills in the 2 bottles with 30 pills.",
+    "Multiply 2 bottles by 30 pills: 2 * 30 = 60 pills.",
+    "Add the totals from the two different groups of bottles to find the complete number of pills.",
+    "360 pills (from the 120-pill bottles) + 60 pills (from the 30-pill bottles) = 420 pills in total.",
+    "Antonia fills her pillbox with one pill of each supplement for 2 weeks.",
+    "A pillbox has 7 days and Antonia is filling it for 2 weeks.",
+    "Calculate the number of days Antonia is filling: 7 days * 2 weeks = 14 days.",
+    "For each day, she uses one pill from each of the 5 supplement bottles.",
+    "Calculate the total number of pills used in 14 days: 5 pills/day * 14 days = 70 pills.",
+    "Subtract the number of pills used from the original total to find the number of pills left.",
+    "420 pills (original total) - 70 pills (used) = 350 pills left."
+  ],
+  "solution": "350"
+}

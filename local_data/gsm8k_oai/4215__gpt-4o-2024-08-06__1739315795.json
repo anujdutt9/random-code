@@ -1,0 +1,17 @@
+{
+  "query": "John decides to take up illustration.  He draws and colors 10 pictures.  It takes him 2 hours to draw each picture and 30% less time to color each picture.  How long does he spend on all the pictures?",
+  "steps": [
+    "John draws 10 pictures. It takes him 2 hours to draw each one.",
+    "To find out how long he spends drawing all the pictures, I need to multiply the number of pictures (10) by the time it takes to draw each picture (2 hours).",
+    "10 pictures * 2 hours/picture = 20 hours spent drawing.",
+    "Next, I need to find out how long it takes him to color each picture. Coloring takes 30% less time than drawing.",
+    "First, I need to calculate 30% of the drawing time, which is 2 hours. 30% of 2 hours is 0.3 * 2 hours = 0.6 hours.",
+    "Now I subtract the 0.6 hours from the original 2 hours to find the coloring time for each picture. \n2 hours - 0.6 hours = 1.4 hours.",
+    "It takes him 1.4 hours to color each picture.",
+    "To find out how long he spends coloring all the pictures, I need to multiply the number of pictures (10) by the time it takes to color each picture (1.4 hours).",
+    "10 pictures * 1.4 hours/picture = 14 hours spent coloring.",
+    "Finally, I add the total time spent drawing (20 hours) to the total time spent coloring (14 hours) to find out how long he spends on all the pictures.",
+    "20 hours drawing + 14 hours coloring = 34 hours."
+  ],
+  "solution": "34"
+}

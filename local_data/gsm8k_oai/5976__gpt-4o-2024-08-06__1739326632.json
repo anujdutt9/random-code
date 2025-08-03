@@ -1,0 +1,14 @@
+{
+  "query": "Venus is at the deli to get subs for a party. She needs 81 inches of sub. The shop sells 5 and 8 inch subs. If she buys two 8 inch subs, how many 5 inch subs does she need to buy?",
+  "steps": [
+    "Venus needs a total of 81 inches of sub.",
+    "She buys two 8 inch subs.",
+    "Two 8 inch subs give her a total of 2 * 8 = 16 inches of sub.",
+    "Subtract the 16 inches from the total 81 inches needed: 81 - 16 = 65 inches.",
+    "Now she needs 65 inches more of sub.",
+    "She can satisfy the remaining 65 inches using 5 inch subs.",
+    "Calculate the number of 5 inch subs needed by dividing the remaining inches (65) by the length of each sub (5 inches): 65 / 5 = 13.",
+    "Venus needs to buy 13 of the 5 inch subs."
+  ],
+  "solution": "13"
+}

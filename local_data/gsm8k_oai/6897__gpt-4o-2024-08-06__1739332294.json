@@ -1,0 +1,16 @@
+{
+  "query": "Mike gets paid 100 dollars a week.  He decides to spend half of that at an arcade.  He spends 10 dollars at the arcade on food and uses the rest on arcade tokens. He can play for 1 hour for $8. How many minutes can he play?",
+  "steps": [
+    "Mike gets paid 100 dollars a week.",
+    "He spends half of his weekly pay at the arcade, so he spends 100 / 2 = 50 dollars.",
+    "Out of the 50 dollars, Mike spends 10 dollars on food.",
+    "The amount he has left for arcade tokens is 50 - 10 = 40 dollars.",
+    "Each hour of play costs 8 dollars.",
+    "To find out how many hours he can play with 40 dollars, we divide 40 by 8.",
+    "40 / 8 = 5. So, Mike can play for 5 hours.",
+    "There are 60 minutes in an hour.",
+    "To find out how many minutes Mike can play, multiply the number of hours by 60.",
+    "5 hours * 60 minutes per hour = 300 minutes."
+  ],
+  "solution": "300"
+}

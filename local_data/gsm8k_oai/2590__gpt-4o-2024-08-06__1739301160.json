@@ -1,0 +1,17 @@
+{
+  "query": "Damien collects glasses for a hobby and decides he wants to put them in display cupboards. His tall cupboard can hold 20 glasses, his wide cupboard can hold twice as many, and his narrow cupboard can hold 15 glasses with the glasses divided equally among the three shelves. As Damien is putting glasses in the narrow cupboard, he accidentally breaks one of the shelves. If all of the cupboards are full, how many glasses are currently being displayed?",
+  "steps": [
+    "First, I need to figure out how many glasses the wide cupboard can hold. It can hold twice as many as the tall cupboard.",
+    "The tall cupboard holds 20 glasses. So, the wide cupboard can hold 2 * 20 = 40 glasses.",
+    "Now, I need to figure out the original capacity of the narrow cupboard before the shelf broke. The narrow cupboard holds 15 glasses equally on three shelves.",
+    "To find the number of glasses per shelf in the narrow cupboard, I divide 15 by 3. This gives me 15 / 3 = 5 glasses per shelf.",
+    "Damien breaks one of the shelves in the narrow cupboard, meaning the narrow cupboard can now only hold 10 glasses instead of 15 (since 1 shelf of 5 glasses is gone).",
+    "Next, I need to calculate the total number of glasses Damien has displayed now with all cupboards full.",
+    "In the tall cupboard, he has 20 glasses.",
+    "In the wide cupboard, he has 40 glasses.",
+    "In the narrow cupboard, after breaking a shelf, he has 10 glasses.",
+    "To find the total, I add the number of glasses in each cupboard: 20 (tall) + 40 (wide) + 10 (narrow).",
+    "The total number of glasses is 20 + 40 + 10 = 70."
+  ],
+  "solution": "70"
+}

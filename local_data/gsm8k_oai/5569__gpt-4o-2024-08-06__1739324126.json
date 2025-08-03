@@ -1,0 +1,19 @@
+{
+  "query": "Some friends wanted to make a road trip from New York to Los Angeles. They drove at a constant speed of 62 miles/hour, taking breaks of 30 minutes every 5 hours. Once in the city, they looked for the hotel for 30 minutes. If the trip took around 2,790 miles, how many hours will they have to spend to complete the trip to the hotel?",
+  "steps": [
+    "The total distance of the trip is 2,790 miles.",
+    "The friends are driving constantly at a speed of 62 miles per hour.",
+    "To determine the total driving time without breaks, I need to calculate how many hours it takes to drive 2,790 miles at 62 miles per hour.",
+    "Total driving time = Total distance / Speed = 2,790 miles / 62 miles per hour.",
+    "2,790 divided by 62 gives approximately 45 hours.",
+    "They also take breaks. They take a break of 30 minutes every 5 hours.",
+    "First, I determine how many breaks there are during 45 hours of driving.",
+    "45 hours divided by 5 hours per break equals 9 breaks.",
+    "Each break is 30 minutes long, and 9 breaks at 30 minutes each equals 4.5 hours of total break time.",
+    "Now I add the total driving time and break time together.",
+    "Total time spent on the road including breaks is 45 hours + 4.5 hours = 49.5 hours.",
+    "Once in Los Angeles, they spend an additional 30 minutes (0.5 hours) looking for the hotel.",
+    "Including the search for the hotel, the overall trip time is 49.5 hours + 0.5 hours = 50 hours."
+  ],
+  "solution": "50"
+}

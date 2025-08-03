@@ -1,0 +1,17 @@
+{
+  "query": "James has 7 more than 4 times the number of Oreos Jordan has.  If there are 52 Oreos total, how many does James have?",
+  "steps": [
+    "Let x represent the number of Oreos Jordan has.",
+    "According to the problem, James has 7 more than 4 times the number of Oreos Jordan has.",
+    "Therefore, James has 4x + 7 Oreos.",
+    "The total number of Oreos James and Jordan have is given as 52.",
+    "Thus, the equation is x + (4x + 7) = 52.",
+    "Simplify the equation: 5x + 7 = 52.",
+    "Subtract 7 from both sides to isolate terms with x: 5x = 45.",
+    "Divide each side by 5 to solve for x: x = 9.",
+    "Now that we know Jordan has 9 Oreos, calculate the number of Oreos James has.",
+    "James has 4 times the number of Oreos Jordan has, so calculate 4 * 9 = 36.",
+    "James has 7 more than this amount, so add 7: 36 + 7 = 43."
+  ],
+  "solution": "43"
+}

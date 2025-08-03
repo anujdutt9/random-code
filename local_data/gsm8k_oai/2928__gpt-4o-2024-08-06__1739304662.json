@@ -1,0 +1,20 @@
+{
+  "query": "Oxford High School has 48 teachers, 1 principal and 15 classes with each having 20 students. How many people are there in total in Oxford High School?",
+  "steps": [
+    "First, I need to calculate the total number of students.",
+    "Each class has 20 students and there are 15 classes.",
+    "To find the total number of students, I multiply the number of students per class by the number of classes: 20 students/class \u00d7 15 classes.",
+    "20 \u00d7 15 equals 300.",
+    "Now, I know there are 300 students in total.",
+    "Next, I need to add the number of teachers to the number of students.",
+    "There are 48 teachers.",
+    "So I add 300 students + 48 teachers.",
+    "300 + 48 equals 348.",
+    "Now, I need to include the principal.",
+    "There is 1 principal.",
+    "Adding the principal to the current total: 348 + 1.",
+    "348 + 1 equals 349.",
+    "Therefore, the total number of people at Oxford High School is 349."
+  ],
+  "solution": "349"
+}

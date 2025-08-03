@@ -1,0 +1,13 @@
+{
+  "query": "Harry owns 3 geckos, 2 iguanas, and 4 snakes. If he spends $10 to feed each snake, $5 to feed each iguana, and $15 to feed each gecko every month, how much does he spend every year to feed all his pets?",
+  "steps": [
+    "Harry owns 3 geckos, 2 iguanas, and 4 snakes.",
+    "The monthly feeding cost for each pet is $15 for a gecko, $5 for an iguana, and $10 for a snake.",
+    "First, I will calculate the monthly cost to feed the geckos: 3 geckos * $15 per gecko = $45.",
+    "Next, I will calculate the monthly cost to feed the iguanas: 2 iguanas * $5 per iguana = $10.",
+    "Then, I will calculate the monthly cost to feed the snakes: 4 snakes * $10 per snake = $40.",
+    "Now, I will add the monthly costs to find the total monthly cost: $45 (geckos) + $10 (iguanas) + $40 (snakes) = $95.",
+    "Since the question asks for the yearly cost, I will multiply the total monthly cost by 12 (months in a year): $95 * 12 = $1140."
+  ],
+  "solution": "1140"
+}

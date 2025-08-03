@@ -1,0 +1,17 @@
+{
+  "query": "Jacob takes four tests in his physics class and earns 85, 79, 92 and 84. What must he earn on his fifth and final test to have an overall average of 85?",
+  "steps": [
+    "To find the overall average, we need to add up all the test scores and then divide by the number of tests.",
+    "Jacob has taken four tests so far. Let's add these scores: 85, 79, 92, and 84.",
+    "Calculating the sum: 85 + 79 = 164.",
+    "Now, adding 92: 164 + 92 = 256.",
+    "Finally, adding 84: 256 + 84 = 340.",
+    "Currently, the sum of Jacob's scores for the first four tests is 340.",
+    "Let the score Jacob needs on his fifth test be denoted as \\( x \\).",
+    "We want the average of all five tests to be 85. Hence, the equation is: \\( \\frac{340 + x}{5} = 85 \\).",
+    "To clear the fraction, multiply both sides by 5: 340 + x = 425.",
+    "Subtract 340 from both sides to solve for \\( x \\): \\( x = 425 - 340 \\).",
+    "Calculate the result: \\( x = 85 \\)."
+  ],
+  "solution": "85"
+}

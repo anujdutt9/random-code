@@ -1,0 +1,12 @@
+{
+  "query": "A psychologist believes one in every four people has a disorder he calls ZYX syndrome. The clinic where he works has recently doubled its previous number of 26 patients. How many patients is the psychologist likely to diagnose with ZYX syndrome?",
+  "steps": [
+    "The clinic originally had 26 patients.",
+    "The clinic has doubled its number of patients.",
+    "Doubling 26 gives 26 * 2 = 52. So now there are 52 patients.",
+    "The psychologist believes one in every four people has ZYX syndrome.",
+    "To find out how many patients are likely to have the syndrome, calculate 1/4 of 52.",
+    "52 divided by 4 equals 13."
+  ],
+  "solution": "13"
+}

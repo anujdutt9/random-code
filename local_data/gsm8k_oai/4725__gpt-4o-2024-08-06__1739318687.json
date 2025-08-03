@@ -1,0 +1,15 @@
+{
+  "query": "In Canada, for every moose there are two beavers, and for every beaver there are 19 humans.  If there are 38 million people in Canada, what is the moose population of Canada, in millions?",
+  "steps": [
+    "First, I know the ratio of humans to beavers. There are 19 humans for every beaver.",
+    "If I have 38 million people, I can find the number of beavers by dividing the number of humans by the ratio. So I need to divide 38 million by 19.",
+    "38,000,000 \u00f7 19 gives me the number of beavers.",
+    "Calculating 38,000,000 \u00f7 19, I get 2,000,000 beavers.",
+    "Next, I know the ratio of beavers to moose is 2 beavers for every moose.",
+    "To find the number of moose, I need to divide the number of beavers by 2.",
+    "2,000,000 beavers \u00f7 2 gives me the number of moose.",
+    "Calculating 2,000,000 \u00f7 2, I get 1,000,000 moose.",
+    "Therefore, the moose population of Canada, in millions, is 1."
+  ],
+  "solution": "1"
+}

@@ -1,0 +1,21 @@
+{
+  "query": "A company hires employees on a contract basis, depending on the availability of work. In a particular month, they hired 200 more employees on the first week than on the second week, and 150 fewer employees on the second week than on the third week. If the number of employees hired on the fourth week was twice the number hired in the third week,  and the number of employees on the fourth week was 400, what's the average number of employees hired per week?",
+  "steps": [
+    "Let's denote the number of employees hired in the first week as \\( x \\).",
+    "The second week had 200 fewer employees hired than the first week, so the number of employees hired in the second week is \\( x - 200 \\).",
+    "The third week had 150 more employees hired than the second week. Therefore, the number of employees hired in the third week is \\( (x - 200) + 150 = x - 50 \\).",
+    "We are told that the number of employees hired in the fourth week was 400.",
+    "The fourth week had twice the number of employees hired as the third week, meaning \\( 2(x - 50) = 400 \\).",
+    "I will solve the equation \\( 2(x - 50) = 400 \\) for \\( x \\).",
+    "Divide both sides by 2: \\( x - 50 = 200 \\).",
+    "Add 50 to both sides: \\( x = 250 \\).",
+    "So, \\( x \\), the number of employees hired in the first week, is 250.",
+    "The number of employees hired in the second week is \\( x - 200 = 250 - 200 = 50 \\).",
+    "The number of employees hired in the third week is \\( x - 50 = 250 - 50 = 200 \\).",
+    "The number of employees hired in the fourth week was already given as 400.",
+    "Now let's calculate the total number of employees hired over the four weeks: \\( 250 + 50 + 200 + 400 = 900 \\).",
+    "We need to find the average number of employees hired per week, which is the total number of employees divided by 4.",
+    "The average number of employees hired per week is \\( 900 / 4 = 225 \\)."
+  ],
+  "solution": "225"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Randy has $30. He spent $10 buying his lunch. He spent a quarter of the money he had left on an ice cream cone. What is the amount of money, in dollars, Randy has left?",
+  "steps": [
+    "Randy starts with $30.",
+    "Randy spends $10 on lunch.",
+    "Subtract the $10 spent on lunch from $30.",
+    "$30 - $10 = $20. So, Randy has $20 left after buying lunch.",
+    "Randy spends a quarter of the money he has left on an ice cream cone.",
+    "A quarter of $20 is calculated by dividing $20 by 4.",
+    "$20 \u00f7 4 = $5. Randy spends $5 on the ice cream cone.",
+    "Subtract the $5 spent on the ice cream cone from the $20 he had after lunch.",
+    "$20 - $5 = $15. So, Randy has $15 left."
+  ],
+  "solution": "15"
+}

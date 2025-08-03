@@ -1,0 +1,13 @@
+{
+  "query": "Mia is a student. In her final year, she spent 1/5 of her day watching TV and 1/4 of the time left on studying. How many minutes did she spend studying each day?",
+  "steps": [
+    "There are 24 hours in a day.",
+    "Convert 24 hours to minutes: 24 * 60 = 1440 minutes.",
+    "Mia spent 1/5 of her day watching TV.",
+    "Calculate the time spent watching TV: (1/5) * 1440 = 288 minutes.",
+    "Subtract the time spent watching TV from the total number of minutes in a day to find the remaining time: 1440 - 288 = 1152 minutes.",
+    "Mia spent 1/4 of the remaining time on studying.",
+    "Calculate the time spent studying: (1/4) * 1152 = 288 minutes."
+  ],
+  "solution": "288"
+}

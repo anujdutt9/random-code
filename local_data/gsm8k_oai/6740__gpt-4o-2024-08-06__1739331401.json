@@ -1,0 +1,26 @@
+{
+  "query": "If Sally had $20 less, she would have $80. If Jolly has $20 more, she would have $70. How much money do Sally and Jolly have altogether?",
+  "steps": [
+    "Sally has an unknown amount of money. Let\u2019s define what she currently has as S dollars.",
+    "The problem states that if Sally had $20 less, she would have $80.",
+    "This means S - 20 = 80.",
+    "To find S, we need to solve the equation S - 20 = 80.",
+    "Add 20 to both sides of the equation to isolate S.",
+    "S = 80 + 20.",
+    "S = 100.",
+    "So, Sally currently has $100.",
+    "Next, consider Jolly's current amount of money, which we will define as J dollars.",
+    "The problem states that if Jolly had $20 more, she would have $70.",
+    "This means J + 20 = 70.",
+    "To find J, we need to solve the equation J + 20 = 70.",
+    "Subtract 20 from both sides of the equation to isolate J.",
+    "J = 70 - 20.",
+    "J = 50.",
+    "So, Jolly currently has $50.",
+    "Now we have the amounts both Sally and Jolly currently have.",
+    "Sally has $100 and Jolly has $50.",
+    "To find the total amount they have together, add their amounts.",
+    "100 + 50 = 150."
+  ],
+  "solution": "150"
+}

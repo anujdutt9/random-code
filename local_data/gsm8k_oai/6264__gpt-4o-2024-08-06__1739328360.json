@@ -1,0 +1,14 @@
+{
+  "query": "There were 133 people at a camp. There were 33 more boys than girls. How many girls were at the camp?",
+  "steps": [
+    "First, I need to express the number of boys and girls in terms of one variable. Let's consider the number of girls as G.",
+    "According to the problem, there are 33 more boys than girls. Therefore, the number of boys can be expressed as G + 33.",
+    "The total number of people at the camp is given as 133.",
+    "The equation representing the total number of people is: G (girls) + (G + 33) (boys) = 133.",
+    "Simplifying this equation gives: G + G + 33 = 133.",
+    "Combining the G terms results in: 2G + 33 = 133.",
+    "Subtracting 33 from both sides gives: 2G = 100.",
+    "Dividing both sides by 2 to solve for G, I get: G = 50."
+  ],
+  "solution": "50"
+}

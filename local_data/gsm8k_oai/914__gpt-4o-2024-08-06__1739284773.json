@@ -1,0 +1,14 @@
+{
+  "query": "There are six more white birds next to a cage than grey birds in the cage. If the number of grey birds in the cage is 40, and after ten minutes, half of the birds in the cage are freed and fly away, calculate the total number of birds remaining.",
+  "steps": [
+    "First, determine the number of grey birds in the cage, which is given as 40.",
+    "Next, calculate the number of white birds next to the cage, which is six more than the number of grey birds. So, 40 grey birds + 6 = 46 white birds.",
+    "Now, calculate the total number of birds initially. This is the sum of grey birds and white birds: 40 grey birds + 46 white birds = 86 birds in total.",
+    "Next, consider that half of the grey birds in the cage fly away after ten minutes.",
+    "Since there are initially 40 grey birds in the cage, calculate half of 40. Half of 40 grey birds = 20 grey birds.",
+    "Subtract the number of grey birds that fly away from the total initial number of grey birds: 40 grey birds - 20 grey birds = 20 grey birds remaining in the cage.",
+    "The number of white birds next to the cage does not change, so there are still 46 white birds.",
+    "Add the remaining number of grey birds and the number of white birds to find the total number of birds remaining: 20 grey birds + 46 white birds = 66 birds remaining."
+  ],
+  "solution": "66"
+}

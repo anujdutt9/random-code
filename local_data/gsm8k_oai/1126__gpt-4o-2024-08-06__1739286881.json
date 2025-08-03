@@ -1,0 +1,10 @@
+{
+  "query": "Mike is building a bridge out of LEGO blocks. To be successful he needs at least 40 bricks of type A, and half that many of type B. In total, he needs to use 150 bricks. How many bricks of other types than mentioned is he going to use?",
+  "steps": [
+    "First, determine the number of type A bricks needed. Mike needs at least 40 bricks of type A.",
+    "Next, calculate the number of type B bricks needed. Mike needs half as many type B bricks as type A, so he requires 40 / 2 = 20 bricks of type B.",
+    "Now, add the number of type A and type B bricks to find the total number of these types of bricks he needs. That would be 40 + 20 = 60 bricks.",
+    "Mike needs to use a total of 150 bricks. Subtract the number of type A and type B bricks from the total to find the number of bricks of other types he will use. So, 150 - 60 = 90 bricks."
+  ],
+  "solution": "90"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Allie picked 44 wildflowers.  Thirteen of the flowers were yellow and white, seventeen of the flowers were red and yellow, and 14 of the flowers were red and white.  How many more flowers contained the color red than contained the color white?",
+  "steps": [
+    "First, I need to find out how many wildflowers contained the color red.",
+    "There are 17 wildflowers that are red and yellow.",
+    "There are also 14 wildflowers that are red and white.",
+    "Since there is no information suggesting overlap or that any flowers are counted multiple times, I will add the red flowers from each category.",
+    "17 (red and yellow) + 14 (red and white) = 31 wildflowers that contain red.",
+    "Next, I need to find out how many wildflowers contained the color white.",
+    "There are 13 wildflowers that are yellow and white.",
+    "Additionally, there are 14 wildflowers that are red and white.",
+    "Again, assuming no overlap, I will add the white flowers from each category.",
+    "13 (yellow and white) + 14 (red and white) = 27 wildflowers that contain white.",
+    "Now, I need to find how many more flowers contained red than white.",
+    "31 (red) - 27 (white) = 4 more flowers contained red than contained white."
+  ],
+  "solution": "4"
+}

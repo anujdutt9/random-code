@@ -1,0 +1,18 @@
+{
+  "query": "Eliza has 4 siblings. The total height of all 5 siblings combined is 330 inches. Two of her siblings are both 66 inches tall. Another sibling is 60 inches tall. If Eliza is 2 inches shorter than the last sibling, how tall is Eliza?",
+  "steps": [
+    "First, I know there are 5 siblings in total, including Eliza.",
+    "The combined height of all siblings is 330 inches.",
+    "Two siblings are both 66 inches tall. So, their combined height is 66 + 66 = 132 inches.",
+    "Another sibling is 60 inches tall.",
+    "Now, I need to find out the total height contributed by these three known siblings, which is 132 + 60 = 192 inches.",
+    "To find the remaining height for the two siblings, I can subtract the known total from the combined total: 330 - 192 = 138 inches.",
+    "Let the height of the last sibling be x inches. Eliza is 2 inches shorter than this sibling, so Eliza's height is x - 2 inches.",
+    "The sum of Eliza's and the last sibling's heights is x + (x - 2) = 138, which simplifies to 2x - 2 = 138.",
+    "Solving for x, 2x = 138 + 2 = 140.",
+    "Now I divide by 2 to solve for x: x = 140 / 2 = 70.",
+    "The last sibling is 70 inches tall.",
+    "Since Eliza is 2 inches shorter than the last sibling, Eliza's height is 70 - 2 = 68 inches."
+  ],
+  "solution": "68"
+}

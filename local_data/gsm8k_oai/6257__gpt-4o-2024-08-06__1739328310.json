@@ -1,0 +1,17 @@
+{
+  "query": "Droid owns a coffee shop. He uses 3 bags of coffee beans every morning, he uses triple that number in the afternoon than in the morning, and he uses twice the morning number in the evening. How many bags of coffee beans does he use every week?",
+  "steps": [
+    "First, I need to determine how many bags Droid uses in each time period per day: morning, afternoon, and evening.",
+    "In the morning, Droid uses 3 bags of coffee beans.",
+    "In the afternoon, Droid uses triple the number of bags he uses in the morning.",
+    "So, in the afternoon, Droid uses 3 bags * 3 = 9 bags.",
+    "In the evening, Droid uses twice the number of bags he uses in the morning.",
+    "So, in the evening, Droid uses 3 bags * 2 = 6 bags.",
+    "Now I need to find out the total number of bags used per day.",
+    "To get the total daily usage, I add the bags used in the morning, afternoon, and evening.",
+    "Daily usage = 3 bags (morning) + 9 bags (afternoon) + 6 bags (evening) = 18 bags.",
+    "Droid runs his coffee shop every day of the week, so I need the weekly total.",
+    "Multiply the daily usage by 7 to get the weekly total: 18 bags * 7 days = 126 bags."
+  ],
+  "solution": "126"
+}

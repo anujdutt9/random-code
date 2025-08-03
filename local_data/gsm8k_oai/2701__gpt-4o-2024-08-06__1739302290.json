@@ -1,0 +1,20 @@
+{
+  "query": "A crate can hold 20 kilograms of tomatoes. Tommy has 3 crates which he bought for $330. He wants to sell the tomatoes for $6 per 1 kilogram but 3 kilograms of tomatoes were rotten. How much will be Tommy's profit from selling those tomatoes?",
+  "steps": [
+    "First, I need to find out the total weight of the tomatoes Tommy has.",
+    "Each crate can hold 20 kilograms of tomatoes.",
+    "Tommy has 3 crates of tomatoes.",
+    "So, the total weight of tomatoes is 3 crates \u00d7 20 kilograms per crate = 60 kilograms.",
+    "However, 3 kilograms of tomatoes are rotten and cannot be sold.",
+    "So, the sellable weight of the tomatoes is 60 kilograms - 3 kilograms = 57 kilograms.",
+    "Now, I need to calculate the revenue Tommy can make from selling these tomatoes.",
+    "Tommy sells the tomatoes for $6 per kilogram.",
+    "The revenue will be 57 kilograms \u00d7 $6 per kilogram = $342.",
+    "Next, I need to calculate Tommy's profit.",
+    "Profit is calculated by subtracting the cost from the revenue.",
+    "The cost, which is the amount Tommy spent on buying the crates, is $330.",
+    "The revenue is $342.",
+    "Tommy's profit is $342 - $330 = $12."
+  ],
+  "solution": "12"
+}

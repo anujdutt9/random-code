@@ -1,0 +1,15 @@
+{
+  "query": "A magician has a top hat with 20 red marbles and a top hat with 30 blue marbles. If he takes away 3 red marbles and four times as many blue marbles as red marbles (without looking), how many marbles in total does he have left?",
+  "steps": [
+    "First, I identify the initial number of red and blue marbles. There are 20 red marbles and 30 blue marbles.",
+    "Next, I determine how many red marbles are taken away. He takes away 3 red marbles.",
+    "Now, I calculate the number of blue marbles taken away. He takes four times as many blue marbles as red marbles taken away.",
+    "Since he took away 3 red marbles, four times as many blue marbles would be 3 x 4 = 12 blue marbles.",
+    "I subtract the marbles taken away from the initial total in each top hat to find the remaining marbles.",
+    "For the red marbles: 20 initial red marbles - 3 red marbles taken = 17 red marbles remaining.",
+    "For the blue marbles: 30 initial blue marbles - 12 blue marbles taken = 18 blue marbles remaining.",
+    "Now, I calculate the total number of marbles remaining by adding the remaining red and blue marbles together.",
+    "17 red marbles + 18 blue marbles = 35 marbles remaining in total."
+  ],
+  "solution": "35"
+}

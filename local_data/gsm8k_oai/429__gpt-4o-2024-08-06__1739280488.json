@@ -1,0 +1,21 @@
+{
+  "query": "In the school's library, there are 2300 different books. 80% of all the books are in English, but only 60% of these books were published in the country. How many English-language books have been published outside the country?",
+  "steps": [
+    "First, I need to determine how many of the 2300 books are in English.",
+    "Since 80% of the books are in English, I calculate 80% of 2300.",
+    "80% of 2300 is calculated as (80/100) * 2300.",
+    "This equals 0.8 * 2300, which is 1840.",
+    "So, there are 1840 books in English.",
+    "Next, I need to determine how many of these English books were published in the country.",
+    "60% of the English books were published in the country.",
+    "I calculate 60% of 1840.",
+    "60% of 1840 is (60/100) * 1840.",
+    "This equals 0.6 * 1840, which is 1104.",
+    "So, 1104 English books were published in the country.",
+    "Now, I need to find out how many English books were published outside the country.",
+    "This is the total number of English books minus the number published in the country.",
+    "1840 English books minus 1104 books published in-country equals 736.",
+    "Therefore, 736 English-language books have been published outside the country."
+  ],
+  "solution": "736"
+}

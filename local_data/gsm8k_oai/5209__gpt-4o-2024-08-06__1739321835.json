@@ -1,0 +1,18 @@
+{
+  "query": "Samantha, Aira, and Joe received 6 rubber bands each after they divided their bands equally.  If Samantha had 5 more bands than Aira and Aira had 1 fewer band than Joe, how many rubber bands did Aira have?",
+  "steps": [
+    "I need to find out how many rubber bands Aira had before dividing them equally.",
+    "All three, Samantha, Aira, and Joe ended up with 6 rubber bands each after dividing them equally.",
+    "Let's assume Aira initially had x rubber bands.",
+    "According to the problem, Samantha had 5 more bands than Aira. So Samantha had x + 5 bands.",
+    "Aira had 1 fewer band than Joe, which means Joe had x + 1 bands.",
+    "The total number of bands before dividing them equally would be the sum of the bands Samantha, Aira, and Joe had initially: x + (x + 5) + (x + 1).",
+    "Simplifying the expression, I calculate:\nx + (x + 5) + (x + 1) = 3x + 6.",
+    "After dividing the rubber bands equally, they each had 6 bands, which means the total of 18 bands (since 6 bands each for 3 people equals 18).",
+    "Therefore, equating the total number of bands: \n3x + 6 = 18.",
+    "To solve for x, I subtract 6 from both sides of the equation to get:\n3x = 12.",
+    "I then divide both sides by 3 to solve for x:\nx = 4.",
+    "Aira initially had x rubber bands, which means Aira had 4 rubber bands."
+  ],
+  "solution": "4"
+}

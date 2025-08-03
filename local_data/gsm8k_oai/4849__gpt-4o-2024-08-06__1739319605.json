@@ -1,0 +1,14 @@
+{
+  "query": "The pet shop grooms dogs.  It takes 30 minutes to groom a poodle.  It takes half as much time to groom a terrier as it takes to groom a poodle.  They do not groom cats.  If the pet shop grooms 3 poodles and 8 terriers, what is the total length of time it will take, in minutes?",
+  "steps": [
+    "First, determine how long it takes to groom one terrier. Since it takes 30 minutes to groom a poodle and grooming a terrier takes half that time, we need to calculate half of 30 minutes.",
+    "Half of 30 minutes is 30 / 2 = 15 minutes. So, it takes 15 minutes to groom a terrier.",
+    "Calculate the total time it takes to groom 3 poodles. Each poodle takes 30 minutes, so for 3 poodles, it will be 3 x 30 minutes.",
+    "3 x 30 minutes = 90 minutes. So, grooming 3 poodles takes 90 minutes in total.",
+    "Now calculate the total time it takes to groom 8 terriers. Each terrier takes 15 minutes, so for 8 terriers, it will be 8 x 15 minutes.",
+    "8 x 15 minutes = 120 minutes. So, grooming 8 terriers takes 120 minutes in total.",
+    "Add the total time for grooming the 3 poodles and 8 terriers together to find the grand total time.",
+    "90 minutes (for poodles) + 120 minutes (for terriers) = 210 minutes."
+  ],
+  "solution": "210"
+}

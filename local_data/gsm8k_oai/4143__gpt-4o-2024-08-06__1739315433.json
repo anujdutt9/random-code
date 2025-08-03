@@ -1,0 +1,12 @@
+{
+  "query": "There are 20 cars lined up at a race. Each of the cars have 2 passengers and a driver, then when the cars go past the race\u2019s halfway point, each car gains another passenger. The cars then continue racing, and the race finishes once every single car has passed the finish line. People who get into the cars have to stay inside of them until the race is finished. How many people are in the cars by the end of the race?",
+  "steps": [
+    "Start by determining the initial number of people per car. Each car has 2 passengers and 1 driver.",
+    "Calculate the total number of people initially in a single car: 2 passengers + 1 driver = 3 people per car.",
+    "Multiply the number of people per car by the total number of cars. There are 20 cars, so 3 people/car * 20 cars = 60 people initially.",
+    "Each car gains another passenger at the halfway point. So, each car now has an additional 1 passenger, making it 4 people per car.",
+    "Calculate the number of additional passengers added across all cars: 1 additional passenger per car * 20 cars = 20 additional passengers.",
+    "Add the additional passengers to the initial total number of people: 60 people initially + 20 additional passengers = 80 people."
+  ],
+  "solution": "80"
+}

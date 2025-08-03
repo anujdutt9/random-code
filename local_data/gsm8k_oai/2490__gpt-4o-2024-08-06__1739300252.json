@@ -1,0 +1,12 @@
+{
+  "query": "A pet store has six dogs for sale. They have half as many cats, twice as many birds, and thrice as many fish for sale. How many animals are for sale in the pet store?",
+  "steps": [
+    "First, identify how many dogs are in the pet store. According to the problem, there are six dogs.",
+    "Next, the number of cats is half the number of dogs. So, divide the number of dogs by 2. That gives us 6 / 2 = 3 cats.",
+    "Then, the number of birds is twice the number of dogs. So, multiply the number of dogs by 2. That gives us 6 * 2 = 12 birds.",
+    "The store has thrice as many fish as dogs. So, multiply the number of dogs by 3. That gives us 6 * 3 = 18 fish.",
+    "Now that we have all the individual counts, let's add them up to find the total number of animals: 6 dogs + 3 cats + 12 birds + 18 fish.",
+    "Perform the addition: 6 + 3 = 9, 9 + 12 = 21, 21 + 18 = 39."
+  ],
+  "solution": "39"
+}

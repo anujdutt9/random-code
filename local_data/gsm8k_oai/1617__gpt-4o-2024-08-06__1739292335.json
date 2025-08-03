@@ -1,0 +1,16 @@
+{
+  "query": "Joe sells ham and cheese sandwiches for $1.50. If a slice of bread costs $0.15, a slice of ham costs $0.25 and a slice of cheese costs $0.35, how many cents does a sandwich with one slice of each protein cost Joe to make?",
+  "steps": [
+    "First, I need to determine the cost of each ingredient that goes into a sandwich. A sandwich uses bread, ham, and cheese.",
+    "The cost of one slice of bread is $0.15. Joe needs two slices of bread for each sandwich, so I will multiply $0.15 by 2.",
+    "$0.15 per slice x 2 slices = $0.30",
+    "Joe also uses one slice of ham for the sandwich, which costs $0.25.",
+    "Joe uses one slice of cheese for the sandwich, which costs $0.35.",
+    "Now, I will add the cost of all the ingredients together to find the total cost to make one sandwich.",
+    "Cost of bread ($0.30) + cost of ham ($0.25) + cost of cheese ($0.35) = total cost",
+    "$0.30 + $0.25 + $0.35 = $0.90",
+    "To express the total cost in cents rather than dollars, I multiply $0.90 by 100.",
+    "$0.90 x 100 = 90 cents"
+  ],
+  "solution": "90"
+}

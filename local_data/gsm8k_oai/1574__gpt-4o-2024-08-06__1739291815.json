@@ -1,0 +1,14 @@
+{
+  "query": "Two brick walls are being built. Each wall has 30 bricks in a single row and there are 50 rows in each wall. How many bricks will be used to make both walls?",
+  "steps": [
+    "First, I need to determine how many bricks are in one wall.",
+    "Each wall has 30 bricks in a single row.",
+    "There are 50 rows in each wall.",
+    "To find the total number of bricks in one wall, I multiply the number of bricks in a row by the number of rows.",
+    "So, I calculate 30 bricks/row * 50 rows = 1500 bricks in one wall.",
+    "Now, I have to calculate the total number of bricks used for both walls.",
+    "Since there are two walls, I multiply the number of bricks in one wall by 2.",
+    "So, 1500 bricks/wall * 2 walls = 3000 bricks in total for both walls."
+  ],
+  "solution": "3000"
+}

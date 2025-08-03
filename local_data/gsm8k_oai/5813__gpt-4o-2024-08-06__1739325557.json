@@ -1,0 +1,12 @@
+{
+  "query": "If 2 machines in a factory make 10 cell phones each minute, how many machines would it take to make 50 cell phones a minute?",
+  "steps": [
+    "First, let's determine how many cell phones one machine can make in a minute.",
+    "We know that 2 machines make 10 cell phones each minute.",
+    "Therefore, 1 machine makes 10 cell phones divided by 2 machines, which is 5 cell phones per minute.",
+    "Now, we need to calculate how many machines are needed to make 50 cell phones in a minute.",
+    "If 1 machine makes 5 cell phones in a minute, we divide 50 cell phones by 5 cell phones per machine to find the number of machines needed.",
+    "50 cell phones divided by 5 cell phones per machine equals 10 machines."
+  ],
+  "solution": "10"
+}

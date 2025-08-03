@@ -1,0 +1,16 @@
+{
+  "query": "Mike spent 37 dollars on notebooks.  He bought a total of 12 notebooks.  He bought 3 red notebooks at 4 dollars each, 2 green notebooks at 2 dollars each, and the rest were blue notebooks.  How much does each blue notebook cost?",
+  "steps": [
+    "Mike spent a total of 37 dollars on all the notebooks combined.",
+    "He bought 3 red notebooks at 4 dollars each.",
+    "The total cost of the red notebooks is 3 * 4 = 12 dollars.",
+    "He also bought 2 green notebooks at 2 dollars each.",
+    "The total cost of the green notebooks is 2 * 2 = 4 dollars.",
+    "Adding the cost of the red and green notebooks gives us 12 + 4 = 16 dollars.",
+    "Subtracting this amount from the total spent, 37 - 16 = 21 dollars, is the amount spent on the blue notebooks.",
+    "Then, we need to find out how many blue notebooks he bought. He bought a total of 12 notebooks, so the number of blue notebooks is 12 - 3 - 2 = 7 notebooks.",
+    "Mike spent 21 dollars on 7 blue notebooks together.",
+    "To find the cost of each blue notebook, divide the total spent on blue notebooks by the number of blue notebooks: 21 / 7 = 3 dollars."
+  ],
+  "solution": "3"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "Eric has a chicken farm with 4 chickens. His chickens lay 3 eggs each day. If Eric collects all the eggs after 3 days, then how many eggs will Eric have collected?",
+  "steps": [
+    "Eric has 4 chickens.",
+    "Each chicken lays 3 eggs per day.",
+    "I need to calculate how many eggs the chickens lay in one day.",
+    "Multiply the number of chickens (4) by the number of eggs per chicken per day (3).",
+    "4 chickens * 3 eggs per chicken = 12 eggs per day.",
+    "Now, calculate how many eggs Eric collects over 3 days.",
+    "Multiply the number of eggs per day (12) by the number of days (3).",
+    "12 eggs per day * 3 days = 36 eggs."
+  ],
+  "solution": "36"
+}

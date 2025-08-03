@@ -1,0 +1,14 @@
+{
+  "query": "A plumber bought 10 meters of copper and 5 more meters of plastic pipe. If each meter cost $4, how much did the plumber spent on the copper and plastic pipe?",
+  "steps": [
+    "I need to find the total length of the copper and plastic pipes.",
+    "The plumber bought 10 meters of copper pipe.",
+    "The plumber bought 5 more meters of plastic pipe than the copper pipe.",
+    "To calculate the length of the plastic pipe, I add 5 to the length of the copper pipe: 10 meters + 5 meters = 15 meters of plastic pipe.",
+    "Now, I add the length of the copper pipe and the plastic pipe to find the total length: 10 meters + 15 meters = 25 meters.",
+    "Each meter of pipe costs $4.",
+    "I need to find the total cost by multiplying the total length of pipe by the cost per meter: 25 meters * $4/meter.",
+    "Multiplying 25 meters by $4/meter gives a total cost of $100."
+  ],
+  "solution": "100"
+}

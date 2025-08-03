@@ -1,0 +1,23 @@
+{
+  "query": "Bubba bought a new two-story warehouse.  When empty, the first floor of the building contains twice as much floor space for storage as the second floor.  The first items he brought into his empty building were several thousand boxes; and he put them all on the second floor, which filled one-quarter of the second floor storage space.  If the boxes used up 5,000 square feet of storage space, how many square feet of storage space is still available in the building?",
+  "steps": [
+    "First, I need to understand the relationship between the floor spaces of the two floors.",
+    "The problem states that the first floor contains twice as much floor space as the second floor.",
+    "Let the floor space of the second floor be represented as x square feet.",
+    "Then the floor space of the first floor is 2x square feet, because it is twice as much as the second floor.",
+    "The problem indicates that Bubba filled one-quarter of the second floor with boxes.",
+    "One-quarter of the second floor is filled, which means the boxes occupy 1/4 of x square feet.",
+    "We're told that these boxes used up 5,000 square feet of storage space.",
+    "Therefore, (1/4) * x = 5,000 square feet.",
+    "To find the total floor space of the second floor, solve for x: x = 5,000 * 4.",
+    "Calculating this gives x = 20,000 square feet for the second floor.",
+    "Now, substituting back, the first floor is 2x = 2 * 20,000 = 40,000 square feet.",
+    "I have the total floor spaces: 20,000 for the second floor, and 40,000 for the first floor.",
+    "To find the available space remaining, I should subtract the space occupied by boxes from the total space of the second floor.",
+    "The second floor contains 20,000 square feet and 5,000 square feet are occupied, so 20,000 - 5,000 = 15,000 square feet available.",
+    "The first floor is empty, so it has all of its floor space still available: 40,000 square feet.",
+    "Add the available space from both floors: 15,000 (second floor) + 40,000 (first floor).",
+    "This sums to 55,000 square feet of available storage space."
+  ],
+  "solution": "55,000"
+}

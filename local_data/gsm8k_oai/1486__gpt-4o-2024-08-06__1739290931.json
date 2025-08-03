@@ -1,0 +1,15 @@
+{
+  "query": "Tammy just got her hair cut. For every 14 haircuts, she gets a free additional haircut. She has gotten 5 free haircuts already. She is 5 haircuts away from another free one. How many haircuts has she gotten there?",
+  "steps": [
+    "First, I need to determine how many paid haircuts correspond to the free haircuts Tammy has received.",
+    "Tammy gets one free haircut for every 14 paid haircuts. She has already received 5 free haircuts.",
+    "To find the number of paid haircuts, I multiply the number of free haircuts by 14. This is because each free haircut represents 14 paid ones.",
+    "5 free haircuts times 14 paid haircuts per free haircut equals 70 paid haircuts.",
+    "Next, I need to account for the haircuts Tammy has gotten since her last free haircut. She is 5 haircuts away from another free haircut.",
+    "Since she receives a free haircut after 14 paid ones and she is 5 haircuts away from getting another one, she must have had 9 paid haircuts since her last free haircut.",
+    "Adding these 9 paid haircuts to the previous 70 total gives the number of haircuts she actually got.",
+    "70 paid haircuts plus 9 paid haircuts since the last free one equals 79.",
+    "Therefore, Tammy has gotten a total of 79 haircuts."
+  ],
+  "solution": "79"
+}

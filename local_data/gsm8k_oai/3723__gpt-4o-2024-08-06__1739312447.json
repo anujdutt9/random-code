@@ -1,0 +1,17 @@
+{
+  "query": "Cameron drives at twice the speed of his brother, Chase.  But Danielle drives at three times the speed of Cameron.  If it takes Danielle 30 minutes to travel from Granville to Salisbury, how long, in minutes, will it take Chase to travel from Granville to Salisbury?",
+  "steps": [
+    "First, let's define some variables for the speeds. Let Chase's speed be \\( x \\) miles per hour.",
+    "Cameron drives at twice the speed of Chase, so Cameron's speed is \\( 2x \\) miles per hour.",
+    "Danielle drives at three times the speed of Cameron, so her speed is \\( 3 \\times 2x = 6x \\) miles per hour.",
+    "We know that it takes Danielle 30 minutes to travel from Granville to Salisbury.",
+    "30 minutes is equivalent to 0.5 hours.",
+    "The distance from Granville to Salisbury can be calculated using Danielle's speed. The formula for distance is:\n\\[\n\\text{Distance} = \\text{Speed} \\times \\text{Time}\n\\]\n\\[\n\\text{Distance} = 6x \\times 0.5\n\\]\n\\[\n\\text{Distance} = 3x\n\\]",
+    "Now, I need to calculate how long it will take Chase to travel the same distance at his speed \\( x \\).",
+    "The time it takes for Chase can be calculated using the formula:\n\\[\n\\text{Time} = \\frac{\\text{Distance}}{\\text{Speed}}\n\\]\n\\[\n\\text{Time} = \\frac{3x}{x}\n\\]\n\\",
+    "\\[\n\\text{Time} = 3 \\text{ hours}\n\\]",
+    "To convert Chase's travel time from hours to minutes, multiply by 60.",
+    "\\[\n\\text{Time} = 3 \\times 60 = 180 \\text{ minutes}\n\\]"
+  ],
+  "solution": "180"
+}

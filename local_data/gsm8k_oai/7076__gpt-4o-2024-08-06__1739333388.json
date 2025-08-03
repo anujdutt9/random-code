@@ -1,0 +1,22 @@
+{
+  "query": "The number of Oreos and cookies in a box is in the ratio 4:9. Zane bought each Oreo at $2 and each cookie at $3. How much more money did Zane spend on buying the cookies than buying the Oreos if the total number of items in the box is 65?",
+  "steps": [
+    "First, I need to determine the ratio of Oreos to cookies, which is 4:9.",
+    "The total number of items (Oreos and cookies) in the box is 65.",
+    "I can express the total number of items in terms of the ratio: 4x (Oreos) + 9x (cookies) = 65.",
+    "Combine the terms: 4x + 9x = 13x = 65.",
+    "Next, solve for x: x = 65 / 13.",
+    "65 divided by 13 is 5.",
+    "So, x = 5.",
+    "Now, calculate the number of Oreos: 4x = 4 * 5 = 20.",
+    "Calculate the number of cookies: 9x = 9 * 5 = 45.",
+    "Zane bought each Oreo at $2. So, total cost for Oreos = 20 Oreos * $2/Oreo.",
+    "20 * 2 = $40 spent on Oreos.",
+    "Zane bought each cookie at $3. So, total cost for cookies = 45 cookies * $3/cookie.",
+    "45 * 3 = $135 spent on cookies.",
+    "I need to find out how much more money Zane spent on cookies than Oreos.",
+    "Subtract the cost of Oreos from the cost of cookies: $135 - $40.",
+    "$135 - $40 = $95."
+  ],
+  "solution": "95"
+}

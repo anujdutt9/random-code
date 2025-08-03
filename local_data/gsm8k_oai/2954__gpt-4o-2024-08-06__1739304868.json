@@ -1,0 +1,18 @@
+{
+  "query": "A 1000 car parking lot is divided into 3 sections. There are 320 spaces in section 1, and 200 more in section 2 than in section 3. How many spaces are made available in section 2 of the parking lot?",
+  "steps": [
+    "First, I need to determine how many parking spaces are in section 3.",
+    "Let \\( x \\) be the number of parking spaces in section 3.",
+    "Section 2 has 200 more spaces than section 3, so section 2 has \\( x + 200 \\) spaces.",
+    "The total number of parking spaces in all sections is 1000. Therefore, the equation for the total number of parking spaces is: \n320 (spaces in section 1) + \\( x \\) (spaces in section 3) + \\( x + 200 \\) (spaces in section 2) = 1000.",
+    "Simplify the equation: \n320 + \\( x \\) + \\( x + 200 \\) = 1000.",
+    "Combine like terms: \n2\\( x \\) + 520 = 1000.",
+    "Subtract 520 from both sides to isolate terms with \\( x \\).\n2\\( x \\) = 480.",
+    "Divide both sides by 2 to solve for \\( x \\).\n\\( x \\) = 240.",
+    "Now, I know section 3 has 240 spaces.",
+    "Section 2 has \\( x + 200 \\) spaces.",
+    "Substitute \\( x \\) with 240: \nSection 2 = 240 + 200.",
+    "Section 2 has 440 spaces."
+  ],
+  "solution": "440"
+}

@@ -1,0 +1,22 @@
+{
+  "query": "A plumber is trying to decide which of three different jobs he should take to make the most money.  The first job involves fixing three toilets and three sinks at an apartment complex.  The second involves two toilets and five sinks at a different apartment complex.  The third involves fixing one toilet, two showers and three sinks at a third apartment complex.  If the plumber charges $30 to fix a sink, $40 to fix a shower and $50 to fix a toilet, what is the most money the plumber can earn if he can only choose one of these three jobs?",
+  "steps": [
+    "First, I need to calculate the total earnings for each job to compare which one pays the most.",
+    "For the first job, the plumber needs to fix three toilets and three sinks.",
+    "To find the total earnings from the first job: earnings from toilets = 3 toilets * $50/toilet = $150.",
+    "Earnings from sinks = 3 sinks * $30/sink = $90.",
+    "The total earnings from the first job = $150 + $90 = $240.",
+    "Next, I'll calculate the total earnings for the second job: two toilets and five sinks.",
+    "Earnings from toilets = 2 toilets * $50/toilet = $100.",
+    "Earnings from sinks = 5 sinks * $30/sink = $150.",
+    "The total earnings from the second job = $100 + $150 = $250.",
+    "Now, I'll calculate the total earnings for the third job: one toilet, two showers, and three sinks.",
+    "Earnings from toilet = 1 toilet * $50/toilet = $50.",
+    "Earnings from showers = 2 showers * $40/shower = $80.",
+    "Earnings from sinks = 3 sinks * $30/sink = $90.",
+    "The total earnings from the third job = $50 + $80 + $90 = $220.",
+    "Now I compare the total earnings from the three jobs: $240, $250, and $220.",
+    "The most money the plumber can earn is from the second job, which pays $250."
+  ],
+  "solution": "250"
+}

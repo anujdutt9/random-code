@@ -1,0 +1,14 @@
+{
+  "query": "A hotel has 10 rooms and is currently full. Each room holds a family of 3. If each person receives 2 towels, how many towels does the hotel hand out?",
+  "steps": [
+    "First, I need to determine how many people are in the hotel.",
+    "There are 10 rooms, and each room holds a family of 3.",
+    "To find the total number of people, I multiply the number of rooms by the number of people per room: 10 rooms * 3 people/room.",
+    "10 * 3 equals 30, so there are 30 people in the hotel.",
+    "Next, I need to find out how many towels are handed out to these people.",
+    "Each person receives 2 towels.",
+    "To find the total number of towels, I multiply the number of people by the number of towels per person: 30 people * 2 towels/person.",
+    "30 * 2 equals 60, so 60 towels are handed out."
+  ],
+  "solution": "60"
+}

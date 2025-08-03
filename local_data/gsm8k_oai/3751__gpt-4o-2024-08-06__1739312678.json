@@ -1,0 +1,14 @@
+{
+  "query": "A monkey swings from branch to branch at an average distance of 1.2 meters per second. How far will a monkey swing in meters if it consistently swings from branches for 30 minutes?",
+  "steps": [
+    "First, I need to find out how many seconds are in 30 minutes.",
+    "There are 60 seconds in a minute.",
+    "So, in 30 minutes, the number of seconds is 30 minutes \u00d7 60 seconds/minute.",
+    "30 \u00d7 60 = 1800 seconds.",
+    "The monkey swings at a rate of 1.2 meters per second.",
+    "To find out how far the monkey swings, I need to multiply the time in seconds by the distance per second.",
+    "So, the total distance swung will be 1.2 meters/second \u00d7 1800 seconds.",
+    "1.2 \u00d7 1800 = 2160 meters."
+  ],
+  "solution": "2160"
+}

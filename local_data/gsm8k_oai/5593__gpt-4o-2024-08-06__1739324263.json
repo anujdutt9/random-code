@@ -1,0 +1,24 @@
+{
+  "query": "A father is building a playset for his son and needs to purchase lumber, nails, and fabric.  When he started planning the project, the necessary lumber cost $450, the nails cost $30, and the fabric cost $80.  However, recent economic inflation has caused the price of lumber to increase by 20%, the price of nails to increase by 10%, and the price of fabric to increase by 5%.  In dollars, how much more money will it cost to complete the project now (after inflation) than it would have when the father began planning?",
+  "steps": [
+    "First, I need to calculate the new cost of each item after inflation.",
+    "I will start with the lumber, which initially cost $450. The price has increased by 20%.",
+    "To find the increase, I multiply $450 by 20%, which is 0.20.",
+    "The increase in the cost of lumber is $450 * 0.20 = $90.",
+    "The new cost of the lumber is the original cost plus the increase: $450 + $90 = $540.",
+    "Next, I calculate the new cost of the nails, which initially cost $30 and increased by 10%.",
+    "To find the increase, I multiply $30 by 10%, which is 0.10.",
+    "The increase in the cost of nails is $30 * 0.10 = $3.",
+    "The new cost of the nails is the original cost plus the increase: $30 + $3 = $33.",
+    "Now, I calculate the new cost of the fabric, which initially cost $80 and increased by 5%.",
+    "To find the increase, I multiply $80 by 5%, which is 0.05.",
+    "The increase in the cost of fabric is $80 * 0.05 = $4.",
+    "The new cost of the fabric is the original cost plus the increase: $80 + $4 = $84.",
+    "Now, I sum up the original total cost and the new total cost.",
+    "The original total cost was $450 (lumber) + $30 (nails) + $80 (fabric) = $560.",
+    "The new total cost is $540 (new lumber cost) + $33 (new nails cost) + $84 (new fabric cost) = $657.",
+    "Finally, I calculate the difference between the new total cost and the original total cost to find how much more it will cost.",
+    "The difference is $657 - $560 = $97."
+  ],
+  "solution": "97"
+}

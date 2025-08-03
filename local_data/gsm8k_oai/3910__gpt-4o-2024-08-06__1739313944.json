@@ -1,0 +1,11 @@
+{
+  "query": "Mason is three times younger than Sydney and Sydney is six years younger than Mason's father. If Mason is 20 years old, how old is his father?",
+  "steps": [
+    "First, let's establish Mason's age, which is given as 20 years old.",
+    "Since Mason is three times younger than Sydney, we need to interpret this correctly. \"Three times younger\" often means dividing by a factor, which can be tricky conceptually, but I will assume it means Sydney is three times older than Mason.",
+    "Thus, Sydney's age would be 3 times Mason's age: 3 * 20 = 60 years old.",
+    "Now, it is given that Sydney is six years younger than Mason's father.",
+    "To find Mason's father's age, we add 6 years to Sydney's age: 60 + 6 = 66."
+  ],
+  "solution": "66"
+}

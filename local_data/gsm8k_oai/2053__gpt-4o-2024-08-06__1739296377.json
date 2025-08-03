@@ -1,0 +1,13 @@
+{
+  "query": "Adam has an orchard. Every day for 30 days he picks 4 apples from his orchard. After a month, Adam has collected all the remaining apples, which were 230. How many apples in total has Adam collected from his orchard?",
+  "steps": [
+    "Adam picks 4 apples from his orchard every day.",
+    "He picks apples for 30 days.",
+    "To find out how many apples he picked in these 30 days, I multiply 4 apples per day by 30 days.",
+    "4 apples/day * 30 days = 120 apples",
+    "After these 30 days, he collects all the remaining apples, which are 230 apples.",
+    "To find the total number of apples Adam collected, I need to add the apples he picked over the 30 days to the remaining apples he collected.",
+    "120 apples + 230 apples = 350 apples"
+  ],
+  "solution": "350"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "David found $12 on the street. He then gave it to his friend Evan who has $1 and needed to buy a watch worth $20. How much does Evan still need?",
+  "steps": [
+    "First, I need to figure out the total amount of money Evan has after David gives him $12.",
+    "Evan initially has $1.",
+    "David gives Evan $12.",
+    "So, I add $1 (Evan's initial amount) to $12 (the amount David gave him): $1 + $12 = $13.",
+    "Now, I know Evan has $13 in total.",
+    "The watch Evan wants to buy costs $20.",
+    "I need to find out how much more money Evan needs to reach $20.",
+    "I subtract the total amount Evan has ($13) from the price of the watch ($20).",
+    "$20 - $13 = $7.",
+    "Evan still needs $7 to buy the watch."
+  ],
+  "solution": "7"
+}

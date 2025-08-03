@@ -1,0 +1,14 @@
+{
+  "query": "In a Math competition, Sammy scored 20 points, Gab scored twice as many as Sammy's score, while Cher scored twice as many as Gab's score. If their opponent scored 85 points, how many more points do they have than their opponent?",
+  "steps": [
+    "First, I identify Sammy's score, which is given as 20 points.",
+    "Gab's score is twice Sammy's score. Therefore, Gab scored 2 * 20 = 40 points.",
+    "Cher's score is twice Gab's score. Thus, Cher scored 2 * 40 = 80 points.",
+    "Now, I sum up the scores of Sammy, Gab, and Cher. Their total score is 20 + 40 + 80.",
+    "Calculating the sum, I find their total score is 140 points.",
+    "Their opponent scored 85 points.",
+    "I need to find how many more points Sammy, Gab, and Cher have compared to their opponent. So, I subtract the opponent's score from their total score: 140 - 85.",
+    "Performing the subtraction, I get 55 points."
+  ],
+  "solution": "55"
+}

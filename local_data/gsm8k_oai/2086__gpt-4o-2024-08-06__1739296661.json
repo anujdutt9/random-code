@@ -1,0 +1,24 @@
+{
+  "query": "A jewelry store is restocking its shelves. The necklace stand, which can hold 12 necklaces, currently holds 5 necklaces. The ring display, which can hold 30 rings, currently holds 18 rings. The bracelet display, which can hold 15 bracelets, currently holds 8 bracelets. The store\u2019s supplier charges $4 per necklace, $10 per ring, and $5 per bracelet. How much, in dollars, will the store need to pay to fill the displays?",
+  "steps": [
+    "First, I need to determine how many more necklaces are required to fill the necklace stand.",
+    "The necklace stand can hold 12 necklaces, and currently holds 5.",
+    "So, the number of additional necklaces needed is 12 - 5 = 7.",
+    "Next, I calculate how many more rings are needed for the ring display.",
+    "The ring display can hold 30 rings, and it currently holds 18.",
+    "Therefore, the number of additional rings needed is 30 - 18 = 12.",
+    "Now, I determine how many more bracelets are needed for the bracelet display.",
+    "The bracelet display can hold 15 bracelets, and currently holds 8.",
+    "Hence, the number of additional bracelets needed is 15 - 8 = 7.",
+    "Now, I need to calculate the cost to fill the displays with the additional items.",
+    "Each additional necklace costs $4, and I need 7 necklaces.",
+    "The total cost for the necklaces is 7 * 4 = $28.",
+    "Each additional ring costs $10, and I need 12 rings.",
+    "The total cost for the rings is 12 * 10 = $120.",
+    "Each additional bracelet costs $5, and I need 7 bracelets.",
+    "The total cost for the bracelets is 7 * 5 = $35.",
+    "Now, I add the costs for the necklaces, rings, and bracelets to find the total cost.",
+    "The total cost is $28 + $120 + $35 = $183."
+  ],
+  "solution": "183"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "Charlotte is making a pie. She can't decide if she will make cherry or blueberry. So she decides to make whichever pie is cheapest. Both pies will need $2 for flour, $1 for sugar and $1.5 for eggs and butter to make the crust. The blueberry pie needs 3 pounds of blueberries. The blueberries come in 8 oz containers for $2.25. For the cherry pie, she needs 4 pounds and they come in a four-pound bag for $14. What is the total price to make the cheapest pie?",
+  "steps": [
+    "First, I need to calculate the cost of the crust, which is common to both pies. This includes $2 for flour, $1 for sugar, and $1.5 for eggs and butter.",
+    "Adding these costs together, $2 + $1 + $1.5 = $4.5 for the crust.",
+    "Next, I will calculate the total cost for the blueberry pie, which includes 3 pounds of blueberries.",
+    "There are 16 ounces in a pound, so 3 pounds of blueberries is 3 x 16 = 48 ounces.",
+    "The blueberries come in 8 oz containers for $2.25, so I need 48 oz / 8 oz per container = 6 containers.",
+    "Calculating the cost for the blueberries, I have 6 containers x $2.25 = $13.5.",
+    "Adding the cost of the crust, the total cost for the blueberry pie is $4.5 (crust) + $13.5 (blueberries) = $18.",
+    "Now, let's calculate the total cost for the cherry pie.",
+    "The cherry pie needs 4 pounds of cherries, which are sold in a 4-pound bag for $14.",
+    "The total cost for cherries is $14, as she needs exactly one bag.",
+    "Adding the cost of the crust, the total cost for the cherry pie is $4.5 (crust) + $14 (cherries) = $18.5.",
+    "Comparing the total costs, the blueberry pie costs $18, while the cherry pie costs $18.5.",
+    "The cheapest pie is the blueberry pie at $18."
+  ],
+  "solution": "18"
+}

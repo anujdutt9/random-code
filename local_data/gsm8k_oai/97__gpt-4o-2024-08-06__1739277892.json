@@ -1,0 +1,21 @@
+{
+  "query": "Nancy, the librarian, is shelving books from the cart. She shelved 12 history books, 8 romance books, and 4 poetry books from the top section of the cart. Half the books on the bottom section of the cart were mystery books, which she quickly put back into place. Then, she shelved the remaining books from the bottom of the cart, including 5 Western novels and 6 biographies. How many books did she have on the book cart when she started?",
+  "steps": [
+    "Nancy starts shelving the books from the top section of the cart.",
+    "She shelved 12 history books.",
+    "She shelved 8 romance books.",
+    "She shelved 4 poetry books.",
+    "To find how many books she shelved from the top section, I add the number of history, romance, and poetry books: 12 + 8 + 4 = 24.",
+    "From the bottom section of the cart, half of the books were mystery books.",
+    "Let x be the total number of books in the bottom section. Then x/2 are mystery books.",
+    "After shelving the mystery books, she shelved the remaining books from the bottom section.",
+    "The remaining books included 5 Western novels and 6 biographies.",
+    "So, the remaining number of books is 5 Western novels + 6 biographies = 11.",
+    "Since the remaining books are half of the bottom section books, x/2 = 11.",
+    "Solving for x, multiply both sides by 2: x = 22.",
+    "The total number of books on the cart initially is the sum of books from the top section and bottom section.",
+    "The top section had 24 books, and the bottom section had 22 books.",
+    "Adding the books from both sections: 24 + 22 = 46."
+  ],
+  "solution": "46"
+}

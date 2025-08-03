@@ -1,0 +1,18 @@
+{
+  "query": "The standard poodle is 8 inches taller than the miniature poodle, and the miniature poodle is 6 inches taller than the toy poodle.  If the standard poodle in 28 inches tall, how tall is the toy poodle in inches?",
+  "steps": [
+    "I need to understand the relationship between the heights of the poodles.",
+    "The standard poodle is 8 inches taller than the miniature poodle.",
+    "The miniature poodle is 6 inches taller than the toy poodle.",
+    "The standard poodle is 28 inches tall.",
+    "Let's denote the height of the toy poodle as T inches.",
+    "Since the miniature poodle is 6 inches taller than the toy poodle, its height is T + 6 inches.",
+    "The standard poodle is 8 inches taller than the miniature poodle, meaning its height is (T + 6) + 8 inches.",
+    "The equation for the standard poodle's height is (T + 6) + 8 = 28.",
+    "Simplify the equation: T + 6 + 8 = 28.",
+    "Combine like terms: T + 14 = 28.",
+    "Subtract 14 from both sides to solve for T: T = 28 - 14.",
+    "Calculate the result: T = 14."
+  ],
+  "solution": "14"
+}

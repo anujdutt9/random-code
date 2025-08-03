@@ -1,0 +1,17 @@
+{
+  "query": "Joe played catch with Derek and Tammy. He caught the ball 23 times. Derek made four less than double the catches Joe did. Tammy caught the ball sixteen more than a third of the times Derek did. How many times did Tammy catch the ball?",
+  "steps": [
+    "Joe caught the ball 23 times.",
+    "I need to find out how many times Derek caught the ball.",
+    "Derek caught the ball four less than double the number of times Joe did.",
+    "First, I calculate double the number of times Joe caught the ball: 2 * 23 = 46.",
+    "Now subtract four from that value to find Derek's catches: 46 - 4 = 42.",
+    "So, Derek caught the ball 42 times.",
+    "Next, I need to determine how many times Tammy caught the ball.",
+    "Tammy caught the ball sixteen more than a third of the number of times Derek did.",
+    "I start by calculating one-third of Derek's catches: 42 / 3 = 14.",
+    "Then I add sixteen to that number to find Tammy's catches: 14 + 16 = 30.",
+    "So, Tammy caught the ball 30 times."
+  ],
+  "solution": "30"
+}

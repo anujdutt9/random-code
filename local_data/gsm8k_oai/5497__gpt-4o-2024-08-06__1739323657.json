@@ -1,0 +1,13 @@
+{
+  "query": "Jimmy wants to play in the inflatable swimming pool in his backyard. The swimming pool is empty and the garage is locked, so he cannot use the hose to fill the pool. He finds a 2 gallon bucket and calculates that it takes 20 seconds to fill the bucket from the tap and carry it to the pool where he pours in the water. If the pool holds 84 gallons of water, how many minutes will it take Jimmy to fill the pool?",
+  "steps": [
+    "First, identify how much water each bucket holds. Jimmy's bucket holds 2 gallons of water.",
+    "Determine how many buckets are needed to fill the pool. The pool holds 84 gallons.",
+    "Divide the total pool capacity by the bucket capacity: 84 gallons \u00f7 2 gallons per bucket = 42 buckets.",
+    "Each trip with a bucket, from filling to emptying, takes 20 seconds.",
+    "Calculate the total time in seconds to fill the pool by multiplying the number of buckets by the time per trip: 42 buckets \u00d7 20 seconds per bucket = 840 seconds.",
+    "Convert the total time from seconds to minutes. There are 60 seconds in a minute.",
+    "Divide the total seconds by the number of seconds in a minute: 840 seconds \u00f7 60 seconds per minute = 14 minutes."
+  ],
+  "solution": "14"
+}

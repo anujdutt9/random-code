@@ -1,0 +1,12 @@
+{
+  "query": "Nancy is crafting clay pots to sell. She creates 12 clay pots on Monday, twice as many on Tuesday, a few more on Wednesday, then ends the week with 50 clay pots. How many did she create on Wednesday?",
+  "steps": [
+    "Nancy creates 12 clay pots on Monday.",
+    "On Tuesday, she creates twice as many pots as on Monday, which is 2 * 12 = 24 pots.",
+    "Nancy's total for Monday and Tuesday together is 12 + 24 = 36 pots.",
+    "By the end of the week, she has 50 clay pots in total.",
+    "The pots created on Wednesday can be found by subtracting the pots from Monday and Tuesday from the total at the end of the week.",
+    "To find out how many she made on Wednesday, I calculate 50 (total pots by the end of the week) - 36 (pots made by Monday and Tuesday) = 14 pots."
+  ],
+  "solution": "14"
+}

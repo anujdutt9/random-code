@@ -1,0 +1,19 @@
+{
+  "query": "Carla needs to bring water to her animals. Each horse needs twice as much water as a pig, and the chickens drink from one tank that needs 30 gallons. How many gallons of water does Carla need to bring if she has 8 pigs and 10 horses and each pig needs 3 gallons of water?",
+  "steps": [
+    "First, I need to determine how much water the pigs require.",
+    "Each pig needs 3 gallons of water.",
+    "Carla has 8 pigs.",
+    "Multiplying the number of pigs by the water each requires: 8 pigs * 3 gallons/pig = 24 gallons.",
+    "Next, I need to determine how much water the horses require.",
+    "Each horse needs twice as much water as a pig.",
+    "Each pig needs 3 gallons, so each horse needs 3 gallons * 2 = 6 gallons.",
+    "Carla has 10 horses.",
+    "Multiplying the number of horses by the water each requires: 10 horses * 6 gallons/horse = 60 gallons.",
+    "Now, I need to account for the water needed by the chickens.",
+    "The chickens drink from one tank that needs 30 gallons.",
+    "Summing all the water needs: 24 gallons for pigs + 60 gallons for horses + 30 gallons for chickens.",
+    "24 + 60 + 30 = 114 gallons."
+  ],
+  "solution": "114"
+}

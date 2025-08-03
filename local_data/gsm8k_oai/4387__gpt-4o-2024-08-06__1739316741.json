@@ -1,0 +1,16 @@
+{
+  "query": "Jeff has 16 GB of storage on his phone. He is already using 4 GB. If a song takes up about 30MB of storage, how many songs can Jeff store on his phone? (There are 1000 MB in a GB).",
+  "steps": [
+    "Jeff has 16 GB of total storage on his phone.",
+    "He is already using 4 GB of that storage.",
+    "To find out how much storage he has left, subtract the used storage from the total storage.",
+    "Total storage remaining = 16 GB - 4 GB = 12 GB.",
+    "Now, convert the remaining storage from GB to MB, since 1 GB = 1000 MB.",
+    "Remaining storage in MB = 12 GB * 1000 MB/GB = 12000 MB.",
+    "Each song takes up about 30 MB of storage.",
+    "To find out how many songs Jeff can store, divide the available storage by the size of each song.",
+    "Number of songs = 12000 MB / 30 MB/song.",
+    "Number of songs = 400."
+  ],
+  "solution": "400"
+}

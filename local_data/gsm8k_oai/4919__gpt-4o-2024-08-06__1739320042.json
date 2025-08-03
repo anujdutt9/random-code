@@ -1,0 +1,14 @@
+{
+  "query": "Mcdonald is planning to open up a farm that provides eggs to the community. In his local community, Saly needs 10 eggs, Ben needs 14 eggs, and Ked needs half of the number of eggs needed by Ben per week. In a month which has 4 weeks, how many eggs should Mcdonald's farm produce?",
+  "steps": [
+    "First, I need to find out how many eggs each person needs per week.",
+    "Saly needs 10 eggs per week.",
+    "Ben needs 14 eggs per week.",
+    "Ked needs half of the eggs Ben needs, so I calculate \\( \\frac{14}{2} = 7 \\) eggs per week.",
+    "Now, I will calculate the total number of eggs needed for one week.",
+    "Add the weekly needs: 10 (Saly) + 14 (Ben) + 7 (Ked) = 31 eggs per week.",
+    "Since there are 4 weeks in a month, I multiply the weekly total by 4.",
+    "Calculate: 31 eggs/week * 4 weeks = 124 eggs/month."
+  ],
+  "solution": "124"
+}

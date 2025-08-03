@@ -1,0 +1,14 @@
+{
+  "query": "In a race, there are eight runners. The first five runners finish the race in 8 hours, while the rest of the runners finish the race 2 hours later. Calculate the total time the eight runners took to finish the race.",
+  "steps": [
+    "First, I must determine how long it took each group of runners to finish the race.",
+    "The first group of five runners finished in 8 hours. So, each of these five runners has taken 8 hours.",
+    "The remaining three runners finished the race 2 hours after the first five finished.",
+    "Thus, the time taken by the last three runners to finish the race is 8 hours + 2 hours = 10 hours.",
+    "Next, I will calculate the total time spent by all eight runners.",
+    "The total time for the first group of five runners is 5 runners * 8 hours = 40 runner-hours.",
+    "The total time for the remaining three runners is 3 runners * 10 hours = 30 runner-hours.",
+    "Now, I add the time spent by both groups of runners: 40 runner-hours + 30 runner-hours = 70 runner-hours."
+  ],
+  "solution": "70"
+}

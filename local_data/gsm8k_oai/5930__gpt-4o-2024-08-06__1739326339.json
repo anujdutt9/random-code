@@ -1,0 +1,20 @@
+{
+  "query": "Marcy uses 6 ounces of pet cleaner to clean up a dog stain, 4 ounces to clean up a cat stain, and 1 ounce to clean up a rabbit stain. How much cleaner does she need to clean up after 6 dogs, 3 cats and 1 rabbit?",
+  "steps": [
+    "First, I need to figure out how much cleaner is needed for the dog stains.",
+    "Marcy uses 6 ounces of pet cleaner per dog stain.",
+    "There are 6 dogs.",
+    "Therefore, the cleaner needed for the dogs is 6 ounces/dog * 6 dogs = 36 ounces.",
+    "Next, I need to calculate the amount of cleaner required for the cat stains.",
+    "Marcy uses 4 ounces of pet cleaner per cat stain.",
+    "There are 3 cats.",
+    "So, the cleaner needed for the cats is 4 ounces/cat * 3 cats = 12 ounces.",
+    "Now, I calculate the amount of cleaner needed for the rabbit stain.",
+    "Marcy uses 1 ounce of pet cleaner per rabbit stain.",
+    "There is 1 rabbit.",
+    "Thus, the cleaner needed for the rabbit is 1 ounce/rabbit * 1 rabbit = 1 ounce.",
+    "Finally, I add the amounts of cleaner needed for dogs, cats, and the rabbit together.",
+    "The total cleaner needed is 36 ounces (dogs) + 12 ounces (cats) + 1 ounce (rabbit) = 49 ounces."
+  ],
+  "solution": "49"
+}

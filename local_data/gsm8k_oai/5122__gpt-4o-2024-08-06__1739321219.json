@@ -1,0 +1,13 @@
+{
+  "query": "A firefighter's hose can deliver 20 gallons of water per minute.  For a building fire that requires 4000 gallons of water to put out, how long will it take, in minutes, for a team of 5 firefighters, each with their own hose, to put out the fire?",
+  "steps": [
+    "First, I need to understand how much water each firefighter's hose delivers per minute. It is given as 20 gallons per minute.",
+    "Now, I will determine how many hoses are delivering water simultaneously. Since there is a team of 5 firefighters, each with their own hose, there will be 5 hoses delivering water.",
+    "Next, I need to find out the total amount of water delivered per minute by all 5 hoses combined. This can be found by multiplying the water delivery rate of one hose by the number of hoses: 20 gallons per minute * 5 hoses.",
+    "Calculating the total water delivery: 20 * 5 = 100 gallons per minute.",
+    "The fire requires 4000 gallons of water to put out.",
+    "To calculate the time it will take, I need to divide the total amount of water needed (4000 gallons) by the total amount of water delivered per minute (100 gallons per minute).",
+    "Performing the division: 4000 / 100 = 40."
+  ],
+  "solution": "40"
+}

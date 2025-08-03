@@ -1,0 +1,14 @@
+{
+  "query": "Ezekiel hikes as a hobby. This past summer, he did a challenging three-day hike across 50 kilometers of wilderness. The first day, he covered 10 kilometers of steep mountainside. The second day was flatter and he was able to cover half the full hike distance. How many kilometers did he have to hike on the third day to finish the hike?",
+  "steps": [
+    "First, I'll understand the total distance Ezekiel hiked, which is given as 50 kilometers.",
+    "On the first day, Ezekiel hiked 10 kilometers.",
+    "On the second day, he covered half of the full hike distance, which means he covered half of 50 kilometers.",
+    "I'll calculate half of 50 kilometers: \\(50 \\div 2 = 25\\) kilometers on the second day.",
+    "Now I need to find out how much distance he covered in total in the first two days. So I'll add the first day's distance to the second day's distance: 10 km + 25 km.",
+    "Adding these gives me \\(10 + 25 = 35\\) kilometers covered in the first two days.",
+    "To find out the distance he hiked on the third day, I'll subtract the distance covered in the first two days from the total hike distance.",
+    "So the distance hiked on the third day is \\(50 - 35 = 15\\) kilometers."
+  ],
+  "solution": "15"
+}

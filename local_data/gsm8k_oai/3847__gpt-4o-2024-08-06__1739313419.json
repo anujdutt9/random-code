@@ -1,0 +1,19 @@
+{
+  "query": "All people named Barry are nice, while only half of the people named Kevin are nice.  Three-fourths of people named Julie are nice, while 10% of people named Joe are nice.  If a crowd contains 24 people named Barry, 20 people named Kevin, 80 people named Julie, and 50 people named Joe, how many nice people are in the crowd?",
+  "steps": [
+    "First, I need to calculate how many nice people there are among those named Barry.",
+    "All people named Barry are nice. Since there are 24 people named Barry, all 24 are nice.",
+    "Next, I calculate the number of nice people named Kevin.",
+    "Only half of the people named Kevin are nice. There are 20 people named Kevin.",
+    "Half of 20 is 10, so there are 10 nice people named Kevin.",
+    "Now, I calculate how many nice people are named Julie.",
+    "Three-fourths of the people named Julie are nice. There are 80 people named Julie.",
+    "Three-fourths of 80 is 60, so there are 60 nice people named Julie.",
+    "Finally, I calculate the number of nice people named Joe.",
+    "10% of the people named Joe are nice. There are 50 people named Joe.",
+    "10% of 50 is 5, so there are 5 nice people named Joe.",
+    "Now, I add up all the nice people: 24 (Barry) + 10 (Kevin) + 60 (Julie) + 5 (Joe).",
+    "The total number of nice people is 24 + 10 + 60 + 5 = 99."
+  ],
+  "solution": "99"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Merill has twice as many marbles as Elliot and the two of them together have five fewer marbles than Selma. If Selma has fifty marbles, how many marbles does Merill have?",
+  "steps": [
+    "Let's define the variables. Let the number of marbles Elliot has be E.",
+    "Since Merill has twice as many marbles as Elliot, Merill has 2E marbles.",
+    "We are given that the together, Merill and Elliot have five fewer marbles than Selma. So, E + 2E = 3E marbles is five fewer than the number of marbles Selma has.",
+    "Selma has 50 marbles. So, 3E is five fewer than 50.",
+    "This can be written as the equation: 3E = 50 - 5.",
+    "Calculate 50 - 5, which equals 45.",
+    "So, we have the equation 3E = 45.",
+    "Now, solve for E by dividing both sides of the equation by 3.",
+    "E = 45 / 3, which equals 15.",
+    "Now that we know Elliot has 15 marbles, we can find out how many Merill has since Merill has twice as many marbles as Elliot.",
+    "Calculate Merill's marbles: 2E = 2 * 15 = 30."
+  ],
+  "solution": "30"
+}

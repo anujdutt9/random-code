@@ -1,0 +1,20 @@
+{
+  "query": "Four classmates were comparing their ages based on their birth month. They found out that Jolyn is 2 months older than Therese while Therese is 5 months older than Aivo. Then, Leon is 2 months older than Aivo. How much older in months is Jolyn than Leon?",
+  "steps": [
+    "I need to find the age difference in months between Jolyn and Leon.",
+    "Let's start with the given relationships between their ages.",
+    "Jolyn is 2 months older than Therese.",
+    "Therese is 5 months older than Aivo.",
+    "Leon is 2 months older than Aivo.",
+    "Let's define Aivo's age in months as A.",
+    "Therese's age would then be A + 5 months since she is 5 months older than Aivo.",
+    "Jolyn's age would be Therese's age + 2 months, which makes Jolyn A + 5 + 2 = A + 7 months.",
+    "Leon's age would be Aivo's age + 2 months, which makes Leon A + 2 months.",
+    "Now, I need to find the difference between Jolyn's age and Leon's age.",
+    "Jolyn's age is A + 7 months and Leon's age is A + 2 months.",
+    "To find how much older Jolyn is compared to Leon, I subtract Leon's age from Jolyn's age.",
+    "The calculation is (A + 7) - (A + 2).",
+    "Simplifying, I get A + 7 - A - 2 = 7 - 2 = 5 months."
+  ],
+  "solution": "5"
+}

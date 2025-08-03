@@ -1,0 +1,16 @@
+{
+  "query": "A Ferris wheel can accommodate 70 people in 20 minutes.  If the Ferris wheel is open from 1:00 pm until 7:00 pm, how many people will get to ride?",
+  "steps": [
+    "First, I need to determine how many hours the Ferris wheel is open for.",
+    "The Ferris wheel operates from 1:00 pm to 7:00 pm. I need to calculate the total hours of operation.",
+    "From 1:00 pm to 7:00 pm is 6 hours in total.",
+    "I need to find out how many 20-minute intervals there are in one hour.",
+    "There are 60 minutes in an hour. Dividing 60 minutes by 20 minutes per interval gives 3 intervals per hour.",
+    "Now, I calculate how many 20-minute intervals there are in 6 hours.",
+    "6 hours multiplied by 3 intervals per hour equals 18 intervals.",
+    "Each 20-minute interval can accommodate 70 people.",
+    "Multiply the number of intervals (18) by the number of people per interval (70).",
+    "18 intervals multiplied by 70 people per interval equals 1260 people."
+  ],
+  "solution": "1260"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "A roadwork company is paving a newly constructed 16-mile road. They use a mixture of pitch and gravel to make the asphalt to pave the road. Each truckloads of asphalt uses two bags of gravel and five times as many bags of gravel as it does barrels of pitch to make. It takes three truckloads of asphalt to pave each mile of road. The company paved 4 miles of road on one day, then one mile less than double that on the second day. How many barrels of pitch will the company need to finish the remaining road on the third day?",
+  "steps": [
+    "The total length of the road is 16 miles.",
+    "The company paved 4 miles on the first day.",
+    "On the second day, they paved one mile less than double that of the first day, which is 2 * 4 - 1 = 7 miles.",
+    "So, after two days, they paved 4 + 7 = 11 miles.",
+    "This means 16 - 11 = 5 miles of road are left to be paved on the third day.",
+    "It takes three truckloads of asphalt to pave each mile of road.",
+    "To pave 5 miles, they need 5 * 3 = 15 truckloads of asphalt.",
+    "Each truckload of asphalt uses two bags of gravel and five times as many bags of gravel as barrels of pitch.",
+    "Let P represent the number of barrels of pitch per truckload, then the number of gravel bags per truckload is 5P.",
+    "Since it is given that each truckload uses two bags of gravel, 5P = 2.",
+    "Solving for P gives P = 2/5.",
+    "Therefore, each truckload requires (2/5) barrels of pitch.",
+    "For 15 truckloads, the number of barrels needed is 15 * (2/5).",
+    "Calculating 15 * (2/5) results in 6 barrels of pitch."
+  ],
+  "solution": "6"
+}

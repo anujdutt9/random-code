@@ -1,0 +1,16 @@
+{
+  "query": "Tim spent $50.00 on Chinese take-out.  80% of the cost went to 4 entrees.  The rest of the money went to 2 appetizers that each cost the same amount.  How much was the price of a single appetizer?",
+  "steps": [
+    "Tim's total expenditure on Chinese take-out was $50.00.",
+    "80% of the total cost went to 4 entrees.",
+    "To find the amount spent on the entrees, calculate 80% of $50.00.",
+    "80% of $50.00 is \\( 0.8 \\times 50 = 40 \\).",
+    "Therefore, $40.00 was spent on the 4 entrees.",
+    "The remaining money was spent on the 2 appetizers.",
+    "To find the amount spent on appetizers, subtract the cost of the entrees from the total cost: \\( 50 - 40 = 10 \\).",
+    "Therefore, $10.00 was spent on 2 appetizers.",
+    "Each appetizer cost the same amount, so divide the total amount spent on appetizers by 2.",
+    "The price of a single appetizer is \\( 10 \\div 2 = 5 \\)."
+  ],
+  "solution": "5"
+}

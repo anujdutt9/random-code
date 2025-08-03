@@ -1,0 +1,24 @@
+{
+  "query": "There are 10 books on the table. Two-fifths of them are reading books and three-tenths of them are math books. There is one fewer science book than math books and the rest are history books. How many history books are there?",
+  "steps": [
+    "I need to find out how many of each type of book there are.",
+    "First, I'll calculate the number of reading books.",
+    "Two-fifths of the books are reading books. So, I multiply 10 books by 2/5.",
+    "10 * (2/5) = 4. So, there are 4 reading books.",
+    "Next, I'll calculate the number of math books.",
+    "Three-tenths of the books are math books. So, I multiply 10 books by 3/10.",
+    "10 * (3/10) = 3. So, there are 3 math books.",
+    "Now, I'll find out how many science books there are.",
+    "There is one fewer science book than math books, which means the number of science books is 3 - 1.",
+    "3 - 1 = 2. So, there are 2 science books.",
+    "Now, I'll calculate the number of history books.",
+    "Total number of books is 10.",
+    "Reading books + Math books + Science books + History books = Total books.",
+    "4 (reading) + 3 (math) + 2 (science) + History books = 10.",
+    "4 + 3 + 2 = 9.",
+    "9 + History books = 10.",
+    "History books = 10 - 9.",
+    "History books = 1."
+  ],
+  "solution": "1"
+}

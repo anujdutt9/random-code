@@ -1,0 +1,23 @@
+{
+  "query": "School coaches bought sports equipment. Coach A bought ten new basketballs for $29 each, while coach B bought 14 new baseballs for $2.50 each and a baseball bat for $18. How much more did coach A spend than coach B?",
+  "steps": [
+    "First, I need to calculate how much coach A spent on the basketballs.",
+    "Coach A bought 10 basketballs, each costing $29.",
+    "I multiply 10 basketballs by $29 each.",
+    "10 * 29 = 290",
+    "Coach A spent $290 on basketballs.",
+    "Now, I need to calculate how much coach B spent on baseballs and the bat.",
+    "Coach B bought 14 baseballs, each costing $2.50.",
+    "I multiply 14 baseballs by $2.50 each.",
+    "14 * 2.50 = 35",
+    "Coach B spent $35 on baseballs.",
+    "Coach B also bought a baseball bat for $18.",
+    "Now, I add the cost of the baseball bat to the cost of the baseballs.",
+    "$35 (baseballs) + $18 (bat) = $53",
+    "Coach B spent a total of $53.",
+    "Now, to find out how much more coach A spent than coach B, I subtract the total expenditure of coach B from that of coach A.",
+    "$290 (Coach A) - $53 (Coach B) = $237",
+    "Coach A spent $237 more than coach B."
+  ],
+  "solution": "237"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "On a moonless night, three fireflies danced in the evening breeze.  They were joined by four less than a dozen more fireflies, before two of the fireflies flew away.  How many fireflies remained?",
+  "steps": [
+    "Initially, there are three fireflies.",
+    "The problem mentions they are joined by \"four less than a dozen\" more fireflies.",
+    "A dozen is 12.",
+    "Four less than a dozen is 12 - 4.",
+    "12 - 4 equals 8.",
+    "So, eight additional fireflies joined the initial group.",
+    "Adding the initial three fireflies to the eight that joined: 3 + 8 equals 11.",
+    "Two fireflies then flew away.",
+    "Subtracting two fireflies from 11 leaves 11 - 2.",
+    "11 - 2 equals 9."
+  ],
+  "solution": "9"
+}

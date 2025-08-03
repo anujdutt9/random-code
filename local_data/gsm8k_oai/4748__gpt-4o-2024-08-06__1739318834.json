@@ -1,0 +1,15 @@
+{
+  "query": "There was some money in the cookie jar. Doris spent $6 from the cookie jar. Martha spent half as much as Doris. If there were $15 left in the cookie jar, how much money, in dollars, was there in the cookie jar at first?",
+  "steps": [
+    "First, acknowledge that Doris spent $6 from the cookie jar.",
+    "Martha spent half as much as Doris.",
+    "Calculate half of the amount Doris spent: $6 / 2 = $3.",
+    "So Martha spent $3.",
+    "Add the amounts that Doris and Martha spent together to find the total spent.",
+    "The total amount spent is $6 (Doris) + $3 (Martha) = $9.",
+    "There is $15 left in the cookie jar after both spent money.",
+    "Add the total amount spent to the amount left to find the original amount in the jar.",
+    "Original amount in the cookie jar = $9 (spent) + $15 (left) = $24."
+  ],
+  "solution": "24"
+}

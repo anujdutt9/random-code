@@ -1,0 +1,14 @@
+{
+  "query": "A box of ice cream bars costs $7.50 and contains three bars.  6 friends want to each eat 2 bars.  How much money will that require per person?",
+  "steps": [
+    "I need to find out how many ice cream bars are required for 6 friends if each eats 2 bars.",
+    "6 friends eating 2 bars each means I need a total of 6 x 2 = 12 bars.",
+    "Each box contains 3 bars, so I need to determine how many boxes are required to get at least 12 bars.",
+    "To find the number of boxes needed, I divide the total bars required by the number of bars per box: 12 \u00f7 3 = 4 boxes.",
+    "The cost of each box is $7.50, so I need to calculate the total cost for 4 boxes.",
+    "The total cost for 4 boxes is calculated by multiplying the number of boxes by the price per box: 4 x $7.50 = $30.",
+    "Now, I need to find out how much money this will require per person.",
+    "I divide the total cost by the number of friends: $30 \u00f7 6 = $5 per person."
+  ],
+  "solution": "5"
+}

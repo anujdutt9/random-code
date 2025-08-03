@@ -1,0 +1,15 @@
+{
+  "query": "Jack has four plates with a flower pattern and 8 plates with a checked pattern. He buys new twice as many polka dotted plates as the number of checked plates he currently has, then smashes one of the flowered plates. How many plates does he have left?",
+  "steps": [
+    "Jack starts with 4 plates that have a flower pattern.",
+    "Jack also has 8 plates with a checked pattern.",
+    "The total number of plates before buying the new ones is the sum of flower and checked plates, which is 4 + 8 = 12 plates.",
+    "Jack buys twice as many polka dotted plates as the number of checked plates he currently has. He has 8 checked plates.",
+    "Twice as many polka dotted plates would be 8 * 2 = 16 plates.",
+    "After purchasing the polka dotted plates, Jack's total number of plates is the original 12 plates plus 16 new polka dotted plates.",
+    "The new total number of plates is 12 + 16 = 28 plates.",
+    "Jack smashes one of the flowered plates, so he loses one plate from the total.",
+    "The remaining number of plates becomes 28 - 1 = 27."
+  ],
+  "solution": "27"
+}

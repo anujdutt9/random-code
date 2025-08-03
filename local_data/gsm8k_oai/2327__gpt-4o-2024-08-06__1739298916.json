@@ -1,0 +1,14 @@
+{
+  "query": "John needs to get a new seeing-eye dog.  The adoption fee cost $150 for an untrained dog.  It then takes 12 weeks of training which costs $250 a week.  After the training, she needs certification which costs $3000 but her insurance covers 90% of that.  What is her out-of-pocket cost?",
+  "steps": [
+    "First, calculate the total cost of adopting the dog. The adoption fee is $150.",
+    "Next, calculate the total cost of the training. Training costs $250 per week for 12 weeks.",
+    "Multiply the weekly training cost by the number of weeks: $250 * 12 = $3000.",
+    "Now calculate the certification cost. The certification costs $3000, but her insurance covers 90% of it.",
+    "Calculate the amount covered by insurance: $3000 * 0.90 = $2700.",
+    "Determine the out-of-pocket certification cost by subtracting the covered amount from the total certification cost: $3000 - $2700 = $300.",
+    "Now calculate the total out-of-pocket cost by adding the adoption fee, the training cost, and the out-of-pocket certification cost: $150 + $3000 + $300.",
+    "Perform the final addition to find the total out-of-pocket cost: $150 + $3000 + $300 = $3450."
+  ],
+  "solution": "3450"
+}

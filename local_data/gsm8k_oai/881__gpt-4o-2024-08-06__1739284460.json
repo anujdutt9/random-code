@@ -1,0 +1,14 @@
+{
+  "query": "Mark loves to see shows in theaters. He decided to visit the theater at least once a week. One performance lasts 3 hours. The price of the ticket depends on the time spent in the theater and stands at $5 for each hour. How much will Mark spend on visits to the theater in 6 weeks?",
+  "steps": [
+    "Mark visits the theater at least once a week, and there are 6 weeks mentioned. So, he will visit the theater 6 times.",
+    "I know that each performance lasts 3 hours.",
+    "The price of the ticket is $5 for each hour.",
+    "Therefore, the cost for one show is 3 hours multiplied by $5 per hour.",
+    "This results in $15 per show (3 hours x $5/hour = $15).",
+    "Since Mark will visit the theater 6 times, I need to multiply the cost of one show by the total number of visits to find the total cost.",
+    "The total amount spent is 6 visits multiplied by $15 per visit.",
+    "6 visits x $15 per visit equals $90."
+  ],
+  "solution": "90"
+}

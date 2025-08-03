@@ -1,0 +1,20 @@
+{
+  "query": "68% of all pies are eaten with forks. If there are 2000 pies of all kinds, how many of the pies are not eaten with forks?",
+  "steps": [
+    "I understand the problem is about calculating the number of pies not eaten with forks.",
+    "First, I need to calculate the number of pies that are eaten with forks.",
+    "68% of the pies are eaten with forks.",
+    "68% of 2000 pies can be calculated as (68/100) * 2000.",
+    "I will calculate 68% of 2000 first.",
+    "68/100 = 0.68.",
+    "Now, multiply 0.68 by 2000 to find the number of pies eaten with forks.",
+    "0.68 * 2000 = 1360.",
+    "Now I know 1360 pies are eaten with forks.",
+    "Next, I need to find out how many pies are not eaten with forks.",
+    "The total number of pies is 2000.",
+    "The number of pies not eaten with forks is the total number of pies minus the number of pies eaten with forks.",
+    "2000 - 1360 = 640.",
+    "So, 640 pies are not eaten with forks."
+  ],
+  "solution": "640"
+}

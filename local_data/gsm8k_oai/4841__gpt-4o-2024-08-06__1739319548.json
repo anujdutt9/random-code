@@ -1,0 +1,16 @@
+{
+  "query": "In the last 25 years, 60% of Scrabble champions have been women and the rest have been men. There is one champion per year. Of the men, 40% had a beard. How many men with beards have been Scrabble champion?",
+  "steps": [
+    "First, I need to calculate the total number of Scrabble champions over the last 25 years.",
+    "There has been one champion per year for 25 years, so the total number of champions is 25.",
+    "Next, I need to determine how many of these champions are men.",
+    "60% of the champions are women, which means 100% - 60% = 40% are men.",
+    "Now, I will calculate the number of male champions.",
+    "40% of 25 champions are men: 0.40 * 25 = 10 men.",
+    "Next, I need to find out how many of these men had a beard.",
+    "Of the men, 40% had a beard.",
+    "Calculate 40% of the 10 male champions: 0.40 * 10 = 4 men.",
+    "Therefore, the number of men with beards who have been Scrabble champion is 4."
+  ],
+  "solution": "4"
+}

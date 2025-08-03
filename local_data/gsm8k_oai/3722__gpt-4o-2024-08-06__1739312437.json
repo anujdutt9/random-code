@@ -1,0 +1,14 @@
+{
+  "query": "Jorge is 24 years younger than Simon. In 2005, Jorge is 16 years old. In 2010, how old would Simon be?",
+  "steps": [
+    "First, I need to determine Jorge's birth year.",
+    "In 2005, Jorge is 16 years old, so I subtract 16 from 2005.",
+    "2005 - 16 = 1989. Jorge was born in 1989.",
+    "Jorge is 24 years younger than Simon, so I need to add 24 to Jorge's birth year to find Simon's birth year.",
+    "1989 + 24 = 1965. Simon was born in 1965.",
+    "Now, I need to determine Simon's age in 2010.",
+    "I subtract Simon's birth year from the year 2010.",
+    "2010 - 1965 = 45. Simon is 45 years old in 2010."
+  ],
+  "solution": "45"
+}

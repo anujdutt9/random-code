@@ -1,0 +1,19 @@
+{
+  "query": "Ginger is weaving mats out of colored straw. Each mat takes 20 red straws, 30 orange straws, and half as many green straws as orange straws. How many straws does she need to make 10 mats?",
+  "steps": [
+    "I need to determine the total number of each type of straw needed for one mat.",
+    "One mat requires 20 red straws.",
+    "One mat requires 30 orange straws.",
+    "It also requires half as many green straws as orange straws. Since one mat requires 30 orange straws, it needs 30 / 2 = 15 green straws.",
+    "Now, I need to figure out how many of each straw is needed for 10 mats.",
+    "For 10 mats, the red straws needed are 20 straws/mat * 10 mats = 200 red straws.",
+    "For 10 mats, the orange straws needed are 30 straws/mat * 10 mats = 300 orange straws.",
+    "For 10 mats, the green straws needed are 15 straws/mat * 10 mats = 150 green straws.",
+    "Now I add all the straws together for the total number of straws needed.",
+    "Total red straws: 200",
+    "Total orange straws: 300",
+    "Total green straws: 150",
+    "Total number of straws = 200 + 300 + 150 = 650"
+  ],
+  "solution": "650"
+}

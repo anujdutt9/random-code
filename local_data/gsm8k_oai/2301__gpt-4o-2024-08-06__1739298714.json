@@ -1,0 +1,13 @@
+{
+  "query": "There were 10 snowflakes at first. It snowed an additional 4 snowflakes every 5 minutes. How many minutes passed before there were 58 snowflakes?",
+  "steps": [
+    "First, I need to calculate how many additional snowflakes are needed to reach 58 snowflakes starting from 10.",
+    "Subtract 10 from 58 to find the additional snowflakes needed: \\(58 - 10 = 48\\).",
+    "Now, I know that 48 additional snowflakes are needed.",
+    "Each 5-minute period brings 4 additional snowflakes.",
+    "To find how many 5-minute periods are needed, divide the additional snowflakes by the number of snowflakes added every period: \\(48 \\div 4 = 12\\).",
+    "Therefore, 12 periods of 5 minutes each are needed.",
+    "Calculate the total minutes by multiplying the number of periods by the duration of each period: \\(12 \\times 5 = 60\\)."
+  ],
+  "solution": "60"
+}

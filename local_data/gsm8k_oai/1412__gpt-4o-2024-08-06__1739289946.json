@@ -1,0 +1,17 @@
+{
+  "query": "A mother duck as 8 ducklings. The first 3 ducklings find 5 snails each. Another 3 ducklings find 9 snails each, and the remaining ducklings each find half the number of snails that mother duck finds. If mother duck finds tree times the total number of snails as the first 2 groups of ducklings, how many snails does the family of ducks have collectively?",
+  "steps": [
+    "First, consider the first group of 3 ducklings. Each finds 5 snails.",
+    "Calculate the total number of snails collected by the first group: 3 ducklings * 5 snails/duckling = 15 snails.",
+    "Next, look at the second group of 3 ducklings. Each finds 9 snails.",
+    "Calculate the total number of snails collected by the second group: 3 ducklings * 9 snails/duckling = 27 snails.",
+    "Add the snails collected by the first and second groups to find the total number of snails these 6 ducklings find: 15 snails + 27 snails = 42 snails.",
+    "According to the problem, mother duck finds three times the total number of snails as the first two groups.",
+    "Calculate the number of snails mother duck finds: 3 * 42 snails = 126 snails.",
+    "The problem states that the remaining 2 ducklings each find half the number of snails that mother duck finds.",
+    "Determine how many snails each of these 2 ducklings finds: 126 snails / 2 = 63 snails per duckling.",
+    "Calculate the total number of snails collected by these 2 ducklings: 2 ducklings * 63 snails/duckling = 126 snails.",
+    "Find the total number of snails collected by the entire family: 42 snails (first two groups) + 126 snails (mother duck) + 126 snails (last two ducklings) = 294 snails."
+  ],
+  "solution": "294"
+}

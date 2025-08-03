@@ -1,0 +1,12 @@
+{
+  "query": "Melanie is making meatballs for dinner. The recipe calls for breadcrumbs. To make the breadcrumbs Melanie is going to tear 2 slices of bread into smaller pieces and then add them to a blender to grind them into fine crumbs. First she tears the bread slices each in half, then tears those halves in half. How many bread pieces is Melanie going to put into the blender?",
+  "steps": [
+    "Melanie starts with 2 slices of bread.",
+    "She tears each slice into halves, so each slice becomes 2 pieces.",
+    "With 2 slices, that would be 2 pieces per slice times 2 slices, resulting in 4 pieces after the first tearing.",
+    "She then tears each of those 4 halves in half again.",
+    "So each of the 4 pieces becomes 2 pieces, making it 8 pieces in total (since 4 times 2 equals 8).",
+    "The total number of pieces Melanie is going to put in the blender is 8."
+  ],
+  "solution": "8"
+}

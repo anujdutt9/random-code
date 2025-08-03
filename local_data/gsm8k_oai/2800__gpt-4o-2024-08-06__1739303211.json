@@ -1,0 +1,16 @@
+{
+  "query": "There are 20 boys and 11 girls in the second grade and twice that number in the third grade. How many students are in grades 2 and 3?",
+  "steps": [
+    "First, I need to determine the number of boys in the third grade.",
+    "Since the number of boys in the third grade is twice the number in the second grade, I calculate 20 (boys in 2nd grade) \u00d7 2 = 40 boys in 3rd grade.",
+    "Next, I calculate the number of girls in the third grade.",
+    "Since the number of girls in the third grade is twice the number in the second grade, I calculate 11 (girls in 2nd grade) \u00d7 2 = 22 girls in 3rd grade.",
+    "Now, I find the total number of students in the second grade.",
+    "The total number of students in the second grade is 20 (boys) + 11 (girls) = 31 students.",
+    "Next, I find the total number of students in the third grade.",
+    "The total number of students in the third grade is 40 (boys) + 22 (girls) = 62 students.",
+    "Finally, I calculate the total number of students in both grades.",
+    "The total number of students in grades 2 and 3 is 31 (2nd grade) + 62 (3rd grade) = 93 students."
+  ],
+  "solution": "93"
+}

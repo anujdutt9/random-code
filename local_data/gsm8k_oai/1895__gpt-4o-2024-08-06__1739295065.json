@@ -1,0 +1,15 @@
+{
+  "query": "Natalia is riding a bicycle for the cycling competition. On Monday she rode 40 kilometers and on Tuesday 50 kilometers. On Wednesday she rode 50% fewer kilometers than the day before. On Thursday she rode as many as the sum of the kilometers from Monday and Wednesday. How many kilometers did Natalie ride in total?",
+  "steps": [
+    "First, I need to determine how many kilometers Natalia rode on Wednesday. She rode 50% fewer kilometers than she rode on Tuesday.",
+    "On Tuesday, Natalia rode 50 kilometers. Therefore, 50% of 50 kilometers is 25 kilometers.",
+    "To find the kilometers rode on Wednesday, I subtract 25 kilometers from 50 kilometers, which equals 25 kilometers.",
+    "Next, I need to determine how many kilometers Natalia rode on Thursday. She rode as many kilometers as the sum of the kilometers from Monday and Wednesday.",
+    "On Monday, Natalia rode 40 kilometers and on Wednesday she rode 25 kilometers. I need to add these two amounts together.",
+    "40 kilometers (Monday) + 25 kilometers (Wednesday) = 65 kilometers (Thursday).",
+    "To find the total kilometers Natalia rode over all four days, I need to add together the kilometers from each day: Monday, Tuesday, Wednesday, and Thursday.",
+    "Natalia rode 40 kilometers on Monday, 50 kilometers on Tuesday, 25 kilometers on Wednesday, and 65 kilometers on Thursday.",
+    "Adding these amounts: 40 + 50 + 25 + 65 = 180 kilometers."
+  ],
+  "solution": "180"
+}

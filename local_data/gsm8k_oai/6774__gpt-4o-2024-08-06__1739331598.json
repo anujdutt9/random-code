@@ -1,0 +1,22 @@
+{
+  "query": "At a certain car dealership, 15% of the cars cost less than $15000 and 40% of the cars cost more than $20000. If there are 3000 cars at the dealership, how many of them cost between $15000 and $20000?",
+  "steps": [
+    "First, I need to identify the percentage of cars that cost less than $15000. This is 15% of the total cars.",
+    "The total number of cars at the dealership is 3000.",
+    "To find the number of cars costing less than $15000, I calculate 15% of 3000.",
+    "15% of 3000 is calculated as 0.15 * 3000.",
+    "0.15 * 3000 = 450. So, 450 cars cost less than $15000.",
+    "Next, I need to identify the percentage of cars that cost more than $20000. This is 40% of the total cars.",
+    "To find the number of cars costing more than $20000, I calculate 40% of 3000.",
+    "40% of 3000 is calculated as 0.40 * 3000.",
+    "0.40 * 3000 = 1200. So, 1200 cars cost more than $20000.",
+    "Now, I need to calculate the number of cars that cost between $15000 and $20000.",
+    "The number of cars in this range would be the total number of cars minus the cars costing less than $15000 and the cars costing more than $20000.",
+    "I already have 450 cars costing less than $15000 and 1200 cars costing more than $20000.",
+    "The total number of cars not in this range is 450 + 1200.",
+    "450 + 1200 = 1650.",
+    "To find the number of cars that cost between $15000 and $20000, I subtract 1650 from the total number of cars.",
+    "3000 - 1650 = 1350."
+  ],
+  "solution": "1350"
+}

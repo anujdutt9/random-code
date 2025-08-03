@@ -1,0 +1,30 @@
+{
+  "query": "Dr. Banks had 330 toothbrushes to give away to his patients. He gave away 53 toothbrushes in January. He gave away 67 toothbrushes in February. In March he gave away 46 toothbrushes. In April and May, he gave away the remaining toothbrushes, half each month.  How many more toothbrushes did Dr. Banks give out in the busiest month versus the slowest month?",
+  "steps": [
+    "First, I need to calculate the total number of toothbrushes given away in January, February, and March.",
+    "In January, he gave away 53 toothbrushes.",
+    "In February, he gave away 67 toothbrushes.",
+    "In March, he gave away 46 toothbrushes.",
+    "Now, I will add the toothbrushes given away in January, February, and March: 53 + 67 + 46.",
+    "53 + 67 is 120.",
+    "120 + 46 is 166.",
+    "Dr. Banks gave away 166 toothbrushes in the first three months.",
+    "Next, I will calculate how many toothbrushes he had left to give away in April and May.",
+    "He started with 330 toothbrushes.",
+    "He gave away 166 in the first three months.",
+    "I subtract 166 from 330 to find out how many are left: 330 - 166.",
+    "330 - 166 is 164.",
+    "Dr. Banks had 164 toothbrushes remaining for April and May.",
+    "He gave away the remaining toothbrushes equally in April and May.",
+    "Half of 164 is 82.",
+    "He gave away 82 toothbrushes in both April and May.",
+    "Now, I will determine the number of toothbrushes given away each month.",
+    "January: 53, February: 67, March: 46, April: 82, May: 82.",
+    "Next, I need to identify the busiest month (most toothbrushes given) and the slowest month (fewest toothbrushes given).",
+    "The busiest month is April or May with 82 toothbrushes.",
+    "The slowest month is March with 46 toothbrushes.",
+    "Now I calculate the difference between the busiest and slowest months: 82 - 46.",
+    "82 - 46 is 36."
+  ],
+  "solution": "36"
+}

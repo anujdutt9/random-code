@@ -1,0 +1,17 @@
+{
+  "query": "Johnny has been playing guitar for a while now.  He practices the same amount each day. As of 20 days ago he had half as much practice as he has currently.  How many days will pass before Johnny has 3 times as much practice as he does currently?",
+  "steps": [
+    "Let's define the amount of practice Johnny currently has as \\( x \\).",
+    "20 days ago, Johnny had half as much practice as he currently has, which means he had \\( \\frac{x}{2} \\) practice.",
+    "The practice gained over the last 20 days is \\( x - \\frac{x}{2} = \\frac{x}{2} \\).",
+    "Since he practices the same amount each day, the amount he practices each day is \\( \\frac{\\frac{x}{2}}{20} = \\frac{x}{40} \\).",
+    "Now, we need to find out how many more days it will take for Johnny to have 3 times the current practice amount, which is \\( 3x \\).",
+    "Let the number of additional days be \\( y \\). In \\( y \\) days, Johnny's practice increases by \\( \\frac{x}{40} \\times y \\).",
+    "The total amount of practice after \\( y \\) days will be \\( x + \\frac{x}{40} \\times y \\).",
+    "We set this equal to \\( 3x \\) (as he needs 3 times the practice), so: \\( x + \\frac{x}{40} \\times y = 3x \\).",
+    "Subtract \\( x \\) from both sides: \\(\\frac{x}{40} \\times y = 2x\\).",
+    "Divide both sides by \\( x \\): \\(\\frac{1}{40} \\times y = 2\\).",
+    "Multiply both sides by 40 to solve for \\( y \\): \\( y = 80 \\)."
+  ],
+  "solution": "80"
+}

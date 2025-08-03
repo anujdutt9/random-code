@@ -1,0 +1,16 @@
+{
+  "query": "Sally took 342 pens to her class of 44 students. If she gave 7 pens to each student, left half of the remainder in her locker, and took the rest home, how many did she take home?",
+  "steps": [
+    "Sally starts with 342 pens.",
+    "There are 44 students in the class.",
+    "Each student receives 7 pens.",
+    "Calculate the total number of pens distributed to the students: 44 students * 7 pens/student = 308 pens.",
+    "Subtract the pens distributed to students from the initial number of pens: 342 - 308 = 34 pens.",
+    "Sally has 34 pens remaining after distributing to the students.",
+    "Sally leaves half of the remaining pens in her locker.",
+    "Calculate half of the 34 remaining pens: 34 / 2 = 17 pens.",
+    "Subtract the pens left in the locker from the remainder: 34 - 17 = 17 pens.",
+    "Sally takes the remaining 17 pens home."
+  ],
+  "solution": "17"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Buying a toaster requires an insurance plan that is 20% of the MSRP, plus a mandatory state tax rate of 50% after the insurance plan calculation. Jon chooses to buy a toaster that costs $30 at MSRP. What is the total he must pay?",
+  "steps": [
+    "First, I need to determine the cost of the insurance plan.",
+    "The insurance plan is 20% of the MSRP, which is $30.",
+    "Calculating 20% of $30: 0.20 * 30 = $6.",
+    "Next, I will calculate the total cost before tax by adding the MSRP and the insurance cost.",
+    "The total cost before tax is $30 (MSRP) + $6 (insurance) = $36.",
+    "Now, I need to calculate the mandatory state tax, which is 50% of the total cost before tax.",
+    "The tax is 50% of $36: 0.50 * 36 = $18.",
+    "Finally, I'll calculate the total Jon must pay by adding the total cost before tax and the state tax.",
+    "The total amount Jon must pay is $36 + $18 = $54."
+  ],
+  "solution": "54"
+}

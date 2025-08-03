@@ -1,0 +1,11 @@
+{
+  "query": "In Fifi's closet, she hangs all of her clothes on colored plastic hangers.  She has clothes hanging on 7 pink hangers, 4 green hangers, one less blue hanger than there are green hangers, and one less yellow hanger than there are blue hangers.  What is the total number of colored hangers in Fifi's closet?",
+  "steps": [
+    "First, determine the number of green hangers. The problem states there are 4 green hangers.",
+    "Next, calculate the number of blue hangers. It is stated that there is one less blue hanger than there are green hangers. Since there are 4 green hangers, there must be 4 - 1 = 3 blue hangers.",
+    "Now, find the number of yellow hangers. The problem indicates that there is one less yellow hanger than there are blue hangers. With 3 blue hangers, there must be 3 - 1 = 2 yellow hangers.",
+    "Add up all the hangers. There are 7 pink hangers, 4 green hangers, 3 blue hangers, and 2 yellow hangers.",
+    "Calculate the total number of hangers: 7 (pink) + 4 (green) + 3 (blue) + 2 (yellow) = 16 hangers."
+  ],
+  "solution": "16"
+}

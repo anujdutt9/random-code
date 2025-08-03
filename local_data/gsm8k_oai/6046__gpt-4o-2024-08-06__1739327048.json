@@ -1,0 +1,15 @@
+{
+  "query": "Ellen\u2019s doctor instructed her to eat a 2,200 calorie a day diet. For breakfast, she ate 353 calories. For lunch, she had 885. She had an afternoon snack of 130 calories. How many calories does she have left for dinner?",
+  "steps": [
+    "Ellen has a total daily calorie budget of 2,200 calories.",
+    "For breakfast, she consumed 353 calories.",
+    "For lunch, she consumed 885 calories.",
+    "For her afternoon snack, she consumed 130 calories.",
+    "First, I need to calculate the total calories Ellen has consumed by adding breakfast, lunch, and snack.",
+    "353 (breakfast) + 885 (lunch) = 1,238 calories for breakfast and lunch together.",
+    "1,238 calories (breakfast and lunch) + 130 calories (snack) = 1,368 total calories consumed so far.",
+    "Next, I need to determine how many calories she has left for dinner by subtracting the calories consumed from her daily calorie budget.",
+    "2,200 (total daily calorie budget) - 1,368 (calories consumed) = 832 calories remaining for dinner."
+  ],
+  "solution": "832"
+}

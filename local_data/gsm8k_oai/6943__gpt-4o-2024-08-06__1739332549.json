@@ -1,0 +1,15 @@
+{
+  "query": "Lisa is a member of the photography club at school. Every weekend the club will go anywhere to take photos. Leslie took 10 photos of animals to share with the club. She also took 3 times as many photos of flowers as animals and took 10 fewer scenery than the flowers. If Lisa took 15 fewer photos last weekend, How many photos did she take then?",
+  "steps": [
+    "Leslie took 10 photos of animals.",
+    "Leslie took 3 times as many photos of flowers as animals.",
+    "To find the number of flower photos, I calculate \\(3 \\times 10 = 30\\).",
+    "Leslie took 10 fewer scenery photos than the number of flower photos.",
+    "To find the number of scenery photos, I calculate \\(30 - 10 = 20\\).",
+    "To find the total number of photos Leslie took, I sum up the photos: animals + flowers + scenery.",
+    "The total is \\(10 + 30 + 20 = 60\\).",
+    "Lisa took 15 fewer photos than Leslie last weekend.",
+    "To find the number of photos Lisa took, I calculate \\(60 - 15 = 45\\)."
+  ],
+  "solution": "45"
+}

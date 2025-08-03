@@ -1,0 +1,16 @@
+{
+  "query": "Josephine receives a bill from the hospital for 5000$.  50 percent of the bill is for medication.  25 percent of the remaining bill is for overnight stays, and 175$ is for food.  The rest of the bill is for the ambulance ride.  How much did the ambulance ride cost?",
+  "steps": [
+    "The total bill is $5000.",
+    "50 percent of the bill is for medication.",
+    "Calculate 50 percent of $5000: 0.50 * 5000 = $2500.",
+    "Subtract the cost of medication from the total bill: 5000 - 2500 = $2500.",
+    "25 percent of the remaining bill is for overnight stays.",
+    "Calculate 25 percent of $2500: 0.25 * 2500 = $625.",
+    "Subtract the cost of overnight stays from the remaining bill: 2500 - 625 = $1875.",
+    "$175 is for food.",
+    "Subtract the cost of food from the remaining bill: 1875 - 175 = $1700.",
+    "The rest of the bill is for the ambulance ride, which costs $1700."
+  ],
+  "solution": "1700"
+}

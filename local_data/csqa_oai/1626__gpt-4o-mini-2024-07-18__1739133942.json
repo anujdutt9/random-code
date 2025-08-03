@@ -1,0 +1,14 @@
+{
+  "query": "Question: What sort of hall do you have a large meeting in?\n\nChoices:\nA: church\nB: conference\nC: dormitory\nD: large building\nE: library",
+  "steps": [
+    "First, we need to consider the context of a \"large meeting.\" Large meetings typically require venues that can accommodate many people comfortably.",
+    "Next, we evaluate the provided options for suitability in hosting a large meeting.",
+    "Option A, \"church,\" may host large gatherings, but it is primarily designated for religious purposes and might not be ideal for non-religious large meetings.",
+    "Option B, \"conference,\" suggests a space that is specifically designed for meetings, seminars, or conferences. This makes it a strong candidate for hosting large meetings.",
+    "Option C, \"dormitory,\" is primarily residential and not suited for large meetings, making it an unlikely choice.",
+    "Option D, \"large building,\" is vague and could technically fit the criteria, but it does not specify if that building is designed for meetings, making it less ideal than other options.",
+    "Option E, \"library,\" is typically quiet and used for studying or reading, which may not be conducive to a large meeting atmosphere.",
+    "Considering all the options, a \"conference\" is specifically tailored for large meetings, making it the most appropriate choice."
+  ],
+  "solution": "B"
+}

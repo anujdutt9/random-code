@@ -1,0 +1,16 @@
+{
+  "query": "Bill is trying to decide whether to make blueberry muffins or raspberry muffins. Blueberries cost $5.00 per 6 ounce carton and raspberries cost $3.00 per 8 ounce carton. If Bill is going to make 4 batches of muffins, and each batch takes 12 ounces of fruit, how much money would he save by using raspberries instead of blueberries?",
+  "steps": [
+    "First, I need to calculate how many total ounces of fruit Bill needs for 4 batches of muffins.",
+    "Since each batch takes 12 ounces of fruit, and Bill is making 4 batches, he needs 12 ounces/batch * 4 batches = 48 ounces of fruit in total.",
+    "Now I'll calculate how much it would cost if he uses blueberries. A carton of blueberries is 6 ounces and costs $5.00.",
+    "To get 48 ounces using 6-ounce blueberry cartons: 48 ounces / 6 ounces/carton = 8 cartons.",
+    "The cost for 8 blueberry cartons: 8 cartons * $5.00/carton = $40.00.",
+    "Next, calculate how much it would cost if he uses raspberries. A carton of raspberries is 8 ounces and costs $3.00.",
+    "To get 48 ounces using 8-ounce raspberry cartons: 48 ounces / 8 ounces/carton = 6 cartons.",
+    "The cost for 6 raspberry cartons: 6 cartons * $3.00/carton = $18.00.",
+    "Now I find the difference in cost between using blueberries and raspberries: $40.00 - $18.00 = $22.00.",
+    "Therefore, Bill would save $22.00 by using raspberries instead of blueberries."
+  ],
+  "solution": "22"
+}

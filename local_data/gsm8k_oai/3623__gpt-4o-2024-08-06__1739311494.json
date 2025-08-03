@@ -1,0 +1,18 @@
+{
+  "query": "Mark is a lawyer who works at the county courthouse every day. It takes him 5 minutes to find parking and 3 minutes to walk into the courthouse. 2 days of the week it takes him 30 minutes to get through the metal detector and the other 3 days are less crowded so he gets through in 10 minutes. How long does he spend on all these activities in a week with 5 work days?",
+  "steps": [
+    "First, I need to calculate the amount of time Mark spends on these activities each day for the two crowded days.",
+    "On crowded days, it takes Mark 5 minutes to park, 3 minutes to walk, and 30 minutes for the metal detector.",
+    "So, on a crowded day, the total time is 5 + 3 + 30 = 38 minutes.",
+    "Next, I need to calculate the amount of time Mark spends on these activities each day for the less crowded days.",
+    "On less crowded days, it takes him 5 minutes to park, 3 minutes to walk, and 10 minutes for the metal detector.",
+    "So, on a less crowded day, the total time is 5 + 3 + 10 = 18 minutes.",
+    "Now, I will calculate the weekly time spent on these activities for the two crowded days.",
+    "On the two crowded days, the total time spent is 2 days * 38 minutes = 76 minutes.",
+    "Then, I will calculate the weekly time spent on these activities for the three less crowded days.",
+    "On the three less crowded days, the total time spent is 3 days * 18 minutes = 54 minutes.",
+    "Finally, I will add the times for the crowded days and the less crowded days to find the total time spent in a week.",
+    "The total weekly time is 76 minutes (crowded) + 54 minutes (less crowded) = 130 minutes."
+  ],
+  "solution": "130"
+}

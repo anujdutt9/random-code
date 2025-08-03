@@ -1,0 +1,16 @@
+{
+  "query": "Bill has 6 times as many nuts as Harry, and Harry has twice as many nuts as Sue. If Sue has 48 nuts, how many do Bill and Harry have combined?",
+  "steps": [
+    "Sue has 48 nuts.",
+    "Harry has twice as many nuts as Sue.",
+    "To find out how many nuts Harry has, I multiply the number of nuts Sue has by 2.",
+    "Harry has 48 \u00d7 2 = 96 nuts.",
+    "Bill has 6 times as many nuts as Harry.",
+    "To find out how many nuts Bill has, I multiply the number of nuts Harry has by 6.",
+    "Bill has 96 \u00d7 6 = 576 nuts.",
+    "Now, I need to find the total number of nuts Bill and Harry have combined.",
+    "I add the number of nuts Bill has to the number of nuts Harry has.",
+    "576 + 96 = 672"
+  ],
+  "solution": "672"
+}

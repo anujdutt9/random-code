@@ -1,0 +1,13 @@
+{
+  "query": "A supermarket has 2355 loaves of bread at the start of the day. By afternoon, 629 loaves are sold, and a further 489 loaves are delivered to the supermarket by their supplier in the evening. How many loaves of bread are there at the end of the day?",
+  "steps": [
+    "The supermarket starts with 2355 loaves of bread.",
+    "By afternoon, 629 loaves are sold.",
+    "I need to subtract the sold loaves from the starting amount to find out how many loaves are left by the afternoon.",
+    "2355 loaves - 629 loaves = 1726 loaves remaining.",
+    "In the evening, a delivery brings 489 additional loaves to the supermarket.",
+    "I need to add the delivered loaves to the remaining loaves to find the total number of loaves at the end of the day.",
+    "1726 loaves + 489 loaves = 2215 loaves."
+  ],
+  "solution": "2215"
+}

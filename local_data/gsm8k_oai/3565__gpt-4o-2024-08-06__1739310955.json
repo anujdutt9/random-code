@@ -1,0 +1,15 @@
+{
+  "query": "Everett built a rectangular concrete patio that was four times as long as it was wide.  If the perimeter of the patio was 100 feet, what was the length of the patio, in feet?",
+  "steps": [
+    "First, let's define the variables: let the width of the patio be \\( w \\) feet.",
+    "The length of the patio would then be \\( 4w \\) feet because it is four times as long as the width.",
+    "The formula for the perimeter of a rectangle is \\( P = 2(\\text{length} + \\text{width}) \\).",
+    "We know from the problem that the perimeter \\( P = 100 \\) feet, so we can write the equation:\n\n\\[ 100 = 2(4w + w) \\]",
+    "Simplify inside the parentheses:\n\n\\[ 100 = 2(5w) \\]",
+    "Multiply through:\n\n\\[ 100 = 10w \\]",
+    "Solve for \\( w \\) by dividing both sides by 10:\n\n\\[ w = 10 \\]",
+    "Now that we have \\( w = 10 \\), the length \\( l = 4w = 4 \\times 10 \\).",
+    "Calculate the length:\n\n\\[ l = 40 \\]"
+  ],
+  "solution": "40"
+}

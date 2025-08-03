@@ -1,0 +1,20 @@
+{
+  "query": "Mustafa buys a fridge, a TV and a computer with a total budget of $1600. The TV costs $600 and the fridge costs $500 more than the computer. How much does the computer cost?",
+  "steps": [
+    "I need to establish a relationship between the costs of the fridge, the TV, and the computer.",
+    "I know that the total budget for all three items is $1600.",
+    "I know the cost of the TV is $600.",
+    "I will now express the cost of the fridge and computer in terms of a variable. Let the computer cost $C.",
+    "According to the problem, the fridge costs $500 more than the computer. So, the cost of the fridge is $C + $500.",
+    "Now I put this information into an equation: the sum of the TV, the fridge, and the computer costs is $1600.",
+    "The equation is: $600 (TV) + $C (computer) + ($C + $500) (fridge) = $1600.",
+    "I simplify the equation: $600 + $C + $C + $500 = $1600.",
+    "This simplifies to: $2C + $1100 = $1600.",
+    "I solve for $C by subtracting $1100 from both sides: $2C = $1600 - $1100.",
+    "The simplified equation is: $2C = $500.",
+    "I now divide both sides by 2 to solve for $C: $C = $500 / 2.",
+    "This simplifies to $C = $250.",
+    "So, the cost of the computer is $250."
+  ],
+  "solution": "250"
+}

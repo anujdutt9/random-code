@@ -1,0 +1,22 @@
+{
+  "query": "In a certain forest, there are 4 species of trees: oak, pine, spruce, and birch. There is a total of 4000 trees in the forest. Spruces make up 10% of all the trees, and pines 13%. There are as many oaks as spruces and pines put together. How many birches are there in the forest?",
+  "steps": [
+    "First, I need to calculate the number of spruce trees.",
+    "Spruces make up 10% of the total number of trees.",
+    "Since there are 4000 trees in total, 10% of 4000 is calculated as (10/100) * 4000 = 400.",
+    "Therefore, there are 400 spruce trees.",
+    "Next, I need to calculate the number of pine trees.",
+    "Pines make up 13% of the total number of trees.",
+    "13% of 4000 is calculated as (13/100) * 4000 = 520.",
+    "Therefore, there are 520 pine trees.",
+    "Now, I know that there are as many oaks as the total number of spruces and pines.",
+    "The total number of spruces and pines is 400 + 520 = 920.",
+    "Therefore, there are 920 oak trees.",
+    "Now, I need to calculate the number of birches.",
+    "The total number of trees is 4000, and I know the number of spruce, pine, and oak trees.",
+    "The total number of spruce, pine, and oak trees is 400 + 520 + 920 = 1840.",
+    "The number of birches is the total number of trees minus the number of spruce, pine, and oak trees.",
+    "Birches = 4000 - 1840 = 2160."
+  ],
+  "solution": "2160"
+}

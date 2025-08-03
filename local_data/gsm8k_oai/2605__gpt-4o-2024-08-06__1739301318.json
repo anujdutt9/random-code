@@ -1,0 +1,14 @@
+{
+  "query": "John adopts a dog from a shelter.  The dog ends up having health problems and this requires 3 vet appointments,  which cost $400 each.  After the first appointment, John paid $100 for pet insurance that covers 80% of the subsequent visits.  How much did he pay in total?",
+  "steps": [
+    "First, let's find out the cost of the first vet appointment. The first appointment costs $400.",
+    "After the first appointment, John gets insurance for $100. Let's add this first cost and the insurance cost together: $400 (first visit) + $100 (insurance) = $500.",
+    "Now we need to calculate the cost of the two remaining appointments after the insurance kicks in. Each appointment costs $400, and the insurance covers 80% of this cost.",
+    "80% of $400 is calculated as follows: $400 * 0.80 = $320. This amount is covered by the insurance.",
+    "Since $320 is covered, John has to pay the remaining 20%. Let's calculate 20% of $400: $400 * 0.20 = $80.",
+    "Each of the two remaining appointments will cost John $80 after the insurance coverage.",
+    "Now calculate the total cost for the remaining two appointments: 2 * $80 = $160.",
+    "Add the cost of the first appointment and the insurance to the cost of the two remaining appointments: $500 (first appointment plus insurance) + $160 (second and third appointments) = $660."
+  ],
+  "solution": "660"
+}

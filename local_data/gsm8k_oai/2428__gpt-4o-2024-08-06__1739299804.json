@@ -1,0 +1,13 @@
+{
+  "query": "Wilson decides to go sledding on some nearby hills. On the 2 tall hills, he sleds down them 4 times each and on the 3 small hills, he sled down them half as often as he sleds down the tall hills. How many times did he sled down the hills?",
+  "steps": [
+    "Wilson sleds down each of the 2 tall hills 4 times.",
+    "This means he sleds down a total of 2 hills * 4 times per hill = 8 times on the tall hills.",
+    "There are 3 small hills.",
+    "Wilson sleds down each small hill half as often as he sleds down the tall hills, which is 4 / 2 = 2 times per small hill.",
+    "This means he sleds down a total of 3 hills * 2 times per hill = 6 times on the small hills.",
+    "To find the total number of times Wilson sleds down all the hills, I add the number of times he sleds down the tall hills and the small hills together.",
+    "8 times on tall hills + 6 times on small hills = 14 times."
+  ],
+  "solution": "14"
+}

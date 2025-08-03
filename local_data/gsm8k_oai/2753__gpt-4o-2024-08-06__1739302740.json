@@ -1,0 +1,16 @@
+{
+  "query": "Nina enjoys keeping insects as pets. She has 3 spiders and 50 ants. Each spider has 8 eyes. Each ant has 2 eyes. How many eyes are there in total among Nina\u2019s pet insects?",
+  "steps": [
+    "First, I need to calculate the total number of eyes that all the spiders have.",
+    "There are 3 spiders, and each spider has 8 eyes.",
+    "To find the total number of spider eyes, I multiply 3 spiders by 8 eyes per spider.",
+    "3 spiders * 8 eyes per spider = 24 eyes from spiders.",
+    "Next, I need to calculate the total number of eyes that all the ants have.",
+    "There are 50 ants, and each ant has 2 eyes.",
+    "To find the total number of ant eyes, I multiply 50 ants by 2 eyes per ant.",
+    "50 ants * 2 eyes per ant = 100 eyes from ants.",
+    "Now, I add the total number of eyes from the spiders and the ants to get the total number of eyes among all the insects.",
+    "24 eyes from spiders + 100 eyes from ants = 124 eyes in total."
+  ],
+  "solution": "124"
+}

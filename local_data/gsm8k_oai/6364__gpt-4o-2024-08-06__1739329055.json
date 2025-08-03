@@ -1,0 +1,16 @@
+{
+  "query": "Toby held a garage sale to raise money to support friends who have lost their jobs.  Of all the items that he sold during the garage sale, three of the items he sold made up 75% of the total amount of sales money he earned.  He sold a treadmill for $100, a chest of drawers for half as much as he made for selling the treadmill, and he sold a television for three times what he earned for selling the treadmill.  What is the total sum of money, in dollars, that Toby made at the garage sale?",
+  "steps": [
+    "First, I know that Toby sold a treadmill for $100.",
+    "He sold a chest of drawers for half as much as the treadmill. So, he sold the chest of drawers for $100 / 2 = $50.",
+    "He sold the television for three times what he made for the treadmill. So, he sold the television for $100 * 3 = $300.",
+    "Now, I can calculate the total from these three items: $100 (treadmill) + $50 (chest of drawers) + $300 (television).",
+    "The sum from these three items is $100 + $50 + $300 = $450.",
+    "These three items made up 75% of the total amount of sales.",
+    "To find the total amount of sales, I need to find 100% since $450 is 75%.",
+    "Setting up the equation for the total amount (X): 0.75 * X = $450.",
+    "Solving for X gives: X = $450 / 0.75.",
+    "Calculating X gives: X = $600."
+  ],
+  "solution": "600"
+}

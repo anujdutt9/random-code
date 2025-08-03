@@ -1,0 +1,17 @@
+{
+  "query": "Hershel has 10 betta fish and 15 goldfish in a bowl. His friend Bexley brings him 2/5 times as many betta fish and 1/3 times as many goldfish. If Hershel gifts his sister 1/2 of the fish, calculate the total number of fish he has remaining in the bowl.",
+  "steps": [
+    "First, I need to calculate the additional number of betta fish that Hershel receives. Hershel initially has 10 betta fish, and Bexley brings him 2/5 times as many betta fish.",
+    "2/5 of 10 betta fish is calculated as follows: (2/5) * 10 = 4 betta fish.",
+    "Bexley brings Hershel 4 more betta fish.",
+    "Now, I will calculate the additional number of goldfish Hershel receives. Hershel initially has 15 goldfish, and Bexley brings him 1/3 times as many goldfish.",
+    "1/3 of 15 goldfish is calculated as follows: (1/3) * 15 = 5 goldfish.",
+    "Bexley brings Hershel 5 more goldfish.",
+    "Now I will find the new total number of betta fish Hershel has. He initially had 10 betta fish and receives 4 more, so he has 10 + 4 = 14 betta fish.",
+    "Next, I will find the new total number of goldfish Hershel has. He initially had 15 goldfish and receives 5 more, so he has 15 + 5 = 20 goldfish.",
+    "Now, I will calculate the total number of fish (both betta fish and goldfish) in the bowl after Bexley adds his fish. This is 14 betta fish + 20 goldfish = 34 fish.",
+    "Hershel then gives 1/2 of his total fish to his sister. I will calculate how many fish Hershel gives away: (1/2) * 34 fish = 17 fish.",
+    "Finally, I need to find the number of fish remaining with Hershel. He started with 34 fish, gave away 17 fish, and thus has 34 - 17 = 17 fish remaining."
+  ],
+  "solution": "17"
+}

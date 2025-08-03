@@ -1,0 +1,15 @@
+{
+  "query": "While Paul watches movies, he runs on his treadmill. He can run a mile in 12 minutes. He watches two movies, which are an average length of 1.5 hours. How many miles does he run?",
+  "steps": [
+    "Paul runs a mile in 12 minutes.",
+    "He watches two movies, so I need to find the total time he spends watching movies.",
+    "The average length of one movie is 1.5 hours. To find the total time for two movies, I will multiply by 2.",
+    "1.5 hours multiplied by 2 is 3 hours.",
+    "Now I need to convert the total movie watching time from hours to minutes because the running pace is in minutes per mile.",
+    "1 hour is equal to 60 minutes. Therefore, 3 hours is 3 times 60 minutes.",
+    "3 times 60 is 180 minutes.",
+    "Paul runs a mile in 12 minutes. To find out how many miles he runs in 180 minutes, I will divide 180 minutes by 12 minutes per mile.",
+    "180 divided by 12 is 15."
+  ],
+  "solution": "15"
+}

@@ -1,0 +1,23 @@
+{
+  "query": "April went to a concert that has two bands. 2/3 of the audience was there for the second band and 1/3 was there for the first band. 50% of the audience there for the second band is under the age of 30. Of this group, 60% are women and there are 20 men. How many people are at the concert?",
+  "steps": [
+    "I need to find out how many people are at the concert.",
+    "There's a two-band concert and 2/3 of the audience is there for the second band.",
+    "50% of those who are there for the second band are under the age of 30.",
+    "Out of the people under 30, 60% are women and there are 20 men.",
+    "First, calculate the number of people in the under-30 group for the second band.",
+    "If 40% are men, then 20 men are 40% of the under-30 group.",
+    "Let's set X as the total under-30 group. If 40% of X is 20 men, then 0.4X = 20.",
+    "Solve for X: X = 20 / 0.4.",
+    "X = 50, so there are 50 people under the age of 30 there for the second band.",
+    "Since this is 50% of the audience for the second band, then the total people there for the second band is 50 / 0.5.",
+    "Total people for the second band = 100.",
+    "The total audience is composed of those there for the first band and those there for the second band.",
+    "Given 2/3 of the entire audience is for the second band, let's denote the total audience by Y.",
+    "Then (2/3)Y = 100.",
+    "Solve for Y: Y = 100 / (2/3).",
+    "Y = 100 * (3/2).",
+    "Y = 150."
+  ],
+  "solution": "150"
+}

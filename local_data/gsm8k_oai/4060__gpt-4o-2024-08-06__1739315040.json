@@ -1,0 +1,20 @@
+{
+  "query": "There is a square playground that has a side length of 12 meters. There is a maintenance building on the playground that measures 8 meters by 5 meters. How many square meters of the playground is not covered by the maintenance building?",
+  "steps": [
+    "First, I need to find the area of the square playground.",
+    "The area of a square is given by side length squared.",
+    "The side length of the playground is 12 meters.",
+    "The area of the playground is 12 meters * 12 meters.",
+    "The area of the playground is 144 square meters.",
+    "Next, I need to find the area of the maintenance building.",
+    "The maintenance building is 8 meters by 5 meters.",
+    "I calculate the area by multiplying the length and the width.",
+    "The area of the maintenance building is 8 meters * 5 meters.",
+    "The area of the maintenance building is 40 square meters.",
+    "Now, to find the area of the playground not covered by the building, I subtract the building's area from the playground's area.",
+    "I subtract 40 square meters from 144 square meters.",
+    "144 - 40 equals 104.",
+    "The area of the playground not covered by the building is 104 square meters."
+  ],
+  "solution": "104"
+}

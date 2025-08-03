@@ -1,0 +1,24 @@
+{
+  "query": "Mr. Johnson has a prescription with enough pills for 30 days. After four-fifths of the days, he has 12 pills left. How many pills is Mr. Johnson supposed to take a day if he takes the same dose daily?",
+  "steps": [
+    "First, I need to calculate how many days four-fifths of the 30 days are.",
+    "Four-fifths of 30 days is calculated as (4/5) * 30.",
+    "(4/5) * 30 equals 24 days.",
+    "Mr. Johnson has taken his pills for 24 days.",
+    "Next, I need to find out how many pills Mr. Johnson has used in these 24 days.",
+    "He started with a certain number of pills and has 12 pills left after 24 days.",
+    "Originally, he had enough pills for 30 days.",
+    "To find out how many pills he had originally, I\u2019ll assume the daily dose is \"x\" pills.",
+    "Then, the total number of pills he originally had is 30 days * x pills/day = 30x pills.",
+    "After 24 days, he should have consumed 24x pills.",
+    "According to the information given, he has 12 pills left.",
+    "This means he originally had 24x pills consumed and 12 pills remaining from the 30x total pills.",
+    "Therefore, 30x - 24x = 12",
+    "Simplifying 30x - 24x gives me 6x.",
+    "So, 6x = 12.",
+    "Now I solve for x by dividing both sides by 6.",
+    "12 / 6 equals 2.",
+    "Therefore, x = 2."
+  ],
+  "solution": "2"
+}

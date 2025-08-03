@@ -1,0 +1,17 @@
+{
+  "query": "Edward the plumber is replacing a pipe in a bathroom wall.  He needs to use 40 feet of copper pipe to complete the job.  For every 5 feet of pipe, Edward must use one tightening bolt, and for every bolt, he uses two washers.  He buys a bag of 20 washers for the job.  After he completes the bathroom job, how many washers will be remaining in the bag?",
+  "steps": [
+    "Edward needs 40 feet of copper pipe in total.",
+    "For every 5 feet of pipe, he needs one tightening bolt.",
+    "Let's calculate how many bolts he needs for 40 feet of pipe.",
+    "40 feet / 5 feet per bolt = 8 bolts.",
+    "Edward needs 8 bolts for the job.",
+    "Each bolt requires 2 washers.",
+    "Let's calculate the total washers needed by multiplying the number of bolts by the number of washers per bolt.",
+    "8 bolts x 2 washers per bolt = 16 washers.",
+    "Edward buys a bag of 20 washers for the job.",
+    "Let's find out how many washers will be remaining after he uses 16 washers.",
+    "20 washers - 16 washers = 4 washers."
+  ],
+  "solution": "4"
+}

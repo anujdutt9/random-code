@@ -1,0 +1,16 @@
+{
+  "query": "At Snowflake Plastics, each employee gets 10 sick days and 10 vacation days per year.  If Mark uses half his allotment of both types of days in a year, how many hours' worth of days does he have left if each day covers an 8-hour long workday?",
+  "steps": [
+    "Mark starts with 10 sick days per year.",
+    "Mark also starts with 10 vacation days per year.",
+    "Half of the 10 sick days is 10 / 2 = 5 sick days used.",
+    "Half of the 10 vacation days is 10 / 2 = 5 vacation days used.",
+    "If Mark uses 5 sick days, he has 10 - 5 = 5 sick days left.",
+    "If Mark uses 5 vacation days, he has 10 - 5 = 5 vacation days left.",
+    "Each day represents an 8-hour workday.",
+    "For the 5 sick days left, that's 5 days * 8 hours/day = 40 hours.",
+    "For the 5 vacation days left, that's 5 days * 8 hours/day = 40 hours.",
+    "Adding the hours from sick and vacation days together, Mark has 40 hours + 40 hours = 80 hours left."
+  ],
+  "solution": "80"
+}

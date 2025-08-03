@@ -1,0 +1,14 @@
+{
+  "query": "For 12 servings of Chicken Surprise, you need 4.5 pounds of chicken and 24 ounces of stuffing. How many ounces would one serving of Chicken Surprise be?",
+  "steps": [
+    "First, I need to convert the weight of chicken from pounds to ounces since the question asks for the weight in ounces.",
+    "There are 16 ounces in a pound.",
+    "So, 4.5 pounds of chicken is 4.5 x 16 = 72 ounces of chicken.",
+    "Next, I need to find the total weight of all ingredients in ounces.",
+    "The stuffing is already given in ounces, 24 ounces.",
+    "Adding the chicken and stuffing together, the total weight for 12 servings is 72 ounces + 24 ounces = 96 ounces.",
+    "To find the weight of one serving, I need to divide the total weight by the number of servings, which is 12.",
+    "96 ounces divided by 12 servings equals 8 ounces per serving."
+  ],
+  "solution": "8"
+}

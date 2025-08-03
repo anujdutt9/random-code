@@ -1,0 +1,15 @@
+{
+  "query": "Jesse is playing with a pile of building blocks. He first builds a building with 80 building blocks. Then he builds a farmhouse with 123 building blocks. He adds a fenced-in area next to the farm made of 57 building blocks. If Jesse has 84 building blocks left, how many building blocks did he start with?",
+  "steps": [
+    "Jesse builds a building with 80 building blocks.",
+    "He then builds a farmhouse with 123 building blocks.",
+    "He adds a fenced-in area with 57 building blocks.",
+    "To find the total number of blocks used so far, I need to add the blocks from the building, farmhouse, and fence.",
+    "80 (building) + 123 (farmhouse) = 203 blocks used so far.",
+    "203 (so far) + 57 (fenced area) = 260 blocks used in total.",
+    "Jesse has 84 building blocks left.",
+    "To find out how many he started with, add the number of blocks left to the total number used.",
+    "260 (used) + 84 (left) = 344 building blocks originally."
+  ],
+  "solution": "344"
+}

@@ -1,0 +1,22 @@
+{
+  "query": "In Mr. Bolton's class of 25 students, 2/5 of the students like maths, 1/3 of the remaining students like science, and the rest of the students like history. Calculate the combined total number of students who like history and those who like maths.",
+  "steps": [
+    "The total number of students in Mr. Bolton's class is 25.",
+    "2/5 of these students like maths.",
+    "To calculate the number of students who like maths, multiply 25 by 2/5.",
+    "25 * (2/5) = 10",
+    "So, 10 students like maths.",
+    "Subtract the number of students who like maths from the total number of students to find the remaining students.",
+    "25 - 10 = 15",
+    "1/3 of the remaining students like science.",
+    "To calculate the number of students who like science, multiply the remaining 15 students by 1/3.",
+    "15 * (1/3) = 5",
+    "So, 5 students like science.",
+    "Subtract the number of students who like science from the remaining 15 students to find the number of students who like history.",
+    "15 - 5 = 10",
+    "So, 10 students like history.",
+    "Combine the number of students who like history and those who like maths.",
+    "10 (maths) + 10 (history) = 20"
+  ],
+  "solution": "20"
+}

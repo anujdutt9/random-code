@@ -1,0 +1,16 @@
+{
+  "query": "9 years from now, John will be 3 times as old as he was 11 years ago. How old is he now?",
+  "steps": [
+    "Let's use the variable \\( x \\) to represent John's current age.",
+    "First, calculate John's age 11 years ago. It would be \\( x - 11 \\).",
+    "Next, determine what three times his age 11 years ago would be. This is \\( 3(x - 11) \\).",
+    "Now, calculate John's age 9 years from now. This would be \\( x + 9 \\).",
+    "According to the problem, 9 years from now John will be 3 times as old as he was 11 years ago. Set up the equation: \\( x + 9 = 3(x - 11) \\).",
+    "Solve the equation \\( x + 9 = 3x - 33 \\).",
+    "Subtract \\( x \\) from both sides to get \\( 9 = 2x - 33 \\).",
+    "Add 33 to both sides to get \\( 42 = 2x \\).",
+    "Divide both sides by 2 to solve for \\( x \\): \\( x = 21 \\).",
+    "Therefore, John's current age is 21."
+  ],
+  "solution": "21"
+}

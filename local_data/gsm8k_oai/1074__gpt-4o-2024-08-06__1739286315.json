@@ -1,0 +1,16 @@
+{
+  "query": "A bathroom has 10 6 inch tiles along its width and 20 6 inch tiles along its length.  What is the square footage of the bathroom?",
+  "steps": [
+    "First, I need to find the dimensions of the bathroom in inches.",
+    "The width of the bathroom is 10 tiles times 6 inches per tile, which equals 60 inches.",
+    "Similarly, the length of the bathroom is 20 tiles times 6 inches per tile, which equals 120 inches.",
+    "Next, I need to calculate the area of the bathroom in square inches.",
+    "The area is the width times the length, so it's 60 inches times 120 inches.",
+    "60 times 120 equals 7200 square inches.",
+    "Now, I need to convert square inches to square feet.",
+    "There are 12 inches in a foot, so a square foot is 12 inches by 12 inches, which equals 144 square inches.",
+    "To convert square inches to square feet, I need to divide the area in square inches by 144.",
+    "7200 divided by 144 equals 50."
+  ],
+  "solution": "50"
+}

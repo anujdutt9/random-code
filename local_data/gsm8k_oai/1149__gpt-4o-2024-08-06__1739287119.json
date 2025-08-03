@@ -1,0 +1,13 @@
+{
+  "query": "Mandy started reading books with only 8 pages when she was 6 years old. By the time she was twice that age, she was reading books 5 times longer, and 8 years later, she was reading books 3 times longer than that. Presently, she reads books that are 4 times the previous length. How many pages do the books she reads now have?",
+  "steps": [
+    "Mandy started reading books with 8 pages when she was 6 years old.",
+    "When she was twice that age, meaning 12 years old, she was reading books 5 times longer.",
+    "Calculate the length of the books she was reading at 12 years old: 8 pages * 5 = 40 pages.",
+    "8 years after she was 12 years old, meaning when she was 20 years old, she was reading books 3 times longer than the books at 12 years old.",
+    "Calculate the length of the books she was reading at 20 years old: 40 pages * 3 = 120 pages.",
+    "Presently, she reads books that are 4 times the previous length, which was 120 pages.",
+    "Calculate the current length of the books she reads: 120 pages * 4 = 480 pages."
+  ],
+  "solution": "480"
+}

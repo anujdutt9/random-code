@@ -1,0 +1,14 @@
+{
+  "query": "Genevieve is a computer programmer working on information security software. She has written 4300 lines of code so far. Every 100 lines of code, she debugs the program. If each debugging only finds three errors, and Genevieve fixes the errors each time before proceeding, how many errors has she fixed so far?",
+  "steps": [
+    "Genevieve has written 4300 lines of code so far.",
+    "She debugs the program every 100 lines of code.",
+    "To find out how many times she has debugged, calculate 4300 divided by 100.",
+    "4300 divided by 100 equals 43.",
+    "This means she has debugged the program 43 times.",
+    "Each debugging finds three errors.",
+    "To calculate how many errors she has fixed, multiply the number of debugging sessions by the number of errors found each time.",
+    "43 debugging sessions multiplied by 3 errors equals 129 errors."
+  ],
+  "solution": "129"
+}

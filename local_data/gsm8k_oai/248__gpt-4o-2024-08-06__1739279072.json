@@ -1,0 +1,13 @@
+{
+  "query": "An 18-month magazine subscription is normally $34. The magazine is currently running a promotion for $0.25 off each twice-a-month issue when signing up for the 18-month subscription. How many dollars cheaper is the promotional subscription than the normal one?",
+  "steps": [
+    "First, I need to determine the total number of issues in the 18-month subscription. Since there are issues twice a month, there are 2 issues per month.",
+    "Multiply the number of months (18) by the number of issues per month (2): 18 months * 2 issues/month = 36 issues.",
+    "Now I calculate the total discount for the promotional subscription. The promotion offers $0.25 off each issue.",
+    "Multiply the number of issues (36) by the discount per issue ($0.25): 36 issues * $0.25/issue = $9.00.",
+    "Subtract the total discount from the normal subscription price to find the promotional price: $34.00 - $9.00 = $25.00.",
+    "Now, I need to find how many dollars cheaper the promotional subscription is compared to the normal subscription.",
+    "Subtract the promotional price from the normal price: $34.00 - $25.00 = $9.00."
+  ],
+  "solution": "9"
+}

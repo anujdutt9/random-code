@@ -1,0 +1,13 @@
+{
+  "query": "The Diving Club offers 2 beginning diving classes on weekdays and 4 beginning classes on each day of the weekend. Each class has room for 5 people. How many people can take classes in 3 weeks?",
+  "steps": [
+    "First, identify the structure of the weekly schedule: 2 beginning diving classes on weekdays and 4 beginning classes on each day of the weekend.",
+    "A week consists of 5 weekdays (Monday through Friday) and 2 weekend days (Saturday and Sunday).",
+    "Calculate the total number of beginning classes offered on weekdays. With 2 classes per weekday, and 5 weekdays in a week, the total is 2 classes/day * 5 days = 10 classes.",
+    "Next, calculate the total number of beginning classes offered on weekends. With 4 classes per day and 2 weekend days, the total is 4 classes/day * 2 days = 8 classes.",
+    "Add the weekday and weekend classes to find the total weekly number of classes: 10 weekday classes + 8 weekend classes = 18 classes per week.",
+    "Each class can accommodate 5 people, so calculate the total number of people that can attend per week: 18 classes/week * 5 people/class = 90 people/week.",
+    "To find the capacity over 3 weeks, multiply the weekly capacity by 3 weeks: 90 people/week * 3 weeks = 270 people."
+  ],
+  "solution": "270"
+}

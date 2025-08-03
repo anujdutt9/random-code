@@ -1,0 +1,23 @@
+{
+  "query": "Janet has 24 dresses.  Half of them have pockets.  Of those, a third have 2 pockets and the rest have 3 pockets.  How many total pockets do her dresses have?",
+  "steps": [
+    "Janet has a total of 24 dresses.",
+    "Half of the dresses have pockets. So, I need to calculate half of 24.",
+    "Half of 24 is 24 / 2 = 12.",
+    "So, 12 of Janet's dresses have pockets.",
+    "A third of 12 dresses with pockets have 2 pockets each. So, I need to find a third of 12.",
+    "A third of 12 is 12 / 3 = 4.",
+    "So, 4 dresses have 2 pockets each.",
+    "The rest of the dresses with pockets have 3 pockets. I need to find out how many those are.",
+    "There are 12 dresses with pockets and 4 of them have 2 pockets. So, the rest are 12 - 4 = 8 dresses.",
+    "These 8 dresses each have 3 pockets.",
+    "Now, I need to calculate the total number of pockets.",
+    "First, calculate the number of pockets from the 4 dresses with 2 pockets each.",
+    "4 dresses * 2 pockets/dress = 8 pockets.",
+    "Next, calculate the number of pockets from the 8 dresses with 3 pockets each.",
+    "8 dresses * 3 pockets/dress = 24 pockets.",
+    "Add the pockets from both groups of dresses to find the total number of pockets.",
+    "8 pockets + 24 pockets = 32 pockets."
+  ],
+  "solution": "32"
+}

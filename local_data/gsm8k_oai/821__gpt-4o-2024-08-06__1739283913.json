@@ -1,0 +1,16 @@
+{
+  "query": "Sammy can eat 15 pickle slices.  His twin sister Tammy can eat twice as much as Sammy.  Their older brother Ron eats 20% fewer pickles slices than Tammy.  How many pickle slices does Ron eat?",
+  "steps": [
+    "I need to find out how many pickle slices Tammy can eat if Sammy can eat 15 slices.",
+    "Tammy can eat twice as much as Sammy.",
+    "Twice 15 is \\( 15 \\times 2 = 30 \\).",
+    "So, Tammy can eat 30 pickle slices.",
+    "Now, I need to calculate how many pickle slices Ron eats.",
+    "Ron eats 20% fewer pickle slices than Tammy.",
+    "20% of 30 is \\( 30 \\times 0.20 = 6 \\).",
+    "To find how many slices Ron eats, I subtract this 6 from Tammy's 30.",
+    "So, 30 - 6 = 24.",
+    "Ron eats 24 pickle slices."
+  ],
+  "solution": "24"
+}

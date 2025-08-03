@@ -1,0 +1,12 @@
+{
+  "query": "Mary bought six apples from the store. From the apples she bought, for each that Mary ate, she planted two trees from the remaining ones. How many apples did Mary eat?",
+  "steps": [
+    "Mary bought a total of six apples from the store.",
+    "For each apple Mary ate, she planted two trees.",
+    "If Mary ate one apple, she would plant two trees, leaving her with 6 - 1 - 2 = 3 apples.",
+    "With 3 apples remaining, if she ate another apple, she would plant two more trees, leaving her with 3 - 1 - 2 = 0 apples.",
+    "With zero apples remaining, Mary cannot eat or plant any more apples.",
+    "By this calculation, Mary ate a total of 2 apples."
+  ],
+  "solution": "2"
+}

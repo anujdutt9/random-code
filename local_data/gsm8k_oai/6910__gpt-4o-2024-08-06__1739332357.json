@@ -1,0 +1,15 @@
+{
+  "query": "John assembles widgets at a factory.  He can make 20 widgets an hour and works for 8 hours a day 5 days a week.  How many widgets does he make a week?",
+  "steps": [
+    "First, I need to determine how many widgets John makes in one day.",
+    "John makes 20 widgets an hour.",
+    "He works 8 hours a day.",
+    "To find out how many widgets he makes in one day, I will multiply the widgets per hour by the hours he works per day.",
+    "20 widgets/hour * 8 hours/day = 160 widgets/day",
+    "Next, I will determine how many days John works in a week.",
+    "John works 5 days a week.",
+    "Now, to find out how many widgets John makes in a week, I will multiply the number of widgets he makes in a day by the number of days he works in a week.",
+    "160 widgets/day * 5 days/week = 800 widgets/week"
+  ],
+  "solution": "800"
+}

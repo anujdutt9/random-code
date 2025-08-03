@@ -1,0 +1,17 @@
+{
+  "query": "Matt wants to repaint his house. He needs to paint three walls in his living room, which is a square 40 feet by 40 feet, and all four walls in his bedroom, which is a rectangle 10 feet by 12 feet. All the walls in Matt's house are 10 feet tall. How many total square feet of wall does Matt need to paint?",
+  "steps": [
+    "First, I need to calculate the area of each wall in the living room. The living room is a square with each side 40 feet long.",
+    "The height of the walls is 10 feet. So, the area of one wall is length \u00d7 height = 40 feet \u00d7 10 feet = 400 square feet.",
+    "There are three walls to paint in the living room, so the total area for the living room is 3 walls \u00d7 400 square feet per wall = 1200 square feet.",
+    "Next, I'll calculate the area of the walls in the bedroom. The bedroom is a rectangle with dimensions 10 feet by 12 feet.",
+    "There are two walls with a length of 10 feet and two walls with a length of 12 feet in the bedroom.",
+    "The height of the bedroom walls is also 10 feet.",
+    "The area of each 10-foot wall is length \u00d7 height = 10 feet \u00d7 10 feet = 100 square feet.",
+    "The area of each 12-foot wall is length \u00d7 height = 12 feet \u00d7 10 feet = 120 square feet.",
+    "There are two 10-foot walls and two 12-foot walls in the bedroom, so the total area for the bedroom is 2 \u00d7 100 square feet + 2 \u00d7 120 square feet.",
+    "Calculate the total area for the bedroom: 2 \u00d7 100 + 2 \u00d7 120 = 200 + 240 = 440 square feet.",
+    "Now, add the total areas of the living room and the bedroom: 1200 square feet (living room) + 440 square feet (bedroom) = 1640 square feet."
+  ],
+  "solution": "1640"
+}

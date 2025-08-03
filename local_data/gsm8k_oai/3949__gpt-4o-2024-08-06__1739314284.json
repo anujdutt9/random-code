@@ -1,0 +1,19 @@
+{
+  "query": "Nikka has a 100 stamp collection. Thirty-five percent of her stamps are Chinese, 20% are US stamps, and the rest are Japanese stamps. How many Japanese stamps does Nikka have?",
+  "steps": [
+    "I need to find the total number of Japanese stamps in Nikka's collection.",
+    "Nikka's total stamp collection is 100 stamps.",
+    "Thirty-five percent of the stamps are Chinese. To find the number of Chinese stamps, I calculate 35% of 100.",
+    "35% of 100 is calculated as (35 / 100) * 100 = 35.",
+    "So, Nikka has 35 Chinese stamps.",
+    "Twenty percent of the stamps are US stamps. To find the number of US stamps, I calculate 20% of 100.",
+    "20% of 100 is calculated as (20 / 100) * 100 = 20.",
+    "So, Nikka has 20 US stamps.",
+    "To find the number of Japanese stamps, I need to subtract the number of Chinese and US stamps from the total number of stamps.",
+    "Nikka has 35 Chinese stamps and 20 US stamps. Adding these together gives me 35 + 20 = 55.",
+    "So, out of 100 stamps, 55 are either Chinese or US stamps.",
+    "Therefore, the remaining stamps must be Japanese stamps.",
+    "I subtract 55 from 100 to calculate the number of Japanese stamps: 100 - 55 = 45."
+  ],
+  "solution": "45"
+}

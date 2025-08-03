@@ -1,0 +1,15 @@
+{
+  "query": "It takes 15 mink skins to make a coat. Andy buys 30 minks and each mink has 6 babies, but half the total minks are set free by activists. How many coats can he make?",
+  "steps": [
+    "First, I need to determine the total number of minks Andy initially has, including the babies.",
+    "Andy buys 30 minks. Each mink has 6 babies, so there are 30 x 6 = 180 babies.",
+    "Adding the adult minks, Andy initially has 30 adults + 180 babies = 210 minks.",
+    "Next, I need to account for the minks set free by the activists. Half of the total minks are set free.",
+    "Half of 210 is 210 / 2 = 105 minks set free.",
+    "Subtracting the minks set free from the initial total, Andy now has 210 - 105 = 105 minks left.",
+    "I need to calculate how many mink skins are required to make one coat. It takes 15 mink skins to make one coat.",
+    "With 105 minks available, I'll calculate how many coats can be made. I need to divide the number of minks by the number required per coat: 105 minks / 15 mink skins per coat.",
+    "105 \u00f7 15 = 7 coats."
+  ],
+  "solution": "7"
+}

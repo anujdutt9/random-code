@@ -1,0 +1,19 @@
+{
+  "query": "In the class of 24 students, half are doing silent reading, and a third are playing board games. The rest are catching up on homework. How many students are catching up on homework?",
+  "steps": [
+    "First, I need to determine how many students are doing silent reading.",
+    "Half of the class is doing silent reading. There are 24 students total.",
+    "Half of 24 is calculated by 24 / 2 = 12.",
+    "So, 12 students are doing silent reading.",
+    "Next, I need to determine how many students are playing board games.",
+    "A third of the class is playing board games.",
+    "A third of 24 is calculated by 24 / 3 = 8.",
+    "So, 8 students are playing board games.",
+    "Now, I need to find out how many students are catching up on homework.",
+    "I will sum the number of students doing silent reading and playing board games: 12 + 8 = 20.",
+    "Therefore, 20 students are either doing silent reading or playing board games.",
+    "Subtract the number of students doing silent reading and playing board games from the total number of students to find who are catching up on homework.",
+    "24 - 20 = 4 students are catching up on homework."
+  ],
+  "solution": "4"
+}

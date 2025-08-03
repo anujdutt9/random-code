@@ -1,0 +1,12 @@
+{
+  "query": "The total mask production was doubled every month by a company after the outbreak of Coronavirus due to increased demand. If the company produced 3000 masks in March, calculate the total mask production of July.",
+  "steps": [
+    "First, I need to understand the pattern of production. The production doubles each month.",
+    "The company produced 3000 masks in March. So for April, the production will be double of March.",
+    "In April, the production is 3000 masks * 2 = 6000 masks.",
+    "In May, the production will be double of April. So it will be 6000 masks * 2 = 12000 masks.",
+    "In June, the production will be double of May. So it will be 12000 masks * 2 = 24000 masks.",
+    "In July, the production will be double of June. So it will be 24000 masks * 2 = 48000 masks."
+  ],
+  "solution": "48000"
+}

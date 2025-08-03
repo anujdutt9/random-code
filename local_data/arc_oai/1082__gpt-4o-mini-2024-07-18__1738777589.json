@@ -1,0 +1,9 @@
+{
+  "query": "Question: An exploratory robot was sent to the planet Mars. The gravity on Mars is weaker than the gravity on Earth. Compared to the mass and weight of the robot on Earth, the robot on Mars has\n\nChoices:\nA: less mass and weight.\nB: less mass but equal weight.\nC: equal mass but less weight.\nD: equal mass and weight.",
+  "steps": [
+    "The mass of an object does not change regardless of its location; it is an inherent property of the object.",
+    "Weight is the force exerted by gravity on an object, which varies with the strength of the gravitational field. Since Mars has weaker gravity than Earth, the weight of the robot on Mars will be less than its weight on Earth.",
+    "Therefore, while the robot's mass remains constant, its weight decreases due to the lower gravitational pull on Mars."
+  ],
+  "solution": "C"
+}

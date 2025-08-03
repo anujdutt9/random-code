@@ -1,0 +1,21 @@
+{
+  "query": "Linda is painting her bedroom. Her bedroom has 4 walls, with the room being 20 feet wide by 20 feet long by 8 feet tall. One wall has a 3-foot by 7-foot doorway. A second wall has a 6-foot by 4-foot window. A third wall has a 5-foot by 7-foot doorway to a walk-in-closet. And the fourth wall is completely solid. What is the total area of wall space that Linda will have to paint?",
+  "steps": [
+    "First, I need to calculate the total area of each of the four walls.",
+    "Each wall is 8 feet tall. Two of the walls are 20 feet wide, and the other two walls are also 20 feet wide, since the room is square (20 feet by 20 feet).",
+    "The area of one of the 20 feet wide walls is 20 feet * 8 feet = 160 square feet.",
+    "The other wall that is also 20 feet wide will have the same area, which is 160 square feet.",
+    "The total area for the two 20 feet wide walls is 160 square feet + 160 square feet = 320 square feet.",
+    "The other two walls are also 20 feet long and 8 feet tall.",
+    "The area of one of these walls is 20 feet * 8 feet = 160 square feet, just like the previous walls.",
+    "Thus, the total area of these two walls is also 160 square feet + 160 square feet = 320 square feet.",
+    "The total area of all four walls without deductions for doorways and windows is 320 square feet + 320 square feet = 640 square feet.",
+    "Next, I need to account for the areas of the doorways and windows that will not be painted.",
+    "The first wall has a 3-foot by 7-foot doorway, which is 3 feet * 7 feet = 21 square feet.",
+    "The second wall has a 6-foot by 4-foot window, which is 6 feet * 4 feet = 24 square feet.",
+    "The third wall has a 5-foot by 7-foot doorway, which is 5 feet * 7 feet = 35 square feet.",
+    "I add up all these areas that will not be painted: 21 square feet + 24 square feet + 35 square feet = 80 square feet.",
+    "Finally, I subtract this total non-paintable area from the total wall area: 640 square feet - 80 square feet = 560 square feet."
+  ],
+  "solution": "560"
+}

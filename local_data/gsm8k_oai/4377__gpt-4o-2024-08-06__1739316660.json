@@ -1,0 +1,16 @@
+{
+  "query": "Calen originally had 5 more pencils than does Caleb, and Caleb has 3 less than twice as many pencils as does Candy.  If Calen lost 10 pencils, which left him with 10 pencils, then how many pencils does Candy have?",
+  "steps": [
+    "Calen originally had 5 more pencils than Caleb.",
+    "Calen lost 10 pencils, which left him with 10 pencils. So originally, Calen had 10 + 10 = 20 pencils.",
+    "Since Calen had 20 pencils originally, and this was 5 more than Caleb, Caleb originally had 20 - 5 = 15 pencils.",
+    "Caleb has 3 less than twice as many pencils as Candy.",
+    "Let the number of pencils Candy has be denoted by C.",
+    "Twice the number of pencils Candy has is 2C.",
+    "Caleb's number of pencils is 3 less than twice Candy's, so 2C - 3 = 15.",
+    "I need to solve the equation 2C - 3 = 15 to find the number of pencils Candy has.",
+    "Add 3 to both sides of the equation: 2C - 3 + 3 = 15 + 3, which simplifies to 2C = 18.",
+    "Divide both sides by 2 to solve for C: 2C/2 = 18/2, which simplifies to C = 9."
+  ],
+  "solution": "9"
+}

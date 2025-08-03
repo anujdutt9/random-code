@@ -1,0 +1,24 @@
+{
+  "query": "John writes 3 stories every week.  Each short story is 50 pages.  He also writes a novel that is 1200 pages each year.  Each sheet of paper can hold 2 pages.  Over 12 weeks, how many reams of paper does he need to buy if a ream contains 500 sheets?",
+  "steps": [
+    "First, I need to calculate how many pages John writes in short stories per week.",
+    "John writes 3 stories each week, and each story is 50 pages.",
+    "3 stories per week \u00d7 50 pages per story = 150 pages per week in short stories.",
+    "Next, calculate how many pages John writes in short stories over 12 weeks.",
+    "150 pages per week \u00d7 12 weeks = 1800 pages in short stories over 12 weeks.",
+    "Now, calculate how many pages John writes from the novel in a year.",
+    "The novel is 1200 pages in total.",
+    "Since I am considering only 12 weeks, I need to find out how many pages of the novel fit in those 12 weeks.",
+    "A year has 52 weeks, so per week novel writing is 1200 pages / 52 weeks = ~23.08 pages per week.",
+    "Over 12 weeks, John writes 23.08 pages per week \u00d7 12 weeks = ~277 pages from the novel.",
+    "Add up the pages from short stories and the novel written in 12 weeks.",
+    "1800 pages (short stories) + 277 pages (novel) = 2077 total pages in 12 weeks.",
+    "Next, calculate the number of sheets needed, knowing each sheet can hold 2 pages.",
+    "2077 pages / 2 pages per sheet = 1038.5 sheets required.",
+    "Since John can't use half a sheet, he'll need to round up to 1039 sheets.",
+    "Calculate how many reams are needed if each ream contains 500 sheets.",
+    "1039 sheets / 500 sheets per ream = 2.078 reams.",
+    "Since John cannot purchase a fraction of a ream, he will need to buy 3 reams."
+  ],
+  "solution": "3"
+}

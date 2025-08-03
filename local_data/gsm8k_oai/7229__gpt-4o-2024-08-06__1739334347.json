@@ -1,0 +1,15 @@
+{
+  "query": "Alex has some new shirts. Joe has 3 more new shirts than Alex. Ben has eight more new shirts than Joe. If Ben has 15 new shirts, how many new shirts does Alex have?",
+  "steps": [
+    "I need to determine how many new shirts Alex has, given information about Joe and Ben.",
+    "I know Ben has 15 new shirts.",
+    "Ben has eight more new shirts than Joe.",
+    "I can calculate the number of shirts Joe has by subtracting 8 from Ben's shirts.",
+    "15 (shirts Ben has) - 8 = 7",
+    "Joe has 7 new shirts.",
+    "Joe has 3 more new shirts than Alex.",
+    "I can calculate Alex's shirts by subtracting 3 from Joe's shirts.",
+    "7 (shirts Joe has) - 3 = 4"
+  ],
+  "solution": "4"
+}

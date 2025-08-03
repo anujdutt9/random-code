@@ -1,0 +1,9 @@
+{
+    "id": 3,
+    "query": "Question: A teacher builds a model of a hydrogen atom. A red golf ball is used for a proton, and a green golf ball is used for an electron. Which is not accurate concerning the model?\n\nChoices:\nA: number of particles\nB: relative mass of particles\nC: types of particles present\nD: charges of particles present",
+    "solution": "B",
+    "style_name": "form_3_causal_chain",
+    "steps": [
+        "If the model uses same-sized golf balls for protons and electrons, then it does not reflect the large difference in their masses. If relative mass is misrepresented, then the model is inaccurate in that respect. Therefore, the model is not accurate concerning the relative mass of particles."
+    ]
+}

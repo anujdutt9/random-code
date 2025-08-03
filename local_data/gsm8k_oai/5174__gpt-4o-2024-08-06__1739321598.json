@@ -1,0 +1,19 @@
+{
+  "query": "Alex needs to be 54 inches tall to ride the newest roller coaster at the theme park. He is 48 inches tall this year. He hears a rumor that for every hour he hangs upside down, he can grow 1/12 of an inch. Normally he grows 1/3 of an inch per month. On average, how many hours does he need to hang upside down each month to be tall enough next year to ride the rollercoaster?",
+  "steps": [
+    "First, let's determine how many inches Alex needs to grow to reach the required height for the roller coaster. He needs to be 54 inches tall and is currently 48 inches tall.",
+    "54 inches - 48 inches = 6 inches. Alex needs to grow 6 inches.",
+    "Next, let's calculate how much Alex will grow normally in a year if he grows 1/3 of an inch per month. There are 12 months in a year, so...",
+    "1/3 inch/month * 12 months = 4 inches. Alex will grow 4 inches in a year normally.",
+    "To determine the additional growth needed from hanging upside down, we subtract the normal growth from the total growth required.",
+    "6 inches total needed - 4 inches normal growth = 2 inches. Alex needs to grow an additional 2 inches by hanging upside down.",
+    "Now, let's find out how many inches he grows per hour by hanging upside down. He grows 1/12 of an inch for each hour spent hanging upside down.",
+    "To find the number of hours needed to grow 2 inches, we set up the equation:",
+    "(1/12 inch/hour) * x hours = 2 inches",
+    "Solving for x gives: x = 2 inches * 12 hours/inch = 24 hours.",
+    "Alex needs a total of 24 hours hanging upside down to grow the additional 2 inches within a year.",
+    "Since the year has 12 months, we now calculate how many hours he needs to hang upside down per month.",
+    "24 total hours / 12 months = 2 hours per month."
+  ],
+  "solution": "2"
+}

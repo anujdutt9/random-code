@@ -1,0 +1,13 @@
+{
+  "query": "Jenine can sharpen a pencil 5 times before it runs out. She needs to sharpen a pencil for every 1.5 hours of use. She already has ten pencils and needs to write for 105 hours. A new pencil costs $2. How much does she need to spend on more pencils to be able to write for 105 hours?",
+  "steps": [
+    "I need to find out how many total hours of writing the ten pencils she has can provide.",
+    "Each pencil can be sharpened 5 times and is used for 1.5 hours per sharpen, so each pencil can be used for 1.5 * 5 = 7.5 hours.",
+    "With 10 pencils, she can write for 10 * 7.5 = 75 hours.",
+    "She needs to write for 105 hours. Therefore, she needs 105 - 75 = 30 more hours of writing.",
+    "To find out how many additional pencils she needs, I divide the additional hours by the hours one pencil provides: 30 / 7.5 = 4 pencils.",
+    "Each new pencil costs $2.",
+    "Thus, she needs to buy 4 pencils, and the cost will be 4 * $2 = $8."
+  ],
+  "solution": "8"
+}

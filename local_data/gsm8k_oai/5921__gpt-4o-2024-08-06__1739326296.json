@@ -1,0 +1,18 @@
+{
+  "query": "Freddy is calling his family on New Year's Eve. He calls his dad, who lives in the same city as him, and they talk for 45 minutes. Then he calls his brother, who lives on the other side of the world, and they talk for 31 minutes. Local calls cost 5 cents a minute, while international calls cost 25 cents a minute. How many dollars did Freddy spend calling his family on New Year's Eve?",
+  "steps": [
+    "Freddy first calls his dad for 45 minutes. This is a local call.",
+    "The cost of a local call is 5 cents per minute.",
+    "To find the cost of the local call, multiply the duration of the call (45 minutes) by the per minute cost (5 cents).",
+    "45 minutes * 5 cents/minute = 225 cents.",
+    "Freddy then calls his brother for 31 minutes. This is an international call.",
+    "The cost of an international call is 25 cents per minute.",
+    "To find the cost of the international call, multiply the duration of the call (31 minutes) by the per minute cost (25 cents).",
+    "31 minutes * 25 cents/minute = 775 cents.",
+    "Now, add the cost of the local call (225 cents) to the cost of the international call (775 cents) to get the total cost in cents.",
+    "225 cents + 775 cents = 1000 cents.",
+    "Convert the total cost from cents to dollars by dividing by 100 (since 100 cents equals 1 dollar).",
+    "1000 cents \u00f7 100 = 10 dollars."
+  ],
+  "solution": "10"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "Lucas went to the store with $20 and needed to buy 3 avocados that cost $2 each. How much change does he bring home?",
+  "steps": [
+    "First, I need to determine the total cost of the avocados.",
+    "Each avocado costs $2, and Lucas wants to buy 3 avocados.",
+    "I calculate the total cost by multiplying the cost per avocado by the number of avocados: $2 * 3 = $6.",
+    "Now, I need to find out how much change Lucas will have after the purchase.",
+    "Lucas initially had $20.",
+    "He spent $6 on avocados.",
+    "To find the change, I subtract the total cost of the avocados from the money Lucas had: $20 - $6 = $14.",
+    "Lucas brings home $14 in change."
+  ],
+  "solution": "14"
+}

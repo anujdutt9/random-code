@@ -1,0 +1,14 @@
+{
+  "query": "A nail salon was completely booked at 2 pm for manicures.  Each manicure costs $20.00 per client so the salon made $200.00.  If there are 210 fingers in the salon at 2 pm, and everyone has 10 fingers, how many people in the salon are not clients?",
+  "steps": [
+    "First, I need to determine how many clients the salon had at 2 pm.",
+    "Each manicure costs $20.00, and the salon made $200.00.",
+    "To find out the number of clients, I divide the total revenue by the price per client: $200.00 \u00f7 $20.00 = 10 clients.",
+    "Next, I need to determine the total number of people in the salon.",
+    "The problem mentions there are 210 fingers in the salon, and everyone has 10 fingers, so I need to calculate the number of people this represents.",
+    "To find the total number of people, I divide the total number of fingers by the number of fingers per person: 210 \u00f7 10 = 21 people.",
+    "Now, I know there are 21 people in total and 10 of them are clients.",
+    "To find the number of people who are not clients, I subtract the number of clients from the total number of people: 21 - 10 = 11."
+  ],
+  "solution": "11"
+}

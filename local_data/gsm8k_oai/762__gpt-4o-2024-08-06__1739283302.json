@@ -1,0 +1,17 @@
+{
+  "query": "Lenny bought 20 boxes of pens. Each box contained  5 pens. She gave 40% of the pens to her close friends and one-fourth of what's left to her classmates. How many pens were left for Lenny?",
+  "steps": [
+    "Lenny bought 20 boxes of pens. I want to find the total number of pens she bought.",
+    "Each box contains 5 pens, so the total number of pens is calculated by multiplying the number of boxes by the number of pens per box.",
+    "20 boxes * 5 pens per box = 100 pens.",
+    "Next, I need to determine how many pens she gave to her close friends. She gave away 40% of the pens.",
+    "40% of 100 pens is calculated as 0.40 * 100 = 40 pens.",
+    "Now I need to find out how many pens were left after giving pens to her close friends.",
+    "Subtract the number of pens given to close friends from the total number of pens: 100 - 40 = 60 pens.",
+    "Next, Lenny gave one-fourth of the remaining pens to her classmates.",
+    "One-fourth of 60 pens is calculated as (1/4) * 60 = 15 pens.",
+    "I need to find out how many pens were left for Lenny after giving some to her classmates.",
+    "Subtract the number of pens given to classmates from the remaining number of pens: 60 - 15 = 45 pens."
+  ],
+  "solution": "45"
+}

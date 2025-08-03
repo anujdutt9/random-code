@@ -1,0 +1,22 @@
+{
+  "query": "A liter of chlorine costs $10 and is now sold at 20% off. A box of soap that costs $16 is now sold at 25% off. How much will you save if you buy 3 liters of chlorine and 5 boxes of soap?",
+  "steps": [
+    "First, I need to determine the discount amount for each product.",
+    "The original cost of 1 liter of chlorine is $10. The discount is 20%.",
+    "To find the discount amount for 1 liter of chlorine, I calculate 20% of $10.",
+    "20% of $10 is calculated by multiplying $10 by 0.20, which is $2.",
+    "Each liter of chlorine is discounted by $2.",
+    "Next, I calculate the total savings for 3 liters of chlorine.",
+    "The savings per liter is $2, so for 3 liters, the total savings is 3 liters * $2/liter = $6.",
+    "Now, I need to calculate the discount amount for a box of soap.",
+    "The original cost of a box of soap is $16. The discount is 25%.",
+    "To find the discount amount for a box of soap, I calculate 25% of $16.",
+    "25% of $16 is calculated by multiplying $16 by 0.25, which is $4.",
+    "Each box of soap is discounted by $4.",
+    "Now, I calculate the total savings for 5 boxes of soap.",
+    "The savings per box is $4, so for 5 boxes, the total savings is 5 boxes * $4/box = $20.",
+    "Finally, I add the savings from the chlorine and the soap to find the total savings.",
+    "The total savings is $6 (chlorine) + $20 (soap) = $26."
+  ],
+  "solution": "26"
+}

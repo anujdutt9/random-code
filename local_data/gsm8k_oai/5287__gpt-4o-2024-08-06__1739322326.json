@@ -1,0 +1,14 @@
+{
+  "query": "Dennis lives two floors above Charlie. Charlie lives on a floor whose number is 1/4 Frank's floor number. Frank lives on the 16th floor. What floor does Dennis live on?",
+  "steps": [
+    "Frank lives on the 16th floor.",
+    "Charlie lives on a floor that is 1/4 of Frank's floor number.",
+    "So, Charlie's floor is 1/4 of 16.",
+    "Calculate 1/4 of 16, which is 16 divided by 4.",
+    "16 divided by 4 is 4, so Charlie lives on the 4th floor.",
+    "Dennis lives two floors above Charlie.",
+    "Add 2 to Charlie's floor number to find Dennis's floor.",
+    "4 plus 2 is 6."
+  ],
+  "solution": "6"
+}

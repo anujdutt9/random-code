@@ -1,0 +1,15 @@
+{
+  "query": "Kyle has a newspaper-delivery route. Every Monday through Saturday, he delivers the daily paper for the 100 houses on his route. On Sunday, 10 of his customers do not get the Sunday paper, but he delivers 30 papers to other houses that get the newspaper only on Sunday. How many papers does Kyle deliver each week?",
+  "steps": [
+    "I start by calculating the number of papers Kyle delivers from Monday to Saturday.",
+    "There are 100 houses on his route, and he delivers to each house from Monday to Saturday.",
+    "The number of papers delivered from Monday to Saturday is 100 houses \u00d7 6 days = 600 papers.",
+    "Next, I calculate the number of papers Kyle delivers on Sunday.",
+    "On Sunday, he delivers to 100 - 10 = 90 regular customers.",
+    "Additionally, he delivers to 30 other houses that only get the paper on Sunday.",
+    "So, the total number of papers delivered on Sunday is 90 + 30 = 120 papers.",
+    "Finally, I calculate the total number of papers delivered in the entire week.",
+    "Adding the deliveries from Monday to Saturday and Sunday: 600 papers + 120 papers = 720 papers."
+  ],
+  "solution": "720"
+}

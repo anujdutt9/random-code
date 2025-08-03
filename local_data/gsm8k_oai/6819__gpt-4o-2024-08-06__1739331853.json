@@ -1,0 +1,18 @@
+{
+  "query": "Vicky has an excellent internet connection. She can download up to 50 MB/second. She has to download a new program to finish a college assignment. The program\u2019s size is 360GB. If the internet connection is at maximum speed, how many hours does she have to wait until the program is fully downloaded? (There are 1000 MB per GB.)",
+  "steps": [
+    "First, I need to convert the program's size from gigabytes to megabytes.",
+    "The program's size is 360 GB.",
+    "Since 1 GB is equal to 1000 MB, I multiply 360 GB by 1000 to convert gigabytes to megabytes.",
+    "360 GB * 1000 MB/GB = 360,000 MB",
+    "Now, I have the program's size in megabytes, which is 360,000 MB.",
+    "Next, I need to determine how long it will take to download 360,000 MB at a speed of 50 MB/second.",
+    "I divide the total size in megabytes by the download speed to find out how many seconds the download will take.",
+    "360,000 MB / 50 MB/second = 7200 seconds",
+    "Now, I need to convert the download time from seconds to hours.",
+    "There are 3600 seconds in an hour.",
+    "I divide the total number of seconds, 7200, by the number of seconds in an hour, 3600, to find the time in hours.",
+    "7200 seconds / 3600 seconds/hour = 2 hours"
+  ],
+  "solution": "2"
+}

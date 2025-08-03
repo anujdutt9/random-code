@@ -1,0 +1,16 @@
+{
+  "query": "Brendan has entered a kickboxing competition and wins matches against multiple contestants. He wins all of the matches in the first 2 rounds, each of which had 6 matches, then wins half of the 4 matches in the last round. How many matches did Brendan win throughout the competition?",
+  "steps": [
+    "I start by understanding the problem. Brendan has won matches in three rounds. Each of the first two rounds had 6 matches.",
+    "In the first round, Brendan wins all 6 matches.",
+    "In the second round, Brendan also wins all 6 matches.",
+    "Together, in the first two rounds, Brendan wins 6 + 6 matches.",
+    "I add the wins from the first and second rounds: 6 + 6 = 12.",
+    "In the last round, there are 4 matches, and Brendan wins half of them.",
+    "Half of 4 matches is calculated as 4 / 2.",
+    "4 divided by 2 is 2, so Brendan wins 2 matches in the last round.",
+    "I add the wins from all rounds: 12 (from the first two rounds) + 2 (from the last round).",
+    "12 + 2 equals 14."
+  ],
+  "solution": "14"
+}

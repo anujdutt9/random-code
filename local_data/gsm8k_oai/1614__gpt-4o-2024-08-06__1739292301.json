@@ -1,0 +1,17 @@
+{
+  "query": "Joseph wants to go to Boston for a road trip. If he takes route A, it will take him 5 hours to arrive; but if he takes route B, it will only take him 2 hours to arrive at his destination. How much time will he save if he takes route B to Boston and back to his home?",
+  "steps": [
+    "First, I need to calculate the total travel time for taking route A to Boston and back home.",
+    "Taking route A, it takes Joseph 5 hours to get to Boston.",
+    "For the round trip on route A, I multiply 5 hours (one way) by 2, because Joseph goes to Boston and returns home.",
+    "5 hours * 2 = 10 hours for the round trip on route A.",
+    "Next, I calculate the total travel time for taking route B to Boston and back home.",
+    "Taking route B, it takes Joseph 2 hours to get to Boston.",
+    "For the round trip on route B, I multiply 2 hours (one way) by 2, for the same reason as before.",
+    "2 hours * 2 = 4 hours for the round trip on route B.",
+    "Now, I need to find out how much time Joseph saves by choosing route B over route A for the round trip.",
+    "I subtract the total time for route B from the total time for route A.",
+    "10 hours (route A) - 4 hours (route B) = 6 hours saved."
+  ],
+  "solution": "6"
+}

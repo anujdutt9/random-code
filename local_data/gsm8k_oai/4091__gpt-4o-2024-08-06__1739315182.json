@@ -1,0 +1,15 @@
+{
+  "query": "Ryan works in an office that has an even number of men and women working there.  Ryan participates in a meeting composed of 4 men and 6 women who are pulled from the office floor.   This reduces the number of women working on the office floor by 20%.  How many people work at Ryan's office?",
+  "steps": [
+    "We're told the number of women at the office is reduced by 20% when 6 women are in the meeting.",
+    "If reducing the women by 20% means 6 women, then these 6 women are 20% of the total women.",
+    "To find the total number of women, we use the equation: 0.20 * total_women = 6.",
+    "To find total_women, divide 6 by 0.20, which calculates to 6 / 0.20 = 30.",
+    "There are 30 women in the office before the meeting started.",
+    "There is an even number of men and women in Ryan's office.",
+    "Since there are 30 women, the number of men must also be 30.",
+    "The total number of people working at Ryan's office equals the sum of the men and women.",
+    "Therefore, the total number of people at the office is 30 men + 30 women = 60 people."
+  ],
+  "solution": "60"
+}

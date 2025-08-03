@@ -1,0 +1,13 @@
+{
+  "query": "Matt skips ropes 3 times per second.  If he jumped for 10 minutes how many skips hops did he get?",
+  "steps": [
+    "I need to determine how many seconds there are in 10 minutes.",
+    "There are 60 seconds in a minute.",
+    "Therefore, in 10 minutes there are 10 x 60 seconds.",
+    "10 x 60 = 600, so there are 600 seconds in 10 minutes.",
+    "Matt skips ropes 3 times per second.",
+    "To find the total number of skips, I need to multiply the number of seconds by the number of skips per second.",
+    "600 seconds x 3 skips per second = 1800 skips."
+  ],
+  "solution": "1800"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Betty and Dora started making some cupcakes at the same time. Betty makes 10 cupcakes every hour and Dora makes 8 every hour. If Betty took a two-hour break, what is the difference between the number of cupcakes they made after 5 hours?",
+  "steps": [
+    "Betty makes 10 cupcakes every hour.",
+    "Dora makes 8 cupcakes every hour.",
+    "Betty took a two-hour break, which means she didn't make any cupcakes during those two hours.",
+    "First, let's calculate how many hours Betty was actually productive after her break. Since she worked for 5 hours in total and took a 2-hour break, she was productive for 5 - 2 = 3 hours.",
+    "In 3 hours, Betty would make 10 cupcakes/hour * 3 hours = 30 cupcakes.",
+    "Dora, on the other hand, worked uninterrupted for the entire 5 hours.",
+    "In 5 hours, Dora would make 8 cupcakes/hour * 5 hours = 40 cupcakes.",
+    "Now, let's find the difference in the number of cupcakes made. Dora made 40 cupcakes and Betty made 30 cupcakes.",
+    "The difference between the number of cupcakes made by Dora and Betty is 40 - 30 = 10 cupcakes."
+  ],
+  "solution": "10"
+}

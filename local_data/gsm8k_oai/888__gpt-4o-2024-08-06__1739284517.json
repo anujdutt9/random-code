@@ -1,0 +1,17 @@
+{
+  "query": "Teddy has 7 dogs and 8 cats. Ben has 9 more dogs than Teddy, and Dave has 13 more cats and 5 less dogs than Teddy. How many pets do all of them have combined?",
+  "steps": [
+    "Teddy has 7 dogs.",
+    "Ben has 9 more dogs than Teddy, so Ben has 7 + 9 = 16 dogs.",
+    "Dave has 5 less dogs than Teddy, so Dave has 7 - 5 = 2 dogs.",
+    "Teddy has 8 cats.",
+    "Dave has 13 more cats than Teddy, so Dave has 8 + 13 = 21 cats.",
+    "We now know the number of pets each person has: Teddy has 7 dogs and 8 cats, totaling 15 pets.",
+    "Ben has 16 dogs, and since no cats are mentioned for Ben, he has a total of 16 pets.",
+    "Dave has 2 dogs and 21 cats, totaling 23 pets.",
+    "Now I need to sum the pets for all three: Teddy (15) + Ben (16) + Dave (23).",
+    "15 + 16 = 31.",
+    "31 + 23 = 54."
+  ],
+  "solution": "54"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "Malcolm is trying to find the fastest walk to school and is currently comparing two routes. In the first route, he walks for 6 minutes uphill, walks for twice this amount of time along a path, then finishes the journey in a third of the time it took to walk the first two stages. In the second route, he walks along a flat path for 14 minutes, then finishes the walk in twice this amount of time. In minutes, how much longer was the second route compared with the first?",
+  "steps": [
+    "I need to calculate the total time for the first route.",
+    "Malcolm walks for 6 minutes uphill.",
+    "Then, he walks twice this amount of time along a path, which is 6 minutes * 2 = 12 minutes.",
+    "The total time for these two stages is 6 minutes + 12 minutes = 18 minutes.",
+    "For the last stage of the first route, Malcolm takes a third of the total time of the first two stages, so that's 18 minutes / 3 = 6 minutes.",
+    "Adding this to the previous total gives the total time for the first route as 18 minutes + 6 minutes = 24 minutes.",
+    "Now, I will calculate the total time for the second route.",
+    "Malcolm walks along a flat path for 14 minutes.",
+    "Then, he finishes the walk in twice this amount of time, so that's 14 minutes * 2 = 28 minutes.",
+    "The total time for the second route is 14 minutes + 28 minutes = 42 minutes.",
+    "Now, I need to find how much longer the second route is compared to the first route.",
+    "The second route is 42 minutes, and the first route is 24 minutes.",
+    "Subtracting the first route time from the second gives 42 minutes - 24 minutes = 18 minutes."
+  ],
+  "solution": "18"
+}

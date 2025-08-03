@@ -1,0 +1,15 @@
+{
+  "query": "A jug needs 40 cups of water to be full. A custodian at Truman Elementary School has to fill water jugs for 200 students, who drink 10 cups of water in a day. How many water jugs will the custodian fill with cups of water to provide the students with all the water they need in a day?",
+  "steps": [
+    "First, I need to determine the total amount of water needed for all the students in one day.",
+    "Each student drinks 10 cups of water in a day.",
+    "There are 200 students.",
+    "I multiply the number of students by the number of cups each drinks in a day: 200 students * 10 cups/student = 2000 cups.",
+    "Now, I need to figure out how many jugs are required to hold 2000 cups of water.",
+    "Each jug can hold 40 cups of water.",
+    "To find the number of jugs needed, I divide the total cups by the capacity of one jug: 2000 cups / 40 cups/jug.",
+    "2000 divided by 40 is 50.",
+    "Thus, the custodian needs to fill 50 jugs to provide the students with all the water they need in a day."
+  ],
+  "solution": "50"
+}

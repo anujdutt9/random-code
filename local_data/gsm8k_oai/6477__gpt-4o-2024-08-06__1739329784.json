@@ -1,0 +1,22 @@
+{
+  "query": "Jackson works 5 days a week going door-to-door collecting for charity. His goal is to raise $1000 for the week. He earned $300 on Monday and $40 on Tuesday. If he collects an average of $10 for every 4 houses he visits, how many houses will he have to visit on each of the remaining days of the week to meet his goal?",
+  "steps": [
+    "First, I need to find out how much money Jackson has collected so far.",
+    "Jackson collected $300 on Monday and $40 on Tuesday.",
+    "The total he collected so far is $300 + $40 = $340.",
+    "Next, I need to determine how much more money Jackson needs to meet his weekly goal of $1000.",
+    "I subtract the money he has already collected from his goal: $1000 - $340 = $660.",
+    "Jackson needs to collect $660 more for the week.",
+    "Since Jackson works 5 days a week and has already worked 2 days, he has 3 days left to collect money.",
+    "To find out how much he needs to collect each day, I divide the remaining amount he needs by the number of days left: $660 / 3 = $220.",
+    "Jackson needs to collect $220 per day for the remaining 3 days.",
+    "I know that Jackson collects an average of $10 for every 4 houses he visits.",
+    "To find out how many houses he needs to visit to earn $220, I set up the proportion: $10/4 houses = $220/x houses.",
+    "I solve for x by cross-multiplying: 10x = 220 * 4.",
+    "This simplifies to 10x = 880.",
+    "Now I divide both sides by 10 to solve for x: x = 880 / 10.",
+    "Doing the division gives me x = 88.",
+    "Jackson needs to visit 88 houses on each of the remaining 3 days to meet his goal."
+  ],
+  "solution": "88"
+}

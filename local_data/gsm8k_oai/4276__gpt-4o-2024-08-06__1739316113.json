@@ -1,0 +1,19 @@
+{
+  "query": "It takes 320 rose petals to make an ounce of perfume. If each rose produces 8 petals, and there are 12 roses per bush, how many bushes will Fern have to harvest to make 20 12-ounce bottles of perfume?",
+  "steps": [
+    "We need to determine how many rose petals are required to produce 20 bottles of perfume.",
+    "Each bottle contains 12 ounces of perfume.",
+    "We can calculate the total ounces needed for 20 bottles by multiplying 20 bottles by 12 ounces each.",
+    "20 bottles * 12 ounces per bottle = 240 ounces.",
+    "We know it takes 320 rose petals to make one ounce of perfume.",
+    "To find the total number of petals needed, we'll multiply the number of ounces (240) by the petals per ounce (320).",
+    "240 ounces * 320 petals per ounce = 76,800 petals.",
+    "Each rose produces 8 petals.",
+    "To find how many roses are needed, divide the total number of petals (76,800) by the petals per rose (8).",
+    "76,800 petals / 8 petals per rose = 9,600 roses.",
+    "There are 12 roses per bush.",
+    "To find the number of bushes needed, divide the total number of roses (9,600) by the number of roses per bush (12).",
+    "9,600 roses / 12 roses per bush = 800 bushes."
+  ],
+  "solution": "800"
+}

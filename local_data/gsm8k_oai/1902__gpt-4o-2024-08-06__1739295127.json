@@ -1,0 +1,27 @@
+{
+  "query": "Josie and her family went on a safari and had an exciting time watching different animals grazing and playing together. She decided to count each animal she saw and calculated their total number. She counted 80 antelopes, 34 more rabbits than antelopes, 42 fewer hyenas than the total number of antelopes and rabbits combined, 50 more wild dogs than hyenas, and the number of leopards was half the number of rabbits. What the total number of animals that Josie counted?",
+  "steps": [
+    "First, let's determine the number of rabbits. Josie counted 34 more rabbits than antelopes.",
+    "She saw 80 antelopes, so the number of rabbits is 80 + 34.",
+    "80 + 34 equals 114. So, Josie counted 114 rabbits.",
+    "Now, let's calculate the total number of antelopes and rabbits.",
+    "The total is 80 antelopes plus 114 rabbits.",
+    "80 + 114 equals 194.",
+    "Josie counted 42 fewer hyenas than the total number of antelopes and rabbits.",
+    "So, the number of hyenas is 194 - 42.",
+    "194 - 42 equals 152. Thus, Josie counted 152 hyenas.",
+    "Next, let's find the number of wild dogs. Josie counted 50 more wild dogs than hyenas.",
+    "There are 152 hyenas, so the number of wild dogs is 152 + 50.",
+    "152 + 50 equals 202. So, Josie counted 202 wild dogs.",
+    "Now, let's calculate the number of leopards Josie saw. It was half the number of rabbits.",
+    "The number of rabbits is 114, so half of 114 is 114 divided by 2.",
+    "114 divided by 2 equals 57. Therefore, Josie counted 57 leopards.",
+    "Finally, let's find the total number of all the animals Josie counted.",
+    "We add the numbers of each kind of animal: 80 antelopes, 114 rabbits, 152 hyenas, 202 wild dogs, and 57 leopards.",
+    "Calculating the total, we start with 80 + 114, which equals 194.",
+    "Now, add 152 to 194, which equals 346.",
+    "Next, add 202 to 346, which equals 548.",
+    "Finally, add 57 to 548, which equals 605."
+  ],
+  "solution": "605"
+}

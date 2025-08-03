@@ -1,0 +1,17 @@
+{
+  "query": "Jan buys 5 dozen roses.  Each rose cost $6.  Since he bought so many he only needs to pay 80%.  How much did he pay?",
+  "steps": [
+    "First, I need to figure out how many roses Jan buys with 5 dozen.",
+    "A dozen equals 12, so 5 dozen roses is 5 x 12.",
+    "5 x 12 = 60. So, Jan buys 60 roses.",
+    "Each rose costs $6, so I need to calculate the total cost without the discount.",
+    "I multiply the number of roses (60) by the cost per rose ($6).",
+    "60 x 6 = $360. So, the total cost without any discount is $360.",
+    "Jan only needs to pay 80% of the total cost because of the discount.",
+    "I need to calculate 80% of $360.",
+    "80% as a decimal is 0.8.",
+    "I multiply the total cost ($360) by 0.8 to find the discounted price.",
+    "360 x 0.8 = $288."
+  ],
+  "solution": "288"
+}

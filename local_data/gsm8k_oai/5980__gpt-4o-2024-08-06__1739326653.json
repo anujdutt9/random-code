@@ -1,0 +1,13 @@
+{
+  "query": "Chuck breeds dogs.  He has 3 pregnant dogs.  They each give birth to 4 puppies.  Each puppy needs 2 shots and each shot costs $5.  How much did the shots cost?",
+  "steps": [
+    "Chuck has 3 pregnant dogs.",
+    "Each dog gives birth to 4 puppies.",
+    "So, 3 dogs x 4 puppies per dog = 12 puppies in total.",
+    "Each puppy needs 2 shots.",
+    "So, 12 puppies x 2 shots per puppy = 24 shots in total.",
+    "Each shot costs $5.",
+    "So, 24 shots x $5 per shot = $120."
+  ],
+  "solution": "120"
+}

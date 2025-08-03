@@ -1,0 +1,18 @@
+{
+  "query": "Dulce's father has eight orange trees on his farm. If each tree has 200 fruits and Dulce picks 2/5 of the oranges from each tree, calculate the total number of fruits remaining in all the trees.",
+  "steps": [
+    "First, I need to calculate the total number of oranges on all the trees.",
+    "There are 8 trees, and each tree has 200 oranges.",
+    "I multiply the number of trees by the number of oranges per tree: 8 trees * 200 oranges/tree = 1600 oranges.",
+    "Next, I will calculate the number of oranges Dulce picks from all the trees.",
+    "Dulce picks 2/5 of the oranges from each tree.",
+    "To find the fraction of oranges Dulce picks from all the trees, I'll calculate (2/5) * 1600.",
+    "First, calculate 1/5 of 1600: 1600 / 5 = 320.",
+    "Then, multiply this result by 2: 320 * 2 = 640.",
+    "Dulce picks 640 oranges in total from all the trees.",
+    "Now, I need to calculate the total number of oranges remaining.",
+    "Subtract the number of oranges picked from the total number of oranges: 1600 - 640.",
+    "1600 - 640 = 960."
+  ],
+  "solution": "960"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "You have 32$ to spend on groceries.  You buy a loaf of bread for 3$, a candy bar for 2$, and 1/3 of whats left on a Turkey.  How much money do you have left?",
+  "steps": [
+    "I start with 32 dollars.",
+    "I spend 3 dollars on a loaf of bread.",
+    "Now I subtract 3 dollars from 32 dollars.",
+    "32 dollars - 3 dollars = 29 dollars.",
+    "Next, I spend 2 dollars on a candy bar.",
+    "I subtract 2 dollars from the remaining 29 dollars.",
+    "29 dollars - 2 dollars = 27 dollars.",
+    "I am supposed to spend 1/3 of the remaining amount on a turkey.",
+    "1/3 of 27 dollars is calculated as 27 dollars divided by 3.",
+    "27 dollars \u00f7 3 = 9 dollars.",
+    "I spend 9 dollars on the turkey.",
+    "Now I subtract 9 dollars from the remaining 27 dollars.",
+    "27 dollars - 9 dollars = 18 dollars."
+  ],
+  "solution": "18"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "Donna made a cake to take to a party where the guests ate half the cake. The day after the party, she shared half the leftovers with her brothers. The following day, she ate one piece as a midnight snack. Twice as many pieces as her snack were left. How many pieces was the cake to begin with?",
+  "steps": [
+    "Let's start by identifying the sequence of events and how they impact the number of cake pieces. Donna makes a cake of unknown initial size.",
+    "At the party, guests eat half the cake. Thus, half of the cake remains.",
+    "The next day, Donna shares half of the remaining leftovers with her brothers. Now, only a quarter of the original cake is left.",
+    "The final day, Donna eats one piece of the cake as a midnight snack. After eating, twice as many pieces as her snack were left. So, there were 2 pieces left after she ate 1 piece.",
+    "If there were 2 pieces left after she ate 1 piece, that means there were originally 3 pieces just before she ate her midnight snack.",
+    "These 3 pieces represent the quarter of the original cake that was left after sharing with her brothers.",
+    "To find the total number of pieces initially, we multiply this quarter by 4, because the original whole cake is 4 times what was left after sharing with her brothers.",
+    "3 pieces (a quarter of the cake) multiplied by 4 equals 12 pieces in the original cake."
+  ],
+  "solution": "12"
+}

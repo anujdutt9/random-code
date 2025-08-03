@@ -1,0 +1,11 @@
+{
+  "query": "Question: In certain species of plants, purple flowers (P) are dominant to white flowers (p). If two heterozygous plants are crossed, what will be the phenotype of the offspring?\n\nChoices:\nA: 100% purple flowers\nB: 100% white flowers\nC: 75% white flowers, 25% purple flowers\nD: 25% white flowers, 75% purple flowers",
+  "steps": [
+    "Identify the genotypes of the parent plants. Since both plants are heterozygous for flower color, their genotypes are Pp and Pp.",
+    "Determine the possible gametes produced by each parent. Each heterozygous plant (Pp) can produce two types of gametes: P (dominant) and p (recessive).",
+    "Set up a Punnett square to find out the possible genotypes of the offspring from the cross Pp x Pp. The Punnett square will have four squares:\n- PP (homozygous dominant)\n- Pp (heterozygous)\n- Pp (heterozygous)\n- pp (homozygous recessive)",
+    "Count the phenotypes of the offspring from the Punnett square results. The phenotypes corresponding to the genotypes are:\n- PP = purple flowers\n- Pp = purple flowers\n- Pp = purple flowers\n- pp = white flowers\nThus, there are 3 purple (PP and Pp) and 1 white (pp), leading to a ratio of 3:1.",
+    "Convert the ratio to a percentage. 3 out of 4 (or 75%) of the offspring will have purple flowers, and 1 out of 4 (or 25%) will have white flowers."
+  ],
+  "solution": "D"
+}

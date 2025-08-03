@@ -1,0 +1,16 @@
+{
+  "query": "James buys 6 t-shirts for 50% off.  They each cost $20.  How much did he pay?",
+  "steps": [
+    "I need to determine the original price of one t-shirt.",
+    "Each t-shirt costs $20.",
+    "James buys the t-shirts at 50% off.",
+    "To find the discounted price of one t-shirt, I multiply $20 by 50%.",
+    "50% as a decimal is 0.50.",
+    "Calculating 50% of $20: 20 * 0.50 = $10.",
+    "The discounted price of one t-shirt is $10.",
+    "James buys 6 t-shirts.",
+    "To find the total cost, I multiply the discounted price by the number of t-shirts: $10 * 6.",
+    "Calculating the total cost: 10 * 6 = $60."
+  ],
+  "solution": "60"
+}

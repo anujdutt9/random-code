@@ -1,0 +1,18 @@
+{
+  "query": "An alien invades Earth.  It abducts 200 people.  He returns 80% of the people abducted.  After that he takes 10 people to another planet.  He took the rest to his home planet.  How many people did he take to his home planet?",
+  "steps": [
+    "The alien abducts 200 people initially.",
+    "He returns 80% of those 200 people.",
+    "To find out how many people are returned, calculate 80% of 200.",
+    "80% of 200 is 0.8 * 200.",
+    "0.8 * 200 equals 160.",
+    "So, 160 people are returned to Earth.",
+    "Subtract the 160 people who were returned from the original 200 people.",
+    "200 - 160 equals 40 people who were not returned.",
+    "The alien takes 10 of those 40 people to another planet.",
+    "Subtract the 10 people taken to another planet from the 40 people who were not returned.",
+    "40 - 10 equals 30.",
+    "So, 30 people were taken to his home planet."
+  ],
+  "solution": "30"
+}

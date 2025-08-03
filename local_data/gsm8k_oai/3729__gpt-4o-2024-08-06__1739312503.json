@@ -1,0 +1,12 @@
+{
+  "query": "Stan makes a playlist for the next time he goes running. He has 10 3-minute songs and 15 2-minute songs on his playlist. His entire run takes 100 minutes. If Stan wants a playlist to cover his entire run, how many more minutes of songs will he need in his playlist?",
+  "steps": [
+    "First, determine the total duration of the songs Stan currently has in his playlist.",
+    "He has 10 songs that are 3 minutes long, which totals 10 * 3 = 30 minutes.",
+    "He also has 15 songs that are 2 minutes long, which totals 15 * 2 = 30 minutes.",
+    "Add the total duration of all songs: 30 minutes (from 3-minute songs) + 30 minutes (from 2-minute songs) = 60 minutes.",
+    "His running time is 100 minutes.",
+    "Subtract the total duration of his current playlist from the running time to find out how many more minutes he needs: 100 minutes - 60 minutes = 40 minutes."
+  ],
+  "solution": "40"
+}

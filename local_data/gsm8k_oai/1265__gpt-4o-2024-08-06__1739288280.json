@@ -1,0 +1,20 @@
+{
+  "query": "A family's water and electricity bills average $30 a month for the first 4 months and $24 a month for the last 2 months. If the family's bills were averaged over all 6 months, what would the average monthly bill be?",
+  "steps": [
+    "First, I need to calculate the total cost of the bills for the first 4 months.",
+    "The bills averaged $30 a month for these 4 months, so the total cost is 4 months * $30/month.",
+    "4 * 30 = 120",
+    "The total cost for the first 4 months is $120.",
+    "Next, I need to calculate the total cost of the bills for the last 2 months.",
+    "The bills averaged $24 a month for these 2 months, so the total cost is 2 months * $24/month.",
+    "2 * 24 = 48",
+    "The total cost for the last 2 months is $48.",
+    "Now, I need to find the total cost for all 6 months by adding the cost of the first 4 months to the cost of the last 2 months.",
+    "120 + 48 = 168",
+    "The total cost for all 6 months is $168.",
+    "To find the average monthly bill for the 6 months, I need to divide the total cost by the number of months.",
+    "168 / 6 = 28",
+    "The average monthly bill over the 6 months is $28."
+  ],
+  "solution": "28"
+}

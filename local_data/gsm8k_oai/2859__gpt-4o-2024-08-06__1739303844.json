@@ -1,0 +1,20 @@
+{
+  "query": "Allen ordered five boxes of pizza, which cost $7 each box. He then gave a tip which amounts to 1/7 of the total cost of his order. If he gave the delivery man $100, how much change did he receive?",
+  "steps": [
+    "First, I need to calculate the total cost of the pizzas before the tip.",
+    "Allen ordered 5 boxes of pizza, and each box costs $7.",
+    "To find the total cost for the pizzas, I multiply the number of boxes by the price per box: 5 * $7.",
+    "5 * $7 = $35.",
+    "Next, I calculate the tip amount.",
+    "The tip is 1/7 of the total cost of the pizzas, so I take 1/7 of $35.",
+    "To find 1/7 of $35, I divide $35 by 7.",
+    "$35 \u00f7 7 = $5.",
+    "Now I need to calculate the total amount Allen actually spent, including the tip.",
+    "The total amount spent is the sum of the cost of the pizzas and the tip: $35 + $5.",
+    "$35 + $5 = $40.",
+    "Allen gave the delivery man $100.",
+    "To find the change Allen received, I subtract the total amount spent from the amount given: $100 - $40.",
+    "$100 - $40 = $60."
+  ],
+  "solution": "60"
+}

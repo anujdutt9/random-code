@@ -1,0 +1,13 @@
+{
+  "query": "James takes 2 Tylenol tablets that are 375 mg each, every 6 hours.  How many mg does he take a day?",
+  "steps": [
+    "James takes 2 Tylenol tablets every 6 hours.",
+    "Each tablet is 375 mg.",
+    "First, calculate the total mg for one dose: \\(2 \\times 375 = 750\\) mg per dose.",
+    "He takes one dose every 6 hours, so we need to find out how many doses he takes in a day.",
+    "There are 24 hours in a day.",
+    "We divide 24 hours by 6 hours per dose: \\(24 / 6 = 4\\) doses per day.",
+    "Now, calculate the total mg taken in a day: \\(4 \\times 750 = 3000\\) mg per day."
+  ],
+  "solution": "3000"
+}

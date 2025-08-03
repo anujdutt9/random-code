@@ -1,0 +1,21 @@
+{
+  "query": "Ellen is painting flowers on a vase. It takes her 5 minutes to paint a lily, 7 minutes to paint a rose, 3 minutes to paint an orchid, and 2 minutes to paint a vine. How long will it take her to paint 17 lilies, 10 roses, 6 orchids and 20 vines?",
+  "steps": [
+    "First, I need to calculate the total time it takes to paint the lilies. Ellen takes 5 minutes per lily.",
+    "She has to paint 17 lilies. So, I multiply 17 by 5.",
+    "17 lilies x 5 minutes per lily = 85 minutes for lilies.",
+    "Next, I calculate the total time it takes to paint the roses. Ellen takes 7 minutes per rose.",
+    "She has to paint 10 roses. So, I multiply 10 by 7.",
+    "10 roses x 7 minutes per rose = 70 minutes for roses.",
+    "Now, I calculate the total time it takes to paint the orchids. It takes Ellen 3 minutes per orchid.",
+    "She has to paint 6 orchids. So, I multiply 6 by 3.",
+    "6 orchids x 3 minutes per orchid = 18 minutes for orchids.",
+    "Next, I calculate the total time it takes to paint the vines. Ellen takes 2 minutes per vine.",
+    "She has to paint 20 vines. So, I multiply 20 by 2.",
+    "20 vines x 2 minutes per vine = 40 minutes for vines.",
+    "Now, I need to add up all the times for each type of flower to get the total.",
+    "Add 85 minutes (lilies) + 70 minutes (roses) + 18 minutes (orchids) + 40 minutes (vines).",
+    "85 + 70 + 18 + 40 = 213"
+  ],
+  "solution": "213"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "There is 80 mg of caffeine in a cup of coffee. Lisa does not want to drink more than 200 mg of caffeine per day. If she drinks three cups of coffee, how many milligrams of coffee did Lisa drink over her goal?",
+  "steps": [
+    "First, I need to calculate the total amount of caffeine Lisa consumes if she drinks three cups of coffee.",
+    "Each cup of coffee contains 80 mg of caffeine.",
+    "For three cups of coffee, the total caffeine intake would be 3 cups * 80 mg/cup.",
+    "Calculate 3 * 80 mg to find the total caffeine intake.",
+    "3 * 80 mg = 240 mg.",
+    "Now, compare the total caffeine intake to Lisa's maximum desired limit of 200 mg per day.",
+    "Lisa's total caffeine intake (240 mg) exceeds her limit (200 mg).",
+    "To find out how many milligrams over her goal Lisa drank, subtract the goal from her total intake.",
+    "240 mg (intake) - 200 mg (goal) = 40 mg."
+  ],
+  "solution": "40"
+}

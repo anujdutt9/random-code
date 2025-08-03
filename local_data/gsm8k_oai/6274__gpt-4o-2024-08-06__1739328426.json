@@ -1,0 +1,26 @@
+{
+  "query": "Jill is going to resod her front yard. The plot of land in front of her house is 200 feet wide by 50 feet. Her house has a sidewalk that is 3 feet wide and 50 feet long. There are also four flower beds: two right in front of the house that are 4 feet deep by 25 feet long, one that is 10 feet by 12 feet, and a fourth that is 7 feet by 8 feet. How many square feet of sod will she need to cover her yard, minus the sidewalk and flower beds?",
+  "steps": [
+    "First, I need to find the total area of the plot of land in front of Jill's house.",
+    "The width of the plot is 200 feet and the length is 50 feet.",
+    "The total area is calculated by multiplying the width by the length: 200 feet * 50 feet.",
+    "The total area of the plot is 10,000 square feet.",
+    "Now, I need to find the area of the sidewalk that will not be sodded.",
+    "The sidewalk is 3 feet wide and 50 feet long.",
+    "The area of the sidewalk is 3 feet * 50 feet = 150 square feet.",
+    "Next, I need to find the area of the first two flower beds, which are each 4 feet deep by 25 feet long.",
+    "Each flower bed has an area of 4 feet * 25 feet = 100 square feet.",
+    "There are two identical flower beds in front of the house.",
+    "The total area for these two flower beds is 2 * 100 square feet = 200 square feet.",
+    "Now, I need to find the area of the third flower bed, which is 10 feet by 12 feet.",
+    "The area of the third flower bed is 10 feet * 12 feet = 120 square feet.",
+    "Finally, I need to find the area of the fourth flower bed, which is 7 feet by 8 feet.",
+    "The area of the fourth flower bed is 7 feet * 8 feet = 56 square feet.",
+    "I will add the areas of the sidewalk and all the flower beds together to find the total area that will not be sodded.",
+    "The total area not sodded is 150 (sidewalk) + 200 (first two flower beds) + 120 (third flower bed) + 56 (fourth flower bed).",
+    "150 + 200 + 120 + 56 = 526 square feet will not be sodded.",
+    "To find the area that will be sodded, I subtract the total area not sodded (526 square feet) from the total plot area (10,000 square feet).",
+    "10,000 square feet - 526 square feet = 9,474 square feet of sod will be needed."
+  ],
+  "solution": "9474"
+}

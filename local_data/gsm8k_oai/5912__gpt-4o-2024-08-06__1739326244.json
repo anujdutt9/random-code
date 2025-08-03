@@ -1,0 +1,20 @@
+{
+  "query": "A school canteen sells a sandwich at $2, a hamburger at $2, one stick of hotdog at $1, and a can of fruit juice at $2 each can. Selene buys three sandwiches and a can of fruit juice. Tanya buys two hamburgers and two cans of fruit juice.  How much do Selene and Tanya spend together?",
+  "steps": [
+    "First, I need to calculate how much Selene spends. Selene buys three sandwiches and a can of fruit juice.",
+    "The cost of one sandwich is $2.",
+    "Selene buys three sandwiches, so three sandwiches cost 3 * $2 = $6.",
+    "The cost of one can of fruit juice is $2.",
+    "Selene buys one can of fruit juice, so one can costs $2.",
+    "The total amount Selene spends is $6 (for sandwiches) + $2 (for fruit juice) = $8.",
+    "Next, I need to calculate how much Tanya spends. Tanya buys two hamburgers and two cans of fruit juice.",
+    "The cost of one hamburger is $2.",
+    "Tanya buys two hamburgers, so two hamburgers cost 2 * $2 = $4.",
+    "The cost of one can of fruit juice is $2.",
+    "Tanya buys two cans of fruit juice, so two cans cost 2 * $2 = $4.",
+    "The total amount Tanya spends is $4 (for hamburgers) + $4 (for fruit juice) = $8.",
+    "Selene spends $8 and Tanya spends $8.",
+    "The total amount Selene and Tanya spend together is $8 + $8 = $16."
+  ],
+  "solution": "16"
+}

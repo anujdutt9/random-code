@@ -1,0 +1,15 @@
+{
+  "query": "There is three less than four times the number of students in Elementary School as there are in Middle School.  If the number of students in Middle school is 50, calculate the total number of students in both levels.",
+  "steps": [
+    "I am given that the number of students in Middle School is 50.",
+    "The problem states that the number of students in Elementary School is three less than four times the number of students in Middle School.",
+    "To find the number of students in Elementary School, I need to calculate four times the number of students in Middle School.",
+    "Four times the number of students in Middle School is 4 * 50 = 200.",
+    "The number of students in Elementary School is three less than this result, so I subtract 3 from 200.",
+    "Therefore, the number of students in Elementary School is 200 - 3 = 197.",
+    "Now, I need to find the total number of students in both Elementary and Middle Schools by adding the number of students in each.",
+    "The total number of students is 50 (Middle School) + 197 (Elementary School).",
+    "Thus, the total number of students is 247."
+  ],
+  "solution": "247"
+}

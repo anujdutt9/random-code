@@ -1,0 +1,16 @@
+{
+  "query": "An apple tree produces 40 apples in its first year.  The second year the apple tree produces 8 more than double the amount of apples that it produced the first year, and the third year production went down by a fourth due to an insect infestation.  How many apples did the tree produce in total in the first three years?",
+  "steps": [
+    "In the first year, the apple tree produces 40 apples.",
+    "Next, I need to calculate the number of apples produced in the second year. It is 8 more than double the first year's production.",
+    "Double the first year's production is 40 \u00d7 2 = 80 apples.",
+    "Adding 8 gives the second year's production: 80 + 8 = 88 apples.",
+    "For the third year's production, it decreased by one fourth compared to the second year due to an insect infestation.",
+    "One fourth of the second year's production is 88 \u00d7 0.25 = 22 apples.",
+    "Subtracting the decrease from the second year's production gives the third year's production: 88 - 22 = 66 apples.",
+    "Now, I add the production of all three years to find the total number of apples.",
+    "The total production is 40 + 88 + 66 apples.",
+    "Calculating the sum: 40 + 88 + 66 = 194."
+  ],
+  "solution": "194"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "If there were 200 students who passed an English course three years ago, and each subsequent year until the current one that number increased by 50% of the previous year's number, how many students will pass the course this year?",
+  "steps": [
+    "Initially, there were 200 students who passed the English course three years ago.",
+    "Let's calculate the number of students who passed the course two years ago.",
+    "Two years ago, the number of students who passed increased by 50% from 200.",
+    "To find 50% of 200, I calculate 0.5 * 200 = 100.",
+    "Adding this to the original number: 200 + 100 = 300 students passed two years ago.",
+    "Now, let's calculate the number of students who passed the course last year.",
+    "Last year, the number increased by 50% from 300.",
+    "To find 50% of 300, I calculate 0.5 * 300 = 150.",
+    "Adding this to the number from two years ago: 300 + 150 = 450 students passed last year.",
+    "Finally, I'll calculate the number of students who will pass the course this year.",
+    "This year, the number increases by 50% from last year's 450.",
+    "To find 50% of 450, I calculate 0.5 * 450 = 225.",
+    "Adding this to the number from last year: 450 + 225 = 675 students will pass this year."
+  ],
+  "solution": "675"
+}

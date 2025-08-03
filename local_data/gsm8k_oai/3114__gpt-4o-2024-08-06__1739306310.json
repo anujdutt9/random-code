@@ -1,0 +1,20 @@
+{
+  "query": "Jill sells girl scout cookies.  This year, she wants to sell at least 150 cookie boxes.  Her first customer buys 5 boxes,  Her second one buys 4 times more than her first customer.  Her third customer buys half as much as her second.  The fourth customer buys 3 times as much as her third.  Lastly, her final customer buys 10.  How many boxes so Jill have left to sell to hit her sales goal?",
+  "steps": [
+    "Jill's goal is to sell at least 150 cookie boxes.",
+    "Her first customer buys 5 boxes.",
+    "The second customer buys 4 times more than the first. 4 times 5 is 20.",
+    "The third customer buys half as much as the second. Half of 20 is 10.",
+    "The fourth customer buys 3 times as much as the third. 3 times 10 is 30.",
+    "The final customer buys 10 boxes.",
+    "Now, I will calculate the total number of boxes sold: 5 + 20 + 10 + 30 + 10.",
+    "5 plus 20 is 25.",
+    "25 plus 10 is 35.",
+    "35 plus 30 is 65.",
+    "65 plus 10 is 75.",
+    "Jill sold a total of 75 boxes of cookies.",
+    "To find out how many more boxes Jill needs to sell, subtract the total sold from her goal: 150 - 75.",
+    "150 minus 75 is 75."
+  ],
+  "solution": "75"
+}

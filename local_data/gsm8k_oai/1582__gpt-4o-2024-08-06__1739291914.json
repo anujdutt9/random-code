@@ -1,0 +1,15 @@
+{
+  "query": "Connie redeemed all her arcade tickets today. She spent half of them on a stuffed koala bear. She spent 10 tickets on a pair of earbuds. She spent another 15 tickets on glow bracelets. How many tickets did Connie redeem today?",
+  "steps": [
+    "Let the total number of tickets Connie redeemed today be \\( T \\).",
+    "She spent half of her tickets on a stuffed koala bear. Thus, the tickets spent on the koala bear is \\( \\frac{T}{2} \\).",
+    "She also spent 10 tickets on earbuds.",
+    "Additionally, she spent 15 tickets on glow bracelets.",
+    "The sum of all tickets spent is the total number of tickets, so we have the equation: \\( \\frac{T}{2} + 10 + 15 = T \\).",
+    "Simplify the equation: \\( \\frac{T}{2} + 25 = T \\).",
+    "To eliminate the fraction, multiply every term by 2: \\( T + 50 = 2T \\).",
+    "Rearrange the equation: \\( 50 = 2T - T \\).",
+    "Combine like terms on the right side: \\( 50 = T \\)."
+  ],
+  "solution": "50"
+}

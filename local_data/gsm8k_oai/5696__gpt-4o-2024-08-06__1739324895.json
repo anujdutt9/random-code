@@ -1,0 +1,14 @@
+{
+  "query": "Georgina owns a parrot and is teaching it to speak. So far, the parrot knows seventeen phrases. If she is teaching it two phrases a week and it already knew three phrases when she bought it, how many days has Georgina had it?",
+  "steps": [
+    "The parrot currently knows 17 phrases.",
+    "The parrot knew 3 phrases when Georgina bought it.",
+    "The number of new phrases the parrot has learned since Georgina bought it is 17 phrases - 3 phrases = 14 phrases.",
+    "Georgina is teaching the parrot 2 new phrases each week.",
+    "To find out how many weeks it took to teach 14 new phrases, divide 14 phrases by 2 phrases per week.",
+    "14 phrases / 2 phrases per week = 7 weeks.",
+    "Since there are 7 days in a week, calculate the total number of days Georgina has had the parrot: 7 weeks * 7 days per week.",
+    "7 weeks * 7 days per week = 49 days."
+  ],
+  "solution": "49"
+}

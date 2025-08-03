@@ -1,0 +1,12 @@
+{
+  "query": "A club is going to get additional members so that they will have 5 more than twice their current number of their members. If the club has 10 members now, how many additional members do they need?",
+  "steps": [
+    "Currently, the club has 10 members.",
+    "The problem states they want a total number of members to be 5 more than twice their current number.",
+    "First, calculate twice the current number of members: 2 * 10 = 20.",
+    "Then, add 5 to this result: 20 + 5 = 25. So they want 25 members total.",
+    "Now, subtract the current number of members from the desired total: 25 - 10 = 15.",
+    "Therefore, the club needs 15 additional members to reach the goal."
+  ],
+  "solution": "15"
+}

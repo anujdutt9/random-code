@@ -1,0 +1,23 @@
+{
+  "query": "At a certain school, 2/3 of the population are females. One-tenth of the males are foreign students. If the school has 300 students, how many students are non-foreign male students?",
+  "steps": [
+    "First, I need to find the total number of females in the school.",
+    "The total number of students is 300.",
+    "Two-thirds of the school population are females.",
+    "To find the number of females, I will multiply 300 by 2/3.",
+    "300 \u00d7 (2/3) = 200. So, there are 200 female students.",
+    "Now, I need to find the total number of male students.",
+    "The school has 300 students, and 200 of them are female.",
+    "So, the number of male students is 300 - 200.",
+    "300 - 200 = 100. So, there are 100 male students.",
+    "Next, I need to find out how many males are foreign students.",
+    "One-tenth of the male students are foreign.",
+    "To find the number of foreign male students, I will multiply 100 by 1/10.",
+    "100 \u00d7 (1/10) = 10. So, there are 10 foreign male students.",
+    "Finally, I need to find the number of non-foreign male students.",
+    "The total number of male students is 100, and 10 of those are foreign.",
+    "So, the number of non-foreign male students is 100 - 10.",
+    "100 - 10 = 90. So, there are 90 non-foreign male students."
+  ],
+  "solution": "90"
+}

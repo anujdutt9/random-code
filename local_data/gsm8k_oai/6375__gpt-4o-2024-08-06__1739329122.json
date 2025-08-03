@@ -1,0 +1,13 @@
+{
+  "query": "Pat\u2019s computer password is made up of several kinds of alphanumeric and symbol characters for security. He uses a string of eight random lowercase letters, a string half that length of alternating upper case letters and numbers, and one symbol on each end of the password. How many characters in all is Pat\u2018s computer password?",
+  "steps": [
+    "First, I need to figure out how many lowercase letters are in Pat's password. It states that there are eight random lowercase letters.",
+    "Next, I need to determine the length of the string made up of alternating uppercase letters and numbers, which is half the length of the string of lowercase letters. Half of eight is four.",
+    "This means there are four characters in the string of alternating uppercase letters and numbers.",
+    "Finally, I have to account for the two symbols mentioned, one at each end of the password.",
+    "Adding all those parts together, we have: 8 lowercase letters + 4 alternating uppercase letters and numbers + 2 symbols.",
+    "The total number of characters in Pat's password is therefore 8 + 4 + 2.",
+    "Adding these together gives us 14 characters in total."
+  ],
+  "solution": "14"
+}

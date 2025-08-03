@@ -1,0 +1,20 @@
+{
+  "query": "Claudia has 122 ounces of water and is filling up cups. She has 8-ounce glasses, 5-ounce glasses, and 4-ounce glasses. If she fills six 5 ounce glasses and four 8 ounce glasses, how many 4 ounce glasses can she fill with the remaining water?",
+  "steps": [
+    "Claudia starts with 122 ounces of water.",
+    "She fills six 5-ounce glasses. I need to calculate how much water is used here.",
+    "6 glasses * 5 ounces/glass = 30 ounces.",
+    "Claudia uses 30 ounces for the 5-ounce glasses.",
+    "Next, she fills four 8-ounce glasses. I need to calculate how much water is used here.",
+    "4 glasses * 8 ounces/glass = 32 ounces.",
+    "Claudia uses 32 ounces for the 8-ounce glasses.",
+    "I need to find the total amount of water used for both the 5-ounce and the 8-ounce glasses.",
+    "30 ounces (5-ounce glasses) + 32 ounces (8-ounce glasses) = 62 ounces.",
+    "Now, I calculate how much water is left: 122 ounces initial - 62 ounces used = 60 ounces remaining.",
+    "Claudia now has 60 ounces remaining to fill the 4-ounce glasses.",
+    "To find how many 4-ounce glasses can be filled, I divide the remaining ounces by the size of each glass.",
+    "60 ounces / 4 ounces per glass = 15 glasses.",
+    "Claudia can fill 15 of the 4-ounce glasses."
+  ],
+  "solution": "15"
+}

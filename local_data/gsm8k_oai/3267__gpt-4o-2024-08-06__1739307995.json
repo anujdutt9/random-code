@@ -1,0 +1,13 @@
+{
+  "query": "Caleb is baking a birthday cake for his grandfather. His grandfather is turning 79 years old. Caleb puts three colors of candles on the cake. He puts one candle for each year for his grandfather. He puts 27 yellow candles, 14 red candles and the rest are blue candles. How many blue candles did he use?",
+  "steps": [
+    "Caleb's grandfather is turning 79 years old.",
+    "Caleb puts one candle for each year, so he needs a total of 79 candles.",
+    "Caleb uses 27 yellow candles.",
+    "Caleb uses 14 red candles.",
+    "To find out how many blue candles he uses, I need to subtract the number of yellow and red candles from the total number of candles.",
+    "First, I add the yellow and red candles together: 27 yellow candles + 14 red candles = 41 candles.",
+    "Next, I subtract the combined number of yellow and red candles from the total number of candles: 79 total candles - 41 candles = 38 candles."
+  ],
+  "solution": "38"
+}

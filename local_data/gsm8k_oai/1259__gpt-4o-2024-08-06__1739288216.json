@@ -1,0 +1,15 @@
+{
+  "query": "Ryanne is 7 years older than Hezekiah. Together Ryanne's and Hezekiah's ages equal 15 years. How many years old is Hezekiah?",
+  "steps": [
+    "Let's define Hezekiah's age as H.",
+    "Ryanne is 7 years older than Hezekiah. Therefore, Ryanne's age can be expressed as H + 7.",
+    "According to the problem, the sum of their ages is 15. Thus, we can write the equation: H + (H + 7) = 15.",
+    "Combine the H terms on the left side of the equation: 2H + 7 = 15.",
+    "To find 2H, subtract 7 from both sides: 2H = 15 - 7.",
+    "Calculate 15 - 7, which equals 8. Therefore, 2H = 8.",
+    "Now, solve for H by dividing both sides by 2: H = 8 / 2.",
+    "Calculate 8 / 2, which equals 4.",
+    "Therefore, Hezekiah is 4 years old."
+  ],
+  "solution": "4"
+}

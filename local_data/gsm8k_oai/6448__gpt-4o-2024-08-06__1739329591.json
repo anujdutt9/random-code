@@ -1,0 +1,19 @@
+{
+  "query": "Six kids and two adults are going to the circus. Kid's tickets are on sale for only half of the adult tickets. The total cost is $50. How much is one kid's ticket?",
+  "steps": [
+    "Let's define some variables to make things clearer. Let the price of an adult ticket be A dollars.",
+    "According to the problem, a kid's ticket costs half of an adult ticket. Therefore, the price of a kid's ticket is A/2 dollars.",
+    "There are two adults and six kids going to the circus. Therefore, the cost for adults would be 2A dollars.",
+    "Similarly, the cost for kids would be 6 times the price of one kid's ticket, which is 6(A/2) dollars.",
+    "The total cost for both adults and kids is $50. Therefore, we can write the equation for the total cost as: \n\n2A + 6(A/2) = 50",
+    "Simplify the expression 6(A/2), which is 6 * A/2 = 3A.",
+    "Our equation is now 2A + 3A = 50.",
+    "Combine the terms on the left side to get 5A = 50.",
+    "To find A, divide both sides by 5. So, A = 50 / 5.",
+    "Calculating this gives A = 10.",
+    "We earlier defined A as the price of an adult's ticket. Thus, one adult ticket is $10.",
+    "Since a kid's ticket costs half of an adult's ticket, the price of a kid's ticket is A/2 = 10/2.",
+    "This simplifies to 5."
+  ],
+  "solution": "5"
+}

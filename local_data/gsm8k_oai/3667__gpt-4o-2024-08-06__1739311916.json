@@ -1,0 +1,14 @@
+{
+  "query": "Every bedtime, Juwella reads a book. Three nights ago, she read 15 pages. Two nights ago she read twice that many pages, while last night she read 5 pages more than the previous night. She promised to read the remaining pages of the book tonight. If the book has 100 pages, how many pages will she read tonight?",
+  "steps": [
+    "First, determine how many pages Juwella read three nights ago. She read 15 pages.",
+    "Next, calculate how many pages she read two nights ago. She read twice as many pages as three nights ago. That is 2 * 15 = 30 pages.",
+    "Now, find out how many pages she read last night. She read 5 more pages than the night before (two nights ago). That is 30 + 5 = 35 pages.",
+    "Add up the total number of pages Juwella has read so far. This is 15 + 30 + 35.",
+    "Calculate the sum of pages read: 15 + 30 = 45.",
+    "Add the last night\u2019s reading: 45 + 35 = 80 pages.",
+    "Determine the total number of pages in the book, which is 100.",
+    "To find out how many pages Juwella will read tonight, subtract the pages she has read from the total. That is 100 - 80 = 20 pages."
+  ],
+  "solution": "20"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "Andy is running late. School starts at 8:00 AM and it normally takes him 30 minutes to get there, but today he had to stop for 3 minutes each at 4 red lights and wait 10 minutes to get past construction. If he left his house at 7:15, how many minutes late will he be?",
+  "steps": [
+    "First, I need to calculate the time it normally takes Andy to get to school.",
+    "It takes him 30 minutes to get to school under normal circumstances.",
+    "Next, I will calculate the total additional time for the delays Andy faced today.",
+    "Each red light causes a delay of 3 minutes, and there are 4 red lights. So, 4 red lights x 3 minutes each = 12 minutes.",
+    "The construction added an additional delay of 10 minutes.",
+    "Adding the delays from the red lights and the construction: 12 minutes (red lights) + 10 minutes (construction) = 22 minutes of total delay.",
+    "Now, I will add the normal travel time and the total delay together to find the total travel time today.",
+    "30 minutes (normal time) + 22 minutes (delays) = 52 minutes total travel time today.",
+    "Since Andy left home at 7:15 AM, I'll calculate what time he should have arrived at school.",
+    "Adding the 52 minutes travel time to the 7:15 AM departure time: 7:15 + 52 minutes.",
+    "7:15 AM + 45 minutes = 8:00 AM, and 7 minutes more means he arrives at 8:07 AM.",
+    "School starts at 8:00 AM, so now I need to determine how late he is by comparing his arrival time to the start time.",
+    "Andy arrives at 8:07 AM, which means he is 7 minutes late."
+  ],
+  "solution": "7"
+}

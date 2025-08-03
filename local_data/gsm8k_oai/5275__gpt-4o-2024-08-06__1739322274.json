@@ -1,0 +1,13 @@
+{
+  "query": "Bert, Ernie, and Peggy collect stamps.  Bert has four times as many stamps as Ernie, but Ernie has three times as many stamps as Peggy.  If Peggy currently has 75 stamps in her collection, how many stamps does she need to add to her collection to have a collection as large as Bert's collection?",
+  "steps": [
+    "Peggy currently has 75 stamps.",
+    "Ernie has three times as many stamps as Peggy.",
+    "Calculate Ernie's stamps: 75 stamps * 3 = 225 stamps.",
+    "Bert has four times as many stamps as Ernie.",
+    "Calculate Bert's stamps: 225 stamps * 4 = 900 stamps.",
+    "Peggy currently has 75 stamps and needs 900 stamps to match Bert's collection.",
+    "Calculate how many more stamps Peggy needs: 900 stamps - 75 stamps = 825 stamps."
+  ],
+  "solution": "825"
+}

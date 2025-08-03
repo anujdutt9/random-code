@@ -1,0 +1,15 @@
+{
+  "query": "Tony exercises every morning by walking 3 miles carrying a 25-pound backpack, then he runs another 10 miles without the backpack.  If he walks at a speed of 3 miles per hour and runs at a speed of 5 miles per hour, how many hours each week does he spend exercising?",
+  "steps": [
+    "First, I need to calculate how long Tony spends walking each day. He walks 3 miles at a speed of 3 miles per hour.",
+    "To find the time spent walking each day, divide the distance by the speed: 3 miles / 3 miles per hour = 1 hour.",
+    "Next, I need to calculate how long Tony spends running each day. He runs 10 miles at a speed of 5 miles per hour.",
+    "To find the time spent running each day, divide the distance by the speed: 10 miles / 5 miles per hour = 2 hours.",
+    "Now, I know that each day Tony spends 1 hour walking and 2 hours running.",
+    "Adding these times gives me the total time Tony spends exercising each day: 1 hour + 2 hours = 3 hours.",
+    "Assuming he exercises every day of the week, I need to calculate the total weekly exercise time.",
+    "Multiply the daily exercise time by the number of days in a week: 3 hours/day * 7 days/week.",
+    "Calculate the total weekly exercise time: 3 hours/day * 7 days/week = 21 hours."
+  ],
+  "solution": "21"
+}

@@ -1,0 +1,22 @@
+{
+  "query": "Ellie went to visit a circus with Sarah and they both got lost in the house of mirrors. They have to travel through the house of mirrors a few times before they finally get out and when they leave, they discuss how many times they've seen their own reflections. Sarah says that every time they were in the room with tall mirrors, she saw her reflection 10 times and every time they were in the room with wide mirrors, she saw her reflection 5 times. Ellie says that every time they were in the room with tall mirrors, she saw her reflection 6 times and every time they were in the room with wide mirrors she saw her reflection 3 times. They both passed through the room with tall mirrors 3 times each and they both passed through the room with wide mirrors 5 times each. In total, how many times did Sarah and Ellie see their reflections?",
+  "steps": [
+    "First, I will calculate how many times Sarah saw her reflection in the room with tall mirrors.",
+    "Sarah says she saw her reflection 10 times each time in the room with tall mirrors and she went through it 3 times.",
+    "The total reflections Sarah saw in the tall mirror room is 10 reflections/time * 3 times = 30 reflections.",
+    "Next, I will calculate how many times Sarah saw her reflection in the room with wide mirrors.",
+    "Sarah says she saw her reflection 5 times each time in the room with wide mirrors and she went through it 5 times.",
+    "The total reflections Sarah saw in the wide mirror room is 5 reflections/time * 5 times = 25 reflections.",
+    "Next, I will calculate how many times Ellie saw her reflection in the room with tall mirrors.",
+    "Ellie says she saw her reflection 6 times each time in the room with tall mirrors and she went through it 3 times.",
+    "The total reflections Ellie saw in the tall mirror room is 6 reflections/time * 3 times = 18 reflections.",
+    "Next, I will calculate how many times Ellie saw her reflection in the room with wide mirrors.",
+    "Ellie says she saw her reflection 3 times each time in the room with wide mirrors and she went through it 5 times.",
+    "The total reflections Ellie saw in the wide mirror room is 3 reflections/time * 5 times = 15 reflections.",
+    "Now I will sum up the total reflections seen by both Sarah and Ellie.",
+    "Total reflections seen by Sarah is 30 reflections (tall mirrors) + 25 reflections (wide mirrors) = 55 reflections.",
+    "Total reflections seen by Ellie is 18 reflections (tall mirrors) + 15 reflections (wide mirrors) = 33 reflections.",
+    "The total number of reflections seen by both Sarah and Ellie is 55 reflections (Sarah) + 33 reflections (Ellie) = 88 reflections."
+  ],
+  "solution": "88"
+}

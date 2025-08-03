@@ -1,0 +1,22 @@
+{
+  "query": "There are 40 students in the 6th  grade.  25% of them wear glasses and 40% of them wear contact lenses.  How many students do not wear any vision assistance wear?",
+  "steps": [
+    "I know there are 40 students in total in the 6th grade.",
+    "I also know that 25% of these students wear glasses.",
+    "To find out how many students wear glasses, I multiply 40 students by 25% (or 0.25).",
+    "40 * 0.25 equals 10 students who wear glasses.",
+    "Next, I know that 40% of the students wear contact lenses.",
+    "To find out how many students wear contact lenses, I multiply 40 students by 40% (or 0.4).",
+    "40 * 0.4 equals 16 students who wear contact lenses.",
+    "Some students might wear both glasses and contact lenses, which means I need to consider intersection effects.",
+    "I need to find the number of students who wear either glasses or contacts or both.",
+    "Since some details are not given, like how many students wear both, I can try another approach.",
+    "I will list out all who wear any form of vision assistance and subtract from total.",
+    "The students who only wear glasses or contact lenses can be found using an assumption that intersection is 0.",
+    "If no one wears both, 10 students wear glasses, and 16 students wear contact lenses.",
+    "10 + 16 is 26 students using vision correction.",
+    "I subtract students wearing vision correction from the total number of students: 40 - 26.",
+    "40 \u2212 26 equals 14 students who do not wear any vision assistance wear."
+  ],
+  "solution": "14"
+}

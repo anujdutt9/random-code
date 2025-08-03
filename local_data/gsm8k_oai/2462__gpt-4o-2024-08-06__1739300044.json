@@ -1,0 +1,18 @@
+{
+  "query": "Andy can get 50 demerits in a month before getting fired. If he got 2 demerits per instance for showing up late 6 times and 15 demerits for making an inappropriate joke, how many more demerits can he get this month before getting fired?",
+  "steps": [
+    "First, I need to calculate the total demerits Andy received for showing up late.",
+    "He gets 2 demerits per instance of being late, and he was late 6 times.",
+    "So, the total demerits for being late is 2 demerits per instance times 6 instances.",
+    "2 times 6 equals 12. So Andy got 12 demerits for being late.",
+    "Next, I need to add the demerits Andy received for making an inappropriate joke.",
+    "Andy received 15 demerits for the inappropriate joke.",
+    "I will add the demerits from being late and the demerits from the joke.",
+    "12 demerits from being late plus 15 demerits for the joke equals 27 demerits.",
+    "Andy has accumulated a total of 27 demerits so far.",
+    "The limit before getting fired is 50 demerits.",
+    "I will subtract the total demerits Andy has from the limit to find out how many more demerits he can receive before being fired.",
+    "50 demerits limit minus 27 demerits he already has equals 23 demerits."
+  ],
+  "solution": "23"
+}

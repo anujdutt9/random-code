@@ -1,0 +1,15 @@
+{
+  "query": "Trent walked 4 blocks from his house to the bus stop. He rode the bus 7 blocks to the library. Later, he came home the same way. How many blocks did Trent travel in all?",
+  "steps": [
+    "Trent walked 4 blocks to the bus stop.",
+    "Then he rode the bus 7 blocks to the library.",
+    "So on his way to the library, Trent traveled 4 + 7 = 11 blocks.",
+    "Later, he traveled back home the same way. This means he will travel the same number of blocks as he did to get there.",
+    "On his way back, he rode the bus 7 blocks from the library to the bus stop.",
+    "Then, he walked 4 blocks from the bus stop to his house.",
+    "So, on the way back, Trent traveled 7 + 4 = 11 blocks.",
+    "To find the total blocks traveled, I need to add the blocks traveled to the library and the blocks traveled back home.",
+    "Total blocks = 11 blocks (to the library) + 11 blocks (back home) = 22 blocks."
+  ],
+  "solution": "22"
+}

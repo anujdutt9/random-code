@@ -1,0 +1,17 @@
+{
+  "query": "The school store had a sale on pencils. Ten students bought pencils. The first two students bought 2 pencils each. The next six students bought three pencils each and the last two students only bought one pencil each. How many pencils were sold?",
+  "steps": [
+    "First, I will calculate the total number of pencils bought by the first two students.",
+    "Each of the first two students bought 2 pencils.",
+    "So, the first two students bought a total of 2 \u00d7 2 = 4 pencils.",
+    "Next, I will calculate the total number of pencils bought by the next six students.",
+    "Each of the next six students bought 3 pencils.",
+    "So, the next six students bought a total of 6 \u00d7 3 = 18 pencils.",
+    "Now, I will calculate the total number of pencils bought by the last two students.",
+    "Each of the last two students bought 1 pencil.",
+    "So, the last two students bought a total of 2 \u00d7 1 = 2 pencils.",
+    "Finally, I will add all these together to find the total number of pencils sold.",
+    "4 (from the first two students) + 18 (from the next six students) + 2 (from the last two students) = 24 pencils."
+  ],
+  "solution": "24"
+}

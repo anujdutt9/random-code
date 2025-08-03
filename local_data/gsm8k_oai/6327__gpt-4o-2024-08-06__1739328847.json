@@ -1,0 +1,19 @@
+{
+  "query": "Out of 480 employees, 10% got a salary increase while 20% got a travel allowance increase. How many employees did not get any increase?",
+  "steps": [
+    "First, I need to find out how many employees received a salary increase.",
+    "10% of 480 employees received a salary increase.",
+    "10/100 * 480 = 48 employees got a salary increase.",
+    "Next, I need to find out how many employees received a travel allowance increase.",
+    "20% of 480 employees received a travel allowance increase.",
+    "20/100 * 480 = 96 employees got a travel allowance increase.",
+    "Now, I have to consider the possibility of overlap, meaning some employees might have received both a salary increase and a travel allowance increase. However, that information is not provided, so just considering separate groups is not enough.",
+    "Let's assume that the number of employees who got either a salary increase or a travel allowance increase (or both) needs to be found using set logic.",
+    "Using the formula for the union of these two sets: Total who got at least one increase = Employees with salary increase + Employees with travel allowance increase - Employees with both increases",
+    "I currently know that 48 employees had a salary increase and 96 had a travel allowance increase. But I need to subtract the overlap (employees who got both increases) to find out those who got at least one increase.",
+    "Without specific overlap data, I'll assume their maximum possible overlap is 0. Therefore, the total with at least one increase is 48 + 96 = 144.",
+    "Now calculate the number of employees who did not receive any increase by subtracting the total number of employees with at least one increase from the total number of employees.",
+    "480 (total employees) - 144 (employees who got at least one increase) = 336 employees who did not get any increase."
+  ],
+  "solution": "336"
+}

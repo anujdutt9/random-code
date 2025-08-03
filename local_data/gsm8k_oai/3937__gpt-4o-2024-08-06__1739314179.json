@@ -1,0 +1,16 @@
+{
+  "query": "A kiddy gift shop sells bracelets at $4 each, keychains at $5 each, and coloring books at $3 each. Paula and Olive want to buy presents for their friends. Paula buys two bracelets and a keychain, while Olive buys a coloring book and a bracelet.  How much do Paula and Olive spend in total?",
+  "steps": [
+    "First, I need to calculate the cost of the items Paula buys.",
+    "Paula buys two bracelets. Each bracelet costs $4, so two bracelets cost 2 * $4 = $8.",
+    "Paula also buys a keychain, which costs $5.",
+    "Now, I add the costs of the items Paula buys: $8 (bracelets) + $5 (keychain) = $13.",
+    "Next, I need to calculate the cost of the items Olive buys.",
+    "Olive buys a coloring book, which costs $3.",
+    "Olive also buys a bracelet, which costs $4.",
+    "Now, I add the costs of the items Olive buys: $3 (coloring book) + $4 (bracelet) = $7.",
+    "To find the total amount Paula and Olive spend, I add Paula's total cost and Olive's total cost: $13 + $7.",
+    "$13 + $7 equals $20."
+  ],
+  "solution": "20"
+}

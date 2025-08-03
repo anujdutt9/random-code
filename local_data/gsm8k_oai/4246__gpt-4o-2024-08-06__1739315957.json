@@ -1,0 +1,16 @@
+{
+  "query": "Mabel planted 4 tomato plants. One tomato plant bore 8 tomatoes and another bore 4 more tomatoes than the first. The two remaining plants each bore three times the number of tomatoes as the first two plants combined. How many tomatoes does Mabel have?",
+  "steps": [
+    "Mabel planted 4 tomato plants in total.",
+    "The first tomato plant bore 8 tomatoes.",
+    "The second tomato plant bore 4 more tomatoes than the first.",
+    "Since the first plant bore 8 tomatoes, the second plant bore 8 + 4 = 12 tomatoes.",
+    "Together, the first two plants bore 8 + 12 = 20 tomatoes.",
+    "Each of the remaining two plants bore three times the number of tomatoes as the first two plants combined.",
+    "Three times 20 (the number of tomatoes from the first two plants) is 3 x 20 = 60.",
+    "So, each of the remaining two plants bore 60 tomatoes.",
+    "The total tomatoes from the two remaining plants is 2 x 60 = 120.",
+    "The total number of tomatoes from all plants is 20 (first two plants) + 120 (remaining two plants) = 140."
+  ],
+  "solution": "140"
+}

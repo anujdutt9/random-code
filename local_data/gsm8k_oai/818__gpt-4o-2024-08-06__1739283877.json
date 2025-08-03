@@ -1,0 +1,22 @@
+{
+  "query": "On Sunday Trey is going to do some chores at home. First, he wants to make a To Do list and count up how many things he has to do that day and how long it should take. He has several items under 'clean the house,' 'take a shower' and then 'make dinner.' In total there are 7 things to do to clean the house; 1 thing to do to take a shower; and 4 things to do to make dinner. If everything on Trey's list takes 10 minutes to do, how many hours total will it take to complete Trey's list?",
+  "steps": [
+    "First, I need to determine the total number of things Trey has to do.",
+    "There are 7 things under 'clean the house.'",
+    "There is 1 thing under 'take a shower.'",
+    "There are 4 things under 'make dinner.'",
+    "Add these up to find the total number of tasks: 7 + 1 + 4.",
+    "7 + 1 = 8.",
+    "8 + 4 = 12.",
+    "So, the total number of tasks is 12.",
+    "Each task takes 10 minutes.",
+    "Multiply the number of tasks by the time each takes: 12 tasks * 10 minutes per task.",
+    "12 * 10 = 120 minutes in total.",
+    "Now I need to convert minutes into hours.",
+    "There are 60 minutes in an hour.",
+    "Divide 120 minutes by 60 to find the number of hours.",
+    "120 / 60 = 2.",
+    "So, the total time it will take is 2 hours."
+  ],
+  "solution": "2"
+}

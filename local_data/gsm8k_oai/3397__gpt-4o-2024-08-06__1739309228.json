@@ -1,0 +1,20 @@
+{
+  "query": "Leo and Ryan together have $48. Ryan owns 2/3 of the amount. Leo remembered that Ryan owed him $10 but he also owed Ryan $7. After the debts had been settled, how much money does Leo have?",
+  "steps": [
+    "Leo and Ryan together have a total of $48.",
+    "Ryan owns 2/3 of the total amount.",
+    "To find how much money Ryan has, I calculate 2/3 of $48.",
+    "2/3 of $48 is $48 * (2/3) = $32.",
+    "Therefore, Ryan has $32.",
+    "To find out how much money Leo has, I subtract Ryan's share from the total amount.",
+    "Leo's share is $48 - $32 = $16.",
+    "Leo remembered that Ryan owed him $10.",
+    "Leo also owed Ryan $7.",
+    "To settle their debts, I calculate the net debt.",
+    "Ryan owes Leo $10, but Leo owes Ryan $7. So, I subtract $7 from $10.",
+    "The net debt is $10 - $7 = $3 in Leo's favor.",
+    "After the debts have been settled, Leo will have his original amount plus the net debt amount.",
+    "Leo's final amount is $16 + $3 = $19."
+  ],
+  "solution": "19"
+}

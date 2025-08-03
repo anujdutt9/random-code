@@ -1,0 +1,23 @@
+{
+  "query": "A Statistics student wants to find out the average daily allowance of the middle school students. According to his survey, 2/3 of the students receive an average of $6 allowance per day while the rest gets an average of $4 a day. If he surveyed 60 students, what is the total amount of money those 60 students get in a day?",
+  "steps": [
+    "First, I need to determine how many students receive each allowance.",
+    "The student surveyed a total of 60 middle school students.",
+    "According to the survey, 2/3 of the students receive $6 per day.",
+    "To find out how many students receive $6, I calculate 2/3 of 60.",
+    "2/3 of 60 is calculated as (2/3) * 60.",
+    "Calculating gives me (2 * 60) / 3 = 120 / 3 = 40.",
+    "So, 40 students receive an average of $6 allowance per day.",
+    "Now, I need to find out how many students receive $4 per day.",
+    "The rest of the students get $4 a day, which means 60 students - 40 students = 20 students.",
+    "So, 20 students receive an average of $4 allowance per day.",
+    "Next, I will calculate the total allowance given to students who receive $6 per day.",
+    "For the 40 students receiving $6 per day: 40 students * $6/student = $240.",
+    "Then, I calculate the total allowance given to students who receive $4 per day.",
+    "For the 20 students receiving $4 per day: 20 students * $4/student = $80.",
+    "Finally, I add the total allowances for both groups of students.",
+    "The total allowance is $240 + $80.",
+    "Adding them gives $240 + $80 = $320."
+  ],
+  "solution": "320"
+}

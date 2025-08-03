@@ -1,0 +1,22 @@
+{
+  "query": "John has to restring 3 basses with 4 strings each, twice as many guitars which have 6 strings each, and 3 fewer 8 string guitars than the normal guitars.  How many strings does he need?",
+  "steps": [
+    "First, I need to determine how many basses John has to restring.",
+    "John has to restring 3 basses.",
+    "Each bass has 4 strings, so calculating the total number of strings for the basses: 3 basses x 4 strings each.",
+    "3 x 4 = 12 strings for the basses.",
+    "Now, determine how many guitars John has to restring.",
+    "He has to restring twice as many guitars as basses. Twice the amount of basses (3) is 6 guitars.",
+    "Each guitar has 6 strings. Calculating the total strings for the guitars: 6 guitars x 6 strings each.",
+    "6 x 6 = 36 strings for the guitars.",
+    "Determine how many 8-string guitars John needs to restring.",
+    "John has to restring 3 fewer 8-string guitars than the regular guitars. He has 6 regular guitars.",
+    "6 - 3 = 3. So, he has 3 of these 8-string guitars.",
+    "Each of these 8-string guitars has, naturally, 8 strings.",
+    "Calculate the total strings for the 8-string guitars: 3 guitars x 8 strings each.",
+    "3 x 8 = 24 strings for the 8-string guitars.",
+    "Add up all the strings needed: Strings for basses (12) + strings for regular guitars (36) + strings for 8-string guitars (24).",
+    "12 + 36 + 24 = 72."
+  ],
+  "solution": "72"
+}

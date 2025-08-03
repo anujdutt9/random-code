@@ -1,0 +1,16 @@
+{
+  "query": "Seven parrots and some crows are perched on a tree branch. There was a noise and the same number of parrots and crows flew away. If only 2 parrots and 1 crow are left on the tree branch now, how many birds were perched on the branch to begin with?",
+  "steps": [
+    "I know that originally there were 7 parrots on the branch.",
+    "Let's call the number of crows initially on the branch \"x\".",
+    "There was a noise and the same number of parrots and crows flew away. Let's call the number of parrots and crows that flew away \"y\".",
+    "After the noise, there are 2 parrots left on the branch. So, originally there were 7 parrots, and 7 - y = 2.",
+    "I can solve for y: 7 - y = 2 means y = 5.",
+    "Since the same number of crows flew away, y = 5 crows also flew away.",
+    "After the noise, 1 crow is left, so originally there were x crows, and x - 5 = 1.",
+    "Solving x - 5 = 1 gives x = 6.",
+    "Therefore, there were 6 crows and 7 parrots originally on the branch.",
+    "Adding them gives the total number of birds originally perched on the branch: 7 parrots + 6 crows = 13 birds."
+  ],
+  "solution": "13"
+}

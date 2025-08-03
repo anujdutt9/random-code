@@ -1,0 +1,16 @@
+{
+  "query": "The Arevalo family went out to dinner. The smoky salmon costs $40, the black burger costs $15, and the chicken katsu costs $25. If the bill includes a 10% service charge and 5% tip, how much change will Mr. Arevalo receive from his $100?",
+  "steps": [
+    "First, I need to calculate the total cost of the food items. The smoky salmon is $40, the black burger is $15, and the chicken katsu is $25.",
+    "Adding those up: $40 + $15 + $25 = $80.",
+    "Next, I need to calculate the service charge which is 10% of the total food cost.",
+    "10% of $80 is $80 * 0.10 = $8.",
+    "I also need to calculate the tip which is 5% of the total food cost.",
+    "5% of $80 is $80 * 0.05 = $4.",
+    "Now I add the original cost, the service charge, and the tip together to find the total bill.",
+    "$80 + $8 + $4 = $92.",
+    "Mr. Arevalo paid with a $100 bill, so I need to calculate how much change he will receive.",
+    "$100 - $92 = $8."
+  ],
+  "solution": "8"
+}

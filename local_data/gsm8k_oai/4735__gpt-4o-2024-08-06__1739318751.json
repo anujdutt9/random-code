@@ -1,0 +1,17 @@
+{
+  "query": "Every day Tom drinks 5 12-oz cans of soda plus 64 ounces of water. How many ounces of fluid does he drink a week?",
+  "steps": [
+    "First, I need to calculate how many ounces of soda Tom drinks in a day.",
+    "Tom drinks 5 cans of soda each day.",
+    "Each can of soda is 12 ounces.",
+    "So, the total ounces of soda per day is 5 cans * 12 ounces/can = 60 ounces.",
+    "Now, I need to add the daily water intake.",
+    "Tom also drinks 64 ounces of water every day.",
+    "Now, I'll sum the ounces of soda and water to find the daily total fluid intake.",
+    "Daily fluid intake = 60 ounces of soda + 64 ounces of water = 124 ounces.",
+    "Next, I need to calculate the fluid intake for a week.",
+    "There are 7 days in a week.",
+    "Weekly fluid intake = 124 ounces/day * 7 days = 868 ounces."
+  ],
+  "solution": "868"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "Barry goes to a shop to buy a shirt he'd been admiring for quite some time. He tells the attendant that it's his birthday so she decides to give him a 15% special discount. The price tag on the shirt says $80. How much is he supposed to pay now, considering the special discount?",
+  "steps": [
+    "First, I need to determine the amount of the discount Barry will receive.",
+    "The discount is 15% of the original price, which is 15% of $80.",
+    "To calculate 15% of $80, I'll convert the percentage to a decimal by dividing 15 by 100, resulting in 0.15.",
+    "Next, I'll multiply the original price ($80) by the decimal form of the percentage (0.15) to find the discount amount.",
+    "$80 * 0.15 = $12. This is the discount Barry will receive on the shirt.",
+    "I need to subtract the discount amount from the original price to find out how much Barry will pay.",
+    "Subtracting the discount from the original price: $80 - $12 = $68."
+  ],
+  "solution": "68"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Issac has to buy pens and pencils for the upcoming school year. Issac buys 108 writing utensils total. He buys 12 more than 5 times the number of pencils than pens. How many pens did Issac buy?",
+  "steps": [
+    "Let the number of pens be \\( p \\).",
+    "The number of pencils will then be \\( 5p + 12 \\) because Issac buys 12 more than 5 times the number of pencils than pens.",
+    "The total number of writing utensils (pens + pencils) is 108.",
+    "We can write the equation based on the total number of writing utensils: \\( p + (5p + 12) = 108 \\).",
+    "Simplify the equation: \\( p + 5p + 12 = 108 \\).",
+    "Combine like terms: \\( 6p + 12 = 108 \\).",
+    "Subtract 12 from both sides to isolate the term with \\( p \\): \\( 6p = 96 \\).",
+    "Divide both sides by 6 to solve for \\( p \\): \\( p = 16 \\).",
+    "Let's verify: If pens are 16, pencils should be \\( 5 \\times 16 + 12 = 80 + 12 = 92 \\).",
+    "Checking the total: \\( 16 \\) pens + \\( 92 \\) pencils = 108, which matches the total given."
+  ],
+  "solution": "16"
+}

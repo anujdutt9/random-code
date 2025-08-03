@@ -1,0 +1,12 @@
+{
+  "query": "June made a design with 20 equal tiles. Three tiles are yellow and the number of blue tiles is one more than the number of yellow tiles. Six tiles are purple and the remaining tiles are white.  How many white tiles are there?",
+  "steps": [
+    "Start by identifying the total number of tiles which is given as 20.",
+    "We know there are 3 yellow tiles.",
+    "The number of blue tiles is one more than the number of yellow tiles. So, there are 3 + 1 = 4 blue tiles.",
+    "It is given that there are 6 purple tiles.",
+    "Add up the number of yellow, blue, and purple tiles. 3 (yellow) + 4 (blue) + 6 (purple) = 13 tiles.",
+    "Subtract the number of yellow, blue, and purple tiles from the total number of tiles to find the number of white tiles: 20 - 13 = 7."
+  ],
+  "solution": "7"
+}

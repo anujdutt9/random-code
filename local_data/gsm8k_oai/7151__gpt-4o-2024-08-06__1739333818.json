@@ -1,0 +1,19 @@
+{
+  "query": "Kate loves painting. She decided to go to an Art-museum in her city. The entrance fee is $5. Kate loved the visit so much, that she decided to go there once a month. After 1 year, the ticket price increased to $7 and Kate decided she is going to visit the museum only 4 times a year. How much did Kate pay for all visits to the Art-museum after 3 years of visiting?",
+  "steps": [
+    "First, I need to calculate the cost of visiting the museum for the first year.",
+    "Kate visits the museum once a month for the first year, so that's 12 visits in total.",
+    "The entrance fee is $5 per visit for the first year.",
+    "For the first year's visits, the total cost is 12 visits multiplied by $5 per visit, which equals $60.",
+    "Next, I need to calculate the cost of visiting the museum during the second year.",
+    "The ticket price increased to $7 after the first year.",
+    "Kate decides to visit the museum only 4 times during the second year.",
+    "For the second year's visits, the total cost is 4 visits multiplied by $7 per visit, which equals $28.",
+    "Now, I need to calculate the cost for the third year, which will be the same as the second year.",
+    "In the third year, it's also 4 visits at $7 each, so the total cost is again $28.",
+    "Now, I will add up all the costs from all three years.",
+    "The first year cost $60. The second year cost $28. The third year also cost $28.",
+    "Adding these amounts together: $60 (first year) + $28 (second year) + $28 (third year) equals $116."
+  ],
+  "solution": "116"
+}

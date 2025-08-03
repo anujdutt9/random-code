@@ -1,0 +1,16 @@
+{
+  "query": "Perry wants to buy a new modern bedroom set for $2000.  He received $200.00 in gift cards over the holidays that he can use toward the set.  The store is currently offering the entire set at 15% off.  If he signs up for the store credit card and uses it to buy the set, he will save an additional 10% off on the discounted set.  What is the final price of the set?",
+  "steps": [
+    "The original price of the bedroom set is $2000.",
+    "Perry received $200 in gift cards, which can be subtracted from the total price.",
+    "The store is offering a 15% discount, so first, we need to calculate the discounted price.",
+    "15% of $2000 is calculated as $2000 * 0.15 = $300.",
+    "The price after the 15% discount is $2000 - $300 = $1700.",
+    "Now, consider the additional 10% discount offered for using the store credit card.",
+    "10% of the discounted price ($1700) is $1700 * 0.10 = $170.",
+    "The price after the additional 10% discount is $1700 - $170 = $1530.",
+    "Perry has $200 in gift cards, which will further lower the price.",
+    "Subtracting $200 in gift cards from $1530 results in $1530 - $200 = $1330."
+  ],
+  "solution": "1330"
+}

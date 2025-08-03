@@ -1,0 +1,23 @@
+{
+  "query": "In a classroom there are 30 students. 1/3 of them are boys. Among the girls, 40% own dogs, 20% own a cat, and the rest have no pets. How many girls in the class have no pet?",
+  "steps": [
+    "First, I need to determine the number of boys in the classroom.",
+    "1/3 of the 30 students are boys. So, I calculate 1/3 of 30.",
+    "1/3 * 30 = 10. So, there are 10 boys.",
+    "Now, I need to find out how many girls are in the classroom.",
+    "There are 30 students in total, and if 10 are boys, then the number of girls is 30 - 10.",
+    "30 - 10 = 20. So, there are 20 girls in the classroom.",
+    "Next, I need to find out how many girls own dogs.",
+    "40% of the 20 girls own dogs. I calculate 40% of 20.",
+    "40% of 20 = 0.40 * 20 = 8. So, 8 girls own dogs.",
+    "Next, I need to find out how many girls own a cat.",
+    "20% of the 20 girls own a cat. I calculate 20% of 20.",
+    "20% of 20 = 0.20 * 20 = 4. So, 4 girls own a cat.",
+    "Now I need to find out how many girls have no pets.",
+    "I know 8 girls own dogs, and 4 girls own a cat. So, I calculate the total number of girls who have pets.",
+    "8 (girls with dogs) + 4 (girls with cats) = 12 girls have pets.",
+    "To find the number of girls with no pets, I subtract the number of girls with pets from the total number of girls.",
+    "20 (total number of girls) - 12 (girls with pets) = 8."
+  ],
+  "solution": "8"
+}

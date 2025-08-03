@@ -1,0 +1,16 @@
+{
+  "query": "Albert noticed a flock of geese flying together in a V formation in the sky overhead.  One half of the geese broke off from the formation, flew toward the earth, and landed in some trees.  Then, 4 geese flew up, out of the trees, and joined those already flying in the air to make a new V formation in the sky.  If the final number of geese flying in the V formation was 12, how many geese were in the first formation Albert noticed in the sky?",
+  "steps": [
+    "Let \\( x \\) represent the number of geese in the first formation Albert noticed.",
+    "Half of the geese from this initial formation broke off and landed in some trees, leaving half in the formation.",
+    "The number of geese remaining in the formation in the air after half broke off is \\( \\frac{x}{2} \\).",
+    "Then, 4 geese flew out of the trees to join those in the air.",
+    "This means the number of geese in the new formation is \\( \\frac{x}{2} + 4 \\).",
+    "We know that this new formation has 12 geese in it.",
+    "Set up the equation: \\(\\frac{x}{2} + 4 = 12\\).",
+    "Subtract 4 from both sides to solve for \\( x \\): \\(\\frac{x}{2} = 8\\).",
+    "Multiply both sides by 2 to solve for \\( x \\): \\( x = 16 \\).",
+    "Therefore, the initial number of geese in the formation was 16."
+  ],
+  "solution": "16"
+}

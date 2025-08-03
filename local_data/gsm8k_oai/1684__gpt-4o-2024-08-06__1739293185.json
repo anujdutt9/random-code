@@ -1,0 +1,18 @@
+{
+  "query": "A convenience store sold 100 bags of chips in a month. In the first week, 15 bags of chips were sold. In the second week, thrice as many bags of chips were sold. There was an equal number of chips sold in the third and fourth week. How many chips was each sold in the third and fourth week?",
+  "steps": [
+    "First, I need to understand the total number of chips sold and what each week's contribution was.",
+    "I know that the total number of chips sold in the month is 100.",
+    "In the first week, 15 bags of chips were sold.",
+    "In the second week, thrice the amount sold in the first week were sold. I need to calculate thrice of 15.",
+    "Thrice of 15 is calculated as 15 * 3 = 45.",
+    "So, in the second week, 45 bags of chips were sold.",
+    "So far, in the first and second weeks combined, 15 + 45 = 60 bags were sold.",
+    "To find out how many bags were sold in the third and fourth weeks, I subtract the bags sold in the first two weeks from the total: 100 - 60 = 40 bags.",
+    "According to the problem statement, an equal number of bags was sold in the third and fourth weeks.",
+    "If the total number of bags sold in the third and fourth weeks is 40 and they are equally distributed between the two weeks, I calculate the number sold each week by dividing 40 by 2.",
+    "40 divided by 2 equals 20.",
+    "Thus, 20 bags of chips were sold each in the third and fourth weeks."
+  ],
+  "solution": "20"
+}

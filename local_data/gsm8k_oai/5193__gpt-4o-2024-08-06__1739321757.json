@@ -1,0 +1,13 @@
+{
+  "query": "Roxy has 7 flowering plants in her garden.  She has twice as many fruiting plants as her flowering plants.  On Saturday, she goes to the nursery and buys 3 flowering plants and 2 fruiting plants. On Sunday, she gives away 1 flowering plant and 4 fruiting plants to her neighbor, Ronny.   How many plants are remaining in her garden?",
+  "steps": [
+    "Roxy starts with 7 flowering plants.",
+    "Roxy has twice as many fruiting plants as her flowering plants, so she has 2 * 7 = 14 fruiting plants.",
+    "She buys 3 more flowering plants, so now she has 7 + 3 = 10 flowering plants.",
+    "She buys 2 more fruiting plants, so now she has 14 + 2 = 16 fruiting plants.",
+    "She gives away 1 flowering plant to her neighbor, so now she has 10 - 1 = 9 flowering plants.",
+    "She gives away 4 fruiting plants to her neighbor, so now she has 16 - 4 = 12 fruiting plants.",
+    "To find the total number of plants remaining in her garden, add the number of flowering plants and the number of fruiting plants: 9 + 12 = 21."
+  ],
+  "solution": "21"
+}

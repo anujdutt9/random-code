@@ -1,0 +1,16 @@
+{
+  "query": "Blake needs to prime and paint 5 rooms in his house.  Each room will require a gallon of primer and a gallon of paint.  Currently the primer is $30.00 a gallon and they are offering 20% off.  The paint costs $25.00 a gallon and is not on sale.  How much will he spend on paint and primer?",
+  "steps": [
+    "There are 5 rooms to prime and paint, and each room requires 1 gallon of primer and 1 gallon of paint.",
+    "First, I calculate the total amount of primer and paint needed. For 5 rooms, Blake needs 5 gallons of primer and 5 gallons of paint.",
+    "The price for a gallon of primer without any discounts is $30.00.",
+    "There is a 20% discount on the primer. 20% of $30.00 is $30.00 * 0.20 = $6.00.",
+    "The discounted price for a gallon of primer is $30.00 - $6.00 = $24.00.",
+    "Since Blake needs 5 gallons of primer, I multiply the discounted price by 5: $24.00 * 5 = $120.00.",
+    "A gallon of paint costs $25.00, and there is no discount on paint.",
+    "Blake needs 5 gallons of paint, so I calculate the total cost for paint: $25.00 * 5 = $125.00.",
+    "To find the total cost for both primer and paint, I add the primer cost and the paint cost: $120.00 + $125.00.",
+    "$120.00 + $125.00 = $245.00."
+  ],
+  "solution": "245"
+}

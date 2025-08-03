@@ -1,0 +1,14 @@
+{
+  "query": "Debra is the host of a country music radio show, and she broadcasts interviews with celebrity country music singers. Each week, she interviews three singers, one at a time.  The first interview segment is always twice as long as the other two segments combined, and the third interview segment is always half as long as the second. If the third segment is 10 minutes long, how many minutes long is the entire show?",
+  "steps": [
+    "Let's start by identifying the length of the third segment since it is given. The third segment is 10 minutes long.",
+    "The third segment is half as long as the second segment. So, the second segment must be twice as long as the third segment.",
+    "Multiplying the length of the third segment by 2, we get the length of the second segment: 10 minutes * 2 = 20 minutes.",
+    "The first interview segment is twice as long as the second and third segments combined. Let's calculate the combined length of the second and third segments.",
+    "The second segment is 20 minutes long, and the third segment is 10 minutes long. Adding these gives 20 + 10 = 30 minutes.",
+    "The first segment is twice the length of the combined length of the second and third segments. So, we multiply the combined length by 2: 30 minutes * 2 = 60 minutes.",
+    "We now have the lengths of all the segments: 60 minutes for the first, 20 minutes for the second, and 10 minutes for the third.",
+    "To find the total length of the show, we add the lengths of all three segments together: 60 + 20 + 10 = 90 minutes."
+  ],
+  "solution": "90"
+}

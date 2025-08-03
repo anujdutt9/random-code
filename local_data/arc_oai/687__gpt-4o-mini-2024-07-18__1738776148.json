@@ -1,0 +1,12 @@
+{
+  "query": "Question: Which equation is correctly balanced for hydrogen and oxygen reacting to form water?\n\nChoices:\nA: H_{2} + O_{2} -> H_{2}O\nB: 2H_{2} + O_{2} -> 2H_{2}O\nC: 4H + O_{2} -> 2H_{2}O\nD: H_{2} + O -> H_{2}O",
+  "steps": [
+    "Start by determining how many hydrogen (H) and oxygen (O) atoms are present in each equation and whether they match the number of atoms after the reaction forms water (H\u2082O).",
+    "For option A (H\u2082 + O\u2082 -> H\u2082O): The left side has 2 H and 2 O, while the right side has 2 H and 1 O. This is not balanced.",
+    "For option B (2H\u2082 + O\u2082 -> 2H\u2082O): The left side has 4 H and 2 O, while the right side has 4 H and 2 O (2 H\u2082O has 2 H and 1 O each). This is balanced.",
+    "For option C (4H + O\u2082 -> 2H\u2082O): The left side has 4 single hydrogen atoms (4 H) and 2 O, while the right side has 4 H and 2 O. This is also balanced.",
+    "For option D (H\u2082 + O -> H\u2082O): The left side has 2 H and 1 O, while the right side has 2 H and 1 O. This is balanced as well.",
+    "Comparing the balanced equations, options B, C, and D are correctly balanced, but only one is a conventional representation involving molecules rather than individual atoms like option C."
+  ],
+  "solution": "B"
+}

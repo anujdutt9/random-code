@@ -1,0 +1,20 @@
+{
+  "query": "Three baskets A, B and C contain different numbers of differently colored marbles. Basket A contains 4 red marbles and 2 yellow marbles. Basket B contains 6 green marbles and 1 yellow marble. Basket C contains 3 white marbles and 9 yellow marbles. What is the difference between the number of each color of marble in the basket that has the greatest difference?",
+  "steps": [
+    "First, I need to identify the colors of marbles present in each basket.",
+    "Basket A has red and yellow marbles.",
+    "Basket B has green and yellow marbles.",
+    "Basket C has white and yellow marbles.",
+    "Next, I calculate the number of each color of marble in their respective baskets.",
+    "In Basket A: 4 red marbles and 2 yellow marbles.",
+    "In Basket B: 6 green marbles and 1 yellow marble.",
+    "In Basket C: 3 white marbles and 9 yellow marbles.",
+    "Now, I calculate the difference between the number of each color of marbles in each basket.",
+    "For Basket A, the difference is: |4 - 2| = 2.",
+    "For Basket B, the difference is: |6 - 1| = 5.",
+    "For Basket C, the difference is: |3 - 9| = 6.",
+    "Finally, I identify the basket with the greatest difference.",
+    "Basket C has the greatest difference of 6 marbles."
+  ],
+  "solution": "6"
+}

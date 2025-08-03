@@ -1,0 +1,18 @@
+{
+  "query": "Antonella has ten Canadian coins in her purse that are either loonies or toonies. A loonie equals $1 and a toonie equals $2. If she bought a $3 Frappuccino and still has $11, how many toonies did she initially have?",
+  "steps": [
+    "First, I need to determine the initial total amount of money Antonella had.",
+    "Antonella bought a $3 Frappuccino and still had $11 left. Therefore, initially, she had $3 + $11.",
+    "Calculating that, $3 + $11 = $14.",
+    "Now, I know Antonella initially had $14.",
+    "She has ten coins, consisting of loonies (worth $1) and toonies (worth $2).",
+    "Let L represent the number of loonies and T represent the number of toonies. Then, L + T = 10 (number of coins).",
+    "The total value of the coins is given by the equation: 1*L + 2*T = $14.",
+    "Substituting L = 10 - T into the second equation (since L + T = 10), I get: 1*(10 - T) + 2*T = 14.",
+    "Simplify that equation: 10 - T + 2T = 14.",
+    "Combine like terms: 10 + T = 14.",
+    "Solve for T: T = 14 - 10.",
+    "This gives T = 4."
+  ],
+  "solution": "4"
+}

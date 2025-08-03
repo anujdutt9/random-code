@@ -1,0 +1,22 @@
+{
+  "query": "Magdalena has an apple tree on their farm, producing very few apples each year for a while now. However, this year, the apple tree yield was excellent, and it grew 200 apples. Magdalena picked 1/5 of the fruits on the first day, twice that number on the second day, and 20 more apples than he picked on the first day on the third day. Calculate the total number of apples remaining in the tree.",
+  "steps": [
+    "I need to determine the number of apples Magdalena picked each day.",
+    "Start by calculating the number of apples picked on the first day.",
+    "On the first day, Magdalena picked 1/5 of 200 apples.",
+    "1/5 of 200 apples is 200 / 5 = 40 apples.",
+    "Now I need to find the number of apples picked on the second day.",
+    "On the second day, Magdalena picked twice the number of apples picked on the first day.",
+    "Twice 40 is 40 * 2 = 80 apples.",
+    "I need to find the number of apples picked on the third day.",
+    "On the third day, Magdalena picked 20 more apples than he picked on the first day.",
+    "20 more than 40 is 40 + 20 = 60 apples.",
+    "Now I need to find the total number of apples picked over these three days.",
+    "Add the number of apples picked each day: 40 + 80 + 60.",
+    "The total number of apples picked is 40 + 80 + 60 = 180 apples.",
+    "Originally, the tree had 200 apples.",
+    "Subtract the number of apples picked from the total: 200 - 180.",
+    "The number of apples remaining on the tree is 200 - 180 = 20 apples."
+  ],
+  "solution": "20"
+}

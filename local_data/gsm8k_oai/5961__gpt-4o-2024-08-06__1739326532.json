@@ -1,0 +1,20 @@
+{
+  "query": "In a week, 450 cars drove through a toll booth. Fifty vehicles went through the toll booth on Monday and the same number of vehicles drove through the toll booth on Tuesday. On each of Wednesday and Thursday, twice the number of cars that passed through the toll booth on Monday went through the toll booth. If, for the remaining of the days of the week, an equal number of vehicles passed through the toll booth, calculate the total number of cars that passed the toll both in each of the remaining days.",
+  "steps": [
+    "First, calculate the total number of vehicles that passed through the toll booth on Monday and Tuesday.",
+    "Monday had 50 vehicles, and Tuesday also had 50 vehicles.",
+    "So, Monday and Tuesday together had 50 + 50 = 100 vehicles.",
+    "Next, calculate the number of vehicles that passed through the toll booth on Wednesday and Thursday.",
+    "Since Wednesday and Thursday each had twice the number of vehicles as Monday, each of these days had 2 * 50 = 100 vehicles.",
+    "Together, Wednesday and Thursday would have 100 + 100 = 200 vehicles.",
+    "Now, add the vehicles from Monday, Tuesday, Wednesday, and Thursday to find the total number by Thursday.",
+    "The total is 100 (Monday and Tuesday) + 200 (Wednesday and Thursday) = 300 vehicles by Thursday.",
+    "The total number of vehicles that drove through the toll booth in the week is 450.",
+    "Subtract the vehicles from Monday to Thursday from the weekly total to find the number for the remaining days.",
+    "450 total vehicles - 300 vehicles from Monday to Thursday = 150 vehicles remaining for Friday, Saturday, and Sunday.",
+    "The remaining 150 vehicles are equally distributed among Friday, Saturday, and Sunday.",
+    "So, divide 150 vehicles by 3 days to find the number of vehicles per day.",
+    "150 \u00f7 3 = 50 vehicles."
+  ],
+  "solution": "50"
+}

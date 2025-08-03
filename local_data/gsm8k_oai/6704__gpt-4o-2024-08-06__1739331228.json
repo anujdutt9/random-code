@@ -1,0 +1,14 @@
+{
+  "query": "John starts climbing a very steep hill.  He travels 1 foot vertically for every two feet horizontally.  His elevation increases from 100 feet to 1450 feet.  How far does he move horizontally, in feet?",
+  "steps": [
+    "John's elevation starts at 100 feet and goes up to 1450 feet.",
+    "To find the total vertical distance he climbs, I need to subtract the starting elevation from the ending elevation.",
+    "1450 feet - 100 feet = 1350 feet.",
+    "John climbs a total of 1350 feet vertically.",
+    "For every 1 foot he climbs vertically, he moves 2 feet horizontally.",
+    "I need to calculate the horizontal distance based on the vertical distance.",
+    "If he climbs 1350 feet vertically, he will move 1350 * 2 feet horizontally.",
+    "1350 * 2 = 2700 feet."
+  ],
+  "solution": "2700"
+}

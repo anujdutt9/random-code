@@ -1,0 +1,13 @@
+{
+  "query": "A driver travels 30 miles per hour for 3 hours and 25 miles per hour for 4 hours to deliver goods to a town every day from Monday to Saturday. How many miles does the driver travel in a week?",
+  "steps": [
+    "First, I need to calculate the distance traveled at 30 miles per hour for 3 hours.",
+    "Distance = Speed x Time, so the distance for this part is 30 miles per hour x 3 hours = 90 miles.",
+    "Next, I calculate the distance traveled at 25 miles per hour for 4 hours.",
+    "Distance = Speed x Time, so the distance for this part is 25 miles per hour x 4 hours = 100 miles.",
+    "I now add the distances from the two parts of the journey in one day: 90 miles + 100 miles = 190 miles per day.",
+    "The driver travels this distance every day from Monday to Saturday, which is 6 days.",
+    "I multiply the daily travel distance by the number of days: 190 miles/day x 6 days = 1140 miles."
+  ],
+  "solution": "1140"
+}

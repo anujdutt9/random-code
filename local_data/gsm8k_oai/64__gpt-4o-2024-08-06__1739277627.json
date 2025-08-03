@@ -1,0 +1,20 @@
+{
+  "query": "James earns $20 an hour while working at his main job.  He earns 20% less while working his second job.  He works 30 hours at his main job and half that much at his second job.  How much does he earn per week?",
+  "steps": [
+    "First, I need to determine how much James earns per hour at his second job.",
+    "He earns 20% less at his second job, so I need to calculate 20% of $20.",
+    "20% of $20 is calculated as \\(0.20 \\times 20 = 4\\).",
+    "Therefore, James earns $4 less per hour at his second job.",
+    "Now, I subtract $4 from his rate at the main job: \\(20 - 4 = 16\\).",
+    "James earns $16 an hour at his second job.",
+    "Next, I need to find out how many hours he works at each job.",
+    "He works 30 hours at his main job.",
+    "He works half that amount at his second job: \\(30 \\div 2 = 15\\) hours.",
+    "Now, I calculate his earnings from the main job: \\(30 \\times 20 = 600\\).",
+    "His earnings from his main job are $600.",
+    "Next, I calculate his earnings from his second job: \\(15 \\times 16 = 240\\).",
+    "His earnings from his second job are $240.",
+    "Finally, I add his earnings from both jobs to find his total weekly earnings: \\(600 + 240 = 840\\)."
+  ],
+  "solution": "840"
+}

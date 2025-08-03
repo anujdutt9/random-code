@@ -1,0 +1,15 @@
+{
+  "query": "It takes 1 person working 10 hours to figure out the solution to a math problem.  If you add a second person who's equally good at math, how long will the two of them have to work to solve the same problem?",
+  "steps": [
+    "First, I need to determine the work rate of one person.",
+    "One person completes the problem in 10 hours.",
+    "Therefore, the work rate of one person is 1/10 of the problem per hour.",
+    "Next, I need to find the combined work rate of two people.",
+    "Since both people are equally good at math, the second person also works at the rate of 1/10 of the problem per hour.",
+    "The combined work rate of two people is the sum of their individual work rates.",
+    "So, the combined work rate is 1/10 + 1/10 = 2/10 or 1/5 of the problem per hour.",
+    "To find out how long it takes for both to solve the problem together, I need to calculate how long it takes to complete 1 whole problem at their combined rate.",
+    "The time taken is the inverse of the combined work rate, which is 5 hours for 1 problem."
+  ],
+  "solution": "5"
+}

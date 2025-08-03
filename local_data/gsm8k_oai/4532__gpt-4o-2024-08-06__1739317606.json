@@ -1,0 +1,25 @@
+{
+  "query": "Mr. Reyansh has a dairy farm with 40 cows. Each cow on the farm drinks 80 liters of water daily. He also has a sheep ranch with 10 times the number of cows, with each sheep drinking 1/4 times as much water as a cow does. How many liters of water does Mr. Reyansh use to water all of his animals in a week?",
+  "steps": [
+    "Mr. Reyansh has 40 cows on his farm.",
+    "Each cow drinks 80 liters of water daily.",
+    "To find the total daily water consumption for cows, I need to multiply the number of cows by the amount of water each cow drinks daily.",
+    "40 cows * 80 liters/cow = 3200 liters",
+    "The cows drink 3200 liters of water per day.",
+    "Mr. Reyansh also has a sheep ranch with 10 times the number of cows.",
+    "40 cows * 10 = 400 sheep",
+    "He has 400 sheep.",
+    "Each sheep drinks 1/4 times as much water as a cow does.",
+    "1/4 of 80 liters = 20 liters",
+    "Each sheep drinks 20 liters of water daily.",
+    "To find the total daily water consumption for sheep, I need to multiply the number of sheep by the amount of water each sheep drinks daily.",
+    "400 sheep * 20 liters/sheep = 8000 liters",
+    "The sheep drink 8000 liters of water per day.",
+    "To find the total daily water consumption for all the animals, I add the daily water consumption of cows and sheep.",
+    "3200 liters (cows) + 8000 liters (sheep) = 11200 liters",
+    "All the animals drink 11200 liters of water per day.",
+    "To find out how much water Mr. Reyansh uses in a week, I multiply the total daily consumption by 7.",
+    "11200 liters/day * 7 days = 78400 liters"
+  ],
+  "solution": "78400"
+}

@@ -1,0 +1,23 @@
+{
+  "query": "A class composed of 12 girls and 10 boys was sent to the library for their reading class. Their teacher found out that only 5/6 of the girls and 4/5 of the boys are reading. How many students are not reading?",
+  "steps": [
+    "First, I need to find out how many girls are reading.",
+    "The problem states that 5/6 of the girls are reading.",
+    "There are 12 girls in total.",
+    "I will calculate 5/6 of 12 to find the number of girls reading: (5/6) * 12 = 10.",
+    "So, 10 girls are reading.",
+    "Next, I need to find out how many boys are reading.",
+    "The problem states that 4/5 of the boys are reading.",
+    "There are 10 boys in total.",
+    "I will calculate 4/5 of 10 to find the number of boys reading: (4/5) * 10 = 8.",
+    "So, 8 boys are reading.",
+    "Now, I will find the total number of students who are reading by adding the number of girls and boys who are reading.",
+    "There are 10 girls reading and 8 boys reading.",
+    "10 + 8 = 18 students are reading.",
+    "Now I need to determine how many students are not reading.",
+    "There are 12 girls and 10 boys, for a total of 22 students.",
+    "The number of students not reading is the total number of students minus the number of students who are reading.",
+    "22 total students - 18 students reading = 4 students not reading."
+  ],
+  "solution": "4"
+}

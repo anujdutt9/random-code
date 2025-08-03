@@ -1,0 +1,15 @@
+{
+  "query": "Bobby needed to make some trips with his truck and had only 12 gallons of gasoline. He drives to a supermarket 5 miles away and then drives back home. Then he headed to his farm which was 6 miles away. Two miles into the journey, he turned around and drove back home to retrieve some farming tools he forgot to take earlier and drove down to the farm. If he now has exactly 2 gallons of gasoline left, at what rate in miles per gallon has his truck been consuming gasoline?",
+  "steps": [
+    "Bobby starts with 12 gallons of gasoline.",
+    "He drives to the supermarket, which is 5 miles away, and then returns home, so he covers a total of 10 miles for this round trip.",
+    "Next, he heads towards the farm, which is 6 miles away. However, he only drives 2 miles before turning back home.",
+    "He drives 2 miles toward the farm and then turns back, so he covers another 2 miles to return. This part of the trip totals 4 miles.",
+    "Finally, he drives the full distance to the farm, which is 6 miles.",
+    "Let's sum up all the distances: 10 miles (supermarket trip) + 4 miles (initial part of farm trip) + 6 miles (drive to the farm) equals a total of 20 miles driven.",
+    "Bobby started with 12 gallons of gasoline and has 2 gallons left, so he used 12 - 2 = 10 gallons.",
+    "He drove a total of 20 miles using 10 gallons of gasoline.",
+    "The rate of gasoline consumption is calculated by dividing the total miles driven by the gallons used: 20 miles / 10 gallons = 2 miles per gallon."
+  ],
+  "solution": "2"
+}

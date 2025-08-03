@@ -1,0 +1,12 @@
+{
+  "query": "Diego baked 12 cakes for his sister's birthday. Donald also baked 4 cakes, but ate 1 while waiting for the party to start. How many cakes are left?",
+  "steps": [
+    "Diego baked 12 cakes.",
+    "Donald baked 4 cakes.",
+    "Donald ate 1 cake.",
+    "To find out how many cakes are left, I need to add the cakes baked by Diego and the remaining cakes from Donald.",
+    "First, I'll calculate the number of cakes Donald has left. Donald baked 4 cakes and ate 1, so he has 4 - 1 = 3 cakes left.",
+    "Now, I will add the cakes from Diego and the remaining cakes from Donald. So, 12 (Diego's cakes) + 3 (Donald's remaining cakes) = 15 cakes."
+  ],
+  "solution": "15"
+}

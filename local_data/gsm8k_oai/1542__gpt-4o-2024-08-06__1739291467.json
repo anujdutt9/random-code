@@ -1,0 +1,17 @@
+{
+  "query": "Janet has a business selling custom collars for dogs and cats. If it takes 18 inches of nylon to make a dog collar and 10 inches to make a cat collar, how much nylon does she need to make 9 dog collars and 3 cat collars?",
+  "steps": [
+    "First, I need to determine how much nylon is needed to make 9 dog collars.",
+    "Each dog collar requires 18 inches of nylon.",
+    "So, for 9 dog collars, the total nylon required is 9 collars * 18 inches/collar.",
+    "Calculating this gives 9 * 18 = 162 inches.",
+    "Next, I will calculate how much nylon is needed for the 3 cat collars.",
+    "Each cat collar requires 10 inches of nylon.",
+    "So, for 3 cat collars, the total nylon required is 3 collars * 10 inches/collar.",
+    "Calculating this gives 3 * 10 = 30 inches.",
+    "Now, I need to find the total nylon needed for all the collars.",
+    "I will add the nylon required for the dog collars and the cat collars: 162 inches + 30 inches.",
+    "Calculating this gives 162 + 30 = 192 inches."
+  ],
+  "solution": "192"
+}

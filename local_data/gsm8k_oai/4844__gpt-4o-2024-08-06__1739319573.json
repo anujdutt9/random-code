@@ -1,0 +1,16 @@
+{
+  "query": "After trick-or-treating, Brent dumped his candy on the table.  He had received 5 Kit-Kat bars, three times that amount in Hershey kisses, 8 boxes of Nerds,  and 11 lollipops.  He also had 10 Baby Ruths and half that amount in Reese Peanut butter cups.  After giving his little sister 5 lollipops, how many pieces of candy did Brent have left?",
+  "steps": [
+    "Brent initially has 5 Kit-Kat bars.",
+    "He received three times the amount of Kit-Kats in Hershey kisses, which is 3 * 5 = 15 Hershey kisses.",
+    "Brent also received 8 boxes of Nerds.",
+    "He received 11 lollipops.",
+    "Brent received 10 Baby Ruths.",
+    "He received half that amount in Reese Peanut butter cups, which is 10 / 2 = 5 Reese Peanut butter cups.",
+    "I will calculate the total amount of candy: 5 (Kit-Kats) + 15 (Hershey kisses) + 8 (Nerds) + 11 (lollipops) + 10 (Baby Ruths) + 5 (Reese Peanut butter cups) = 54 pieces of candy.",
+    "Brent gave his little sister 5 lollipops.",
+    "He had 11 lollipops originally, so after giving 5 away he has 11 - 5 = 6 lollipops left.",
+    "Now I will recalculate the total amount of candy after giving away the lollipops: 5 (Kit-Kats) + 15 (Hershey kisses) + 8 (Nerds) + 6 (lollipops remaining) + 10 (Baby Ruths) + 5 (Reese Peanut butter cups) = 49 pieces of candy."
+  ],
+  "solution": "49"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Julia's internet speed is 20 MBps (megabytes per second). How many songs she can download in half an hour if the size per song is 5MB?",
+  "steps": [
+    "To find out how many songs Julia can download in half an hour, I first need to calculate the total number of megabytes (MB) she can download in that time frame.",
+    "Since her internet speed is 20 MBps, I need to determine how much she can download in one second.",
+    "According to the problem, Julia downloads at a rate of 20 MB per second.",
+    "Next, I need to calculate how many MB she can download in 30 minutes (half an hour).",
+    "First, I'll convert 30 minutes into seconds because her speed is given in seconds.",
+    "30 minutes is equal to 30 x 60 seconds.",
+    "30 x 60 equals 1800 seconds.",
+    "Now, I will calculate the total number of MB she can download in 1800 seconds at a rate of 20 MB per second.",
+    "This is done by multiplying 20 MB per second by 1800 seconds.",
+    "20 x 1800 equals 36,000 MB.",
+    "Each song is 5 MB in size.",
+    "To find out how many 5 MB songs she can download, I divide the total MB she can download by the size of each song.",
+    "So, I divide 36,000 MB by 5 MB per song.",
+    "36,000 divided by 5 equals 7,200."
+  ],
+  "solution": "7200"
+}

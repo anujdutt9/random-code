@@ -1,0 +1,15 @@
+{
+  "query": "John has 10 members of his family on his father's side.  His mother's side is 30% larger.  How many people are there in total?",
+  "steps": [
+    "First, I need to determine how many family members John has on his mother's side.",
+    "John has 10 family members on his father's side.",
+    "His mother's side is 30% larger than his father's side.",
+    "To find out how much larger in number that is, I calculate 30% of 10.",
+    "30% of 10 is 0.3 * 10, which equals 3.",
+    "Now, I add this number to the number of family members on his father's side to find the total on his mother's side.",
+    "The number of family members on his mother's side is 10 + 3, which equals 13.",
+    "Finally, I need to find the total number of family members by adding both sides together.",
+    "The total is 10 (father's side) + 13 (mother's side)."
+  ],
+  "solution": "23"
+}

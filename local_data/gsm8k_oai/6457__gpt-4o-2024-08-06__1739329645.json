@@ -1,0 +1,16 @@
+{
+  "query": "James has a room that is 13 feet by 18 feet.  He increases each dimension by 2 feet.  He then builds 3 more rooms of equal size and 1 room of twice that size.  How much area does he have?",
+  "steps": [
+    "The original dimensions of the room are 13 feet by 18 feet.",
+    "He increases each dimension by 2 feet.",
+    "The new dimensions of the room are 13 + 2 = 15 feet by 18 + 2 = 20 feet.",
+    "Calculate the area of the new room: 15 feet * 20 feet = 300 square feet.",
+    "Three more rooms are built, each of equal size to the new room. Therefore, there are now 4 rooms in total of the same size.",
+    "Calculate the total area for these 4 rooms: 4 rooms * 300 square feet/room = 1200 square feet.",
+    "Additionally, 1 more room is built, which is twice the size of the new room.",
+    "Calculate the area of this larger room: 2 * 300 square feet = 600 square feet.",
+    "Add the area of this larger room to the total area of the 4 rooms: 1200 square feet + 600 square feet.",
+    "Perform the final calculation: 1800 square feet."
+  ],
+  "solution": "1800"
+}

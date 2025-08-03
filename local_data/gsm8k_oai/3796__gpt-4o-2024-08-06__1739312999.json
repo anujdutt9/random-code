@@ -1,0 +1,11 @@
+{
+  "query": "Donny has $78 in his piggy bank. If Donny buys a kite for $8 and a frisbee for $9. How much money does Donny have left?",
+  "steps": [
+    "Start with the initial amount of money Donny has, which is $78.",
+    "Subtract the cost of the kite from the total amount. The kite costs $8.",
+    "$78 - $8 = $70. After buying the kite, Donny has $70 left.",
+    "Next, subtract the cost of the frisbee from the remaining amount. The frisbee costs $9.",
+    "$70 - $9 = $61. After buying both the kite and the frisbee, Donny has $61 left."
+  ],
+  "solution": "61"
+}

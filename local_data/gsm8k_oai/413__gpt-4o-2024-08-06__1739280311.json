@@ -1,0 +1,17 @@
+{
+  "query": "Ryan has 40 balls. There are twice as many red balls as blue while the rest are green. If there are 11 blue balls, how many green balls are there?",
+  "steps": [
+    "I need to find out how many balls are green.",
+    "First, I need to determine how many red balls there are.",
+    "I am told that there are twice as many red balls as blue balls.",
+    "There are 11 blue balls.",
+    "So, the number of red balls is 2 times 11.",
+    "Calculating that gives me 22 red balls.",
+    "Now, I can find out the total number of non-green balls by adding the red and blue balls.",
+    "Adding 22 red balls and 11 blue balls gives me 33 balls that are not green.",
+    "Ryan has 40 balls in total.",
+    "To find the green balls, I subtract the non-green (33) from the total (40).",
+    "40 balls minus 33 non-green balls equals 7 green balls."
+  ],
+  "solution": "7"
+}

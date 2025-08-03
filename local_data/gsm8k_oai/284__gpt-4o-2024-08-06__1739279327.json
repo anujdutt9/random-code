@@ -1,0 +1,19 @@
+{
+  "query": "Matt buys a massager.  At the lowest setting, it vibrates at 1600 vibrations per second.  At the highest setting, it vibrates 60% faster.  Matt uses it for 5 minutes at the highest setting.  How many vibrations does he experience?",
+  "steps": [
+    "First, I need to determine the vibration rate of the massager at the highest setting.",
+    "The massager vibrates at 1600 vibrations per second at the lowest setting.",
+    "The highest setting is 60% faster than the lowest setting.",
+    "To find 60% of 1600, I calculate 0.60 * 1600.",
+    "0.60 * 1600 = 960.",
+    "Now I add 960 to the original 1600 to find the vibrations per second at the highest setting.",
+    "1600 + 960 = 2560 vibrations per second at the highest setting.",
+    "Matt uses the massager for 5 minutes at the highest setting.",
+    "I need to convert 5 minutes into seconds because the vibration rate is given in seconds.",
+    "1 minute = 60 seconds.",
+    "5 minutes = 5 * 60 = 300 seconds.",
+    "Now, I multiply the vibrations per second by the total time in seconds to find the total vibrations.",
+    "2560 vibrations/second * 300 seconds = 768,000 vibrations."
+  ],
+  "solution": "768000"
+}

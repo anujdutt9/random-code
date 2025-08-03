@@ -1,0 +1,15 @@
+{
+  "query": "Sabrina is collecting herbs to make a poultice for her grandmother. She needs twice as many basil leaves as sage leaves and 5 fewer sage leaves than verbena leaves. If she needs 12 basil leaves, how many leaves total does she need?",
+  "steps": [
+    "Identify the given information. We know Sabrina needs twice as many basil leaves as sage leaves and 5 fewer sage leaves than verbena leaves. She needs 12 basil leaves.",
+    "Let x be the number of sage leaves. According to the problem, Sabrina needs twice as many basil leaves as sage leaves, so 2x = 12.",
+    "Solve for x: 2x = 12. Divide both sides by 2 to find x: x = 6. So, she needs 6 sage leaves.",
+    "Next, we know she needs 5 fewer sage leaves than verbena leaves. Let y be the number of verbena leaves. So, y - 5 = x (the number of sage leaves).",
+    "We found that x = 6. Substitute 6 for x in the equation: y - 5 = 6.",
+    "Solve for y: y - 5 = 6; add 5 to both sides, y = 11.",
+    "Now, we know she needs 12 basil leaves, 6 sage leaves, and 11 verbena leaves.",
+    "Add all the leaves together to find the total number of leaves she needs: 12 basil leaves + 6 sage leaves + 11 verbena leaves.",
+    "Calculate the sum: 12 + 6 + 11 = 29."
+  ],
+  "solution": "29"
+}

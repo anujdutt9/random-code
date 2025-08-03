@@ -1,0 +1,16 @@
+{
+  "query": "Ed has 2 dogs, 3 cats and twice as many fish as cats and dogs combined. How many pets does Ed have in total?",
+  "steps": [
+    "Ed has 2 dogs.",
+    "Ed has 3 cats.",
+    "To find out how many fish, first we calculate the combined number of cats and dogs.",
+    "The number of cats and dogs combined is 2 (dogs) + 3 (cats) = 5.",
+    "Ed has twice as many fish as the combined number of dogs and cats.",
+    "To find the number of fish, multiply the combined number of dogs and cats by 2.",
+    "This is 5 (combined cats and dogs) * 2 = 10 fish.",
+    "Now, add everything together to check the total number of pets Ed has.",
+    "Ed's total number of pets is 2 (dogs) + 3 (cats) + 10 (fish).",
+    "The total is 2 + 3 + 10 = 15."
+  ],
+  "solution": "15"
+}

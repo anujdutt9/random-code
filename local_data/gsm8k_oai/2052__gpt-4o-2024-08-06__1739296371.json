@@ -1,0 +1,13 @@
+{
+  "query": "Jane had a 500 page book to read. The first half of the book Jane read with a speed of 10 pages per day, and the second half with a speed of 5 pages a day. How many days did Jane spend reading this book?",
+  "steps": [
+    "The total number of pages in the book is 500 pages.",
+    "The book is divided into two halves. So, each half is \\( \\frac{500}{2} = 250 \\) pages.",
+    "In the first half, Jane reads at a speed of 10 pages per day.",
+    "To calculate the number of days Jane takes to read the first half, divide the pages by the reading speed: \\( \\frac{250}{10} = 25 \\) days.",
+    "In the second half, Jane's reading speed is 5 pages per day.",
+    "For the second half, the number of days Jane takes is \\( \\frac{250}{5} = 50 \\) days.",
+    "Sum the days for both halves to get the total: \\( 25 + 50 = 75 \\) days."
+  ],
+  "solution": "75"
+}

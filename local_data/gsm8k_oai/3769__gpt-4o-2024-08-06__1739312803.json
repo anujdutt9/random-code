@@ -1,0 +1,19 @@
+{
+  "query": "Darnell has 1000 square feet of fabric that he's using to make mini flags. He makes square flags that are 4 feet by 4 feet, wide rectangular flags that are 5 feet by 3 feet, and tall rectangular flags that are 3 feet by 5 feet. He has already made 16 square flags, 20 wide flags, and 10 tall flags. How many square feet of fabric does he have left?",
+  "steps": [
+    "First, I need to find out how much fabric Darnell has already used.",
+    "I will start by calculating the fabric used for the square flags. Each square flag is 4 feet by 4 feet, so it covers 4 * 4 = 16 square feet.",
+    "Darnell has made 16 square flags. Therefore, the fabric used for square flags is 16 flags * 16 square feet/flag = 256 square feet.",
+    "Next, I will calculate the fabric used for the wide rectangular flags. Each wide rectangular flag is 5 feet by 3 feet, so it covers 5 * 3 = 15 square feet.",
+    "Darnell has made 20 wide rectangular flags. Therefore, the fabric used for wide rectangular flags is 20 flags * 15 square feet/flag = 300 square feet.",
+    "Next, I will calculate the fabric used for the tall rectangular flags. Each tall rectangular flag is 3 feet by 5 feet, so it also covers 3 * 5 = 15 square feet.",
+    "Darnell has made 10 tall rectangular flags. Therefore, the fabric used for tall rectangular flags is 10 flags * 15 square feet/flag = 150 square feet.",
+    "Now, I will calculate the total fabric used by adding the fabric used for all types of flags.",
+    "The total fabric used is 256 square feet (square flags) + 300 square feet (wide flags) + 150 square feet (tall flags).",
+    "Total fabric used = 256 + 300 + 150 = 706 square feet.",
+    "Finally, I will subtract the fabric used from the total fabric Darnell originally had to find how much fabric he has left.",
+    "Darnell originally had 1000 square feet of fabric. So, the fabric left is 1000 square feet - 706 square feet.",
+    "The amount of fabric left is 294 square feet."
+  ],
+  "solution": "294"
+}

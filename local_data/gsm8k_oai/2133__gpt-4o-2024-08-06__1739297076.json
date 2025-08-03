@@ -1,0 +1,19 @@
+{
+  "query": "The cost of purchasing two commodities is $827. If the purchase price of the first one exceeds the other by $127, what is the purchase price of the first commodity?",
+  "steps": [
+    "Let the purchase price of the second commodity be \\( x \\).",
+    "The purchase price of the first commodity is then \\( x + 127 \\) because it exceeds the second by $127.",
+    "The total cost for both commodities is given as $827.",
+    "So, we can set up the equation: \\( x + (x + 127) = 827 \\).",
+    "Simplify the equation: \\( 2x + 127 = 827 \\).",
+    "Subtract 127 from both sides to isolate the terms with \\( x \\): \\( 2x = 827 - 127 \\).",
+    "Calculate the result of the subtraction: \\( 827 - 127 = 700 \\).",
+    "Now the equation is: \\( 2x = 700 \\).",
+    "Divide both sides of the equation by 2 to solve for \\( x \\): \\( x = \\frac{700}{2} \\).",
+    "Calculate the result of the division: \\( x = 350 \\).",
+    "So, the price of the second commodity is $350.",
+    "Since the first commodity is $127 more expensive than the second one, calculate the price of the first commodity: \\( 350 + 127 \\).",
+    "Perform the addition: \\( 350 + 127 = 477 \\)."
+  ],
+  "solution": "477"
+}

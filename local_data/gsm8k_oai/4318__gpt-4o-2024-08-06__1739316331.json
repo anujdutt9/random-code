@@ -1,0 +1,17 @@
+{
+  "query": "Mell went to a cafeteria to spend some time with her friends. She ordered two cups of coffee and one piece of cake. Two of her friends ordered the same, but each of them also bought a bowl of ice cream. One cup of coffee is $4, one piece of cake is $7, and a bowl of ice cream is $3. How much money did Mell and her friends need to pay at the cafeteria?",
+  "steps": [
+    "First, calculate the cost of Mell's order. She ordered two cups of coffee and one piece of cake.",
+    "Each cup of coffee costs $4. So, for two cups, the cost is 2 x $4 = $8.",
+    "The cake costs $7.",
+    "Adding these together, Mell's total is $8 (for coffee) + $7 (for cake) = $15.",
+    "Now calculate the cost of the order for one of her friends. Each friend ordered two cups of coffee, one piece of cake, and one bowl of ice cream.",
+    "The two cups of coffee for each friend will also cost $8, just like Mell's coffee.",
+    "The cake for each friend costs $7.",
+    "Each bowl of ice cream costs $3.",
+    "So, one friend's total is $8 (for coffee) + $7 (for cake) + $3 (for ice cream) = $18.",
+    "Since there are two friends, multiply the cost of one friend's order by 2: $18 x 2 = $36.",
+    "Now, add Mell's total cost and her friends' total cost together: $15 (Mell) + $36 (friends) = $51."
+  ],
+  "solution": "51"
+}

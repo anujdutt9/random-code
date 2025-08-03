@@ -1,0 +1,17 @@
+{
+  "query": "At the duck park, there are 25 mallard ducks and ten less than twice as many geese as ducks.  Then, a small flock of 4 ducks arrived at the park and joined the birds already there.  If five less than 15 geese leave the park, how many more geese than ducks remain at the park?",
+  "steps": [
+    "First, I determine how many geese are initially at the duck park. The number of geese is ten less than twice the number of ducks. There are 25 mallard ducks.",
+    "Twice the number of ducks is \\( 2 \\times 25 = 50 \\).",
+    "The number of geese is \\( 50 - 10 = 40 \\).",
+    "Now, I know there are initially 25 ducks and 40 geese at the park.",
+    "Then, 4 more ducks arrive at the park.",
+    "The new total number of ducks is \\( 25 + 4 = 29 \\).",
+    "Next, I determine how many geese leave the park. Five less than 15 geese leave the park.",
+    "The number of geese leaving is \\( 15 - 5 = 10 \\).",
+    "After the geese leave, the number of geese remaining is \\( 40 - 10 = 30 \\).",
+    "Now, I need to find how many more geese than ducks remain at the park.",
+    "I compare the remaining geese and ducks: \\( 30 - 29 = 1 \\)."
+  ],
+  "solution": "1"
+}

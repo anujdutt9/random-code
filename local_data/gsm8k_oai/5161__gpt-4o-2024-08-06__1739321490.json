@@ -1,0 +1,19 @@
+{
+  "query": "Smaug the dragon hoards 100 gold coins, 60 silver coins, and 33 copper coins. If each silver coin is worth 8 copper coins, and each gold coin is worth 3 silver coins, what is the total value of Smaug's hoard expressed as a number of copper coins?",
+  "steps": [
+    "First, I need to determine the value of the gold coins in terms of copper coins.",
+    "I know each gold coin is worth 3 silver coins.",
+    "I also know each silver coin is worth 8 copper coins.",
+    "This means each gold coin is worth 3 silver coins * 8 copper coins/silver coin = 24 copper coins.",
+    "Smaug has 100 gold coins. So the total value of the gold coins in copper coins is 100 gold coins * 24 copper coins/gold coin = 2400 copper coins.",
+    "Next, I need to calculate the value of the silver coins in terms of copper coins.",
+    "Smaug has 60 silver coins.",
+    "Each silver coin is worth 8 copper coins.",
+    "Therefore, the total value of the silver coins in copper coins is 60 silver coins * 8 copper coins/silver coin = 480 copper coins.",
+    "Now, I have to add the value of the copper coins Smaug already has.",
+    "Smaug has 33 copper coins.",
+    "Adding the value of the gold coins, silver coins, and copper coins together gives: 2400 copper coins + 480 copper coins + 33 copper coins.",
+    "Calculating this gives: 2913 copper coins."
+  ],
+  "solution": "2913"
+}

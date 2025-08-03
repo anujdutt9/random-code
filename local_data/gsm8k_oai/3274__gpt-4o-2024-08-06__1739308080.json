@@ -1,0 +1,16 @@
+{
+  "query": "There's a Bobbit worm hiding in the bottom of James' aquarium. Every day it eats 2 fish. After two weeks, James adds 8 more fish to the aquarium. A week later, he discovers the Bobbit worm. If the aquarium had 60 fish to start with, how many does it have when James discovers the Bobbit worm?",
+  "steps": [
+    "The aquarium starts with 60 fish.",
+    "The Bobbit worm eats 2 fish every day.",
+    "Two weeks is equal to 14 days.",
+    "In 14 days, the Bobbit worm eats 14 * 2 = 28 fish.",
+    "After 14 days, the number of fish remaining is 60 - 28 = 32.",
+    "James adds 8 more fish to the aquarium.",
+    "After adding 8 fish, the total number of fish is 32 + 8 = 40.",
+    "A week later is 7 days later.",
+    "In these 7 days, the Bobbit worm eats 7 * 2 = 14 fish.",
+    "The number of fish remaining after these 7 days is 40 - 14 = 26."
+  ],
+  "solution": "26"
+}

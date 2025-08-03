@@ -1,0 +1,17 @@
+{
+  "query": "Suzanna's history textbook has 160 pages and her geography textbook has 70 more pages. Her math textbook has half of the sum of the first two books' pages, and her science textbook has twice the number of pages of her history textbook. If Suzanna stacks all her textbooks on her desk, how many pages would there be in total?",
+  "steps": [
+    "First, let's determine the number of pages in each textbook. We'll start with the history textbook. It has 160 pages.",
+    "Next, let's calculate the number of pages in the geography textbook. It has 70 more pages than the history textbook.",
+    "So, the geography textbook has 160 pages (history) + 70 pages = 230 pages.",
+    "Now, let's calculate the pages in the math textbook. It has half of the sum of the pages of the history and geography textbooks.",
+    "First, calculate the sum of the history and geography pages: 160 pages + 230 pages = 390 pages.",
+    "The math textbook has half of that, which is 390 pages / 2 = 195 pages.",
+    "Next, we'll calculate the pages in the science textbook. It has twice the pages of the history textbook.",
+    "Twice the pages of the history textbook is 160 pages * 2 = 320 pages.",
+    "Now we have all the page counts. History: 160 pages, Geography: 230 pages, Math: 195 pages, Science: 320 pages.",
+    "Finally, let's add up all the pages to find the total number of pages when Suzanna stacks all her textbooks.",
+    "Total pages = 160 (history) + 230 (geography) + 195 (math) + 320 (science) = 905 pages."
+  ],
+  "solution": "905"
+}

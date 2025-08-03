@@ -1,0 +1,12 @@
+{
+  "query": "In a 90-minute soccer game, Mark played 20 minutes, then rested after. He then played for another 35 minutes. How long was he on the sideline?",
+  "steps": [
+    "First, identify the total game time, which is given as 90 minutes.",
+    "Next, determine how many periods Mark played. He first played for 20 minutes.",
+    "After his first period of playing, he rested. We need to calculate the rest time.",
+    "Then, he played again for another 35 minutes.",
+    "Calculate the total playing time: 20 minutes (first period) + 35 minutes (second period) = 55 minutes.",
+    "Subtract the total playing time from the total game time to determine the time he was on the sideline: 90 minutes (total game time) - 55 minutes (total playing time) = 35 minutes."
+  ],
+  "solution": "35"
+}

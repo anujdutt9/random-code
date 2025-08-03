@@ -1,0 +1,15 @@
+{
+  "query": "The sum of the three numbers is 500. If the first number is 200, and the value of the second number is twice the value of the third number, find the value of the third number.",
+  "steps": [
+    "I begin by noting the information provided: The sum of the three numbers is 500.",
+    "I know the first number is 200, so I can write this as an equation: 200 + second number + third number = 500.",
+    "Next, I let the third number be \\( x \\).",
+    "Based on the information given, the second number is twice the third number. Therefore, the second number is \\( 2x \\).",
+    "Now, substituting these into the equation, I get: 200 + 2x + x = 500.",
+    "I can simplify the equation to: 200 + 3x = 500.",
+    "I now subtract 200 from both sides to isolate the term containing \\( x \\): 3x = 300.",
+    "To solve for \\( x \\), I divide both sides by 3: \\( x = \\frac{300}{3} \\).",
+    "Simplifying that division, I find \\( x = 100 \\)."
+  ],
+  "solution": "100"
+}

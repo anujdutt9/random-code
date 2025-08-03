@@ -1,0 +1,11 @@
+{
+  "query": "Question: What is the frequency of ocean waves that have a speed of 18 m/s and a wavelength of 50 m?\n\nChoices:\nA: 0.18 Hz\nB: 0.36 Hz\nC: 2.8 Hz\nD: 9.0 Hz",
+  "steps": [
+    "To find the frequency of ocean waves, we can use the formula that relates speed (v), wavelength (\u03bb), and frequency (f): v = f \u00d7 \u03bb.",
+    "We can rearrange the formula to solve for frequency: f = v / \u03bb.",
+    "Substituting the given values into the formula, we have f = 18 m/s / 50 m.",
+    "Calculating the frequency gives us f = 0.36 Hz.",
+    "Now, we compare this calculated frequency with the provided answer choices."
+  ],
+  "solution": "B"
+}

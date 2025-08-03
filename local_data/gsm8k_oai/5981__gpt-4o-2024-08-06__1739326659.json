@@ -1,0 +1,13 @@
+{
+  "query": "Cortney is downloading some files to her computer. Her internet speed is 2 megabits per minute. If she can download the files one at a time and the files she is downloading have the size of 80 megabits, 90 megabits, and 70 megabits. How many hours will it take for her to download all of it?",
+  "steps": [
+    "First, I need to determine the total size of all the files combined.",
+    "The file sizes are 80 megabits, 90 megabits, and 70 megabits.",
+    "I add these sizes together: 80 + 90 + 70 = 240 megabits.",
+    "Next, I need to calculate how long it will take to download 240 megabits at a speed of 2 megabits per minute.",
+    "I divide the total size of the files by the download speed: 240 megabits / 2 megabits per minute = 120 minutes.",
+    "Finally, I convert minutes to hours because the question asks for the time in hours.",
+    "There are 60 minutes in an hour, so I divide the total minutes by 60: 120 minutes / 60 minutes per hour = 2 hours."
+  ],
+  "solution": "2"
+}

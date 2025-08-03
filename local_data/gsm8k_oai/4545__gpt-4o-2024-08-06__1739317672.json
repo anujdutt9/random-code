@@ -1,0 +1,18 @@
+{
+  "query": "Mandy is ten years older than Jackson. Adele is 3/4 as old as Jackson. What's the total of their ages 10 years from now If Jackson is 20 years old now?",
+  "steps": [
+    "Jackson is currently 20 years old.",
+    "Mandy is ten years older than Jackson.",
+    "Mandy's current age is 20 (Jackson's age) + 10 = 30 years.",
+    "Adele is 3/4 as old as Jackson.",
+    "Adele's current age is 3/4 * 20 = 15 years.",
+    "Now I will calculate each person's age 10 years from now.",
+    "Jackson's age 10 years from now will be 20 + 10 = 30 years.",
+    "Mandy's age 10 years from now will be 30 + 10 = 40 years.",
+    "Adele's age 10 years from now will be 15 + 10 = 25 years.",
+    "Now I will find the total of their ages 10 years from now.",
+    "The total of their ages 10 years from now = Jackson's age + Mandy's age + Adele's age.",
+    "The total = 30 (Jackson) + 40 (Mandy) + 25 (Adele) = 95 years."
+  ],
+  "solution": "95"
+}

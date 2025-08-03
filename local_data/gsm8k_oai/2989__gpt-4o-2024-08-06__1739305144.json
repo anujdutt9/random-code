@@ -1,0 +1,14 @@
+{
+  "query": "Jimmy and Tonya both like collecting matchbooks and stamps. Tonya and Jimmy decide to trade some stamps and matchbooks. They have each decided that one stamp is worth 12 matches. Each matchbook contains 24 matches. If Tonya arrives with 13 stamps, Jimmy has 5 matchbooks, and Jimmy trades all his matchbooks for stamps, how many stamps does Tonya have left?",
+  "steps": [
+    "Tonya starts with 13 stamps.",
+    "Each matchbook contains 24 matches.",
+    "Jimmy has 5 matchbooks, so he has 5 matchbooks * 24 matches/matchbook = 120 matches.",
+    "1 stamp is worth 12 matches.",
+    "Jimmy wants to trade his 120 matches for stamps. The number of stamps this is worth is calculated as 120 matches / 12 matches/stamp = 10 stamps.",
+    "Jimmy trades all his 5 matchbooks for 10 stamps from Tonya.",
+    "After trading, Tonya gives 10 stamps to Jimmy.",
+    "Tonya originally had 13 stamps and she gave away 10 stamps, so she has 13 - 10 = 3 stamps left."
+  ],
+  "solution": "3"
+}

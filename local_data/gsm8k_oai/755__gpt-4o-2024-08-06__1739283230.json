@@ -1,0 +1,19 @@
+{
+  "query": "Tom swims for 2 hours at a speed of 2 miles per hour.  He then runs for half the time at 4 times the speed.  How many miles did he cover?",
+  "steps": [
+    "Tom swims for 2 hours.",
+    "His swimming speed is 2 miles per hour.",
+    "The distance he covers while swimming is speed multiplied by time.",
+    "So, the swimming distance is 2 hours * 2 miles/hour = 4 miles.",
+    "Next, Tom runs for half the time he swims.",
+    "Half of 2 hours is 1 hour.",
+    "His running speed is 4 times his swimming speed.",
+    "4 times 2 miles per hour is 8 miles per hour.",
+    "The distance he covers while running is speed multiplied by time.",
+    "So, the running distance is 1 hour * 8 miles/hour = 8 miles.",
+    "To find the total distance covered by Tom, add the swimming distance and the running distance.",
+    "The total distance is 4 miles + 8 miles.",
+    "4 miles + 8 miles = 12 miles."
+  ],
+  "solution": "12"
+}

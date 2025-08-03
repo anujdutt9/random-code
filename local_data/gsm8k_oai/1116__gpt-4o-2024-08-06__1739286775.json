@@ -1,0 +1,22 @@
+{
+  "query": "Ben starts each day with $50, spends $15 every day and saves the rest. After a few days, his mom doubled his total savings and his dad gave him an additional $10. If he now has $500, How many days have elapsed?",
+  "steps": [
+    "Ben starts with $50 each day.",
+    "He spends $15 each day.",
+    "Therefore, he saves $50 - $15 = $35 each day.",
+    "Let's assume Ben saves for \"d\" days.",
+    "His total savings after \"d\" days would be $35 * d.",
+    "His mother then doubles his savings.",
+    "The doubled amount is 2 * $35 * d.",
+    "His dad gives him an additional $10.",
+    "So, his total amount now is 2 * $35 * d + $10.",
+    "We know this total amount is $500.",
+    "Therefore, we set up the equation: 2 * $35 * d + $10 = $500.",
+    "First, let's subtract $10 from both sides: 2 * $35 * d = $490.",
+    "Now, solve for d: 2 * $35 * d = $490 means $70 * d = $490.",
+    "Divide both sides by $70: d = $490 / $70.",
+    "Calculate $490 / $70 to find d.",
+    "$490 / $70 = 7."
+  ],
+  "solution": "7"
+}

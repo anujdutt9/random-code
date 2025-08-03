@@ -1,0 +1,18 @@
+{
+  "query": "Patricia has 4 barrels of 7 gallons each. All of them are empty, and there's only one faucet with a flow rate of 3.5 gallons per minute. How many minutes will it take to fill all 4 barrels?",
+  "steps": [
+    "First, I need to calculate the total capacity of the barrels.",
+    "Each barrel has a capacity of 7 gallons.",
+    "There are 4 barrels.",
+    "So, the total capacity is 4 barrels \u00d7 7 gallons/barrel.",
+    "Calculating the total capacity: 4 \u00d7 7 = 28 gallons.",
+    "Next, I need to consider the flow rate of the faucet.",
+    "The flow rate is 3.5 gallons per minute.",
+    "I need to determine how long it will take to fill 28 gallons with a flow rate of 3.5 gallons per minute.",
+    "To find the time, I divide the total gallons by the flow rate.",
+    "Divide 28 gallons by 3.5 gallons per minute.",
+    "28 \u00f7 3.5 = 8 minutes.",
+    "It will take 8 minutes to fill all 4 barrels."
+  ],
+  "solution": "8"
+}

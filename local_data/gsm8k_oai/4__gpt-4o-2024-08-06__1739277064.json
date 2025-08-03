@@ -1,0 +1,18 @@
+{
+  "query": "James writes a 3-page letter to 2 different friends twice a week.  How many pages does he write a year?",
+  "steps": [
+    "First, I need to determine how many letters James writes per week.",
+    "James writes letters to 2 different friends twice a week.",
+    "That means he writes 2 letters per friend per week.",
+    "Since there are two friends, he writes 2 letters x 2 friends = 4 letters per week.",
+    "Now, I need to determine how many pages each letter consists of.",
+    "Each letter is 3 pages long.",
+    "To find how many pages he writes per week, I multiply the number of letters by the pages per letter.",
+    "4 letters x 3 pages per letter = 12 pages per week.",
+    "Next, I need to calculate how many weeks are in a year.",
+    "There are 52 weeks in a year.",
+    "Now, I calculate the total number of pages he writes in a year by multiplying the pages written per week by the number of weeks in a year.",
+    "12 pages per week x 52 weeks per year = 624 pages per year."
+  ],
+  "solution": "624"
+}

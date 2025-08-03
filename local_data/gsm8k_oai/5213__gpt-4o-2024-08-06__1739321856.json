@@ -1,0 +1,16 @@
+{
+  "query": "Jon decides to take up baseball.  He can throw a fastball at 80 miles per hour.   He goes through intense training 4 times for 4 weeks each time and at the end of the last one he can throw a ball 20% faster.  How much speed (in mph) did he gain per week, assuming he gained an equal amount of speed (in mph) each week?",
+  "steps": [
+    "Jon's initial fastball speed is 80 mph.",
+    "After training, Jon can throw 20% faster than 80 mph.",
+    "To find 20% of 80 mph, calculate 0.20 * 80.",
+    "0.20 * 80 = 16 mph.",
+    "Jon's new fastball speed is 80 mph + 16 mph = 96 mph.",
+    "He went through 4 training sessions, each lasting 4 weeks.",
+    "The total number of weeks Jon trained is 4 sessions * 4 weeks/session = 16 weeks.",
+    "The total speed gained over those weeks is 96 mph - 80 mph = 16 mph.",
+    "To find the speed gained per week, divide the total speed gained by the total number of weeks: 16 mph / 16 weeks.",
+    "16 mph / 16 weeks = 1 mph per week."
+  ],
+  "solution": "1"
+}

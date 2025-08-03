@@ -1,0 +1,14 @@
+{
+  "query": "Kay has 14 siblings.  Kay is 32 years old.  The youngest sibling is 5 less than half Kay's age.  The oldest sibling is four times as old as the youngest sibling.  How old is the oldest sibling?",
+  "steps": [
+    "Kay is 32 years old. This will help us calculate the youngest sibling's age.",
+    "Since the youngest sibling is 5 years less than half of Kay's age, I need to calculate half of Kay's age first.",
+    "Half of Kay's age is 32 / 2, which equals 16.",
+    "The age of the youngest sibling is 5 less than this, so I subtract 5 from 16.",
+    "The youngest sibling is 16 - 5 = 11 years old.",
+    "Now I need to find the age of the oldest sibling, who is four times as old as the youngest sibling.",
+    "I multiply the age of the youngest sibling (11) by 4 to find the age of the oldest sibling.",
+    "11 multiplied by 4 equals 44."
+  ],
+  "solution": "44"
+}

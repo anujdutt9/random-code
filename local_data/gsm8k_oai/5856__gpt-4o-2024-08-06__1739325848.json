@@ -1,0 +1,18 @@
+{
+  "query": "Milly is figuring out how long she needs to spend studying. She knows that her math homework will take 60 minutes. Her geography homework will take half as long as her math homework, and her science homework will take time equal to the mean amount of time she spent studying math and geography. How many minutes does Milly spend studying?",
+  "steps": [
+    "First, I know that Milly's math homework takes 60 minutes.",
+    "Next, I need to calculate the time required for her geography homework. It is stated that geography homework will take half as long as math homework.",
+    "Half of 60 minutes is 30 minutes. Therefore, geography homework will take 30 minutes.",
+    "Now, I need to find out how much time Milly's science homework will take.",
+    "The time for her science homework is the mean of the time spent on math and geography homework.",
+    "First, I will calculate the mean of 60 and 30. To find the mean, I add 60 and 30, then divide by 2.",
+    "Adding 60 and 30 equals 90.",
+    "Dividing 90 by 2 gives 45.",
+    "So, science homework takes 45 minutes.",
+    "Now, I will add up the time for all three subjects: math, geography, and science.",
+    "Math homework takes 60 minutes, geography takes 30 minutes, and science takes 45 minutes.",
+    "Adding 60 + 30 + 45 gives a total of 135 minutes."
+  ],
+  "solution": "135"
+}

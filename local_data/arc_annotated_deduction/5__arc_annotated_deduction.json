@@ -1,0 +1,9 @@
+{
+    "id": 5,
+    "query": "Question: What is a source of food and growth for a mushroom?\n\nChoices:\nA: rotting organisms\nB: sunshine\nC: minerals in soil\nD: water in soil",
+    "solution": "A",
+    "style_name": "form_5_annotated_deduction",
+    "steps": [
+        "[Mushrooms decompose organic matter] \u2192 [Feed on rotting organisms]\n[Rotting organisms] \u2192 [Nutrient source for growth]\nAnswer: Rotting organisms"
+    ]
+}

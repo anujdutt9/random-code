@@ -1,0 +1,17 @@
+{
+  "query": "Rebecca bought 2 pies for the holiday weekend.  Each pie was sliced into 8 slices.  Rebecca ate 1 slice of each pie.  Her family and friends ate 50% of the remaining pies over the weekend.  On Sunday evening Rebecca and her husband each had another slice of pie.  How many slices are remaining?",
+  "steps": [
+    "Rebecca bought 2 pies.",
+    "Each pie was sliced into 8 slices.",
+    "The total number of slices from both pies is 2 pies * 8 slices per pie = 16 slices.",
+    "Rebecca ate 1 slice from each pie, totaling 2 slices eaten.",
+    "The number of remaining slices after Rebecca ate is 16 total slices - 2 slices = 14 slices.",
+    "Her family and friends ate 50% of the remaining 14 slices.",
+    "50% of 14 slices is 14 / 2 = 7 slices eaten by her family and friends.",
+    "The number of slices left after her family and friends ate is 14 slices - 7 slices = 7 slices.",
+    "On Sunday evening, Rebecca and her husband each had another slice of pie.",
+    "They ate 2 more slices in total (1 slice each for Rebecca and her husband).",
+    "The number of slices remaining after they ate is 7 slices - 2 slices = 5 slices."
+  ],
+  "solution": "5"
+}

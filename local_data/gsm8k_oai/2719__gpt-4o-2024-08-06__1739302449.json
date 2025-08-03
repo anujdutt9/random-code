@@ -1,0 +1,17 @@
+{
+  "query": "Ellen is baking bread. It takes 3 hours to rise 1 ball of dough, and then another 2 hours to bake it. If she makes 4 balls of dough one after another and then bakes them one after another when they're done rising, how many hours will it take?",
+  "steps": [
+    "First, I need to consider how long it takes to complete the process of rising and baking for a single ball of dough.",
+    "For one ball of dough, it takes 3 hours to rise and 2 hours to bake.",
+    "Adding these together, it takes a total of 5 hours to complete the process for one ball of dough.",
+    "Next, I need to calculate the time for 4 balls of dough.",
+    "If she does them one after another, that means she starts the second after the first is baked, the third after the second is baked, and so on.",
+    "For the first ball, it takes 5 hours (3 hours rising + 2 hours baking).",
+    "For the second ball, it will start rising after the first is baked, requiring an additional 5 hours.",
+    "For the third ball, similarly, it will start after the second ball is completed, adding another 5 hours.",
+    "The same logic applies to the fourth ball, requiring another 5 hours on top of everything else.",
+    "So the total time required for 4 balls of dough is 4 * 5 hours.",
+    "4 * 5 = 20 hours."
+  ],
+  "solution": "20"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "One hundred people attended a party. Fifty percent of the attendees are women, thirty-five percent of them are men, and the rest are children. How many children attended the party?",
+  "steps": [
+    "The total number of people at the party is 100.",
+    "Fifty percent of the attendees are women.",
+    "Fifty percent of 100 is calculated as 0.50 * 100 = 50.",
+    "So, there are 50 women at the party.",
+    "Thirty-five percent of the attendees are men.",
+    "Thirty-five percent of 100 is calculated as 0.35 * 100 = 35.",
+    "So, there are 35 men at the party.",
+    "Now, I need to find the number of children at the party.",
+    "The total number of women and men together is 50 + 35 = 85.",
+    "The total attendees are 100, and the sum of women and men is 85.",
+    "The number of children is the total attendees minus the number of women and men together.",
+    "So, the number of children is 100 - 85 = 15."
+  ],
+  "solution": "15"
+}

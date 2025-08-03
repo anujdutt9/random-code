@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#SBATCH --partition=gpu_h100
+#SBATCH --gpus=1
+#SBATCH --job-name=Eval
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=16
+#SBATCH --time={TIME}
+#SBATCH --output=jobs/outputs/{TASK}/{MODEL_NAME}/{EXPERIMENT_NAME}_%A.out
+
+# <Any code you need to set up your environment>
+
+cd $HOME/cache-steering/
+# <Activete environment here, e.g. source activate cache-steering>
+
+srun python eval_steering.py --model {MODEL} \
+                            --task {TASK}

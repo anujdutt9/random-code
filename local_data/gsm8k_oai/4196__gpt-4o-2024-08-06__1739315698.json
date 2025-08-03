@@ -1,0 +1,15 @@
+{
+  "query": "A gecko lays 30 eggs per year. 20 percent of them are infertile, and a third of the remaining eggs will not hatch due to calcification issues.  How many eggs actually hatch?",
+  "steps": [
+    "Start by calculating the number of infertile eggs.",
+    "20 percent of 30 eggs is 0.20 * 30 = 6 eggs.",
+    "Subtract the number of infertile eggs from the total number of eggs to find the remaining fertile eggs.",
+    "30 total eggs - 6 infertile eggs = 24 fertile eggs.",
+    "Now calculate the eggs that will not hatch due to calcification from the remaining fertile eggs.",
+    "A third of the 24 fertile eggs will not hatch due to calcification.",
+    "Calculate one third of 24 eggs: 24 / 3 = 8 eggs.",
+    "Subtract the number of eggs that will not hatch due to calcification from the fertile eggs to find the number of eggs that actually hatch.",
+    "24 fertile eggs - 8 eggs with calcification issues = 16 eggs."
+  ],
+  "solution": "16"
+}

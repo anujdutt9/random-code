@@ -1,0 +1,17 @@
+{
+  "query": "A local bookshop is selling off its old inventory in order to bring in newer books. They currently have 743 books in their store. They sold 37 books in-store on Saturday and sold 128 books online. On Sunday, they sold twice as many books in-store and increased their online sales by 34 books. They also received a shipment of 160 books. How many books do they currently have?",
+  "steps": [
+    "The bookshop started with 743 books.",
+    "On Saturday, they sold 37 books in-store.",
+    "After selling 37 books in-store on Saturday, the inventory would be 743 - 37 = 706 books.",
+    "On Saturday, they also sold 128 books online.",
+    "After selling 128 books online on Saturday, the inventory would be 706 - 128 = 578 books.",
+    "On Sunday, they sold twice as many books in-store compared to Saturday. So that's 2 * 37 = 74 books in-store.",
+    "After selling 74 books in-store on Sunday, the inventory would be 578 - 74 = 504 books.",
+    "On Sunday, they increased their online sales by 34 books. That means 128 + 34 = 162 books were sold online on Sunday.",
+    "After selling 162 books online on Sunday, the inventory would be 504 - 162 = 342 books.",
+    "They received a shipment of 160 books.",
+    "After receiving the shipment, the inventory would increase by 160 books, so 342 + 160 = 502 books."
+  ],
+  "solution": "502"
+}

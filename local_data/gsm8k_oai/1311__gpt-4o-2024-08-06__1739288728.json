@@ -1,0 +1,16 @@
+{
+  "query": "I bought a TV for $1700 excluding tax. What is the price of the television when calculating 15% of the value-added tax?",
+  "steps": [
+    "First, I need to calculate the value-added tax (VAT) on the television.",
+    "The given price of the TV is $1700.",
+    "The VAT rate is 15%.",
+    "To find the VAT amount, I need to calculate 15% of $1700.",
+    "15% as a decimal is 0.15.",
+    "Now, I will multiply the price of the TV by the VAT rate: $1700 * 0.15.",
+    "$1700 * 0.15 = $255.",
+    "The value of the VAT is $255.",
+    "Next, I will add the VAT to the original price of the TV to get the final price.",
+    "$1700 (original price) + $255 (VAT) = $1955."
+  ],
+  "solution": "1955"
+}

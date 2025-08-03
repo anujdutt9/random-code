@@ -1,0 +1,17 @@
+{
+  "query": "Mary had 6 lambs and 2 of the lambs had 2 babies each.  She traded 3 lambs for one goat.  One morning, she woke up and found an extra 7 lambs in the field.  How many lambs does Mary have?",
+  "steps": [
+    "Start by identifying how many lambs Mary originally had. She had 6 lambs to begin with.",
+    "Next, note that 2 of the lambs had 2 babies each.",
+    "2 lambs having 2 babies each means they added 2 x 2 = 4 babies in total.",
+    "Add these 4 baby lambs to the original 6 lambs.",
+    "Mary now has 6 + 4 = 10 lambs.",
+    "Now, consider the trade Mary made. She traded 3 lambs for 1 goat.",
+    "Subtract the 3 traded lambs from her current total.",
+    "Mary now has 10 - 3 = 7 lambs after the trade.",
+    "One morning, Mary found an additional 7 lambs in the field.",
+    "Add these 7 new lambs to the 7 she had after the trade.",
+    "Mary now has 7 + 7 = 14 lambs."
+  ],
+  "solution": "14"
+}

@@ -1,0 +1,12 @@
+{
+  "query": "John decides to get a new phone number and it ends up being a recycled number.  He used to get 20 text messages a day.  Now he is getting 55.  Assuming the number of texts his friends send has not changed, how many text messages per week is he getting that are not intended for him?",
+  "steps": [
+    "John used to get 20 text messages a day with his original phone number.",
+    "With the new recycled phone number, he is now receiving 55 messages a day.",
+    "The number of messages per day that are not intended for him is the difference between the new total and the original amount: 55 - 20.",
+    "Calculating the difference gives us 55 - 20 = 35 messages per day not intended for him.",
+    "To find out how many unintentional messages he is receiving per week, multiply the unintended daily messages by the number of days in a week: 35 messages/day * 7 days/week.",
+    "Calculating this gives us 35 * 7 = 245 messages per week not intended for him."
+  ],
+  "solution": "245"
+}

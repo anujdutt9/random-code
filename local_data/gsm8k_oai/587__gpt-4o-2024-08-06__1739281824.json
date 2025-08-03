@@ -1,0 +1,22 @@
+{
+  "query": "Jeff spends three times as many hours on the weekend catching up with his Facebook pals as he does working. Monday through Friday, however, he spends four times as many hours working as he does catching up. If he spends 3 hours every day catching up, how many hours does he spend working in an entire week?",
+  "steps": [
+    "First, I need to find out how much time Jeff spends catching up each day from Monday to Friday.",
+    "Jeff spends 3 hours catching up every day from Monday to Friday. There are 5 weekdays.",
+    "So, he spends 3 hours/day * 5 days = 15 hours catching up from Monday to Friday.",
+    "Now, I need to determine how much time he spends working from Monday to Friday.",
+    "The problem states that he spends four times as many hours working as he does catching up from Monday to Friday.",
+    "So, he works 4 times 15 hours = 60 hours from Monday to Friday.",
+    "Next, let's consider the weekend.",
+    "On the weekend, Jeff spends three times as many hours catching up as he does working.",
+    "First, I calculate how much he spends catching up on the weekend.",
+    "There are 2 days on the weekend (Saturday and Sunday). He spends 3 hours each day catching up.",
+    "So, he spends 3 hours/day * 2 days = 6 hours catching up on the weekend.",
+    "Since he spends three times as many hours catching up as working, the number of working hours on the weekend is 6 hours / 3 = 2 hours.",
+    "Finally, I need to find the total hours spent working in the entire week.",
+    "From Monday to Friday, he works 60 hours.",
+    "On the weekend, he works 2 hours.",
+    "So, the total hours spent working in the entire week is 60 hours + 2 hours = 62 hours."
+  ],
+  "solution": "62"
+}

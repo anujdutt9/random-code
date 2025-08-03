@@ -1,0 +1,16 @@
+{
+  "query": "The sum of Mario and Maria's ages now is 7. Mario is 1 year older than Maria. How old is Mario?",
+  "steps": [
+    "I am given that the sum of Mario and Maria's ages is 7.",
+    "I am also told that Mario is 1 year older than Maria.",
+    "To find their ages, I can set up equations. Let Maria's age be x.",
+    "Then Mario's age would be x + 1, since he is 1 year older than Maria.",
+    "The sum of their ages is 7. So, I can set up the equation: x + (x + 1) = 7.",
+    "Simplifying the equation, I have 2x + 1 = 7.",
+    "Subtract 1 from both sides to get: 2x = 6.",
+    "Divide both sides by 2 to find x: x = 3.",
+    "This means Maria is 3 years old.",
+    "Since Mario is 1 year older than Maria, Mario is 3 + 1 = 4 years old."
+  ],
+  "solution": "4"
+}

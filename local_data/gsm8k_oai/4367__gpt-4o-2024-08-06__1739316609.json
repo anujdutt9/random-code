@@ -1,0 +1,17 @@
+{
+  "query": "Susan is playing a board game with 48 spaces from the starting space to the winning end space of the game. On the first turn, she moves forward eight spaces. On the second turn, she moves two spaces, but lands on a space that sends her back five spaces. On the third turn, she moves forward six more spaces. How many spaces does she have to move to reach the ending space and win the game?",
+  "steps": [
+    "The total number of spaces on the board is 48.",
+    "On Susan's first turn, she moves forward 8 spaces.",
+    "After the first turn, Susan is on space 8.",
+    "On the second turn, she moves forward 2 spaces.",
+    "After moving 2 spaces forward, she is on space 10.",
+    "Landing on space 10 sends her back 5 spaces.",
+    "After moving back 5 spaces, she is now on space 5.",
+    "On the third turn, she moves forward 6 spaces.",
+    "After the third turn, Susan is on space 11.",
+    "To find out how many spaces Susan needs to move to win, subtract her current position from the total spaces: 48 - 11.",
+    "48 - 11 = 37."
+  ],
+  "solution": "37"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Shara borrowed money from her brother 6 months ago. She returned $10 per month to her brother. Currently, she was able to return half of the money she borrowed. How much will she still owe her brother 4 months from now?",
+  "steps": [
+    "Shara borrowed an unknown amount of money, let's call it X.",
+    "She has returned $10 per month for the past 6 months.",
+    "In total, she has returned 6 * $10 = $60 so far.",
+    "According to the problem, she has returned half of the money she borrowed, so the $60 she paid back is half of X.",
+    "This means that X/2 = $60.",
+    "Solving for X, we multiply both sides by 2, so X = $120.",
+    "Shara originally borrowed $120 from her brother.",
+    "She has returned $60 so far, so she still owes $120 - $60 = $60.",
+    "She plans to pay $10 per month for 4 more months.",
+    "In 4 months, she will pay 4 * $10 = $40 more.",
+    "Currently, Shara owes her brother $60, and in 4 months she will have paid $40 more.",
+    "$60 - $40 = $20 will be the remaining debt after 4 months."
+  ],
+  "solution": "20"
+}

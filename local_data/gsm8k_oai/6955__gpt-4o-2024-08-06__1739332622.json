@@ -1,0 +1,14 @@
+{
+  "query": "Carlo has a music recital next week. He practiced twice as long on Monday as on Tuesday. On Tuesday, he practiced 10 minutes less than on Wednesday. On Wednesday, he practiced 5 minutes more than on Thursday. On Thursday, he practiced for 50 minutes. If he needs to practice for a total of 5 hours that week, how long should Carlo practice on Friday?",
+  "steps": [
+    "First, I'm going to determine how long Carlo practiced on Thursday. According to the problem, Carlo practiced for 50 minutes on Thursday.",
+    "Next, I need to determine how long Carlo practiced on Wednesday. The problem states that he practiced 5 minutes more on Wednesday than on Thursday. Since he practiced for 50 minutes on Thursday, he must have practiced for 50 + 5 = 55 minutes on Wednesday.",
+    "Then, I need to determine how long Carlo practiced on Tuesday. It says that he practiced 10 minutes less on Tuesday than on Wednesday. So, on Tuesday, he practiced 55 - 10 = 45 minutes.",
+    "Next, the problem states that Carlo practiced twice as long on Monday as on Tuesday. So, on Monday, he practiced 2 * 45 = 90 minutes.",
+    "I need to find out the total amount of time Carlo has practiced from Monday to Thursday. This is 90 minutes (Monday) + 45 minutes (Tuesday) + 55 minutes (Wednesday) + 50 minutes (Thursday).",
+    "Calculating that, the total practice time from Monday to Thursday is 90 + 45 + 55 + 50 = 240 minutes.",
+    "Carlo needs to practice for a total of 5 hours that week. Since 5 hours is equivalent to 300 minutes, he needs 300 - 240 = 60 more minutes to reach his goal.",
+    "Therefore, Carlo should practice for 60 minutes on Friday."
+  ],
+  "solution": "60"
+}

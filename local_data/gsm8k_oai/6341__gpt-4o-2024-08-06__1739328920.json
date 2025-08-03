@@ -1,0 +1,16 @@
+{
+  "query": "A cargo ship moving from Shanghai to Vancouver navigates for 21 days before reaching port. Customs and regulatory processes in Vancouver last 4 days. Finally, moving the cargo from the port to your rural warehouse takes some time and it always arrives on the seventh day. How many days ago should the ship have departed if your warehouse is expecting the shipment 2 days from today?",
+  "steps": [
+    "First, I understand that I need to calculate the total time from the ship's departure to the cargo arriving at the warehouse.",
+    "The ship navigates for 21 days from Shanghai to Vancouver.",
+    "Next, the customs and regulatory process in Vancouver lasts 4 days.",
+    "Thus, the total time at the port in Vancouver is 4 days.",
+    "Finally, the cargo takes 7 days to arrive at the rural warehouse after the port process.",
+    "The total time from ship departure to the warehouse is 21 days (navigation) + 4 days (customs) + 7 days (transit to warehouse), which is 32 days.",
+    "Now, I know the warehouse is expecting the shipment 2 days from today.",
+    "I need to determine when the ship should have departed 32 days before it arrives at the warehouse.",
+    "If the shipment arrives in 2 days from today, that means from today back to the ship's departure is 32 days minus 2 days.",
+    "So, the ship should have departed 30 days ago."
+  ],
+  "solution": "30"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "Jill and Bob want to finally buy a house for themselves, so they went with a real estate agent to see some houses before making a decision. The first house was not too far from their work and the price was accessible. The second house was really big and Jill loved it but was twice as expensive as the first one and was way over their budget. They ended up buying the first one, knowing that the price of both houses altogether is $600,000. How much did Jill and Bob end up paying for their new house?",
+  "steps": [
+    "First, define two variables to represent the price of the houses. Let x be the price of the first house and y be the price of the second house.",
+    "The problem states the second house is twice as expensive as the first. This means y = 2x.",
+    "The total price of both houses together is given as $600,000. This gives us the equation: x + y = 600,000.",
+    "Substitute the expression for y from the second step into the total price equation: x + 2x = 600,000.",
+    "Simplify the equation: 3x = 600,000.",
+    "Solve for x by dividing both sides of the equation by 3: x = 600,000 / 3.",
+    "Calculate the value: x = 200,000.",
+    "Thus, Jill and Bob ended up paying $200,000 for their new house."
+  ],
+  "solution": "200,000"
+}

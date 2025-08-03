@@ -1,0 +1,17 @@
+{
+  "query": "A couple with two children, ages 6 and 10 years old, decided to go to an amusement park. The regular ticket costs $109, but children below 12 years old have a $5 discount. If they gave the cashier $500, how much change will they receive?",
+  "steps": [
+    "First, calculate the cost of the regular ticket for one adult, which is $109.",
+    "Since both adults need a ticket, multiply $109 by 2 to find the total cost for the two adults.",
+    "$109 * 2 = $218.",
+    "Next, calculate the cost of the tickets for the two children. The regular price is $109, but children below 12 years old have a $5 discount.",
+    "Subtract the $5 discount from the regular price to get the children's ticket price: $109 - $5 = $104.",
+    "Both children need a ticket, so calculate the total cost for the children's tickets by multiplying $104 by 2.",
+    "$104 * 2 = $208.",
+    "Add the total cost for the adults' tickets and the children's tickets to find the overall total cost.",
+    "$218 (adults) + $208 (children) = $426.",
+    "The couple gave the cashier $500. Subtract the total ticket cost from the amount given to find the change.",
+    "$500 - $426 = $74."
+  ],
+  "solution": "74"
+}

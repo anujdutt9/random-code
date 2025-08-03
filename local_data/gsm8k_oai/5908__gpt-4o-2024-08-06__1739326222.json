@@ -1,0 +1,17 @@
+{
+  "query": "Jack has a grove with 4 trees by 5 trees.  It takes 6 minutes to clean each tree.  He gets help to clean the trees so it only takes half as long.  How many hours did he spend cleaning trees?",
+  "steps": [
+    "First, I need to determine the total number of trees in Jack's grove.",
+    "Jack has a grove with 4 rows of trees by 5 columns of trees.",
+    "To find the total number of trees, I multiply the number of rows by the number of columns: 4 * 5 = 20 trees.",
+    "Next, I need to calculate how many minutes it would take Jack to clean all these trees without any help.",
+    "It takes Jack 6 minutes to clean each tree.",
+    "Therefore, for 20 trees, it would take him 6 minutes/tree * 20 trees = 120 minutes.",
+    "Jack gets help that makes the work take only half as long.",
+    "So with help, the time is reduced to half of 120 minutes, which is 120 / 2 = 60 minutes.",
+    "The next step is to convert the total minutes spent cleaning into hours.",
+    "Since there are 60 minutes in an hour, I divide the total minutes by 60.",
+    "60 minutes / 60 minutes/hour = 1 hour."
+  ],
+  "solution": "1"
+}

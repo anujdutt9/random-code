@@ -1,0 +1,16 @@
+{
+  "query": "There are 320 ducks in a pond.  On the first night 1/4 of them get eaten by a fox.  On the second night 1/6 of the remaining ducks fly away, and on the third night 30 percent are stolen.  How many ducks remain after the three nights?",
+  "steps": [
+    "Initially, there are 320 ducks.",
+    "On the first night, 1/4 of the ducks are eaten by a fox.",
+    "Calculate how many ducks are eaten: 1/4 of 320 is 320 * 1/4 = 80 ducks.",
+    "Subtract the eaten ducks from the total: 320 - 80 = 240 ducks remain after the first night.",
+    "On the second night, 1/6 of the remaining ducks fly away.",
+    "Calculate how many ducks fly away: 1/6 of 240 is 240 * 1/6 = 40 ducks.",
+    "Subtract the ducks that flew away from the remaining: 240 - 40 = 200 ducks remain after the second night.",
+    "On the third night, 30 percent of the remaining ducks are stolen.",
+    "Calculate how many ducks are stolen: 30% of 200 is 200 * 0.30 = 60 ducks.",
+    "Subtract the stolen ducks from the remaining: 200 - 60 = 140 ducks remain after the third night."
+  ],
+  "solution": "140"
+}

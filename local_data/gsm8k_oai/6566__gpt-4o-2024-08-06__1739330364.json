@@ -1,0 +1,15 @@
+{
+  "query": "Thomas wants to throw a party for his best friend Casey. He needs to order enough chairs for all the party guests to sit in, one for each guest. First he orders 3 dozen chairs for 3 dozen guests he invites. Then he finds out that 1/3 of the guests want to bring a guest of their own, so Thomas needs to order more chairs. Eventually, Thomas finds out that 5 of the guests he originally invited can't make it. Thomas would also like to order 12 extra chairs just in case they need them. How many chairs is Thomas going to order for Casey's party?",
+  "steps": [
+    "Thomas originally invites 3 dozen guests, which is 3 x 12 = 36 guests.",
+    "Initially, Thomas orders 36 chairs for the 36 guests.",
+    "1/3 of these 36 guests want to bring a guest, which means 36 / 3 = 12 additional guests.",
+    "Thus, Thomas needs chairs for these additional 12 guests, making it a total of 36 + 12 = 48 chairs needed.",
+    "Thomas then discovers that 5 of the original 36 guests can't make it. So he needs to adjust the chairs for these missing guests.",
+    "This means he initially needs 36 - 5 = 31 chairs for the original guests who can come, plus 12 additional guests.",
+    "So he needs chairs for 31 + 12 = 43 guests.",
+    "Finally, Thomas wants to have 12 extra chairs just in case, so we add these to the 43 chairs needed.",
+    "This results in 43 + 12 = 55 chairs in total."
+  ],
+  "solution": "55"
+}

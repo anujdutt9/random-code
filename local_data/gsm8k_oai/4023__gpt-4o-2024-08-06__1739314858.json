@@ -1,0 +1,15 @@
+{
+  "query": "Each yogurt is topped with 8 banana slices.  One banana will yield 10 slices.  If Vivian needs to make 5 yogurts, how many bananas does she need to buy?",
+  "steps": [
+    "First, I need to determine the total number of banana slices required for 5 yogurts.",
+    "Each yogurt requires 8 banana slices.",
+    "So, for 5 yogurts, the total number of banana slices needed is 5 yogurts \u00d7 8 slices/yogurt.",
+    "Calculating that: 5 \u00d7 8 = 40 slices are needed.",
+    "Next, I need to determine how many bananas are required to obtain 40 slices.",
+    "One banana yields 10 slices.",
+    "To find the number of bananas needed, I'll divide the total number of slices by the number of slices one banana provides.",
+    "That calculation is 40 slices \u00f7 10 slices/banana.",
+    "Calculating that: 40 \u00f7 10 = 4 bananas are needed."
+  ],
+  "solution": "4"
+}

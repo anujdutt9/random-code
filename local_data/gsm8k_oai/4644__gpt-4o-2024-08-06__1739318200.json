@@ -1,0 +1,19 @@
+{
+  "query": "Roman and Remy took separate showers. Remy used 1 more gallon than 3 times the number of gallons that Roman used for his shower. Together the boys used 33 gallons of water.  How many gallons did Remy use?",
+  "steps": [
+    "First, I need to define variables to represent the number of gallons used by Roman and Remy.",
+    "Let R represent the number of gallons Roman used for his shower.",
+    "According to the problem, Remy used 1 more gallon than 3 times the number of gallons that Roman used.",
+    "This can be expressed as Remy using 3R + 1 gallons of water.",
+    "Together, Roman and Remy used 33 gallons of water.",
+    "This gives us the equation: R + (3R + 1) = 33.",
+    "Now I will simplify the equation: R + 3R + 1 = 33.",
+    "Combine the terms involving R: 4R + 1 = 33.",
+    "Next, I need to isolate the variable R by subtracting 1 from both sides: 4R = 32.",
+    "To find R, I'll divide both sides by 4: R = 8.",
+    "Now that I know Roman used 8 gallons, I can calculate how many gallons Remy used.",
+    "Using the expression for Remy: 3R + 1, I substitute R with 8: 3(8) + 1.",
+    "Performing the calculations: 3(8) = 24, then adding 1 gives 24 + 1 = 25."
+  ],
+  "solution": "25"
+}

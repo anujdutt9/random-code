@@ -1,0 +1,15 @@
+{
+  "query": "While reading in bed with his wife Susan, Charlie heard a noise at the door. It was Sarah entering the bedroom with 4 friends. If there were also 8 people in the living room, how many people are in the house?",
+  "steps": [
+    "Charlie and Susan are already in the bedroom.",
+    "Charlie and Susan together make 2 people.",
+    "Sarah enters the bedroom with 4 friends.",
+    "Sarah and her 4 friends together make 5 people.",
+    "Adding those already in the bedroom: 2 people initially (Charlie and Susan) + 5 people (Sarah and her friends) = 7 people now in the bedroom.",
+    "There are 8 people in the living room.",
+    "To find the total number of people in the house, we add those in the bedroom and those in the living room.",
+    "In the bedroom = 7 people, in the living room = 8 people.",
+    "7 + 8 = 15 people in the house."
+  ],
+  "solution": "15"
+}

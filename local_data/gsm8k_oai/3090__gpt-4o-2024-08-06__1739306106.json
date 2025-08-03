@@ -1,0 +1,14 @@
+{
+  "query": "OpenAI runs a robotics competition that limits the weight of each robot. Each robot can be no more than twice the minimum weight and no less than 5 pounds heavier than the standard robot. The standard robot weighs 100 pounds. What is the maximum weight of a robot in the competition?",
+  "steps": [
+    "The problem states that each robot can be no less than 5 pounds heavier than the standard robot.",
+    "The standard robot weighs 100 pounds.",
+    "To find the minimum weight that is allowed, we add 5 pounds to the standard robot's weight.",
+    "100 pounds + 5 pounds = 105 pounds. So, the minimum weight allowed is 105 pounds.",
+    "The problem also states that each robot can weigh no more than twice this minimum weight.",
+    "Twice the minimum weight of 105 pounds would give us the maximum weight allowed.",
+    "2 \u00d7 105 pounds = 210 pounds.",
+    "Therefore, the maximum weight a robot in the competition can be is 210 pounds."
+  ],
+  "solution": "210"
+}

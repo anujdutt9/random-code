@@ -1,0 +1,15 @@
+{
+  "query": "Every 2 years, the number of swans at Rita's pond doubles. Currently, there are 15 swans in the pond. How many swans will there be in ten years?",
+  "steps": [
+    "I know the swan population doubles every 2 years.",
+    "I need to find out how many 2-year periods are in 10 years.",
+    "10 divided by 2 is 5, so there are 5 doubling periods in 10 years.",
+    "Currently, there are 15 swans in the pond.",
+    "After 1 doubling period (2 years), the number of swans will be 15 * 2 = 30.",
+    "After 2 doubling periods (4 years), the number of swans will be 30 * 2 = 60.",
+    "After 3 doubling periods (6 years), the number of swans will be 60 * 2 = 120.",
+    "After 4 doubling periods (8 years), the number of swans will be 120 * 2 = 240.",
+    "After 5 doubling periods (10 years), the number of swans will be 240 * 2 = 480."
+  ],
+  "solution": "480"
+}

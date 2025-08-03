@@ -1,0 +1,14 @@
+{
+  "query": "Ishmael, Ponce, and Jalen measured their weight and realized Ishmael was 20 pounds heavier than Ponce and that Ponce was 10 pounds lighter than Jalen. If Jalen weighed 160 pounds, calculate the average weight of the three?",
+  "steps": [
+    "First, I need to find Ponce's weight. I'm given that Ponce is 10 pounds lighter than Jalen, who weighs 160 pounds.",
+    "I subtract 10 pounds from Jalen's weight to find Ponce's weight: 160 - 10 = 150 pounds.",
+    "Now, I need to find Ishmael's weight. I'm given that Ishmael is 20 pounds heavier than Ponce, who weighs 150 pounds.",
+    "I add 20 pounds to Ponce's weight to find Ishmael's weight: 150 + 20 = 170 pounds.",
+    "Next, I calculate the total weight of all three individuals by adding their weights: Jalen's 160 pounds + Ponce's 150 pounds + Ishmael's 170 pounds.",
+    "The total weight is 160 + 150 + 170 = 480 pounds.",
+    "To find the average weight, I divide the total weight by the number of individuals. There are three individuals.",
+    "I divide 480 pounds by 3: 480 \u00f7 3 = 160 pounds."
+  ],
+  "solution": "160"
+}

@@ -1,0 +1,22 @@
+{
+  "query": "Paul has five dogs. For every 10 pounds they weigh, they need 1 pound of dog food per day. One weighs 20 pounds. One weighs 40. Another weighs 10. One weighs 30 and the final one weighs 50 pounds. How much dog food does he need each day?",
+  "steps": [
+    "First, let's determine how much food each dog needs based on their weight.",
+    "The dog that weighs 20 pounds requires 1 pound of dog food for each 10 pounds of weight.",
+    "20 pounds divided by 10 equals 2. So, this dog needs 2 pounds of food per day.",
+    "The dog that weighs 40 pounds requires 1 pound of dog food for each 10 pounds of weight.",
+    "40 pounds divided by 10 equals 4. So, this dog needs 4 pounds of food per day.",
+    "The dog that weighs 10 pounds requires 1 pound of dog food for each 10 pounds of weight.",
+    "10 pounds divided by 10 equals 1. So, this dog needs 1 pound of food per day.",
+    "The dog that weighs 30 pounds requires 1 pound of dog food for each 10 pounds of weight.",
+    "30 pounds divided by 10 equals 3. So, this dog needs 3 pounds of food per day.",
+    "The last dog weighs 50 pounds and requires 1 pound of dog food for each 10 pounds of weight.",
+    "50 pounds divided by 10 equals 5. So, this dog needs 5 pounds of food per day.",
+    "Now, add up the food requirements for all the dogs: 2 + 4 + 1 + 3 + 5.",
+    "2 + 4 equals 6.",
+    "6 + 1 equals 7.",
+    "7 + 3 equals 10.",
+    "10 + 5 equals 15."
+  ],
+  "solution": "15"
+}

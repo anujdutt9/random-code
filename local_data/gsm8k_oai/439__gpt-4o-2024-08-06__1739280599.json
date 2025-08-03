@@ -1,0 +1,22 @@
+{
+  "query": "Timothy has $50 to spend at a souvenir shop. He sees some t-shirts that cost $8 each, key chains that sell 3 pieces for $2, and bags that cost $10 each. Timothy buys 2 t-shirts and 2 bags. How many pieces of key chains can he buy with the amount of money he has left?",
+  "steps": [
+    "Timothy begins with $50.",
+    "He buys 2 t-shirts, and each costs $8.",
+    "The total cost for the t-shirts is 2 * $8 = $16.",
+    "He also buys 2 bags, and each bag costs $10.",
+    "The total cost for the bags is 2 * $10 = $20.",
+    "Now, I need to add the cost of the t-shirts and the bags together.",
+    "The total cost for the t-shirts and bags is $16 + $20 = $36.",
+    "Timothy initially had $50, so I will subtract the total cost from that.",
+    "The remaining amount of money Timothy has is $50 - $36 = $14.",
+    "Key chains are sold in sets where 3 pieces cost $2.",
+    "Now I need to determine how many sets of key chains he can buy with his remaining $14.",
+    "Each set costs $2, so I will divide $14 by $2.",
+    "$14 \u00f7 $2 = 7 sets.",
+    "Each set contains 3 key chains.",
+    "Now, I will calculate the total number of key chains he can buy.",
+    "7 sets * 3 key chains per set = 21 key chains."
+  ],
+  "solution": "21"
+}

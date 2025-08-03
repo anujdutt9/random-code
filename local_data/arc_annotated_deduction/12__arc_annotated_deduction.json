@@ -1,0 +1,9 @@
+{
+    "id": 12,
+    "query": "Question: Newton's work in physics helped to provide mathematical explanations for the earlier conclusions of which scientist?\n\nChoices:\nA: Ptolemy\nB: Aristotle\nC: Nicolas Copernicus\nD: Dmitri Mendeleev",
+    "solution": "C",
+    "style_name": "form_5_annotated_deduction",
+    "steps": [
+        "[Newton's laws] \u2192 [Explain planetary motion]\n[Copernicus proposed heliocentric model] \u2192 [Newton supported model with math]\nAnswer: Nicolas Copernicus"
+    ]
+}

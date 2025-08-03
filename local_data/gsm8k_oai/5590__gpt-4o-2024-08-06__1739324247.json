@@ -1,0 +1,17 @@
+{
+  "query": "A desert has 3/5 fewer palm trees than a nearby forest, which has 5000 palm trees. How many palm trees are there in both the desert and the forest combined?",
+  "steps": [
+    "First, I need to determine how many palm trees are in the desert.",
+    "The desert has 3/5 fewer palm trees than the forest.",
+    "I know the forest has 5000 palm trees.",
+    "To find out how many fewer palm trees are in the desert, I need to calculate 3/5 of the forest's 5000 palm trees.",
+    "Calculate 3/5 of 5000: 5000 * (3/5) = 3000.",
+    "So, the desert has 3000 fewer palm trees than the forest.",
+    "Now, I subtract the 3000 fewer palm trees from the 5000 palm trees in the forest to find the number of palm trees in the desert.",
+    "5000 - 3000 = 2000 palm trees in the desert.",
+    "Now, I need to calculate the total number of palm trees in both the desert and the forest.",
+    "Add the number of palm trees in the forest and the desert: 5000 (forest) + 2000 (desert).",
+    "The total number is 7000 palm trees."
+  ],
+  "solution": "7000"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Hadley loves to do volunteer work at the local library. On a certain day, she neatly arranges 100 books on the shelf. By lunchtime, a certain number of books had been borrowed. She added 40 more books to the same shelf. By evening, 30 more books had been borrowed. If the shelf had 60 books remaining by the evening, how many books had been borrowed by lunchtime?",
+  "steps": [
+    "Start with the number of books Hadley initially arranged on the shelf: 100 books.",
+    "Let x be the number of books borrowed by lunchtime.",
+    "By lunchtime, there are 100 - x books remaining on the shelf.",
+    "Hadley adds 40 more books to the shelf.",
+    "The number of books on the shelf after adding new books is 100 - x + 40 = 140 - x.",
+    "By evening, 30 more books had been borrowed, so subtract 30 from the total.",
+    "The number of books remaining by the evening is 140 - x - 30.",
+    "Set the equation for the remaining books by evening equal to what was stated: 60 books remaining.",
+    "140 - x - 30 = 60",
+    "Simplify the equation: 110 - x = 60",
+    "Solve for x: x = 110 - 60",
+    "x = 50"
+  ],
+  "solution": "50"
+}

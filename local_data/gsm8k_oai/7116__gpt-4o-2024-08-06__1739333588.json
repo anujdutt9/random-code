@@ -1,0 +1,18 @@
+{
+  "query": "Marie, the confectioner, makes 12 chocolate eggs, each weighing 10 ounces. She then packs an equal number of the eggs in 4 different gift boxes. Unfortunately, she leaves one of the boxes by the kitchen window and the afternoon sun melts everything. She tosses that box out. What is the total weight, in ounces, of the remaining chocolate eggs?",
+  "steps": [
+    "Marie makes 12 chocolate eggs, each weighing 10 ounces.",
+    "To find the total initial weight of all the chocolate eggs, I multiply 12 eggs by 10 ounces per egg.",
+    "12 eggs * 10 ounces/egg = 120 ounces",
+    "Marie plans to distribute these 12 eggs equally into 4 boxes.",
+    "To find the number of eggs per box, I divide the total number of eggs (12) by the number of boxes (4).",
+    "12 eggs / 4 boxes = 3 eggs per box",
+    "Since each egg weighs 10 ounces, the total weight of eggs in each box would be 3 eggs * 10 ounces/egg.",
+    "3 eggs * 10 ounces = 30 ounces per box",
+    "Marie loses one of the boxes due to melting. She discards all the eggs in that box.",
+    "Therefore, she loses the weight of one box which is 30 ounces.",
+    "To find the weight of the remaining eggs, subtract the weight of the lost box (30 ounces) from the initial total weight (120 ounces).",
+    "120 ounces - 30 ounces = 90 ounces"
+  ],
+  "solution": "90"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "John reads his bible every day.  He reads for 2 hours a day and reads at a rate of 50 pages an hour.  If the bible is 2800 pages long how many weeks will it take him to read it all?",
+  "steps": [
+    "First, I need to find out how many pages John reads in a day.",
+    "He reads 2 hours a day and at a rate of 50 pages per hour.",
+    "To find out how many pages he reads per day, I calculate 2 hours per day times 50 pages per hour.",
+    "2 * 50 equals 100 pages per day.",
+    "Next, I need to find out how many total pages are in the Bible.",
+    "The Bible is 2800 pages long.",
+    "Now, I need to find out how many days John will take to read all of the 2800 pages.",
+    "To do this, I divide the total number of pages, 2800, by the number of pages he reads per day, which is 100.",
+    "2800 divided by 100 equals 28 days.",
+    "Finally, I need to find out how many weeks 28 days corresponds to.",
+    "There are 7 days in a week.",
+    "I divide 28 days by 7 days per week.",
+    "28 divided by 7 equals 4 weeks."
+  ],
+  "solution": "4"
+}

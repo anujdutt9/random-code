@@ -1,0 +1,21 @@
+{
+  "query": "The difference between the price of an orange and the price of a pear equals the price of a banana. If the total cost of an orange and a pear is $120 and a pear costs $90, calculate the total price of buying 200 bananas and twice as many oranges as bananas.",
+  "steps": [
+    "Let \\( O \\) represent the price of an orange, \\( P \\) represent the price of a pear, and \\( B \\) represent the price of a banana.",
+    "We know from the problem that \\( O - P = B \\).",
+    "We also know the total cost of an orange and a pear is $120, so \\( O + P = 120 \\).",
+    "We are given that a pear costs $90, so \\( P = 90 \\).",
+    "Substitute \\( P = 90 \\) into the equation \\( O + P = 120 \\): \n\\[\nO + 90 = 120\n\\]",
+    "Solve for \\( O \\):\n\\[\nO = 120 - 90 = 30\n\\]",
+    "Now substitute \\( O = 30 \\) and \\( P = 90 \\) into the equation \\( O - P = B \\):\n\\[\n30 - 90 = B \\Rightarrow B = -60\n\\]",
+    "There is a contradiction since a price cannot be negative. Reconsider any potential mistakes.",
+    "Re-evaluate: The equation \\( O - P = B \\) was correctly set up, and substituting \\( O = 30 \\) and \\( P = 90 \\) was correct.",
+    "Ah, it seems there was a mistake determining \\( B \\). Let's solve again: \nSince \\( O = 30 \\) and \\( P = 90 \\), then \\( O - P = 30 - 90 = -60 \\).",
+    "Realize that a pricing mistake signals logical error; reconciliation is needed. Are all original equations satisfied?\nRechecking:\n1. \\( O + P = 120 \\): Correct with \\( O=30, P=90 \\).\n2. Substitute the difference, newly calculated again:\nLet \\( B = O - P = |30 - 90| \\)",
+    "Correct logical interpretation should have:\n\\[\nO - 90 = B\n\\]\nwhere actual numeric \\( B = |-60| = 60 \\), \\( B = 30 - 90\\)",
+    "Now total price of buying 200 bananas.\n\\[\n200 \\times 60 = 12000\n\\]",
+    "Additionally, buying twice as many oranges as bananas (\\((2 \\times 200) = 400\\)).\n\\[\n400 \\times 30 = 12000\n\\]",
+    "Sum up total costs for bananas and oranges:\n\\[\nTotal = 12000 + 12000 = 24000\n\\]"
+  ],
+  "solution": "24000"
+}

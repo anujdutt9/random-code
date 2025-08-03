@@ -1,0 +1,23 @@
+{
+  "query": "Julie works at a restaurant that pays her an hourly rate of $5. She works 8 hours a day and 6 days a week. How much is her monthly salary if she was not able to go to work for a day?",
+  "steps": [
+    "Julie earns $5 per hour.",
+    "She works 8 hours a day.",
+    "To calculate her daily earnings, we multiply 5 dollars per hour by 8 hours.",
+    "5 * 8 = 40",
+    "So, Julie earns $40 per day.",
+    "She usually works 6 days a week.",
+    "To calculate her weekly earnings, multiply her daily earnings by 6.",
+    "40 * 6 = 240",
+    "Julie usually earns $240 per week.",
+    "There are approximately 4 weeks in a month.",
+    "To calculate her usual monthly earnings, multiply her weekly earnings by 4.",
+    "240 * 4 = 960",
+    "Her usual monthly salary is $960.",
+    "Since she missed one day of work, she didn't earn for one day.",
+    "Her daily earning is $40, and she missed one day, so she missed out on $40.",
+    "Subtract the missed earnings from her usual monthly salary.",
+    "960 - 40 = 920"
+  ],
+  "solution": "920"
+}

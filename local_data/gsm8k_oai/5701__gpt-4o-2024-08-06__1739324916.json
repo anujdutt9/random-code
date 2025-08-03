@@ -1,0 +1,14 @@
+{
+  "query": "Alvin is 30 years old and Simon is 5 years away from being 1/2 the age of Alvin.  How old is Simon?",
+  "steps": [
+    "Alvin is currently 30 years old.",
+    "We need to find Simon's age such that he is 5 years away from being half of Alvin's age.",
+    "Determine what half of Alvin's age is: \\( \\frac{30}{2} = 15 \\).",
+    "If Simon is 5 years away from being 15, he could either be 5 years younger or 5 years older than 15.",
+    "If Simon is younger: \\( 15 - 5 = 10 \\).",
+    "If Simon is older: \\( 15 + 5 = 20 \\).",
+    "Since the problem states Simon is 5 years away from being half Alvin's age, it suggests he has not yet reached half of Alvin's age.",
+    "Therefore, Simon should be 10 years old, because that is 5 years away from being 15."
+  ],
+  "solution": "10"
+}

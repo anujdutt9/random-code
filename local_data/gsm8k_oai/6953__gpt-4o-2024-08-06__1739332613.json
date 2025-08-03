@@ -1,0 +1,13 @@
+{
+  "query": "Haleigh decides that instead of throwing away old candles, she can use the last bit of wax combined together to make new candles. Each candle has 10% of it's original wax left. How many 5 ounce candles can she make if she has five 20 oz candles, 5 five ounce candles, and twenty-five one ounce candles?",
+  "steps": [
+    "First, I need to calculate the amount of leftover wax from each type of candle.",
+    "The five 20 oz candles will each have 10% wax left. 10% of 20 oz is 2 oz. So, five 20 oz candles will have 5 * 2 = 10 oz of wax left.",
+    "Next, the five 5 oz candles will each have 10% wax left. 10% of 5 oz is 0.5 oz. So, five 5 oz candles will have 5 * 0.5 = 2.5 oz of wax left.",
+    "Now, the twenty-five 1 oz candles will each have 10% wax left. 10% of 1 oz is 0.1 oz. So, twenty-five 1 oz candles will have 25 * 0.1 = 2.5 oz of wax left.",
+    "The total leftover wax from all candles is 10 oz + 2.5 oz + 2.5 oz = 15 oz.",
+    "Each new candle requires 5 oz of wax.",
+    "To find out how many new 5 oz candles she can make, I divide the total leftover wax by the amount needed for one candle: 15 oz / 5 oz per candle = 3."
+  ],
+  "solution": "3"
+}

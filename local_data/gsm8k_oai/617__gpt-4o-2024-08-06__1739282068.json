@@ -1,0 +1,18 @@
+{
+  "query": "Mark was caught speeding and the judge wants to make an example out of him. The base fine for speeding is $50 but additional penalties apply in this case.  The fine is increased by $2 for every mile per hour Mark was going over the speed limit. He was going 75 miles per hour in a 30 mile per hour zone. The fine is also doubled because he was in a school zone. Finally, the judge makes Mark pay $300 in court costs and he also has to pay his lawyer $80/hour for three hours of work. How much does Mark owe for this speeding ticket?",
+  "steps": [
+    "First, I need to determine how much over the speed limit Mark was going. The speed limit is 30 miles per hour, and Mark was going 75 miles per hour.",
+    "To find out how much over the speed limit he was, I subtract the speed limit from the speed he was going: 75 - 30 = 45 miles per hour over the limit.",
+    "Next, I need to calculate the additional penalty for speeding. The penalty is $2 for every mile per hour over the limit. Mark was going 45 miles per hour over the limit.",
+    "I multiply the miles per hour over the limit by the penalty per mile: 45 * 2 = 90 dollars.",
+    "The base fine for speeding is $50. I add the additional penalty to the base fine: 50 + 90 = 140 dollars.",
+    "Since the speeding occurred in a school zone, the fine is doubled.",
+    "I multiply the total fine by 2 to account for the school zone: 140 * 2 = 280 dollars.",
+    "According to the problem, Mark has to pay an additional $300 in court costs.",
+    "I add the court costs to the current total fine: 280 + 300 = 580 dollars.",
+    "Mark also has to pay his lawyer $80/hour for three hours of work.",
+    "I calculate the lawyer's fee: 80 * 3 = 240 dollars.",
+    "Finally, I add the lawyer's fee to the current total: 580 + 240 = 820 dollars."
+  ],
+  "solution": "820"
+}

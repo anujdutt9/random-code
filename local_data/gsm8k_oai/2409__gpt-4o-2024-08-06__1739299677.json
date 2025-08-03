@@ -1,0 +1,16 @@
+{
+  "query": "Vivian plays 10 Spotify songs every day. Her best friend Clara plays 2 fewer songs each day. If in June they didn't play any song during the weekends only, and there were 8 weekend days in June, what's the total number of songs they both listened to in that month?",
+  "steps": [
+    "First, I need to calculate the total number of days in June. June has 30 days.",
+    "Since they didn't play any songs during the weekends, I need to subtract the weekend days from the total days. There were 8 weekend days in June.",
+    "Subtracting the weekends, the number of weekdays (days they listened to songs) in June is 30 - 8 = 22 days.",
+    "Vivian plays 10 songs every weekday. To find the total number of songs Vivian listened to, I multiply the number of weekdays by the number of songs she plays each day.",
+    "Vivian's total songs: 22 days * 10 songs/day = 220 songs.",
+    "Clara plays 2 fewer songs each day than Vivian. Vivian plays 10, so Clara plays 10 - 2 = 8 songs each weekday.",
+    "To find the total number of songs Clara listened to, I multiply the number of weekdays by the number of songs she plays each day.",
+    "Clara's total songs: 22 days * 8 songs/day = 176 songs.",
+    "Add the total number of songs Vivian and Clara listened to find the total number of songs they both listened to in June.",
+    "Total songs: 220 (Vivian) + 176 (Clara) = 396 songs."
+  ],
+  "solution": "396"
+}

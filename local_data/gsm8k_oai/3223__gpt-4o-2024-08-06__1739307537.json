@@ -1,0 +1,16 @@
+{
+  "query": "There are chickens roaming the chicken farm. The roosters outnumber the hens 2 to 1. If there are 9,000 chickens on the chicken farm, how many roosters are there?",
+  "steps": [
+    "Let's define variables for the problem. Let the number of hens be \\( h \\).",
+    "The problem states that roosters outnumber hens 2 to 1. This means that for every hen, there are two roosters.",
+    "Therefore, the number of roosters, \\( r \\), can be expressed as \\( r = 2h \\).",
+    "We know the total number of chickens is 9,000, so we can write the equation: \n\\[ h + r = 9000 \\].",
+    "Substituting the expression for roosters, \\( r = 2h \\), into the total equation gives us: \n\\[ h + 2h = 9000 \\].",
+    "Simplifying the equation, we get: \n\\[ 3h = 9000 \\].",
+    "To find the number of hens, solve for \\( h \\): \n\\[ h = \\frac{9000}{3} \\].",
+    "Calculating this division gives \\( h = 3000 \\).",
+    "Now, to find the number of roosters, use \\( r = 2h \\).",
+    "Substituting \\( h = 3000 \\) gives: \n\\[ r = 2 \\times 3000 = 6000 \\]."
+  ],
+  "solution": "6000"
+}

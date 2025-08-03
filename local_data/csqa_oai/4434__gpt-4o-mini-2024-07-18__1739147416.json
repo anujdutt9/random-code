@@ -1,0 +1,14 @@
+{
+  "query": "Question: What would you do to numbers that are positive integers to get a result that is at most twice as large?\n\nChoices:\nA: divided\nB: subtract\nC: written down\nD: multiplied\nE: added up",
+  "steps": [
+    "First, let's analyze what the question is asking. It is looking for an operation that, when applied to positive integers, will yield a result that is at most twice as large as the original numbers.",
+    "Next, I will evaluate each option based on whether it can keep the resulting number at or under double the original value for positive integers.",
+    "Option A suggests \"divided.\" If you divide a positive integer, the result is smaller than the original number, thus always under twice the original value. However, dividing could yield a fraction, and the question specifies \"positive integers.\"",
+    "Option B suggests \"subtract.\" Subtracting a positive integer from itself results in zero, which is not more than the original positive integer. However, subtracting any amount will give a number less than the original and hence not at least doubling it.",
+    "Option C is \"written down.\" This option does not perform any mathematical operation that would change the value, so it\u2019s irrelevant to the operation in question.",
+    "Option D suggests \"multiplied.\" Multiplying a positive integer by any number greater than 2 will yield a result greater than double the original number. For instance, multiplying by 3 will exceed twice the value. Hence, this option does not fit the condition.",
+    "Option E suggests \"added up.\" If you add a positive integer to itself (which is the only scenario to consider), it effectively doubles the number. Thus, this operation would yield a result that is precisely double but not less than that.",
+    "Now summarizing, subtracting keeps it below the original, dividing keeps it below the original but doesn\u2019t yield numbers as integers, multiplying exceeds double, while writing down does nothing. Only \"added up\" meets the condition of being at most double, because adding two positive integers yields a sum of at least the initial integer but not exceeds twice the same integer unless both integers are the same."
+  ],
+  "solution": "E"
+}

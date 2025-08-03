@@ -1,0 +1,14 @@
+{
+  "query": "The class plans to take a field trip to the zoo. The cost to rent a school bus is $100. The cost of admission is $10 per student. The teacher is allowed in for free. If the class has a budget of $350, how many students can go on the field trip?",
+  "steps": [
+    "First, I need to determine how much of the budget is allocated for the school bus.",
+    "The cost to rent the school bus is $100.",
+    "Next, I'll subtract the bus cost from the total budget to see how much is left for student admissions.",
+    "The total budget is $350. After paying for the bus, we are left with $350 - $100 = $250.",
+    "Now, I'll determine how many students can be admitted with the remaining $250.",
+    "Each student's admission is $10.",
+    "The number of students that can be admitted is $250 divided by $10 per student.",
+    "Calculating, $250 / $10 = 25 students."
+  ],
+  "solution": "25"
+}

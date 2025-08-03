@@ -1,0 +1,20 @@
+{
+  "query": "Tony wants to build the longest rope he possibly can, so he collects all the rope in his home. He finds an 8-foot rope, a 20-foot rope, three 2 foot ropes, and a 7-foot rope. each knot between the ropes makes him lose 1.2 foot per knot. How long is his rope when he's done tying them all together?",
+  "steps": [
+    "First, I need to list the lengths of all the ropes that Tony has: 8-foot, 20-foot, three 2-foot ropes, and a 7-foot rope.",
+    "Now I'll calculate the total length of all these ropes without considering the knots between them.",
+    "Add the lengths together: 8 + 20 + 2 + 2 + 2 + 7.",
+    "8 + 20 = 28.",
+    "28 + 2 = 30.",
+    "30 + 2 = 32.",
+    "32 + 2 = 34.",
+    "34 + 7 = 41 feet.",
+    "Now I need to consider the knots. There is 1 knot between each pair of ropes. Tony has a total of 6 ropes.",
+    "Since there are 6 ropes, there will be 5 knots connecting them (6 minus 1).",
+    "Each knot reduces the length by 1.2 feet. I will multiply the number of knots (5) by the length lost per knot (1.2).",
+    "5 x 1.2 = 6 feet.",
+    "Finally, I will subtract the total length lost due to knots from the total length of the ropes.",
+    "41 - 6 = 35 feet."
+  ],
+  "solution": "35"
+}

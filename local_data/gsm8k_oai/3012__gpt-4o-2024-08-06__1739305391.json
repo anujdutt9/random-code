@@ -1,0 +1,15 @@
+{
+  "query": "Amber is baking cakes for her party. She has invited 8 friends and each one will want two slices of cake. Each cake makes 6 slices. If she bakes 4 cakes, how many slices will be left over at the end if she eats three herself?",
+  "steps": [
+    "Amber has invited 8 friends.",
+    "Each friend will want 2 slices of cake.",
+    "To find the total number of slices needed for the friends, multiply the number of friends by the number of slices each wants: 8 friends * 2 slices = 16 slices.",
+    "Amber bakes 4 cakes.",
+    "Each cake makes 6 slices.",
+    "To find the total number of slices from all the cakes, multiply the number of cakes by the slices per cake: 4 cakes * 6 slices = 24 slices.",
+    "Subtract the number of slices needed for her friends from the total number of slices to find how many are left after serving her friends: 24 slices - 16 slices = 8 slices.",
+    "Amber eats 3 slices herself.",
+    "Subtract the slices Amber eats from the slices left after serving her friends: 8 slices - 3 slices = 5 slices."
+  ],
+  "solution": "5"
+}

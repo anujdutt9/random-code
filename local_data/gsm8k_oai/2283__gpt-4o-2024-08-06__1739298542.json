@@ -1,0 +1,18 @@
+{
+  "query": "Sebastian plays drums for percussion in an orchestra. He sits next to the brass section where four people play trombone, two play trumpet, and one plays a French horn. In front of them are the strings section with three violinists, a cellist, and a contrabassist. Next to the strings are a trio of clarinets and a quartet of flute players in the woodwinds section. The maestro conducts them all. How many people are in the orchestra?",
+  "steps": [
+    "First, I need to count the number of people in each section of the orchestra.",
+    "I'll start with the percussion section where Sebastian plays. There is one person, Sebastian.",
+    "Next, I'll count the brass section. There are four trombone players, two trumpet players, and one French horn player.",
+    "In total, the brass section has 4 + 2 + 1 = 7 people.",
+    "Now, I'll count the strings section. There are three violinists, one cellist, and one contrabassist.",
+    "The strings section has 3 + 1 + 1 = 5 people.",
+    "Next, I'll count the woodwinds section with clarinets and flutes. There is a trio of clarinets, which means 3 clarinet players.",
+    "There is a quartet of flute players, which means 4 flute players.",
+    "The woodwinds section has 3 + 4 = 7 people.",
+    "I must not forget the maestro who conducts the orchestra.",
+    "I will now add up all the people in each group: percussion (1) + brass (7) + strings (5) + woodwinds (7) + maestro (1).",
+    "1 + 7 + 5 + 7 + 1 = 21 people in total."
+  ],
+  "solution": "21"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Andy is making fudge. First he needs to raise the temperature of the candy mixture from 60 degrees to 240 degrees. Then he needs to cool it down to 170 degrees. If the candy heats at 5 degrees/minute and cools at 7 degrees/minute, how long will it take for the candy to be done (in minutes)?",
+  "steps": [
+    "First, calculate how much the temperature needs to increase from 60 degrees to 240 degrees.",
+    "The temperature increase required is 240 - 60 = 180 degrees.",
+    "The candy heats up at a rate of 5 degrees per minute.",
+    "To find the time taken to heat from 60 to 240 degrees, divide the temperature increase by the rate of heating: 180 / 5 = 36 minutes.",
+    "Next, calculate how much the temperature needs to decrease from 240 degrees to 170 degrees.",
+    "The temperature decrease required is 240 - 170 = 70 degrees.",
+    "The candy cools down at a rate of 7 degrees per minute.",
+    "To find the time taken to cool from 240 to 170 degrees, divide the temperature decrease by the rate of cooling: 70 / 7 = 10 minutes.",
+    "Add the time taken to heat and the time taken to cool to find the total time: 36 + 10 = 46 minutes."
+  ],
+  "solution": "46"
+}

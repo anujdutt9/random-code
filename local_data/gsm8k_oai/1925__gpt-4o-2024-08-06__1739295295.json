@@ -1,0 +1,23 @@
+{
+  "query": "Tyson can swim at a speed of 3 miles per hour in a lake and 2.5 mph in an ocean. This season, half his races happened in lakes and half his races happened in the ocean. He had ten total races, each of which was 3 miles long. How much time did he spend in his races?",
+  "steps": [
+    "Tyson participates in 10 races in total.",
+    "Half of his races are in lakes, which means 5 races are in lakes.",
+    "The other half of his races are in the ocean, so 5 races are in the ocean.",
+    "Each race is 3 miles long.",
+    "In lakes, Tyson swims at a speed of 3 miles per hour.",
+    "The time taken for each race in the lake is distance/speed = 3 miles / 3 mph.",
+    "Time taken for each lake race is 1 hour.",
+    "He swims 5 races in lakes, so he spends 5 races \u00d7 1 hour/race = 5 hours in lake races.",
+    "In the ocean, Tyson swims at a speed of 2.5 mph.",
+    "The time taken for each race in the ocean is 3 miles / 2.5 mph.",
+    "To calculate 3 / 2.5, convert 2.5 to a fraction: 2.5 = 5/2.",
+    "Now 3 / (5/2) = 3 \u00d7 (2/5) = 6/5.",
+    "This means each ocean race takes 6/5 hours.",
+    "He swims 5 races in the ocean, so he spends 5 races \u00d7 6/5 hours/race.",
+    "5 \u00d7 6/5 = 30/5 = 6 hours in ocean races.",
+    "Total time spent is the sum of time spent in lake races and ocean races: 5 hours + 6 hours.",
+    "Total time spent is 11 hours."
+  ],
+  "solution": "11"
+}

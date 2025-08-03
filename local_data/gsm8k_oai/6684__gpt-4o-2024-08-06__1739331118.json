@@ -1,0 +1,18 @@
+{
+  "query": "The bakery made 95 muffins. They will be packed in boxes with 5 muffins in each box. If there are only 10 available boxes, how many boxes do they still need to pack all the muffins?",
+  "steps": [
+    "First, I need to calculate how many muffins would be packed into 10 boxes.",
+    "Since each box contains 5 muffins, I multiply the number of boxes (10) by the number of muffins per box (5).",
+    "10 boxes * 5 muffins per box = 50 muffins.",
+    "Now I know that 50 muffins can be packed using the 10 available boxes.",
+    "I need to find out how many muffins are left unpacked.",
+    "I subtract the number of packed muffins (50) from the total number of muffins (95).",
+    "95 muffins - 50 muffins = 45 muffins.",
+    "There are 45 muffins left to pack.",
+    "Next, I need to determine how many more boxes are required to pack the remaining 45 muffins.",
+    "I divide the number of remaining muffins (45) by the number of muffins each box can hold (5).",
+    "45 muffins \u00f7 5 muffins per box = 9 boxes.",
+    "The bakery needs 9 more boxes to pack all the remaining muffins."
+  ],
+  "solution": "9"
+}

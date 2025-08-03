@@ -1,0 +1,22 @@
+{
+  "query": "A rancher owns a mixture of 8 sheep and 5 cattle that graze on his land.  In a typical year, the rancher will allow his animals to feed off his pastures for as long as possible before they run out of grass.  After the pastures run out of grass, he must buy feed corn for $10 per bag.  Each cow eats 2 acres of grass per month, and each sheep eats 1 acre of grass per month.  Additionally, a bag of feed corn can feed each cow for 1 month and each sheep for 2 months.   If the rancher's pasture contains 144 acres of grass, how much will the rancher need to spend on feed corn to feed his animals each year?",
+  "steps": [
+    "First, I need to determine how many acres of grass the rancher has in total.",
+    "The rancher has a pasture with 144 acres of grass.",
+    "I need to calculate how many acres of grass the animals consume per month.",
+    "There are 5 cattle, and each eats 2 acres of grass per month. So, the cattle consume 5 * 2 = 10 acres per month.",
+    "There are 8 sheep, and each eats 1 acre of grass per month. So, the sheep consume 8 * 1 = 8 acres per month.",
+    "The total grass consumption by all animals per month is 10 (for cattle) + 8 (for sheep) = 18 acres.",
+    "To find out how many months the pasture can support the animals, I divide the total acres of grass by the monthly consumption.",
+    "The pasture can support the animals for 144 / 18 = 8 months.",
+    "After 8 months, the pasture grass will be exhausted, and the rancher will need to buy feed corn.",
+    "The animals will need feed corn for the remaining months of the year: 12 - 8 = 4 months.",
+    "I need to calculate the total bags of feed corn needed for cattle and sheep for these 4 months.",
+    "Each bag of feed corn feeds 1 cow for 1 month. Thus, for 5 cattle over 4 months, the rancher needs 5 * 4 = 20 bags.",
+    "Each bag of feed corn feeds 1 sheep for 2 months. Thus, for 8 sheep over 4 months, the rancher needs 8 * (4 / 2) = 16 bags.",
+    "The total number of bags of feed corn needed is 20 (for cattle) + 16 (for sheep) = 36 bags.",
+    "The cost of each bag of feed corn is $10.",
+    "The total cost for feed corn is 36 * $10 = $360."
+  ],
+  "solution": "360"
+}

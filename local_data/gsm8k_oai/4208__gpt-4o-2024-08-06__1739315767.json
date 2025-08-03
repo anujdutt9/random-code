@@ -1,0 +1,12 @@
+{
+  "query": "A book is 98 pages long. Half of the pages are filled with images, and 11  with an introduction. Of the remaining pages, half are blank and the other half are filled with text. How many pages with text are there?",
+  "steps": [
+    "First, I need to understand the total number of pages in the book, which is 98.",
+    "Half of the pages are filled with images. So, I calculate 98 / 2 = 49 pages with images.",
+    "There are 11 pages with an introduction.",
+    "To find the remaining pages, I subtract the pages with images and the introduction from the total pages. So, 98 - 49 - 11 = 38 pages remain.",
+    "The problem states that the remaining pages are split between blank and text. Thus, half are blank and half are filled with text.",
+    "To find the number of pages with text, I divide the remaining 38 pages by 2. So, 38 / 2 = 19."
+  ],
+  "solution": "19"
+}

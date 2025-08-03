@@ -1,0 +1,14 @@
+{
+  "query": "A cookfire burns three logs every hour. It was built with six logs to start. If it gets two more logs added to it at the end of every hour, how many logs will be left after 3 hours?",
+  "steps": [
+    "The cookfire starts with six logs.",
+    "It burns three logs every hour.",
+    "At the end of the first hour, three logs are burned, leaving 6 - 3 = 3 logs.",
+    "Two logs are added at the end of the first hour, resulting in 3 + 2 = 5 logs.",
+    "At the end of the second hour, three logs are burned, leaving 5 - 3 = 2 logs.",
+    "Two more logs are added at the end of the second hour, resulting in 2 + 2 = 4 logs.",
+    "At the end of the third hour, three logs are burned, leaving 4 - 3 = 1 log.",
+    "Two logs are added at the end of the third hour, resulting in 1 + 2 = 3 logs."
+  ],
+  "solution": "3"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Matthew, the baker, arrives at work early every morning to make his famous caramel-apple coffee cakes for the day.  It usually takes Matthew 1 hour to assemble ingredients, 1.5 hours to bake the cakes, and another 1 hour to decorate each cake with cinnamon sprinkles.  One day, Matthew's oven failed to reach the correct temperature and it took twice as long for the cakes to bake as they usually take.  On that day, how long did it take, in hours, for Matthew to make his famous caramel-apple coffee cakes?",
+  "steps": [
+    "First, I need to find out how long it normally takes Matthew to make the caramel-apple coffee cakes. It usually takes him three separate steps: assembling ingredients, baking, and decorating.",
+    "The first step is assembling ingredients, which takes 1 hour.",
+    "The second step is baking the cakes, which normally takes 1.5 hours.",
+    "The third and final step is decorating the cakes, which takes another 1 hour.",
+    "To find the total normal time, I add the time for each step: 1 hour (assembling) + 1.5 hours (baking) + 1 hour (decorating).",
+    "1 hour + 1.5 hours + 1 hour equals 3.5 hours.",
+    "Now I need to consider the malfunction that caused the baking time to double.",
+    "Normally, baking takes 1.5 hours. If it took twice as long, then the baking time must have been 1.5 hours * 2.",
+    "1.5 hours * 2 equals 3 hours.",
+    "Now I add the adjusted baking time to the times for assembling ingredients and decorating. Assembling still takes 1 hour and decorating still takes 1 hour.",
+    "1 hour (assembling) + 3 hours (baking due to malfunction) + 1 hour (decorating) equals the total time taken on that day.",
+    "1 + 3 + 1 equals 5 hours."
+  ],
+  "solution": "5"
+}

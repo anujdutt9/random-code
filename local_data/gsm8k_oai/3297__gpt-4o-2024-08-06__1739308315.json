@@ -1,0 +1,20 @@
+{
+  "query": "Tom's puts 30 miles per day on his bike for the first 183 days of the year.  For the rest of the days of the year he goes 35 miles per day.  How many miles does he drive for the year?",
+  "steps": [
+    "I've been given that Tom rides his bike 30 miles per day for the first 183 days of the year.",
+    "To calculate the total miles for the first 183 days, I multiply 30 miles per day by 183 days.",
+    "30 miles/day * 183 days = 5490 miles.",
+    "The total for the first 183 days is 5490 miles.",
+    "There are normally 365 days in a year.",
+    "Tom rides 35 miles per day for the rest of the year.",
+    "To find the remaining days in the year, I subtract the first 183 days from 365 days.",
+    "365 days - 183 days = 182 days remaining.",
+    "For these remaining 182 days, Tom rides 35 miles per day.",
+    "To find the total miles for these 182 days, I multiply 35 miles per day by 182 days.",
+    "35 miles/day * 182 days = 6370 miles.",
+    "The total for the remaining days is 6370 miles.",
+    "Now, I add up all the miles Tom rides in the year: 5490 miles for the first part of the year plus 6370 miles for the rest.",
+    "5490 miles + 6370 miles = 11860 miles."
+  ],
+  "solution": "11860"
+}

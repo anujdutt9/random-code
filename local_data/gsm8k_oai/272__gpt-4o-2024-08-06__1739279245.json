@@ -1,0 +1,20 @@
+{
+  "query": "Oliver has 10 $20 and 3 $5 bills. William has 15 $10 and 4 $5 bills. How much more money does Oliver have than William?",
+  "steps": [
+    "First, I need to calculate the total amount of money Oliver has.",
+    "Oliver has 10 $20 bills.",
+    "The value of 10 $20 bills is 10 * $20 = $200.",
+    "Oliver also has 3 $5 bills.",
+    "The value of 3 $5 bills is 3 * $5 = $15.",
+    "Now, I add the two amounts to find the total money Oliver has: $200 + $15 = $215.",
+    "Next, I need to calculate the total amount of money William has.",
+    "William has 15 $10 bills.",
+    "The value of 15 $10 bills is 15 * $10 = $150.",
+    "William also has 4 $5 bills.",
+    "The value of 4 $5 bills is 4 * $5 = $20.",
+    "I add the two amounts to find the total money William has: $150 + $20 = $170.",
+    "Finally, I find out how much more money Oliver has than William by subtracting William's total from Oliver's total: $215 - $170.",
+    "$215 - $170 = $45."
+  ],
+  "solution": "45"
+}

@@ -1,0 +1,26 @@
+{
+  "query": "Kenny wants to make sure he does more jumping jacks every week than he did the week before. He recorded that last week he did 324 total jumping jacks. On Saturday of this week, he looks at his records and sees that on Sunday he did 34. On Monday he did 20. On Tuesday he skipped a day. On Wednesday he did 123. On Thursday he did 64. On Friday he did 23. How many does he have to do on Saturday to make sure he beats last week's number?",
+  "steps": [
+    "First, I need to find out how many jumping jacks Kenny has done so far this week.",
+    "On Sunday, he did 34 jumping jacks.",
+    "On Monday, he did 20 jumping jacks.",
+    "On Tuesday, he skipped a day, so he did 0 jumping jacks.",
+    "On Wednesday, he did 123 jumping jacks.",
+    "On Thursday, he did 64 jumping jacks.",
+    "On Friday, he did 23 jumping jacks.",
+    "Now, I will add all the jumping jacks from Sunday to Friday: 34 + 20 + 0 + 123 + 64 + 23.",
+    "34 + 20 = 54",
+    "54 + 0 = 54",
+    "54 + 123 = 177",
+    "177 + 64 = 241",
+    "241 + 23 = 264",
+    "So, Kenny has done 264 jumping jacks so far this week.",
+    "Last week, he did 324 jumping jacks.",
+    "Kenny wants to do more jumping jacks this week than last week.",
+    "To beat last week's total of 324, he needs to do at least 325 jumping jacks this week.",
+    "He has already done 264 jumping jacks this week.",
+    "To find out how many more he needs to do, subtract 264 from 325.",
+    "325 - 264 = 61"
+  ],
+  "solution": "61"
+}

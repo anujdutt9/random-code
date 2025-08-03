@@ -1,0 +1,17 @@
+{
+  "query": "Tom reads 10 hours over 5 days.  He can read 50 pages per hour.  Assuming he reads the same amount every day how many pages does he read in 7 days?",
+  "steps": [
+    "I need to determine how many hours Tom reads per day.",
+    "Tom reads 10 hours over 5 days.",
+    "To find the number of hours he reads per day, I divide 10 hours by 5 days.",
+    "10 hours \u00f7 5 days = 2 hours per day.",
+    "Next, I need to calculate how many pages Tom reads in a day.",
+    "Tom can read 50 pages per hour.",
+    "If he reads 2 hours a day, I multiply 2 hours by 50 pages per hour to find how many pages he reads in a day.",
+    "2 hours/day \u00d7 50 pages/hour = 100 pages per day.",
+    "Now, I need to find out how many pages he reads in 7 days.",
+    "Since he reads 100 pages per day, I multiply 100 pages by 7 days.",
+    "100 pages/day \u00d7 7 days = 700 pages."
+  ],
+  "solution": "700"
+}

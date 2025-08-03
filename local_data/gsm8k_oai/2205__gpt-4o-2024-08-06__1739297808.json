@@ -1,0 +1,20 @@
+{
+  "query": "Frank picked 36 apples. Susan picked 3 times as many apples as Frank. If Susan gave out half of her apples, and Frank sold a third of his, how many in total do they have left?",
+  "steps": [
+    "Frank picked 36 apples.",
+    "Susan picked 3 times as many apples as Frank.",
+    "3 times 36 is 108, so Susan picked 108 apples.",
+    "Susan gave out half of her apples.",
+    "Half of 108 is 54, so Susan gave out 54 apples.",
+    "Susan has 108 - 54 apples left.",
+    "108 - 54 is 54, so Susan has 54 apples left.",
+    "Frank sold a third of his apples.",
+    "A third of 36 is 12, so Frank sold 12 apples.",
+    "Frank has 36 - 12 apples left.",
+    "36 - 12 is 24, so Frank has 24 apples left.",
+    "Now, I need to find the total number of apples they both have left.",
+    "Susan has 54 apples left and Frank has 24 apples left.",
+    "54 + 24 is 78."
+  ],
+  "solution": "78"
+}

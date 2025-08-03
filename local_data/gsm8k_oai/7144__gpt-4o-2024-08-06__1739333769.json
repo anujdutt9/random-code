@@ -1,0 +1,15 @@
+{
+  "query": "The price of an iPhone fell 10% in a particular month and another 20% in the second month.  If the initial price was $1000, calculate the price after the second month.",
+  "steps": [
+    "First, I need to determine the price after the first month's 10% reduction.",
+    "The initial price of the iPhone is $1000.",
+    "A 10% reduction on $1000 is calculated as 10/100 * $1000 = $100.",
+    "Subtracting the reduction from the initial price gives: $1000 - $100 = $900.",
+    "Now, I need to calculate the price after the second month's 20% reduction.",
+    "The price after the first month is $900.",
+    "A 20% reduction on $900 is calculated as 20/100 * $900 = $180.",
+    "Subtracting the reduction from the first month's price gives: $900 - $180 = $720.",
+    "The final price after both reductions is $720."
+  ],
+  "solution": "720"
+}

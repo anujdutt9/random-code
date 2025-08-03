@@ -1,0 +1,12 @@
+{
+  "query": "Guise went to a restaurant and ate ten hot dogs on a Monday. That week, he ate two more dogs each day than the previous day. How many hot dogs had Guise eaten by Wednesday that week?",
+  "steps": [
+    "Guise ate 10 hot dogs on Monday.",
+    "On Tuesday, Guise ate 2 more hot dogs than on Monday. So, he ate 10 + 2 = 12 hot dogs on Tuesday.",
+    "On Wednesday, he ate 2 more hot dogs than on Tuesday. So, he ate 12 + 2 = 14 hot dogs on Wednesday.",
+    "Now, add the hot dogs eaten from Monday to Wednesday: 10 (Monday) + 12 (Tuesday) + 14 (Wednesday).",
+    "10 + 12 = 22 hot dogs by the end of Tuesday.",
+    "22 + 14 = 36 hot dogs by the end of Wednesday."
+  ],
+  "solution": "36"
+}

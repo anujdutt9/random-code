@@ -1,0 +1,18 @@
+{
+  "query": "Jimmy is setting up a garden. He has three plots: one plot for green beans, one plot for carrots, and one plot for corn. Each corn plant produces 5 times as many servings of veggies as each carrot, and each green bean plant produces half as many servings as each corn plant. If each carrot produces 4 servings of vegetables, and each plot has 9 plants, how many servings of vegetables is Jimmy growing?",
+  "steps": [
+    "Let's first determine how many servings each carrot plant produces. We are told each carrot plant produces 4 servings of vegetables.",
+    "The carrot plot has 9 plants, so the total servings from the carrot plot is 9 plants * 4 servings/plant = 36 servings.",
+    "Next, let's determine how many servings each corn plant produces. Each corn plant produces 5 times as many servings as each carrot plant.",
+    "A carrot plant produces 4 servings, so each corn plant produces 5 * 4 = 20 servings.",
+    "The corn plot also has 9 plants, so the total number of servings from the corn plot is 9 plants * 20 servings/plant = 180 servings.",
+    "Now, let's calculate the servings produced by each green bean plant. Each green bean plant produces half as many servings as each corn plant.",
+    "Each corn plant produces 20 servings, so each green bean plant produces 20 / 2 = 10 servings.",
+    "The green bean plot also has 9 plants, so the total number of servings from the green bean plot is 9 plants * 10 servings/plant = 90 servings.",
+    "Now we have the total servings from each type of plant: carrots (36 servings), corn (180 servings), and green beans (90 servings).",
+    "To find the total number of servings from all the plots, we need to add the servings from each plot together: 36 + 180 + 90.",
+    "Calculating the total: 36 + 180 = 216.",
+    "Then add the green beans servings: 216 + 90 = 306."
+  ],
+  "solution": "306"
+}

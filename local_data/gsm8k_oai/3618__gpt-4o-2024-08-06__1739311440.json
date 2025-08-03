@@ -1,0 +1,19 @@
+{
+  "query": "Maurice is getting $2 for every finished task. And for every 10 tasks finished, he receives a $6 bonus. How much money would Maurice make for finishing 30 tasks?",
+  "steps": [
+    "First, I need to figure out how much Maurice makes from the regular task payments.",
+    "Maurice gets $2 for each finished task.",
+    "For 30 tasks, I calculate the regular payment as 30 tasks multiplied by $2 per task.",
+    "30 tasks * $2 per task = $60.",
+    "Next, I need to calculate how much Maurice makes from the $6 bonuses.",
+    "Maurice gets a $6 bonus for every 10 tasks finished.",
+    "Maurice finished 30 tasks, which means he qualifies for 3 sets of 10 tasks.",
+    "For each set of 10 tasks, he gets a $6 bonus.",
+    "Therefore, he gets 3 bonuses of $6 each.",
+    "3 bonuses * $6 per bonus = $18.",
+    "Finally, I add the regular task income and the bonus income together.",
+    "Regular income: $60 + Bonus income: $18 = Total income.",
+    "$60 + $18 = $78."
+  ],
+  "solution": "78"
+}

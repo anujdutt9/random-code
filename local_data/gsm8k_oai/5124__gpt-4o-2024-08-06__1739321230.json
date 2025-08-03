@@ -1,0 +1,19 @@
+{
+  "query": "Janet uses her horses' manure as fertilizer. One horse produces 5 gallons of fertilizer per day. Once Janet has collected enough fertilizer, she'll spread it over 20 acres of farmland. Each acre needs 400 gallons of fertilizer and Janet can spread fertilizer over 4 acres per day. If Janet has 80 horses, how long will it take until all her fields are fertilized?",
+  "steps": [
+    "First, I need to find out how much fertilizer is produced by 80 horses in one day.",
+    "One horse produces 5 gallons of fertilizer per day.",
+    "So, 80 horses produce 80 * 5 = 400 gallons of fertilizer per day.",
+    "Next, I need to find out how much fertilizer is needed to cover all 20 acres.",
+    "Each acre needs 400 gallons of fertilizer.",
+    "Thus, for 20 acres, the amount of fertilizer needed is 20 * 400 = 8000 gallons.",
+    "Now, I know that Janet's horses produce 400 gallons of fertilizer per day, and she needs a total of 8000 gallons.",
+    "To find out how many days it will take Janet to collect 8000 gallons, I divide the total needed by the daily production: 8000 gallons / 400 gallons per day = 20 days.",
+    "Now, let's figure out how long it will take Janet to spread the fertilizer.",
+    "Janet can spread fertilizer over 4 acres per day.",
+    "She has 20 acres to cover.",
+    "To find out how many days it will take to spread over all acres, I divide the total acres by the per-day spreading capacity: 20 acres / 4 acres per day = 5 days.",
+    "The overall time it will take includes both collecting and spreading. So, I add the two times together: 20 days (to collect) + 5 days (to spread)."
+  ],
+  "solution": "25"
+}

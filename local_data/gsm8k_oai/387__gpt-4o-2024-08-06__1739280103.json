@@ -1,0 +1,11 @@
+{
+  "query": "Nellie can eat 12 sourball candies before crying. Jacob can only manage half of that number of candies, and Lana can only do three fewer than Jacob. They had a bucket of 30 candies, and all of them ate until they cried. If they divide the remaining candies in the bucket equally, how many sourball candies will they each get?",
+  "steps": [
+    "First, I determine how many candies Jacob can eat. Since he can eat half of what Nellie can, and Nellie eats 12, Jacob can eat 12 / 2 = 6 candies.",
+    "Next, I calculate how many candies Lana can eat. She eats three fewer candies than Jacob, which is 6 - 3 = 3 candies.",
+    "Now, I find out how many candies all of them eat together. Nellie eats 12 candies, Jacob eats 6, and Lana eats 3. Together, they eat 12 + 6 + 3 = 21 candies.",
+    "I subtract the total number of candies eaten from the original number of candies in the bucket to find out how many are left. There were 30 candies initially, so 30 - 21 = 9 candies remain.",
+    "They divide the remaining candies equally among themselves. Since there are 3 people, I calculate how many candies each one gets by dividing the remaining candies by 3. So, 9 / 3 = 3 candies each."
+  ],
+  "solution": "3"
+}

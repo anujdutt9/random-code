@@ -1,0 +1,15 @@
+{
+  "query": "A big snowstorm caused a large amount of snow to fall onto Grandpa's farm, and the wind caused the snow to pile up into a drift.  But on the second day, it warmed up enough that half of the snowdrift melted.  The third day, it snowed again, adding another 6 inches of snow onto the snowdrift.  On the fourth day, another 18 inches of snow fell onto the snowdrift.  If the snowdrift was 34 inches deep at the end of the fourth day, how deep in inches was the drift at the end of the first day?",
+  "steps": [
+    "I need to determine the depth of the snowdrift at the end of the first day. I know the depth at the end of the fourth day was 34 inches.",
+    "First, I will work backward from the fourth day to find the depth before the extra 18 inches of snow fell.",
+    "At the end of the fourth day, the snowdrift was 34 inches deep. Before the 18 inches of snow fell, the snowdrift was 34 - 18 = 16 inches.",
+    "Now I need to find out how deep the snowdrift was at the end of the second day. On the third day, 6 inches of snow were added.",
+    "Before the 6 inches of new snow fell on the third day, the snowdrift was 16 - 6 = 10 inches deep at the end of the second day.",
+    "Now I know that half of the snowdrift melted on the second day, leaving it at 10 inches deep. Let me find out the original depth before half of it melted.",
+    "Let x be the depth of the snowdrift at the end of the first day. Half of x melted on the second day, leaving x/2 inches. We know x/2 = 10 inches.",
+    "Solving for x, I have x = 10 * 2 = 20 inches.",
+    "Therefore, the snowdrift was 20 inches deep at the end of the first day."
+  ],
+  "solution": "20"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Several birds were sitting in the branches of a crape myrtle tree.  There were three times more cardinals than bluebirds, but half as many swallows as bluebirds. If there were 2 swallows, what is the total number of birds in the crape myrtle tree?",
+  "steps": [
+    "We know there are 2 swallows.",
+    "Since the number of swallows is half the number of bluebirds, we set the number of bluebirds as a variable, B.",
+    "Using the information about the swallows, we can write the equation: 0.5 * B = 2.",
+    "Solving for B, we can multiply both sides by 2 to get: B = 4.",
+    "Now we know there are 4 bluebirds.",
+    "It is given that there are three times more cardinals than bluebirds.",
+    "Therefore, the number of cardinals is 3 times the number of bluebirds: C = 3 * B = 3 * 4.",
+    "Calculating this gives C = 12 cardinals.",
+    "Now we determine the total number of birds by adding the numbers of each bird type.",
+    "The total number of birds is the sum of swallows, bluebirds, and cardinals: 2 + 4 + 12.",
+    "Add them together: 2 + 4 = 6, and then 6 + 12 = 18."
+  ],
+  "solution": "18"
+}

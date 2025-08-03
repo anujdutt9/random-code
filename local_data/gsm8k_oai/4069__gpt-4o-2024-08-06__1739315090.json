@@ -1,0 +1,19 @@
+{
+  "query": "Sam the butcher made sausage by grinding up 10 pounds of spicy meat mix, loading it into a tube casing, and creating a string of 40 sausage links. Then, she hung up the string of sausage links in her cooler.  Later that evening, Brandy, Sam\u2019s Golden Retriever, broke into the cooler and ate 12 links of sausage.  After Brandy\u2019s feast, how many ounces of sausage meat were contained in the remaining links?",
+  "steps": [
+    "First, I need to understand the total amount of sausage meat Sam made initially.",
+    "Sam used 10 pounds of meat to make the sausage.",
+    "I need to convert the weight from pounds to ounces to make calculations easier, as there are 16 ounces in a pound.",
+    "I multiply 10 pounds by 16 ounces per pound to find the total ounces of sausage meat.",
+    "10 pounds * 16 ounces/pound = 160 ounces.",
+    "Sam made a string containing 40 sausage links.",
+    "Each link should contain an equal amount of meat, so I need to divide the total meat by the number of links.",
+    "160 ounces / 40 links = 4 ounces per link.",
+    "Brandy ate 12 links of sausage.",
+    "I need to calculate the total ounces of sausage Brandy consumed by multiplying the number of links she ate by the ounces per link.",
+    "12 links * 4 ounces/link = 48 ounces consumed by Brandy.",
+    "To find the ounces of sausage left, I need to subtract the amount Brandy ate from the total ounces initially.",
+    "160 ounces - 48 ounces = 112 ounces."
+  ],
+  "solution": "112"
+}

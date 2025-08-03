@@ -1,0 +1,16 @@
+{
+  "query": "Hannah's AdBlock blocks all but 20% of ads, and 20% of the ads it doesn't block are actually interesting. What percentage of ads aren't interested and don't get blocked?",
+  "steps": [
+    "First, identify what's given in the problem. Hannah's AdBlock blocks all but 20% of ads.",
+    "This means out of 100% of ads, 80% are blocked. Thus, 20% of ads are not blocked.",
+    "Next, find the percentage of ads that are interesting out of those not blocked.",
+    "According to the problem, 20% of the ads that are not blocked are actually interesting.",
+    "To find the percentage of non-blocked ads that are not interesting, subtract the interesting percentage from the unblocked percentage.",
+    "So, 100% of non-blocked ads minus 20% interesting non-blocked ads leaves us with 80% non-blocked ads that are not interesting.",
+    "Now, calculate what percentage of the total ads are not interesting and not blocked.",
+    "We know 20% of the total ads are not blocked, and 80% of those are not interesting.",
+    "Calculate 80% of 20% to find the percentage of total ads that are not interesting and not blocked.",
+    "80% of 20% is 0.8 * 0.2 = 0.16 which is 16%."
+  ],
+  "solution": "16"
+}

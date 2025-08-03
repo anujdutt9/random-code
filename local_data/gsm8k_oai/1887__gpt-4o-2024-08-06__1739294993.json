@@ -1,0 +1,18 @@
+{
+  "query": "On his calculator, August had solved a math problem with an answer of 600. The following math problem had an answer twice as big as the answer of the first math problem, and the third math problem had an answer 400 less than the combined total answers of the first and the second math problems. What's the total of August's answers from solving the three math problems on his calculator?",
+  "steps": [
+    "The answer to the first math problem is given as 600.",
+    "The answer to the second math problem is twice as big as the answer to the first math problem.",
+    "Twice the answer of the first problem is 2 \u00d7 600 = 1200.",
+    "Thus, the answer to the second math problem is 1200.",
+    "Now, we need to find the combined total of the answers to the first and second math problems.",
+    "The combined total of the first and second problems is 600 + 1200 = 1800.",
+    "The answer to the third math problem is 400 less than this combined total.",
+    "So, the answer to the third math problem is 1800 - 400 = 1400.",
+    "Now, we find the total of August's answers for all three math problems.",
+    "The total is 600 (first problem) + 1200 (second problem) + 1400 (third problem).",
+    "The sum of these answers is 600 + 1200 + 1400.",
+    "Calculating the sum gives us 3200."
+  ],
+  "solution": "3200"
+}

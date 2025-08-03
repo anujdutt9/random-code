@@ -1,0 +1,16 @@
+{
+  "query": "Miss Smith is teaching second period English and is shocked at how small the class seems. There are 6 tables in the classroom with 3 students currently sitting at each table. Sally said 3 girls went to the bathroom, and three times more students went to the canteen. Elliott said that 2 groups of students have recently been added to their class, and each group has 4 students in it. None of these students are in the class right now. Lucas pointed out that a few foreign exchange students have joined the class; 3 from Germany, 3 from France, and 3 from Norway. These students are also missing. How many students are supposed to be in the class?",
+  "steps": [
+    "First, I need to determine the number of students currently in the classroom. There are 6 tables with 3 students each.",
+    "The current number of students in the classroom is 6 tables * 3 students/table = 18 students.",
+    "Next, I need to account for the students who are not currently present but are supposed to be part of the class. Sally mentioned that 3 girls are in the bathroom.",
+    "3 girls went to the bathroom, so I add these 3 students to the total class count. Now, the count is 18 current students + 3 students in the bathroom = 21 students.",
+    "Sally also mentioned that three times more students went to the canteen. So, 3 * 3 = 9 students went to the canteen.",
+    "I will add these 9 students from the canteen to the total class count. So, 21 students + 9 students in the canteen = 30 students.",
+    "Elliott mentioned that 2 groups of students with 4 students each are also part of the class but currently absent. So, 2 groups * 4 students/group = 8 additional students.",
+    "I add these 8 students to the total class count. So, 30 students + 8 group members = 38 students.",
+    "Lucas mentioned that foreign exchange students joined the class: 3 from Germany, 3 from France, and 3 from Norway, which totals 3 + 3 + 3 = 9 foreign exchange students.",
+    "I add these 9 foreign exchange students to the total count. So, 38 students + 9 foreign exchange students = 47 students."
+  ],
+  "solution": "47"
+}

@@ -1,0 +1,24 @@
+{
+  "query": "Kiki made 10 cucumber sandwiches and 8 egg sandwiches for the tea party.  Each cucumber sandwich was cut into 4 triangles.  Each egg sandwich was cut into 2 rectangles.  If her guests ate 28 triangles and 12 rectangles, how many slices of bread did they eat?",
+  "steps": [
+    "First, I need to determine how many pieces each type of sandwich was made into.",
+    "Kiki made 10 cucumber sandwiches, and each was cut into 4 triangles.",
+    "So, the total number of cucumber sandwich triangles is 10 sandwiches * 4 triangles = 40 triangles.",
+    "Next, Kiki made 8 egg sandwiches, and each was cut into 2 rectangles.",
+    "Therefore, the total number of egg sandwich rectangles is 8 sandwiches * 2 rectangles = 16 rectangles.",
+    "Now, I know that the guests ate 28 triangles.",
+    "This means that 28 triangles were eaten out of the 40 total triangles.",
+    "Next, the guests ate 12 rectangles.",
+    "This means that 12 rectangles were eaten out of the 16 total rectangles.",
+    "Each sandwich consists of two slices of bread. Each sandwich, when cut, still represents one original sandwich made from two slices of bread.",
+    "I calculate how many cucumber sandwiches were eaten. Each sandwich has 4 triangles.",
+    "If 28 triangles were eaten and each cucumber sandwich has 4 triangles, then 28 / 4 = 7 cucumber sandwiches were eaten.",
+    "I calculate how many egg sandwiches were eaten. Each sandwich has 2 rectangles.",
+    "If 12 rectangles were eaten and each egg sandwich has 2 rectangles, then 12 / 2 = 6 egg sandwiches were eaten.",
+    "Now, I calculate the total number of sandwiches eaten.",
+    "The total sandwiches eaten are 7 cucumber sandwiches + 6 egg sandwiches = 13 sandwiches.",
+    "Each sandwich uses 2 slices of bread.",
+    "The total number of slices of bread used is 13 sandwiches * 2 slices of bread = 26 slices of bread."
+  ],
+  "solution": "26"
+}

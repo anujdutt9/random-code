@@ -1,0 +1,16 @@
+{
+  "query": "John buys 20 bars of soap each weighing 1.5 pounds for $.5 per pound.  How much money did he spend on soap?",
+  "steps": [
+    "First, I need to figure out the total weight of the soap bars John buys.",
+    "Each bar of soap weighs 1.5 pounds.",
+    "John buys 20 bars of soap.",
+    "To find the total weight, I multiply the number of bars by the weight of each bar: 20 bars * 1.5 pounds/bar.",
+    "20 * 1.5 = 30 pounds.",
+    "Next, I need to find out how much John pays per pound.",
+    "He pays $0.5 per pound.",
+    "To find the total cost, I multiply the total weight by the cost per pound: 30 pounds * $0.5/pound.",
+    "30 * 0.5 = 15.",
+    "John spent $15 on soap."
+  ],
+  "solution": "15"
+}

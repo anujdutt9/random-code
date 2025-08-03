@@ -1,0 +1,21 @@
+{
+  "query": "There is very little car traffic on Happy Street. During the week, most cars pass it on Tuesday - 25. On Monday, 20% less than on Tuesday, and on Wednesday, 2 more cars than on Monday. On Thursday and Friday, it is about 10 cars each day. On the weekend, traffic drops to 5 cars per day. How many cars travel down Happy Street from Monday through Sunday?",
+  "steps": [
+    "Start by calculating the number of cars passing on Monday. Since there's 20% less than on Tuesday, I need to find 20% of 25.",
+    "20% of 25 is 0.20 * 25 = 5.",
+    "Subtract 5 from 25 to find the number of cars on Monday: 25 - 5 = 20 cars.",
+    "On Wednesday, there are 2 more cars than on Monday. So, 20 + 2 = 22 cars.",
+    "On Thursday, there are about 10 cars.",
+    "On Friday, there are about 10 cars.",
+    "On Saturday, traffic drops to 5 cars.",
+    "On Sunday, traffic is also 5 cars.",
+    "Now, add the number of cars from Monday to Sunday: Monday (20) + Tuesday (25) + Wednesday (22) + Thursday (10) + Friday (10) + Saturday (5) + Sunday (5).",
+    "Perform the addition: 20 + 25 = 45.",
+    "45 + 22 = 67.",
+    "67 + 10 = 77.",
+    "77 + 10 = 87.",
+    "87 + 5 = 92.",
+    "92 + 5 = 97."
+  ],
+  "solution": "97"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Due to a drought, Jerry's household can only use 1000 gallons of water during July. Jerry uses 100 gallons for drinking and cooking and 20 gallons per shower. He wants to fill his pool, which measures 10 feet by 10 feet by 6 feet. If each gallon of water fills 1 cubic foot of the pool, how many showers can Jerry take in July?",
+  "steps": [
+    "First, I need to determine the total volume of the pool in cubic feet to see how many gallons are required to fill it.",
+    "The pool dimensions are 10 feet x 10 feet x 6 feet.",
+    "Calculating the volume: 10 * 10 * 6 = 600 cubic feet.",
+    "Since each gallon of water fills 1 cubic foot, Jerry needs 600 gallons to fill the pool.",
+    "Next, I need to calculate how much water Jerry has used for drinking and cooking.",
+    "Jerry uses 100 gallons for drinking and cooking.",
+    "Now, let's calculate the total amount of water used if Jerry fills the pool and uses water for drinking and cooking.",
+    "Total water used so far is: 600 gallons (pool) + 100 gallons (drinking and cooking) = 700 gallons.",
+    "Jerry has a total limit of 1000 gallons for July.",
+    "I subtract the water already used from Jerry's limit: 1000 gallons - 700 gallons = 300 gallons remaining.",
+    "Each shower uses 20 gallons.",
+    "To determine how many showers Jerry can take, I divide the remaining gallons by the gallons per shower: 300 gallons / 20 gallons per shower = 15 showers."
+  ],
+  "solution": "15"
+}

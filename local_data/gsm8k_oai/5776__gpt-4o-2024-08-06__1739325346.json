@@ -1,0 +1,15 @@
+{
+  "query": "Tiffany is going to the beach and wants to make sure she has enough sunscreen. She knows she needs to re-apply sunscreen after 2 hours. She also knows she needs 3 ounces of sunscreen each application and a bottle contain 12 ounces and costs $3.5. If she is there for 16 hours, how much will the sunscreen cost?",
+  "steps": [
+    "Tiffany needs to re-apply sunscreen every 2 hours.",
+    "She is going to be at the beach for 16 hours.",
+    "To find out how many times she needs to re-apply, I divide the total time by the interval between applications: 16 hours / 2 hours = 8 times.",
+    "She needs 3 ounces per application.",
+    "To find out the total amount of sunscreen she needs, I multiply the number of applications by the amount used per application: 8 applications * 3 ounces = 24 ounces.",
+    "Each bottle contains 12 ounces of sunscreen.",
+    "To find out how many bottles she needs, I divide the total amount needed by the amount each bottle contains: 24 ounces / 12 ounces per bottle = 2 bottles.",
+    "Each bottle costs $3.5.",
+    "To find the total cost, I multiply the number of bottles by the cost per bottle: 2 bottles * $3.5 per bottle = $7."
+  ],
+  "solution": "7"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "A highway is being extended from its current length of 200 miles up to 650 miles. 50 miles are built on the first day, and three times this amount are built on the second day.  How many miles still need to be added to the highway to finish extending it?",
+  "steps": [
+    "The current length of the highway is 200 miles.",
+    "The desired extended length is 650 miles.",
+    "The difference between the desired length and the current length is 650 - 200 = 450 miles.",
+    "On the first day, 50 miles are built.",
+    "On the second day, three times the amount built on the first day are built.",
+    "Three times 50 miles is 3 * 50 = 150 miles.",
+    "The total amount of highway built over the two days is 50 + 150 = 200 miles.",
+    "The remaining miles needed to be built to reach the desired length is 450 - 200 = 250 miles."
+  ],
+  "solution": "250"
+}

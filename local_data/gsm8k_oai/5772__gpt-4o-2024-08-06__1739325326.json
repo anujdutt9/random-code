@@ -1,0 +1,17 @@
+{
+  "query": "Will's mom gave him $74 to go shopping. He bought a sweater for $9, a T-shirt for $11 and a pair of shoes for $30. He then returned his shoes for a 90% refund.  How much money does Will have left?",
+  "steps": [
+    "Start by determining how much money Will has initially.",
+    "Will's mom gave him $74 to go shopping.",
+    "Calculate the cost of the items Will bought: a sweater for $9, a T-shirt for $11, and a pair of shoes for $30.",
+    "Add these amounts together: $9 (sweater) + $11 (T-shirt) + $30 (shoes) = $50.",
+    "Subtract the total cost of the items from the initial amount Will had.",
+    "$74 (initial amount) - $50 (total cost of items) = $24 left after initial purchases.",
+    "He then returned his shoes for a 90% refund.",
+    "Calculate the refund amount: 90% of $30.",
+    "90% of $30 is calculated as 0.90 * $30 = $27.",
+    "Add the refund amount back to the money Will has left.",
+    "$24 (remaining money after initial purchase) + $27 (refund) = $51."
+  ],
+  "solution": "51"
+}

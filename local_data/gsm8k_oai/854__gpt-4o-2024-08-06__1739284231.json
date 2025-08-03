@@ -1,0 +1,21 @@
+{
+  "query": "Jeff committed to run for an hour a day during weekdays. On Thursday, he cut short his run by 20 minutes but was able to jog 10 minutes more on Friday. How many minutes was he able to run for that week?",
+  "steps": [
+    "Jeff has committed to run for 1 hour a day, which is 60 minutes every weekday.",
+    "There are 5 weekdays (Monday to Friday), so he plans to run 60 minutes for each of these 5 days.",
+    "60 minutes/day * 5 days = 300 minutes of planned running for the week.",
+    "On Thursday, Jeff cut short his run by 20 minutes.",
+    "Therefore, on Thursday he ran for 60 minutes - 20 minutes = 40 minutes.",
+    "On Friday, he jogged 10 minutes more than planned.",
+    "Therefore, on Friday he ran for 60 minutes + 10 minutes = 70 minutes.",
+    "To find out how many minutes he actually ran during the week, I need to calculate his actual running time for each day and sum them up.",
+    "For Monday, Tuesday, and Wednesday: 60 minutes each day.",
+    "Monday: 60 minutes",
+    "Tuesday: 60 minutes",
+    "Wednesday: 60 minutes",
+    "Thursday: 40 minutes",
+    "Friday: 70 minutes",
+    "Add up the running times: 60 + 60 + 60 + 40 + 70 = 290 minutes."
+  ],
+  "solution": "290"
+}

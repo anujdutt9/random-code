@@ -1,0 +1,12 @@
+{
+  "query": "Five food companies sponsored a local food bank. Foster Farms donated 45 dressed chickens; American Summits donated twice the number of bottled water than the number of dressed chicken donated by Foster Farms; Hormel donated three times the number of dressed chickens that Foster Farms donated; Boudin Butchers donated one-third of the number of dressed chickens that Hormel donated; Del Monte Foods donated 30 fewer bottles of water than American Summits. How many food items did the companies donate in total?",
+  "steps": [
+    "First, let's determine how many water bottles American Summits donated. They donated twice the number of dressed chickens donated by Foster Farms. Foster Farms donated 45 chickens, so American Summits donated 45 * 2 = 90 bottles of water.",
+    "Next, let's find out how many dressed chickens Hormel donated. Hormel donated three times the number of dressed chickens that Foster Farms donated. Foster Farms donated 45 chickens, so Hormel donated 45 * 3 = 135 dressed chickens.",
+    "Now, let's calculate the number of dressed chickens Boudin Butchers donated. They donated one-third of the number of dressed chickens Hormel donated. Hormel donated 135 chickens, so Boudin Butchers donated 135 / 3 = 45 dressed chickens.",
+    "Next, we need to determine how many bottles of water Del Monte Foods donated. They donated 30 fewer bottles of water than American Summits. American Summits donated 90 bottles, so Del Monte Foods donated 90 - 30 = 60 bottles of water.",
+    "Now let's add up all the food items donated by the companies. \nFoster Farms donated 45 chickens.\nAmerican Summits donated 90 bottles of water.\nHormel donated 135 chickens.\nBoudin Butchers donated 45 chickens.\nDel Monte Foods donated 60 bottles of water.",
+    "Calculate the total number of food items by adding them all together:\n45 (Foster Farms) + 90 (American Summits) + 135 (Hormel) + 45 (Boudin Butchers) + 60 (Del Monte Foods) = 375."
+  ],
+  "solution": "375"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "Eric spent 2 hours removing wallpaper from just 1 wall of his 4 walled dining room.  He also needs to remove wallpaper from his 4 walled living room.  How many hours will it take him to remove the remaining wallpaper?",
+  "steps": [
+    "Eric spent 2 hours to remove wallpaper from 1 wall in the dining room.",
+    "There are 4 walls in the dining room.",
+    "Each wall takes 2 hours to remove the wallpaper, so 4 walls will take 4 * 2 = 8 hours for the dining room.",
+    "Since only 1 wall is done, he has 3 walls remaining in the dining room.",
+    "For the 3 remaining walls in the dining room, it will take 3 * 2 = 6 more hours.",
+    "The living room also has 4 walls.",
+    "He will need 2 hours per wall for the living room too, totaling 4 * 2 = 8 hours for the living room.",
+    "Adding the remaining hours for the dining room and the required hours for the living room: 6 hours (dining room) + 8 hours (living room) = 14 hours."
+  ],
+  "solution": "14"
+}

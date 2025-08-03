@@ -1,0 +1,13 @@
+{
+  "query": "Question: Where might I find the names of a place to stay?\n\nChoices:\nA: hotel\nB: phone book\nC: motel\nD: in a story book\nE: city",
+  "steps": [
+    "I need to identify places where names of accommodations can be found.",
+    "A hotel is a type of accommodation, which suggests it might not be a source for names, but rather a place to stay.",
+    "A phone book traditionally contains listings of various businesses, including hotels and motels, indicating it may provide names of places to stay.",
+    "A motel is similar to a hotel, and while it represents a type of accommodation, it also does not directly serve as a source for names but rather as a location itself.",
+    "An item found in a story book is likely fictional and not a reliable source for real accommodations.",
+    "The city itself might have places to stay, but it does not represent an actual source for the names of accommodations.",
+    "Out of all the choices, the phone book is the only one that explicitly serves as a directory listing names of places where one could stay."
+  ],
+  "solution": "B"
+}

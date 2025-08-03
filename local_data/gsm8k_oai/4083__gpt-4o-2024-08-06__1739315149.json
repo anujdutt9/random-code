@@ -1,0 +1,15 @@
+{
+  "query": "In Hawaii, they normally get an average of 2 inches of rain a day. With 100 days left in the year, they've gotten 430 inches of rain. How many inches on average do they need to finish the year with the normal average?",
+  "steps": [
+    "First, I need to calculate the total average rain expected for the whole year.",
+    "A normal year has 365 days, and the average is 2 inches per day.",
+    "Multiply 365 days by 2 inches per day to find the total expected rainfall for the year: 365 * 2 = 730 inches.",
+    "They have already received 430 inches of rain this year.",
+    "I need to subtract the rain they've already gotten from the total expected rainfall for the year.",
+    "730 inches (total expected) - 430 inches (already received) = 300 inches remaining needed to achieve the average.",
+    "There are 100 days left in the year.",
+    "I need to divide the remaining 300 inches needed by the 100 days left to find the average they need per day.",
+    "300 inches / 100 days = 3 inches per day."
+  ],
+  "solution": "3"
+}

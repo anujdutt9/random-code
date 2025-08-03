@@ -1,0 +1,17 @@
+{
+  "query": "A swimming pool is being emptied through a drain at the bottom of the pool and filled by a hose at the top. The drain can empty the pool in 4 hours and the hose can fill the pool in 6 hours. The pool holds 120 liters of water. If the pool starts filled with water, how much water will be left after 3 hours?",
+  "steps": [
+    "First, I find the draining rate of the pool. Since the drain can empty the pool in 4 hours, it means the rate of drainage is 120 liters divided by 4 hours.",
+    "Dividing 120 by 4 gives me 30. So, the drain removes 30 liters per hour.",
+    "Next, I find the filling rate of the hose. Since the hose can fill the pool in 6 hours, it means the rate of filling is 120 liters divided by 6 hours.",
+    "Dividing 120 by 6 gives me 20. So, the hose adds 20 liters per hour.",
+    "Now, I determine the net rate at which water leaves or enters the pool per hour. Since the pool is being drained and filled simultaneously, I subtract the filling rate from the draining rate.",
+    "30 liters (drained per hour) - 20 liters (filled per hour) equals 10 liters drained per hour.",
+    "Therefore, every hour, 10 liters of water leaves the pool.",
+    "The problem asks how much water is left after 3 hours, starting with the pool full at 120 liters.",
+    "If 10 liters leaves the pool per hour, then after 3 hours, 3 times 10 liters equals 30 liters have been drained.",
+    "Subtract the 30 liters drained from the initial 120 liters to find out how much water is left.",
+    "120 liters - 30 liters equals 90 liters."
+  ],
+  "solution": "90"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "There were 25 peaches in each basket. Five baskets of peaches were delivered to a market. The farmers have eaten 5 peaches. The remaining peaches are packed into smaller boxes of 15 each. How many boxes of peaches are there?",
+  "steps": [
+    "First, determine the total number of peaches delivered to the market. There are 25 peaches per basket, and 5 baskets are delivered.",
+    "Calculate 25 peaches/basket * 5 baskets = 125 peaches delivered to the market.",
+    "Next, account for the peaches that the farmers have eaten. They ate 5 peaches.",
+    "Subtract the 5 eaten peaches from the total delivered peaches: 125 peaches - 5 peaches = 120 peaches remaining.",
+    "Now, determine how many smaller boxes of 15 peaches each are needed for the remaining peaches.",
+    "Calculate 120 peaches / 15 peaches/box = 8 boxes required.",
+    "Thus, the remaining peaches can be packed into 8 smaller boxes."
+  ],
+  "solution": "8"
+}

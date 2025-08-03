@@ -1,0 +1,22 @@
+{
+  "query": "In the garden, the gecko eats 12 bugs.  The lizard eats half as many bugs as the gecko.  The frog eats 3 times as many bugs as the lizard.  The toad eats 50% more bugs than the frog. How many bugs are eaten in total by all of them?",
+  "steps": [
+    "The gecko eats 12 bugs.",
+    "The lizard eats half as many bugs as the gecko.",
+    "Half of 12 bugs is 6 bugs.",
+    "Therefore, the lizard eats 6 bugs.",
+    "The frog eats 3 times as many bugs as the lizard.",
+    "3 times 6 bugs is 18 bugs.",
+    "Therefore, the frog eats 18 bugs.",
+    "The toad eats 50% more bugs than the frog.",
+    "50% of 18 bugs is 9 bugs.",
+    "18 bugs + 9 bugs is 27 bugs.",
+    "Therefore, the toad eats 27 bugs.",
+    "Now, add up all the bugs eaten:",
+    "12 bugs (gecko) + 6 bugs (lizard) + 18 bugs (frog) + 27 bugs (toad)",
+    "12 + 6 is 18.",
+    "18 + 18 is 36.",
+    "36 + 27 is 63."
+  ],
+  "solution": "63"
+}

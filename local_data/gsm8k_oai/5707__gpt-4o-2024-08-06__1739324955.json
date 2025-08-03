@@ -1,0 +1,17 @@
+{
+  "query": "Max has a collection of stamps in three colors: 20 red stamps, 80 blue stamps and 7 yellow ones. He is trying to sell the whole collection. He already sold 20 red stamps for the price of $1.1 for each stamp and 80 blue stamps for the price of $0.8 for each stamp. What price did he need to set for each yellow stamp to be able to earn the total of $100 from the whole sale?",
+  "steps": [
+    "First, I need to determine the total amount Max has already earned from selling the red and blue stamps.",
+    "Max sold 20 red stamps at $1.1 each. So, the total from red stamps is 20 * 1.1 = $22.",
+    "Max sold 80 blue stamps at $0.8 each. So, the total from blue stamps is 80 * 0.8 = $64.",
+    "Now, I need to find out the total earnings from these two colors combined.",
+    "I add the earnings from red and blue stamps: $22 + $64 = $86.",
+    "Max wants to earn $100 in total from his entire stamp collection.",
+    "I need to determine how much more money Max needs from the sale of the yellow stamps to reach his goal.",
+    "To find out the additional amount needed, I subtract the current earnings from the total goal: $100 - $86 = $14.",
+    "Max has 7 yellow stamps to sell to make this additional $14.",
+    "I need to calculate the price for each yellow stamp by dividing the remaining amount needed by the number of yellow stamps.",
+    "The price per yellow stamp is $14 divided by 7 stamps, which equals $2."
+  ],
+  "solution": "2"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "Mary is going on a business trip. It takes 10 minutes for her Uber to get to her house and 5 times longer to get to the airport. It takes 15 minutes to check her bag and three times as long to get through security. Then she has to wait for 20 minutes for her flight to start boarding and twice as long before the plane is ready to take off. How many hours will this process take total?",
+  "steps": [
+    "First, I need to calculate the travel time from Mary's house to the airport. It takes 10 minutes for the Uber to get to her house.",
+    "The trip to the airport takes 5 times longer than the Uber's arrival time. So, 10 minutes * 5 = 50 minutes.",
+    "Next, I need to determine the time for Mary's airport activities. It takes 15 minutes to check her bag.",
+    "Getting through security takes three times as long as checking her bag. So, 15 minutes * 3 = 45 minutes.",
+    "Now, add the time it takes for the Uber ride and airport activities: 10 minutes (Uber to house) + 50 minutes (to airport) + 15 minutes (check bag) + 45 minutes (security).",
+    "Calculating these, the sum is 10 + 50 + 15 + 45 = 120 minutes.",
+    "Mary then waits 20 minutes for her flight to start boarding.",
+    "She also waits twice as long before the plane is ready to take off. So, 20 minutes * 2 = 40 minutes.",
+    "Add the waiting times: 20 minutes (wait for boarding) + 40 minutes (wait for takeoff).",
+    "The sum is 20 + 40 = 60 minutes.",
+    "Now, I need to determine the total time by combining all steps: 120 minutes (travel and airport activities) + 60 minutes (waiting).",
+    "The total is 120 + 60 = 180 minutes.",
+    "To convert total minutes into hours, divide by 60. So, 180 minutes / 60 minutes per hour = 3 hours."
+  ],
+  "solution": "3"
+}

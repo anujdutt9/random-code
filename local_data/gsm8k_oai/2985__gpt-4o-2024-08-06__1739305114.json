@@ -1,0 +1,21 @@
+{
+  "query": "Carly is making burgers for a neighborhood BBQ. Each burger needs to be cooked for 4 minutes on each side. Carly can fit 5 burgers on the grill at once. If half her 30 guests want 2 burgers and the other half each want 1, how long will it take Carly to cook all the burgers?",
+  "steps": [
+    "First, I need to determine how many total burgers Carly needs to cook.",
+    "There are 30 guests in total.",
+    "Half of the guests, which is 30 divided by 2, equals 15 guests, want 2 burgers each.",
+    "The other half, also 15 guests, want 1 burger each.",
+    "Now, calculate the total number of burgers for the guests who want 2 burgers each: 15 guests times 2 burgers equals 30 burgers.",
+    "Then, calculate the total number of burgers for the guests who want 1 burger each: 15 guests times 1 burger equals 15 burgers.",
+    "Adding these together gives the total number of burgers Carly needs to make: 30 burgers plus 15 burgers equals 45 burgers.",
+    "Now, determine how many batches Carly needs to cook.",
+    "Carly can fit 5 burgers on the grill at once.",
+    "Divide the total number of burgers by the number she can cook at once: 45 burgers divided by 5 burgers per batch equals 9 batches.",
+    "Next, determine the time it takes to cook each batch.",
+    "Each burger needs to be cooked for 4 minutes on each side, so a total of 8 minutes per burger.",
+    "Since each batch is cooked simultaneously, 1 batch takes 8 minutes.",
+    "Finally, calculate the total cooking time.",
+    "Multiply the number of batches by the time per batch: 9 batches times 8 minutes equals 72 minutes."
+  ],
+  "solution": "72"
+}

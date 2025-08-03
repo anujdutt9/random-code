@@ -1,0 +1,21 @@
+{
+  "query": "This evening in the nighttime sky over Texas, Mars can be seen until 12:10 AM. Jupiter does not appear until 2 hours and 41 minutes later, and Uranus does not appear until 3 hours and 16 minutes after Jupiter makes its first appearance.  How many minutes after 6:00 AM does Uranus first appear in the evening sky over Texas this evening?",
+  "steps": [
+    "First, we need to determine the time when Jupiter appears.",
+    "Mars is visible until 12:10 AM.",
+    "Jupiter appears 2 hours and 41 minutes after Mars disappears.",
+    "Adding 2 hours and 41 minutes to 12:10 AM:",
+    "12:10 AM + 2 hours = 2:10 AM",
+    "2:10 AM + 41 minutes = 2:51 AM",
+    "Jupiter appears at 2:51 AM.",
+    "Next, we determine the time when Uranus appears.",
+    "Uranus appears 3 hours and 16 minutes after Jupiter.",
+    "Adding 3 hours and 16 minutes to 2:51 AM:",
+    "2:51 AM + 3 hours = 5:51 AM",
+    "5:51 AM + 16 minutes = 6:07 AM",
+    "Uranus appears at 6:07 AM.",
+    "Finally, we need to determine how many minutes after 6:00 AM Uranus first appears.",
+    "6:07 AM is 7 minutes after 6:00 AM."
+  ],
+  "solution": "7"
+}

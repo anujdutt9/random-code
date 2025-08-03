@@ -1,0 +1,16 @@
+{
+  "query": "A parking area near Peter's house is 4 stories tall. There are 4 open parking spots on the first level. There are 7 more open parking spots on the second level than on the first level, and there are 6 more open parking spots on the third level than on the second level. There are 14 open parking spots on the fourth level. How many open parking spots are there in all?",
+  "steps": [
+    "First, I need to find out how many open parking spots are on the first level. It is given that there are 4 open spots on the first level.",
+    "Next, I need to find the number of open parking spots on the second level. It is stated that there are 7 more open spots on the second level than on the first level.",
+    "The number of open spots on the second level is 4 (first level) + 7 = 11.",
+    "Now I need to find the number of open parking spots on the third level. According to the problem, there are 6 more open spots on the third level than the second level.",
+    "The number of open spots on the third level is 11 (second level) + 6 = 17.",
+    "The fourth level already has a specified number of open parking spots, which is 14.",
+    "Now, I will add up all the open parking spots from all four levels: 4 (first level) + 11 (second level) + 17 (third level) + 14 (fourth level).",
+    "4 + 11 = 15.",
+    "15 + 17 = 32.",
+    "32 + 14 = 46."
+  ],
+  "solution": "46"
+}

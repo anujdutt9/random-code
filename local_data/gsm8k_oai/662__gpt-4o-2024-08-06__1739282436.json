@@ -1,0 +1,18 @@
+{
+  "query": "Harry has 50 books in his library. His sister Flora has twice as many books and their cousin Gary has half the books Harry has. How many books do the three of them own together?",
+  "steps": [
+    "Harry has 50 books in his library.",
+    "Flora has twice as many books as Harry.",
+    "Twice of 50 is 50 * 2.",
+    "50 * 2 equals 100, so Flora has 100 books.",
+    "Gary has half the books that Harry has.",
+    "Half of 50 is 50 / 2.",
+    "50 / 2 equals 25, so Gary has 25 books.",
+    "Now, I need to find the total number of books the three of them own together.",
+    "Total books = books Harry has + books Flora has + books Gary has.",
+    "Total books = 50 (Harry's) + 100 (Flora's) + 25 (Gary's).",
+    "50 + 100 equals 150.",
+    "150 + 25 equals 175."
+  ],
+  "solution": "175"
+}

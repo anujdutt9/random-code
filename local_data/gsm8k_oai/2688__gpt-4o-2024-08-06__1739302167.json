@@ -1,0 +1,16 @@
+{
+  "query": "Roy has 2 blue pens. He has twice as many black and 2 less than twice as many red than black pens. How many pens does Roy have in all?",
+  "steps": [
+    "First, I need to determine how many black pens Roy has.",
+    "Roy has twice as many black pens as blue pens.",
+    "He has 2 blue pens, so twice of 2 blue pens is 2 * 2 = 4 black pens.",
+    "Next, I need to calculate how many red pens Roy has.",
+    "Roy has 2 less than twice as many red pens as he has black pens.",
+    "Twice as many black pens means 2 * 4 = 8.",
+    "2 less than this amount means 8 - 2 = 6 red pens.",
+    "Now I have all the quantities: 2 blue pens, 4 black pens, and 6 red pens.",
+    "I will sum them up to find the total number of pens.",
+    "Total pens = 2 (blue) + 4 (black) + 6 (red) = 12 pens."
+  ],
+  "solution": "12"
+}

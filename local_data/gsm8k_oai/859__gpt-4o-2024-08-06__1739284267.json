@@ -1,0 +1,13 @@
+{
+  "query": "The gummy bear factory manufactures 300 gummy bears a minute. Each packet of gummy bears has 50 gummy bears inside. How long would it take for the factory to manufacture enough gummy bears to fill 240 packets, in minutes?",
+  "steps": [
+    "First, I need to determine the total number of gummy bears needed to fill 240 packets.",
+    "Each packet contains 50 gummy bears, so I multiply 240 packets by 50 gummy bears per packet.",
+    "240 packets * 50 gummy bears/packet = 12,000 gummy bears.",
+    "Now, I know that the factory needs to produce 12,000 gummy bears.",
+    "The factory produces 300 gummy bears every minute.",
+    "To find out how many minutes are needed, I divide the total number of gummy bears required by the number of gummy bears produced per minute.",
+    "12,000 gummy bears / 300 gummy bears/minute = 40 minutes."
+  ],
+  "solution": "40"
+}

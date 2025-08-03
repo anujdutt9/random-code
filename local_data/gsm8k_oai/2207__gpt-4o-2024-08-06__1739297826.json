@@ -1,0 +1,20 @@
+{
+  "query": "The football coach makes his players run up and down the bleachers 40 times. Each time they run up and down 32 stairs one way. If each stair burns 2 calories, how many calories does each player burn during this exercise?",
+  "steps": [
+    "First, I need to determine how many stairs each player runs in one complete set of running up and down.",
+    "Running up the bleachers consists of 32 stairs, and running down also consists of 32 stairs.",
+    "So, in one complete trip of running up and then down, a player runs 32 stairs up and 32 stairs down.",
+    "32 stairs up + 32 stairs down = 64 stairs in total for one complete trip.",
+    "Now I know each player runs up and down 64 stairs per complete trip.",
+    "Next, I need to find out how many total trips each player completes.",
+    "The coach requires them to run up and down the bleachers 40 times.",
+    "This means each player makes 40 complete trips.",
+    "Since each trip consists of running 64 stairs, I need to calculate the total number of stairs run by one player during the 40 trips.",
+    "Multiply the number of stairs per trip (64) by the number of trips (40).",
+    "64 stairs/trip * 40 trips = 2560 stairs in total.",
+    "Each stair burns 2 calories.",
+    "So, the calories burned per stair need to be multiplied by the total number of stairs.",
+    "2 calories/stair * 2560 stairs = 5120 calories."
+  ],
+  "solution": "5120"
+}

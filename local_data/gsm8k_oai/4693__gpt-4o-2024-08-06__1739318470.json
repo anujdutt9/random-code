@@ -1,0 +1,16 @@
+{
+  "query": "Barbara Blackburn can type 212 words per minute.  Due to Carpal tunnel syndrome, Barbara cannot use her left hand for a while so her typing speed is now 40 words less per minute. If she is supposed to type a document with 3440 words, how many minutes will it take her to finish typing the document?",
+  "steps": [
+    "I need to calculate Barbara's new typing speed after the reduction due to Carpal tunnel syndrome.",
+    "Her original typing speed is 212 words per minute.",
+    "The reduction in her typing speed is 40 words per minute.",
+    "So, I subtract 40 from 212 to find her new typing speed.",
+    "212 - 40 = 172 words per minute.",
+    "Now I need to determine how many minutes it will take her to type a 3440-word document at her new speed.",
+    "I can use the formula: time = total words / typing speed.",
+    "Plugging in the values, time = 3440 words / 172 words per minute.",
+    "Doing the division, 3440 \u00f7 172 = 20.",
+    "It will take Barbara 20 minutes to finish typing the document."
+  ],
+  "solution": "20"
+}

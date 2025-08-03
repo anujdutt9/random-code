@@ -1,0 +1,14 @@
+{
+  "query": "A shady restaurant is charging customers gratuities after taxes without them being aware. If my total bill was $140, the sales tax in my city is 10%, I ordered a NY Striploin for $80, and I ordered a glass of wine for $10, how much did they charge me for gratuities?",
+  "steps": [
+    "First, I need to find out the total cost of the items ordered before any taxes or gratuities. I ordered a NY Striploin for $80 and a glass of wine for $10.",
+    "The total cost of the items ordered is $80 + $10, which equals $90.",
+    "Now, I need to calculate the sales tax on the total pre-tax amount. The sales tax rate is 10%.",
+    "The sales tax on $90 is 10% of $90, which is $90 * 0.10 = $9.",
+    "The total amount including sales tax would be the pre-tax amount plus the sales tax: $90 + $9 = $99.",
+    "The restaurant charged me a total of $140. This means that after including sales tax, there must have been a gratuity included.",
+    "To find the gratuity, I subtract the total amount including tax ($99) from my total bill ($140).",
+    "$140 - $99 = $41."
+  ],
+  "solution": "41"
+}

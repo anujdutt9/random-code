@@ -1,0 +1,22 @@
+{
+  "query": "James joins a football team and becomes the star.  He scores 4 touchdowns per game and each touchdown is worth 6 points.  There are 15 games in the season.  He also manages to score 2 point conversions 6 times during the season.  The old record was 300 points during the season.  How many points did James beat the old record by?",
+  "steps": [
+    "James scores 4 touchdowns per game.",
+    "Each touchdown is worth 6 points.",
+    "To find the number of points James scores per game from touchdowns, multiply 4 touchdowns by 6 points per touchdown.",
+    "4 touchdowns/game * 6 points/touchdown = 24 points/game",
+    "There are 15 games in the season.",
+    "To find the total points from touchdowns for the season, multiply the points per game by the number of games.",
+    "24 points/game * 15 games = 360 points from touchdowns",
+    "James also scores 2 point conversions 6 times during the season.",
+    "Each 2 point conversion is worth 2 points.",
+    "To find the total points from 2 point conversions, multiply the number of conversions by the points per conversion.",
+    "6 conversions * 2 points/conversion = 12 points from conversions",
+    "Add the points from touchdowns and the points from conversions to get the total points for the season.",
+    "360 points from touchdowns + 12 points from conversions = 372 total points",
+    "The old record was 300 points during the season.",
+    "To find how many points James beat the old record by, subtract the old record from James's total points.",
+    "372 total points - 300 old record points = 72 points"
+  ],
+  "solution": "72"
+}

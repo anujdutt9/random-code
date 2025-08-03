@@ -1,0 +1,23 @@
+{
+  "query": "In a single day, it rained for many hours. From 2pm to 4pm, it rained at a rate of 4 inches per hour.  From 4pm to 7pm, it rained at a rate of 3 inches per hour.  And from 7pm to 9pm, it rained at a rate of 0.5 inches per hour.  If the rain gauge started out the day already containing 2 inches of rainwater, how many inches of water will the gauge contain at 9pm?",
+  "steps": [
+    "First, I need to determine how many inches of rain fell between 2pm and 4pm.",
+    "From 2pm to 4pm is a duration of 2 hours.",
+    "The rate of rain during this period is 4 inches per hour.",
+    "Therefore, the total rainfall from 2pm to 4pm is 2 hours * 4 inches/hour = 8 inches.",
+    "Next, I will calculate the rainfall from 4pm to 7pm.",
+    "The duration from 4pm to 7pm is 3 hours.",
+    "The rate of rain during this period is 3 inches per hour.",
+    "Therefore, the total rainfall from 4pm to 7pm is 3 hours * 3 inches/hour = 9 inches.",
+    "Finally, I will calculate the rainfall from 7pm to 9pm.",
+    "The duration from 7pm to 9pm is 2 hours.",
+    "The rate of rain during this period is 0.5 inches per hour.",
+    "Therefore, the total rainfall from 7pm to 9pm is 2 hours * 0.5 inches/hour = 1 inch.",
+    "Now, I need to add up all the rainfall for the day.",
+    "The total rainfall is 8 inches (from 2pm to 4pm) + 9 inches (from 4pm to 7pm) + 1 inch (from 7pm to 9pm) = 18 inches.",
+    "The rain gauge started the day with 2 inches of water.",
+    "I add the initial 2 inches to the total rainfall of 18 inches to find the final amount in the gauge.",
+    "2 inches + 18 inches = 20 inches."
+  ],
+  "solution": "20"
+}

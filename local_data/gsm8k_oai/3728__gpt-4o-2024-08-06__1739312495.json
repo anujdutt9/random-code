@@ -1,0 +1,27 @@
+{
+  "query": "Marcus is making calzones. It takes him 20 minutes to saute the onions and a quarter of that time to saute the garlic and peppers. It takes him 30 minutes to knead the dough, twice as long to let it rest, and 1/10th the combined kneading and resting time to assemble the calzones. How many minutes does Marcus spend on the calzones total?",
+  "steps": [
+    "First, I will calculate the time it takes Marcus to saute the garlic and peppers.",
+    "It takes Marcus 20 minutes to saute the onions, and it takes a quarter of that time to saute the garlic and peppers.",
+    "A quarter of 20 minutes is 20 / 4 = 5 minutes.",
+    "Therefore, it takes Marcus 5 minutes to saute the garlic and peppers.",
+    "Now, I will calculate the total time spent sauteing.",
+    "Marcus spends 20 minutes on the onions and 5 minutes on the garlic and peppers.",
+    "The total time sauteing is 20 + 5 = 25 minutes.",
+    "Next, I will calculate the time it takes Marcus to let the dough rest.",
+    "It takes him 30 minutes to knead the dough.",
+    "It takes twice as long to let it rest, so it takes 30 * 2 = 60 minutes to let the dough rest.",
+    "Now, I will calculate the total time spent on kneading and resting the dough.",
+    "The kneading time is 30 minutes, and the resting time is 60 minutes.",
+    "The total time for kneading and resting is 30 + 60 = 90 minutes.",
+    "Next, I will calculate the time it takes to assemble the calzones.",
+    "It takes 1/10th the combined kneading and resting time to assemble the calzones.",
+    "The combined kneading and resting time is 90 minutes.",
+    "1/10th of 90 minutes is 90 / 10 = 9 minutes.",
+    "Therefore, it takes 9 minutes to assemble the calzones.",
+    "Finally, I will add up all the time spent on the calzones.",
+    "The total sauteing time is 25 minutes, the total kneading and resting time is 90 minutes, and the assembling time is 9 minutes.",
+    "Adding these together, the total time is 25 + 90 + 9 = 124 minutes."
+  ],
+  "solution": "124"
+}

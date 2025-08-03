@@ -1,0 +1,16 @@
+{
+  "query": "Alex makes luxury dresses out of silk. Each dress needs 5 meters of silk and Alex has 600 meters of silk in storage. His friends also want to learn how to make these dresses so Alex gives all 5 of them 20 meters of silk each. He uses the rest to make dresses himself. How many dresses can Alex make?",
+  "steps": [
+    "First, I need to determine how much silk Alex gives to his friends.",
+    "There are 5 friends, and each receives 20 meters of silk.",
+    "So, Alex gives a total of \\(5 \\times 20 = 100\\) meters of silk to his friends.",
+    "Next, I'll subtract the amount of silk given to the friends from the total amount Alex had initially.",
+    "Alex initially had 600 meters of silk. After giving 100 meters to his friends, he has \\(600 - 100 = 500\\) meters of silk left.",
+    "Now I need to determine how many dresses Alex can make with the remaining silk.",
+    "Each dress requires 5 meters of silk.",
+    "So, the number of dresses Alex can make is calculated by dividing the remaining silk by the amount needed per dress.",
+    "Alex has 500 meters of silk left, and each dress requires 5 meters.",
+    "Therefore, the number of dresses Alex can make is \\(500 \\div 5 = 100\\)."
+  ],
+  "solution": "100"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "John throws a block party and splits the cost with 3 other people.  They buy 100 pounds of burgers at $3 per pound.  They also buy $80 of condiments and propane to cook everything.  John also buys all the alcohol which costs $200. How much did John spend altogether",
+  "steps": [
+    "First, I need to calculate the cost of the burgers. They bought 100 pounds of burgers at $3 per pound.",
+    "To find the total cost of the burgers, I multiply 100 pounds by $3 per pound.",
+    "100 pounds * $3/pound = $300 is the total cost of the burgers.",
+    "Next, I add the cost of condiments and propane, which is $80.",
+    "Now, I calculate the total cost that needs to be split among John and the 3 other people. The split cost is the sum of the burgers and condiments/propane.",
+    "Burgers cost $300 and condiments/propane cost $80, so the total cost is $300 + $80 = $380.",
+    "They split this $380 cost equally between John and 3 others, so I have to divide $380 by 4.",
+    "$380 / 4 = $95. This is the amount John pays for his share of burgers and condiments/propane.",
+    "I also need to add the cost of alcohol, which John buys entirely himself. The cost of alcohol is $200.",
+    "To find out how much John spent altogether, I add his share of the groceries ($95) to the cost of alcohol ($200).",
+    "$95 + $200 = $295"
+  ],
+  "solution": "295"
+}

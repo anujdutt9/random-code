@@ -1,0 +1,17 @@
+{
+  "query": "Leo had 400 marbles in a jar. He packed the marbles with ten marbles in each pack, and he gave some of them to his two friends,  Manny and Neil.   He gave Manny 1/4 of the number of packs of marbles, Neil received 1/8 of the number of packs of marbles, and he kept the rest. How many packs of marbles did Leo keep?",
+  "steps": [
+    "First, I need to find out how many packs of marbles Leo has in total.",
+    "Leo has 400 marbles, and he puts 10 marbles in each pack.",
+    "To find the total number of packs, I divide the total number of marbles by the marbles per pack: 400 \u00f7 10 = 40 packs.",
+    "Leo gave Manny 1/4 of the packs, so I need to calculate 1/4 of 40.",
+    "1/4 of 40 packs is 40 \u00d7 1/4 = 10 packs given to Manny.",
+    "Leo gave Neil 1/8 of the packs, so I need to calculate 1/8 of 40.",
+    "1/8 of 40 packs is 40 \u00d7 1/8 = 5 packs given to Neil.",
+    "Now, I'll calculate the total number of packs given to both Manny and Neil.",
+    "Total packs given = packs given to Manny + packs given to Neil = 10 + 5 = 15 packs.",
+    "Now, I'll find out how many packs Leo kept by subtracting the packs given away from the total packs.",
+    "Packs Leo kept = total packs - packs given away = 40 - 15 = 25 packs."
+  ],
+  "solution": "25"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Peggy buys 3 folders, one each in the colors red, green, and blue.  She puts ten sheets of paper in each folder, and then, she puts star-shaped stickers on each sheet of paper.  In the red folder, each sheet of paper gets 3 stickers.  In the green folder, each sheet of paper gets 2 stickers, and in the blue folder, each sheet gets 1 sticker.  What is the total number of stickers Peggy uses?",
+  "steps": [
+    "Peggy buys 3 folders: red, green, and blue.",
+    "She puts ten sheets of paper in the red folder.",
+    "Each sheet of paper in the red folder gets 3 stickers.",
+    "Calculate the total number of stickers for the red folder: \\(10 \\text{ sheets} \\times 3 \\text{ stickers/sheet} = 30 \\text{ stickers}\\).",
+    "She puts ten sheets of paper in the green folder.",
+    "Each sheet of paper in the green folder gets 2 stickers.",
+    "Calculate the total number of stickers for the green folder: \\(10 \\text{ sheets} \\times 2 \\text{ stickers/sheet} = 20 \\text{ stickers}\\).",
+    "She puts ten sheets of paper in the blue folder.",
+    "Each sheet of paper in the blue folder gets 1 sticker.",
+    "Calculate the total number of stickers for the blue folder: \\(10 \\text{ sheets} \\times 1 \\text{ sticker/sheet} = 10 \\text{ stickers}\\).",
+    "Add up all the stickers for all folders: \\(30 \\text{ stickers} + 20 \\text{ stickers} + 10 \\text{ stickers} = 60 \\text{ stickers}\\)."
+  ],
+  "solution": "60"
+}

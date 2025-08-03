@@ -1,0 +1,14 @@
+{
+  "query": "Cathy and Chris got summer jobs at the cake shop and were supposed to work 20 hours per week each for 2 months. During that time, Chris got sick for one week and Cathy took her shifts. If there are four weeks in a month, how many hours did Cathy work during the 2 months?",
+  "steps": [
+    "Cathy was scheduled to work 20 hours per week.",
+    "There are 4 weeks in a month, so in one month Cathy works 20 hours/week * 4 weeks/month = 80 hours/month.",
+    "The job period is for 2 months.",
+    "Cathy would work normally for 2 months: 80 hours/month * 2 months = 160 hours.",
+    "Chris was also scheduled to work 20 hours per week.",
+    "Chris got sick for one week, meaning Cathy took Chris's shifts that week.",
+    "In the week Chris got sick, Cathy worked an additional 20 hours.",
+    "Add the additional hours Cathy worked for Chris: 160 hours (regular) + 20 hours (extra) = 180 hours."
+  ],
+  "solution": "180"
+}

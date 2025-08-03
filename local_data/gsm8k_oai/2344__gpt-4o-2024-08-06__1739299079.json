@@ -1,0 +1,13 @@
+{
+  "query": "Olivia's insurance premium starts out at $50/month. It goes up 10% for every accident and $5/month for every ticket. If she gets in one accident and gets 3 tickets, what's her new insurance premium?",
+  "steps": [
+    "Olivia's initial insurance premium is $50/month.",
+    "For one accident, the premium increases by 10% of $50.",
+    "10% of $50 is $5.",
+    "After the accident, the new premium becomes $50 + $5 = $55.",
+    "For each ticket, the premium goes up by $5/month.",
+    "Olivia receives 3 tickets, so the total increase due to tickets is 3 * $5 = $15.",
+    "After the tickets, the new premium is $55 (after accident) + $15 (for tickets) = $70."
+  ],
+  "solution": "70"
+}

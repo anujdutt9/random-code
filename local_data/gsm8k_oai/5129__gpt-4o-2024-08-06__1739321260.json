@@ -1,0 +1,23 @@
+{
+  "query": "Karlee has 100 grapes and 3/5 as many strawberries as grapes. Giana and Ansley, two of her friends, come visiting, and she gives each of them 1/5 of each fruit. How many fruits is Karlee left with in total?",
+  "steps": [
+    "First, I need to determine how many strawberries Karlee has.",
+    "Karlee has 3/5 as many strawberries as grapes. She has 100 grapes.",
+    "I calculate the number of strawberries: 3/5 of 100 is (3/5) * 100 = 60.",
+    "Now, I know Karlee has 100 grapes and 60 strawberries.",
+    "I should calculate how many grapes Karlee gives to Giana and Ansley.",
+    "Karlee gives 1/5 of her grapes to each Giana and Ansley.",
+    "1/5 of 100 grapes is 20 grapes per person.",
+    "Since there are two people, Karlee gives a total of 2 * 20 = 40 grapes.",
+    "Now, I calculate how many strawberries Karlee gives to Giana and Ansley.",
+    "Karlee gives 1/5 of her strawberries to each of them.",
+    "1/5 of 60 strawberries is 12 strawberries per person.",
+    "Since there are two people, Karlee gives a total of 2 * 12 = 24 strawberries.",
+    "Now I need to calculate how many fruits Karlee is left with.",
+    "Initially, Karlee had 100 grapes and 60 strawberries which totals to 160 fruits.",
+    "Karlee gave away 40 grapes and 24 strawberries which totals to 64 fruits.",
+    "To find out how many fruits Karlee is left with, I subtract the fruits given away from the initial total.",
+    "160 fruits - 64 fruits = 96 fruits remaining."
+  ],
+  "solution": "96"
+}

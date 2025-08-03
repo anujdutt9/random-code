@@ -1,0 +1,24 @@
+{
+  "query": "John paints a giant mural that is 6m by 3m. The paint costs $4 per square meter. The artist can paint 1.5 square meters per hour and charges $10 per hour. How much does the mural cost?",
+  "steps": [
+    "First, I need to calculate the area of the mural.",
+    "The mural is 6 meters by 3 meters.",
+    "Area is calculated by multiplying the length and the width: 6m * 3m.",
+    "The area of the mural is 18 square meters.",
+    "Next, calculate the cost of the paint. The paint costs $4 per square meter.",
+    "Multiply the area (18 square meters) by the cost per square meter ($4): 18 * 4.",
+    "The paint costs $72.",
+    "Now, calculate the time it takes for John to paint the mural.",
+    "John can paint 1.5 square meters per hour.",
+    "Divide the total area (18 square meters) by the painting rate (1.5 square meters per hour): 18 / 1.5.",
+    "It takes John 12 hours to paint the mural.",
+    "Next, calculate the labor cost. John charges $10 per hour.",
+    "Multiply the number of hours (12) by the hourly rate ($10): 12 * 10.",
+    "The labor costs $120.",
+    "Finally, add the paint cost and the labor cost to find the total cost of the mural.",
+    "Paint cost is $72 and labor cost is $120.",
+    "Add these together: $72 + $120.",
+    "The total cost of the mural is $192."
+  ],
+  "solution": "192"
+}

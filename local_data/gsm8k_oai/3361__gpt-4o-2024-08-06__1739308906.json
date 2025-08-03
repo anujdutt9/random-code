@@ -1,0 +1,16 @@
+{
+  "query": "Agnes is 25 years old and her daughter, Jane is 6 years old. In how many years will Agnes be twice as old as Jane?",
+  "steps": [
+    "Agnes is currently 25 years old.",
+    "Jane is currently 6 years old.",
+    "We need to find the number of years, let's call it \"x,\" after which Agnes will be twice as old as Jane.",
+    "In \"x\" years, Agnes will be 25 + x years old.",
+    "In \"x\" years, Jane will be 6 + x years old.",
+    "We need the equation 25 + x = 2 * (6 + x) to hold true, which represents Agnes being twice as old as Jane in \"x\" years.",
+    "Expand and simplify the equation: 25 + x = 12 + 2x.",
+    "Rearrange the equation to isolate \"x\": 25 - 12 = 2x - x.",
+    "The equation simplifies to: 13 = x.",
+    "So, in 13 years, Agnes will be twice as old as Jane."
+  ],
+  "solution": "13"
+}

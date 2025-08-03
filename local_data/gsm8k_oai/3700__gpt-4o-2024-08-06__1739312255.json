@@ -1,0 +1,17 @@
+{
+  "query": "There are three machines in a factory. Machine A can put caps on 12 bottles in 1 minute. Machine B can put caps to 2 fewer bottles than Machine A. Machine C can put caps to 5 more bottles than Machine B. How many bottles can those three machines put caps on in 10 minutes?",
+  "steps": [
+    "First, I need to determine how many bottles each machine can cap in 1 minute.",
+    "Machine A can cap 12 bottles in 1 minute.",
+    "Machine B caps 2 fewer bottles than Machine A, so Machine B caps 12 - 2 = 10 bottles in 1 minute.",
+    "Machine C caps 5 more bottles than Machine B, so Machine C caps 10 + 5 = 15 bottles in 1 minute.",
+    "Next, I calculate how many bottles each machine can cap in 10 minutes.",
+    "Machine A caps 12 bottles per minute, so in 10 minutes, it caps 12 \u00d7 10 = 120 bottles.",
+    "Machine B caps 10 bottles per minute, so in 10 minutes, it caps 10 \u00d7 10 = 100 bottles.",
+    "Machine C caps 15 bottles per minute, so in 10 minutes, it caps 15 \u00d7 10 = 150 bottles.",
+    "Finally, I sum the number of bottles capped by all three machines in 10 minutes.",
+    "Total bottles capped by all machines in 10 minutes = 120 + 100 + 150.",
+    "Adding these gives 370 bottles."
+  ],
+  "solution": "370"
+}

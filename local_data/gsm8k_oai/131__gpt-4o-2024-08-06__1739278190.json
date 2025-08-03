@@ -1,0 +1,20 @@
+{
+  "query": "Studying for her test, Mitchell had read ten chapters of a book before 4 o'clock. When it clocked 4, Mitchell had read 20 pages of the 11th chapter of the book she was studying from. After 4 o'clock, she didn't read the remaining pages of chapter eleven but proceeded and read 2 more chapters of the book. If each chapter in the book had 40 pages, calculate the total number of pages that Mitchell had read altogether?",
+  "steps": [
+    "First, determine how many chapters Mitchell read before 4 o'clock.",
+    "Mitchell read ten chapters before 4 o'clock.",
+    "Determine how many pages there are in ten chapters.",
+    "Each chapter has 40 pages, so ten chapters would be 10 * 40 = 400 pages.",
+    "Identify how many pages she read in the 11th chapter.",
+    "She read 20 pages of the 11th chapter.",
+    "Now calculate the total pages read from chapters 1 to 11.",
+    "From chapters 1 to 10, she read 400 pages. She read an additional 20 pages from chapter 11, totaling 400 + 20 = 420 pages.",
+    "Determine how many additional chapters she read after 4 o'clock.",
+    "After 4 o'clock, she read 2 more chapters.",
+    "Calculate how many pages are in these 2 additional chapters.",
+    "Each of these chapters also contains 40 pages, so for 2 chapters: 2 * 40 = 80 pages.",
+    "Add these 80 pages to the pages she had read from chapters 1 to 11.",
+    "Add 80 pages to the 420 pages she had already read, resulting in 420 + 80 = 500 pages."
+  ],
+  "solution": "500"
+}

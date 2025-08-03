@@ -1,0 +1,18 @@
+{
+  "query": "There are 3 consecutive odd integers that have a sum of -147. What is the largest number?",
+  "steps": [
+    "Let's define the three consecutive odd integers. I'll call the first integer \\( x \\).",
+    "The next consecutive odd integer would be \\( x + 2 \\).",
+    "The third consecutive odd integer would be \\( x + 4 \\).",
+    "Now, let's set up the equation for the sum of these three integers: \\( x + (x + 2) + (x + 4) = -147 \\).",
+    "Simplify the left side of the equation: \\( 3x + 6 = -147 \\).",
+    "To isolate the term with \\( x \\), subtract 6 from both sides: \\( 3x = -147 - 6 \\).",
+    "Calculate the right side: \\( 3x = -153 \\).",
+    "Now, divide both sides by 3 to find \\( x \\): \\( x = -153 / 3 \\).",
+    "Perform the division: \\( x = -51 \\).",
+    "Now we have the first integer, \\( x = -51 \\).",
+    "Calculate the largest number by finding the last integer: \\( x + 4 \\).",
+    "Substitute \\( x = -51 \\): \\(-51 + 4 = -47\\)."
+  ],
+  "solution": "-47"
+}

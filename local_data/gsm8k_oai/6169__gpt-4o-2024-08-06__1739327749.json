@@ -1,0 +1,19 @@
+{
+  "query": "Tomas is hoping to run a marathon next year, which is 26.3 miles. He knows that each month he trains, he can run twice as far as the month before. If he can run 3 miles during the first month of training, how many total months before the marathon should he start training to ensure he can run far enough?",
+  "steps": [
+    "I know Tomas starts running 3 miles in the first month.",
+    "Each month, Tomas can run twice the distance he ran in the previous month.",
+    "I need to find when the distance he can run equals or exceeds 26.3 miles.",
+    "I'll calculate how many miles Tomas can run each month:",
+    "Month 1: Tomas runs 3 miles.",
+    "Month 2: Tomas runs 3 * 2 = 6 miles.",
+    "Month 3: Tomas runs 6 * 2 = 12 miles.",
+    "Month 4: Tomas runs 12 * 2 = 24 miles.",
+    "Month 5: Tomas runs 24 * 2 = 48 miles.",
+    "I now need to verify if 48 miles in Month 5 is the first month he can run at least 26.3 miles.",
+    "In Month 4, Tomas runs 24 miles, which is less than 26.3 miles.",
+    "In Month 5, Tomas runs 48 miles, which is more than 26.3 miles.",
+    "Therefore, Tomas should start training 5 months before the marathon."
+  ],
+  "solution": "5"
+}

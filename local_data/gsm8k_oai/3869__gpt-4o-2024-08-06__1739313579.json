@@ -1,0 +1,15 @@
+{
+  "query": "Tom hasn't been sleeping well lately. He figures he has been getting about 5 hours of sleep each weeknight and 6 hours each night on the weekend. If Tom would ideally like to get 8 hours of sleep each night on both weeknights and weekends, how many hours of sleep is Tom behind on from the last week?",
+  "steps": [
+    "Firstly, I will calculate how much sleep Tom would ideally get during a regular week.",
+    "Tom wants to get 8 hours of sleep each night.",
+    "A week has 7 days, so ideally, Tom wants to get 8 hours per night * 7 nights = 56 hours of sleep in one week.",
+    "Next, I will calculate how much sleep Tom actually got last week.",
+    "There are 5 weeknights where Tom got 5 hours of sleep each, so 5 nights * 5 hours = 25 hours of sleep during the weekdays.",
+    "There are 2 weekend nights where Tom got 6 hours of sleep each, so 2 nights * 6 hours = 12 hours of sleep during the weekend.",
+    "In total, Tom actually got 25 hours (weekdays) + 12 hours (weekends) = 37 hours of sleep last week.",
+    "Finally, I will determine how many hours he is behind by subtracting the actual sleep hours from the ideal sleep hours.",
+    "56 hours (ideal) - 37 hours (actual) = 19 hours."
+  ],
+  "solution": "19"
+}

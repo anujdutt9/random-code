@@ -1,0 +1,14 @@
+{
+  "query": "A restaurant is counting their sales for the day. They sold 10 meals at $8 each, 5 meals at $10 each, and 20 meals at $4 each. In dollars, how much money did the restaurant make throughout the day?",
+  "steps": [
+    "First, I need to calculate the sales from the 10 meals priced at $8 each.",
+    "Multiply the number of meals by the price: 10 meals * $8/meal = $80.",
+    "Now, I need to calculate the sales from the 5 meals priced at $10 each.",
+    "Multiply the number of meals by the price: 5 meals * $10/meal = $50.",
+    "Next, I calculate the sales from the 20 meals priced at $4 each.",
+    "Multiply the number of meals by the price: 20 meals * $4/meal = $80.",
+    "Now, I need to add up all the sales to find the total revenue for the day.",
+    "Sum the sales amounts: $80 + $50 + $80 = $210."
+  ],
+  "solution": "210"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Henry, John and Leo collected some seashells from the beach. Henry collected 11, Paul 24. If they initially collected 59 seashells in total and Leo gave a quarter of his collection to a younger kid they met, how many do they have in total now?",
+  "steps": [
+    "First, I need to determine how many seashells Leo initially collected.",
+    "The total number of seashells collected by Henry, John, and Leo is 59.",
+    "Henry collected 11 seashells.",
+    "John (Paul in the question seems to be the intended reference here; assuming it's the same person as John) collected 24 seashells.",
+    "To find how many seashells Leo collected, I need to subtract the number collected by Henry and John from the total number collected.",
+    "The total number collected by Henry and John together is 11 + 24 = 35.",
+    "So, the number of seashells Leo collected initially is 59 - 35 = 24.",
+    "It is stated that Leo gave a quarter of his collection to a younger kid.",
+    "A quarter of Leo's initial collection is 24 \u00f7 4 = 6.",
+    "Now, to find out how many seashells they have in total after Leo gave away some, I need to subtract the seashells Leo gave away from the initial total of 59 seashells.",
+    "The number of seashells remaining with the group is 59 - 6 = 53."
+  ],
+  "solution": "53"
+}

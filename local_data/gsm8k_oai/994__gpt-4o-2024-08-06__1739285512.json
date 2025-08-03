@@ -1,0 +1,18 @@
+{
+  "query": "Dean ordered 2 large pizzas that were each cut into 12 slices.  His friends Frank and Sammy came over to enjoy some pizza and watch a movie.  Dean was hungry and ate half of the Hawaiian pizza.  Frank only ate 3 slices of Hawaiian pizza and Sammy ate a third of the cheese pizza.  How many total slices were left over?",
+  "steps": [
+    "First, I need to determine how many slices were there in total initially from both pizzas.",
+    "Each large pizza is cut into 12 slices.",
+    "Dean ordered 2 pizzas, so 2 pizzas \u00d7 12 slices per pizza = 24 slices in total.",
+    "Next, I'll follow up on how many slices were eaten by Dean, Frank, and Sammy from each pizza.",
+    "Dean ate half of the Hawaiian pizza. Half of 12 slices is 12/2 = 6 slices.",
+    "Frank ate 3 slices of Hawaiian pizza.",
+    "Sammy ate a third of the cheese pizza. A third of 12 slices is 12/3 = 4 slices.",
+    "Now I will add up all the slices that were eaten.",
+    "Dean ate 6, Frank ate 3, and Sammy ate 4.",
+    "Total slices eaten = 6 + 3 + 4 = 13 slices.",
+    "Finally, I will subtract the total slices eaten from the initial total number of slices to find how many slices are left.",
+    "24 total slices - 13 eaten slices = 11 slices left over."
+  ],
+  "solution": "11"
+}

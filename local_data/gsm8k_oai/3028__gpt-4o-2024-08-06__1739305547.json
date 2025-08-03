@@ -1,0 +1,13 @@
+{
+  "query": "There are 20 sandcastles on Mark's beach, each with 10 towers. On Jeff's beach, there are three times as many castles as on Mark's beach, each with 5 towers. What is the combined total number of sandcastles and towers on Mark's and Jeff's beaches?",
+  "steps": [
+    "Start with determining the number of sandcastles on Mark's beach. There are 20 sandcastles.",
+    "Each sandcastle on Mark's beach has 10 towers. To find the total number of towers on Mark's beach, multiply the number of sandcastles by number of towers: 20 sandcastles * 10 towers per castle = 200 towers.",
+    "Next, calculate the number of sandcastles on Jeff's beach. Jeff has three times as many castles as Mark, so 20 sandcastles * 3 = 60 sandcastles.",
+    "Now determine the number of towers on Jeff's beach. Each of Jeff\u2019s sandcastles has 5 towers, so 60 sandcastles * 5 towers = 300 towers.",
+    "Now, calculate the total number of sandcastles on both beaches. Mark's 20 sandcastles + Jeff's 60 sandcastles = 80 sandcastles.",
+    "Calculate the total number of towers on both beaches. Mark's 200 towers + Jeff's 300 towers = 500 towers.",
+    "Combine the total number of sandcastles and towers. 80 sandcastles + 500 towers = 580."
+  ],
+  "solution": "580"
+}

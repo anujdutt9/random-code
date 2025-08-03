@@ -1,0 +1,20 @@
+{
+  "query": "Raj's house has an area equal to 1,110 square feet. It has 4 bedrooms that each measure 11 x 11 feet. There are 2 bathrooms that are 6 x 8 feet each. The kitchen and living area complete the home and they have the same sized area. How many square feet is the area of the kitchen?",
+  "steps": [
+    "First, calculate the area of one bedroom. The area of one bedroom is 11 feet by 11 feet.",
+    "11 times 11 equals 121 square feet for one bedroom.",
+    "There are 4 bedrooms. Multiply the area of one bedroom by 4.",
+    "121 square feet times 4 equals 484 square feet for all bedrooms combined.",
+    "Next, calculate the area of one bathroom. The area of one bathroom is 6 feet by 8 feet.",
+    "6 times 8 equals 48 square feet for one bathroom.",
+    "There are 2 bathrooms. Multiply the area of one bathroom by 2.",
+    "48 square feet times 2 equals 96 square feet for both bathrooms combined.",
+    "Now, add the total area of the bedrooms and the bathrooms to determine the combined area of these rooms.",
+    "484 square feet plus 96 square feet equals 580 square feet for the bedrooms and bathrooms combined.",
+    "Subtract the combined area of the bedrooms and bathrooms from the total area of the house to find the combined area of the kitchen and living area.",
+    "1,110 square feet minus 580 square feet equals 530 square feet for the kitchen and living area combined.",
+    "The kitchen and living area have the same size. Divide the combined area by 2 to find the area of the kitchen.",
+    "530 square feet divided by 2 equals 265 square feet for the kitchen."
+  ],
+  "solution": "265"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "A class is 40% boys. The rest are girls. Every boy in class gets an 80% on the math test. Every girl gets a 90%. What is the class average on the test?",
+  "steps": [
+    "First, I need to determine the percentage of the class that is girls. Since 40% are boys, the rest, which is 60%, must be girls.",
+    "Next, I need to figure out what each group scores. Boys score an 80% on the test.",
+    "Girls score a 90% on the test.",
+    "To find the class average, I weigh each group's score by the percentage of the class they represent.",
+    "I multiply the boys' average score by the percentage of boys in the class: 80% * 40% = 32%.",
+    "I then multiply the girls' average score by the percentage of girls in the class: 90% * 60% = 54%.",
+    "To find the overall class average, I add these two results together: 32% + 54% = 86%."
+  ],
+  "solution": "86"
+}

@@ -1,0 +1,25 @@
+{
+  "query": "Sam has 19 dimes and 6 quarters. She buys 4 candy bars for 3 dimes each and 1 lollipop for 1 quarter. How much money, in cents, does she have left?",
+  "steps": [
+    "First, I need to find out how much money Sam has in dimes and quarters.",
+    "Each dime is worth 10 cents.",
+    "Sam has 19 dimes.",
+    "So, 19 dimes is 19 * 10 = 190 cents.",
+    "Next, each quarter is worth 25 cents.",
+    "Sam has 6 quarters.",
+    "So, 6 quarters is 6 * 25 = 150 cents.",
+    "Now, I'll add the total amount of money Sam has from dimes and quarters.",
+    "190 cents (from dimes) + 150 cents (from quarters) = 340 cents.",
+    "Next, let's find out how much money Sam spends.",
+    "Sam buys 4 candy bars, and each costs 3 dimes.",
+    "3 dimes are equivalent to 3 * 10 = 30 cents for one candy bar.",
+    "So, 4 candy bars will cost 4 * 30 = 120 cents.",
+    "Sam also buys 1 lollipop for 1 quarter.",
+    "1 quarter is equivalent to 25 cents.",
+    "Now, let's find out the total money spent.",
+    "120 cents (for candy bars) + 25 cents (for lollipop) = 145 cents.",
+    "I'll subtract the total spent from the total amount Sam originally had.",
+    "340 cents (total Sam had) - 145 cents (spent) = 195 cents."
+  ],
+  "solution": "195"
+}

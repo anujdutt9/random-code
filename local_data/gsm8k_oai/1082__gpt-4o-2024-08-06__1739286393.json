@@ -1,0 +1,14 @@
+{
+  "query": "Alfred is storing a tonne of maize each month for the next 2 years.  If 5 tonnes are stolen and 8 tonnes are given to him as a donation, how many tonnes of maize does he have at the end of the 2 years.",
+  "steps": [
+    "First, I need to calculate the total number of months in 2 years.",
+    "There are 12 months in a year, so in 2 years, there are 12 * 2 = 24 months.",
+    "Alfred stores 1 tonne of maize each month.",
+    "He stores 1 tonne per month for 24 months, so he stores 24 tonnes in total.",
+    "5 tonnes are stolen from him.",
+    "I subtract the stolen tonnes from the stored tonnes: 24 - 5 = 19 tonnes.",
+    "He receives 8 tonnes as a donation.",
+    "I add the donated tonnes to what he has left: 19 + 8 = 27 tonnes."
+  ],
+  "solution": "27"
+}

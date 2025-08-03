@@ -1,0 +1,12 @@
+{
+  "query": "Tommy has a flag that is 5 feet wide and 4 feet tall. He wants to paint it with a new design. He knows from experience that he needs to paint both sides. Paint costs $2 a quart and a quart is good for 4 square feet. How much does he spend on paint?",
+  "steps": [
+    "First, calculate the area of one side of the flag. The flag is 5 feet wide and 4 feet tall.",
+    "To find the area, multiply the width by the height: 5 feet * 4 feet = 20 square feet.",
+    "Tommy needs to paint both sides of the flag. So, multiply the area of one side by 2: 20 square feet * 2 = 40 square feet.",
+    "Next, determine how many quarts of paint are needed for 40 square feet. One quart covers 4 square feet.",
+    "Divide the total area by the coverage per quart: 40 square feet / 4 square feet per quart = 10 quarts.",
+    "Paint costs $2 per quart. Multiply the number of quarts by the cost per quart: 10 quarts * $2 per quart = $20."
+  ],
+  "solution": "20"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Every year in January, Natalia, the librarian, tidies up the books. She has 145 novels, 271 comics, 419 documentaries, and 209 albums to store. She wants to put these in crates that can hold 9 items. How many crates will Natalia use?",
+  "steps": [
+    "First, I need to find the total number of items Natalia has.",
+    "Natalia has 145 novels.",
+    "She also has 271 comics.",
+    "She has 419 documentaries.",
+    "Finally, she has 209 albums.",
+    "Now, let's add these numbers together to find the total number of items.",
+    "145 + 271 = 416",
+    "416 + 419 = 835",
+    "835 + 209 = 1044",
+    "Natalia has a total of 1044 items.",
+    "Next, I need to determine how many crates are needed to store these 1044 items, where each crate holds 9 items.",
+    "To find this, I will divide 1044 by 9.",
+    "1044 \u00f7 9 = 116, remainder 0",
+    "116 crates would exactly fit all the items since there's no remainder."
+  ],
+  "solution": "116"
+}

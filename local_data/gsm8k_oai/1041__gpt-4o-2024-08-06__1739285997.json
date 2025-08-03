@@ -1,0 +1,16 @@
+{
+  "query": "A clinic administered the covid vaccine to 650 people. 80% of the people were adults. How many of the vaccinated people were children?",
+  "steps": [
+    "The total number of people vaccinated at the clinic is 650.",
+    "Out of these 650 people, 80% were adults.",
+    "To find the number of adults, I need to calculate 80% of 650.",
+    "80% as a decimal is 0.80.",
+    "Calculating 0.80 * 650 will give me the number of adults.",
+    "0.80 * 650 = 520.",
+    "There were 520 adults vaccinated.",
+    "To find the number of vaccinated children, I need to subtract the number of adults from the total number of people.",
+    "650 - 520 = 130.",
+    "There were 130 children vaccinated."
+  ],
+  "solution": "130"
+}

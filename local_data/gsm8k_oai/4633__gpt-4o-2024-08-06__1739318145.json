@@ -1,0 +1,18 @@
+{
+  "query": "Toby is dining out with his friend. They each order a cheeseburger for $3.65. He gets a milkshake for $2 and his friend gets a coke for $1. They split a large fries that cost $4. His friend also gets three cookies that cost $.5 each. The tax is $.2. They agree to split the bill. If Toby arrived with $15, how much change is he bringing home?",
+  "steps": [
+    "First, I need to determine the total cost for each person.",
+    "Toby's total: cheeseburger ($3.65) + milkshake ($2) = $5.65",
+    "Toby's friend's total: cheeseburger ($3.65) + coke ($1) = $4.65",
+    "They split the fries, so each pays $4 / 2 = $2",
+    "Toby's new total with his half of the fries: $5.65 + $2 = $7.65",
+    "Toby's friend's total with their half of the fries: $4.65 + $2 = $6.65",
+    "Toby's friend ordered three cookies at $.5 each: 3 * $0.5 = $1.5",
+    "Toby's friend's total including cookies: $6.65 + $1.5 = $8.15",
+    "Now I need to calculate the total cost together, excluding tax: $7.65 (Toby's) + $8.15 (friend's) = $15.80",
+    "Add tax to the total amount: $15.80 + $0.2 = $16",
+    "They are splitting the bill, so Toby pays $16 / 2 = $8",
+    "Toby arrived with $15, so subtract what he has to pay: $15 - $8 = $7"
+  ],
+  "solution": "7"
+}

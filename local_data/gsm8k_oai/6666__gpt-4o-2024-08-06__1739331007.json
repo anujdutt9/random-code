@@ -1,0 +1,18 @@
+{
+  "query": "David is taking a data analytics course that lasts for 24 weeks. The course consists of 2 three-hour classes and 1 four-hour class each week. In addition, David must spend 4 hours each week working on small group homework assignments. How many hours will he spend on this course?",
+  "steps": [
+    "First, I need to determine the total number of classes David attends each week. He attends three classes weekly: 2 three-hour classes and 1 four-hour class.",
+    "Next, I'll calculate the number of hours spent in the three-hour classes each week. There are 2 classes each lasting 3 hours.",
+    "2 classes x 3 hours per class = 6 hours spent in three-hour classes each week.",
+    "Then, I'll calculate the number of hours spent in the four-hour class each week.",
+    "1 class x 4 hours per class = 4 hours spent in the four-hour class each week.",
+    "Now, I'll add the hours spent in all classes each week: 6 hours (three-hour classes) + 4 hours (four-hour class).",
+    "6 + 4 = 10 hours spent in classes each week.",
+    "David also spends 4 hours each week on homework assignments.",
+    "To find the total hours spent weekly on the course, I'll add the class hours and homework hours.",
+    "10 hours (classes) + 4 hours (homework) = 14 hours each week.",
+    "The course lasts for 24 weeks, so I'll calculate the total hours over the entire course duration.",
+    "14 hours/week * 24 weeks = 336 hours."
+  ],
+  "solution": "336"
+}

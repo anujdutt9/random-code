@@ -1,0 +1,15 @@
+{
+  "query": "After tests in California, the total number of Coronavirus cases was recorded as 2000 positive cases on a particular day. The number of cases increased by 500 on the second day, with 50 recoveries. On the third day, the total number of new cases spiked to 1500 with 200 recoveries. What's the total number of positive cases after the third day?",
+  "steps": [
+    "Initially, the total number of positive cases was 2000 on the first day.",
+    "On the second day, there were 500 new positive cases.",
+    "I add the new cases from the second day to the initial total: 2000 + 500 = 2500.",
+    "There were 50 recoveries on the second day.",
+    "I subtract the recoveries from the total cases on the second day: 2500 - 50 = 2450.",
+    "On the third day, there were 1500 new positive cases.",
+    "I add the new cases from the third day to the total after the second day: 2450 + 1500 = 3950.",
+    "There were 200 recoveries on the third day.",
+    "I subtract the recoveries from the total cases on the third day: 3950 - 200 = 3750."
+  ],
+  "solution": "3750"
+}

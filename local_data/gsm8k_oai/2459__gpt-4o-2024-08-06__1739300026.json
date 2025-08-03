@@ -1,0 +1,18 @@
+{
+  "query": "There are 3 workers producing chairs in a furniture factory. Each of them produces 4 chairs an hour. As a group, they produce an additional chair every 6 hours. In total, how many chairs have been produced after 6 hours?",
+  "steps": [
+    "First, I need to determine how many chairs each worker produces in one hour.",
+    "Each worker produces 4 chairs an hour.",
+    "There are 3 workers.",
+    "In one hour, together they produce 4 chairs/worker * 3 workers = 12 chairs.",
+    "Now, I need to calculate how many chairs they produce in 6 hours.",
+    "In one hour, they produce 12 chairs.",
+    "In 6 hours, they would produce 12 chairs/hour * 6 hours = 72 chairs.",
+    "I need to add the additional chair produced as a group.",
+    "The workers together produce an additional chair every 6 hours.",
+    "After 6 hours, they produce 1 additional chair.",
+    "I add the additional chair to the total number of chairs produced.",
+    "72 chairs + 1 additional chair = 73 chairs."
+  ],
+  "solution": "73"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "The temperature in New York in June 2020 was 80 degrees. If the temperature in Miami on this day was 10 degrees hotter than the temperature in New York, and 25 degrees cooler than the temperature in San Diego, what was the average temperature for the three cities?",
+  "steps": [
+    "The temperature in New York in June 2020 was 80 degrees.",
+    "The temperature in Miami was 10 degrees hotter than in New York.",
+    "So, the temperature in Miami was 80 + 10 = 90 degrees.",
+    "The temperature in Miami was also 25 degrees cooler than the temperature in San Diego.",
+    "Thus, the temperature in San Diego was 90 + 25 = 115 degrees.",
+    "Now, I have the temperatures for all three cities: New York (80 degrees), Miami (90 degrees), and San Diego (115 degrees).",
+    "To find the average temperature for the three cities, I need to add the temperatures together and then divide by the number of cities (which is 3).",
+    "The sum of the temperatures is 80 + 90 + 115 = 285 degrees.",
+    "Dividing the total by 3 gives the average temperature: 285 / 3 = 95 degrees."
+  ],
+  "solution": "95"
+}

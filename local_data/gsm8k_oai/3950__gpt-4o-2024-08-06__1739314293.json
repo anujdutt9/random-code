@@ -1,0 +1,15 @@
+{
+  "query": "A rival football team has won twice as many matches as the home team they will be playing did. If records show that the home team has won three matches, and each team drew four matches and lost none, how many matches have both teams played in total?",
+  "steps": [
+    "The problem states that the rival team has won twice as many matches as the home team.",
+    "The home team has won 3 matches.",
+    "Since the rival team won twice as many, they won 2 * 3 = 6 matches.",
+    "Both teams drew 4 matches each.",
+    "The problem states that they lost no matches.",
+    "Therefore, the total number of matches played by the home team is their wins plus their draws, which is 3 + 4 = 7 matches.",
+    "Similarly, the total number of matches played by the rival team is their wins plus their draws, which is 6 + 4 = 10 matches.",
+    "Finally, add the matches played by both teams together: 7 (home team) + 10 (rival team).",
+    "The total number of matches played by both teams is 17."
+  ],
+  "solution": "17"
+}

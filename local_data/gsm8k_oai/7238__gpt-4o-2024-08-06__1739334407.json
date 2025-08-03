@@ -1,0 +1,17 @@
+{
+  "query": "A man loves to go hiking.  He knows that he has to pack about .5 pounds of supplies for every mile he hikes.  He plans to go for a very long hike.  He knows that he can get 1 resupply during the hike that will be 25% as large as his first pack.  He can hike at a rate of 2.5 mph.  He is going to hike 8 hours a day for 5 days.  How much does he need to bring with his first pack?",
+  "steps": [
+    "First, we need to determine how many miles he will hike each day. He hikes at a rate of 2.5 mph.",
+    "He plans to hike for 8 hours each day.",
+    "To find the daily hiking distance, multiply the hiking rate by the hours per day: 2.5 mph * 8 hours = 20 miles per day.",
+    "Next, calculate the total distance he will hike over 5 days by multiplying the daily distance by the number of days: 20 miles/day * 5 days = 100 miles.",
+    "The man needs to carry 0.5 pounds of supplies per mile initially. Therefore, for 100 miles, he needs 0.5 pounds/mile * 100 miles = 50 pounds of supplies.",
+    "He knows that he will receive a resupply that will be 25% as large as the first pack. Thus, the resupply amount is 25% of the initial supplies, which is 0.25 * initial pack weight.",
+    "Let's denote the initial pack weight as x. The resupply amount is 0.25x.",
+    "He must have enough supplies to cover 100 miles total. We account for both his initial packing and the resupply: x (initial pack) + 0.25x (resupply) = 50 pounds.",
+    "Combine terms: 1x + 0.25x = 1.25x = 50 pounds.",
+    "Solve for x by dividing both sides by 1.25: x = 50 / 1.25",
+    "Calculate: 50 / 1.25 = 40."
+  ],
+  "solution": "40"
+}

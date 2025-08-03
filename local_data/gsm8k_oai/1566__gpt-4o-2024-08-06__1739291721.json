@@ -1,0 +1,13 @@
+{
+  "query": "Two apartment roommates split the rent, utilities, and grocery payments equally each month. The rent for the whole apartment is $1100 and utilities are $114. If one roommate pays $757 in all, how many dollars are groceries for the whole apartment?",
+  "steps": [
+    "First, I need to figure out how much each roommate is responsible for regarding the total cost of rent and utilities.",
+    "The total rent is $1100. Since the rent is split equally, each roommate pays 1100 / 2 = $550.",
+    "Now, I calculate the amount each roommate pays for utilities. The total for utilities is $114, so each pays 114 / 2 = $57.",
+    "Adding these two amounts gives the total amount each roommate should pay for rent and utilities combined: $550 (rent) + $57 (utilities) = $607.",
+    "I know one roommate pays $757 in total.",
+    "To find out how much that roommate is paying for groceries, I subtract the amount paid for rent and utilities from the amount paid in total: $757 - $607 = $150.",
+    "Since groceries are split equally, the $150 this roommate pays represents their half of the grocery cost. Therefore, the total grocery cost is 150 * 2 = $300."
+  ],
+  "solution": "300"
+}

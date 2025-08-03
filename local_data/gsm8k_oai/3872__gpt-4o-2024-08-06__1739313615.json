@@ -1,0 +1,23 @@
+{
+  "query": "Lola plays basketball on her school team. Her team scored twice at many points at their last home game than their first away game. At the second away game, they scored eighteen points more than the previous away game. At the third away game, they scored two more points than at their second. If Lola\u2019s team scored 62 points at their last home game, how many points do they have to score in their next game to bring their cumulative points up to four times the score from their last home game?",
+  "steps": [
+    "First, I need to determine how many points they scored in their first away game.",
+    "I know the team scored twice as many points at their last home game as in their first away game.",
+    "The team's last home game score was 62 points.",
+    "Therefore, the first away game score is 62 / 2 = 31 points.",
+    "Next, I need to find out how many points they scored in the second away game.",
+    "The score for the second away game is 18 points more than the first away game.",
+    "Thus, the second away game score is 31 + 18 = 49 points.",
+    "Now, I find out the score for the third away game.",
+    "The score for the third away game is 2 points more than the second away game.",
+    "Therefore, the third away game score is 49 + 2 = 51 points.",
+    "Now, I calculate the total cumulative points scored in these games.",
+    "The total cumulative points are 62 (last home game) + 31 (first away game) + 49 (second away game) + 51 (third away game).",
+    "This gives a total of 62 + 31 + 49 + 51 = 193 points.",
+    "The goal is for the cumulative points to be four times the score of their last home game.",
+    "Four times the last home game score is 4 * 62 = 248 points.",
+    "I subtract the current cumulative total (193) from the target cumulative total (248) to find out how many points they need to score in their next game.",
+    "248 - 193 = 55 points."
+  ],
+  "solution": "55"
+}

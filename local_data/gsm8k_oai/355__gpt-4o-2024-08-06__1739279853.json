@@ -1,0 +1,14 @@
+{
+  "query": "Marla has a grid of squares that has 10 rows and 15 squares in each row. She colors 4 rows of 6 squares in the middle of the grid with red. She colors all squares on the first 2 and last 2 rows with blue. Then she colors the rest with green. How many squares does Marla color green?",
+  "steps": [
+    "The total number of squares in the grid is the number of rows multiplied by the number of squares in each row.",
+    "There are 10 rows and 15 squares in each row, so the total number of squares is 10 * 15 = 150.",
+    "Next, I need to calculate the number of squares that are colored red. Marla colors 4 rows of 6 squares in the middle.",
+    "4 rows of 6 squares each means 4 * 6 = 24 squares are colored red.",
+    "Marla colors all the squares on the first 2 and last 2 rows blue. Each of these 4 rows has 15 squares.",
+    "4 rows * 15 squares per row = 60 squares are colored blue.",
+    "To find out how many squares are colored green, I subtract the number of squares that are colored red and blue from the total number of squares.",
+    "150 total squares - 24 red squares - 60 blue squares = 66 squares."
+  ],
+  "solution": "66"
+}

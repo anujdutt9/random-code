@@ -1,0 +1,10 @@
+{
+  "query": "Jolene and Phil have four children, each with the same birthday.  They gave birth to their first child exactly 15 years ago.  They gave birth to their second child exactly one year after the birth of their first child.  They gave birth to their third child on the fourth birthday of their second child. Two years after the birth of their third child, they gave birth to their fourth child.  How old, in years, is their fourth child?",
+  "steps": [
+    "Jolene and Phil's first child was born 15 years ago.",
+    "Their second child was born exactly one year after the first child, making the second child 14 years old now.",
+    "The third child was born on the fourth birthday of their second child. Since the second child is 14 years old now, the third child was born 14 - 4 = 10 years ago.",
+    "Jolene and Phil's fourth child was born two years after the third child. Since the third child was born 10 years ago, the fourth child was born 10 - 2 = 8 years ago."
+  ],
+  "solution": "8"
+}

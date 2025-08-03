@@ -1,0 +1,16 @@
+{
+  "query": "The first store charges $3 for 6 apples while the second store charges $4 for 10 apples. How many cents can you save on each apple from buying $4 for 10 apples than from $3 for 6 apples?",
+  "steps": [
+    "First, I need to find out the price of one apple at the first store.",
+    "The first store charges $3 for 6 apples, so I divide 3 by 6.",
+    "$3 for 6 apples means each apple costs $3 / 6 = $0.50.",
+    "Now, I need to find out the price of one apple at the second store.",
+    "The second store charges $4 for 10 apples, so I divide 4 by 10.",
+    "$4 for 10 apples means each apple costs $4 / 10 = $0.40.",
+    "Next, I need to calculate how much can be saved per apple by comparing the two prices.",
+    "The first store's price per apple is $0.50, and the second store's price per apple is $0.40.",
+    "The difference in price per apple is $0.50 - $0.40 = $0.10.",
+    "Finally, I convert the savings per apple from dollars to cents."
+  ],
+  "solution": "10"
+}

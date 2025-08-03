@@ -1,0 +1,12 @@
+{
+  "query": "Don throws 3 darts.  One is a bullseye worth 50 points.  One completely missed the target, so received no points. The third was worth half the points of the bullseye.  What is the final score from these 3 throws?",
+  "steps": [
+    "Start by calculating the points from each individual dart throw.",
+    "The bullseye is worth 50 points. So, the first dart scores 50 points.",
+    "The second dart completely missed the target, scoring 0 points.",
+    "The third dart scored half the points of the bullseye. Half of 50 is 25 points.",
+    "Now, add up the points from all three darts: 50 (first dart) + 0 (second dart) + 25 (third dart).",
+    "Calculate the total score: 50 + 0 + 25 = 75."
+  ],
+  "solution": "75"
+}

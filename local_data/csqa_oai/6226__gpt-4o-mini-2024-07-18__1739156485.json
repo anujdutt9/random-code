@@ -1,0 +1,13 @@
+{
+  "query": "Question: Broom stood in the middle of the room.  There were two doors on opposite sides of him, but he couldn't see them.  Where were they?\n\nChoices:\nA: large small\nB: extremes\nC: left right\nD: invisible\nE: front back",
+  "steps": [
+    "First, we identify the scenario: Broom is in the middle of a room with two doors located on opposite sides of him.",
+    "Next, we analyze what \"opposite sides\" means in this context. It suggests that the doors are directly across from each other relative to Broom's position.",
+    "Now, since Broom cannot see the doors, it implies they might not be in his direct line of sight, but their positions are still aligned with the concept of left and right based on his orientation.",
+    "We then consider the provided choices. The options include:\n- A: large small\n- B: extremes\n- C: left right\n- D: invisible\n- E: front back",
+    "Looking at \"left\" and \"right,\" these are accurate descriptors for the positions of the doors as they would be opposite of each other from Broom's perspective in the middle of the room.",
+    "Evaluating the other options:\n- \"large small\" does not relate to positioning.\n- \"extremes\" is vague and not specific to the spatial arrangement.\n- \"invisible\" could refer to Broom's inability to see the doors but does not indicate their positions.\n- \"front back\" might suggest an orientation, but it does not fit the description of being opposite in a standard layout with two doors in a room.",
+    "Since the left and right options accurately convey the positioning of the doors in relation to Broom's central position, they fit the context best."
+  ],
+  "solution": "C"
+}

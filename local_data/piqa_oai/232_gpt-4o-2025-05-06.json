@@ -1,0 +1,10 @@
+{
+    "question": "Find if a 6 sided die is fair.\n\nChoices:\nA: Roll the dice 6 times.  Make note of each roll.  Find out if any number or numbers appeared more often by adding the number of times a number came up.\nB: Roll the dice 1000 times.  Make note of each roll.  Find out if any number or numbers appeared more often by adding the number of times a number came up.",
+    "steps": [
+        "To determine if a 6-sided die is fair, we need a method that provides sufficient data for analysis.",
+        "Option A suggests rolling the die only 6 times. This small number of trials is statistically inadequate for determining fairness because each outcome would have a high variance and does not provide enough data points for reliable analysis.",
+        "Option B suggests rolling the die 1000 times. This larger number of trials provides a robust dataset, reducing variance and increasing the reliability of the results. Statistical principles indicate that more trials reduce the impact of randomness and reveal consistent patterns which are necessary to determine fairness.",
+        "In summary, option B with 1000 rolls is the correct approach as it provides a large sample size necessary for an accurate and meaningful analysis of the die's fairness."
+    ],
+    "solution": "B"
+}

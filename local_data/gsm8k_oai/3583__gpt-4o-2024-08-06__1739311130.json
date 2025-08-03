@@ -1,0 +1,21 @@
+{
+  "query": "Carson is covering the high school football field with grass seed. Each square meter needs three times as much seed as fertilizer. If Carson uses 60 gallons of seed and fertilizer combined, how many gallons of seed does he use?",
+  "steps": [
+    "I'm given that each square meter needs three times as much seed as fertilizer.",
+    "Let me denote the amount of seed used as S and fertilizer as F.",
+    "According to the problem, S = 3F, because seed is three times the amount of fertilizer.",
+    "I also know that the combined amount of seed and fertilizer is 60 gallons.",
+    "So, the equation for the combined amount is S + F = 60.",
+    "I can substitute S = 3F into the equation S + F = 60.",
+    "This gives me 3F + F = 60.",
+    "Simplifying that, I have 4F = 60.",
+    "To solve for F, I will divide both sides by 4.",
+    "F = 60 / 4 = 15.",
+    "Now I know the amount of fertilizer used is 15 gallons.",
+    "Since S = 3F, let me calculate S using F = 15.",
+    "S = 3 * 15.",
+    "S = 45.",
+    "So, Carson uses 45 gallons of seed."
+  ],
+  "solution": "45"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Jed collects stamp cards. Every week, he gets 6 cards. But every two weeks, he gives 2 cards to his friends. If Jed started with 20 cards, after how many weeks will he have a total of 40 cards?",
+  "steps": [
+    "Jed starts with 20 cards.",
+    "Every week, Jed gets 6 cards. So, after one week, he would have 20 + 6 = 26 cards.",
+    "However, every two weeks, he gives away 2 cards to his friends.",
+    "When Jed gives away 2 cards at the end of the second week, he would have 26 + 6 - 2 = 30 cards.",
+    "This means at the end of every two-week period, he effectively gains (6 + 6 - 2) = 10 cards.",
+    "Jed wants to have a total of 40 cards.",
+    "Starting at 20 cards, he needs an additional 20 cards to reach 40 cards.",
+    "Since he gains 10 cards every two weeks, we can calculate the number of weeks needed by dividing the cards needed by the cards gained every two weeks: 20 / 10 = 2 two-week periods.",
+    "Each two-week period is 2 weeks, so he needs 2 * 2 = 4 weeks to gain 20 cards."
+  ],
+  "solution": "4"
+}

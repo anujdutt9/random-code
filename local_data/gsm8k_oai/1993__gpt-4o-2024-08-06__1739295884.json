@@ -1,0 +1,16 @@
+{
+  "query": "Georgia is sick and coughs 5 times a minute.  Her brother Robert is also sick but he coughs twice as much as her.  After 20 minutes, how many times have they coughed?",
+  "steps": [
+    "Georgia coughs 5 times a minute.",
+    "Robert coughs twice as much as Georgia.",
+    "So, Robert coughs 5 times 2, which is 10 times a minute.",
+    "They both cough for 20 minutes.",
+    "Georgia coughs 5 times a minute for 20 minutes. To find the total number of times Georgia coughs, multiply 5 by 20.",
+    "5 times 20 equals 100. So, Georgia coughs 100 times in 20 minutes.",
+    "Robert coughs 10 times a minute for 20 minutes. To find the total number of times Robert coughs, multiply 10 by 20.",
+    "10 times 20 equals 200. So, Robert coughs 200 times in 20 minutes.",
+    "To find out how many times they coughed together, add the number of times Georgia and Robert coughed.",
+    "100 plus 200 equals 300."
+  ],
+  "solution": "300"
+}

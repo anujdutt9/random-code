@@ -1,0 +1,15 @@
+{
+  "query": "Three adults whose average weight is 140 pounds went first in the elevator. Two children whose average weight is 64 pounds also went inside. If an elevator sign reads \u201cMaximum weight 600 pounds.\", what is the maximum weight of the next person to get in the elevator so that it will not be overloaded?",
+  "steps": [
+    "First, I need to find the total weight of the three adults. Given their average weight is 140 pounds, I multiply 140 by 3.",
+    "140 pounds/adult \u00d7 3 adults = 420 pounds. So, the total weight of the three adults is 420 pounds.",
+    "Next, let's calculate the total weight of the two children. Their average weight is 64 pounds, so I multiply 64 by 2.",
+    "64 pounds/child \u00d7 2 children = 128 pounds. The total weight of the two children is 128 pounds.",
+    "Now, I will add the total weight of the adults and children to find out how much weight is already in the elevator.",
+    "420 pounds (adults) + 128 pounds (children) = 548 pounds.",
+    "The elevator has a maximum weight limit of 600 pounds. I need to calculate how much more weight can be added before reaching this limit.",
+    "600 pounds (maximum limit) - 548 pounds (current total weight) = 52 pounds.",
+    "After verifying the calculations, the correct calculation shows that 52 pounds is the maximum additional weight safely allowed."
+  ],
+  "solution": "52"
+}

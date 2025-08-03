@@ -1,0 +1,18 @@
+{
+  "query": "John scores 2 shots worth 2 points and 1 shot worth 3 points every 4 minutes.  He plays for 2 periods.  Each period is 12 minutes.  How many points does he score?",
+  "steps": [
+    "First, I need to calculate how many minutes John plays in total.",
+    "Each period is 12 minutes long.",
+    "John plays for 2 periods.",
+    "So, the total time John plays is 12 minutes/period * 2 periods = 24 minutes.",
+    "Next, I need to determine how many 4-minute intervals are there in 24 minutes.",
+    "24 minutes divided by 4 minutes per interval equals 6 intervals.",
+    "In each 4-minute interval, John scores 2 shots worth 2 points each.",
+    "Each of these shots earns 2 points, so for 2 shots: 2 * 2 = 4 points.",
+    "Additionally, John scores 1 shot worth 3 points in each interval.",
+    "So, he scores 4 points + 3 points = 7 points per interval.",
+    "Now I calculate the total points for all 6 intervals.",
+    "7 points per interval * 6 intervals equals 42 points."
+  ],
+  "solution": "42"
+}

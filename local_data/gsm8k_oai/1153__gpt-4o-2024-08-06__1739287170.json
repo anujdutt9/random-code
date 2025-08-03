@@ -1,0 +1,19 @@
+{
+  "query": "John gets his pool cleaned every 3 days.  It cost $150 each time and he gives the guy a 10% tip each time he comes to clean.  Then twice a month he needs to use $200 of chemicals.  How much does his pool cost a month?",
+  "steps": [
+    "First, I need to determine how many times John gets his pool cleaned in a month.",
+    "A month has approximately 30 days.",
+    "If John gets his pool cleaned every 3 days, I will divide the number of days in the month by the frequency he cleans his pool: 30 / 3 = 10 times a month.",
+    "Next, I calculate the cost to clean the pool each time. It's $150 for cleaning.",
+    "I also need to calculate the tip, which is 10% of $150.",
+    "10% of $150 is $150 * 0.10 = $15.",
+    "Now, I add the cleaning cost and the tip together: $150 + $15 = $165 each time he gets the pool cleaned.",
+    "The total cost to clean the pool for a month is the cost per cleaning multiplied by the number of cleanings: $165 * 10 = $1650.",
+    "Next, I find the total cost for chemicals.",
+    "John uses $200 of chemicals twice a month.",
+    "The total monthly cost for chemicals is $200 * 2 = $400.",
+    "To find out the total cost for running the pool monthly, I need to sum the cleaning and chemical costs: $1650 + $400.",
+    "The total monthly pool cost is $2050."
+  ],
+  "solution": "2050"
+}

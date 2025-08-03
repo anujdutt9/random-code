@@ -1,0 +1,15 @@
+{
+  "query": "Carla is dividing up insurance claims among 3 agents. Missy can handle 15 more claims than John, who can handle 30% more claims than Jan. If Jan can handle 20 claims, how many claims can Missy handle?",
+  "steps": [
+    "First, I need to determine how many claims John can handle.",
+    "I know that John can handle 30% more claims than Jan.",
+    "Jan can handle 20 claims.",
+    "To find 30% of 20, I calculate 0.3 * 20 = 6.",
+    "Therefore, John can handle 20 claims + 6 claims = 26 claims.",
+    "Next, I need to determine how many claims Missy can handle.",
+    "Missy can handle 15 more claims than John.",
+    "John can handle 26 claims.",
+    "Thus, Missy can handle 26 claims + 15 claims = 41 claims."
+  ],
+  "solution": "41"
+}

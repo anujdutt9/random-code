@@ -1,0 +1,15 @@
+{
+  "query": "The Rotary Club is holding its annual fundraising Omelet Breakfast, with tickets sold in advance. The tickets come in different price levels, for young children, older children, adults, and seniors. This year they sold 53 small children tickets, 35 older children tickets, 75 adult tickets, and 37 senior tickets. To figure out how many eggs they need to buy, the club estimates that small children can eat a half omelet, older children can eat a whole omelet, adults will eat two omelets, and seniors will eat one and a half omelets. Just to be on the safe side, they get enough eggs to make 25 extra omelets. If they use 2 eggs for each omelet, how many eggs will they need to buy?",
+  "steps": [
+    "First, I need to determine how many omelets each group will eat according to their ticket sales.",
+    "For small children, 53 tickets were sold and each small child eats 0.5 omelet: 53 * 0.5 = 26.5 omelets.",
+    "For older children, 35 tickets were sold and each older child eats 1 omelet: 35 * 1 = 35 omelets.",
+    "For adults, 75 tickets were sold and each adult eats 2 omelets: 75 * 2 = 150 omelets.",
+    "For seniors, 37 tickets were sold and each senior eats 1.5 omelets: 37 * 1.5 = 55.5 omelets.",
+    "Next, I sum the omelets needed for all groups: 26.5 + 35 + 150 + 55.5 = 267 omelets.",
+    "To be safe, they want to make 25 extra omelets. Adding this to the existing total: 267 + 25 = 292 omelets.",
+    "Since each omelet requires 2 eggs, I calculate the total eggs needed: 292 * 2 = 584 eggs.",
+    "Now I double check my calculations. For small children: 53 * 0.5 = 26.5. For older children: 35 * 1 = 35. For adults: 75 * 2 = 150. For seniors: 37 * 1.5 = 55.5. Adding these gives 267. Adding 25 more omelets gives 292. Multiply 292 by 2 gives 584."
+  ],
+  "solution": "584"
+}

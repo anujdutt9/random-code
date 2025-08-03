@@ -1,0 +1,14 @@
+{
+  "query": "John's weight bench can support 1000 pounds.  He wants to make sure to stay 20% under that weight for safety.  If he weighs 250 pounds how much weight can he put on the bar?",
+  "steps": [
+    "First, I need to calculate what weight limit John wants to maintain for safety, which is 20% under 1000 pounds.",
+    "20% of 1000 pounds is calculated by multiplying 1000 by 0.20.",
+    "1000 * 0.20 = 200 pounds.",
+    "Now, to find the safe weight limit, I subtract this amount (200 pounds) from 1000 pounds.",
+    "1000 - 200 = 800 pounds.",
+    "The maximum safe weight limit for the bench is 800 pounds.",
+    "Next, I subtract John's weight from this safe limit to determine how much additional weight he can add to the bar.",
+    "800 - 250 = 550 pounds."
+  ],
+  "solution": "550"
+}

@@ -1,0 +1,13 @@
+{
+  "query": "There is a fruit display that has apples, oranges, and bananas.  There are twice as many apples as oranges, and there are twice as many oranges as bananas.  How many fruits are on the display in total if there are 5 bananas on the display?",
+  "steps": [
+    "I'm given that there are 5 bananas.",
+    "There are twice as many oranges as bananas.",
+    "Calculate the number of oranges: 2 * 5 = 10 oranges.",
+    "There are twice as many apples as oranges.",
+    "Calculate the number of apples: 2 * 10 = 20 apples.",
+    "Now, add the number of apples, oranges, and bananas to find the total number of fruits: 20 + 10 + 5.",
+    "Perform the addition: 20 + 10 = 30; 30 + 5 = 35."
+  ],
+  "solution": "35"
+}

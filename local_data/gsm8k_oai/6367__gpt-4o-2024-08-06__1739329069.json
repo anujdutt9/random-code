@@ -1,0 +1,17 @@
+{
+  "query": "Bert has a garden shop. He buys his products in a warehouse and sells them for $10 more in his shop. From each sale, he has to pay 10% of the value in tax. One day a client came to his shop and bought a barrel for $90. How Much money did Bert make on this sale?",
+  "steps": [
+    "First, I need to determine the cost price of the barrel that Bert bought from the warehouse. The selling price is $90, and Bert adds $10 on top of the purchase price.",
+    "Let's call the purchase price 'x.' So the selling price would be x + $10.",
+    "According to the problem, the selling price is $90. So, we have the equation x + $10 = $90.",
+    "To find the purchase price, I subtract $10 from $90. Thus, x = $90 - $10.",
+    "This gives x = $80. So the cost price of the barrel is $80.",
+    "Now, I need to determine Bert's profit before taxes. The profit is the selling price minus the cost price, which is $90 - $80.",
+    "Therefore, the profit before taxes is $10.",
+    "Next, I calculate the tax. The tax is 10% of the selling price of $90.",
+    "10% of $90 is calculated by 0.10 * $90 = $9.",
+    "To find Bert's net profit, I subtract the tax from the profit before taxes. So, net profit = $10 - $9.",
+    "Thus, Bert's net profit on this sale is $1."
+  ],
+  "solution": "1"
+}

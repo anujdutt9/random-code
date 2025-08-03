@@ -1,0 +1,19 @@
+{
+  "query": "Marly has ten $20 bills, eight $10 bills, and four $5 bills. If she wants to change her bills to $100 bills, how many pieces of $100 bills will she have?",
+  "steps": [
+    "First, I need to calculate the total amount of money Marly has in $20 bills.",
+    "Marly has ten $20 bills.",
+    "10 times $20 is $200.",
+    "Next, I'll calculate the total amount of money in $10 bills.",
+    "Marly has eight $10 bills.",
+    "8 times $10 is $80.",
+    "Now, I'll calculate the total amount of money in $5 bills.",
+    "Marly has four $5 bills.",
+    "4 times $5 is $20.",
+    "Now, I need to sum up all the amounts to find the total amount of money Marly has.",
+    "$200 (from the $20 bills) plus $80 (from the $10 bills) plus $20 (from the $5 bills) equals $300.",
+    "Now, I need to convert the total amount of $300 into $100 bills.",
+    "$300 divided by $100 per bill results in 3 pieces of $100 bills."
+  ],
+  "solution": "3"
+}

@@ -1,0 +1,14 @@
+{
+  "query": "At a bus station, a bus leaves every half-hour for 12 hours a day. How many buses leave the station for 5 days?",
+  "steps": [
+    "First, I need to determine how many buses leave the station in a single day.",
+    "Since a bus leaves every half-hour, there are 2 departures per hour.",
+    "The buses are operating for 12 hours a day.",
+    "I multiply the number of departures per hour (2) by the number of operational hours in a day (12) to get the total number of buses leaving per day: 2 * 12.",
+    "2 * 12 equals 24, so 24 buses leave the station each day.",
+    "Now, I need to calculate how many buses leave in 5 days.",
+    "I multiply the number of buses leaving each day (24) by the number of days (5): 24 * 5.",
+    "24 * 5 equals 120."
+  ],
+  "solution": "120"
+}

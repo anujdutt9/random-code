@@ -1,0 +1,23 @@
+{
+  "query": "Ben took his family fishing yesterday. Ben caught 4 fish, his wife Judy caught 1 fish, his oldest son Billy caught 3, his younger son Jim caught 2, and his youngest child Susie surprised them all by catching 5! Unfortunately, 3 of the fish were too small, so they threw them back. If each fish will give them 2 filets, how many fish filets will Ben and his family have?",
+  "steps": [
+    "First, I'll find out the total number of fish Ben and his family caught.",
+    "Ben caught 4 fish.",
+    "Judy caught 1 fish.",
+    "Billy caught 3 fish.",
+    "Jim caught 2 fish.",
+    "Susie caught 5 fish.",
+    "Now, I'll add up these numbers: 4 + 1 + 3 + 2 + 5.",
+    "4 + 1 is 5.",
+    "5 + 3 is 8.",
+    "8 + 2 is 10.",
+    "10 + 5 is 15.",
+    "So, they caught a total of 15 fish.",
+    "Next, I need to account for the 3 fish that were too small and were thrown back.",
+    "15 fish caught - 3 fish thrown back = 12 fish kept.",
+    "Now, I'll calculate the total number of fish filets from the fish they kept.",
+    "Each fish provides 2 filets.",
+    "So, 12 fish \u00d7 2 filets per fish equals 24 filets."
+  ],
+  "solution": "24"
+}

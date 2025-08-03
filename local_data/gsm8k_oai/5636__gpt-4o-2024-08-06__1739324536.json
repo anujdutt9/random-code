@@ -1,0 +1,18 @@
+{
+  "query": "Dakota and Ben order eggs for $3, pancakes for $2, and 2 mugs of cocoa for $2 each. The tax is $1. Later, Ben then decides to order 1 more batch of pancakes and 1 more mug of cocoa as he is still hungry. How much change should they get from $15?",
+  "steps": [
+    "First, I need to calculate the total cost of Dakota and Ben's initial order.",
+    "The eggs cost $3.",
+    "The pancakes cost $2.",
+    "They ordered 2 mugs of cocoa at $2 each, which is 2 x $2 = $4.",
+    "Now, I add these amounts together: $3 (eggs) + $2 (pancakes) + $4 (cocoa) = $9.",
+    "I must also add the tax of $1 to the total cost of the initial order.",
+    "So, $9 + $1 = $10.",
+    "Now, Ben orders 1 more batch of pancakes for $2 and 1 more mug of cocoa for $2.",
+    "The cost of the additional order is $2 (pancakes) + $2 (cocoa) = $4.",
+    "Therefore, the total cost for the entire order is $10 (initial order with tax) + $4 (additional order) = $14.",
+    "They paid with $15, so I need to find the change.",
+    "The change is $15 - $14 = $1."
+  ],
+  "solution": "1"
+}

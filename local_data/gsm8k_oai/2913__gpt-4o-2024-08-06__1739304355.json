@@ -1,0 +1,15 @@
+{
+  "query": "There are one hundred tickets to be sold for a volleyball game. Andrea sold twice as many tickets as Jude while Sandra sold 4 more than half the number of tickets Jude sold. If Jude sold 16 tickets, how many tickets need to be sold?",
+  "steps": [
+    "Jude sold 16 tickets.",
+    "Andrea sold twice as many tickets as Jude. So, Andrea sold 2 * 16 = 32 tickets.",
+    "Sandra sold 4 more than half the number of tickets Jude sold. Half of the tickets Jude sold is 16 / 2 = 8 tickets.",
+    "Sandra sold 4 more than that, so she sold 8 + 4 = 12 tickets.",
+    "Now, I need to find the total number of tickets sold by adding tickets sold by Jude, Andrea, and Sandra.",
+    "The total number of tickets sold is 16 (Jude) + 32 (Andrea) + 12 (Sandra) = 60 tickets.",
+    "The total number of tickets to be sold is 100 tickets.",
+    "To find out how many more tickets need to be sold, I subtract the number of tickets already sold from the total number of tickets.",
+    "100 - 60 = 40 tickets still need to be sold."
+  ],
+  "solution": "40"
+}

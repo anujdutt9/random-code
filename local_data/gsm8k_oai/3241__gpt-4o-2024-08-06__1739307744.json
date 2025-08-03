@@ -1,0 +1,19 @@
+{
+  "query": "James needs 40 fish to make one sushi roll. He goes to the market and buys 400 fish, but later finds out that 20% of the fish have gone bad and cannot be used. How many sushi rolls did James make with the remaining fish?",
+  "steps": [
+    "James initially bought 400 fish.",
+    "He discovered that 20% of the fish have gone bad.",
+    "To find out how many fish went bad, I need to calculate 20% of 400.",
+    "20% of 400 is calculated as 0.20 * 400.",
+    "0.20 * 400 equals 80.",
+    "So, 80 fish have gone bad and cannot be used.",
+    "To find out how many usable fish James has, I subtract the 80 bad fish from the original 400 fish.",
+    "400 - 80 equals 320.",
+    "James has 320 usable fish left.",
+    "Each sushi roll requires 40 fish.",
+    "To find out how many sushi rolls James can make, I divide the number of usable fish by the number of fish needed per roll.",
+    "320 divided by 40 equals 8.",
+    "James can make 8 sushi rolls with the remaining fish."
+  ],
+  "solution": "8"
+}

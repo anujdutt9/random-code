@@ -1,0 +1,14 @@
+{
+  "query": "Four athletes joined a relay race. Athlete 1  ran for 55 seconds, athlete 2 ran 10 seconds more than athlete 1, athlete 3 ran 15 seconds less than athlete 2, and athlete four finished it 25 seconds less than athlete 1. How long, in seconds, did it take them to finish the relay race?",
+  "steps": [
+    "Start by noting the time each athlete runs. Athlete 1 ran for 55 seconds.",
+    "Athlete 2 ran for 10 seconds more than athlete 1. So, athlete 2 ran for 55 + 10 = 65 seconds.",
+    "Athlete 3 ran 15 seconds less than athlete 2. So, athlete 3 ran for 65 - 15 = 50 seconds.",
+    "Athlete 4 ran for 25 seconds less than athlete 1. So, athlete 4 ran for 55 - 25 = 30 seconds.",
+    "Now, calculate the total time for the relay by adding the times for each athlete: 55 + 65 + 50 + 30.",
+    "Perform the addition: 55 + 65 = 120.",
+    "Add 50 to 120, resulting in 170.",
+    "Add 30 to 170, resulting in 200."
+  ],
+  "solution": "200"
+}

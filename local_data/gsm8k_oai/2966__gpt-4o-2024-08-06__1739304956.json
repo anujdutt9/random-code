@@ -1,0 +1,15 @@
+{
+  "query": "Mark has a really bad headache.  He takes 2 Tylenol tablets of 500 mg each and he does every 4 hours for 12 hours.  How many grams of Tylenol does he end up taking?",
+  "steps": [
+    "Mark takes 2 Tylenol tablets of 500 mg each every 4 hours.",
+    "Each tablet is 500 mg, so 2 tablets are 500 mg * 2 = 1000 mg.",
+    "Mark takes 1000 mg every 4 hours.",
+    "The total duration he takes the medication for is 12 hours.",
+    "To find out how many times he takes the medication, divide 12 hours by the interval of 4 hours: 12 hours / 4 hours = 3 times.",
+    "Mark takes medication 3 times in 12 hours.",
+    "Each time he takes 1000 mg, so he takes 1000 mg * 3 = 3000 mg in total.",
+    "Convert milligrams to grams. We know 1000 mg = 1 gram.",
+    "3000 mg is equal to 3000 mg / 1000 mg/g = 3 grams."
+  ],
+  "solution": "3"
+}

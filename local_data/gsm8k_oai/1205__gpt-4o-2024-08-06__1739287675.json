@@ -1,0 +1,18 @@
+{
+  "query": "In a graveyard, there are 20 skeletons.  Half of these skeletons are adult women, and the remaining number are split evenly between adult men and children.  If an adult woman has 20 bones in their body, and a male has 5 more than this, and a child has half as many as an adult woman, how many bones are in the graveyard?",
+  "steps": [
+    "First, we need to determine the number of adult women, adult men, and children skeletons.",
+    "We know there are 20 skeletons total.",
+    "Half of the skeletons are adult women, so there are 20 / 2 = 10 adult women.",
+    "The remaining 10 skeletons are split evenly between adult men and children. So, there are 10 / 2 = 5 adult men and 5 children.",
+    "Now, calculate the total number of bones contributed by each group of skeletons.",
+    "An adult woman has 20 bones. There are 10 adult women, so they contribute 10 * 20 = 200 bones in total.",
+    "An adult man has 5 more bones than an adult woman. So, an adult man has 20 + 5 = 25 bones.",
+    "There are 5 adult men, so they contribute 5 * 25 = 125 bones in total.",
+    "A child has half as many bones as an adult woman. So, a child has 20 / 2 = 10 bones.",
+    "There are 5 children, so they contribute 5 * 10 = 50 bones in total.",
+    "Now add up all the bones contributed by adult women, adult men, and children.",
+    "The total number of bones is 200 (from women) + 125 (from men) + 50 (from children) = 375 bones."
+  ],
+  "solution": "375"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "7 out of 40 people in a cafeteria are wearing checkered shirts. The rest of the people are wearing vertical stripes and horizontal stripes. The number of people wearing horizontal stripes is 4 times as many as the people wearing checkered shirts. How many people are wearing vertical stripes?",
+  "steps": [
+    "The total number of people in the cafeteria is 40.",
+    "There are 7 people wearing checkered shirts.",
+    "The number of people wearing horizontal stripes is 4 times the number wearing checkered shirts.",
+    "4 times the number of people wearing checkered shirts is 4 * 7 = 28 people.",
+    "So, there are 28 people wearing horizontal stripes.",
+    "To find the number of people wearing vertical stripes, subtract the number of people wearing checkered and horizontal stripes from the total number of people.",
+    "Subtract the 7 people wearing checkered shirts and the 28 people wearing horizontal stripes from the total 40 people: 40 - 7 - 28.",
+    "40 - 7 = 33.",
+    "33 - 28 = 5."
+  ],
+  "solution": "5"
+}

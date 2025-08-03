@@ -1,0 +1,17 @@
+{
+  "query": "Lemuel is a basketball player. In one of the games, he made 2-point shots 7 times. He also made 3-points shots thrice. How many points, in total, did he make in that game?",
+  "steps": [
+    "Lemuel made 2-point shots 7 times.",
+    "To find the total points from 2-point shots, I need to multiply the number of successful shots by the points each shot is worth.",
+    "Each 2-point shot is worth 2 points, so 7 shots are worth 7 * 2.",
+    "7 * 2 = 14 points from 2-point shots.",
+    "Next, I look at the 3-point shots Lemuel made.",
+    "He made 3-point shots 3 times.",
+    "To find the total points from 3-point shots, I multiply the number of successful shots by the points each shot is worth.",
+    "Each 3-point shot is worth 3 points, so 3 shots are worth 3 * 3.",
+    "3 * 3 = 9 points from 3-point shots.",
+    "To find the total points Lemuel made in the game, I add the points from the 2-point shots and the points from the 3-point shots together.",
+    "14 (from 2-point shots) + 9 (from 3-point shots) = 23 total points."
+  ],
+  "solution": "23"
+}

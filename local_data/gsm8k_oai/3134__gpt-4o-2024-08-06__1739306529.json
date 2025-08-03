@@ -1,0 +1,28 @@
+{
+  "query": "Toby wants to walk an average of 9,000 steps per day over the next week. On Sunday he walked 9,400 steps. On Monday he walked 9,100 steps. On Tuesday he walked 8,300 steps. On Wednesday he walked 9,200 steps. On Thursday he walked 8,900 steps. How many steps does he need to average on Friday and Saturday to meet his goal?",
+  "steps": [
+    "First, I need to determine the total number of steps Toby wants to walk over the entire week.",
+    "He wants to average 9,000 steps per day for 7 days.",
+    "I multiply 9,000 steps/day by 7 days to get the total steps needed for the week.",
+    "9,000 steps/day * 7 days = 63,000 steps.",
+    "Next, I need to calculate the total number of steps Toby has already walked from Sunday to Thursday.",
+    "Sunday's steps: 9,400",
+    "Monday's steps: 9,100",
+    "Tuesday's steps: 8,300",
+    "Wednesday's steps: 9,200",
+    "Thursday's steps: 8,900",
+    "I add these steps together: 9,400 + 9,100 + 8,300 + 9,200 + 8,900.",
+    "9,400 + 9,100 = 18,500",
+    "18,500 + 8,300 = 26,800",
+    "26,800 + 9,200 = 36,000",
+    "36,000 + 8,900 = 44,900",
+    "Toby has walked a total of 44,900 steps from Sunday to Thursday.",
+    "Now, I need to determine how many more steps Toby needs to reach his goal of 63,000 total steps.",
+    "63,000 total needed steps - 44,900 steps already walked = 18,100 steps remaining.",
+    "The remaining 18,100 steps must be walked over Friday and Saturday.",
+    "Since there are 2 days remaining, I need to find the average steps per day for these two days.",
+    "I divide the remaining 18,100 steps by 2 days to find the average.",
+    "18,100 steps / 2 days = 9,050 steps/day."
+  ],
+  "solution": "9,050"
+}

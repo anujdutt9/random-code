@@ -1,0 +1,19 @@
+{
+  "query": "Betty is growing parsnips in her vegetable garden. When the parsnips are grown, they are harvested and bundled into boxes that can hold up to 20 parsnips each. Each harvest, three-quarters of the boxes are full, and the remaining boxes are half-full. She gets an average of 20 boxes each harvest. How many parsnips does Betty grow in an average harvest?",
+  "steps": [
+    "First, I need to determine how many full boxes Betty has on average. She has 20 boxes, and three-quarters of them are full.",
+    "I calculate the number of full boxes by multiplying the total number of boxes (20) by three-quarters (0.75).",
+    "20 * 0.75 = 15 full boxes.",
+    "Now, I need to determine how many half-full boxes she has.",
+    "The remaining boxes are the total number of boxes (20) minus the full boxes (15).",
+    "20 - 15 = 5 half-full boxes.",
+    "Next, I calculate the total number of parsnips in these full and half-full boxes.",
+    "For the full boxes, I multiply the number of full boxes (15) by the number of parsnips a full box can hold (20).",
+    "15 * 20 = 300 parsnips from the full boxes.",
+    "For the half-full boxes, I multiply the number of half-full boxes (5) by half the number parsnips a full box can hold. A half-full box holds 20 * 0.5 = 10 parsnips.",
+    "5 * 10 = 50 parsnips from the half-full boxes.",
+    "Finally, I add the number of parsnips from the full and half-full boxes to get the total number of parsnips.",
+    "300 + 50 = 350 parsnips."
+  ],
+  "solution": "350"
+}

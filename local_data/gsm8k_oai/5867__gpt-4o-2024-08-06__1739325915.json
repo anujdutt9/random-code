@@ -1,0 +1,17 @@
+{
+  "query": "Sophie's aunt gave her $260 to spend on clothes at the mall. She bought 2 shirts that cost $18.50 each and a pair of trousers that cost $63. She then decides to purchase 4 more articles of clothing with her remaining budget. How much money would each item cost if she split the cost of each item evenly?",
+  "steps": [
+    "Sophie starts with $260.",
+    "She buys 2 shirts, each costing $18.50. First, calculate the total cost of the shirts.",
+    "$18.50 * 2 = $37",
+    "Then, she buys a pair of trousers for $63.",
+    "Calculate the total amount spent by adding the cost of the shirts and the trousers.",
+    "$37 (shirts) + $63 (trousers) = $100",
+    "Subtract the total amount spent from the initial amount to find out how much money Sophie has left.",
+    "$260 (initial amount) - $100 (spent amount) = $160",
+    "Sophie wants to buy 4 more articles of clothing. She plans to spend her remaining $160 evenly on these 4 items.",
+    "To find out how much each item would cost, divide the remaining money by the number of items.",
+    "$160 / 4 = $40"
+  ],
+  "solution": "40"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "4 students participated in a 200m race. If the average completion time of the last three students was 35 seconds, and the average completion time of all four runners was 30 seconds, how long (in seconds) did it take the student who came first to finish the race?",
+  "steps": [
+    "The average completion time of the last three students is given as 35 seconds.",
+    "This means the total time for the last three students is 35 seconds multiplied by 3.",
+    "35 seconds \u00d7 3 = 105 seconds.",
+    "The average completion time of all four runners is 30 seconds.",
+    "This means the total time for all four students is 30 seconds multiplied by 4.",
+    "30 seconds \u00d7 4 = 120 seconds.",
+    "The total time for the last three students is 105 seconds and the total time for all four students is 120 seconds.",
+    "The difference between the total time for all four students and the total time for the last three students will give us the time taken by the student who came first.",
+    "120 seconds - 105 seconds = 15 seconds."
+  ],
+  "solution": "15"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Keegan is in school for 7.5 hours each day and he is taking 7 classes. He has history and chemistry classes for a combined total of 1.5 hours. How many minutes does Keegan spend in one of his other classes on average?",
+  "steps": [
+    "Keegan is in school for 7.5 hours each day.",
+    "7.5 hours is equal to 7.5 \u00d7 60 = 450 minutes.",
+    "He has history and chemistry for a combined total of 1.5 hours.",
+    "1.5 hours is equal to 1.5 \u00d7 60 = 90 minutes.",
+    "The total time spent in history and chemistry is 90 minutes, so the time spent in his other classes is 450 - 90 = 360 minutes.",
+    "Keegan is taking a total of 7 classes.",
+    "Since 2 of these classes are history and chemistry, there are 7 - 2 = 5 other classes.",
+    "He spends 360 minutes in these 5 other classes.",
+    "To find the average time spent in one of these other classes, I calculate 360 minutes \u00f7 5 classes = 72 minutes per class."
+  ],
+  "solution": "72"
+}

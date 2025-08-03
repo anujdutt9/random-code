@@ -1,0 +1,16 @@
+{
+  "query": "On a farm, on average every 6 cows produce 108 liters of milk per week. In five weeks the cows produced 2160 liters of milk. How many cows are on the farm?",
+  "steps": [
+    "I know that 6 cows produce 108 liters of milk per week.",
+    "First, I want to find out how much milk one cow produces in a week.",
+    "To find milk per cow, I divide 108 liters by 6 cows.",
+    "108 liters \u00f7 6 cows = 18 liters per cow per week.",
+    "Next, I want to determine how much milk one cow produces in five weeks.",
+    "I multiply 18 liters per cow per week by 5 weeks.",
+    "18 liters/week \u00d7 5 weeks = 90 liters per cow in five weeks.",
+    "I know that in five weeks, the total milk produced by the cows is 2160 liters.",
+    "To find the number of cows, I divide the total milk produced in five weeks by the amount of milk one cow produces in five weeks.",
+    "2160 liters \u00f7 90 liters per cow = 24 cows."
+  ],
+  "solution": "24"
+}

@@ -1,0 +1,11 @@
+{
+  "query": "Question: Steel cans are separated from aluminum cans in a recycling center. Which of the following is the best way the recycling center can separate the steel cans from the aluminum cans?\n\nChoices:\nA: sort the cans by size\nB: put the cans in water\nC: cool the cans to a low temperature\nD: put the cans under an electromagnet",
+  "steps": [
+    "First, we need to identify a distinguishing property between steel and aluminum. Steel is magnetic, while aluminum is not.",
+    "Next, we consider the options provided. Sorting by size does not differentiate materials based on their magnetic properties.",
+    "Putting the cans in water will not differentiate them based on their material since both types of cans will float or sink similarly.",
+    "Cooling the cans to a low temperature may not effectively separate them since both materials would likely respond similarly to temperature changes.",
+    "Using an electromagnet takes advantage of the magnetic property of steel, allowing the recycling center to effectively separate steel cans from aluminum cans."
+  ],
+  "solution": "D"
+}

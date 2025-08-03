@@ -1,0 +1,16 @@
+{
+  "query": "Steve is holding nickels and dimes in his hand. He has 4 more dimes than nickels. He has a total of 70 cents in his hand. How many nickels is he holding?",
+  "steps": [
+    "Let the number of nickels be \\( n \\).",
+    "Since Steve has 4 more dimes than nickels, the number of dimes is \\( n + 4 \\).",
+    "Each nickel is worth 5 cents, so the value of the nickels is \\( 5n \\) cents.",
+    "Each dime is worth 10 cents, so the value of the dimes is \\( 10(n + 4) \\) cents.",
+    "The total value of the nickels and dimes is 70 cents.",
+    "Set up the equation for the total value: \n\n\\[ 5n + 10(n + 4) = 70 \\]",
+    "Simplify the equation: \n\n\\[ 5n + 10n + 40 = 70 \\]",
+    "Combine like terms: \n\n\\[ 15n + 40 = 70 \\]",
+    "Subtract 40 from both sides to isolate terms with \\( n \\):\n\n\\[ 15n = 30 \\]",
+    "Divide both sides by 15 to solve for \\( n \\):\n\n\\[ n = 2 \\]"
+  ],
+  "solution": "2"
+}

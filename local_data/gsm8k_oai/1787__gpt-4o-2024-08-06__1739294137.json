@@ -1,0 +1,14 @@
+{
+  "query": "Kira is making breakfast for herself. She fries 3 sausages then scrambles 6 eggs and cooks each item of food separately. If it takes 5 minutes to fry each sausage and 4 minutes to scramble each egg then how long, in minutes, did it take for Kira to make her breakfast?",
+  "steps": [
+    "First, I need to calculate the total time taken to fry the sausages.",
+    "There are 3 sausages and each takes 5 minutes to fry.",
+    "So, the total frying time is \\(3 \\times 5 = 15\\) minutes.",
+    "Next, I calculate the total time taken to scramble the eggs.",
+    "There are 6 eggs and each takes 4 minutes to scramble.",
+    "So, the total scrambling time is \\(6 \\times 4 = 24\\) minutes.",
+    "Since Kira cooks each item separately, I need to add the frying time and scrambling time.",
+    "The total time for making breakfast is \\(15 + 24 = 39\\) minutes."
+  ],
+  "solution": "39"
+}

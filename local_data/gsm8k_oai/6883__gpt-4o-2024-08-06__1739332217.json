@@ -1,0 +1,13 @@
+{
+  "query": "John decides to replace all his VHS with DVDs.  He can trade in his VHS for $2 each and then buy the DVDs for $10 each.  If he has 100 movies, how much does it cost to replace his movies?",
+  "steps": [
+    "John has 100 VHS. He can trade each VHS for $2.",
+    "If he trades in 100 VHS, he will receive 100 * $2 = $200.",
+    "John wants to buy 100 DVDs to replace his 100 VHS.",
+    "Each DVD costs $10, so 100 DVDs will cost 100 * $10 = $1000.",
+    "To find the total cost of replacing the VHS with DVDs, we need to subtract the trade-in amount from the total cost of the DVDs.",
+    "The total cost of the DVDs is $1000, and he receives $200 from trading in the VHS.",
+    "So, the net cost will be $1000 - $200 = $800."
+  ],
+  "solution": "800"
+}

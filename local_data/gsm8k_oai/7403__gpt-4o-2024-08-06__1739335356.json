@@ -1,0 +1,20 @@
+{
+  "query": "James trains for the Olympics.  He trains twice a day for 4  hours each time for all but 2 days per week.  How many hours does he train a year?",
+  "steps": [
+    "First, I need to find out how many days a week James trains.",
+    "There are 7 days in a week, and James rests for 2 days.",
+    "So, James trains for 7 - 2 = 5 days a week.",
+    "Next, I need to calculate how many hours James trains each day he trains.",
+    "James trains twice a day, for 4 hours each time.",
+    "Therefore, each day he trains, he trains for 2 * 4 = 8 hours.",
+    "Now, I'll calculate how many hours he trains each week.",
+    "In one week, he trains 5 days, each for 8 hours.",
+    "So, he trains for 5 * 8 = 40 hours each week.",
+    "Now, I need to determine how many weeks there are in a year.",
+    "There are 52 weeks in a year.",
+    "Finally, I'll calculate the total number of hours James trains in a year.",
+    "The total is 52 weeks * 40 hours/week.",
+    "So, 52 * 40 = 2080 hours."
+  ],
+  "solution": "2080"
+}

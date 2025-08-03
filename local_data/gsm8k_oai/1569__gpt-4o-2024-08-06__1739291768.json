@@ -1,0 +1,19 @@
+{
+  "query": "John decided to start rowing around a square lake.  Each side of the lake is 15 miles.  Jake can row at twice the speed he can swim.  It takes him 20 minutes to swim 1 mile.  How long, in hours, does it take to row the lake?",
+  "steps": [
+    "First, I need to find out how fast Jake can swim. It takes him 20 minutes to swim 1 mile, so his swimming speed is 1 mile per 20 minutes.",
+    "To find the speed in miles per hour, I convert minutes to hours. There are 60 minutes in an hour, so 20 minutes is 1/3 of an hour.",
+    "If Jake swims 1 mile in 1/3 of an hour, his swimming speed is 1 mile divided by 1/3 hour.",
+    "This means the swimming speed is 3 miles per hour (since 1 divided by 1/3 is the same as 1 multiplied by 3).",
+    "Next, I know that Jake can row at twice the speed he can swim. Therefore, his rowing speed is 2 times 3 miles per hour.",
+    "Jake's rowing speed is 6 miles per hour.",
+    "Now I need to find the total distance Jake has to row around the lake. Each side of the square lake is 15 miles.",
+    "A square has 4 equal sides, so the total distance around the lake is 4 times 15 miles.",
+    "This means the total distance Jake has to row is 60 miles.",
+    "To find out how long it takes Jake to row 60 miles, I divide the total distance by his rowing speed.",
+    "I divide 60 miles by his rowing speed of 6 miles per hour.",
+    "This calculation gives me 60 divided by 6 which is 10.",
+    "Therefore, it takes Jake 10 hours to row around the lake."
+  ],
+  "solution": "10"
+}

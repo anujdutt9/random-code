@@ -1,0 +1,13 @@
+{
+  "query": "A boy has 12 oranges. He gives one-third of this number to his brother, one-fourth of the remainder to his friend and keeps the rest for himself. How many does his friend get?",
+  "steps": [
+    "The boy initially has 12 oranges.",
+    "He gives one-third of the 12 oranges to his brother. So, I need to calculate one-third of 12.",
+    "One-third of 12 is \\( \\frac{12}{3} = 4 \\).",
+    "The boy gives 4 oranges to his brother, so he has \\( 12 - 4 = 8 \\) oranges remaining.",
+    "Now, he gives one-fourth of the remaining 8 oranges to his friend.",
+    "One-fourth of 8 is \\( \\frac{8}{4} = 2 \\).",
+    "The boy gives 2 oranges to his friend."
+  ],
+  "solution": "2"
+}

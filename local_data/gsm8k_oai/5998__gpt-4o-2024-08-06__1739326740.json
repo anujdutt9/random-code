@@ -1,0 +1,16 @@
+{
+  "query": "Ali and Ernie lined up boxes to make circles. Ali used 8 boxes to make each of his circles and Ernie used 10 for his. If they had 80 boxes to begin with and Ali makes 5 circles, how many circles can Ernie make?",
+  "steps": [
+    "Ali makes circles using 8 boxes for each circle.",
+    "Ali makes 5 circles.",
+    "To find out how many boxes Ali uses, I multiply the number of circles Ali makes (5) by the number of boxes per circle (8).",
+    "5 circles * 8 boxes per circle = 40 boxes used by Ali.",
+    "They had 80 boxes to begin with.",
+    "I subtract the number of boxes Ali used from the total number of boxes to find out how many boxes Ernie has left.",
+    "80 total boxes - 40 boxes used by Ali = 40 boxes left for Ernie.",
+    "Ernie uses 10 boxes for each of his circles.",
+    "To find out how many circles Ernie can make, I divide the number of boxes he has by the number of boxes he uses for each circle.",
+    "40 boxes left for Ernie \u00f7 10 boxes per circle = 4 circles Ernie can make."
+  ],
+  "solution": "4"
+}

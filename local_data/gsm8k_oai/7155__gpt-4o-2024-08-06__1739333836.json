@@ -1,0 +1,14 @@
+{
+  "query": "Pablo likes to put together jigsaw puzzles. He can put together an average of 100 pieces per hour. He has eight puzzles with 300 pieces each and five puzzles with 500 pieces each. If Pablo only works on puzzles for a maximum of 7 hours each day, how many days will it take him to complete all of his puzzles?",
+  "steps": [
+    "First, I need to calculate the total number of pieces in all of Pablo's puzzles.",
+    "Pablo has eight puzzles with 300 pieces each. So, for these puzzles: 8 puzzles * 300 pieces = 2400 pieces.",
+    "Next, Pablo has five puzzles with 500 pieces each. So for these: 5 puzzles * 500 pieces = 2500 pieces.",
+    "Now I add the total number of pieces from both types of puzzles: 2400 pieces + 2500 pieces = 4900 pieces.",
+    "Pablo can complete 100 pieces per hour. I need to know how many hours it will take him to complete all 4900 pieces.",
+    "4900 pieces / 100 pieces per hour = 49 hours in total.",
+    "Pablo works for a maximum of 7 hours per day, so I need to find out how many days of work this entails.",
+    "49 hours / 7 hours per day = 7 days."
+  ],
+  "solution": "7"
+}

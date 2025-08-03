@@ -1,0 +1,15 @@
+{
+  "query": "Today is my birthday and I'm three times older than I was six years ago. What is my age?",
+  "steps": [
+    "Let's start by assigning a variable to my current age. I'll use \\( x \\).",
+    "Six years ago, my age would be \\( x - 6 \\).",
+    "According to the problem, my current age \\( x \\) is three times my age six years ago.",
+    "This can be written as an equation: \\( x = 3(x - 6) \\).",
+    "Let's solve the equation step by step. Start by distributing the 3 on the right side: \\( x = 3x - 18 \\).",
+    "Now, I want to get all \\( x \\) terms on one side. I'll subtract \\( 3x \\) from both sides: \\( x - 3x = -18 \\).",
+    "Simplify the left side: \\( -2x = -18 \\).",
+    "To solve for \\( x \\), divide both sides by \\(-2\\): \\( x = \\frac{-18}{-2} \\).",
+    "Simplify the division: \\( x = 9 \\)."
+  ],
+  "solution": "9"
+}

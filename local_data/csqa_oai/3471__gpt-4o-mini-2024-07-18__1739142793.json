@@ -1,0 +1,15 @@
+{
+  "query": "Question: If someone is cooking near the end of the day what are they going to have?\n\nChoices:\nA: steam\nB: breakfast\nC: having dinner\nD: get food\nE: cooked food",
+  "steps": [
+    "The context is about \"cooking\" which indicates a meal preparation process.",
+    "Since it is near the end of the day, it typically refers to the time for the evening meal.",
+    "The evening meal is commonly referred to as \"dinner.\"",
+    "Choice A: \"steam\" is not a meal, it describes a cooking method.",
+    "Choice B: \"breakfast\" refers to the morning meal, which does not fit the context of evening cooking.",
+    "Choice C: \"having dinner\" aligns with the time of day and the cooking activity being referenced.",
+    "Choice D: \"get food\" is vague and does not specify what meal is being prepared or consumed.",
+    "Choice E: \"cooked food\" is also vague, it does not specify the time or the type of meal being referred to.",
+    "Based on the contextual clues and elimination of other choices, it is most logical that if someone is cooking near the end of the day, they are indeed preparing for dinner."
+  ],
+  "solution": "C"
+}

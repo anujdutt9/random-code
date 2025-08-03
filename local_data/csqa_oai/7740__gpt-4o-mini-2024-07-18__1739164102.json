@@ -1,0 +1,15 @@
+{
+  "query": "Question: Where would you see a conductor and performers singing in German?\n\nChoices:\nA: subway\nB: listen to music\nC: orchestra\nD: broadway\nE: opera",
+  "steps": [
+    "First, identify the keywords in the question: \"conductor,\" \"performers,\" and \"singing in German.\"",
+    "A conductor typically leads a musical ensemble, usually found in formal music settings.",
+    "Performers singing in German suggests a setting where the language is emphasized in the performance.",
+    "Consider the choices given: \nA: subway - typically not a setting for formal music with a conductor.\nB: listen to music - too broad and doesn't involve live performances.\nC: orchestra - involves a conductor and may feature performances in various languages.\nD: broadway - predominantly features English-language performances and generally lacks a conductor.\nE: opera - often includes a conductor and has many performances in German (e.g., works by composers like Wagner and Mozart).",
+    "Among the choices, both C (orchestra) and E (opera) involve a conductor, but E explicitly aligns with singing in German.",
+    "An orchestra could perform in multiple languages, whereas operas like \"Die Fledermaus\" or \"The Magic Flute\" are specifically in German.",
+    "The context of the question leans towards classical music, where operas are most directly associated with a specific thematic use of language.",
+    "Also, operas typically feature dramatic performances, which might not be the primary focus of an orchestra.",
+    "Therefore, while both orchestras and operas feature conductors, the specific mention of performers singing in German indicates that the answer is likely an opera."
+  ],
+  "solution": "E"
+}

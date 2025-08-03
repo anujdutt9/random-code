@@ -1,0 +1,19 @@
+{
+  "query": "The carousel at the fair has 3 blue horses, three times that many purple horses, twice as many green horses as purple horses, and 1/6th as many gold horses as green horses. How many horses are there total?",
+  "steps": [
+    "The problem states that there are 3 blue horses.",
+    "There are three times as many purple horses as blue horses.",
+    "Since there are 3 blue horses, there are 3 times 3 purple horses, which equals 9 purple horses.",
+    "There are twice as many green horses as purple horses.",
+    "Since there are 9 purple horses, there are 2 times 9 green horses, which equals 18 green horses.",
+    "There are 1/6th as many gold horses as green horses.",
+    "Since there are 18 green horses, there are 1/6 times 18 gold horses.",
+    "Calculating 1/6 of 18 gives 3 gold horses.",
+    "Now I have the number of each type of horse: 3 blue, 9 purple, 18 green, and 3 gold.",
+    "To find the total number of horses, I need to add them together.",
+    "3 blue horses plus 9 purple horses equals 12 horses.",
+    "12 horses plus 18 green horses equals 30 horses.",
+    "30 horses plus 3 gold horses equals 33 horses."
+  ],
+  "solution": "33"
+}

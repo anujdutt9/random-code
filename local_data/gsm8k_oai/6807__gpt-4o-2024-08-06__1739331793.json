@@ -1,0 +1,18 @@
+{
+  "query": "To make yogurt, the company needs milk and fruit. Milk is bought at $1.5 per liter and fruit at $2 per kilogram. To make one batch of yogurt, the company needs 10 liters of milk, and 3 kilograms of fruit. How much does it cost the firm to produce three batches of yogurt?",
+  "steps": [
+    "First, I need to determine the cost of milk for one batch of yogurt.",
+    "The company needs 10 liters of milk for one batch.",
+    "Each liter of milk costs $1.5.",
+    "So, the cost of milk for one batch is 10 liters * $1.5/liter = $15.",
+    "Next, I need to find out the cost of fruit for one batch of yogurt.",
+    "The company needs 3 kilograms of fruit for one batch.",
+    "Each kilogram of fruit costs $2.",
+    "So, the cost of fruit for one batch is 3 kilograms * $2/kilogram = $6.",
+    "Now, I add the cost of milk and fruit for one batch.",
+    "The total cost for one batch is $15 (milk) + $6 (fruit) = $21.",
+    "I need to calculate the total cost for three batches of yogurt.",
+    "Since each batch costs $21, three batches will cost 3 * $21 = $63."
+  ],
+  "solution": "63"
+}

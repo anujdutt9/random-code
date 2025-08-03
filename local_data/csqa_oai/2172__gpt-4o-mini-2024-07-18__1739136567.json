@@ -1,0 +1,14 @@
+{
+  "query": "Question: I need to buy frozen food locally in the smaller shop, where would I go?\n\nChoices:\nA: grocery store\nB: supermarket\nC: refrigerator\nD: freezer\nE: fridge",
+  "steps": [
+    "The question specifies that I need to buy frozen food locally in a smaller shop.",
+    "I should consider what types of places sell frozen food.",
+    "Common places that sell frozen food include grocery stores and supermarkets.",
+    "Since the question specifies a \"smaller shop,\" a supermarket is likely too large for this context.",
+    "A grocery store is typically smaller than a supermarket and often sells frozen food.",
+    "I can rule out choices C (refrigerator), D (freezer), and E (fridge) because these are not places to buy food, but rather storage items for food.",
+    "Now, I am left considering only A (grocery store) and B (supermarket).",
+    "Since the context focuses on a smaller shop, A (grocery store) is the most fitting choice for buying frozen food locally."
+  ],
+  "solution": "A"
+}

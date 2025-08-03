@@ -1,0 +1,11 @@
+{
+  "query": "Question: In humans, the gene for a free earlobe [E] is dominant over the gene for an attached earlobe [e]. If one parent has a free earlobe [ Ee ] and the other parent has an attached earlobe ( ee ), what is the probability that their offspring will have an attached earlobe?\n\nChoices:\nA: 0%\nB: 25%\nC: 50%\nD: 100%",
+  "steps": [
+    "Identify the genotypes of the parents. The first parent has a genotype of Ee (free earlobe) and the second parent has a genotype of ee (attached earlobe).",
+    "Determine the possible alleles that the offspring can inherit. The first parent can contribute either E or e, while the second parent can only contribute e.",
+    "List the potential combinations of alleles for the offspring based on the contributions from both parents. The potential combinations from the cross are: Ee (free earlobe) and ee (attached earlobe).",
+    "Count the viable outcomes from the combinations. Out of the two possible combinations (Ee and ee), only one combination (ee) results in an attached earlobe.",
+    "Calculate the probability. Since there is 1 combination that leads to attached earlobe out of 2 possible combinations, the probability is 1/2 or 50%."
+  ],
+  "solution": "C"
+}

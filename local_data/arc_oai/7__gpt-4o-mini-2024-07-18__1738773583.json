@@ -1,0 +1,11 @@
+{
+  "query": "Question: As part of an experiment, an astronaut takes a scale to the Moon and weighs himself. The scale reads 31 pounds. If the astronaut has a mass of about 84 kilograms, which are the approximate weight and mass of the astronaut when standing on the Earth?\n\nChoices:\nA: 31 pounds and 14 kilograms\nB: 31 pounds and 84 kilograms\nC: 186 pounds and 14 kilograms\nD: 186 pounds and 84 kilograms",
+  "steps": [
+    "First, we need to understand that weight is the force exerted by gravity on an object's mass. Weight on the Moon is less than on Earth due to the Moon's weaker gravitational pull.",
+    "The astronaut's weight on the Moon is given as 31 pounds. We know that the Moon's gravity is about 1/6th that of Earth's. Therefore, to find the weight on Earth, we multiply the Moon's weight by the factor of 6.",
+    "Calculating the weight on Earth: 31 pounds on the Moon \u00d7 6 = 186 pounds on Earth.",
+    "Next, we confirm the mass of the astronaut. The astronaut's mass is given as about 84 kilograms, and this mass remains constant regardless of the gravitational pull, whether on the Moon or on Earth.",
+    "Now, we compare our findings with the provided choices. The approximate weight on Earth is 186 pounds, and the mass is 84 kilograms."
+  ],
+  "solution": "D"
+}

@@ -1,0 +1,27 @@
+{
+  "query": "Joel collected a bin of old toys to donate. By asking his friends, he was able to collect 18 stuffed animals, 42 action figures, 2 board games, and 13 puzzles. His sister gave him some of her old toys from her closet, and then Joel added twice as many toys from his own closet as his sister did from hers. In all, Joel was able to donate 108 toys. How many of the donated toys were Joel\u2019s?",
+  "steps": [
+    "Joel initially collected a total of toys before adding his own and his sister's.",
+    "Let's first calculate the number of toys Joel collected by asking his friends: 18 stuffed animals + 42 action figures + 2 board games + 13 puzzles.",
+    "18 + 42 = 60",
+    "60 + 2 = 62",
+    "62 + 13 = 75",
+    "Joel collected 75 toys initially.",
+    "Let \\( s \\) be the number of toys Joel's sister gave him.",
+    "Joel added twice as many toys as his sister did, which is \\( 2s \\).",
+    "The total number of toys donated is 108.",
+    "The equation for the total number of toys is 75 (initial) + \\( s \\) (sister) + \\( 2s \\) (himself) = 108.",
+    "This equation simplifies to: \\( 75 + s + 2s = 108 \\).",
+    "Combine terms to get \\( 75 + 3s = 108 \\).",
+    "Subtract 75 from both sides: \\( 3s = 108 - 75 \\).",
+    "Calculate 108 - 75 = 33.",
+    "We have \\( 3s = 33 \\).",
+    "Divide both sides by 3: \\( s = 33 / 3 \\).",
+    "Calculate 33 / 3 = 11.",
+    "Joel's sister gave him 11 toys.",
+    "Joel added \\( 2s = 2 \\times 11 \\) toys.",
+    "Calculate 2 x 11 = 22.",
+    "Joel added 22 toys himself."
+  ],
+  "solution": "22"
+}

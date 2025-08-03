@@ -1,0 +1,13 @@
+{
+  "query": "Chad is measuring the size of different countries. He sees that Canada is 1.5 times bigger than the United States and Russia is 1/3 bigger than Canada. How many times bigger is Russia than the United States?",
+  "steps": [
+    "First, I need to establish the relative sizes of the countries given in the problem.",
+    "The United States is our baseline size, which I will represent as 1 unit.",
+    "Canada is 1.5 times the size of the United States, so Canada is 1.5 units in size.",
+    "Russia is 1/3 larger than Canada, so I need to calculate Russia's size based on Canada's size.",
+    "To find 1/3 of Canada's size, I multiply Canada's size by 1/3: \\( 1.5 \\times \\frac{1}{3} = 0.5 \\).",
+    "I then add this 1/3 to Canada's original size to find Russia's size: \\( 1.5 + 0.5 = 2.0 \\).",
+    "Russia is 2.0 units in size, meaning it is twice the size of the United States."
+  ],
+  "solution": "2"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Jonathan eats 2500 calories every day except for Saturday, when he consumes an extra 1000 calories.  He burns 3000 calories every day.  What is his weekly caloric deficit?",
+  "steps": [
+    "First, I need to calculate the total calories Jonathan consumes in a week.",
+    "He eats 2500 calories each day from Sunday to Friday. That\u2019s 6 days.",
+    "So, for six days, he eats 2500 calories/day * 6 days = 15000 calories.",
+    "On Saturday, he consumes an extra 1000 calories, so he eats 2500 + 1000 = 3500 calories.",
+    "Now, I add up the calories consumed for the entire week: 15000 calories (Sunday to Friday) + 3500 calories (Saturday) = 18500 calories.",
+    "Next, I need to calculate how many calories he burns in a week.",
+    "He burns 3000 calories every day, so over 7 days, he burns 3000 calories/day * 7 days = 21000 calories.",
+    "I have the total calories consumed in a week (18500) and the total calories burned in a week (21000).",
+    "Now, I find his weekly caloric deficit by subtracting the calories consumed from the calories burned.",
+    "Deficit = 21000 calories burned - 18500 calories consumed = 2500 calories."
+  ],
+  "solution": "2500"
+}

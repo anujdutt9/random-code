@@ -1,0 +1,16 @@
+{
+  "query": "Brittney can chop 15 onions in 5 minutes. Carl can chop 20 onions within that same time. How many more onions can Carl chop in 30 minutes than Brittney?",
+  "steps": [
+    "First, find Brittney's onion chopping rate per minute. She can chop 15 onions in 5 minutes.",
+    "Brittney's rate is 15 onions / 5 minutes = 3 onions per minute.",
+    "Next, calculate how many onions Brittney can chop in 30 minutes.",
+    "In 30 minutes, Brittney can chop 3 onions/minute * 30 minutes = 90 onions.",
+    "Now, find Carl's onion chopping rate per minute. He can chop 20 onions in 5 minutes.",
+    "Carl's rate is 20 onions / 5 minutes = 4 onions per minute.",
+    "Calculate how many onions Carl can chop in 30 minutes.",
+    "In 30 minutes, Carl can chop 4 onions/minute * 30 minutes = 120 onions.",
+    "To find how many more onions Carl can chop than Brittney in 30 minutes, subtract the number of onions Brittney can chop from the number Carl can chop.",
+    "The difference is 120 onions - 90 onions = 30 onions."
+  ],
+  "solution": "30"
+}

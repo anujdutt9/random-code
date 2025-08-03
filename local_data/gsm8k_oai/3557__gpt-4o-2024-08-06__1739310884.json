@@ -1,0 +1,20 @@
+{
+  "query": "Jim is a maintenance worker at a pool. Every time someone jumps in the pool, they cause 400 ml of water to splash out and evaporate. Jim has to get everyone out of the pool, clean, and refill it when it gets below 80% full. If the pool holds 2000 L of water, how many times can people jump in the pool before Jim has to clean it?",
+  "steps": [
+    "First, I need to determine how much water needs to remain in the pool before Jim has to clean and refill it.",
+    "The pool holds 2000 liters in total.",
+    "Jim will clean the pool when it gets below 80% full.",
+    "80% of 2000 liters is calculated by multiplying 2000 by 0.8.",
+    "Calculating this, 2000 liters * 0.8 = 1600 liters.",
+    "So, the pool can only lose water until it reaches 1600 liters.",
+    "Next, I need to calculate how much water can be lost before the pool reaches 1600 liters.",
+    "The pool starts with 2000 liters and it needs to stay above 1600 liters.",
+    "So, the pool can lose up to 2000 liters - 1600 liters = 400 liters.",
+    "Now, I need to determine the number of times people can jump in the pool causing 400 ml (or 0.4 liters) of water to splash out each time.",
+    "I convert the 400 liters that the pool can lose into milliliters: 400 liters * 1000 ml/liter = 400,000 ml.",
+    "Each jump causes a loss of 400 ml.",
+    "To find the number of jumps before reaching 400,000 ml, I divide 400,000 ml by 400 ml/jump.",
+    "Calculating this, 400,000 ml / 400 ml/jump = 1000 jumps."
+  ],
+  "solution": "1000"
+}

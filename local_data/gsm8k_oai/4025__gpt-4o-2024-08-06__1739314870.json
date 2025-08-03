@@ -1,0 +1,14 @@
+{
+  "query": "A vampire drains three people a week. His best friend is a werewolf who eats five people a week, but only fresh ones, never drained ones. How many weeks will a village of 72 people last them both?",
+  "steps": [
+    "First, I need to determine how many people are affected per week by the vampire and the werewolf together.",
+    "The vampire drains 3 people per week.",
+    "The werewolf eats 5 people per week.",
+    "Since the werewolf only eats fresh people and never people who have been drained, their actions do not overlap. So we add their totals together.",
+    "Together, the vampire and the werewolf affect 3 (drained) + 5 (eaten) = 8 people per week.",
+    "The village has 72 people. To find out how many weeks 72 people will last, I divide the number of people by the number of people affected per week.",
+    "Divide the total population by the weekly affected amount: 72 people / 8 people per week = 9 weeks.",
+    "I have calculated it correctly and confirmed that there are no misunderstandings or mistakes in the logic."
+  ],
+  "solution": "9"
+}

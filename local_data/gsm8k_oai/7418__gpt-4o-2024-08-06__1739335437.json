@@ -1,0 +1,17 @@
+{
+  "query": "Josh found out that 7 bottle caps weigh exactly one ounce. Josh's entire bottle cap collection weighs 18 pounds exactly. How many bottle caps does Josh have in his collection?",
+  "steps": [
+    "First, I need to convert the total weight of Josh's collection from pounds to ounces, because I'm given the weight of the bottle caps in ounces.",
+    "There are 16 ounces in a pound.",
+    "Josh's collection weighs 18 pounds. To convert pounds to ounces, I multiply the number of pounds by 16.",
+    "18 pounds times 16 ounces per pound equals 288 ounces.",
+    "Now I know that Josh's collection weighs a total of 288 ounces.",
+    "I know that 7 bottle caps weigh one ounce.",
+    "To find out how many bottle caps Josh has, I need to determine how many groups of 7 bottle caps fit into 288 ounces.",
+    "To do this, I divide the total weight in ounces by the weight of 7 bottle caps, which is 1 ounce.",
+    "288 ounces divided by 1 ounce per 7 caps equals 288 groups of 7 bottle caps.",
+    "Each group contains 7 bottle caps, so I multiply 288 by 7 to find the total number of bottle caps.",
+    "288 times 7 equals 2016."
+  ],
+  "solution": "2016"
+}

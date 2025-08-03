@@ -1,0 +1,20 @@
+{
+  "query": "Pablo made 4 stacks of toy blocks. The first stack was 5 blocks tall. The second stack was 2 blocks taller than the first. The third stack was 5 blocks shorter than the second stack, and the last stack was 5 blocks taller than the third stack. How many toy blocks did Pablo use in all?",
+  "steps": [
+    "Pablo made 4 stacks of toy blocks.",
+    "The first stack was 5 blocks tall.",
+    "The second stack was 2 blocks taller than the first stack.",
+    "That means the second stack was 5 + 2 = 7 blocks tall.",
+    "The third stack was 5 blocks shorter than the second stack.",
+    "That means the third stack was 7 - 5 = 2 blocks tall.",
+    "The fourth stack was 5 blocks taller than the third stack.",
+    "That means the fourth stack was 2 + 5 = 7 blocks tall.",
+    "Now, I will add the blocks from each stack together.",
+    "First stack: 5 blocks. Second stack: 7 blocks. Third stack: 2 blocks. Fourth stack: 7 blocks.",
+    "The total number of blocks used is 5 + 7 + 2 + 7.",
+    "5 + 7 = 12",
+    "12 + 2 = 14",
+    "14 + 7 = 21"
+  ],
+  "solution": "21"
+}

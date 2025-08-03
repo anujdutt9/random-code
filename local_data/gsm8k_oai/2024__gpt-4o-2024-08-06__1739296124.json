@@ -1,0 +1,20 @@
+{
+  "query": "At a birthday party, there are 20 red balloons and 15 green balloons. Before the party started, 3 red and 2 green balloons burst. How many balloons are left?",
+  "steps": [
+    "First, I need to find out how many red balloons are left.",
+    "Originally, there are 20 red balloons.",
+    "3 red balloons burst.",
+    "To find the remaining red balloons, I subtract the burst ones from the original number: 20 - 3.",
+    "20 - 3 = 17. So, there are 17 red balloons left.",
+    "Now, let's find out how many green balloons are left.",
+    "Originally, there are 15 green balloons.",
+    "2 green balloons burst.",
+    "To find the remaining green balloons, I subtract the burst ones from the original number: 15 - 2.",
+    "15 - 2 = 13. So, there are 13 green balloons left.",
+    "Now, I need to find the total number of balloons left.",
+    "There are 17 red balloons and 13 green balloons left.",
+    "To find the total number of balloons remaining, I add the remaining red and green balloons: 17 + 13.",
+    "17 + 13 = 30."
+  ],
+  "solution": "30"
+}

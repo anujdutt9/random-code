@@ -1,0 +1,21 @@
+{
+  "query": "Matt did his homework for 150 minutes. He spent 30% of that time on math and 40% on science. He spent the remaining time on other subjects. How much time did Matt spend on homework in other subjects?",
+  "steps": [
+    "Matt did his homework for a total of 150 minutes.",
+    "He spent 30% of his time on math.",
+    "To find out how much time he spent on math, I need to calculate 30% of 150 minutes.",
+    "30% of 150 is calculated as (30/100) * 150.",
+    "Calculating it gives me (0.3) * 150 = 45 minutes.",
+    "So, Matt spent 45 minutes on math.",
+    "He spent 40% of his time on science.",
+    "To find out how much time he spent on science, I need to calculate 40% of 150 minutes.",
+    "40% of 150 is calculated as (40/100) * 150.",
+    "Calculating it gives me (0.4) * 150 = 60 minutes.",
+    "So, Matt spent 60 minutes on science.",
+    "Now I need to determine how much time he spent on other subjects.",
+    "I add the time he spent on math and science: 45 minutes + 60 minutes = 105 minutes.",
+    "To find the time spent on other subjects, I subtract the combined time for math and science from the total time: 150 minutes - 105 minutes.",
+    "Calculating this gives me 150 - 105 = 45 minutes."
+  ],
+  "solution": "45"
+}

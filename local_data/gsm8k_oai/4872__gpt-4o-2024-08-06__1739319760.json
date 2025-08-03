@@ -1,0 +1,15 @@
+{
+  "query": "Jill is the hairdresser for the school's dance team and has to braid 8 dancers' hair. If each dancer has five braids and each braid takes 30 seconds, how many minutes will it take to braid all the dancers' hair?",
+  "steps": [
+    "First, I need to determine how many braids Jill needs to do in total.",
+    "Each of the 8 dancers has 5 braids.",
+    "To find the total number of braids, I multiply the number of dancers by the number of braids per dancer: 8 dancers * 5 braids/dancer = 40 braids.",
+    "Next, I need to calculate the total time taken in seconds to complete all the braids.",
+    "Each braid takes 30 seconds.",
+    "So, I multiply the total number of braids by the time per braid: 40 braids * 30 seconds/braid = 1200 seconds.",
+    "I need to convert the total time from seconds to minutes.",
+    "There are 60 seconds in a minute.",
+    "So, I divide the total time in seconds by 60 to get the time in minutes: 1200 seconds / 60 seconds/minute = 20 minutes."
+  ],
+  "solution": "20"
+}

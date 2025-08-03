@@ -1,0 +1,18 @@
+{
+  "query": "Kelly has 8 chickens that lay 3 eggs each per day. If Kelly sells these eggs for $5 a dozen. How much money will she make in 4 weeks if she sells all her eggs?",
+  "steps": [
+    "Kelly has 8 chickens.",
+    "Each chicken lays 3 eggs per day.",
+    "To find out how many eggs are laid per day by all the chickens, multiply the number of chickens by the number of eggs each lays: 8 chickens * 3 eggs = 24 eggs per day.",
+    "Kelly collects 24 eggs per day.",
+    "There are 7 days in a week.",
+    "In one week, Kelly will collect 24 eggs/day * 7 days = 168 eggs.",
+    "We need to calculate the number of eggs collected in 4 weeks.",
+    "Multiply the weekly total by 4 to find the total for 4 weeks: 168 eggs/week * 4 weeks = 672 eggs.",
+    "Eggs are sold by the dozen, which means 12 eggs per dozen.",
+    "Divide the total number of eggs by 12 to find out how many dozen eggs Kelly has: 672 eggs \u00f7 12 eggs/dozen = 56 dozen eggs.",
+    "Kelly sells each dozen of eggs for $5.",
+    "Multiply the number of dozen eggs by the price per dozen: 56 dozen * $5/dozen = $280."
+  ],
+  "solution": "280"
+}

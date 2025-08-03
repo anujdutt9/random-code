@@ -1,0 +1,22 @@
+{
+  "query": "Rodney, Roger and Ron can lift a combined weight of 239 pounds.  Rodney can lift twice as much as Roger, and Roger can lift 7 pounds less than 4 times the amount that Ron can lift.  How much can Rodney lift?",
+  "steps": [
+    "Let's define the variables: let Rn be the amount Ron can lift, Rg be the amount Roger can lift, and Rd be the amount Rodney can lift.",
+    "We know their combined lifting weight is 239 pounds: Rn + Rg + Rd = 239.",
+    "Rodney can lift twice as much as Roger, so Rd = 2 * Rg.",
+    "Roger can lift 7 pounds less than 4 times what Ron can lift, so Rg = 4 * Rn - 7.",
+    "Now we have three equations: \n1) Rn + Rg + Rd = 239,\n2) Rd = 2 * Rg,\n3) Rg = 4 * Rn - 7.",
+    "Substitute the second and third equations into the first equation:\nRn + (4 * Rn - 7) + (2 * (4 * Rn - 7)) = 239.",
+    "Simplify the equation: \nRn + 4 * Rn - 7 + 8 * Rn - 14 = 239.",
+    "Combine like terms: \nRn + 4 * Rn + 8 * Rn = 13 * Rn,\nand -7 - 14 = -21.",
+    "Now the equation is 13 * Rn - 21 = 239.",
+    "Add 21 to both sides: \n13 * Rn = 260.",
+    "Divide both sides by 13: \nRn = 20.",
+    "So Ron can lift 20 pounds. Now, use Rg = 4 * Rn - 7 to find how much Roger can lift: \nRg = 4 * 20 - 7.",
+    "Calculate: \nRg = 80 - 7,\nRg = 73.",
+    "Now, Rd = 2 * Rg to find how much Rodney can lift: \nRd = 2 * 73.",
+    "Calculate: \nRd = 146.",
+    "Rodney can lift 146 pounds."
+  ],
+  "solution": "146"
+}

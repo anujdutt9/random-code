@@ -1,0 +1,22 @@
+{
+  "query": "Jack is on the phone with a scammer who says the IRS will arrest Jack if he doesn't send them the codes from 6 $500 Best Buy gift cards and 9 $200 Walmart gift cards. After sending the codes for 1 Best Buy gift card and 2 Walmart gift cards, Jack wises up and hangs up. How many dollars' worth of gift cards can he still return?",
+  "steps": [
+    "First, I need to calculate the total value of the Best Buy gift cards Jack has.",
+    "There are 6 Best Buy gift cards, each worth $500.",
+    "The total value of the Best Buy gift cards is 6 * $500 = $3000.",
+    "Next, I calculate the total value of the Walmart gift cards Jack has.",
+    "There are 9 Walmart gift cards, each worth $200.",
+    "The total value of the Walmart gift cards is 9 * $200 = $1800.",
+    "Now, I determine the total value of all the gift cards Jack initially has.",
+    "The total initial gift card value is $3000 (Best Buy) + $1800 (Walmart) = $4800.",
+    "Jack sent codes for 1 Best Buy gift card and 2 Walmart gift cards.",
+    "I need to calculate the value of the Best Buy gift card he sent.",
+    "1 Best Buy gift card is worth $500.",
+    "Now, I calculate the value of the Walmart gift cards he sent.",
+    "2 Walmart gift cards are worth 2 * $200 = $400.",
+    "The total value of the gift cards he sent is $500 (Best Buy) + $400 (Walmart) = $900.",
+    "To find out how much he can still return, I subtract the value of the sent gift cards from the initial total value.",
+    "The remaining value of the gift cards is $4800 - $900 = $3900."
+  ],
+  "solution": "3900"
+}

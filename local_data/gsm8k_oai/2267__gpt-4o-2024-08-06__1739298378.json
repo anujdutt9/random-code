@@ -1,0 +1,15 @@
+{
+  "query": "A row of houses all share a community space where they put up their clotheslines. There are 2 clotheslines for every house on the street. On the street, there are a total of 11 children and 20 adults. Each child currently has 4 items of clothing on the clotheslines and each adult currently has 3 items of clothing on the clotheslines. If each clothesline can hold 2 items of clothing and all of the clotheslines are full, how many houses are on the street?",
+  "steps": [
+    "First, I need to calculate the total number of clothing items currently on the clotheslines.",
+    "Each child has 4 items, and there are 11 children, so the total items from children are 11 * 4 = 44.",
+    "Each adult has 3 items, and there are 20 adults, so the total items from adults are 20 * 3 = 60.",
+    "Now, I add the total items from children and adults to find the total number of items on the clotheslines: 44 + 60 = 104.",
+    "Each clothesline can hold 2 items of clothing.",
+    "I need to find the total number of clotheslines.",
+    "Since all clotheslines are full with 104 items and each clothesline can hold 2 items, the total number of clotheslines is 104 / 2 = 52.",
+    "There are 2 clotheslines for every house.",
+    "I divide the total number of clotheslines by the number of clotheslines per house to find the number of houses: 52 / 2 = 26."
+  ],
+  "solution": "26"
+}

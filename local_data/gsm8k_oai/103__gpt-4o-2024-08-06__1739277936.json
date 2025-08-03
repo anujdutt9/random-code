@@ -1,0 +1,20 @@
+{
+  "query": "Janice can type 6 sentences per minute. Today at work, Janice continued working on a paper she started typing yesterday. She typed for 20 minutes, took a break, and typed 15 minutes longer. She then had to erase 40 sentences she had typed incorrectly. After a meeting, she typed for 18 minutes more. In all, the paper had 536 sentences by the end of today. How many sentences did she start with today?",
+  "steps": [
+    "First, I need to calculate the total number of sentences Janice typed today.",
+    "Janice typed for 20 minutes initially, and she types at a rate of 6 sentences per minute.",
+    "In 20 minutes, she typed 20 minutes * 6 sentences/minute = 120 sentences.",
+    "Then Janice typed for 15 minutes after her break.",
+    "In those 15 minutes, she typed 15 minutes * 6 sentences/minute = 90 sentences.",
+    "Next, she had to erase 40 sentences due to errors.",
+    "So far, she has typed a total of 120 + 90 = 210 sentences.",
+    "After erasing, her net sentence count would be 210 - 40 = 170 sentences.",
+    "She then attended a meeting and typed for an additional 18 minutes afterward.",
+    "In 18 minutes, she typed 18 minutes * 6 sentences/minute = 108 sentences.",
+    "Now, let\u2019s find the total sentences typed today after all sessions: 170 + 108 = 278 sentences.",
+    "The final count of the paper is 536 sentences.",
+    "To find how many sentences she started with today, subtract the sentences typed today from the final total.",
+    "536 sentences - 278 sentences = 258 sentences."
+  ],
+  "solution": "258"
+}

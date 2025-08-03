@@ -1,0 +1,22 @@
+{
+  "query": "A retailer sells any shirt for the same price and any pair of pants for the same price, but the price of shirts and pants are not the same. Say you bought 2 shirts and 3 pairs of pants for $120 in total, then you realized you didn't need the extra pants. What's the price of 1 shirt at this place if when you returned all 3 pairs of pants you were refunded 25% of what you originally paid?",
+  "steps": [
+    "The total cost for 2 shirts and 3 pairs of pants is $120.",
+    "Let's denote the price of one shirt as S and the price of one pair of pants as P.",
+    "The equation representing the total cost is: 2S + 3P = 120.",
+    "When I returned the 3 pairs of pants, I was refunded 25% of the original total price of $120.",
+    "25% of $120 is calculated as 0.25 \u00d7 120 = 30.",
+    "Therefore, the refund of $30 corresponds to the total cost of the 3 pairs of pants.",
+    "This means 3P = 30.",
+    "To find the price of one pair of pants, we divide both sides of the equation by 3: P = 30 \u00f7 3 = 10.",
+    "Now we know the price of one pair of pants is $10.",
+    "Next, we'll substitute P = 10 back into the original equation 2S + 3P = 120 to find the price of one shirt.",
+    "Substituting P = 10 gives us: 2S + 3(10) = 120.",
+    "This simplifies to: 2S + 30 = 120.",
+    "We then subtract 30 from both sides to isolate the term with S: 2S = 120 - 30.",
+    "This simplifies to: 2S = 90.",
+    "Finally, we divide both sides by 2 to find the price of one shirt: S = 90 \u00f7 2.",
+    "This simplifies to: S = 45."
+  ],
+  "solution": "45"
+}

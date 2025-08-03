@@ -1,0 +1,18 @@
+{
+  "query": "There are 30 players on a football team. The coach has 8 liters of water. She pours 200 milliliters of water for every player so they can get hydrated. Unfortunately, there was a water spill and 250ml of water was spilled. How much water was left over?",
+  "steps": [
+    "First, I need to determine how much water is poured for all the players.",
+    "There are 30 players on the team.",
+    "Each player receives 200 milliliters of water.",
+    "I multiply the number of players by the amount of water each gets: 30 players * 200 milliliters/player = 6000 milliliters.",
+    "I know the initial amount of water the coach has is 8 liters.",
+    "I have to convert 8 liters to milliliters, because the water measurement for the players is in milliliters.",
+    "1 liter = 1000 milliliters, so 8 liters = 8000 milliliters.",
+    "Now, I need to account for the water that was spilled.",
+    "There was a spill of 250 milliliters of water.",
+    "Therefore, the total water distributed and spilled is 6000 milliliters + 250 milliliters = 6250 milliliters.",
+    "To find out how much water is left, I subtract the total water distributed and spilled from the initial amount.",
+    "8000 milliliters - 6250 milliliters = 1750 milliliters."
+  ],
+  "solution": "1750"
+}

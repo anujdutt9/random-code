@@ -1,0 +1,18 @@
+{
+  "query": "A farm has 5 less than 9 times the amount of hens as roosters.  If there are 75 total chickens, how many hens are there?",
+  "steps": [
+    "Let's denote the number of roosters as R.",
+    "According to the problem, the number of hens, H, is 5 less than 9 times the number of roosters. So we can write this as an equation: H = 9R - 5.",
+    "The problem states there are 75 total chickens. We know that the total number of chickens is the sum of roosters and hens, so we have R + H = 75.",
+    "We have two equations: \n1) H = 9R - 5\n2) R + H = 75",
+    "We can substitute equation 1 into equation 2 to find the number of roosters. Substitute H from equation 1 into equation 2: R + (9R - 5) = 75.",
+    "Simplify the equation: R + 9R - 5 = 75.",
+    "Combine like terms: 10R - 5 = 75.",
+    "Add 5 to both sides of the equation: 10R = 80.",
+    "Divide both sides by 10: R = 8.",
+    "Now that we know R, we can find H using equation 1: H = 9R - 5 = 9(8) - 5.",
+    "Calculate 9 times 8: 9 \u00d7 8 = 72.",
+    "Subtract 5 from 72: 72 - 5 = 67."
+  ],
+  "solution": "67"
+}

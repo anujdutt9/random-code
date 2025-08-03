@@ -1,0 +1,14 @@
+{
+  "query": "John goes to the market with \u20ac100. He buys a roast for \u20ac17 and vegetables for \u20ac11. How much money does he have left?",
+  "steps": [
+    "John starts with \u20ac100.",
+    "He buys a roast for \u20ac17.",
+    "To find out how much he has left after buying the roast, subtract \u20ac17 from \u20ac100.",
+    "\u20ac100 - \u20ac17 = \u20ac83.",
+    "He then buys vegetables for \u20ac11.",
+    "To find out how much he has left after buying the vegetables, subtract \u20ac11 from \u20ac83.",
+    "\u20ac83 - \u20ac11 = \u20ac72.",
+    "After buying both the roast and the vegetables, John has \u20ac72 left."
+  ],
+  "solution": "72"
+}

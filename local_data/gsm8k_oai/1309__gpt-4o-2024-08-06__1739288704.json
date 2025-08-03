@@ -1,0 +1,17 @@
+{
+  "query": "Martin has 18 goldfish. Each week 5 goldfish die. Martin purchases 3 new goldfish every week. How many goldfish will Martin have in 7 weeks?",
+  "steps": [
+    "Martin starts with 18 goldfish.",
+    "Each week, 5 goldfish die.",
+    "Each week, Martin purchases 3 new goldfish.",
+    "The net change in the number of goldfish each week is 3 gained minus 5 lost, which results in losing 2 goldfish per week.",
+    "In 1 week, Martin will have 18 - 2 = 16 goldfish.",
+    "In 2 weeks, Martin will have 16 - 2 = 14 goldfish.",
+    "In 3 weeks, Martin will have 14 - 2 = 12 goldfish.",
+    "In 4 weeks, Martin will have 12 - 2 = 10 goldfish.",
+    "In 5 weeks, Martin will have 10 - 2 = 8 goldfish.",
+    "In 6 weeks, Martin will have 8 - 2 = 6 goldfish.",
+    "In 7 weeks, Martin will have 6 - 2 = 4 goldfish."
+  ],
+  "solution": "4"
+}

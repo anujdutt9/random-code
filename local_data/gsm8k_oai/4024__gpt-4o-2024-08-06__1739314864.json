@@ -1,0 +1,19 @@
+{
+  "query": "Jodi starts off walking 1 mile a day for 6 days a week.  On the second week, she walks 2 miles a day, 6 days a week.  On the third week, she walks 3 miles a day, 6 days a week. Finally on the fourth week, she walks 4 miles a day, 6 days a week.  How many miles has she walked in 4 weeks?",
+  "steps": [
+    "In the first week, Jodi walks 1 mile a day for 6 days.",
+    "1 mile/day * 6 days/week = 6 miles in the first week.",
+    "In the second week, Jodi walks 2 miles a day for 6 days.",
+    "2 miles/day * 6 days/week = 12 miles in the second week.",
+    "In the third week, Jodi walks 3 miles a day for 6 days.",
+    "3 miles/day * 6 days/week = 18 miles in the third week.",
+    "In the fourth week, Jodi walks 4 miles a day for 6 days.",
+    "4 miles/day * 6 days/week = 24 miles in the fourth week.",
+    "Next, I sum the total miles walked over the four weeks.",
+    "6 miles (week 1) + 12 miles (week 2) + 18 miles (week 3) + 24 miles (week 4).",
+    "6 + 12 = 18.",
+    "18 + 18 = 36.",
+    "36 + 24 = 60."
+  ],
+  "solution": "60"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Mr. Ray has 100 customers waiting at his fish market. He has 10 tuna, each of which weighs 200 pounds. Each customer wants 25 pounds of tuna. Mr. Ray's store is first come, first served. How many customers will go home without any fish?",
+  "steps": [
+    "Mr. Ray has 10 tuna, and each weighs 200 pounds.",
+    "To find out the total amount of tuna in pounds, I should multiply the number of tuna by the weight of each tuna.",
+    "10 tuna * 200 pounds per tuna = 2000 pounds of tuna.",
+    "Each customer wants 25 pounds of tuna.",
+    "I need to determine how many customers can be served with 2000 pounds of tuna.",
+    "To do this, I divide the total pounds of tuna by the amount each customer wants.",
+    "2000 pounds \u00f7 25 pounds per customer = 80 customers can be served.",
+    "There are 100 customers in total.",
+    "I need to find out how many customers will not be served.",
+    "I subtract the number of customers who can be served from the total number of customers.",
+    "100 customers - 80 customers who can be served = 20 customers will go home without any fish."
+  ],
+  "solution": "20"
+}

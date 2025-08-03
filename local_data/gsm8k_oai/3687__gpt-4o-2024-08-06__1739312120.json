@@ -1,0 +1,15 @@
+{
+  "query": "Mason has 3 cartons of 200 blueberries. He makes as many muffins as he can with 10 blueberries per muffin. Then he makes 60 cinnamon muffins. What percentage of all the muffins he made have blueberries?",
+  "steps": [
+    "Mason has 3 cartons of 200 blueberries.",
+    "Calculate the total number of blueberries: 3 cartons \u00d7 200 blueberries/carton = 600 blueberries.",
+    "Each blueberry muffin requires 10 blueberries.",
+    "Calculate how many blueberry muffins Mason can make using 600 blueberries. This requires dividing 600 blueberries by 10 blueberries per muffin.",
+    "600 blueberries \u00f7 10 blueberries/muffin = 60 blueberry muffins.",
+    "Mason also makes 60 cinnamon muffins.",
+    "Calculate the total number of muffins made: 60 blueberry muffins + 60 cinnamon muffins = 120 muffins.",
+    "Find the percentage of muffins that are blueberry muffins: (number of blueberry muffins \u00f7 total number of muffins) \u00d7 100%",
+    "(60 blueberry muffins \u00f7 120 total muffins) \u00d7 100% = 50%"
+  ],
+  "solution": "50"
+}

@@ -1,0 +1,17 @@
+{
+  "query": "Jacob has half the number of shoes Edward has. Edward has 3 times the number of shoes Brian has. If Brian has 22 pairs of shoes, how many pairs of shoes do they have in total?",
+  "steps": [
+    "First, I need to find out how many pairs of shoes Brian has. The question states Brian has 22 pairs of shoes.",
+    "Now, I need to calculate Edward's number of shoes. Edward has 3 times the number of shoes Brian has.",
+    "Since Brian has 22 pairs, Edward must have 3 times 22.",
+    "3 times 22 is 66, so Edward has 66 pairs of shoes.",
+    "Next, I need to find out how many pairs of shoes Jacob has. Jacob has half the number of shoes Edward has.",
+    "Half of Edward's 66 pairs is calculated by dividing 66 by 2.",
+    "66 divided by 2 is 33, so Jacob has 33 pairs of shoes.",
+    "Now, I should sum up the pairs of shoes each person has to find the total. Jacob has 33 pairs, Edward has 66 pairs, and Brian has 22 pairs.",
+    "Adding these together, 33 + 66 + 22 will give the total number of pairs of shoes.",
+    "33 + 66 gives 99.",
+    "99 + 22 gives 121."
+  ],
+  "solution": "121"
+}

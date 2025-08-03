@@ -1,0 +1,15 @@
+{
+  "query": "George wants to borrow $100 from a loan shark. The finance fee starts at 5% and doubles every week. If George plans to borrow for 2 weeks, how much in fees will he have to pay?",
+  "steps": [
+    "George plans to borrow $100 from a loan shark for 2 weeks.",
+    "The initial finance fee is 5% of the $100.",
+    "I need to calculate 5% of $100, which is 0.05 \u00d7 $100 = $5.",
+    "The finance fee doubles every week.",
+    "After the first week, the finance fee is $5.",
+    "For the second week, the finance fee doubles, so I multiply $5 by 2 to get $10.",
+    "I need to add the finance fees for each week to get the total amount George will pay in fees.",
+    "In the first week, the fee is $5, and in the second week, it is $10.",
+    "The total finance fee for 2 weeks is $5 + $10."
+  ],
+  "solution": "15"
+}

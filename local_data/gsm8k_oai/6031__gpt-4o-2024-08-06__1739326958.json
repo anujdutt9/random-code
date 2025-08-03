@@ -1,0 +1,21 @@
+{
+  "query": "Sam and Drew have a combined age of 54. Sam is half of Drew's age. How old is Sam?",
+  "steps": [
+    "Let's start by identifying what we know.",
+    "We know that Sam and Drew together have a combined age of 54.",
+    "We also know that Sam is half of Drew's age.",
+    "Let D represent Drew's age.",
+    "Since Sam is half of Drew's age, Sam's age can be represented as D/2.",
+    "According to the problem, Sam's age plus Drew's age is 54. Therefore, we can write the equation D/2 + D = 54.",
+    "Combine the terms in the equation: D/2 + D can be simplified to (D/2 + 2D/2) = 3D/2.",
+    "Now the equation is 3D/2 = 54.",
+    "To eliminate the fraction, multiply both sides of the equation by 2: 3D/2 * 2 = 54 * 2.",
+    "This simplifies to 3D = 108.",
+    "Divide both sides by 3 to solve for D: 3D/3 = 108/3.",
+    "D = 36.",
+    "Now we know Drew's age is 36.",
+    "Since Sam is half of Drew's age, Sam's age is 36/2.",
+    "36 divided by 2 is 18."
+  ],
+  "solution": "18"
+}

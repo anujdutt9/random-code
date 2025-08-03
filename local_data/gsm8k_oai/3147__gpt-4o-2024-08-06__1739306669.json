@@ -1,0 +1,18 @@
+{
+  "query": "Peter needs to buy birdseed to last a week. He knows that each parakeet eats 2 grams a day. His parrots eat 14 grams a day. His finches eat half of what a parakeet eats. If he has 3 parakeets, 2 parrots and 4 finches, how many grams of birdseed does he need to buy?",
+  "steps": [
+    "First, I need to find how much birdseed the parakeets eat per day. Each parakeet eats 2 grams a day.",
+    "Peter has 3 parakeets, so in total the parakeets eat 3 \u00d7 2 = 6 grams per day.",
+    "Next, I'll determine how much birdseed the parrots eat per day. Each parrot eats 14 grams a day.",
+    "Peter has 2 parrots, so in total the parrots eat 2 \u00d7 14 = 28 grams per day.",
+    "Now, I need to find out how much birdseed the finches eat per day. Each finch eats half of what a parakeet eats.",
+    "Since a parakeet eats 2 grams a day, a finch eats 2 \u00f7 2 = 1 gram a day.",
+    "Peter has 4 finches, so in total the finches eat 4 \u00d7 1 = 4 grams per day.",
+    "Now, I'll calculate the total amount of birdseed needed per day for all the birds.",
+    "The parakeets eat 6 grams, the parrots eat 28 grams, and the finches eat 4 grams per day.",
+    "Adding these amounts together, Peter's birds eat a total of 6 + 28 + 4 = 38 grams per day.",
+    "Finally, I need to calculate the total amount of birdseed required for a week.",
+    "A week has 7 days, so Peter needs 38 grams per day \u00d7 7 days = 266 grams for the week."
+  ],
+  "solution": "266"
+}

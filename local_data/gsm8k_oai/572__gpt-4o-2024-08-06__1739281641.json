@@ -1,0 +1,21 @@
+{
+  "query": "Steve wanted to make a total of $100 within four days, so he took on a berry-picking job in Sweden. The job paid $2 for every pound of lingonberries picked. On Monday he picked 8 pounds. Tuesday\u2019s harvest was triple what he had picked the previous day. On Wednesday he felt very tired and decided to rest. How many pounds of lingonberries did Steve have to pick on Thursday?",
+  "steps": [
+    "First, I need to figure out how many pounds Steve picked on Tuesday. The problem says Tuesday's harvest was triple what he had picked on Monday.",
+    "On Monday, Steve picked 8 pounds of lingonberries.",
+    "On Tuesday, he picked 8 pounds * 3 = 24 pounds.",
+    "Now, I need to find out how much money Steve had made by the end of Tuesday.",
+    "He earns $2 for every pound picked.",
+    "On Monday, Steve earned 8 pounds * $2 = $16.",
+    "On Tuesday, he earned 24 pounds * $2 = $48.",
+    "By the end of Tuesday, he had earned $16 + $48 = $64.",
+    "Steve wants to make a total of $100.",
+    "So, by the end of Tuesday he still needed $100 - $64 = $36 more.",
+    "He was resting on Wednesday, so there was no income that day.",
+    "Therefore, Steve needed to earn the remaining $36 on Thursday.",
+    "To find out how many pounds he needed to pick on Thursday, divide the remaining amount by the rate paid per pound.",
+    "$36 \u00f7 $2 per pound = 18 pounds.",
+    "Steve needs to pick 18 pounds of lingonberries on Thursday."
+  ],
+  "solution": "18"
+}

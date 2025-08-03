@@ -1,0 +1,19 @@
+{
+  "query": "Brad\u2019s zip code consists of five numbers that add up to 10. The first and second numbers are the same. The third number is zero. The fourth number is double the first number. The fourth and fifth numbers add up to 8. What is Brad\u2019s zip code?",
+  "steps": [
+    "Let's denote the five numbers in the zip code as \\( a, a, 0, 2a, b \\).",
+    "From the problem, we know that the numbers add up to 10, so we have the equation: \\( a + a + 0 + 2a + b = 10 \\).",
+    "Simplifying, we get \\( 4a + b = 10 \\).",
+    "We also know that the fourth and fifth numbers add up to 8: \\( 2a + b = 8 \\).",
+    "Now we have two equations: \n1. \\( 4a + b = 10 \\)\n2. \\( 2a + b = 8 \\)",
+    "We can subtract the second equation from the first: \n\\( (4a + b) - (2a + b) = 10 - 8 \\).",
+    "This simplifies to \\( 2a = 2 \\).",
+    "Dividing both sides by 2, we find \\( a = 1 \\).",
+    "Substitute \\( a = 1 \\) back into the second equation: \\( 2a + b = 8 \\).",
+    "This gives \\( 2(1) + b = 8 \\), so \\( 2 + b = 8 \\).",
+    "Solving for \\( b \\), we get \\( b = 6 \\).",
+    "Now we have the values for all the numbers in the zip code: the first number \\( a = 1 \\), the second number \\( a = 1 \\), the third number is zero, the fourth number \\( 2a = 2 \\), and the fifth number \\( b = 6 \\).",
+    "Putting these values into the order specified in the problem, Brad\u2019s zip code is 1, 1, 0, 2, 6."
+  ],
+  "solution": "11026"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Chuck can ride the merry-go-round 5 times longer than Dave who can only ride it for 10 minutes before getting sick.  Erica can stay on the merry-go-round 30% longer than Chuck before getting sick.  How long can Erica stay on the merry-go-round?",
+  "steps": [
+    "The first step is to find out how long Chuck can stay on the merry-go-round.",
+    "Chuck can ride the merry-go-round 5 times longer than Dave.",
+    "Dave can ride for 10 minutes.",
+    "Therefore, Chuck can ride for 5 times 10 minutes.",
+    "Calculating 5 times 10 gives 50.",
+    "So, Chuck can stay on the merry-go-round for 50 minutes.",
+    "Now, let's find out how long Erica can stay on the merry-go-round.",
+    "Erica can stay on 30% longer than Chuck.",
+    "To find 30% of Chuck's time, we calculate 30% of 50 minutes.",
+    "30% as a decimal is 0.30.",
+    "Multiplying 50 by 0.30 gives 15.",
+    "Erica can ride 15 minutes longer than Chuck.",
+    "Adding 15 to Chuck's 50 minutes gives us the total time Erica can ride.",
+    "50 plus 15 equals 65."
+  ],
+  "solution": "65"
+}

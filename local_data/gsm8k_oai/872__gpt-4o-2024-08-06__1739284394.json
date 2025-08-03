@@ -1,0 +1,20 @@
+{
+  "query": "John decided to buy 10 pins for himself.  They are normally $20 each but they were on sale for 15% off.  How much did he spend on pins?",
+  "steps": [
+    "I know the original price of each pin is $20.",
+    "The pins are on sale for 15% off.",
+    "First, I need to calculate the discount amount on one pin.",
+    "15% of $20 is calculated as \\((15/100) \\times 20\\).",
+    "Performing the calculation: \\((15/100) \\times 20 = 3\\).",
+    "The discount on one pin is $3.",
+    "I subtract the discount from the original price to find the sale price of one pin.",
+    "$20 - $3 = $17.",
+    "The sale price of one pin is $17.",
+    "John is buying 10 pins.",
+    "I need to calculate the total cost for 10 pins priced at $17 each.",
+    "This is done by multiplying the sale price by the number of pins: \\(10 \\times 17\\).",
+    "Performing the multiplication: \\(10 \\times 17 = 170\\).",
+    "John spent $170 on pins."
+  ],
+  "solution": "170"
+}

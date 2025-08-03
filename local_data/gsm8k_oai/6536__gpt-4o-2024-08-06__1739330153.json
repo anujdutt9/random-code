@@ -1,0 +1,14 @@
+{
+  "query": "In three baseball games this week, eighty people watched the second game while 20 fewer people watched the first game than the second game. Then 15 more people watched the third than the second game. If there were a total of 200 people who watched the games last week, how many more people watched the games this week than last week?",
+  "steps": [
+    "I start by determining how many people watched the first game this week. I know that 20 fewer people watched the first game than the second game.",
+    "Since 80 people watched the second game, I calculate the first game: 80 - 20 = 60 people.",
+    "Next, I find out how many people watched the third game. I know that 15 more people watched the third game than the second game.",
+    "Thus, the number of people who watched the third game is 80 + 15 = 95 people.",
+    "Now, I calculate the total number of people who watched the games this week by adding up all the viewers for the three games.",
+    "Total viewers this week = 60 (first game) + 80 (second game) + 95 (third game) = 235 people.",
+    "Last week, 200 people watched the games. I need to find the difference in the number of viewers between this week and last week.",
+    "Difference in viewers = 235 (this week) - 200 (last week) = 35 more people watched this week than last week."
+  ],
+  "solution": "35"
+}

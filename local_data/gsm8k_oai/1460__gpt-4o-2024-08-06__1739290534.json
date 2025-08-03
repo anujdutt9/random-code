@@ -1,0 +1,16 @@
+{
+  "query": "A man intends to complete a journey of 24 km in 8 hours. If he travels at a speed of 4km/hr for the first four hours, at what speed does he need to travel for the remainder of the journey to be right on time?",
+  "steps": [
+    "The total distance of the journey is 24 km.",
+    "The man needs to complete the journey in 8 hours.",
+    "For the first part of the journey, he travels at a speed of 4 km/hr for 4 hours.",
+    "Distance traveled in the first 4 hours = Speed \u00d7 Time = 4 km/hr \u00d7 4 hours = 16 km.",
+    "The remaining distance to be traveled is the total distance minus the distance already traveled: 24 km - 16 km = 8 km.",
+    "The remaining time to complete the journey is 8 hours - 4 hours = 4 hours.",
+    "To find the required speed for the remaining part of the journey, we use the formula: Speed = Distance / Time.",
+    "Substitute the values into the formula: Speed = 8 km / 4 hours.",
+    "Calculate the speed: Speed = 2 km/hr.",
+    "He needs to travel at a speed of 2 km/hr for the last 4 hours to complete the journey on time."
+  ],
+  "solution": "2"
+}

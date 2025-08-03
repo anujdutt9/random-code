@@ -1,0 +1,16 @@
+{
+  "query": "The garbage truck passes through Daniel's neighborhood on Tuesdays, Thursdays, and Saturdays. In each garbage collection, an average of 200 kg is taken. Due to obstruction in the roads leading to Daniel's neighborhood, the garbage truck stops passing through for two weeks. During the first week, people in Daniel's neighborhood pile the extra garbage around the dumpster, during the second week they apply a policy of cutting their amount of garbage in half. How many kilograms of garbage have accumulated in Daniel's neighborhood during the 2 weeks?",
+  "steps": [
+    "The garbage truck collects garbage 3 times a week: on Tuesdays, Thursdays, and Saturdays.",
+    "For each collection, the garbage truck collects an average of 200 kg.",
+    "In one week, the garbage truck would collect 3 days * 200 kg/day = 600 kg.",
+    "Over two weeks, if there were no obstruction, the truck would collect 2 weeks * 600 kg/week = 1200 kg.",
+    "In the first week of obstruction, extra garbage accumulates around the dumpster for 3 missed collections.",
+    "This means in the first week, 600 kg of garbage that should have been collected is not picked up.",
+    "In the second week, the neighborhood cuts their garbage production in half.",
+    "Normally, the garbage production in one week is 600 kg, but with the policy of reducing by half, it would be 600 kg / 2 = 300 kg.",
+    "In the second week, 300 kg accumulates because the garbage truck does not come to collect the reduced amount.",
+    "To find the total accumulation during the two weeks, add the garbage from week 1 and week 2: 600 kg (first week) + 300 kg (second week)."
+  ],
+  "solution": "900"
+}

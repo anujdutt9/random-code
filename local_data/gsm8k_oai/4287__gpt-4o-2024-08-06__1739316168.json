@@ -1,0 +1,16 @@
+{
+  "query": "Carmen is preparing dinner plates for a row of customers at the counter in a diner. She likes to put a couple of sprigs of parsley on each plate for decoration. However, she is very low on parsley and doesn't have enough to even put 1 sprig on every plate, so she needs to break several of the parsley sprigs in two to make 2 smaller ones to stretch them out. If she decorates 8 plates with one whole parsley sprig and 12 plates with 1/2 a sprig each, how many sprigs of parsley does she have left if she started with 25?",
+  "steps": [
+    "Carmen decorates 8 plates with one whole sprig of parsley each.",
+    "This means she uses 8 whole sprigs for these 8 plates.",
+    "Next, Carmen decorates 12 plates with 1/2 a sprig each.",
+    "To find out how many whole sprigs she uses for these 12 plates, I need to calculate how many whole sprigs make up the halves.",
+    "Each half sprig comes from breaking a sprig in half, so 2 halves make 1 whole sprig.",
+    "Thus, 12 halves are equal to 12 \u00f7 2 = 6 whole sprigs.",
+    "Now, I add the whole sprigs used for both sets of plates: 8 whole sprigs + 6 whole sprigs = 14 whole sprigs.",
+    "Carmen started with 25 sprigs.",
+    "I subtract the number of sprigs used from the total she started with: 25 - 14 = 11 sprigs.",
+    "Carmen has 11 sprigs of parsley left."
+  ],
+  "solution": "11"
+}

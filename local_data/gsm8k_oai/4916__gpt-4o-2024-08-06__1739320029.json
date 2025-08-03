@@ -1,0 +1,18 @@
+{
+  "query": "A bag has seven apples, eight oranges, and 15 mangoes. Luisa takes out two apples from the bag, and takes out twice as many oranges as apples as she took from the bag. She then takes out 2/3 the number of mangoes from the bag. What is the remaining number of fruits in the bag?",
+  "steps": [
+    "Start by determining the original count of each type of fruit in the bag.",
+    "There are initially 7 apples in the bag.",
+    "There are initially 8 oranges in the bag.",
+    "There are initially 15 mangoes in the bag.",
+    "Luisa takes out 2 apples from the bag.",
+    "Calculate the remaining number of apples: 7 - 2 = 5.",
+    "Luisa takes out twice as many oranges as apples. Since she took out 2 apples, she takes out 2 * 2 = 4 oranges.",
+    "Calculate the remaining number of oranges: 8 - 4 = 4.",
+    "Luisa takes out 2/3 the number of mangoes from the bag. So, she takes out (2/3) * 15 = 10 mangoes.",
+    "Calculate the remaining number of mangoes: 15 - 10 = 5.",
+    "Add up the remaining number of each type of fruit: 5 apples + 4 oranges + 5 mangoes.",
+    "Calculate the total remaining fruits: 5 + 4 + 5 = 14."
+  ],
+  "solution": "14"
+}

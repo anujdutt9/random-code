@@ -1,0 +1,22 @@
+{
+  "query": "A group of researchers are studying a colony of penguins. Their results show that the size doubled in the first year they watched the colony, then tripled in the next year. This year, however, harsh conditions meant the colony only gained 129 penguins. The colony has 1077 penguins in it now. Each penguin eats one and a half fish every day. How many fish did the whole colony catch per day to eat at the beginning of the first year?",
+  "steps": [
+    "Let's denote the initial number of penguins as \\( P_0 \\).",
+    "After the first year, the size of the colony doubled. Therefore, the number of penguins was \\( 2P_0 \\).",
+    "In the second year, the colony tripled in size, giving a population of \\( 3 \\times 2P_0 = 6P_0 \\).",
+    "In the third year, the population increased by 129 penguins from the previous total after harsh conditions.",
+    "Thus, the equation for the final population of the third year is \\( 6P_0 + 129 \\).",
+    "We know that the current population is 1077 penguins.",
+    "Equating the two expressions for the population, we have \\( 6P_0 + 129 = 1077 \\).",
+    "To find \\( P_0 \\), I will solve this equation.",
+    "Subtract 129 from both sides: \\( 6P_0 = 1077 - 129 \\).",
+    "Calculate \\( 1077 - 129 = 948 \\).",
+    "Divide both sides by 6 to find \\( P_0 \\): \\( P_0 = \\frac{948}{6} \\).",
+    "Calculate \\( \\frac{948}{6} = 158 \\).",
+    "So, initially, there were 158 penguins.",
+    "Each penguin eats one and a half fish per day.",
+    "Therefore, the total number of fish caught by the whole colony per day initially is \\( 158 \\times 1.5 \\).",
+    "Calculate \\( 158 \\times 1.5 = 237 \\)."
+  ],
+  "solution": "237"
+}

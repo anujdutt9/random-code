@@ -1,0 +1,16 @@
+{
+  "query": "Paddy's Confidential has 600 cans of stew required to feed 40 people. How many cans would be needed to feed 30% fewer people?",
+  "steps": [
+    "First, I need to determine how many people 30% fewer than 40 people are.",
+    "30% of 40 is calculated as 40 * 0.30.",
+    "40 * 0.30 is 12.",
+    "30% fewer people than 40 is 40 - 12.",
+    "40 - 12 equals 28 people.",
+    "Now, I need to find out how many cans are needed for these 28 people, given that 600 cans feed 40 people.",
+    "I calculate how many cans are needed per person by dividing 600 by 40.",
+    "600 / 40 equals 15 cans per person.",
+    "To find out how many cans are needed for 28 people, I multiply the number of people by the cans per person.",
+    "28 * 15 equals 420."
+  ],
+  "solution": "420"
+}

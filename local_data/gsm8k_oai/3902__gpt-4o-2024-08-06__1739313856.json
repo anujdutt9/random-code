@@ -1,0 +1,15 @@
+{
+  "query": "A pastry chef is making brownies but is running out of butter.  The recipe he is following calls for 2 ounces of butter for every 1 cup of baking mix; however, it allows 2 ounces of coconut oil to be substituted for the 2 ounces of butter if necessary.  The chef would like to use as much butter as possible before switching over and substituting coconut oil.  If the chef had 4 ounces of butter remaining, and he plans on using 6 cups of baking mix, how many ounces of coconut oil will he end up using?",
+  "steps": [
+    "The recipe calls for 2 ounces of butter per 1 cup of baking mix.",
+    "The chef plans on using 6 cups of baking mix.",
+    "To find the total ounces of butter required for 6 cups of baking mix, I multiply 6 cups by 2 ounces per cup.",
+    "6 cups * 2 ounces/cup = 12 ounces of butter needed in total.",
+    "The chef has 4 ounces of butter remaining.",
+    "To find how much more butter is needed, I subtract the butter already available from the total butter needed.",
+    "12 ounces needed - 4 ounces available = 8 ounces more butter needed.",
+    "The chef can substitute 2 ounces of coconut oil for every 2 ounces of butter.",
+    "Since 8 more ounces of butter are needed, the chef will use 8 ounces of coconut oil to substitute for the missing butter."
+  ],
+  "solution": "8"
+}

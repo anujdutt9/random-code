@@ -1,0 +1,11 @@
+{
+  "query": "Question: A mouse is homozygous for black fur (BB). The other parent is heterozygous for black fur with a recessive trait for brown fur ( Bb ). If black is the dominant trait, what percentage of the offspring will be brown?\n\nChoices:\nA: 100%\nB: 50%\nC: 25%\nD: 0%",
+  "steps": [
+    "The first parent is homozygous for black fur, so its genotype is BB. The second parent is heterozygous with the genotype Bb.",
+    "Since black (B) is the dominant trait and brown (b) is the recessive trait, the possible gametes from the BB parent can only be B. The Bb parent can produce gametes B or b.",
+    "To determine the offspring's genotypes, we can set up a simple Punnett square showing the combinations of gametes from each parent:\n- From BB parent: B, B\n- From Bb parent: B, b\nThis results in the following combinations:\n1. BB (Black)\n2. BB (Black)\n3. Bb (Black)\n4. Bb (Black)",
+    "In total, the combinations produce only black fur offspring (BB or Bb). There are no combinations that lead to the brown fur phenotype (bb) since there are no 'b' alleles from the homozygous BB parent.",
+    "Thus, the percentage of the offspring that will be brown is 0%."
+  ],
+  "solution": "D"
+}

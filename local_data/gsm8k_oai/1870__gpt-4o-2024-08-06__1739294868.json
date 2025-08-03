@@ -1,0 +1,18 @@
+{
+  "query": "In a triangle with angles A, B, and C, A is 60 degrees, and B is two times as big as C. Calculate the angle of B.",
+  "steps": [
+    "I know the sum of angles in a triangle is always 180 degrees.",
+    "Let the angle C be equal to x.",
+    "Since B is two times as big as C, angle B can be written as 2x.",
+    "The angle A is given as 60 degrees.",
+    "I can now set up the equation: A + B + C = 180.",
+    "Substitute the known values: 60 + 2x + x = 180.",
+    "Combine the x terms: 60 + 3x = 180.",
+    "Subtract 60 from both sides: 3x = 120.",
+    "Divide both sides by 3 to solve for x: x = 40.",
+    "Angle C is x, which is 40 degrees.",
+    "Since angle B is two times as big as angle C, B = 2x = 2 * 40.",
+    "Calculate angle B: B = 80 degrees."
+  ],
+  "solution": "80"
+}

@@ -1,0 +1,19 @@
+{
+  "query": "There are 28 garden gnomes in a yard. Three-fourths of them have red hats, and the rest have blue hats. Half the garden gnomes have big noses instead of small noses. If six gnomes with blue hats have big noses, how many gnomes with red hats have small noses?",
+  "steps": [
+    "First, determine the number of garden gnomes with red hats.",
+    "Three-fourths of the 28 garden gnomes have red hats.",
+    "Calculate \\(\\frac{3}{4} \\times 28 = 21\\). So, there are 21 garden gnomes with red hats.",
+    "Next, find the number of garden gnomes with blue hats.",
+    "Calculate \\(28 - 21 = 7\\). Thus, there are 7 garden gnomes with blue hats.",
+    "Now, determine the number of garden gnomes with big noses.",
+    "Half of the 28 gnomes have big noses, so \\(\\frac{1}{2} \\times 28 = 14\\). There are 14 gnomes with big noses.",
+    "Six gnomes with blue hats have big noses.",
+    "Determine the number of gnomes with red hats that have big noses.",
+    "Subtract the blue-hat gnomes with big noses from the total big-nose group: \\(14 - 6 = 8\\).",
+    "Thus, 8 gnomes with red hats have big noses.",
+    "Finally, determine how many gnomes with red hats have small noses.",
+    "Subtract the red-hat gnomes with big noses from the total red-hat group: \\(21 - 8 = 13\\)."
+  ],
+  "solution": "13"
+}

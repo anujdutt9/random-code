@@ -1,0 +1,15 @@
+{
+  "query": "Zara bought 24 cows, 7 sheep, and some goats. Next week, she will transport all of them to a new farm in 3 equally-sized groups of 48 animals per group. How many goats does she own?",
+  "steps": [
+    "First, I need to calculate the total number of cows and sheep Zara has.",
+    "Zara bought 24 cows.",
+    "Zara bought 7 sheep.",
+    "Add the number of cows and sheep: 24 + 7 = 31 animals.",
+    "I know the total number of animals will be 3 groups of 48 animals each.",
+    "Calculate the total number of animals planned for transportation: 3 groups * 48 animals/group = 144 animals.",
+    "Zara has 31 cows and sheep combined.",
+    "To find the number of goats, subtract the number of cows and sheep from the total number of animals.",
+    "Calculate the number of goats: 144 animals - 31 cows and sheep = 113 goats."
+  ],
+  "solution": "113"
+}

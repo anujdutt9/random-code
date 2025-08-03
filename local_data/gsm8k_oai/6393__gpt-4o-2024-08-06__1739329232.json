@@ -1,0 +1,18 @@
+{
+  "query": "Alex has not washed his clothes for a month; 18 shirts, 12 pants, 17 sweaters, and 13 jeans are waiting to be washed. Alex's washing machine can wash a maximum of 15 items per cycle. Each cycle takes 45 minutes. How many hours will it take the washing machine to wash all the clothes?",
+  "steps": [
+    "First, I need to find out how many items in total Alex has to wash.",
+    "Alex has 18 shirts, 12 pants, 17 sweaters, and 13 jeans.",
+    "I will add these numbers together: 18 + 12 + 17 + 13 = 60.",
+    "So, Alex has 60 items to wash in total.",
+    "The washing machine can wash 15 items per cycle.",
+    "I need to calculate how many cycles are required to wash all 60 items.",
+    "I will divide the total number of items by the number of items per cycle: 60 / 15 = 4.",
+    "This means that Alex needs 4 cycles to wash all the clothes.",
+    "Each cycle takes 45 minutes.",
+    "I will now multiply the number of cycles by the duration of each cycle to find the total washing time in minutes: 4 cycles * 45 minutes = 180 minutes.",
+    "I need to convert the total washing time from minutes to hours.",
+    "Since 60 minutes make an hour, I will divide 180 minutes by 60: 180 / 60 = 3."
+  ],
+  "solution": "3"
+}

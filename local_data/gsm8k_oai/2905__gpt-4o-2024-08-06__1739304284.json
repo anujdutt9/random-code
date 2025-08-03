@@ -1,0 +1,14 @@
+{
+  "query": "A pen is longer than the rubber by 3 centimeters, and shorter than the pencil by 2 centimeters. Considering the pencil is 12 centimeters long, what is the total length of the rubber, the pen, and the pencil altogether?",
+  "steps": [
+    "The length of the pencil is given as 12 centimeters.",
+    "The pen is 2 centimeters shorter than the pencil.",
+    "Therefore, the length of the pen is 12 - 2 = 10 centimeters.",
+    "The pen is 3 centimeters longer than the rubber.",
+    "Therefore, the length of the rubber is 10 - 3 = 7 centimeters.",
+    "Now, I have the lengths: Rubber = 7 cm, Pen = 10 cm, Pencil = 12 cm.",
+    "The total length of the rubber, the pen, and the pencil together is 7 + 10 + 12 centimeters.",
+    "Calculating this gives 29 centimeters."
+  ],
+  "solution": "29"
+}

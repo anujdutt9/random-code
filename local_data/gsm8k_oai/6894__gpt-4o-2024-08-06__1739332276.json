@@ -1,0 +1,16 @@
+{
+  "query": "Ben makes a sandwich that has 1250 calories total that has two strips of bacon with 125 calories each. What percentage of the sandwich's total calories come from bacon?",
+  "steps": [
+    "The total calories in the sandwich are 1250.",
+    "Each strip of bacon has 125 calories.",
+    "There are two strips of bacon on the sandwich.",
+    "I need to calculate the total calories from bacon by adding the calories in both strips.",
+    "Total calories from bacon = 125 calories/strip * 2 strips = 250 calories.",
+    "Now, I need to find what percentage 250 calories is of the total 1250 calories.",
+    "To find this percentage, divide the bacon calories by the total sandwich calories and multiply by 100.",
+    "Percentage of calories from bacon = (250 / 1250) * 100",
+    "Calculating the division: 250 / 1250 = 0.2",
+    "Now, multiply by 100 to convert to percentage: 0.2 * 100 = 20"
+  ],
+  "solution": "20"
+}

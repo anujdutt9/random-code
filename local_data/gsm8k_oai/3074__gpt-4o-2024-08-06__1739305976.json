@@ -1,0 +1,21 @@
+{
+  "query": "Carter has a jar with 20 green M&Ms and 20 red M&Ms. He eats 12 of the green M&Ms, then his sister comes and eats half the red M&Ms and adds 14 yellow M&Ms. If Carter picks an M&M at random now, what is the percentage chance he'll get a green M&M?",
+  "steps": [
+    "Carter starts with 20 green M&Ms.",
+    "Carter eats 12 of the green M&Ms.",
+    "Now there are 20 - 12 = 8 green M&Ms left.",
+    "Carter also starts with 20 red M&Ms.",
+    "His sister eats half of the red M&Ms, which is 20 / 2 = 10 red M&Ms.",
+    "Now there are 20 - 10 = 10 red M&Ms left.",
+    "His sister adds 14 yellow M&Ms.",
+    "Now we calculate the total number of M&Ms. There are 8 green M&Ms, 10 red M&Ms, and 14 yellow M&Ms.",
+    "The total number of M&Ms is 8 + 10 + 14 = 32.",
+    "Now, we need to calculate the probability that Carter picks a green M&M.",
+    "The probability of picking a green M&M is the number of green M&Ms divided by the total number of M&Ms.",
+    "The probability is 8 / 32.",
+    "Simplifying 8 / 32 gives 1 / 4.",
+    "To find the percentage chance, we multiply 1 / 4 by 100.",
+    "1 / 4 * 100 = 25%."
+  ],
+  "solution": "25"
+}

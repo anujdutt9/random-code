@@ -1,0 +1,17 @@
+{
+  "query": "James wants to learn to become a chess grandmaster.  It takes 2 hours to learn the rules.  It then takes him 49 times that long to get a level of proficiency to start playing in local tournaments.  After that, he devotes his life to chess and spends 100 times as much as the combined time to get proficient to becoming a master.  How much total time did he spend?",
+  "steps": [
+    "First, calculate the time James spends learning the rules.",
+    "It takes him 2 hours to learn the rules.",
+    "Next, determine how long it takes him to get proficient enough to start playing in local tournaments.",
+    "It takes 49 times the amount of time it took to learn the rules.",
+    "2 hours * 49 = 98 hours",
+    "Now, calculate the total time spent up to getting proficient (learning the rules plus getting proficient).",
+    "2 hours (learning rules) + 98 hours (proficiency) = 100 hours",
+    "He then spends 100 times this combined time to become a master.",
+    "100 hours * 100 = 10,000 hours",
+    "Calculate the total time spent in learning to become a master.",
+    "2 hours (learning rules) + 98 hours (proficiency) + 10,000 hours (mastery) = 10,100 hours"
+  ],
+  "solution": "10,100"
+}

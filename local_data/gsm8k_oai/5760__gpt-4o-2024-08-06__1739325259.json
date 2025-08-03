@@ -1,0 +1,19 @@
+{
+  "query": "A store is having an anniversary sale. A tub of ice cream costs $2 less than its original price of $12 and the juice is sold at $2 for 5 cans. How much will you pay if you buy two tubs of ice cream and 10 cans of juice?",
+  "steps": [
+    "First, I calculate the sale price of a tub of ice cream. Originally, it costs $12. The sale price is $2 less, so I subtract $2 from $12.",
+    "$12 - $2 = $10",
+    "So, one tub of ice cream costs $10.",
+    "Next, I need to calculate the cost of two tubs of ice cream. Each tub costs $10, so I multiply 2 by $10.",
+    "$10 * 2 = $20",
+    "The total cost for two tubs of ice cream is $20.",
+    "Now, I calculate the cost of 10 cans of juice. The store charges $2 for 5 cans.",
+    "Since I want 10 cans, I recognize that 10 cans is twice the amount of 5 cans.",
+    "Therefore, I need to multiply the cost of 5 cans by 2.",
+    "$2 * 2 = $4",
+    "The cost for 10 cans of juice is $4.",
+    "Finally, I add the cost of two tubs of ice cream ($20) to the cost of 10 cans of juice ($4) to find the total cost.",
+    "$20 + $4 = $24"
+  ],
+  "solution": "24"
+}

@@ -1,0 +1,25 @@
+{
+  "query": "After receiving the $2000 stimulus check, Mr. Eithan decided to share the amount with his family. He gave 2/5 of the amount to his wife, 2/5 of the remaining amount to his first son, 40% of the remaining amount to his second son, and kept the remaining in their family savings account. Calculate the total amount he kept in the family's savings account.",
+  "steps": [
+    "Mr. Eithan received a $2000 stimulus check.",
+    "He decided to give 2/5 of this amount to his wife.",
+    "2/5 of $2000 is calculated as \\( \\frac{2}{5} \\times 2000 \\).",
+    "Calculate \\( \\frac{2}{5} \\times 2000 = 800 \\).",
+    "He gave $800 to his wife.",
+    "Subtract the amount given to his wife from the total: $2000 - $800 = $1200.",
+    "He is left with $1200 after giving to his wife.",
+    "Next, he gave 2/5 of the remaining $1200 to his first son.",
+    "2/5 of $1200 is calculated as \\( \\frac{2}{5} \\times 1200 \\).",
+    "Calculate \\( \\frac{2}{5} \\times 1200 = 480 \\).",
+    "He gave $480 to his first son.",
+    "Subtract the amount given to his first son from the remaining: $1200 - $480 = $720.",
+    "He is left with $720 after giving to his first son.",
+    "Then, he gave 40% of the remaining $720 to his second son.",
+    "40% of $720 is calculated as \\( 0.40 \\times 720 \\).",
+    "Calculate \\( 0.40 \\times 720 = 288 \\).",
+    "He gave $288 to his second son.",
+    "Subtract the amount given to his second son from the remaining: $720 - $288 = $432.",
+    "He is left with $432, which he kept in the family savings account."
+  ],
+  "solution": "432"
+}

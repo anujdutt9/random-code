@@ -1,0 +1,15 @@
+{
+  "query": "Graeme is weighing cookies to see how many he can fit in his box. His box can only hold 40 pounds of cookies. If each cookie weighs 2 ounces, how many cookies can he fit in the box?",
+  "steps": [
+    "I need to find out how many cookies weighing 2 ounces each can fit into a box that can hold 40 pounds.",
+    "First, I should convert the box's weight capacity from pounds to ounces because the weight of each cookie is in ounces.",
+    "There are 16 ounces in a pound.",
+    "To convert 40 pounds to ounces, I need to multiply 40 pounds by 16 ounces per pound.",
+    "40 pounds * 16 ounces/pound = 640 ounces",
+    "Now I know that the box can hold 640 ounces in total.",
+    "Each cookie weighs 2 ounces.",
+    "To find out how many cookies can fit in the box, I need to divide the total weight capacity of the box in ounces by the weight of one cookie.",
+    "640 ounces \u00f7 2 ounces/cookie = 320 cookies"
+  ],
+  "solution": "320"
+}

@@ -1,0 +1,23 @@
+{
+  "query": "Carolyn wants to embroider her new jeans. She can sew 4 stitches/minute. A flower takes 60 stitches to embroider, a unicorn takes 180 stitches, and Godzilla takes 800 stitches. If Carolyn wants to embroider Godzilla crushing 3 unicorns and 50 flowers, how many minutes does she need to spend embroidering?",
+  "steps": [
+    "First, determine how many stitches are required to embroider one Godzilla.",
+    "A Godzilla requires 800 stitches.",
+    "Next, determine how many stitches are required for one unicorn.",
+    "A unicorn requires 180 stitches.",
+    "Calculate the total number of stitches for 3 unicorns.",
+    "3 unicorns require 3 * 180 = 540 stitches.",
+    "Next, determine how many stitches are required for one flower.",
+    "A flower requires 60 stitches.",
+    "Calculate the total number of stitches for 50 flowers.",
+    "50 flowers require 50 * 60 = 3000 stitches.",
+    "Now add up all the stitches Carolyn needs to embroider Godzilla crushing 3 unicorns and 50 flowers.",
+    "Total stitches = 800 (for Godzilla) + 540 (for 3 unicorns) + 3000 (for 50 flowers)",
+    "Add these numbers together: 800 + 540 + 3000",
+    "The total number of stitches is 4340.",
+    "Now, calculate the time Carolyn needs to sew 4340 stitches if she sews at a rate of 4 stitches per minute.",
+    "Divide the total number of stitches by the stitches per minute rate: 4340 / 4",
+    "4340 divided by 4 equals 1085."
+  ],
+  "solution": "1085"
+}

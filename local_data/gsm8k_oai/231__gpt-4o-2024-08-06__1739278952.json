@@ -1,0 +1,15 @@
+{
+  "query": "A laboratory has 22 beakers of liquid in a fume hood, and 8 of the beakers have copper ions in them. Adding three drops of a solution will turn the liquid in a beaker blue if there are copper ions present. If the beakers are tested one by one for copper ions and 45 drops are used before all 8 beakers with copper ions are found, how many beakers without copper ions were tested?",
+  "steps": [
+    "First, I note that there are a total of 22 beakers.",
+    "Out of these 22 beakers, 8 have copper ions.",
+    "It's given that testing uses 3 drops per beaker.",
+    "To find all 8 beakers with copper ions, 45 drops are used.",
+    "Each beaker that is tested requires 3 drops. To find how many beakers were tested, I divide the total drops used by the drops used per beaker: 45 drops / 3 drops per beaker.",
+    "Calculating 45 / 3 gives me 15 beakers tested.",
+    "Of the 15 beakers tested, 8 have copper ions.",
+    "To find out how many beakers without copper ions were tested, I subtract the 8 beakers with copper ions from the 15 beakers tested.",
+    "15 beakers tested - 8 beakers with copper ions = 7 beakers without copper ions."
+  ],
+  "solution": "7"
+}

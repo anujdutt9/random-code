@@ -1,0 +1,15 @@
+{
+  "query": "Meso can type 15 pages in 5 minutes. Tyler can type the same 15 pages in 3 minutes.  How many minutes would it take Meso and Tyler to type 40 pages working together?",
+  "steps": [
+    "First, I need to determine the rate at which Meso types.",
+    "Meso types 15 pages in 5 minutes, so the typing rate for Meso is 15 pages / 5 minutes = 3 pages per minute.",
+    "Next, I determine the rate at which Tyler types.",
+    "Tyler types 15 pages in 3 minutes, so the typing rate for Tyler is 15 pages / 3 minutes = 5 pages per minute.",
+    "To find out how many pages they can type together per minute, I add their rates.",
+    "Meso's rate is 3 pages per minute. Tyler's rate is 5 pages per minute. Together, they type 3 + 5 = 8 pages per minute.",
+    "Now, I determine how long it will take for them to type 40 pages together.",
+    "If they type 8 pages per minute, I divide the total number of pages (40) by their combined rate (8 pages per minute).",
+    "40 pages / 8 pages per minute = 5 minutes."
+  ],
+  "solution": "5"
+}

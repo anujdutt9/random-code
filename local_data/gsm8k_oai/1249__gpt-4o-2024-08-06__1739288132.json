@@ -1,0 +1,13 @@
+{
+  "query": "Nick's cell phone was initially empty but was then charged for 45 minutes and has reached a 25% charge. How much longer must the cell phone be charged to reach 100% charge?",
+  "steps": [
+    "First, I need to figure out the charging rate of the phone. It's currently at 25% after charging for 45 minutes.",
+    "Since 25% of the phone\u2019s battery is charged in 45 minutes, I can calculate the charging rate per minute.",
+    "The charging rate is 25% divided by 45 minutes.",
+    "25% charge / 45 minutes = 0.555...% per minute (approximately).",
+    "Now I need to determine how many more percentage points are needed to reach 100% charge. It is currently at 25%, so it needs an additional 75% to reach full charge.",
+    "Using the charging rate of 0.555...% per minute, I can calculate the time it takes to charge the remaining 75%.",
+    "75% / 0.555...% per minute = approximately 135 minutes."
+  ],
+  "solution": "135"
+}

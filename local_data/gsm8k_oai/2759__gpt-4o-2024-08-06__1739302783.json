@@ -1,0 +1,14 @@
+{
+  "query": "To get to work, Ryan bikes one day a week takes the bus three times a week and gets a ride from a friend once a week. It takes him thirty minutes to bike to work. The bus takes ten minutes longer since it stops at every bus stop for other passengers. His friend driving him is the fastest and cuts two-thirds off his biking time. How many minutes does he spend every week commuting to work?",
+  "steps": [
+    "I need to find out the commuting times for all the different modes of transportation Ryan uses during the week.",
+    "First, let's consider the time Ryan spends biking. He bikes one day a week and it takes him 30 minutes each time.",
+    "Next, the bus. Ryan takes the bus three times a week. The bus is 10 minutes longer than biking, so it takes 30 minutes + 10 minutes = 40 minutes each time he takes the bus.",
+    "Next, consider the friend giving him a ride. This happens once a week. The friend cuts off two-thirds of his biking time. Ryan's biking time is 30 minutes, so two-thirds of 30 minutes is 20 minutes. This means the ride from his friend takes 30 minutes - 20 minutes = 10 minutes.",
+    "Now, calculate the total weekly commuting time. Start with the bike: 1 day x 30 minutes = 30 minutes.",
+    "Then, calculate the time for the bus: 3 days x 40 minutes = 120 minutes.",
+    "Finally, calculate the time with his friend: 1 day x 10 minutes = 10 minutes.",
+    "Add up all these times: 30 minutes (biking) + 120 minutes (bus) + 10 minutes (friend) = 160 minutes."
+  ],
+  "solution": "160"
+}

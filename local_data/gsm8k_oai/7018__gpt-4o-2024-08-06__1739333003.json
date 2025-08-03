@@ -1,0 +1,21 @@
+{
+  "query": "Elvis and Ralph are to make square shapes with matchsticks from a box containing 50 matchsticks. Elvis makes 4-matchstick squares and Ralph makes 8-matchstick squares. If Elvis makes 5 squares and Ralph makes 3, how many matchsticks will be left in the box?",
+  "steps": [
+    "I need to determine how many matchsticks Elvis uses.",
+    "Each square Elvis makes uses 4 matchsticks.",
+    "Elvis makes 5 squares.",
+    "To find the total matchsticks Elvis uses, I multiply the number of squares by the matchsticks per square: 5 squares * 4 matchsticks/square = 20 matchsticks.",
+    "Now I will determine how many matchsticks Ralph uses.",
+    "Each square Ralph makes uses 8 matchsticks.",
+    "Ralph makes 3 squares.",
+    "To find the total matchsticks Ralph uses, I multiply the number of squares by the matchsticks per square: 3 squares * 8 matchsticks/square = 24 matchsticks.",
+    "I now need to find the total matchsticks used by both Elvis and Ralph.",
+    "Total matchsticks used = matchsticks used by Elvis + matchsticks used by Ralph.",
+    "Total matchsticks used = 20 matchsticks + 24 matchsticks = 44 matchsticks.",
+    "The box originally contained 50 matchsticks.",
+    "I will subtract the total matchsticks used from the original number of matchsticks to find out how many are left.",
+    "Matchsticks left = original matchsticks - total matchsticks used.",
+    "Matchsticks left = 50 matchsticks - 44 matchsticks = 6 matchsticks."
+  ],
+  "solution": "6"
+}

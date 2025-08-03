@@ -1,0 +1,23 @@
+{
+  "query": "Stephanie is moving into a new apartment. She needs to figure out how many pieces of silverware she should purchase. She needs spoons, butter knives, steak knives, and forks. For herself she figures 5 of each would be sufficient. But in case she has guests, she wants to have 10 extra pieces of each type. Then she realizes that if everything is clean at the same time, that she will have too many of everything and not enough room to fit them in her kitchen silverware drawer. So she decides to purchase 4 fewer spoons, 4 fewer butter knives, 5 fewer steak knives, and 3 fewer forks. How many pieces total of all the silverware is Stephanie going to buy?",
+  "steps": [
+    "Stephanie initially wants 5 spoons for herself.",
+    "Then she wants 10 extra spoons for guests, so she thinks about getting 5 + 10 = 15 spoons.",
+    "Stephanie initially wants 5 butter knives for herself.",
+    "Then she wants 10 extra butter knives for guests, so she thinks about getting 5 + 10 = 15 butter knives.",
+    "Stephanie initially wants 5 steak knives for herself.",
+    "Then she wants 10 extra steak knives for guests, so she thinks about getting 5 + 10 = 15 steak knives.",
+    "Stephanie initially wants 5 forks for herself.",
+    "Then she wants 10 extra forks for guests, so she thinks about getting 5 + 10 = 15 forks.",
+    "Stephanie decides to purchase 4 fewer spoons, so she plans to get 15 - 4 = 11 spoons.",
+    "She decides to purchase 4 fewer butter knives, so she plans to get 15 - 4 = 11 butter knives.",
+    "She decides to purchase 5 fewer steak knives, so she plans to get 15 - 5 = 10 steak knives.",
+    "She decides to purchase 3 fewer forks, so she plans to get 15 - 3 = 12 forks.",
+    "Now, I add all the silverware pieces together to find the total amount.",
+    "She plans to get 11 spoons + 11 butter knives + 10 steak knives + 12 forks.",
+    "Calculating 11 + 11 = 22.",
+    "Adding 10 steak knives gives 22 + 10 = 32.",
+    "Adding 12 forks gives 32 + 12 = 44."
+  ],
+  "solution": "44"
+}

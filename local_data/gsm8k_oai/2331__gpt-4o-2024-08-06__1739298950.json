@@ -1,0 +1,21 @@
+{
+  "query": "Henri has 8 hours to watch movies and read. He watches one movie that is 3.5 hours and one movie that is 1.5 hours. He then decides to read. If he can read 10 words a minute, how many words does he read before his free time is up?",
+  "steps": [
+    "Henri has 8 total hours of free time to watch movies and read.",
+    "He watches one movie that is 3.5 hours long.",
+    "He watches another movie that is 1.5 hours long.",
+    "To find the total time spent watching movies, I add the duration of the two movies: 3.5 hours + 1.5 hours.",
+    "3.5 + 1.5 equals 5 hours.",
+    "Henri has used 5 hours of his 8 hours of free time watching movies.",
+    "To find out how much time he has left to read, I subtract the time spent watching movies from the total free time: 8 hours - 5 hours.",
+    "8 - 5 equals 3 hours.",
+    "Henri has 3 hours left to read.",
+    "He reads at a rate of 10 words per minute.",
+    "To find the total number of minutes he reads, I convert the remaining hours into minutes: 3 hours * 60 minutes/hour.",
+    "3 * 60 equals 180 minutes.",
+    "Henri reads for 180 minutes.",
+    "To find the total number of words he reads, multiply the number of minutes by his reading speed: 180 minutes * 10 words/minute.",
+    "180 * 10 equals 1800."
+  ],
+  "solution": "1800"
+}

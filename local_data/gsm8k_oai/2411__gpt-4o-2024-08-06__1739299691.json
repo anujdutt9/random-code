@@ -1,0 +1,20 @@
+{
+  "query": "Bo is learning words for the GRE.  He got 800 flashcards.  He knew 20% of the words on them.  He has 40 days to learn the rest.  How many words does he need to learn a day?",
+  "steps": [
+    "First, I need to find out how many words Bo already knows.",
+    "Bo knows 20% of the 800 words.",
+    "To find 20% of 800, I multiply 800 by 0.20.",
+    "800 times 0.20 equals 160.",
+    "So, Bo already knows 160 words.",
+    "Next, I need to find out how many words he needs to learn.",
+    "I subtract the number of words he knows from the total number of words.",
+    "800 minus 160 equals 640.",
+    "Bo needs to learn 640 words.",
+    "He has 40 days to learn these words.",
+    "I need to find out how many words per day he should learn.",
+    "To do this, I divide the number of words he needs to learn by the number of days he has.",
+    "640 divided by 40 equals 16.",
+    "Bo needs to learn 16 words per day."
+  ],
+  "solution": "16"
+}

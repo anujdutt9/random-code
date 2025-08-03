@@ -1,0 +1,20 @@
+{
+  "query": "Mr. Roper cuts his lawn 15 days a month beginning in April and ending in September.  From October to the end of March he cuts his lawn three times a month.  What is the average number of times that Mr. Roper cuts his yard per month?",
+  "steps": [
+    "First, I need to determine how many months Mr. Roper cuts the lawn 15 times. The months are April, May, June, July, August, and September.",
+    "There are 6 months between April and September, inclusive.",
+    "Now, I calculate the total number of times he cuts the lawn during these 6 months, which is 15 times per month.",
+    "15 times/month * 6 months = 90 times",
+    "Next, I consider the months from October to March, when he cuts the lawn 3 times each month.",
+    "There are 6 months from October to the end of March.",
+    "I calculate the total number of times he cuts the lawn during these 6 months, which is 3 times per month.",
+    "3 times/month * 6 months = 18 times",
+    "I add the total cuts from both periods together to find the total number of cuts per year.",
+    "90 times (April to September) + 18 times (October to March) = 108 times per year",
+    "Now, I need to calculate the average number of cuts per month over the entire year.",
+    "There are 12 months in a year.",
+    "I divide the total number of cuts by the number of months in a year to get the average.",
+    "108 total cuts / 12 months = 9 cuts per month"
+  ],
+  "solution": "9"
+}

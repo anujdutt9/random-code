@@ -1,0 +1,15 @@
+{
+  "query": "Roberta takes $158 with her on a shopping trip to the mall. She spends $45 on new shoes, $17 less on a new bag, and a quarter of the price of the bag for lunch. How much money does she have left after these purchases?",
+  "steps": [
+    "Roberta starts with $158.",
+    "She spends $45 on new shoes.",
+    "Subtract $45 from $158 to find out how much she has left after buying the shoes: $158 - $45 = $113.",
+    "She spends $17 less on a new bag than she did on the shoes.",
+    "Calculate the cost of the new bag: $45 (cost of shoes) - $17 = $28.",
+    "Subtract the cost of the bag from her remaining money: $113 - $28 = $85.",
+    "She spends a quarter of the cost of the bag on lunch.",
+    "Calculate a quarter of the cost of the bag: $28 / 4 = $7.",
+    "Subtract the cost of lunch from her remaining money: $85 - $7 = $78."
+  ],
+  "solution": "78"
+}

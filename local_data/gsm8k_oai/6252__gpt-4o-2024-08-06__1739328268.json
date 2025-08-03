@@ -1,0 +1,22 @@
+{
+  "query": "Jenny likes to play board games with her friends.  She likes to play against her friend Mark the most, as she's played him 10 times and Mark has only won once.  She doesn't like playing Jill, as she's played her twice as many times as she's played Mark and Jill has won 75% of them.  How many times in total has Jenny won board games with her two friends?",
+  "steps": [
+    "Jenny has played Mark 10 times.",
+    "Mark has won once against Jenny.",
+    "To find out how many times Jenny has won against Mark, I subtract the times Mark has won from the total games played between them: 10 - 1 = 9.",
+    "So, Jenny has won 9 times against Mark.",
+    "Next, I find out how many games Jenny has played with Jill.",
+    "Jenny has played Jill twice as many times as she's played Mark.",
+    "Since Jenny played Mark 10 times, she played Jill 2 x 10 = 20 times.",
+    "Jill has won 75% of the games played against Jenny.",
+    "To find out how many games Jill has won, I calculate 75% of 20.",
+    "75% of 20 is 0.75 x 20 = 15.",
+    "So, Jill has won 15 times against Jenny.",
+    "To find out how many times Jenny has won against Jill, I subtract the games Jill has won from the total games played between them: 20 - 15 = 5.",
+    "Jenny has won 5 times against Jill.",
+    "To find the total number of games Jenny has won against both friends, I add her wins against Mark and Jill.",
+    "Jenny won 9 times against Mark and 5 times against Jill.",
+    "So, the total number of games Jenny has won is 9 + 5."
+  ],
+  "solution": "14"
+}

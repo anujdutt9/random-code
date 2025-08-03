@@ -1,0 +1,13 @@
+{
+  "query": "Bob, a marathon runner, is preparing for a race.  He runs a total of 70 miles in the 3 days leading up to the race. On day one he runs 20 percent of the total miles and on day 2 he runs 50 percent of the remaining miles.  How many miles does he run on day three to complete the 70 miles?",
+  "steps": [
+    "First, identify the total miles Bob runs, which is given as 70 miles.",
+    "On day one, Bob runs 20 percent of the total 70 miles.",
+    "Calculate the miles run on day one: 20% of 70 miles = 0.20 * 70 = 14 miles.",
+    "Subtract the miles run on day one from the total miles to find the remaining miles: 70 miles - 14 miles = 56 miles.",
+    "On day two, Bob runs 50 percent of the remaining miles (56 miles).",
+    "Calculate the miles run on day two: 50% of 56 miles = 0.50 * 56 = 28 miles.",
+    "Subtract the miles run on day two from the remaining miles to find the miles left to run on day three: 56 miles - 28 miles = 28 miles."
+  ],
+  "solution": "28"
+}

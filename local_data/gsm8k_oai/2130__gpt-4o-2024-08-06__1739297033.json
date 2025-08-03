@@ -1,0 +1,17 @@
+{
+  "query": "Amelia has $60 to spend on her dinner at a restaurant. The first course costs $15 and the second course $5 more. The cost of the dessert is 25% of the price of the second course. How much money will Amelia have left after buying all those meals?",
+  "steps": [
+    "Amelia starts with a total budget of $60.",
+    "The first course costs $15. Let's subtract that from the total budget.",
+    "After buying the first course, Amelia's remaining budget is $60 - $15 = $45.",
+    "The second course costs $5 more than the first course.",
+    "So the cost of the second course is $15 + $5 = $20.",
+    "Let's subtract the cost of the second course from Amelia's remaining budget.",
+    "After buying the second course, the remaining budget is $45 - $20 = $25.",
+    "The cost of the dessert is 25% of the price of the second course.",
+    "25% of the second course, which costs $20, is calculated as 0.25 * $20 = $5.",
+    "Let's subtract the cost of the dessert from Amelia's remaining budget.",
+    "After buying the dessert, the remaining budget is $25 - $5 = $20."
+  ],
+  "solution": "20"
+}

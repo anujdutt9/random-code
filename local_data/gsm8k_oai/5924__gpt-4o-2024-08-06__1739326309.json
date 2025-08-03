@@ -1,0 +1,13 @@
+{
+  "query": "For every sandwich that he eats, Sam eats four apples. If he eats 10 sandwiches every day for one week, how many apples does he eat?",
+  "steps": [
+    "First, I need to understand the relationship between sandwiches and apples. Sam eats four apples for every sandwich he eats.",
+    "Sam eats 10 sandwiches every day.",
+    "Since Sam eats four apples per sandwich, I need to multiply the number of sandwiches he eats by the number of apples he eats per sandwich.",
+    "10 sandwiches multiplied by 4 apples per sandwich equals 40 apples per day.",
+    "Now, I need to compute the total number of apples Sam eats in one week. There are 7 days in a week.",
+    "I will multiply the number of apples Sam eats in one day by the number of days in a week.",
+    "40 apples per day multiplied by 7 days equals 280 apples in a week."
+  ],
+  "solution": "280"
+}

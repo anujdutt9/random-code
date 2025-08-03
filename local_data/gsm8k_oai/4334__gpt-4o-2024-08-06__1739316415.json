@@ -1,0 +1,16 @@
+{
+  "query": "Joan is answering English and Math exams with 30 and 15 questions, respectively. The English exam is to be completed in 1 hour and the Math exam in 1.5 hours. If Joan wants to spend an equal amount of time on each question, how many more minutes does she have in answering each question on the Math exam than the English exam?",
+  "steps": [
+    "First, I need to determine how much time Joan has per question for each exam.",
+    "For the English exam: She has 1 hour, which is 60 minutes, to answer 30 questions.",
+    "To find the time per question for the English exam, I divide the total time by the number of questions.",
+    "60 minutes / 30 questions = 2 minutes per question for the English exam.",
+    "Next, I calculate the time per question for the Math exam.",
+    "She has 1.5 hours for the Math exam, which is 1.5 * 60 = 90 minutes.",
+    "Now, I divide the total time by the number of questions for the Math exam.",
+    "90 minutes / 15 questions = 6 minutes per question for the Math exam.",
+    "Finally, I find the difference in minutes per question between the Math exam and the English exam.",
+    "6 minutes per question (Math) - 2 minutes per question (English) = 4 minutes more per question for the Math exam."
+  ],
+  "solution": "4"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "A teacher asked Adelaide, Ephraim, and Kolton to buy ducks and monitor their growth patterns and features for their science class. Adelaide bought twice the number of ducks that Ephraim bought, while Ephraim bought 45 fewer ducks than Kolton. If Adelaide bought 30 ducks, what's the average number of ducks the three bought?",
+  "steps": [
+    "I need to determine how many ducks each person bought. I know that Adelaide bought 30 ducks.",
+    "Adelaide bought twice the number of ducks that Ephraim bought. Let's denote the number of ducks Ephraim bought as E. Thus, 2E = 30.",
+    "I solve for E: 2E = 30, so E = 30 / 2 = 15. Ephraim bought 15 ducks.",
+    "Ephraim bought 45 fewer ducks than Kolton. Let K represent the number of ducks Kolton bought. Therefore, K - 45 = 15.",
+    "Solving for K: K - 45 = 15, which gives K = 15 + 45 = 60. Kolton bought 60 ducks.",
+    "Now, I can calculate the total number of ducks bought by all three: Adelaide bought 30, Ephraim bought 15, and Kolton bought 60. Total = 30 + 15 + 60.",
+    "The total number of ducks is 105.",
+    "The average number of ducks bought by the three is the total number of ducks divided by 3, because there are three people.",
+    "Average = 105 / 3 = 35."
+  ],
+  "solution": "35"
+}

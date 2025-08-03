@@ -1,0 +1,18 @@
+{
+  "query": "David swims the 100-meter freestyle in 48 seconds.  He swims the 100-meter backstroke 4 seconds slower than he swims the 100-meter freestyle, he swims the 100-meter butterfly 3 seconds slower than he swims the 100-meter backstroke, and he swims the 100-meter breaststroke 2 seconds slower than he swims the 100-meter butterfly.  What is the combined length of time, in seconds, it would take for him to swim all four 100-meter events (the freestyle, the backstroke, the butterfly, and the breaststroke)?",
+  "steps": [
+    "David swims the 100-meter freestyle in 48 seconds.",
+    "The 100-meter backstroke is 4 seconds slower than the freestyle.",
+    "For the backstroke, David swims in 48 + 4 = 52 seconds.",
+    "The 100-meter butterfly is 3 seconds slower than the backstroke.",
+    "For the butterfly, David swims in 52 + 3 = 55 seconds.",
+    "The 100-meter breaststroke is 2 seconds slower than the butterfly.",
+    "For the breaststroke, David swims in 55 + 2 = 57 seconds.",
+    "Now, I will add the times for all four events: freestyle (48 sec), backstroke (52 sec), butterfly (55 sec), and breaststroke (57 sec).",
+    "The total time is 48 + 52 + 55 + 57 seconds.",
+    "48 + 52 equals 100.",
+    "55 + 57 equals 112.",
+    "Adding these together, 100 + 112 equals 212."
+  ],
+  "solution": "212"
+}

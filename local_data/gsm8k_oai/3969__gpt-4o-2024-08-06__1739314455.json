@@ -1,0 +1,20 @@
+{
+  "query": "The teacher decided to rewards his students with extra recess on report card day if they got good grades. Students normally get 20 minutes for recess. He told the students that every A got them 2 extra minutes of recess. Every B got them one extra minute. Every C got them zero extra minutes, but every D got them 1 less minute. When report cards came out there were 10 As, 12 Bs, 14Cs, and 5Ds. In total, how much recess would the students get that day?",
+  "steps": [
+    "First, I recall that each A earns 2 extra minutes for recess.",
+    "I have 10 As, and each A earns 2 minutes. So, I multiply: 10 * 2 = 20 extra minutes for As.",
+    "Next, each B earns 1 extra minute for recess.",
+    "I have 12 Bs, and each B earns 1 minute. So, I multiply: 12 * 1 = 12 extra minutes for Bs.",
+    "Each C earns 0 extra minutes, so I don't need to add anything for Cs.",
+    "Then, each D results in 1 less minute.",
+    "I have 5 Ds, and each D deducts 1 minute. So, I multiply: 5 * 1 = 5 minutes less for Ds.",
+    "Now I sum up the total extra minutes for As and Bs, and subtract the minutes for Ds.",
+    "Extra minutes from As: 20",
+    "Extra minutes from Bs: 12",
+    "Minutes deducted from Ds: 5",
+    "Total extra minutes: 20 + 12 - 5 = 27",
+    "The normal recess is 20 minutes. I add the total extra minutes to the normal recess time.",
+    "Total recess time = normal recess + extra minutes: 20 + 27 = 47 minutes."
+  ],
+  "solution": "47"
+}

@@ -1,0 +1,20 @@
+{
+  "query": "Thomas has been saving $40 in the bank every month for six years. His friend Joseph has been saving 2/5 times less money per month. How much money are they having in their savings account altogether?",
+  "steps": [
+    "First, I need to calculate the total amount Thomas has saved. He saves $40 every month.",
+    "There are 12 months in a year, so in six years, there are 6 x 12 = 72 months.",
+    "Thomas saves $40 per month for 72 months, so the total amount he saved is 40 x 72.",
+    "Calculating the above: 40 x 72 = 2880.",
+    "Next, I need to calculate how much Joseph saves per month. Joseph saves 2/5 times less money than Thomas.",
+    "Since 2/5 times less means he saves 3/5 of what Thomas saves, I will calculate Joseph's monthly savings like this: (3/5) x 40.",
+    "Calculating Joseph's savings: (3/5) x 40 = 24.",
+    "Joseph saves $24 every month.",
+    "Now, I need to find out the total amount Joseph saved in these 72 months.",
+    "Joseph saves $24 per month for 72 months, so the total amount he saved is 24 x 72.",
+    "Calculating the above: 24 x 72 = 1728.",
+    "Finally, to find out how much money they have altogether, I will add the total savings of both Thomas and Joseph.",
+    "Thomas saved $2880 and Joseph saved $1728.",
+    "Adding their savings together: 2880 + 1728 = 4608."
+  ],
+  "solution": "4608"
+}

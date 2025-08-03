@@ -1,0 +1,20 @@
+{
+  "query": "Manex is a tour bus driver. He has to drive 55 miles to the destination and drive going back to the starting point on a different way that is 10 miles farther. If he can drive 1 mile for 2 minutes and stayed 2 hours at the destination, how long will it take the bus driver to do the entire tour in hours?",
+  "steps": [
+    "First, I need to calculate the total distance that Manex will drive.",
+    "The distance to the destination is 55 miles.",
+    "The distance back is 10 miles farther than the destination, so it will be 55 miles + 10 miles = 65 miles.",
+    "Now, I will add these distances to find the total driving distance.",
+    "Total driving distance is 55 miles + 65 miles = 120 miles.",
+    "Next, I need to calculate the time it takes him to drive the entire distance.",
+    "He drives 1 mile in 2 minutes.",
+    "To find the time for 120 miles, I'll multiply the number of miles by the time per mile.",
+    "120 miles * 2 minutes/mile = 240 minutes.",
+    "Now, I need to convert the driving time from minutes to hours.",
+    "240 minutes \u00f7 60 minutes/hour = 4 hours.",
+    "I also need to account for the 2-hour stay at the destination.",
+    "Total time for the entire tour is the driving time plus the time stayed at the destination.",
+    "Total time = 4 hours (driving) + 2 hours (stay) = 6 hours."
+  ],
+  "solution": "6"
+}

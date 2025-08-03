@@ -1,0 +1,15 @@
+{
+  "query": "Tim host a show and they film multiple episodes per day.  Each episode is 20 minutes long and it takes 50% longer than that to film each episode.  Each week they show 5 episodes.  How many hours would it take to film 4 weeks of episodes?",
+  "steps": [
+    "The show films episodes that are each 20 minutes long.",
+    "Filming takes 50% longer than the episode length.",
+    "50% of 20 minutes is 20 * 0.5 = 10 minutes.",
+    "So, filming each episode takes 20 + 10 = 30 minutes.",
+    "Each week, they air 5 episodes.",
+    "In 4 weeks, they would air 5 episodes per week * 4 weeks = 20 episodes.",
+    "Each episode takes 30 minutes to film, so 20 episodes would take 20 * 30 = 600 minutes to film.",
+    "There are 60 minutes in an hour.",
+    "To convert 600 minutes to hours, we divide by 60: 600 / 60 = 10 hours."
+  ],
+  "solution": "10"
+}

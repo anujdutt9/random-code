@@ -1,0 +1,17 @@
+{
+  "query": "There are 100 people in a theater. If 19 of these people have blue eyes, half of them have brown eyes, a quarter have black eyes, and the rest have green eyes, how many of them have green eyes?",
+  "steps": [
+    "First, I know there are 100 people in total in the theater.",
+    "I am told that 19 people have blue eyes.",
+    "Next, I need to determine how many people have brown eyes. I know that half of the people have brown eyes.",
+    "Half of 100 is 50, so 50 people have brown eyes.",
+    "Next, I need to determine how many people have black eyes. I am told that a quarter of them have black eyes.",
+    "A quarter of 100 is 25, so 25 people have black eyes.",
+    "Now, I need to determine how many people have green eyes.",
+    "I need to add the number of people with blue, brown, and black eyes and subtract it from the total number of people to find the number with green eyes.",
+    "19 people have blue eyes, 50 people have brown eyes, and 25 people have black eyes.",
+    "Adding these numbers: 19 + 50 + 25 = 94.",
+    "Subtract the sum from the total number of people: 100 - 94 = 6."
+  ],
+  "solution": "6"
+}

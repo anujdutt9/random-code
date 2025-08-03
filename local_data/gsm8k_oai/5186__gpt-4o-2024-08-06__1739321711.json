@@ -1,0 +1,21 @@
+{
+  "query": "8 years ago James was twice Janet's age.  In 15 years James will turn 37.  Susan was born when Janet turned 3.  How old will Susan turn in 5 years?",
+  "steps": [
+    "I need to find James' current age.",
+    "I know that in 15 years, James will turn 37.",
+    "Therefore, James is currently 37 - 15 = 22 years old.",
+    "I also need to find Janet's age 8 years ago to solve the problem.",
+    "8 years ago, James was twice Janet's age.",
+    "Since James is currently 22 years old, 8 years ago he was 22 - 8 = 14 years old.",
+    "Since James was twice Janet's age 8 years ago, Janet's age then was 14 / 2 = 7 years.",
+    "Now, I know Janet's age 8 years ago was 7.",
+    "To find Janet's current age, I add 8 to Janet's age from 8 years ago.",
+    "Janet's current age is 7 + 8 = 15 years old.",
+    "Now I know that Susan was born when Janet turned 3.",
+    "This means Susan is currently Janet's age - 3.",
+    "Susan's current age is 15 - 3 = 12 years old.",
+    "I need to find Susan's age in 5 years.",
+    "Susan will turn 12 + 5 = 17 years old in 5 years."
+  ],
+  "solution": "17"
+}

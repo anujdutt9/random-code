@@ -1,0 +1,14 @@
+{
+  "query": "Alan likes to support music creators, so instead of downloading songs from the internet, he visits a record store once in a while. He decided now to buy 2 CDs by \"The Dark\", 1 CD by the creator \"AVN\", and 5 CDs that are mixes of songs from the 90s. The price of the \"AVN\" CD is $12 and it is half the price of one CD by \"The Dark\". The 5 CDs of 90s music cost is 40% of all the cost of all other CDs Alan is going to buy. How much will Alan have to pay for all the products?",
+  "steps": [
+    "Let's begin with the price for the \"AVN\" CD, which is $12.",
+    "The price of the \"AVN\" CD ($12) is half the price of a CD by \"The Dark\". Therefore, one CD by \"The Dark\" costs $12 * 2 = $24.",
+    "Alan wants to buy 2 CDs by \"The Dark\". So, 2 CDs by \"The Dark\" cost 2 * $24 = $48.",
+    "He also wants to buy 1 CD by \"AVN\", which costs $12.",
+    "The total cost of the \"The Dark\" CDs ($48) and the \"AVN\" CD ($12) is $48 + $12 = $60.",
+    "The 5 CDs of 90s music cost 40% of the total cost of all the other CDs Alan is going to buy. The cost of the 5 CDs of 90s music is $60 * 0.40 = $24.",
+    "Finally, add the cost of all the CDs: the \"The Dark\" and \"AVN\" CDs ($60) plus the CDs of 90s music ($24).",
+    "Total cost = $60 + $24 = $84."
+  ],
+  "solution": "84"
+}

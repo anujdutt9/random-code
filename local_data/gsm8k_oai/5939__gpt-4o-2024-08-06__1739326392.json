@@ -1,0 +1,20 @@
+{
+  "query": "William's class set a goal each week of the number of cans of food that is to be collected. On the first day, 20 cans were collected. Then the number of cans increased by 5 each day. If they collected 5 days a week to reach their goal, how many cans of food was their goal per week?",
+  "steps": [
+    "First, I need to understand the pattern of cans collected each day.",
+    "On the first day, they collected 20 cans.",
+    "On the second day, they collected 20 + 5 = 25 cans.",
+    "On the third day, they collected 25 + 5 = 30 cans.",
+    "On the fourth day, they collected 30 + 5 = 35 cans.",
+    "On the fifth day, they collected 35 + 5 = 40 cans.",
+    "Now, I have the cans collected for each of the five days: 20, 25, 30, 35, and 40.",
+    "To find the total number of cans collected in the week, I need to add up these numbers.",
+    "First, add the cans from day 1 and day 2: 20 + 25 = 45.",
+    "Add the result to the cans from day 3: 45 + 30 = 75.",
+    "Add the result to the cans from day 4: 75 + 35 = 110.",
+    "Finally, add the result to the cans from day 5: 110 + 40 = 150.",
+    "The total number of cans collected over the 5 days is 150.",
+    "This total is their goal for the week."
+  ],
+  "solution": "150"
+}

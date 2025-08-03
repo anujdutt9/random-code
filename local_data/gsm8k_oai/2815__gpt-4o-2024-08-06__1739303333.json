@@ -1,0 +1,13 @@
+{
+  "query": "In 10 years, Terry will be 4 times the age that Nora is currently. If Nora is currently 10 years old, how old is Terry now?",
+  "steps": [
+    "I need to find Terry's current age. I know that in 10 years, Terry will be 4 times the age that Nora is currently.",
+    "Nora is currently 10 years old.",
+    "In 10 years, Terry's age will be 4 times Nora's current age.",
+    "Nora's current age is 10, so 4 times Nora's age is 4 * 10 = 40.",
+    "In 10 years, Terry will be 40 years old.",
+    "To find Terry's current age, I need to subtract 10 years from how old he will be in 10 years.",
+    "So, Terry's current age is 40 - 10 = 30."
+  ],
+  "solution": "30"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "A psychiatrist has 4 patients that need 25 sessions in total. One of the patients needs 6 sessions. Another patient needs 5 more than that. How many sessions would the remaining patients need?",
+  "steps": [
+    "First, I'll identify how many sessions the first patient needs.",
+    "The first patient needs 6 sessions.",
+    "Now, I'll find out how many sessions the second patient needs.",
+    "The second patient needs 5 more sessions than the first patient.",
+    "Since the first patient needs 6 sessions, the second patient needs 6 + 5 = 11 sessions.",
+    "Next, I'll calculate the total number of sessions for the first two patients.",
+    "The first patient requires 6 sessions, and the second patient requires 11 sessions.",
+    "Adding these together gives 6 + 11 = 17 sessions for the first two patients.",
+    "I know the psychiatrist has 4 patients that need 25 sessions in total.",
+    "So, I need to find out how many sessions the remaining two patients need.",
+    "I'll subtract the sessions required by the first two patients from the total.",
+    "25 (total sessions) - 17 (sessions for the first two patients) = 8 sessions."
+  ],
+  "solution": "8"
+}

@@ -1,0 +1,27 @@
+{
+  "query": "Michael has two brothers. His oldest brother is 1 year older than twice Michael's age when Michael was a year younger. His younger brother is 5 years old, which is a third of the age of the older brother. What is their combined age?",
+  "steps": [
+    "I need to first determine Michael\u2019s current age.",
+    "Let's assume Michael\u2019s current age is M.",
+    "His younger brother is 5 years old.",
+    "The younger brother's age, 5, is given as a third of the older brother's current age.",
+    "This implies the older brother is 3 times 5 years old.",
+    "Calculating 3 times 5 gives us: 3 * 5 = 15.",
+    "So the older brother is 15 years old.",
+    "According to the problem, the older brother is 1 year older than twice Michael's age when Michael was a year younger.",
+    "So let's consider Michael's age a year ago: M - 1.",
+    "Twice Michael's age a year ago would be 2 * (M - 1).",
+    "The oldest brother is 1 year more than twice Michael's age from a year ago, which gives the formula: 15 = 2 * (M - 1) + 1.",
+    "Now we solve the equation: 15 = 2 * (M - 1) + 1.",
+    "First, I need to simplify the equation: 15 = 2M - 2 + 1.",
+    "This simplifies further to: 15 = 2M - 1.",
+    "Adding 1 to both sides gives: 16 = 2M.",
+    "To find M, divide both sides by 2: M = 8.",
+    "So Michael is currently 8 years old.",
+    "The combined age of Michael, his older brother, and his younger brother is needed.",
+    "We know: Michael is 8, his older brother is 15, and his younger brother is 5.",
+    "Add their ages: 8 + 15 + 5.",
+    "Calculating the sum gives: 8 + 15 = 23, then 23 + 5 = 28."
+  ],
+  "solution": "28"
+}

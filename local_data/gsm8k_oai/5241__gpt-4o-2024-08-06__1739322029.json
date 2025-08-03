@@ -1,0 +1,12 @@
+{
+  "query": "Chloe bought chocolate-dipped strawberries at $50 a dozen. She then sold them for $30 for half a dozen during the Mother's Day celebration. How much is Chloe's profit if she sold 50 dozens?",
+  "steps": [
+    "Chloe bought the strawberries at $50 per dozen.",
+    "She sold half a dozen for $30.",
+    "First, determine how much she can sell a dozen for. Since half a dozen is $30, a full dozen (which is two halves) would be $30 + $30 = $60.",
+    "Now, let's calculate how much she spends for 50 dozens. At $50 per dozen, for 50 dozens, she spends 50 x $50 = $2500.",
+    "Next, calculate her total sales from selling 50 dozens. At $60 per dozen, for 50 dozens, she earns 50 x $60 = $3000.",
+    "To find the profit, subtract the total cost from the total sales: $3000 - $2500 = $500."
+  ],
+  "solution": "500"
+}

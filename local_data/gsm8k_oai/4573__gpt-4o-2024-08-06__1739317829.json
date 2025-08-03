@@ -1,0 +1,17 @@
+{
+  "query": "The ratio of boys to girls in a classroom is 3:5. If there are 4 more girls than boys, how many students are in the classroom?",
+  "steps": [
+    "The ratio of boys to girls is given as 3:5.",
+    "This means for every 3 boys, there are 5 girls.",
+    "Let's express the number of boys as 3x and the number of girls as 5x, where x is a common factor.",
+    "According to the problem, there are 4 more girls than boys.",
+    "So, we can write the equation: 5x = 3x + 4.",
+    "Subtract 3x from both sides to solve for x: 5x - 3x = 4.",
+    "This simplifies to: 2x = 4.",
+    "Divide both sides by 2 to isolate x: x = 2.",
+    "Now that we have x = 2, we can find the number of boys by substituting back into 3x: number of boys = 3 * 2 = 6.",
+    "Similarly, substitute back into 5x to find the number of girls: number of girls = 5 * 2 = 10.",
+    "The total number of students in the classroom is the sum of boys and girls: 6 + 10."
+  ],
+  "solution": "16"
+}

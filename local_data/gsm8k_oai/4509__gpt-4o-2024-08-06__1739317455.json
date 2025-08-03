@@ -1,0 +1,21 @@
+{
+  "query": "An apartment complex has 4 identical buildings.  Each building has 10 studio apartments, 20 2 person apartments, and 5 4 person apartments.  How many people live in the apartment complex if it has 75% of its maximum occupancy?",
+  "steps": [
+    "First, I need to calculate the total number of apartments in one building.",
+    "One building has 10 studio apartments, 20 2 person apartments, and 5 4 person apartments.",
+    "The total number of apartments in one building is 10 + 20 + 5 = 35 apartments.",
+    "Now, I will calculate the total number of each type of apartment in the entire complex, which has 4 buildings.",
+    "There are 4 buildings each with 10 studio apartments. So, there are 4 * 10 = 40 studio apartments in total.",
+    "Similarly, there are 4 buildings each with 20 2 person apartments. Hence, there are 4 * 20 = 80 2 person apartments in total.",
+    "Finally, there are 4 buildings each with 5 4 person apartments. Therefore, there are 4 * 5 = 20 4 person apartments in total.",
+    "Next, I will calculate the maximum number of people that can live in these apartments.",
+    "Each studio apartment can house 1 person. So, the maximum occupancy for studio apartments is 40 * 1 = 40 people.",
+    "Each 2 person apartment can house 2 people. So, the maximum occupancy for 2 person apartments is 80 * 2 = 160 people.",
+    "Each 4 person apartment can house 4 people. So, the maximum occupancy for 4 person apartments is 20 * 4 = 80 people.",
+    "The maximum number of people who can live in the complex is 40 + 160 + 80 = 280 people.",
+    "The complex is currently at 75% of its maximum occupancy.",
+    "To find the current number of occupants, calculate 75% of 280.",
+    "75% of 280 is calculated as 0.75 * 280 = 210."
+  ],
+  "solution": "210"
+}

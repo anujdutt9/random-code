@@ -1,0 +1,14 @@
+{
+  "query": "Carolyn counts 6 monkeys and 6 birds in the tree outside her window. Then two of the monkeys each eat one bird. What percent of the animals outside her window are monkeys now?",
+  "steps": [
+    "Carolyn initially counts 6 monkeys and 6 birds. This gives a total of 12 animals.",
+    "Two monkeys each eat one bird. Two birds are eaten by the monkeys.",
+    "After the birds are eaten, the number of birds is reduced by 2. Therefore, there are now 6 - 2 = 4 birds.",
+    "The number of monkeys remains unchanged, so there are still 6 monkeys.",
+    "Now, let's calculate the new total number of animals: 6 monkeys + 4 birds = 10 animals.",
+    "To find the percentage of the animals that are monkeys, we divide the number of monkeys by the total number of animals.",
+    "The number of monkeys is 6, and the total number of animals is 10. Therefore, the fraction of animals that are monkeys is 6/10.",
+    "Convert this fraction to a percentage by multiplying by 100. So, (6/10) * 100 = 60%."
+  ],
+  "solution": "60"
+}

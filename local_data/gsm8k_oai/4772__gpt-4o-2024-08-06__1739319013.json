@@ -1,0 +1,21 @@
+{
+  "query": "Vann is a veterinarian. Today he is going to be doing dental cleanings only. Dogs have 42 teeth, cats have 30 teeth and pigs have 28 teeth. If he is to do 5 dogs, 10 cats and 7 pigs, how many total teeth will Vann clean today?",
+  "steps": [
+    "First, I will calculate the total number of dog teeth Vann will clean.",
+    "There are 5 dogs and each dog has 42 teeth.",
+    "Multiply the number of dogs (5) by the number of teeth each dog has (42).",
+    "5 dogs \u00d7 42 teeth/dog = 210 teeth from dogs.",
+    "Next, I will calculate the total number of cat teeth Vann will clean.",
+    "There are 10 cats and each cat has 30 teeth.",
+    "Multiply the number of cats (10) by the number of teeth each cat has (30).",
+    "10 cats \u00d7 30 teeth/cat = 300 teeth from cats.",
+    "Now, I will calculate the total number of pig teeth Vann will clean.",
+    "There are 7 pigs and each pig has 28 teeth.",
+    "Multiply the number of pigs (7) by the number of teeth each pig has (28).",
+    "7 pigs \u00d7 28 teeth/pig = 196 teeth from pigs.",
+    "To find the total number of teeth Vann will clean, I need to add all of these numbers together.",
+    "Add the teeth from dogs (210), cats (300), and pigs (196).",
+    "210 + 300 + 196 = 706 total teeth."
+  ],
+  "solution": "706"
+}

@@ -1,0 +1,18 @@
+{
+  "query": "Felicity and Adhira took separate trips. Felicity used 5 less gallons of gas than four times the number of gallons that Adhira used for her trip. Together the girls used 30 gallons of gas.  How many gallons did Felicity use?",
+  "steps": [
+    "Let's introduce variables: let A be the number of gallons Adhira used.",
+    "According to the problem, Felicity used 5 less gallons than 4 times the number of gallons Adhira used. This can be represented as: F = 4A - 5, where F is the number of gallons Felicity used.",
+    "Together, they used 30 gallons of gas: A + F = 30.",
+    "Now, substitute F in the equation A + F = 30 with the expression for F: A + (4A - 5) = 30.",
+    "Simplify the equation: A + 4A - 5 = 30.",
+    "Combine like terms: 5A - 5 = 30.",
+    "Add 5 to both sides of the equation: 5A = 35.",
+    "Divide both sides by 5: A = 7.",
+    "Now that we know A, the number of gallons Adhira used, we can find the number of gallons Felicity used: F = 4A - 5.",
+    "Substitute A with 7: F = 4(7) - 5.",
+    "Calculate: 4(7) = 28.",
+    "Subtract 5: 28 - 5 = 23."
+  ],
+  "solution": "23"
+}

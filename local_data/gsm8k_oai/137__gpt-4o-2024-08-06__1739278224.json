@@ -1,0 +1,14 @@
+{
+  "query": "3 families of 4 people shared a vacation rental for 7 days.  Everyone uses 1 oversized beach towel a day before getting a new one.  The washing machine can hold 14 oversized beach towels per load.  How many loads of laundry will it take to wash all the oversized beach towels?",
+  "steps": [
+    "First, find the total number of people sharing the vacation rental. There are 3 families, each with 4 people.",
+    "Multiply the number of families by the number of people in each family: 3 families * 4 people per family = 12 people.",
+    "Each person uses 1 oversized beach towel per day, so find the total number of towels used per day by all people.",
+    "Multiply the total number of people by the number of towels each person uses per day: 12 people * 1 towel per person = 12 towels per day.",
+    "The vacation lasted for 7 days, so calculate the total number of towels used over the entire vacation.",
+    "Multiply the number of towels used per day by the number of days: 12 towels per day * 7 days = 84 towels.",
+    "The washing machine can hold 14 towels per load. Calculate how many loads of laundry are needed.",
+    "Divide the total number of towels by the capacity of the washing machine: 84 towels \u00f7 14 towels/load = 6 loads."
+  ],
+  "solution": "6"
+}

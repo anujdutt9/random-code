@@ -1,0 +1,20 @@
+{
+  "query": "Ten friends decide to get an end-of-year gift for their teacher. They plan to split the cost of the gift equally. But four of the group drop out. The remaining friends split the cost equally among themselves. If each share is now $8 more, how much does the gift cost, in dollars?",
+  "steps": [
+    "Let's assume the total cost of the gift is \\( C \\) dollars.",
+    "There are initially 10 friends to share the cost equally, so each would pay \\( \\frac{C}{10} \\) dollars.",
+    "When 4 friends drop out, there are 6 friends left to share the cost.",
+    "Now, each of the remaining 6 friends pays \\( \\frac{C}{6} \\) dollars.",
+    "According to the problem, each remaining friend pays $8 more than they would have if all 10 had contributed.",
+    "Set up the equation: \\( \\frac{C}{6} = \\frac{C}{10} + 8 \\).",
+    "Subtract \\( \\frac{C}{10} \\) from both sides: \\( \\frac{C}{6} - \\frac{C}{10} = 8 \\).",
+    "To combine the fractions, find a common denominator. The least common multiple of 6 and 10 is 30.",
+    "Convert \\( \\frac{C}{6} \\) to \\( \\frac{5C}{30} \\) and \\( \\frac{C}{10} \\) to \\( \\frac{3C}{30} \\).",
+    "Subtract the fractions: \\( \\frac{5C}{30} - \\frac{3C}{30} = \\frac{2C}{30} \\).",
+    "Simplify \\( \\frac{2C}{30} \\) to \\( \\frac{C}{15} \\).",
+    "The equation now is \\( \\frac{C}{15} = 8 \\).",
+    "Multiply both sides by 15 to solve for \\( C \\): \\( C = 8 \\times 15 \\).",
+    "Calculate \\( 8 \\times 15 \\): \\( C = 120 \\)."
+  ],
+  "solution": "120"
+}

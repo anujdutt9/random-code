@@ -1,0 +1,16 @@
+{
+  "query": "The ratio of boys to girls in a math class is 5:8. How many girls are in the class if the total number of students in the class is 260?",
+  "steps": [
+    "I'm given the ratio of boys to girls as 5:8.",
+    "The total number of students in the class is 260.",
+    "The ratio 5:8 means for every 5 boys, there are 8 girls.",
+    "The sum of parts of the ratio is 5 + 8 = 13.",
+    "This means the class can be divided into 13 equal parts.",
+    "I need to calculate the size of one part by dividing the total number of students by the sum of the ratio parts.",
+    "260 divided by 13 equals 20. So, each part is equal to 20 students.",
+    "To find the number of girls, I multiply the number of parts for girls by the size of one part.",
+    "The number of parts for girls is 8.",
+    "8 multiplied by 20 equals 160."
+  ],
+  "solution": "160"
+}

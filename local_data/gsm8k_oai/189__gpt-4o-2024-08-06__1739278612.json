@@ -1,0 +1,24 @@
+{
+  "query": "Thor is 13 times older than Captain America. Captain America is 7 times older than Peter Parker, and Ironman is 32 years older than Peter Parker. How old is Ironman if Thor is 1456 years old?",
+  "steps": [
+    "Thor's age is given as 1456 years.",
+    "Thor is 13 times older than Captain America.",
+    "Let Captain America's age be x.",
+    "Then 13x = 1456.",
+    "Divide both sides by 13 to solve for x.",
+    "x = 1456 / 13.",
+    "To compute 1456 divided by 13, perform the division: \n1456 \u00f7 13 = 112.",
+    "So, Captain America is 112 years old.",
+    "Captain America is also 7 times older than Peter Parker.",
+    "Let Peter Parker's age be y.",
+    "Then 7y = 112.",
+    "Divide both sides by 7 to solve for y.",
+    "y = 112 / 7.",
+    "Calculating 112 \u00f7 7 yields 16.",
+    "So, Peter Parker is 16 years old.",
+    "Ironman is 32 years older than Peter Parker.",
+    "Ironman's age = Peter Parker's age + 32 years.",
+    "Ironman's age = 16 + 32."
+  ],
+  "solution": "48"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "It takes 40 minutes to freeze ice cubes and 3 minutes per smoothie to turn them into smoothies once they're frozen. How long does it take to make 5 smoothies?",
+  "steps": [
+    "The first step is understanding what the question is asking. It wants to know the total time to make 5 smoothies using ice cubes that need to be frozen first.",
+    "Ice cubes take 40 minutes to freeze. This is a fixed time regardless of the number of smoothies.",
+    "Next, it takes 3 minutes per smoothie to turn the frozen ice cubes into a smoothie.",
+    "I need to calculate the time taken to turn the ice cubes into 5 smoothies. This is 5 smoothies times 3 minutes per smoothie.",
+    "5 smoothies * 3 minutes per smoothie = 15 minutes.",
+    "Now, I need to add the time taken to freeze the ice cubes to the time taken to make the smoothies.",
+    "The freezing time is 40 minutes.",
+    "The blending time for making 5 smoothies is 15 minutes.",
+    "Add the freezing time and the blending time: 40 minutes + 15 minutes.",
+    "40 minutes + 15 minutes = 55 minutes."
+  ],
+  "solution": "55"
+}

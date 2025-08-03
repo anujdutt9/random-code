@@ -1,0 +1,15 @@
+{
+  "query": "John wants to finish a show in 5 days.  There are 20 episodes and they are each 30 minutes long.  How many hours does he have to watch a day?",
+  "steps": [
+    "First, I need to find the total number of minutes for the entire show.",
+    "There are 20 episodes and each episode is 30 minutes long.",
+    "I will multiply the number of episodes by the length of each episode to find the total minutes: 20 episodes * 30 minutes/episode.",
+    "20 * 30 = 600 minutes.",
+    "Now, I need to convert the total minutes to hours because the question asks for hours per day.",
+    "There are 60 minutes in an hour, so I will divide the total minutes by 60.",
+    "600 minutes / 60 minutes/hour = 10 hours.",
+    "John wants to watch all episodes in 5 days, so I need to divide the total hours by the number of days.",
+    "10 hours / 5 days = 2 hours per day."
+  ],
+  "solution": "2"
+}

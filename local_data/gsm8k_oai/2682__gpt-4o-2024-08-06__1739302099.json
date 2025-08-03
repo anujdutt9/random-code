@@ -1,0 +1,17 @@
+{
+  "query": "John uses a 75-watt electric fan for 8 hours a day. How much kWh of electric energy does he consume per month (30 days) for using the electric fan?",
+  "steps": [
+    "First, I need to calculate the energy consumption per day in watt-hours.",
+    "John uses a 75-watt fan for 8 hours each day.",
+    "To find the daily energy consumption, I multiply the power (75 watts) by the usage time (8 hours).",
+    "75 watts * 8 hours = 600 watt-hours per day.",
+    "Now, I need to calculate the monthly energy consumption for 30 days in watt-hours.",
+    "To do this, I multiply the daily consumption (600 watt-hours) by 30 days.",
+    "600 watt-hours/day * 30 days = 18,000 watt-hours.",
+    "Now, I need to convert this value from watt-hours to kilowatt-hours.",
+    "There are 1,000 watt-hours in 1 kilowatt-hour.",
+    "So, I divide 18,000 watt-hours by 1,000 to convert it to kilowatt-hours.",
+    "18,000 watt-hours \u00f7 1,000 = 18 kWh."
+  ],
+  "solution": "18"
+}

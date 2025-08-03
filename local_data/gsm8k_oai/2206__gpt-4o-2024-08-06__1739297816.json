@@ -1,0 +1,22 @@
+{
+  "query": "Shanna planted 6 tomato plants, 2 eggplant plants, and 4 pepper plants in her summer garden. Half of her tomato plants and one pepper plant died. The remaining plants each gave her 7 vegetables. How many vegetables did she have in all to harvest?",
+  "steps": [
+    "Shanna planted 6 tomato plants.",
+    "She also planted 2 eggplant plants.",
+    "Additionally, Shanna planted 4 pepper plants.",
+    "Half of her tomato plants died.",
+    "Half of 6 is 3, so 3 tomato plants died.",
+    "This means 6 - 3 = 3 tomato plants survived.",
+    "One pepper plant died.",
+    "Therefore, 4 - 1 = 3 pepper plants survived.",
+    "All the eggplant plants survived, so there are still 2 eggplant plants.",
+    "Each surviving plant gave her 7 vegetables.",
+    "The surviving tomato plants gave her 3 * 7 = 21 vegetables.",
+    "The surviving eggplant plants gave her 2 * 7 = 14 vegetables.",
+    "The surviving pepper plants gave her 3 * 7 = 21 vegetables.",
+    "To find the total number of vegetables, I add up the vegetables from all the surviving plants: 21 (tomato) + 14 (eggplant) + 21 (pepper).",
+    "21 + 14 = 35.",
+    "35 + 21 = 56."
+  ],
+  "solution": "56"
+}

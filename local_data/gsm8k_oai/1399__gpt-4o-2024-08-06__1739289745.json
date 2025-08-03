@@ -1,0 +1,16 @@
+{
+  "query": "Austin is a surfer. He took a trip to the beach during surfing season and the highest wave he caught was two feet higher than four times his height. The shortest wave he caught was four feet higher than his height. The shortest wave was three feet higher than his 7-foot surfboard is long. How tall was the highest wave Austin caught?",
+  "steps": [
+    "Let's first find Austin's height.",
+    "We know that the shortest wave was four feet higher than his height.",
+    "And that this same wave is three feet higher than his 7-foot surfboard.",
+    "Since the shortest wave is three feet higher than the 7-foot surfboard, it must be 7 + 3 = 10 feet tall.",
+    "This wave is also four feet higher than Austin's height, so we have: Austin's height + 4 = 10 feet.",
+    "Austin's height must therefore be 10 - 4 = 6 feet.",
+    "Now let's calculate the height of the highest wave he caught.",
+    "The highest wave was two feet higher than four times Austin's height.",
+    "Four times Austin's height is 4 * 6 = 24 feet.",
+    "The highest wave was two feet higher than this, making it 24 + 2 = 26 feet."
+  ],
+  "solution": "26"
+}

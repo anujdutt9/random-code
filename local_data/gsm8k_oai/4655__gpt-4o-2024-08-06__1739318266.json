@@ -1,0 +1,16 @@
+{
+  "query": "Adah practiced the cello for a total of 7.5 hours last week. He practiced for 86 minutes on each of 2 days. How many minutes in total did he practice on the other days?",
+  "steps": [
+    "First, I need to find out the total number of minutes Adah practiced the cello last week.",
+    "He practiced for a total of 7.5 hours.",
+    "I know there are 60 minutes in an hour.",
+    "So, I multiply 7.5 hours by 60 minutes per hour to convert hours to minutes.",
+    "7.5 hours \u00d7 60 minutes/hour = 450 minutes",
+    "I need to calculate the total number of minutes he practiced on the 2 days he practiced for 86 minutes each.",
+    "For 2 days of practice at 86 minutes each day, I will multiply 86 minutes by 2.",
+    "86 minutes/day \u00d7 2 days = 172 minutes",
+    "Now, I will subtract the total minutes practiced on those 2 days from the total minutes he practiced last week.",
+    "450 minutes total - 172 minutes = 278 minutes"
+  ],
+  "solution": "278"
+}

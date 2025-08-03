@@ -1,0 +1,23 @@
+{
+  "query": "During a soccer game, in the first half, Team A scored 8 points, and Team B scored only half as many points. In the second half, Team B was able to get as many points as Team A in the first half, and Team A scored only 2 goals less than Team B. How many goals did both teams score during the whole match?",
+  "steps": [
+    "First, I need to determine how many points Team B scored in the first half.",
+    "Team A scored 8 points in the first half, and Team B scored half as many points as Team A.",
+    "Half of 8 is 4, so Team B scored 4 points in the first half.",
+    "Next, I need to determine how many points Team B scored in the second half.",
+    "In the second half, Team B scored as many points as Team A did in the first half, which is 8 points.",
+    "Now, I need to determine how many points Team A scored in the second half.",
+    "Team A scored 2 goals less than Team B in the second half.",
+    "Since Team B scored 8 points in the second half, Team A scored 8 - 2 = 6 points in the second half.",
+    "Now I will calculate the total points for Team A across both halves.",
+    "Team A scored 8 points in the first half and 6 points in the second half.",
+    "8 + 6 = 14 points for Team A in total.",
+    "I will now calculate the total points for Team B across both halves.",
+    "Team B scored 4 points in the first half and 8 points in the second half.",
+    "4 + 8 = 12 points for Team B in total.",
+    "I will now calculate the total points scored by both teams during the whole match.",
+    "Team A scored 14 points and Team B scored 12 points.",
+    "14 + 12 = 26 points in total scored by both teams."
+  ],
+  "solution": "26"
+}

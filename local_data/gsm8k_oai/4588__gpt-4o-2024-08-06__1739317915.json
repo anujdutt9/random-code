@@ -1,0 +1,13 @@
+{
+  "query": "A business executive is going on a four day vacation where he will be unable to answer emails.  The first day he is gone, he receives 16 new emails.  On each of the following days, he receives half as many new emails as he received on the prior day.  At the end of his four day vacation, how many new emails will he have received in total?",
+  "steps": [
+    "First, I need to determine the number of emails received on each day.",
+    "On the first day, the executive receives 16 emails.",
+    "On the second day, he receives half as many emails as the first day. So, he receives 16 / 2 = 8 emails.",
+    "On the third day, he receives half as many as the second day. So, he receives 8 / 2 = 4 emails.",
+    "On the fourth day, he receives half as many as the third day. So, he receives 4 / 2 = 2 emails.",
+    "Now, I will add up the emails from each day to find the total number of emails received over four days.",
+    "16 (day 1) + 8 (day 2) + 4 (day 3) + 2 (day 4) = 30 emails."
+  ],
+  "solution": "30"
+}

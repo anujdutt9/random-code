@@ -1,0 +1,21 @@
+{
+  "query": "Tania has five baskets containing a total of 58 fruits. There are 18 mangoes in one basket, 10 pears in another, 12 pawpaws in another and the last 2 contain the same number of kiwi and lemon respectively, how many lemons are there?",
+  "steps": [
+    "Tania has five baskets with a total of 58 fruits.",
+    "One basket contains 18 mangoes.",
+    "Another basket contains 10 pears.",
+    "Another basket contains 12 pawpaws.",
+    "The remaining two baskets contain the same number of kiwi and lemons respectively.",
+    "First, I need to calculate the total number of fruits accounted for by the 18 mangoes, 10 pears, and 12 pawpaws.",
+    "18 (mangoes) + 10 (pears) = 28.",
+    "28 + 12 (pawpaws) = 40.",
+    "So, 40 fruits are accounted for by mangoes, pears, and pawpaws.",
+    "Since the total number of fruits is 58, I should subtract the 40 fruits from the total to find the number of fruits in the remaining two baskets.",
+    "58 - 40 = 18.",
+    "The two baskets contain 18 fruits in total, and both baskets have the same number of fruits.",
+    "To find the number of fruits in each of these two baskets, divide the total number of fruits in the two baskets by 2.",
+    "18 / 2 = 9.",
+    "So there are 9 lemons in one of the baskets."
+  ],
+  "solution": "9"
+}

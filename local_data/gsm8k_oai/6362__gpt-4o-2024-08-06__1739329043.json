@@ -1,0 +1,20 @@
+{
+  "query": "Frank spent 1/5 of his money to buy groceries. He then spent 1/4 of the remaining money to buy a magazine. If he had $360 left in his wallet, how much money did he have at first?",
+  "steps": [
+    "Frank spent 1/5 of his money on groceries, which means he had 4/5 of his money left.",
+    "Let's call the total amount of money Frank had at first \"x\".",
+    "After spending on groceries, Frank had (4/5) * x left.",
+    "He then spent 1/4 of the remaining money on a magazine.",
+    "He was left with 3/4 of the money he had after buying groceries.",
+    "So, after purchasing the magazine, he had (3/4) * (4/5) * x left.",
+    "We know this remaining amount is $360.",
+    "This means (3/4) * (4/5) * x = 360.",
+    "Simplifying the expression, (3 * 4)/(4 * 5) * x = 360 reduces to (12/20) * x = 360.",
+    "Simplifying further, (3/5) * x = 360.",
+    "To solve for x, multiply both sides by 5/3.",
+    "x = 360 * (5/3).",
+    "360 divided by 3 is 120.",
+    "120 multiplied by 5 is 600."
+  ],
+  "solution": "600"
+}

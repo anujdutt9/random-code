@@ -1,0 +1,13 @@
+{
+  "query": "Jacob's water tank can hold up to 50 liters of water. Jacob collects water from the river and rain to fill his water tank. He can collect 800 milliliters of water from the rain and 1700 milliliters of water from the river every day. How many days does Jacob need to fill up his water tank?",
+  "steps": [
+    "First, I need to understand the total water capacity of the tank in liters, which is provided as 50 liters.",
+    "Next, I should convert Jacob's daily water collection amounts from milliliters to liters because the tank's capacity is in liters.",
+    "Jacob collects 800 milliliters from the rain daily. Since 1000 milliliters equal 1 liter, 800 milliliters equal 0.8 liters.",
+    "Jacob collects 1700 milliliters from the river daily. Converting this, 1700 milliliters equal 1.7 liters.",
+    "Add the amount of water collected from the rain and river per day. That would be 0.8 liters + 1.7 liters = 2.5 liters.",
+    "Now, divide the total capacity of the tank by the total amount of water collected daily to find the number of days needed to fill the tank.",
+    "Perform the division: 50 liters \u00f7 2.5 liters/day = 20 days."
+  ],
+  "solution": "20"
+}

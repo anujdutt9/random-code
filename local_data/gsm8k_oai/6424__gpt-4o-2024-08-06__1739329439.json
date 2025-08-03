@@ -1,0 +1,20 @@
+{
+  "query": "There are 32 students in a statistics course.  25 percent of the class received an A.  1/4 of the remaining students got either a B or C, and the rest of the students failed.  How many students failed?",
+  "steps": [
+    "First, find out how many students received an A.",
+    "25 percent of 32 students received an A.",
+    "To find 25 percent of 32, multiply 32 by 0.25.",
+    "32 * 0.25 = 8",
+    "So, 8 students received an A.",
+    "Subtract the 8 students who received an A from the total number of students to find the remaining students.",
+    "32 - 8 = 24",
+    "Now, 24 students remain.",
+    "1/4 of the remaining 24 students got either a B or C.",
+    "To find 1/4 of 24, divide 24 by 4.",
+    "24 / 4 = 6",
+    "So, 6 students got either a B or C.",
+    "Subtract the 6 students who got B or C from the remaining students to find out how many failed.",
+    "24 - 6 = 18"
+  ],
+  "solution": "18"
+}

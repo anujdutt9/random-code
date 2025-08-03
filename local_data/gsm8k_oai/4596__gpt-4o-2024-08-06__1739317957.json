@@ -1,0 +1,16 @@
+{
+  "query": "Paul, a biology teacher, assigns 265 points in the first quarter.  There are 4 times as many test points as quiz points, and 5 more quiz points than homework points.  How many homework points are there in the first quarter?",
+  "steps": [
+    "Let's define variables for each type of points: Let H be the number of homework points, Q be the number of quiz points, and T be the number of test points.",
+    "According to the problem, we know that Q = H + 5, because there are 5 more quiz points than homework points.",
+    "We also know that T = 4Q, since there are 4 times as many test points as quiz points.",
+    "The total points assigned by Paul are from homework, quizzes, and tests, which is 265 points, so we can write the equation H + Q + T = 265.",
+    "Substitute Q = H + 5 into the total points equation: H + (H + 5) + T = 265. This simplifies to 2H + 5 + T = 265.",
+    "Next, substitute T = 4Q into the equation. Since Q = H + 5, we have T = 4(H + 5). Therefore, the equation becomes 2H + 5 + 4(H + 5) = 265.",
+    "Expand the T term: 4(H + 5) becomes 4H + 20. Substituting back gives us 2H + 5 + 4H + 20 = 265.",
+    "Combine like terms: 6H + 25 = 265.",
+    "Subtract 25 from both sides: 6H = 240.",
+    "Divide both sides by 6 to solve for H: H = 40."
+  ],
+  "solution": "40"
+}

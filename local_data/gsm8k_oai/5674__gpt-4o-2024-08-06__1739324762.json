@@ -1,0 +1,15 @@
+{
+  "query": "A Burmese python that was 1.4 meters long swallowed a 50-centimeter alligator.  After one week, the alligator was completely digested.  If this snake continues to eat 50-centimeter-long alligators at a constant rate of one alligator per week, what is the maximum number of alligators that the snake can eat in 616 days?",
+  "steps": [
+    "First, I need to determine how many weeks there are in 616 days.",
+    "I know there are 7 days in a week.",
+    "To find the number of weeks, I will divide 616 by 7.",
+    "616 \u00f7 7 = 88 weeks with a remainder of 0 days.",
+    "Since there is a remainder of 0 days, I don't need to account for any partial weeks.",
+    "The snake eats one 50-centimeter alligator per week.",
+    "Now, I will multiply the number of weeks by the number of alligators it eats per week.",
+    "88 weeks \u00d7 1 alligator per week = 88 alligators.",
+    "So, the number of alligators the snake can eat in 616 days is 88."
+  ],
+  "solution": "88"
+}

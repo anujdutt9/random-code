@@ -1,0 +1,15 @@
+{
+  "query": "Carson is refilling his tires. Each tire can hold 500 cubic inches of air. Two of the tires are completely flat and empty. One tire is 40% full and the last tire is 70% full. If Carson injects 50 cubic inches of air with each pump, how many pumps will it take him to fill all the tires?",
+  "steps": [
+    "First, I need to find out how much air is needed to fill each tire to capacity.",
+    "Two tires are completely flat, needing 500 cubic inches each to be full.",
+    "Another tire is 40% full, so it has 0.40 * 500 = 200 cubic inches of air already.",
+    "Thus, 500 - 200 = 300 cubic inches are needed to fill this tire.",
+    "The last tire is 70% full, so it has 0.70 * 500 = 350 cubic inches of air already.",
+    "Thus, 500 - 350 = 150 cubic inches are needed to fill this tire.",
+    "Now, I sum up the amount of air needed for all four tires: 500 + 500 + 300 + 150 = 1450 cubic inches.",
+    "Each pump injects 50 cubic inches of air.",
+    "Now, I determine how many 50 cubic inch pumps are needed to fill 1450 cubic inches: 1450 / 50 = 29 pumps."
+  ],
+  "solution": "29"
+}

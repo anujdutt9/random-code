@@ -1,0 +1,11 @@
+{
+  "query": "A bag of jellybeans contains 8 black beans and 2 more green beans. It also contains 1 less orange bean than green beans. How many jellybeans are there in the bag?",
+  "steps": [
+    "The bag contains 8 black beans.",
+    "There are 2 more green beans than black beans. The number of black beans is 8, so the number of green beans is 8 + 2 = 10.",
+    "The number of orange beans is 1 less than the number of green beans. Since there are 10 green beans, there are 10 - 1 = 9 orange beans.",
+    "Now, I need to add up all the jellybeans: black beans, green beans, and orange beans.",
+    "The total number of jellybeans is 8 black + 10 green + 9 orange = 27."
+  ],
+  "solution": "27"
+}

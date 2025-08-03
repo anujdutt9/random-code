@@ -1,0 +1,20 @@
+{
+  "query": "An airplane took a trip along the Eastern Coast of the USA. During the trip, the plane hovered in Mountain time for 3 hours, Central time for 4 hrs, and Eastern time for 2 hrs. The next day it took 2 more hours to hover in each of the places it passed through the previous day. Calculate the total time it took the plane to hover over Mountain time, Central time, and Eastern time in the two days.",
+  "steps": [
+    "First, I need to determine the total time the airplane spent hovering over Mountain time on both days.",
+    "On the first day, the plane hovered over Mountain time for 3 hours.",
+    "On the second day, the plane added 2 more hours in each time zone. So, it spent 3 + 2 = 5 hours hovering over Mountain time on the second day.",
+    "Thus, the total time hovering over Mountain time is 3 (first day) + 5 (second day) = 8 hours.",
+    "Next, let's determine the total time the plane spent hovering over Central time on both days.",
+    "On the first day, it hovered over Central time for 4 hours.",
+    "On the second day, it added 2 more hours. So, it spent 4 + 2 = 6 hours hovering over Central time on the second day.",
+    "Therefore, the total time hovering over Central time is 4 (first day) + 6 (second day) = 10 hours.",
+    "Now, let's look at the total time spent hovering over Eastern time on both days.",
+    "On the first day, the plane hovered over Eastern time for 2 hours.",
+    "On the second day, it added 2 more hours, so it spent 2 + 2 = 4 hours hovering over Eastern time on the second day.",
+    "So, the total time hovering over Eastern time is 2 (first day) + 4 (second day) = 6 hours.",
+    "Now, I need to sum up all the hours from each time zone to find the total time spent hovering over the two days.",
+    "Adding up all the hours gives: 8 (Mountain time) + 10 (Central time) + 6 (Eastern time) = 24 hours."
+  ],
+  "solution": "24"
+}

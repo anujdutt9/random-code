@@ -1,0 +1,16 @@
+{
+  "query": "The distance across a country is 8205 kilometers. Amelia started at one end and drove 907 kilometers on Monday and 582 kilometers on Tuesday. How many kilometers does Amelia still have to drive to make it across the country?",
+  "steps": [
+    "First, I need to find out the total kilometers Amelia has already driven.",
+    "Amelia drove 907 kilometers on Monday.",
+    "Amelia drove 582 kilometers on Tuesday.",
+    "Now I will add these distances to find the total distance driven so far: 907 + 582.",
+    "907 + 582 is 1489 kilometers.",
+    "Now I know Amelia has driven 1489 kilometers in total.",
+    "The total distance across the country is 8205 kilometers.",
+    "To find out how many kilometers Amelia still has to drive, I need to subtract the total driven kilometers from the total distance.",
+    "So I will subtract 1489 from 8205: 8205 - 1489.",
+    "8205 - 1489 is 6716 kilometers."
+  ],
+  "solution": "6716"
+}

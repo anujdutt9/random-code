@@ -1,0 +1,16 @@
+{
+  "query": "Sally Draper gave her dad Don Draper 10oz of rum on his pancakes. Don can consume a maximum of 3 times that amount of rum for a healthy diet. If he already had 12oz of rum earlier that day, how many oz of rum can Don have after eating all of the rum and pancakes?",
+  "steps": [
+    "First, I need to determine how much rum Don can consume in total for a healthy diet.",
+    "Don can consume a maximum of 3 times the amount of rum that Sally gave him, which is 10oz.",
+    "Calculating 3 times 10oz gives me 30oz.",
+    "Now I know that Don can consume a total of 30oz of rum for a healthy diet.",
+    "Next, I need to figure out how much rum Don has already consumed before considering the pancakes.",
+    "Sally gave him 10oz of rum on his pancakes, and he had already consumed 12oz earlier that day.",
+    "Adding 10oz and 12oz together gives me 22oz of rum that Don has already consumed.",
+    "Now I can determine how much more rum Don can consume.",
+    "The healthy limit is 30oz, and Don has consumed 22oz, so I need to subtract 22oz from 30oz.",
+    "30oz - 22oz equals 8oz, which is the additional amount of rum Don can have."
+  ],
+  "solution": "8"
+}
