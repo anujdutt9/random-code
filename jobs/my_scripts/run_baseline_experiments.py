@@ -2,6 +2,7 @@
 """
 Local experiment runner for cache steering experiments.
 This script parses the YAML configuration and runs experiments locally.
+Supports multi-GPU model parallelism using Hugging Face Accelerate.
 """
 
 import argparse
@@ -76,7 +77,7 @@ def init_wandb(project_name=None, run_name=None, experiment_config=None):
     return wandb.run
 
 
-def capture_subprocess_output(cmd, wandb_run=None):
+def capture_subprocess_output(cmd, wandb_run=None, env=None):
     """Run subprocess and capture output for WandB logging."""
     print(f"Running: {' '.join(cmd)}")
 
@@ -86,7 +87,8 @@ def capture_subprocess_output(cmd, wandb_run=None):
         stdout=subprocess.PIPE,
         stderr=subprocess.STDOUT,
         universal_newlines=True,
-        bufsize=1
+        bufsize=1,
+        env=env
     )
 
     output_lines = []
@@ -183,7 +185,7 @@ def upload_output_files(output_dir, wandb_run, experiment_name):
 
 
 def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, with_prefix=False, enable_wandb=False,
-                            wandb_project=None):
+                            wandb_project=None, use_accelerate=False, num_gpus=2, use_fp32=False):
     """Run a baseline experiment."""
     model_name = model.split('/')[-1]
     experiment_name = f"{model_name}_{task}_{eval_type}_baseline"
@@ -232,6 +234,10 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
                 "cmd_length": len(cmd),
                 "extra_flags_raw": extra_flags,
                 "extra_flags": extra_flags_dict,
+                "use_accelerate": use_accelerate,
+                "num_gpus": num_gpus,
+                "use_fp32": use_fp32,
+                "parallelism_type": "model_parallelism" if use_accelerate else "single_gpu",
                 # Add individual parameters for easier filtering
                 "n_runs": extra_flags_dict.get("n_runs", "1"),
                 "encoding_method": extra_flags_dict.get("encoding_method", "unknown"),
@@ -264,9 +270,45 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
         if extra_flags:
             cmd.extend(extra_flags.split())
 
+    # Add Accelerate support for model parallelism
+    if use_accelerate:
+        # Use accelerate launch instead of python
+        cmd = ["accelerate", "launch"] + cmd
+        
+        # Add Accelerate configuration for model parallelism
+        if num_gpus > 1:
+            # Set environment variables for Accelerate
+            env = os.environ.copy()
+            env["CUDA_VISIBLE_DEVICES"] = ",".join([str(i) for i in range(num_gpus)])
+            
+            # Add Accelerate config flags for model parallelism
+            cmd.extend([
+                "--multi_gpu",
+                "--num_processes", str(num_gpus),
+            ])
+            
+            # Use FP32 if specified, otherwise use mixed precision
+            if use_fp32:
+                cmd.extend(["--mixed_precision", "no"])  # No mixed precision = FP32
+                print(f"Using FP32 precision with {num_gpus} GPUs for model parallelism")
+            else:
+                cmd.extend(["--mixed_precision", "bf16"])
+                print(f"Using BF16 precision with {num_gpus} GPUs for model parallelism")
+            
+            print(f"CUDA_VISIBLE_DEVICES: {env['CUDA_VISIBLE_DEVICES']}")
+        else:
+            # Single GPU with Accelerate
+            if use_fp32:
+                cmd.extend(["--mixed_precision", "no"])
+            else:
+                cmd.extend(["--mixed_precision", "bf16"])
+            env = os.environ.copy()
+    else:
+        env = os.environ.copy()
+
     try:
         # Run experiment and capture output
-        output_lines = capture_subprocess_output(cmd, wandb_run)
+        output_lines = capture_subprocess_output(cmd, wandb_run, env=env)
 
         # Extract output directory from extra_flags
         output_dir = extra_flags_dict.get("output_dir")
@@ -297,6 +339,14 @@ def main():
                         help="Extra flags to pass to evaluation scripts")
     parser.add_argument("--prefix", action="store_true", help="Also run with Chain-of-Thought prefix")
 
+    # Multi-GPU support
+    parser.add_argument("--use-accelerate", action="store_true", 
+                        help="Use Hugging Face Accelerate for multi-GPU support")
+    parser.add_argument("--num-gpus", type=int, default=2,
+                        help="Number of GPUs to use with Accelerate (default: 2)")
+    parser.add_argument("--use-fp32", action="store_true",
+                        help="Use FP32 precision instead of mixed precision (for fair comparison with original paper)")
+
     # WandB arguments
     parser.add_argument("--wandb", action="store_true", help="Enable WandB logging")
     parser.add_argument("--wandb-project", help="WandB project name (uses WANDB_PROJECT env var if not specified)")
@@ -308,6 +358,18 @@ def main():
     if not os.environ.get("HF_TOKEN"):
         print("Error: HF_TOKEN environment variable not set")
         sys.exit(1)
+
+    # Validate GPU configuration
+    if args.use_accelerate:
+        import torch
+        available_gpus = torch.cuda.device_count()
+        if available_gpus < args.num_gpus:
+            print(f"Warning: Requested {args.num_gpus} GPUs but only {available_gpus} are available")
+            print(f"Using {available_gpus} GPUs instead")
+            args.num_gpus = available_gpus
+        elif available_gpus == 0:
+            print("Warning: No CUDA GPUs available. Accelerate will use CPU.")
+            args.num_gpus = 0
 
     # Define available models and tasks
     all_models = [
@@ -330,6 +392,10 @@ def main():
     print(f"Models: {models}")
     print(f"Extra flags: {args.extra_flags}")
     print(f"With prefix: {args.prefix}")
+    print(f"Use Accelerate: {args.use_accelerate}")
+    if args.use_accelerate:
+        print(f"Number of GPUs: {args.num_gpus}")
+        print(f"Use FP32: {args.use_fp32}")
     print(f"WandB logging: {args.wandb}")
     print("=" * 50)
 
@@ -343,8 +409,15 @@ def main():
             # Run baseline experiments
             if args.experiment_type in ["baseline", "both"]:
                 try:
-                    run_baseline_experiment(model, task, args.eval_type, args.extra_flags, with_prefix=args.prefix,
-                                                enable_wandb=args.wandb, wandb_project=args.wandb_project)
+                    run_baseline_experiment(
+                        model, task, args.eval_type, args.extra_flags, 
+                        with_prefix=args.prefix,
+                        enable_wandb=args.wandb, 
+                        wandb_project=args.wandb_project,
+                        use_accelerate=args.use_accelerate,
+                        num_gpus=args.num_gpus,
+                        use_fp32=args.use_fp32
+                    )
                 except subprocess.CalledProcessError as e:
                     error_msg = f"Error running baseline experiment for {model} on {task}: {e}"
                     print(error_msg)
