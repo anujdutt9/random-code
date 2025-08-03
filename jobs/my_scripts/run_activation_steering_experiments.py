@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Local experiment runner for cache steering experiments.
-This script parses the YAML configuration and runs experiments locally.
+Local experiment runner for activation steering experiments.
+This script parses the YAML configuration and runs activation steering experiments locally.
 """
 
 import argparse
@@ -182,14 +182,10 @@ def upload_output_files(output_dir, wandb_run, experiment_name):
     print(f"Uploaded {len(uploaded_files)} files to WandB as artifact: {artifact.name}")
 
 
-def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, with_prefix=False, enable_wandb=False,
-                            wandb_project=None):
-    """Run a baseline experiment."""
+def run_activation_steering_experiment(model, task, config, extra_flags, enable_wandb=False, wandb_project=None):
+    """Run an activation steering experiment."""
     model_name = model.split('/')[-1]
-    experiment_name = f"{model_name}_{task}_{eval_type}_baseline"
-
-    if with_prefix:
-        experiment_name += "_prefix"
+    experiment_name = f"{model_name}_{task}_activation_steering"
 
     # Parse extra flags for better logging
     extra_flags_dict = parse_extra_flags(extra_flags)
@@ -204,29 +200,31 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
 
             # Build command first to include in config
             cmd = [
-                "python", "eval_baseline.py",
+                "python", "eval_activation_steering.py",
                 "--model", model,
                 "--task", task,
-                "--num_fewshot_prompt", str(num_fewshot),
-                "--experiment_name", experiment_name,
                 "--device", device,
-                "--eval_type", eval_type,
             ]
 
-            if with_prefix:
-                cmd.extend(["--append_prefix_to_prompt"])
+            # Add config parameters
+            for key, value in config.items():
+                if isinstance(value, bool):
+                    if value:
+                        cmd.append(f"--{key}")
+                    else:
+                        cmd.append(f"--no-{key}")
+                else:
+                    cmd.extend([f"--{key}", str(value)])
 
             if extra_flags:
                 cmd.extend(extra_flags.split())
 
             experiment_config = {
-                "experiment_type": "baseline",
+                "experiment_type": "activation_steering",
                 "model": model,
                 "model_name": model_name,
                 "task": task,
-                "eval_type": eval_type,
-                "with_prefix": with_prefix,
-                "num_fewshot": num_fewshot,
+                "experiment_name": experiment_name,
                 "device": device,
                 "command": " ".join(cmd),
                 "cmd_length": len(cmd),
@@ -237,6 +235,8 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
                 "encoding_method": extra_flags_dict.get("encoding_method", "unknown"),
                 "batch_size": extra_flags_dict.get("batch_size", "unknown"),
                 "output_dir": extra_flags_dict.get("output_dir", "unknown"),
+                # Add config parameters
+                "config": config,
             }
             wandb_run = init_wandb(wandb_project, experiment_name, experiment_config)
             print(f"WandB run initialized: {wandb_run.name}")
@@ -249,17 +249,21 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
 
         # Build command
         cmd = [
-            "python", "eval_baseline.py",
+            "python", "eval_activation_steering.py",
             "--model", model,
             "--task", task,
-            "--num_fewshot_prompt", str(num_fewshot),
-            "--experiment_name", experiment_name,
             "--device", device,
-            "--eval_type", eval_type,
         ]
 
-        if with_prefix:
-            cmd.extend(["--append_prefix_to_prompt"])
+        # Add config parameters
+        for key, value in config.items():
+            if isinstance(value, bool):
+                if value:
+                    cmd.append(f"--{key}")
+                else:
+                    cmd.append(f"--no-{key}")
+            else:
+                cmd.extend([f"--{key}", str(value)])
 
         if extra_flags:
             cmd.extend(extra_flags.split())
@@ -276,6 +280,12 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
             upload_output_files(output_dir, wandb_run, experiment_name)
 
         return output_lines
+    except subprocess.CalledProcessError as e:
+        error_msg = f"Error running activation steering experiment for {model} on {task}: {e}"
+        print(error_msg)
+        if wandb_run:
+            wandb_run.log({"error": error_msg})
+        raise
     finally:
         # Always finish the wandb run
         if wandb_run:
@@ -284,74 +294,74 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Run experiments locally")
-    parser.add_argument("--config", default="jobs/configs/best_args.yaml",
-                        help="Configuration file")
-    parser.add_argument("--experiment-type", choices=["baseline"],
-                        default="baseline", help="Type of experiment to run")
+    parser = argparse.ArgumentParser(description="Run activation steering experiments locally")
+    parser.add_argument("--config", default="jobs/configs/best_args.yaml", 
+                       help="Configuration file")
     parser.add_argument("--task", help="Specific task to run (if not specified, runs all)")
     parser.add_argument("--model", help="Specific model to run (if not specified, runs all)")
-    parser.add_argument("--eval-type", choices=["greedy", "sampling"], default="greedy", help="Type of evaluation to run")
-    parser.add_argument("--extra-flags",
-                        default="--n_runs 1 --encoding_method instruct --batch_size 32 --output_dir my_results/baseline_results",
-                        help="Extra flags to pass to evaluation scripts")
-    parser.add_argument("--prefix", action="store_true", help="Also run with Chain-of-Thought prefix")
-
+    parser.add_argument("--extra-flags", default="--n_runs 1 --eval_type greedy --output_dir my_results/activation_steering_results --experiment_name activation_steering", help="Extra flags to pass to evaluation scripts")
+    parser.add_argument("--dry-run", action="store_true", help="Print commands without running them")
+    
     # WandB arguments
     parser.add_argument("--wandb", action="store_true", help="Enable WandB logging")
     parser.add_argument("--wandb-project", help="WandB project name (uses WANDB_PROJECT env var if not specified)")
     parser.add_argument("--wandb-run-name", help="WandB run name (auto-generated if not specified)")
-
+    
     args = parser.parse_args()
-
+    
     # Check environment
     if not os.environ.get("HF_TOKEN"):
         print("Error: HF_TOKEN environment variable not set")
         sys.exit(1)
-
+    
+    # Load configuration
+    config = load_config(args.config)
+    
     # Define available models and tasks
     all_models = [
         "HuggingFaceTB/SmolLM2-360M-Instruct",
-        "meta-llama/Llama-3.2-1B-Instruct",
+        "meta-llama/Llama-3.2-1B-Instruct", 
         "meta-llama/Llama-3.2-3B-Instruct",
         "meta-llama/Llama-3.1-8B-Instruct",
         "microsoft/Phi-4-mini-instruct",
         "Qwen/Qwen2-0.5B-Instruct"
     ]
-
+    
     all_tasks = ["arc-oai", "csqa-oai", "gsm8k-oai", "piqa-oai"]
-
+    
     # Filter models and tasks
     models = [args.model] if args.model else all_models
     tasks = [args.task] if args.task else all_tasks
-
-    print(f"Running {args.experiment_type} experiments")
+    
+    print(f"Running activation steering experiments")
     print(f"Tasks: {tasks}")
     print(f"Models: {models}")
     print(f"Extra flags: {args.extra_flags}")
-    print(f"With prefix: {args.prefix}")
     print(f"WandB logging: {args.wandb}")
     print("=" * 50)
-
+    
     # Create output directories
-    os.makedirs("my_results/baseline_results", exist_ok=True)
-
+    os.makedirs("my_results/activation_steering_results", exist_ok=True)
+    
     for task in tasks:
         for model in models:
             print(f"\nProcessing {model} on {task}")
-
-            # Run baseline experiments
-            if args.experiment_type in ["baseline", "both"]:
+            
+            # Run activation steering experiments
+            if task in config and model in config[task]:
                 try:
-                    run_baseline_experiment(model, task, args.eval_type, args.extra_flags, with_prefix=args.prefix,
-                                                enable_wandb=args.wandb, wandb_project=args.wandb_project)
+                    if not args.dry_run:
+                        run_activation_steering_experiment(model, task, config[task][model], args.extra_flags, 
+                                                        enable_wandb=args.wandb, wandb_project=args.wandb_project)
                 except subprocess.CalledProcessError as e:
-                    error_msg = f"Error running baseline experiment for {model} on {task}: {e}"
+                    error_msg = f"Error running activation steering experiment for {model} on {task}: {e}"
                     print(error_msg)
-
+            else:
+                print(f"No configuration found for {model} on {task}")
+    
     print("\n" + "=" * 50)
-    print("All experiments completed!")
+    print("All activation steering experiments completed!")
 
 
 if __name__ == "__main__":
-    main()
+    main() 
