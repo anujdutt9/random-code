@@ -272,19 +272,16 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
 
     # Add Accelerate support for model parallelism
     if use_accelerate:
-        # Get the absolute path to the current working directory and Python executable
-        import sys
-        current_dir = os.getcwd()
-        python_executable = sys.executable  # This will be the conda environment Python
-        
-        # Use accelerate launch with the full path to Python executable
-        cmd = ["accelerate", "launch", python_executable, "eval_baseline.py"] + cmd[2:]  # Skip "python eval_baseline.py"
+        # Use accelerate launch with the script path directly
+        cmd = ["accelerate", "launch", "eval_baseline.py"] + cmd[2:]  # Skip "python eval_baseline.py"
         
         # Add Accelerate configuration for model parallelism
         if num_gpus > 1:
             # Set environment variables for Accelerate
             env = os.environ.copy()
-            env["CUDA_VISIBLE_DEVICES"] = ",".join([str(i) for i in range(num_gpus)])
+            
+            # Don't set CUDA_VISIBLE_DEVICES here - let Accelerate handle it
+            # env["CUDA_VISIBLE_DEVICES"] = ",".join([str(i) for i in range(num_gpus)])
             
             # Add Accelerate config flags for model parallelism
             cmd.extend([
@@ -300,9 +297,8 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
                 cmd.extend(["--mixed_precision", "bf16"])
                 print(f"Using BF16 precision with {num_gpus} GPUs for model parallelism")
             
-            print(f"CUDA_VISIBLE_DEVICES: {env['CUDA_VISIBLE_DEVICES']}")
-            print(f"Python executable: {python_executable}")
-            print(f"Working directory: {current_dir}")
+            print(f"Letting Accelerate handle GPU assignment automatically")
+            print(f"Working directory: {os.getcwd()}")
         else:
             # Single GPU with Accelerate
             if use_fp32:
