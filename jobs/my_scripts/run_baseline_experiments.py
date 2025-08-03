@@ -287,6 +287,7 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
             cmd.extend([
                 "--multi_gpu",
                 "--num_processes", str(num_gpus),
+                "--main_process_port", "0",  # Use dynamic port assignment
             ])
             
             # Use FP32 if specified, otherwise use mixed precision
@@ -298,6 +299,7 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
                 print(f"Using BF16 precision with {num_gpus} GPUs for model parallelism")
             
             print(f"Letting Accelerate handle GPU assignment automatically")
+            print(f"Using dynamic port assignment to avoid conflicts")
             print(f"Working directory: {os.getcwd()}")
         else:
             # Single GPU with Accelerate
