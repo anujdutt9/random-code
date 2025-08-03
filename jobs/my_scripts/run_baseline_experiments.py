@@ -204,23 +204,6 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
             import torch
             device = "mps" if torch.backends.mps.is_available() else "cuda" if torch.cuda.is_available() else "cpu"
 
-            # Build command first to include in config
-            cmd = [
-                "python", "eval_baseline.py",
-                "--model", model,
-                "--task", task,
-                "--num_fewshot_prompt", str(num_fewshot),
-                "--experiment_name", experiment_name,
-                "--device", device,
-                "--eval_type", eval_type,
-            ]
-
-            if with_prefix:
-                cmd.extend(["--append_prefix_to_prompt"])
-
-            if extra_flags:
-                cmd.extend(extra_flags.split())
-
             experiment_config = {
                 "experiment_type": "baseline",
                 "model": model,
@@ -230,8 +213,6 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
                 "with_prefix": with_prefix,
                 "num_fewshot": num_fewshot,
                 "device": device,
-                "command": " ".join(cmd),
-                "cmd_length": len(cmd),
                 "extra_flags_raw": extra_flags,
                 "extra_flags": extra_flags_dict,
                 "use_accelerate": use_accelerate,
@@ -248,59 +229,94 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
             print(f"WandB run initialized: {wandb_run.name}")
         except Exception as e:
             print(f"Warning: Failed to initialize WandB for {experiment_name}: {e}")
-    else:
-        # Auto-detect device
-        import torch
-        device = "mps" if torch.backends.mps.is_available() else "cuda" if torch.cuda.is_available() else "cpu"
 
-        # Build command
-        cmd = [
-            "python", "eval_baseline.py",
-            "--model", model,
-            "--task", task,
-            "--num_fewshot_prompt", str(num_fewshot),
-            "--experiment_name", experiment_name,
-            "--device", device,
-            "--eval_type", eval_type,
-        ]
-
-        if with_prefix:
-            cmd.extend(["--append_prefix_to_prompt"])
-
-        if extra_flags:
-            cmd.extend(extra_flags.split())
-
-    # For Accelerate, just run the script normally - Accelerate handles the distribution
+    # Build command using eval_baseline.py's expected arguments ONLY
     if use_accelerate:
-        # Get the absolute path to eval_baseline.py
-        current_dir = os.getcwd()
-        eval_script_path = os.path.join(current_dir, "eval_baseline.py")
-        
-        # Build the script arguments
-        script_args = [
-            "--model", model,
-            "--task", task,
-            "--num_fewshot_prompt", str(num_fewshot),
-            "--experiment_name", experiment_name,
-            "--device", "cuda",  # Use cuda for multi-GPU
-            "--eval_type", eval_type,
-        ]
+        cmd = ["accelerate", "launch"]
 
-        if with_prefix:
-            script_args.extend(["--append_prefix_to_prompt"])
+        # Add Accelerate configuration for model parallelism
+        if num_gpus > 1:
+            # Add Accelerate config flags for model parallelism
+            cmd.extend([
+                "--multi_gpu",
+                "--num_processes", str(num_gpus),
+                "--main_process_port", "0",  # Use dynamic port assignment
+            ])
 
-        if extra_flags:
-            script_args.extend(extra_flags.split())
+            # Use FP32 if specified, otherwise use mixed precision
+            if use_fp32:
+                cmd.extend(["--mixed_precision", "no"])  # No mixed precision = FP32
+                print(f"Using FP32 precision with {num_gpus} GPUs for model parallelism")
+            else:
+                cmd.extend(["--mixed_precision", "bf16"])
+                print(f"Using BF16 precision with {num_gpus} GPUs for model parallelism")
 
-        # Use python with the script path
-        cmd = ["python", eval_script_path] + script_args
-        
-        print(f"Using Accelerate for multi-GPU distribution")
-        print(f"Script path: {eval_script_path}")
-        print(f"Working directory: {current_dir}")
-        env = os.environ.copy()
+            print(f"Letting Accelerate handle GPU assignment automatically")
+            print(f"Using dynamic port assignment to avoid conflicts")
+            print(f"Working directory: {os.getcwd()}")
+        else:
+            # Single GPU with Accelerate
+            if use_fp32:
+                cmd.extend(["--mixed_precision", "no"])
+            else:
+                cmd.extend(["--mixed_precision", "bf16"])
+
+        # Add the script name
+        cmd.append("eval_baseline.py")
     else:
-        env = os.environ.copy()
+        cmd = ["python", "eval_baseline.py"]
+
+    # Add eval_baseline.py arguments (only the ones it accepts)
+    cmd.extend([
+        "--experiment-type", "baseline",
+        "--task", task,
+        "--model", model,
+        "--eval-type", eval_type,
+    ])
+
+    # Build the complete extra flags string
+    all_extra_flags = extra_flags or ""
+
+    # Add num_fewshot if specified
+    if num_fewshot != 0:
+        all_extra_flags += f" --num_fewshot_prompt {num_fewshot}"
+
+    # Add experiment name
+    all_extra_flags += f" --experiment_name {experiment_name}"
+
+    # Add device (auto-detect)
+    import torch
+    if torch.cuda.is_available():
+        device = "cuda"
+    elif hasattr(torch.backends, 'mps') and torch.backends.mps.is_available():
+        device = "mps"
+    else:
+        device = "cpu"
+    all_extra_flags += f" --device {device}"
+
+    # Add the complete extra flags
+    if all_extra_flags.strip():
+        cmd.extend(["--extra-flags", all_extra_flags.strip()])
+
+    # Add prefix if specified
+    if with_prefix:
+        cmd.append("--prefix")
+
+    # Add accelerate and GPU configuration
+    if use_accelerate:
+        cmd.extend(["--use-accelerate", "--num-gpus", str(num_gpus)])
+        if use_fp32:
+            cmd.append("--use-fp32")
+
+    # Add WandB configuration
+    if enable_wandb:
+        cmd.append("--wandb")
+        if wandb_project:
+            cmd.extend(["--wandb-project", wandb_project])
+        if experiment_name:
+            cmd.extend(["--wandb-run-name", experiment_name])
+
+    env = os.environ.copy()
 
     try:
         # Run experiment and capture output
@@ -329,14 +345,15 @@ def main():
                         default="baseline", help="Type of experiment to run")
     parser.add_argument("--task", help="Specific task to run (if not specified, runs all)")
     parser.add_argument("--model", help="Specific model to run (if not specified, runs all)")
-    parser.add_argument("--eval-type", choices=["greedy", "sampling"], default="greedy", help="Type of evaluation to run")
+    parser.add_argument("--eval-type", choices=["greedy", "sampling"], default="greedy",
+                        help="Type of evaluation to run")
     parser.add_argument("--extra-flags",
                         default="--n_runs 1 --encoding_method instruct --batch_size 32 --output_dir my_results/baseline_results",
                         help="Extra flags to pass to evaluation scripts")
     parser.add_argument("--prefix", action="store_true", help="Also run with Chain-of-Thought prefix")
 
     # Multi-GPU support
-    parser.add_argument("--use-accelerate", action="store_true", 
+    parser.add_argument("--use-accelerate", action="store_true",
                         help="Use Hugging Face Accelerate for multi-GPU support")
     parser.add_argument("--num-gpus", type=int, default=2,
                         help="Number of GPUs to use with Accelerate (default: 2)")
@@ -406,9 +423,9 @@ def main():
             if args.experiment_type in ["baseline", "both"]:
                 try:
                     run_baseline_experiment(
-                        model, task, args.eval_type, args.extra_flags, 
+                        model, task, args.eval_type, args.extra_flags,
                         with_prefix=args.prefix,
-                        enable_wandb=args.wandb, 
+                        enable_wandb=args.wandb,
                         wandb_project=args.wandb_project,
                         use_accelerate=args.use_accelerate,
                         num_gpus=args.num_gpus,
