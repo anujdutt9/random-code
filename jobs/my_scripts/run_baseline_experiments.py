@@ -272,18 +272,27 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
 
     # Add Accelerate support for model parallelism
     if use_accelerate:
-        # Use accelerate launch with the script path directly
-        cmd = ["accelerate", "launch", "eval_baseline.py"] + cmd[2:]  # Skip "python eval_baseline.py"
+        # Build the script arguments (without accelerate flags)
+        script_args = [
+            "--model", model,
+            "--task", task,
+            "--num_fewshot_prompt", str(num_fewshot),
+            "--experiment_name", experiment_name,
+            "--device", "cuda",  # Use cuda for multi-GPU
+            "--eval_type", eval_type,
+        ]
+
+        if with_prefix:
+            script_args.extend(["--append_prefix_to_prompt"])
+
+        if extra_flags:
+            script_args.extend(extra_flags.split())
+
+        # Build accelerate command with separate accelerate flags
+        cmd = ["accelerate", "launch"]
         
-        # Add Accelerate configuration for model parallelism
+        # Add Accelerate configuration flags
         if num_gpus > 1:
-            # Set environment variables for Accelerate
-            env = os.environ.copy()
-            
-            # Don't set CUDA_VISIBLE_DEVICES here - let Accelerate handle it
-            # env["CUDA_VISIBLE_DEVICES"] = ",".join([str(i) for i in range(num_gpus)])
-            
-            # Add Accelerate config flags for model parallelism
             cmd.extend([
                 "--multi_gpu",
                 "--num_processes", str(num_gpus),
@@ -297,17 +306,22 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
             else:
                 cmd.extend(["--mixed_precision", "bf16"])
                 print(f"Using BF16 precision with {num_gpus} GPUs for model parallelism")
-            
-            print(f"Letting Accelerate handle GPU assignment automatically")
-            print(f"Using dynamic port assignment to avoid conflicts")
-            print(f"Working directory: {os.getcwd()}")
         else:
             # Single GPU with Accelerate
             if use_fp32:
                 cmd.extend(["--mixed_precision", "no"])
             else:
                 cmd.extend(["--mixed_precision", "bf16"])
-            env = os.environ.copy()
+        
+        # Add the script and its arguments
+        cmd.extend(["eval_baseline.py"] + script_args)
+        
+        # Set environment variables for Accelerate
+        env = os.environ.copy()
+        
+        print(f"Letting Accelerate handle GPU assignment automatically")
+        print(f"Using dynamic port assignment to avoid conflicts")
+        print(f"Working directory: {os.getcwd()}")
     else:
         env = os.environ.copy()
 
