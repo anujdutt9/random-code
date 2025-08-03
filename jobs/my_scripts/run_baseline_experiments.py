@@ -172,9 +172,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# python eval_baseline.py --model HuggingFaceTB/SmolLM2-360M-Instruct --task arc-oai
-# --num_fewshot_prompt 0 --experiment_name SmolLM2-360M-Instruct_arc-oai_baseline
-# --device cuda --n_runs 1 --encoding_method instruct --eval_type greedy
-# --batch_size 32 --output_dir my_results/baseline_results
