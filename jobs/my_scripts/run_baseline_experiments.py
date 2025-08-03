@@ -292,8 +292,8 @@ def run_baseline_experiment(model, task, eval_type, extra_flags, num_fewshot=0, 
         if extra_flags:
             script_args.extend(extra_flags.split())
 
-        # Use absolute path to the script
-        cmd = [eval_script_path] + script_args
+        # Use python with the script path
+        cmd = ["python", eval_script_path] + script_args
         
         print(f"Using Accelerate for multi-GPU distribution")
         print(f"Script path: {eval_script_path}")
